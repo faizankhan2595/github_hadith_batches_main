@@ -1,0 +1,939 @@
+{
+  "batch_number": 2,
+  "file_number": 53,
+  "processed_count": 15,
+  "hadiths": [
+    {
+      "english_translation": "Narrated from Malik: It reached me that Umar ibn al-Khattab said: 'A tent at Rukbah is more beloved to me than ten tents in al-Sham.' Malik said: He meant because of the long lifespans and survival, and because of the severity of the plague in al-Sham.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown Intermediary",
+              "full_name": "Unknown - Malik uses balagha form",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "Unknown intermediary",
+                "mursal"
+              ]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal chain with unknown intermediary",
+            "Mawquf (stopped at companion)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Unknown -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - unknown intermediary",
+          "impact": "Chain is disconnected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Preference for Living in Rukbah over al-Sham",
+        "Plague in al-Sham"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّهُ قَالَ : بَلَغَنِي ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، قَالَ : \" لَبَيْتٌ بِرُكْبَةَ أَحَبُّ إِلَيَّ مِنْ عَشَرَةِ أَبْيَاتٍ بِالشَّامِ \" . قَالَ مَالِك : يُرِيدُ لِطُولِ الْأَعْمَارِ وَالْبَقَاءِ وَلِشِدَّةِ الْوَبَإِ بِالشَّامِ * 471 كِتَابُ الْقَدَرِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "2077",
+      "grade": "Mawquf with Disconnected Chain",
+      "hadith_id": 9781
+    },
+    {
+      "english_translation": "Chapter: The Prohibition of Speaking about Divine Decree",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ النَّهْيِ عَنِ الْقَوْلِ بِالْقَدَرِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "2078",
+      "grade": "Chapter Heading",
+      "hadith_id": 9782
+    },
+    {
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Adam and Musa debated, and Adam prevailed over Musa. Musa said: You are Adam who misled people and expelled them from Paradise. Adam said: You are Musa whom Allah gave knowledge and chose over people with His message? He said: Yes. Adam said: Do you blame me for a matter decreed upon me before I was created?' [Second narration:] Muslim ibn Yasar reported that Umar ibn al-Khattab was asked about the verse 'And when your Lord took from the children of Adam...' [Al-A'raf 7:172]. Umar said: I heard the Messenger of Allah ﷺ being asked about it. The Messenger of Allah ﷺ said: 'Allah created Adam, then wiped his back with His right hand and extracted progeny, saying: I created these for Paradise and they will do deeds of Paradise people. Then He extracted another progeny saying: I created these for Fire and they will do deeds of Fire people.' A man asked: O Messenger of Allah, what is the point of deeds? The Messenger of Allah ﷺ said: 'When Allah creates a servant for Paradise, He employs him in Paradise deeds until he dies on such a deed, then admits him to Paradise. When He creates a servant for Fire, He employs him in Fire deeds until he dies on such a deed, then admits him to Fire.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan al-Qurashi Abu al-Zinad",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Abi Unaysah",
+              "full_name": "Zayd ibn Abi Unaysah al-Jazari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Hamid ibn Abd al-Rahman",
+              "full_name": "Abd al-Hamid ibn Abd al-Rahman ibn Zayd ibn al-Khattab",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muslim ibn Yasar",
+              "full_name": "Muslim ibn Yasar al-Juhani al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Abd al-Hamid is Saduq (not Thiqah)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet ﷺ",
+        "Yahya -> Malik -> Zayd ibn Abi Unaysah -> Abd al-Hamid -> Muslim ibn Yasar -> Umar -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain uses 'an multiple times",
+          "impact": "Minimal - golden chain of Malik"
+        },
+        {
+          "issue": "Second chain has Abd al-Hamid as Saduq",
+          "impact": "Slight weakness but acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Debate between Adam and Musa about Divine Decree",
+        "Predestination and Human Actions",
+        "Explanation of Quran 7:172",
+        "Creation for Paradise or Fire"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" تَحَاجَّ آدَمُ ، وَمُوسَى فَحَجَّ آدَمُ ، مُوسَى ، قَالَ لَهُ مُوسَى : أَنْتَ آدَمُ الَّذِي أَغْوَيْتَ النَّاسَ وَأَخْرَجْتَهُمْ مِنَ الْجَنَّةِ ، فَقَالَ لَهُ آدَمُ : أَنْتَ مُوسَى الَّذِي أَعْطَاهُ اللَّهُ عِلْمَ كُلِّ شَيْءٍ وَاصْطَفَاهُ عَلَى النَّاسِ بِرِسَالَتِهِ ؟ قَالَ : نَعَمْ ، قَالَ : أَفَتَلُومُنِي عَلَى أَمْرٍ قَدْ قُدِّرَ عَلَيَّ قَبْلَ أَنْ أُخْلَقَ ؟ \" * 1597 1600 وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ ، عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ أَنَّهُ أَخْبَرَهُ ، عَنْ مُسْلِمِ بْنِ يَسَارٍ الْجُهَنِيِّ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ سُئِلَ عَنْ هَذِهِ الْآيَةِ : وَإِذْ أَخَذَ رَبُّكَ مِنْ بَنِي آدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَأَشْهَدَهُمْ عَلَى أَنْفُسِهِمْ أَلَسْتُ بِرَبِّكُمْ قَالُوا بَلَى شَهِدْنَا أَنْ تَقُولُوا يَوْمَ الْقِيَامَةِ إِنَّا كُنَّا عَنْ هَذَا غَافِلِينَ سورة الأعراف آية 172 ، فَقَالَ عُمَرُ بْنُ الْخَطَّابِ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُسْأَلُ عَنْهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى خَلَقَ آدَمَ ثُمَّ مَسَحَ ظَهْرَهُ بِيَمِينِهِ فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً ، فَقَالَ : \" خَلَقْتُ هَؤُلَاءِ لِلْجَنَّةِ وَبِعَمَلِ أَهْلِ الْجَنَّةِ يَعْمَلُونَ \" ، ثُمَّ مَسَحَ ظَهْرَهُ فَاسْتَخْرَجَ مِنْهُ ذُرِّيَّةً ، فَقَالَ : \" خَلَقْتُ هَؤُلَاءِ لِلنَّارِ وَبِعَمَلِ أَهْلِ النَّارِ يَعْمَلُونَ \" ، فَقَالَ رَجُلٌ : يَا رَسُولَ اللَّهِ ، فَفِيمَ الْعَمَلُ ؟ قَالَ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّ اللَّهَ إِذَا خَلَقَ الْعَبْدَ لِلْجَنَّةِ اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ الْجَنَّةِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ الْجَنَّةِ فَيُدْخِلُهُ رَبُّهُ الْجَنَّةَ ، وَإِذَا خَلَقَ الْعَبْدَ لِلنَّارِ اسْتَعْمَلَهُ بِعَمَلِ أَهْلِ النَّارِ حَتَّى يَمُوتَ عَلَى عَمَلٍ مِنْ أَعْمَالِ أَهْلِ النَّارِ فَيُدْخِلُهُ رَبُّهُ النَّارَ \" * 472 1598 1601",
+      "collection": "Muwatta Malik",
+      "reference_number": "2079",
+      "grade": "Sahih",
+      "hadith_id": 9783
+    },
+    {
+      "english_translation": "Narrated from Malik: It reached him that the Messenger of Allah ﷺ said: 'I have left among you two matters - you will never go astray as long as you hold fast to them: the Book of Allah and the Sunnah of His Prophet.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown",
+              "full_name": "Unknown intermediaries",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Completely disconnected mursal chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Unknown -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain with unknown intermediaries",
+          "impact": "Chain is broken"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Adherence to Quran and Sunnah",
+        "Sources of Guidance"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" تَرَكْتُ فِيكُمْ أَمْرَيْنِ لَنْ تَضِلُّوا مَا تَمَسَّكْتُمْ بِهِمَا : كِتَابَ اللَّهِ ، وَسُنَّةَ نَبِيِّهِ \" * 1599 1602",
+      "collection": "Muwatta Malik",
+      "reference_number": "2080",
+      "grade": "Mursal (Disconnected)",
+      "hadith_id": 9784
+    },
+    {
+      "english_translation": "Narrated by Tawus al-Yamani: I met people from the Companions who said: Everything is by divine decree. Tawus said: I heard Abdullah ibn Umar say: The Messenger of Allah ﷺ said: 'Everything is by divine decree, even incapacity and capability.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ziyad ibn Sa'd",
+              "full_name": "Ziyad ibn Sa'd al-Khurasani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Muslim",
+              "full_name": "Amr ibn Muslim ibn Ukht Tawus",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Tawus",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Amr ibn Muslim is Saduq"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ziyad -> Amr ibn Muslim -> Tawus -> Ibn Umar -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Amr ibn Muslim is Saduq, not Thiqah",
+          "impact": "Slight weakness"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Everything by Divine Decree",
+        "Qadar includes Capability and Incapacity"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ زِيَادِ بْنِ سَعْدٍ ، عَنْ عَمْرِو بْنِ مُسْلِمٍ ، عَنْ طَاوُسٍ الْيَمَانِيِّ ، أَنَّهُ قَالَ : أَدْرَكْتُ نَاسًا مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُونَ : كُلُّ شَيْءٍ بِقَدَرٍ ، قَالَ طَاوُسٌ : وَسَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" كُلُّ شَيْءٍ بِقَدَرٍ حَتَّى الْعَجْزِ وَالْكَيْسِ أَوِ الْكَيْسِ وَالْعَجْزِ \" * 1600 1603",
+      "collection": "Muwatta Malik",
+      "reference_number": "2081",
+      "grade": "Hasan",
+      "hadith_id": 9785
+    },
+    {
+      "english_translation": "Narrated by Amr ibn Dinar: I heard Abdullah ibn al-Zubayr in a sermon say: 'Allah is more beloved to me than to be disobedient to Him while in prosperity, than to be obedient to Him while in hardship.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ziyad ibn Sa'd",
+              "full_name": "Ziyad ibn Sa'd al-Khurasani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Dinar",
+              "full_name": "Amr ibn Dinar al-Makki al-Jumahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn al-Zubayr",
+              "full_name": "Abdullah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ziyad -> Amr ibn Dinar -> Ibn al-Zubayr"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Statement of Ibn al-Zubayr about Obedience in Different Circumstances"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ زِيَادِ بْنِ سَعْدٍ ، عَنْ عَمْرِو بْنِ دِينَارٍ ، أَنَّهُ قَالَ : سَمِعْتُ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ ، يَقُولُ فِي خُطْبَتِهِ : \" إِنَّ اللَّهَ هُوَ الْهَادِي وَالْفَاتِنُ \" * 1601 1604",
+      "collection": "Muwatta Malik",
+      "reference_number": "2082",
+      "grade": "Sahih Mawquf",
+      "hadith_id": 9786
+    },
+    {
+      "english_translation": "Narrated by Abu Suhayl ibn Malik: I was traveling with Umar ibn Abd al-Aziz. He said: 'What is your opinion about so-and-so and so-and-so who speak about the Qadar?' I said: May Allah forgive the Commander of the Faithful! They are people of your lands and your subjects. He said: 'I asked you only to tell me.' I said: I see that they should be summoned and asked to repent. If they repent, good; otherwise they should be killed.'",
+      "chains": [
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Suhayl ibn Malik",
+              "full_name": "Nafi' ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Abd al-Aziz",
+              "full_name": "Umar ibn Abd al-Aziz ibn Marwan",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu Suhayl -> Umar ibn Abd al-Aziz"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Umar ibn Abd al-Aziz asking about People of Qadar",
+        "Discussion on Punishment for Qadariyyah"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَمِّهِ أَبِي سُهَيْلِ بْنِ مَالِكٍ ، أَنَّهُ قَالَ : كُنْتُ أَسِيرُ مَعَ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، فَقَالَ : \" مَا رَأْيُكَ فِي هَؤُلَاءِ الْقَدَرِيَّةِ ؟ فَقُلْتُ : رَأْيِي أَنْ تَسْتَتِيبَهُمْ فَإِنْ تَابُوا وَإِلَّا عَرَضْتَهُمْ عَلَى السَّيْفِ ، فَقَالَ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ : \" وَذَلِكَ رَأْيِي \" . قَالَ مَالِك : وَذَلِكَ رَأْيِي * ! 473",
+      "collection": "Muwatta Malik",
+      "reference_number": "2083",
+      "grade": "Sahih Athar",
+      "hadith_id": 9787
+    },
+    {
+      "english_translation": "Chapter: Comprehensive Account of What Has Come Regarding the People of Qadar",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ جَامِعِ مَا جَاءَ فِي أَهْلِ الْقَدَرِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "2084",
+      "grade": "Chapter Heading",
+      "hadith_id": 9788
+    },
+    {
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'The strong believer is better and more beloved to Allah than the weak believer, though there is good in both. Be keen on what benefits you, seek Allah's help, and do not be incapacitated. If something befalls you, do not say: If only I had done such-and-such. Rather say: Allah has decreed, and what He wills He does. For indeed, if only opens the door for Satan's work.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Virtue of Strong Believer",
+        "Seeking What Benefits",
+        "Prohibition of Saying If Only",
+        "Submission to Divine Decree"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا تَسْأَلِ الْمَرْأَةُ طَلَاقَ أُخْتِهَا لِتَسْتَفْرِغَ صَحْفَتَهَا وَلِتَنْكِحَ ، فَإِنَّمَا لَهَا مَا قُدِّرَ لَهَا \" * 1603 1606",
+      "collection": "Muwatta Malik",
+      "reference_number": "2085",
+      "grade": "Sahih",
+      "hadith_id": 9789
+    },
+    {
+      "english_translation": "Narrated by Muhammad ibn Ka'b al-Qurazi: Muawiyah ibn Abi Sufyan prayed two rakahs after Asr prayer, upon which a man from the Banu Abd al-Dar stood and said: Who will tell the Commander of the Faithful that he prayed two rakahs after Asr while he himself has forbidden it, and has issued threats about it? When Muawiyah finished his prayer, the man came to him and informed him. Muawiyah said: My paternal uncle's son - meaning the man who informed him - you spoke the truth. Were it not that I saw the Messenger of Allah ﷺ praying them, I would not have prayed them. The man said: Then why do you forbid people from them and threaten them? He said: I am unable to abandon something I saw the Messenger of Allah ﷺ do, and I am unable to allow people to do it.",
+      "chains": [
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yazid ibn Ziyad",
+              "full_name": "Yazid ibn Ziyad al-Madani",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Has some errors"
+              ]
+            },
+            {
+              "name": "Muhammad ibn Ka'b",
+              "full_name": "Muhammad ibn Ka'b al-Qurazi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muawiyah ibn Abi Sufyan",
+              "full_name": "Muawiyah ibn Abi Sufyan ibn Harb",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Yazid ibn Ziyad is Saduq with some errors"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yazid ibn Ziyad -> Muhammad ibn Ka'b -> Muawiyah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Yazid ibn Ziyad is Saduq Lahu Awham (has errors)",
+          "impact": "Some weakness in precision"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Muawiyah praying two Rakahs after Asr",
+        "Muawiyah seeing Prophet ﷺ pray after Asr",
+        "Tension between Following Prophet's Practice and Public Prohibition"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَزِيدَ بْنِ زِيَادٍ ، عَنْ مُحَمَّدِ بْنِ كَعْبٍ الْقُرَظِيِّ ، قَالَ : قَالَ مُعَاوِيَةُ بْنُ أَبِي سُفْيَانَ وَهُوَ عَلَى الْمِنْبَرِ : أَيُّهَا النَّاسُ إِنَّهُ \" لَا مَانِعَ لِمَا أَعْطَى اللَّهُ ، وَلَا مُعْطِيَ لِمَا مَنَعَ اللَّهُ ، وَلَا يَنْفَعُ ذَا الْجَدِّ مِنْهُ الْجَدُّ ، مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ \" . ثُمَّ قَالَ مُعَاوِيَةُ : سَمِعْتُ هَؤُلَاءِ الْكَلِمَاتِ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى هَذِهِ الْأَعْوَادِ . وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، أَنَّهُ بَلَغَهُ ، أَنَّهُ كَانَ يُقَالُ : الْحَمْدُ لِلَّهِ الَّذِي خَلَقَ كُلَّ شَيْءٍ كَمَا يَنْبَغِي ، الَّذِي لَا يَعْجَلُ شَيْءٌ أَنَاهُ وَقَدَّرَهُ ، حَسْبِيَ اللَّهُ وَكَفَى سَمِعَ اللَّهُ لِمَنْ دَعَا ، لَيْسَ وَرَاءَ اللَّهِ مَرْمَى . وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّهُ بَلَغَهُ ، أَنَّهُ كَانَ يُقَالُ : إِنَّ أَحَدًا لَنْ يَمُوتَ حَتَّى يَسْتَكْمِلَ رِزْقَهُ فَأَجْمِلُوا فِي الطَّلَبِ * كِتَابُ حُسْنِ الْخُلُقِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "2086",
+      "grade": "Hasan",
+      "hadith_id": 9790
+    },
+    {
+      "english_translation": "Chapter: What Has Come Regarding Good Character",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ مَا جَاءَ فِي حُسْنِ الْخُلُقِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "2087",
+      "grade": "Chapter Heading",
+      "hadith_id": 9791
+    },
+    {
+      "english_translation": "Narrated from Malik that Muadh ibn Jabal said: The last thing the Messenger of Allah ﷺ advised me when I put my foot in the stirrup to go to Yemen was: 'Make things easy for people and do not make things difficult. Give people glad tidings and do not drive them away. And have good character with people.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown",
+              "full_name": "Unknown intermediaries",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "mursal"
+              ]
+            },
+            {
+              "name": "Muadh ibn Jabal",
+              "full_name": "Muadh ibn Jabal ibn Amr al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - no intermediary named between Malik and Muadh"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Unknown -> Muadh ibn Jabal -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain with unknown intermediaries",
+          "impact": "Chain is disconnected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Prophet's Advice to Muadh when Sending to Yemen",
+        "Making Things Easy",
+        "Good Character with People"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّ مُعَاذَ بْنَ جَبَلٍ ، قَالَ : آخِرُ مَا أَوْصَانِي بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِينَ وَضَعْتُ رِجْلِي فِي الْغَرْزِ ، أَنْ قَالَ : \" أَحْسِنْ خُلُقَكَ لِلنَّاسِ يَا مُعَاذُ بْنَ جَبَلٍ \" * 1605 1608 وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ ، عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهَا قَالَتْ : \" مَا خُيِّرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أَمْرَيْنِ قَطُّ ، إِلَّا أَخَذَ أَيْسَرَهُمَا مَا لَمْ يَكُنْ إِثْمًا ، فَإِنْ كَانَ إِثْمًا كَانَ أَبْعَدَ النَّاسِ مِنْهُ ، وَمَا انْتَقَمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِنَفْسِهِ ، إِلَّا أَنْ تُنْتَهَكَ حُرْمَةُ اللَّهِ فَيَنْتَقِمُ لِلَّهِ بِهَا \" * 474 1606 1609",
+      "collection": "Muwatta Malik",
+      "reference_number": "2088",
+      "grade": "Mursal",
+      "hadith_id": 9792
+    },
+    {
+      "english_translation": "Narrated from Ibn Shihab, from Ali ibn Husayn ibn Ali ibn Abi Talib: The Messenger of Allah ﷺ said: 'Part of the excellence of a person's Islam is leaving alone what does not concern him.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Known mudallis category 3, but highly reliable"
+              ]
+            },
+            {
+              "name": "Ali ibn Husayn",
+              "full_name": "Ali ibn Husayn ibn Ali ibn Abi Talib Zayn al-Abidin",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Ali ibn Husayn did not meet the Prophet ﷺ",
+            "Al-Zuhri is using 'an and is a known mudallis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Ali ibn Husayn -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal - Ali ibn Husayn was born after Prophet's death",
+          "impact": "Chain is disconnected"
+        },
+        {
+          "issue": "Al-Zuhri uses 'an and is classified as mudallis (category 3)",
+          "impact": "Though highly reliable, indirect transmission noted"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Excellence of Leaving What Does Not Concern One",
+        "Islamic Manners"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عَلِيِّ بْنِ حُسَيْنِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مِنْ حُسْنِ إِسْلَامِ الْمَرْءِ تَرْكُهُ مَا لَا يَعْنِيهِ \" * 1607 1610",
+      "collection": "Muwatta Malik",
+      "reference_number": "2089",
+      "grade": "Mursal",
+      "hadith_id": 9793
+    },
+    {
+      "english_translation": "Narrated from Malik: It reached him from Aisha, wife of the Prophet ﷺ, that she said: A man sought permission to enter upon the Messenger of Allah ﷺ. The Messenger of Allah ﷺ said: 'Let him in, what an evil brother of his tribe, or what an evil son of his tribe.' When the man entered, the Messenger of Allah ﷺ spoke to him kindly. Aisha said: O Messenger of Allah, you said what you said, then you spoke kindly to him? The Messenger of Allah ﷺ said: 'O Aisha, indeed the worst of people in station with Allah on the Day of Resurrection is one whom people avoid or leave off due to fear of his foul speech.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown",
+              "full_name": "Unknown intermediaries",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal"
+              ]
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - unknown intermediaries between Malik and Aisha"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Unknown -> Aisha -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain with unknown intermediaries",
+          "impact": "Chain is disconnected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Man Seeking Permission to Enter upon Prophet ﷺ",
+        "Prophet's Kind Treatment Despite Criticism",
+        "Worst People are Those Avoided Due to Foul Speech",
+        "Good Character in Dealing with Difficult People"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهَا قَالَتْ : اسْتَأْذَنَ رَجُلٌ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَتْ عَائِشَةُ : وَأَنَا مَعَهُ فِي الْبَيْتِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" بِئْسَ ابْنُ الْعَشِيرَةِ \" ، ثُمَّ أَذِنَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَتْ عَائِشَةُ : فَلَمْ أَنْشَبْ أَنْ سَمِعْتُ ضَحِكَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَعَهُ فَلَمَّا خَرَجَ الرَّجُلُ ، قُلْتُ : يَا رَسُولَ اللَّهِ ، قُلْتَ فِيهِ مَا قُلْتَ ، ثُمَّ لَمْ تَنْشَبْ أَنْ ضَحِكْتَ مَعَهُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّ \" مِنْ شَرِّ النَّاسِ مَنِ اتَّقَاهُ النَّاسُ لِشَرِّهِ \" * 1608 1611",
+      "collection": "Muwatta Malik",
+      "reference_number": "2090",
+      "grade": "Mursal",
+      "hadith_id": 9794
+    },
+    {
+      "english_translation": "Narrated by Abu Suhayl ibn Malik, from his father, from Ka'b al-Ahbar: He said: 'If Allah loves a servant, He afflicts him. If he is patient, He chooses him. If he is content, He makes him one of the elect.'",
+      "chains": [
+        {
+          "type": "maqtu' (statement of Tabi'i)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Suhayl",
+              "full_name": "Nafi' ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik (his father)",
+              "full_name": "Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ka'b al-Ahbar",
+              "full_name": "Ka'b ibn Mati' al-Himyari al-Yamani",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Known for Israiliyyat (Jewish traditions)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Statement of Ka'b al-Ahbar, not from Prophet ﷺ",
+            "Ka'b was known for narrating Israiliyyat"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu Suhayl -> Malik (father) -> Ka'b al-Ahbar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a statement of Ka'b al-Ahbar, not from the Prophet ﷺ",
+          "impact": "Not a prophetic hadith"
+        },
+        {
+          "issue": "Ka'b al-Ahbar was known for narrating Israiliyyat (traditions from Jewish sources)",
+          "impact": "Content may be from non-Islamic sources"
+        }
+      ],
+      "IISGrade": "N/A - Not Prophetic Hadith",
+      "Topics": [
+        "Statement of Ka'b al-Ahbar about Divine Love and Affliction",
+        "Patience and Contentment with Divine Decree"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَمِّهِ أَبِي سُهَيْلِ بْنِ مَالِكٍ ، عَنْ أَبِيهِ ، عَنْ كَعْبِ الْأَحْبَارِ ، أَنَّهُ قَالَ : \" إِذَا أَحْبَبْتُمْ أَنْ تَعْلَمُوا مَا لِلْعَبْدِ عِنْدَ رَبِّهِ ، فَانْظُرُوا مَاذَا يَتْبَعُهُ مِنْ حُسْنِ الثَّنَاءِ ؟ \" * 1609 1612",
+      "collection": "Muwatta Malik",
+      "reference_number": "2091",
+      "grade": "Maqtu' (Statement of Tabi'i)",
+      "hadith_id": 9795
+    }
+  ]
+}

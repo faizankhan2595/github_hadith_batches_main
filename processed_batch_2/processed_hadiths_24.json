@@ -1,0 +1,487 @@
+{
+  "batch_number": 2,
+  "file_number": 24,
+  "processed_count": 9,
+  "hadiths": [
+    {
+      "hadith_id": 9346,
+      "original_hadith_number": 1642,
+      "collection": "Muwatta Malik",
+      "arabicText": "قَالَ مَالِك : عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنِ النَّجْشِ \" . قَالَ مَالِك : وَالنَّجْشُ : أَنْ تُعْطِيَهُ بِسِلْعَتِهِ أَكْثَرَ مِنْ ثَمَنِهَا ، وَلَيْسَ فِي نَفْسِكَ اشْتِرَاؤُهَا ، فَيَقْتَدِي بِكَ غَيْرُكَ",
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ forbade najsh (artificial price inflation). Malik said: Najsh is when you offer him for his merchandise more than its price, while you do not intend to buy it, so that others follow your example.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Use of 'an (عَنْ) between Nafi' and Abdullah ibn Umar, but both are highly reliable and direct connection is well-established"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The transmission term 'an (عَنْ) is used between Nafi' and Abdullah ibn Umar",
+          "impact": "Minimal - Nafi' is known for his strong and direct connection to Ibn Umar. This is one of the most famous and reliable chains in hadith literature (the golden chain of Malik from Nafi' from Ibn Umar). Both narrators are of the highest caliber of reliability."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Najsh in Commercial Transactions",
+        "Artificial Price Inflation in Markets",
+        "Forbidden Practices in Trade"
+      ]
+    },
+    {
+      "hadith_id": 9348,
+      "original_hadith_number": 1644,
+      "collection": "Muwatta Malik",
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّ رَجُلًا ذَكَرَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ يُخْدَعُ فِي الْبُيُوعِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِذَا بَايَعْتَ ، فَقُلْ : لَا خِلَابَةَ \" . قَالَ : فَكَانَ الرَّجُلُ إِذَا بَايَعَ ، يَقُولُ : لَا خِلَابَةَ",
+      "english_translation": "Narrated by Abdullah ibn Umar: A man mentioned to the Messenger of Allah ﷺ that he was being deceived in transactions. The Messenger of Allah ﷺ said: 'When you make a transaction, say: No deception (la khilabah).' So the man, whenever he made a transaction, would say: 'No deception.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Madani mawla Ibn Umar",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Use of 'an (عَنْ) between narrators, but all are highly reliable with well-established connections"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The transmission term 'an (عَنْ) is used between Malik and Abdullah ibn Dinar, and between Abdullah ibn Dinar and Abdullah ibn Umar",
+          "impact": "Minimal - Both Abdullah ibn Dinar and Malik are highly reliable narrators. Abdullah ibn Dinar was one of the freed slaves of Ibn Umar's family and had direct and strong connection to Abdullah ibn Umar. This is a well-known and reliable chain."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a man who was deceived in transactions",
+        "Protection from deception in trade",
+        "Supplication when making transactions"
+      ]
+    },
+    {
+      "hadith_id": 9349,
+      "original_hadith_number": 1645,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ ، يَقُولُ : \" إِذَا جِئْتَ أَرْضًا يُوفُونَ الْمِكْيَالَ وَالْمِيزَانَ ، فَأَطِلِ الْمُقَامَ بِهَا ، وَإِذَا جِئْتَ أَرْضًا يُنَقِّصُونَ الْمِكْيَالَ وَالْمِيزَانَ ، فَأَقْلِلِ الْمُقَامَ بِهَا \"",
+      "english_translation": "Narrated from Sa'id ibn al-Musayyib: He said: 'If you come to a land where they give full measure and weight, then prolong your stay there. And if you come to a land where they give short measure and weight, then shorten your stay there.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyib (statement stops at Sa'id)"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Advice about choosing places to reside",
+        "Importance of honest scales and measures",
+        "Avoiding lands with dishonest traders"
+      ]
+    },
+    {
+      "hadith_id": 9350,
+      "original_hadith_number": 1646,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ سَمِعَ مُحَمَّدَ بْنَ الْمُنْكَدِرِ ، يَقُولُ : \" أَحَبَّ اللَّهُ عَبْدًا سَمْحًا إِنْ بَاعَ ، سَمْحًا إِنِ ابْتَاعَ ، سَمْحًا إِنْ قَضَى ، سَمْحًا إِنِ اقْتَضَى \"",
+      "english_translation": "Narrated from Muhammad ibn al-Munkadir: He said: 'Allah loves a servant who is generous when he sells, generous when he buys, generous when he pays, and generous when he collects payment.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn al-Munkadir",
+              "full_name": "Muhammad ibn al-Munkadir ibn Abdullah al-Taymi al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id -> Muhammad ibn al-Munkadir (statement stops at Muhammad ibn al-Munkadir)"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Generosity in business transactions",
+        "Good character in buying and selling",
+        "Characteristics beloved to Allah in trade"
+      ]
+    },
+    {
+      "hadith_id": 9352,
+      "original_hadith_number": 1648,
+      "collection": "Muwatta Malik",
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ أَبِيهِ ، أَنَّهُ قَالَ : خَرَجَ عَبْدُ اللَّهِ ، وَعُبَيْدُ اللَّهِ ابْنَا عُمَرَ بْنِ الْخَطَّابِ فِي جَيْشٍ إِلَى الْعِرَاقِ ، فَلَمَّا قَفَلَا مَرَّا عَلَى أَبِي مُوسَى الْأَشْعَرِيِّ وَهُوَ أَمِيرُ الْبَصْرَةِ ، فَرَحَّبَ بِهِمَا وَسَهَّلَ ، ثُمَّ قَالَ : لَوْ أَقْدِرُ لَكُمَا عَلَى أَمْرٍ أَنْفَعُكُمَا بِهِ لَفَعَلْتُ ، ثُمَّ قَالَ : بَلَى هَاهُنَا مَالٌ مِنْ مَالِ اللَّهِ أُرِيدُ أَنْ أَبْعَثَ بِهِ إِلَى أَمِيرِ الْمُؤْمِنِينَ فَأُسْلِفُكُمَاهُ فَتَبْتَاعَانِ بِهِ مَتَاعًا مِنْ مَتَاعِ الْعِرَاقِ ، ثُمَّ تَبِيعَانِهِ بِالْمَدِينَةِ ، فَتُؤَدِّيَانِ رَأْسَ الْمَالِ إِلَى أَمِيرِ الْمُؤْمِنِينَ وَيَكُونُ الرِّبْحُ لَكُمَا . فَقَالَا : وَدِدْنَا ذَلِكَ . فَفَعَلَ ، وَكَتَبَ إِلَى عُمَرَ بْنِ الْخَطَّابِ أَنْ يَأْخُذَ مِنْهُمَا الْمَالَ ، فَلَمَّا قَدِمَا بَاعَا فَأُرْبِحَا ، فَلَمَّا دَفَعَا ذَلِكَ إِلَى عُمَرَ ، قَالَ : \" أَكُلُّ الْجَيْشِ أَسْلَفَهُ مِثْلَ مَا أَسْلَفَكُمَا ؟ \" قَالَا : لَا . فَقَالَ عُمَرُ بْنُ الْخَطَّابِ : \" ابْنَا أَمِيرِ الْمُؤْمِنِينَ ، فَأَسْلَفَكُمَا أَدِّيَا الْمَالَ وَرِبْحَهُ \" . فَأَمَّا عَبْدُ اللَّهِ فَسَكَتَ ، وَأَمَّا عُبَيْدُ اللَّهِ ، فَقَالَ : مَا يَنْبَغِي لَكَ يَا أَمِيرَ الْمُؤْمِنِينَ هَذَا ، لَوْ نَقَصَ هَذَا الْمَالُ أَوْ هَلَكَ لَضَمِنَّاهُ . فَقَالَ عُمَرُ : \" أَدِّيَاهُ \" . فَسَكَتَ عَبْدُ اللَّهِ وَرَاجَعَهُ عُبَيْدُ اللَّهِ ، فَقَالَ رَجُلٌ مِنْ جُلَسَاءِ عُمَرَ : يَا أَمِيرَ الْمُؤْمِنِينَ ، لَوْ جَعَلْتَهُ قِرَاضًا . فَقَالَ عُمَرُ \" قَدْ جَعَلْتُهُ قِرَاضًا \" . فَأَخَذَ عُمَرُ رَأْسَ الْمَالِ وَنِصْفَ رِبْحِهِ ، وَأَخَذَ عَبْدُ اللَّهِ ، وَعُبَيْدُ اللَّهِ ابْنَا عُمَرَ بْنِ الْخَطَّابِ نِصْفَ رِبْحِ الْمَالِ",
+      "english_translation": "Narrated from Aslam (father of Zayd ibn Aslam): Abdullah and Ubaydullah, the two sons of Umar ibn al-Khattab, went out with an army to Iraq. When they returned, they passed by Abu Musa al-Ash'ari, who was the governor of Basra. He welcomed them warmly and said: 'If I could do something beneficial for you both, I would.' Then he said: 'Indeed, here is wealth from the wealth of Allah that I want to send to the Commander of the Faithful. I will lend it to you both so you can buy goods from Iraq, then sell them in Madinah. You will return the capital to the Commander of the Faithful and the profit will be yours.' They said: 'We would like that.' So he did that and wrote to Umar ibn al-Khattab to collect the money from them. When they arrived, they sold the goods and made profit. When they gave that to Umar, he said: 'Did he lend to the entire army as he lent to you two?' They said: 'No.' Umar ibn al-Khattab said: 'The two sons of the Commander of the Faithful, so he lent to you. Pay back the capital and its profit.' As for Abdullah, he remained silent, but Ubaydullah said: 'This is not appropriate for you, O Commander of the Faithful. Had this wealth decreased or perished, we would have guaranteed it.' Umar said: 'Pay it back.' Abdullah remained silent while Ubaydullah argued with him. Then a man from among Umar's companions said: 'O Commander of the Faithful, what if you made it a mudarabah (profit-sharing partnership)?' Umar said: 'I have made it a mudarabah.' So Umar took the capital and half of the profit, and Abdullah and Ubaydullah, the two sons of Umar ibn al-Khattab, took half of the profit.",
+      "chains": [
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani mawla Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aslam",
+              "full_name": "Aslam al-Habashi mawla Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Use of 'an (عَنْ) between narrators"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Zayd ibn Aslam -> Aslam (narration about Umar ibn al-Khattab and his sons)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The transmission term 'an (عَنْ) is used between Zayd ibn Aslam and his father Aslam",
+          "impact": "Minimal - This is a son narrating from his father, which is one of the strongest forms of connection. Both narrators are reliable. Zayd ibn Aslam is well-known for narrating from his father Aslam, who was the freed slave of Umar ibn al-Khattab and witnessed many of his judgments."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Umar's sons receiving a loan from Abu Musa al-Ash'ari",
+        "Umar's judgment on profit-sharing partnerships",
+        "Justice and fairness in public wealth distribution",
+        "Mudarabah partnership rulings",
+        "Umar's strictness with his own family members"
+      ]
+    },
+    {
+      "hadith_id": 9352,
+      "original_hadith_number": 1648,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنِ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ ، عَنْ أَبِيهِ ، عَنْ جَدِّهِ ، أَنَّ عُثْمَانَ بْنَ عَفَّانَ \" أَعْطَاهُ مَالًا قِرَاضًا يَعْمَلُ فِيهِ عَلَى أَنَّ الرِّبْحَ بَيْنَهُمَا \"",
+      "english_translation": "Narrated from the grandfather of al-'Ala' ibn 'Abd al-Rahman: Uthman ibn Affan gave him wealth as mudarabah (profit-sharing capital) to work with on the condition that the profit would be shared between them.",
+      "chains": [
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-'Ala' ibn 'Abd al-Rahman",
+              "full_name": "al-'Ala' ibn 'Abd al-Rahman ibn Ya'qub al-Harraqani al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Abd al-Rahman",
+              "full_name": "'Abd al-Rahman ibn Ya'qub al-Harraqani al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ya'qub",
+              "full_name": "Ya'qub al-Harraqani al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Use of 'an (عَنْ) between narrators in a family chain"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> al-'Ala' ibn 'Abd al-Rahman -> 'Abd al-Rahman ibn Ya'qub -> Ya'qub al-Harraqani (narration about Uthman ibn Affan)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The transmission uses 'an (عَنْ) throughout a family chain (grandfather -> father -> son)",
+          "impact": "Minimal - This is a family chain where the son narrates from his father who narrates from his grandfather. Such chains are generally strong as family members typically have direct and frequent contact. All the narrators are considered reliable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Uthman ibn Affan's practice of mudarabah partnerships",
+        "Profit-sharing arrangements in early Islamic period",
+        "Companions' commercial practices"
+      ]
+    },
+    {
+      "hadith_id": 9354,
+      "original_hadith_number": 1650,
+      "collection": "Muwatta Malik",
+      "arabicText": "قَالَ مَالِك : وَجْهُ الْقِرَاضِ الْمَعْرُوفِ الْجَائِزِ : أَنْ يَأْخُذَ الرَّجُلُ الْمَالَ مِنْ صَاحِبِهِ ، عَلَى أَنْ يَعْمَلَ فِيهِ ، وَلَا ضَمَانَ عَلَيْهِ ، وَنَفَقَةُ الْعَامِلِ فِي الْمَالِ فِي سَفَرِهِ مِنْ طَعَامِهِ وَكِسْوَتِهِ وَمَا يُصْلِحُهُ بِالْمَعْرُوفِ بِقَدْرِ الْمَالِ ، إِذَا شَخَصَ فِي الْمَالِ إِذَا كَانَ الْمَالُ يَحْمِلُ ذَلِكَ ، فَإِنْ كَانَ مُقِيمًا فِي أَهْلِهِ فَلَا نَفَقَةَ لَهُ مِنَ الْمَالِ وَلَا كِسْوَةَ",
+      "english_translation": "Malik said: The proper form of the recognized and permissible mudarabah is that a man takes wealth from its owner to work with it, with no liability on him. The worker's expenses while traveling for the business - his food, clothing, and what he needs appropriately according to the amount of wealth - are from the capital, when he travels for the business, if the capital can bear that. But if he stays with his family, he has no expenses or clothing from the capital.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Statement of Malik ibn Anas (mawquf)"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Rules of mudarabah partnerships",
+        "Worker's expenses in profit-sharing contracts",
+        "Conditions of valid commercial partnerships"
+      ]
+    },
+    {
+      "hadith_id": 9356,
+      "original_hadith_number": 1652,
+      "collection": "Muwatta Malik",
+      "arabicText": "قَالَ مَالِك : إِذَا كَانَ لِرَجُلٍ عَلَى رَجُلٍ دَيْنٌ ، فَسَأَلَهُ أَنْ يُقِرَّهُ عِنْدَهُ قِرَاضًا ، إِنَّ ذَلِكَ يُكْرَهُ حَتَّى يَقْبِضَ مَالَهُ ، ثُمَّ يُقَارِضُهُ بَعْدُ أَوْ يُمْسِكُ ، وَإِنَّمَا ذَلِكَ مَخَافَةَ أَنْ يَكُونَ أَعْسَرَ بِمَالِهِ ، فَهُوَ يُرِيدُ أَنْ يُؤَخِّرَ ذَلِكَ عَلَى أَنْ يَزِيدَهُ فِيهِ",
+      "english_translation": "Malik said: If a man has a debt owed to him by another man, and the debtor asks him to leave it with him as mudarabah, this is disliked until he collects his wealth, then makes it mudarabah afterward or keeps it. This is out of fear that the debtor may have become insolvent with his wealth, and he wants to delay payment on the condition that he adds to it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Statement of Malik ibn Anas (mawquf)"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Converting debts to mudarabah partnerships",
+        "Protecting creditor rights",
+        "Avoiding riba-like practices in debt arrangements"
+      ]
+    },
+    {
+      "hadith_id": 9358,
+      "original_hadith_number": 1654,
+      "collection": "Muwatta Malik",
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا ، وَشَرَطَ عَلَيْهِ أَنْ لَا تَشْتَرِيَ بِمَالِي إِلَّا سِلْعَةَ كَذَا وَكَذَا ، أَوْ يَنْهَاهُ أَنْ يَشْتَرِيَ سِلْعَةً بِاسْمِهَا ، قَالَ مَالِك : مَنِ اشْتَرَطَ عَلَى مَنْ قَارَضَ أَنْ لَا يَشْتَرِيَ حَيَوَانًا أَوْ سِلْعَةً بِاسْمِهَا فَلَا بَأْسَ بِذَلِكَ ، وَمَنِ اشْتَرَطَ عَلَى مَنْ قَارَضَ أَنْ لَا يَشْتَرِيَ إِلَّا سِلْعَةَ كَذَا وَكَذَا فَإِنَّ ذَلِكَ مَكْرُوهٌ",
+      "english_translation": "Yahya said: Malik said regarding a man who gives another man wealth as mudarabah and stipulates that he should not buy with his wealth except such-and-such commodity, or forbids him from buying a specific commodity by name. Malik said: Whoever stipulates to his partner that he should not buy animals or a commodity by its specific name, there is no harm in that. But whoever stipulates to his partner that he should buy only such-and-such commodity, then that is disliked.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Statement of Malik ibn Anas (mawquf)"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Conditions in mudarabah contracts",
+        "Restricting investment choices in partnerships",
+        "Valid and invalid stipulations in profit-sharing"
+      ]
+    },
+    {
+      "hadith_id": 9360,
+      "original_hadith_number": 1656,
+      "collection": "Muwatta Malik",
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : لَا يَنْبَغِي لِصَاحِبِ الْمَالِ أَنْ يَشْتَرِطَ لِنَفْسِهِ شَيْئًا مِنَ الرِّبْحِ خَالِصًا دُونَ الْعَامِلِ ، وَلَا يَنْبَغِي لِلْعَامِلِ أَنْ يَشْتَرِطَ لِنَفْسِهِ شَيْئًا مِنَ الرِّبْحِ خَالِصًا دُونَ صَاحِبِهِ ، وَلَا يَكُونُ مَعَ الْقِرَاضِ بَيْعٌ ، وَلَا كِرَاءٌ ، وَلَا عَمَلٌ ، وَلَا سَلَفٌ ، وَلَا مِرْفَقٌ ، يَشْتَرِطُهُ أَحَدُهُمَا لِنَفْسِهِ دُونَ صَاحِبِهِ",
+      "english_translation": "Yahya said: Malik said: It is not appropriate for the owner of capital to stipulate for himself any portion of the profit exclusively without the worker, nor should the worker stipulate for himself any portion of the profit exclusively without the owner. There should not be with mudarabah any sale, rental, work, loan, or benefit that one of them stipulates for himself to the exclusion of the other.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Statement of Malik ibn Anas (mawquf)"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Prohibited stipulations in mudarabah",
+        "Fairness in profit-sharing partnerships",
+        "Mixing contracts with mudarabah"
+      ]
+    }
+  ]
+}

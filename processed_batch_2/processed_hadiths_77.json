@@ -1,0 +1,572 @@
+{
+  "batch_number": 2,
+  "file_number": 77,
+  "record_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 10141,
+      "book_id": 20,
+      "hadith_number": 64,
+      "english_translation": "Malik said regarding the girl and the boy: their urine is the same. If their urine touches the garment of a man or a woman, they should wash it, even if they (the children) have not eaten food. As for the mother, I prefer that she have a garment other than the one in which she nurses, if she is able to do so. But if she is unable to do so, then let her pray in her garment and avoid the urine as much as she can, and wash whatever urine touches her garment as much as she can.",
+      "chains": [],
+      "plainChains": [
+        "Statement of Imam Malik (mawquf)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Imam Malik, not traced to the Prophet ﷺ",
+          "impact": "This is juristic opinion (fiqh), not a hadith with chain to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Not Applicable - Mawquf Statement",
+      "Topics": [
+        "Purity from Children's Urine",
+        "Clothing Guidelines for Nursing Mothers",
+        "Washing Impurities from Garments"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الْجَارِيَةِ وَالْغُلَامِ بَوْلُهُمَا سَوَاءٌ إِذَا أَصَابَ بَوْلُهُمَا ثَوْبَ رَجُلٍ أَوِ امْرَأَةٍ غَسَلَا ذَلِكَ ، وَإِنْ لَمْ يَأْكُلَا الطَّعَامَ , قَالَ : وَأَمَّا الْأُمُّ فَأَحَبُّ إِلَيَّ أَنْ يَكُونَ لَهَا ثَوْبٌ سِوَى ثَوْبِهَا الَّذِي تُرْضِعُ فِيهِ إِذْ كَانَتْ تَقْدِرُ عَلَى ذَلِكَ , وَإِنْ لَمْ تَكُنْ تَقْدِرُ عَلَى ذَلِكَ ، فَلْتُصَلِّ فِي ثَوْبِهَا وَلْتُدَارِ الْبَوْلَ عنهَا جَهْدَهَا ، وَلْتَغْسِلْ مَا أَصَابَ مِنَ الْبَوْلِ ثَوْبَهَا جَهْدَهَا .",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 64,
+      "grade": "Mawquf (Statement of Malik)"
+    },
+    {
+      "hadith_id": 10143,
+      "book_id": 20,
+      "hadith_number": 66,
+      "english_translation": "Narrated by Hudhayfah ibn al-Yaman: that he (the Prophet ﷺ) urinated while standing and wiped over his leather socks.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Sahnun ibn Sa'id ibn Habib al-Tanukhi Abu Sa'id",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ali ibn Ziyad",
+              "full_name": "Ali ibn Ziyad al-Tunisi Abu al-Hasan",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri Abu Abdullah",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 2, though highly reliable"
+              ]
+            },
+            {
+              "name": "al-A'mash",
+              "full_name": "Sulayman ibn Mihran al-Asadi al-Kahili al-A'mash Abu Muhammad",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 2, though highly reliable"
+              ]
+            },
+            {
+              "name": "Abu Wa'il",
+              "full_name": "Shaqiq ibn Salamah al-Asadi Abu Wa'il al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hudhayfah ibn al-Yaman",
+              "full_name": "Hudhayfah ibn al-Yaman ibn Jabir al-Absi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple narrators using 'an (عَنْ) transmission term",
+            "Both Sufyan al-Thawri and al-A'mash are category 2 mudallis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ali ibn Ziyad -> Sufyan al-Thawri -> al-A'mash -> Abu Wa'il -> Hudhayfah ibn al-Yaman -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sufyan al-Thawri is a category 2 mudallis using 'an (عَنْ)",
+          "impact": "Though Sufyan is Thiqah Thabt and highly reliable, his use of 'an could indicate potential tadlis. However, as a category 2 mudallis, his narrations are generally accepted even with 'an. This particular narration is well-known and authenticated."
+        },
+        {
+          "issue": "Al-A'mash is a category 2 mudallis using 'an (عَنْ)",
+          "impact": "Al-A'mash is known for tadlis but is category 2, meaning his narrations are generally accepted. This is a well-known narration authenticated in the Sahihayn with other chains."
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms in the chain",
+          "impact": "Several narrators use the ambiguous 'an term, but all narrators are highly reliable (Thiqah/Thiqah Thabt), and this narration has supporting chains in major collections."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of the Prophet ﷺ urinating while standing",
+        "Wiping over leather socks (Masah ala al-Khuffayn)"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الرَّجُلِ يَبُولُ قَائِمًا قَالَ : إِنْ كَانَ فِي مَوْضِعِ رَمْلٍ أَوْ مَا أَشْبَهَ ذَلِكَ لَا يَتَطَايَرُ عَلَيْهِ مِنْهُ شَيْءٌ فَلَا بَأْسَ بِذَلِكَ , وَإِنْ كَانَ فِي مَوْضِعِ صَفًا يَتَطَايَرُ عَلَيْهِ ، فَأَكْرَهُ لَهُ ذَلِكَ وَلْيَبُلْ جَالِسًا . \r\n$23  24 /2 /141 /11 قَالَ /22 سَحْنُونٌ /22 ، عن /94 عَلِيِّ بْنِ زِيَادٍ L5769 /94 ، عن /26 سُفْيَانَ L3436 /26 ، عن /26 الْأَعْمَشِ L3629 /26 ، عن /26 أَبِي وَائِلٍ L3825 /26 ، /27 عن /93 حُذَيْفَةَ بْنِ الْيَمَانِ L2324 /93 ، عن النَّبِيِّ عَلَيْهِ السَّلامُ : \" أَنَّهُ /20 بَالَ قَائِمًا وَمَسَحَ عَلَى خُفَّيْهِ \" /27 *",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 66,
+      "grade": "Sahih - Authenticated in Sahihayn"
+    },
+    {
+      "hadith_id": 10145,
+      "book_id": 20,
+      "hadith_number": 68,
+      "english_translation": "Malik was asked about the cisterns of Tripoli which contain rainwater and into which a sheep or animal falls and dies. He said: I do not like anyone to drink from it or to bathe with it. He was asked: Should the animals be given water from it? He said: I see no harm in that. Ibn al-Qasim said: Malik said regarding a well from the wells of Madinah into which a gecko or mouse falls: One should draw water from it until it becomes pure, drawing from it as much as they think would purify it, drawing as much as they can. Malik said: It is disliked for the one in a state of major ritual impurity to bathe in stagnant water if it is a pool resembling cisterns.",
+      "chains": [],
+      "plainChains": [
+        "Statements of Imam Malik, Ibn al-Qasim, Ibn Wahb, al-Qasim, Salim, Ibn Shihab, and Rabi'ah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are juristic opinions and fatwas, not prophetic traditions",
+          "impact": "Not hadiths traced to the Prophet ﷺ, but legal rulings and scholarly opinions from major Maliki jurists"
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Opinions",
+      "Topics": [
+        "Water purification when animals die in it",
+        "Purity of well water",
+        "Drawing water from wells containing dead animals",
+        "Bathing in stagnant water while in state of ritual impurity"
+      ],
+      "arabicText": "قَالَ : وَسَمِعْتُ مَالِكًا وَسُئِلَ عن جِبَابِ إِنْطَابُلْسَ الَّتِي يَكُونُ فِيهَا مَاءُ السَّمَاءِ تَقَعُ فِيهِ الشَّاةُ أَوِ الدَّابَّةُ فَتَمُوتُ فِيهِ ؟ قَالَ : لَا أُحِبُّ لِأَحَدٍ أَنْ يَشْرَبَ مِنْهُ ، وَلَا يَغْتَسِلَ بِهِ , فَقِيلَ لَهُ : أَتُسْقَى مِنْهُ الْبَهَائِمُ ؟ قَالَ : لَا أَرَى بِذَلِكَ بَأْسًا . قَالَ ابْنُ الْقَاسِمِ ، وَقَالَ مَالِكٌ فِي الْبِئْرِ مِنْ آبَارِ الْمَدِينَةِ تَقَعُ فِيهِ الْوَزَغَةُ أَوِ الْفَأْرَةُ وَقَالَ : يَسْتَقِي مِنْهَا حَتَّى تَطِيبَ ، وَيَنْزِفُونَ مِنْهَا عَلَى قَدْرِ مَا يَظُنُّونِ أَنَّهَا قَدْ طَابَتْ يَنْزِفُونَ مِنْهَا مَا اسْتَطَاعُوا . قَالَ مَالِكٌ : وَكُرِهَ لِلْجُنُبِ أَنْ يَغْتَسِلَ فِي الْمَاءِ الدَّائِمِ إِذَا كَانَ غَدِيرًا يشبه الْبِرَكَ . قُلْتُ : أَرَأَيْتَ مَا كَانَ فِي الطَّرِيقِ مِنَ الْغُدُرِ وَالْآبَارِ وَالْحِيَاضِ أَوْ فِي الْفَلَوَاتِ يُصِيبُهَا الرَّجُلُ قَدِ انْثَنَتْ ، وَهُوَ لَا يَدْرِي مِنْ أَيْ شَيْءٍ انْثَنَتْ أَيَتَوَضَّأُ مِنْهَا أَمْ لَا ؟ قَالَ : قَالَ مَالِكٌ : إِذَا كَانَتِ الْبِئْرُ قَدِ انْثَنَتْ مِنَ الْحَمْأَةِ أَوْ نَحْوِ ذَلِكَ ، فَلَا بَأْسَ بِالْوُضُوءِ مِنْهَا . قَالَ : وَهَذَا مثل ذَلِكَ . قَالَ ابْنُ وَهْبٍ : قَالَ وَسَمِعْتُ مَالِكًا وَسُئِلَ عن رَجُلٍ أَصَابَتْهُ السَّمَاءُ حَتَّى اسْتَنْقَعَ ذَلِكَ الْمَاءُ الْقَلِيلُ أَيَتَوَضَّأُ مِنْ ذَلِكَ الْمَاءِ ؟ قَالَ : نَعَمْ يَتَوَضَّأُ مِنْهُ , قِيلَ لَهُ : فَإِنْ جَفَّ ذَلِكَ الْمَاءُ ؟ قَالَ : يَتَيَمَّمُ بِذَلِكَ الطِّينِ , قِيلَ لَهُ : يَخَافُ أَنْ يَكُونَ فِيهِ زَبْلٌ ؟ قَالَ : لَا بَأْسَ بِهِ , قَالَ   : وَسُئِلَ مَالِكٌ عن مَوَاجِلِ أَرْضِ بَرْقَةَ تَقَعُ فِيهِ    @ 1 : 76 @    الدَّابَّةُ فَتَمُوتُ فِيهِ ؟ قَالَ : لَا يُتَوَضَّأُ بِهِ وَلَا يُشْرَبُ مِنْهُ , قَالَ : وَلَا بَأْسَ أَنْ تُسْقَى مِنْهُ الْمَاشِيَةُ , قَالَ : وَالْعَسَلُ تَقَعُ فِيهِ الدَّابَّةُ فَتَمُوتُ فِيهِ ؟ قَالَ : إِنْ كَانَ ذَلِكَ ذَائِبًا ، فَلَا يُؤْكَلُ وَلَا يُبَاعُ ، وَلَا بَأْسَ أَنْ يُعْلَفَ النَّحْلُ ذَلِكَ الْعَسَلَ الَّذِي مَاتَتْ فِيهِ الدَّابَّةُ . قَالَ ابْنُ وَهْبٍ ، عن ابْنِ لَهِيعَةَ ، عن خَالِدِ بْنِ أَبِي عِمْرَانَ ، أَنَّهُ سَأَلَ الْقَاسِمَ ، وَسَالِمًا عن الْمَاءِ الَّذِي لَا يَجْرِي تَمُوتُ فِيهِ الدَّابَّةُ أَيَشْرَبُ مِنْهُ وَيَغْسِلُ مِنْهُ الثِّيَابَ ؟ فَقَالَا : أَنْزِلْهُ إِلَى نَظَرِكَ بِعَيْنِكَ ، فَإِنْ رَأَيْتَ مَاءً لَا يُدَنِّسُهُ مَا وَقَعَ ، فَتَرْجُو أَنْ لَا يَكُونَ بِهِ بَأْسٌ . قَالَ سَحْنُونٌ : وَقَالَ عَلِيٌّ ، قَالَ مَالِكٌ : مَنْ تَوَضَّأَ بِمَاءٍ وَقَعَتْ فِيهِ مَيْتَةٌ تَغَيَّرَ لَوْنُهُ أَوْ طَعْمُهُ وَصَلَّى أَعَادَ , وَإِنْ ذَهَبَ الْوَقْتُ ، وَإِنْ لَمْ يَتَغَيَّرْ لَوْنُ الْمَاءِ وَلَا طَعْمُهُ أَعَادَ مَا دَامَ فِي الْوَقْتِ , وَقَالَ ابْنُ شِهَابٍ ، وَرَبِيعَةُ بْنُ عَبْدِ الرَّحْمَنِ : كُلُّ مَاءٍ فِيهِ فَضْلٌ عَمَّا يُصِيبُهُ مِنَ الْأَذَى حَتَّى لَا يُغَيِّرَ ذَلِكَ طَعْمَهُ ، وَلَا لَوْنَهُ ، وَلَا رَائِحَتَهُ لَا يَضُرُّهُ ذَلِكَ . قَالَ رَبِيعَةُ : إِنْ تَغَيَّرَ لَوْنُ الْمَاءِ أَوْ طَعْمُهُ نَزَعَ مِنْهُ قَدْرَ مَا يُذْهِبُ الرَّائِحَةَ عنهُ , قَالَ سَحْنُونٌ : إِنَّمَا هَذَا فِي الْبِئْرِ . \r\n$24  25 /2",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 68,
+      "grade": "Mawquf - Scholarly Opinions"
+    },
+    {
+      "hadith_id": 10146,
+      "book_id": 20,
+      "hadith_number": 69,
+      "english_translation": "Narrated by Abu Hurayrah: that the Messenger of Allah ﷺ said: 'None of you should urinate in stagnant water, then perform ablution from it or drink from it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri Abu Muhammad al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Ayyash",
+              "full_name": "Anas ibn Ayyash al-Laithi Abu Damurah al-Misri",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Saduq level - acceptable but not highest reliability"
+              ]
+            },
+            {
+              "name": "al-Harith ibn Abd al-Rahman",
+              "full_name": "al-Harith ibn Abd al-Rahman ibn Abi Dhubab al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata ibn Mina",
+              "full_name": "Ata ibn Mina al-Madani Abu Muawiyah mawla Usamah ibn Zayd",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Saduq level - acceptable but not highest reliability"
+              ]
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi Abu Hurayrah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "All narrators after Ibn Wahb use 'an (عَنْ)",
+            "Two narrators are Saduq level (acceptable but not Thiqah)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Anas ibn Ayyash -> al-Harith ibn Abd al-Rahman -> Ata ibn Mina -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Anas ibn Ayyash is Saduq using 'an (عَنْ)",
+          "impact": "Anas ibn Ayyash is considered Saduq (truthful) but not at the highest level of reliability. His use of 'an is acceptable given his general truthfulness."
+        },
+        {
+          "issue": "Ata ibn Mina is Saduq using 'an (عَنْ)",
+          "impact": "Ata ibn Mina is also Saduq level, not Thiqah. However, he is generally accepted in narrations from Abu Hurayrah."
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout the chain",
+          "impact": "The entire chain uses 'an terms, which can indicate indirect transmission. However, the narrators are generally reliable and this narration has support in other collections."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of urinating in stagnant water",
+        "Water purity for ablution and drinking"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 أَنَسِ بْنِ عَيَّاشٍ L718 /94 ، عن /26 الْحَارِثِ بْنِ عَبْدِ الرَّحْمَنِ L1199 /26 ، عن /26 عَطَاءِ بْنِ مِينَاءَ L5637 /26 ، /27 عن /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" لَا يَبُولُ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ ، ثُمَّ يَتَوَضَّأُ مِنْهُ أَوْ يَشْرَبُ \" /27 , قَالَ /22 ابْنُ وَهْبٍ /22 : بَلَغَنِي ، عن /93 أَبِي هُرَيْرَةَ L4396 /93 ، عن النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ قَالَ : \" ثُمَّ يَغْتَسِلُ فِيهِ \" * \r\n\u001dE24",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 69,
+      "grade": "Hasan - Acceptable with supporting chains"
+    },
+    {
+      "hadith_id": 10148,
+      "book_id": 20,
+      "hadith_number": 71,
+      "english_translation": "Malik said: There is no harm in the garment in which the one in major ritual impurity sweats, as long as there is no impurity on his body. But if there is impurity on his body, then that is disliked, because when he sweats in it, the place of the impurity on his body becomes wet. He said: There is no harm in the sweat of animals and what comes out of their noses.",
+      "chains": [],
+      "plainChains": [
+        "Statement of Imam Malik (mawquf)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Imam Malik, not traced to the Prophet ﷺ",
+          "impact": "This is juristic opinion (fiqh) on purity matters, not a hadith with chain to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Not Applicable - Mawquf Statement",
+      "Topics": [
+        "Sweat of one in state of major ritual impurity",
+        "Purity of animal sweat and nasal discharge"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ بِالثَّوْبِ يَعْرَقُ فِيهِ الْجُنُبُ مَا لَمْ يَكُنْ فِي جَسَدِهِ نَجَسٌ ، فَإِنْ كَانَ فِي جَسَدِهِ نَجَسٌ ، فَإِنَّهُ يُكْرَهُ ذَلِكَ ؛ لِأَنَّهُ إِذَا عَرَقَ فِيهِ ابْتَلَّ مَوْضِعُ النَّجَسِ الَّذِي فِي جَسَدِهِ , وَقَالَ : لَا بَأْسَ بِعَرَقِ الدَّوَابِّ ، وَمَا يَخْرُجُ مِنْ أُنُوفِهَا ، وَرَوَاهُ ابْنُ وَهْبٍ قَالَ : وَكَذَلِكَ الثَّوْبُ يَكُونُ فِيهِ النَّجَسُ ثُمَّ يَلْبَسُهُ ، أَوْ يَنَامُ فِيهِ فَيَعْرَقُ ، فَهُوَ بِتِلْكَ الْمَنْزِلَةِ , قَالَ : إِلَّا أَنْ يَكُونَ فِي لَيَالٍ لَا يَعْرَقُ فِيهَا ، فَلَا بَأْسَ أَنْ يَنَامَ فِي ذَلِكَ الثَّوْبِ الَّذِي فِيهِ النَّجَاسَةُ . \r\n$25  26 /2 /141 /11 قَالَ /22 ابْنُ وَهْبٍ /22 : أَخْبَرَنِي /94 ابْنُ لَهِيعَةَ L5033 /94 ، /94 وَاللَّيْثُ L6641 /94 ، /94 وَعَمْرُو بْنُ الْحَارِثِ L6080 /94 ، عن /26 يَزِيدَ بْنِ أَبِي حَبِيبٍ L8366 /26 ، عن /26 سُوَيْدِ بْنِ قَيْسٍ L3716 /26 ، عن /26 مُعَاوِيَةَ بْنِ حُدََيْجَ L7576 /26 ، قَالَ : سَمِعْتُ /26 مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ L7570 /26 ، يَقُولُ : /27 \" إِنَّ /93 أُمَّ حَبِيبَةَ L2955 /93 سُئِلَتْ هَلْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 يُصَلِّي فِي الثَّوْبِ الَّذِي كَانَ يُجَامِعُ فِيهِ ؟ فَقَالَتْ : نَعَمْ إِذَا لَمْ يَرَ فِيهِ أَذًى \" /27 * \r\n$26  27 /3 /141 قَالَ /12 مَالِكٌ /12 ، عن /94 نَافِعٍ L7863 /94 ، /27 عن /93 عَبْدَ اللَّهِ بْنَ عُمَرَ L4967 /93 ، أَنَّهُ كَانَ /20 \" يَعْرَقُ فِي الثَّوْبِ وَهُوَ جُنُبٌ ، ثُمَّ يُصَلِّي فِيهِ \" /27 * \r\n$27  28 /3",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 71,
+      "grade": "Mawquf (Statement of Malik)"
+    },
+    {
+      "hadith_id": 10149,
+      "book_id": 20,
+      "hadith_number": 72,
+      "english_translation": "Narrated from Ibn Abbas: that he said: 'There is no harm in the sweat of the one in major ritual impurity and the menstruating woman in the garment.' Malik said the same.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri Abu Muhammad al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Maslamah ibn Ali",
+              "full_name": "Maslamah ibn Ali al-Hanafi Abu Sa'id al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Hassan",
+              "full_name": "Hisham ibn Hassan al-Azdi al-Qardusi Abu Abdullah al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ikrimah",
+              "full_name": "Ikrimah ibn Abdullah al-Barbari Abu Abdullah mawla Ibn Abbas al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Some Maliki scholars criticized him, though majority considered him Thiqah"
+              ]
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "All narrators use 'an (عَنْ) or anna (أَنَّ) which can indicate indirect transmission",
+            "Ikrimah was criticized by some Maliki scholars though accepted by the majority"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Maslamah ibn Ali -> Hisham ibn Hassan -> Ikrimah -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ikrimah (mawla of Ibn Abbas) was criticized by some scholars",
+          "impact": "Imam Malik avoided narrations from Ikrimah, and some Maliki scholars criticized him. However, the majority of hadith scholars considered him Thiqah. This is a mawquf statement (from Ibn Abbas, not the Prophet), so the impact is less significant."
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms in the chain",
+          "impact": "The entire chain uses indirect transmission terms, which could indicate disconnection. However, all narrators are considered reliable by the majority."
+        },
+        {
+          "issue": "This is mawquf (statement of Companion), not marfu' (from Prophet ﷺ)",
+          "impact": "This is Ibn Abbas's opinion, not directly from the Prophet ﷺ, though Companion statements carry weight in fiqh."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Sweat of one in state of major ritual impurity",
+        "Sweat of menstruating woman",
+        "Purity of garments"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 مَسْلَمَةَ بْنِ عَلِيٍّ L7497 /94 ، عن /26 هِشَامِ بْنِ حَسَّانَ L8042 /26 ، عن /26 عِكْرِمَةَ L5703 /26 مَوْلَى ابْنِ عَبَّاسٍ ، /27 أَنَّ /93 ابْنَ عَبَّاسٍ L4883 /93 ، قَالَ : /20 \" لَا بَأْسَ بِعَرَقِ الْجُنُبِ وَالْحَائِضِ فِي الثَّوْبِ \" /27 , وَقَالَهُ مَالِكٌ * \r\nقَالَ وَكِيعٌ ، عن جَرِيرٍ ، عن الْمُغِيرَةِ ، أَوْ غَيْرِهِ ، عن إِبْرَاهِيمَ : إِنَّهُ كَانَ لَا يَرَى بِتَنَخُّعِ الدَّابَّةِ الَّذِي يَخْرُجُ مِنْهَا بَأْسًا . قَالَ ابْنُ وَهْبٍ : إِنَّ /93 أَبَا هُرَيْرَةَ /93 كَانَ \" يَرْكَبُ فَرَسًا عُرْيًا \" , وَقَالَ اللَّيْثُ بْنُ سَعْدٍ : لَا بَأْسَ بِعَرَقِ الدَّوَابِّ , وَقَالَ ابْنُ وَهْبٍ ، وَقَالَ مَالِكٌ : لَا بَأْسَ بِعَرَقِ الدَّوَابِّ , وَمَا يَخْرُجُ مِنْ أُنُوفِهَا    @ 1 : 77 @\u001eE25",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 72,
+      "grade": "Mawquf - Statement of Ibn Abbas"
+    },
+    {
+      "hadith_id": 10151,
+      "book_id": 20,
+      "hadith_number": 74,
+      "english_translation": "Malik said regarding the one in major ritual impurity who comes to the river and immerses himself in it while intending the ritual bath from major ritual impurity, then exits: It does not suffice him unless he rubs his body, and even if he intended the ritual bath, it does not suffice him unless he rubs. He said: And likewise the ablution as well.",
+      "chains": [],
+      "plainChains": [
+        "Statement of Imam Malik (mawquf)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Imam Malik, not traced to the Prophet ﷺ",
+          "impact": "This is juristic opinion (fiqh) on the method of ritual bathing, not a hadith with chain to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Not Applicable - Mawquf Statement",
+      "Topics": [
+        "Method of ritual bath (Ghusl) from major impurity",
+        "Requirement of rubbing the body during Ghusl",
+        "Immersion in water for purification"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الْجُنُبِ يَأْتِي النَّهْرَ ، فَيَنْغَمِسُ فِيهِ انْغِمَاسًا ، وَهُوَ يَنْوِي الْغُسْلَ مِنْ الْجَنَابَةِ ثُمَّ يَخْرُجُ , قَالَ : لَا يُجْزِئُهُ إِلَّا أَنْ يَتَدَلَّكَ ، وَإِنْ نَوَى الْغُسْلَ لَمْ يُجْزِهِ إِلَّا أَنْ يَتَدَلَّكَ , قَالَ : وَكَذَلِكَ الْوُضُوءُ أَيْضًا . قُلْتُ : أَرَأَيْتَ إِنْ أَمَرَّ يَدَيْهِ عَلَى بَعْضِ جَسَدِهِ ، وَلَمْ يُمِرَّهُمَا عَلَى جَمِيعِ جَسَدِهِ ؟ قَالَ : قَالَ مَالِكٌ : لَا يُجْزِئُهُ ذَلِكَ حَتَّى يُمِرَّهُمَا عَلَى جَمِيعِ جَسَدِهِ كُلِّهِ وَيَتَدَلَّكُ .",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 74,
+      "grade": "Mawquf (Statement of Malik)"
+    },
+    {
+      "hadith_id": 10153,
+      "book_id": 20,
+      "hadith_number": 76,
+      "english_translation": "Malik disliked for the one in major ritual impurity to bathe in stagnant water. He said: And it has come in the hadith: 'The one in major ritual impurity should not bathe in stagnant water.' Malik said: The one in major ritual impurity should not bathe in stagnant water.",
+      "chains": [],
+      "plainChains": [
+        "Statement of Imam Malik (mawquf) with reference to a hadith"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Malik's statement referencing a hadith without providing the chain",
+          "impact": "While Malik refers to a hadith tradition, he doesn't provide the complete chain. This is juristic opinion based on hadith evidence."
+        }
+      ],
+      "IISGrade": "Not Applicable - Mawquf Statement",
+      "Topics": [
+        "Bathing in stagnant water while in state of major ritual impurity",
+        "Contamination of water by bathing"
+      ],
+      "arabicText": "قَالَ : وَسَمِعْتُ مَالِكًا يَكْرَهُ لِلْجُنُبِ أَنْ يَغْتَسِلَ فِي الْمَاءِ الدَّائِمِ , قَالَ : وَقَدْ جَاءَ فِي الْحَدِيثِ : \" لَا يَغْتَسِلُ الْجُنُبُ فِي الْمَاءِ الدَّائِمِ \" قَالَ : وَقَالَ مَالِكٌ : لَا يَغْتَسِلُ الْجُنُبُ فِي الْمَاءِ الدَّائِمِ . قُلْتُ لِابْنِ الْقَاسِمِ : فَمَا تَقُولُ فِي هَذِهِ الْحِيَاضِ الَّتِي تُسْقَى مِنْهَا الدَّوَابُّ لَوْ أَنَّ رَجُلًا اغْتَسَلَ فِيهَا وَهُوَ جُنُبٌ أَيُفْسِدُهَا فِي قَوْلِ مَالِكٍ أَمْ لَا ؟ قَالَ : نَعَمْ إِلَّا أَنْ يَكُونَ غَسَلَ يَدَيْهِ قَبْلَ دُخُولِهِ فِيهَا ، وَغَسَلَ فَرْجَهُ وَمَوْضِعَ الْأَذَى مِنْهُ فَلَا يَكُونُ بِذَلِكَ بَأْسٌ لِأَنَّ الْحَائِضَ تُدْخِلُ يَدَهَا فِي الْإِنَاءِ , وَالْجُنُبَ يُدْخِلُ يَدَهُ فِي الْإِنَاءِ ، فَلَا يَفْسُدُ ذَلِكَ الْمَاءُ , قَالَ : فَجَمِيعُ جَسَدِهِ بِمَنْزِلَةِ يَدِهِ قَالَ ابْنُ وَهْبٍ فِي الْحَائِضِ تُدْخِلُ يَدَهَا فِي إِنَاءٍ ؟ قَالَ : لَا بَأْسَ بِهِ . قَالَ : وَقَالَ مَالِكٌ فِي الْجُنُبِ يَدْخُلُ فِي الْقَصْرِيَّةِ يَغْتَسِلُ فِيهَا مِنَ الْجَنَابَةِ , قَالَ لَا خَيْرَ فِي ذَلِكَ , قَالَ : وَإِنْ كَانَ غَيْرَ جُنُبٍ فَلَا بَأْسَ بِذَلِكَ . قَالَ : وَسَأَلْتُ مَالِكًا عن الْبِئْرِ الْقَلِيلَةِ الْمَاءِ ، أَوْ مَا أَشْبَهَ ذَلِكَ يَأْتِيهَا الْجُنُبُ ، وَلَيْسَ مَعَهُ مَا يَغْرِفُ بِهِ وَفِي يَدَيْهِ قَذَرٌ ؟ قَالَ : يَحْتَالُ لِذَلِكَ حَتَّى يَغْسِلَ يَدَهُ ثُمَّ يَغْرِفَ مِنْهَا فَيَغْتَسِلَ , قَالَ : فَأَدَرْتُهُ , فَجَعَلَ يَقُولُ لِي : يَحْتَالُ لِذَلِكَ وَكَرِهَ أَنْ يَقُولَ لِي يَغْتَسِلُ فِيهَا ، وَجَعَلَ لَا يَزِيدُنِي عَلَى ذَلِكَ .\u0003E26 قَالَ   : وَقَدْ جَاءَ الْحَدِيثُ : \" أَنَّهُ نَهَى الْجُنُبَ عن الْغُسْلِ فِي الْمَاءِ الدَّائِمِ \" , قَالَ ابْنُ الْقَاسِمِ : وَلَوِ اغْتَسَلَ فِيهِ لَمْ أَرَ ذَلِكَ يُنَجِّسُهُ إِذَا كَانَ مَاءً مُعَيَّنًا ، وَرَأَيْتُ ذَلِكَ مُجْزِيًا عنهُ .\u001aE27 \r\n$28  29 /2",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 76,
+      "grade": "Mawquf (Statement of Malik)"
+    },
+    {
+      "hadith_id": 10154,
+      "book_id": 20,
+      "hadith_number": 77,
+      "english_translation": "Narrated by Abu Hurayrah: that the Messenger of Allah ﷺ said: 'None of you should urinate in stagnant water, then perform ablution from it or drink from it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Sahnun ibn Sa'id ibn Habib al-Tanukhi Abu Sa'id",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Iyad",
+              "full_name": "Anas ibn Iyad ibn Damrah al-Laithi Abu Damrah al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Harith ibn Abd al-Rahman",
+              "full_name": "al-Harith ibn Abd al-Rahman ibn Abi Dhubab al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata ibn Mina",
+              "full_name": "Ata ibn Mina al-Madani Abu Muawiyah mawla Usamah ibn Zayd",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Saduq level - acceptable but not highest reliability"
+              ]
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi Abu Hurayrah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "All narrators after Sahnun use 'an (عَنْ)",
+            "Ata ibn Mina is Saduq level"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Anas ibn Iyad -> al-Harith ibn Abd al-Rahman -> Ata ibn Mina -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ata ibn Mina is Saduq using 'an (عَنْ)",
+          "impact": "Ata ibn Mina is Saduq (truthful) but not at the highest level of reliability. His use of 'an is acceptable given his general truthfulness, and he is known to have narrated from Abu Hurayrah."
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms in the chain",
+          "impact": "The chain uses 'an terms throughout, but the narrators are generally reliable. This narration has support in other collections."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of urinating in stagnant water",
+        "Water purity for ablution and drinking"
+      ],
+      "arabicText": "/11 قَالَ /22 سَحْنُونٌ /22 ، عن /94 أَنَسِ بْنِ عِيَاضٍ L718 /94 ، عن /26 الْحَارِثِ بْنِ عَبْدِ الرَّحْمَنِ L1199 /26 ، عن /26 عَطَاءِ بْنِ مِينَاءَ L5637 /26 ، /27 عن /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" لَا يَبُولُ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ ، ثُمَّ يَتَوَضَّأُ مِنْهُ أَوْ يَشْرَبُ \" /27 . قَالَ : وَبَلَغَنِي عن أَبِي هُرَيْرَةَ ، أَنَّهُ قَالَ : ثُمَّ يَغْتَسِلُ فِيهِ * \r\n$29  30 /2",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 77,
+      "grade": "Hasan - Acceptable with supporting chains"
+    },
+    {
+      "hadith_id": 10155,
+      "book_id": 20,
+      "hadith_number": 78,
+      "english_translation": "Narrated by Abu Hurayrah: who said: The Messenger of Allah ﷺ said: 'None of you should bathe in stagnant water while he is in a state of major ritual impurity.' They asked: How should he do it, O Abu Hurayrah? He said: He should take it by scooping.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri Abu Muhammad al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn al-Harith",
+              "full_name": "Amr ibn al-Harith ibn Yaqub ibn Abdullah al-Ansari al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bukayr ibn Abdullah",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Sa'ib",
+              "full_name": "Abu al-Sa'ib mawla Hisham ibn Zuhrah",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَهُ، أَنَّهُ",
+              "reliabilityIssues": [
+                "Saduq level - acceptable but not highest reliability",
+                "Some uncertainty about his identity"
+              ]
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi Abu Hurayrah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed transmission terms - some direct (حَدَّثَهُ, سَمِعَ), some indirect (عَنْ, أَنَّ)",
+            "Abu al-Sa'ib is Saduq level with some uncertainty"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Amr ibn al-Harith -> Bukayr ibn Abdullah -> Abu al-Sa'ib -> Abu Hurayrah (heard) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Sa'ib is Saduq level narrator",
+          "impact": "Abu al-Sa'ib is acceptable (Saduq) but not at the highest level. There is also some scholarly discussion about his exact identity. However, he uses the strong term 'haddathahu' (narrated to him)."
+        },
+        {
+          "issue": "Abu al-Sa'ib explicitly heard (سَمِعَ) from Abu Hurayrah",
+          "impact": "This is POSITIVE - the explicit hearing term strengthens this link significantly, showing direct auditory transmission."
+        },
+        {
+          "issue": "Chain contains both direct and indirect transmission terms",
+          "impact": "While some narrators use 'an/anna, the critical link from Abu al-Sa'ib to Abu Hurayrah uses explicit hearing (sami'a), which strengthens the chain. The narrators are generally reliable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prohibition of bathing in stagnant water while in major ritual impurity",
+        "Proper method of taking water from stagnant sources",
+        "Abu Hurayrah's guidance on water usage"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 عَمْرِو بْنِ الْحَارِثِ L6080 /94 ، عن /26 بُكَيْرِ بْنِ عَبْدِ اللَّهِ L1951 /26 ، أَنَّ /26 أَبَا السَّائِبِ L4705 /26 مَوْلَى هِشَامِ بْنِ زُهْرَةَ حَدَّثَهُ ، أَنَّهُ /27 سَمِعَ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" لَا يَغْتَسِلُ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ وَهُوَ جُنُبٌ \" /27 , فَقَالُوا : كَيْفَ يَفْعَلُ أَبَا هُرَيْرَةَ ؟ قَالَ : يَتَنَاوَلُهُ تَنَاوُلًا , قَالَ عَلِيُّ بْنُ زِيَادٍ قِيلَ /12 لِمَالِكٍ /12 : فَإِذَا اضْطُرَّ الْجُنُبُ ؟ قَالَ : /10 يَغْتَسِلُ فِيهِ ، إِنَّمَا كُرِهَ ذَلِكَ لَهُ إِذَا وَجَدَ مِنْهُ بُدًّا ، فَأَمَّا إِذَا اضْطُرَّ إِلَيْهِ فَلَا بَأْسَ بِأَنْ يَغْتَسِلَ فِيهِ إِذَا كَانَ الْمَاءُ كَثِيرًا يَحْمِلُ ذَلِكَ /10 * \r\nوَرَوَاهُ ابْنُ وَهْبٍ أَيْضًا ، قَالَ ابْنُ وَهْبٍ ، قَالَ اللَّيْثُ ، عن يَحْيَى بْنِ سَعِيدٍ ، قَالَ : سَأَلْتُهُ عن   الْبِئْرِ وَالْفَسْقِيَّةِ أَوِ الْحَوْضِ يَكُونُ مَاءُ ذَلِكَ كُلُّهُ كَثِيرًا رَاكِدًا غَيْرَ جَارٍ وَهُوَ يَغْتَسِلُ فِيهِ الْجُنُبُ أَوِ الْحَائِضُ    @ 1 : 78 @   هَلْ يُكْرَهُ لِأَحَدٍ أَنْ يَنْتَفِعَ بِمَائِهَا إِنْ فَعَلَ ذَلِكَ جَاهِلٌ مِنْ جُنُبٍ أَوْ حَائِضٍ ؟ قَالَ يَحْيَى : أَمَّا الْبِئْرُ الْمُعَيَّنُ ، فَإِنِّي لَا أَرَى اغْتِسَالَ الْجُنُبِ وَالْحَائِضِ فِيهَا بِمَانِعِ مَرَافِقِهَا مِنَ النَّاسِ ، وَأَمَّا الْفَسْقِيَّةُ أَوِ الْحَوْضُ ، فَإِنِّي لَا أَرَى أَنْ يَنْتَفِعَ أَحَدٌ بِمَائِهَا مَا لَمْ يَكُنْ مَاؤُهَا كَثِيرًا .1E28",
+      "collection": "Al-Mudawwanah",
+      "reference_number": 78,
+      "grade": "Sahih - Authenticated in Sahih Muslim"
+    }
+  ]
+}

@@ -1,0 +1,715 @@
+{
+  "batch_number": 2,
+  "file_number": 58,
+  "processed_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 9856,
+      "original_number": 2152,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Abu al-Muthanna al-Juhani: I was with Marwan ibn al-Hakam when Abu Sa'id al-Khudri entered. Marwan ibn al-Hakam asked him: 'Did you hear from the Messenger of Allah ﷺ that he forbade blowing into the drink?' Abu Sa'id said: 'Yes, a man said: O Messenger of Allah, I am not quenched from one breath. So the Messenger of Allah ﷺ said to him: Remove the cup from your mouth, then breathe. He said: But I see a speck in it. He said: Then pour it out.'",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَيُّوبَ بْنِ حَبِيبٍ مَوْلَى سَعْدِ بْنِ أَبِي وَقَّاصٍ ، عَنْ أَبِي الْمُثَنَّى الْجُهَنِيِّ ، أَنَّهُ قَالَ : كُنْتُ عِنْدَ مَرْوَانَ بْنِ الْحَكَمِ فَدَخَلَ عَلَيْهِ أَبُو سَعِيدٍ الْخُدْرِيُّ ، فَقَالَ لَهُ مَرْوَانُ بْنُ الْحَكَمِ : أَسَمِعْتَ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ نَهَى عَنِ النَّفْخِ فِي الشَّرَابِ ؟ فَقَالَ لَهُ أَبُو سَعِيدٍ : نَعَمْ ، فَقَالَ لَهُ رَجُلٌ : يَا رَسُولَ اللَّهِ إِنِّي لَا أَرْوَى مِنْ نَفَسٍ وَاحِدٍ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : فَأَبِنْ الْقَدَحَ عَنْ فِيكَ ؟ ثُمَّ تَنَفَّسْ ، قَالَ : فَإِنِّي أَرَى الْقَذَاةَ فِيهِ ، قَالَ : فَأَهْرِقْهَا",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ayyub ibn Habib",
+              "full_name": "Ayyub ibn Habib mawla Sa'd ibn Abi Waqqas",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Muthanna al-Juhani",
+              "full_name": "Abu al-Muthanna al-Juhani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ayyub ibn Habib -> Abu al-Muthanna al-Juhani -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain contains multiple instances of 'an (عَنْ) which is an ambiguous transmission term",
+          "impact": "However, all narrators in this chain are considered reliable and trustworthy, and Imam Malik is known for his strict standards. This does not significantly impact the reliability."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Etiquette of Drinking",
+        "Incident of a man complaining about not being quenched in one breath",
+        "Removal of impurities from drink"
+      ]
+    },
+    {
+      "hadith_id": 9858,
+      "original_number": 2154,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "It reached Malik that Umar ibn al-Khattab, Ali ibn Abi Talib, and Uthman ibn Affan used to drink while standing.",
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، وَعَلِيَّ بْنَ أَبِي طَالِبٍ ، وَعُثْمَانَ بْنَ عَفَّانَ كَانُوا يَشْرَبُونَ قِيَامًا",
+      "chains": [
+        {
+          "type": "mursal/maqtu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["mursal - disconnected chain"]
+            }
+          ],
+          "chainIssues": ["This is a mursal report - the chain is disconnected as it reaches Malik through unspecified intermediaries"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> (missing links) -> Umar/Ali/Uthman"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal report (balagha form) - the chain is disconnected",
+          "impact": "The transmission term 'balaghahu' (it reached him) indicates missing intermediaries in the chain. This is a report about the practice of companions, not a prophetic statement, and the chain is incomplete."
+        },
+        {
+          "issue": "This is a mawquf report about the actions of companions, not a marfu' hadith from the Prophet ﷺ",
+          "impact": "While it reports the practice of senior companions, it is not directly from the Prophet ﷺ and has a disconnected chain."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Practice of drinking while standing",
+        "Actions of the Rightly Guided Caliphs"
+      ]
+    },
+    {
+      "hadith_id": 9859,
+      "original_number": 2155,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated from Ibn Shihab that Aisha, Mother of the Believers, and Sa'd ibn Abi Waqqas did not see any harm in a person drinking while standing. And it was narrated from Abu Ja'far al-Qari that he said: I saw Abdullah ibn Umar drinking while standing. And it was narrated from Amir ibn Abdullah ibn al-Zubayr, from his father, that he used to drink while standing.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، أَنَّ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ ، وَسَعْدَ بْنَ أَبِي وَقَّاصٍ ، كَانَا لَا يَرَيَانِ بِشُرْبِ الْإِنْسَانِ وَهُوَ قَائِمٌ بَأْسًا * وَحَدَّثَنِي مَالِك ، عَنْ أَبِي جَعْفَرٍ الْقَارِئِ ، أَنَّهُ قَالَ : رَأَيْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ يَشْرَبُ قَائِمًا * وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ ، عَنْ أَبِيهِ ، أَنَّهُ كَانَ يَشْرَبُ قَائِمًا",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["mudallis - classified as category 3 by some scholars"]
+            },
+            {
+              "name": "Aisha and Sa'd",
+              "full_name": "Aisha bint Abi Bakr and Sa'd ibn Abi Waqqas",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "opinion",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Shihab al-Zuhri uses 'anna' which is an indirect transmission term"]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ja'far al-Qari",
+              "full_name": "Abu Ja'far Yazid ibn al-Qa'qa' al-Qari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "رَأَى",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amir ibn Abdullah ibn al-Zubayr",
+              "full_name": "Amir ibn Abdullah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn al-Zubayr",
+              "full_name": "Abdullah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "practice",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab -> Aisha and Sa'd (opinion)",
+        "Malik -> Abu Ja'far al-Qari -> saw Abdullah ibn Umar",
+        "Malik -> Amir ibn Abdullah ibn al-Zubayr -> his father Abdullah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3) and uses 'anna' which is an indirect term",
+          "impact": "However, al-Zuhri is considered extremely reliable by the vast majority of scholars despite occasional tadlis. His reports are generally accepted even with 'an/'anna, though this should be noted."
+        },
+        {
+          "issue": "These are mawquf reports (statements/actions of companions), not marfu' hadiths",
+          "impact": "They represent the opinions and practices of companions, not direct prophetic statements."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Practice of drinking while standing",
+        "Opinions of companions regarding drinking while standing",
+        "Actions of senior companions and Tabi'un"
+      ]
+    },
+    {
+      "hadith_id": 9861,
+      "original_number": 2157,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ was brought milk mixed with water from the well, and on his right was a Bedouin and on his left was Abu Bakr al-Siddiq. He drank then gave it to the Bedouin, and said: The right, then the right.",
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أُتِيَ بِلَبَنٍ قَدْ شِيبَ بِمَاءٍ مِنَ الْبِئْرِ ، وَعَنْ يَمِينِهِ أَعْرَابِيٌّ وَعَنْ يَسَارِهِ أَبُو بَكْرٍ الصِّدِّيقُ ، فَشَرِبَ ثُمَّ أَعْطَى الْأَعْرَابِيَّ ، وَقَالَ : الْأَيْمَنَ فَالْأَيْمَنَ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - classified as category 3 by some scholars"]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Shihab al-Zuhri uses 'an which is potentially indirect"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3) and uses 'an which is an ambiguous transmission term",
+          "impact": "However, al-Zuhri is considered extremely reliable by the vast majority of scholars. His reports are generally accepted even with 'an, though the potential for tadlis should be noted. This is a well-known report with supporting evidence."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Etiquette of serving drinks",
+        "Incident of the Prophet ﷺ prioritizing the right side over status",
+        "Precedence of position over status in serving"
+      ]
+    },
+    {
+      "hadith_id": 9862,
+      "original_number": 2158,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Sahl ibn Sa'd al-Ansari: The Messenger of Allah ﷺ was brought a drink, and he drank from it while on his right was a boy and on his left were elders. He said to the boy: Do you permit me to give it to these? The boy said: No, by Allah, O Messenger of Allah, I will not prefer anyone over my share from you. So the Messenger of Allah ﷺ placed it in his hand.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي حَازِمِ بْنِ دِينَارٍ ، عَنْ سَهْلِ بْنِ سَعْدٍ الْأَنْصَارِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أُتِيَ بِشَرَابٍ ، فَشَرِبَ مِنْهُ وَعَنْ يَمِينِهِ غُلَامٌ وَعَنْ يَسَارِهِ الْأَشْيَاخُ ، فَقَالَ لِلْغُلَامِ : أَتَأْذَنُ لِي أَنْ أُعْطِيَ هَؤُلَاءِ ؟ فَقَالَ الْغُلَامُ : لَا وَاللَّهِ يَا رَسُولَ اللَّهِ ، لَا أُوثِرُ بِنَصِيبِي مِنْكَ أَحَدًا ، قَالَ : فَتَلَّهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي يَدِهِ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hazim ibn Dinar",
+              "full_name": "Salama ibn Dinar Abu Hazim al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sahl ibn Sa'd al-Ansari",
+              "full_name": "Sahl ibn Sa'd ibn Malik al-Ansari al-Sa'idi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu Hazim ibn Dinar -> Sahl ibn Sa'd al-Ansari -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) which is an ambiguous transmission term from reliable narrators",
+          "impact": "However, all narrators are highly reliable and this is a well-established chain through Imam Malik. The use of 'an from non-mudallis narrators is acceptable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Etiquette of serving drinks",
+        "Incident of a boy refusing to give up his turn for elders",
+        "Respect for rights of precedence",
+        "Prophet's ﷺ consultation and courtesy"
+      ]
+    },
+    {
+      "hadith_id": 9864,
+      "original_number": 2160,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Anas ibn Malik: Abu Talhah said to Umm Sulaym: I have heard the voice of the Messenger of Allah ﷺ weak, I recognize hunger in it. Do you have anything? She said: Yes. So she brought out barley loaves, then she took her veil and wrapped the bread in part of it, then she put it under my hand and covered me with part of it, then she sent me to the Messenger of Allah ﷺ. He said: So I went with it and found the Messenger of Allah ﷺ sitting in the mosque with people, and I stood over them. The Messenger of Allah ﷺ said: Did Abu Talhah send you? I said: Yes. He said: For food? I said: Yes. So the Messenger of Allah ﷺ said to those with him: Stand up. He said: So he set out and I set out ahead of them until I came to Abu Talhah and informed him. Abu Talhah said: O Umm Sulaym, the Messenger of Allah ﷺ has come with the people, and we do not have food to feed them. She said: Allah and His Messenger know best. He said: So Abu Talhah set out until he met the Messenger of Allah ﷺ, and the Messenger of Allah ﷺ came forward with Abu Talhah with him until they entered. The Messenger of Allah ﷺ said: Bring what you have, O Umm Sulaym. So she brought that bread, and the Messenger of Allah ﷺ ordered it to be broken up, and Umm Sulaym squeezed a skin-bag of hers upon it and seasoned it. Then the Messenger of Allah ﷺ said whatever Allah willed him to say, then he said: Give permission for ten to enter. So he gave them permission and they ate until they were satisfied, then they left. Then he said: Give permission for ten. So he gave them permission and they ate until they were satisfied, then they left. Then he said: Give permission for ten. So he gave them permission and they ate until they were satisfied, then they left. Then he said: Give permission for ten. So he gave them permission and they ate until they were satisfied, then they left. Then he said: Give permission for ten until all the people ate and were satisfied, and the people were seventy or eighty men.",
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ ، يَقُولُ : قَالَ أَبُو طَلْحَةَ لِأُمِّ سُلَيْمٍ : لَقَدْ سَمِعْتُ صَوْتَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ضَعِيفًا أَعْرِفُ فِيهِ الْجُوعَ ، فَهَلْ عِنْدَكِ مِنْ شَيْءٍ ؟ فَقَالَتْ : نَعَمْ ، فَأَخْرَجَتْ أَقْرَاصًا مِنْ شَعِيرٍ ثُمَّ أَخَذَتْ خِمَارًا لَهَا فَلَفَّتِ الْخُبْزَ بِبَعْضِهِ ، ثُمَّ دَسَّتْهُ تَحْتَ يَدِي وَرَدَّتْنِي بِبَعْضِهِ ، ثُمَّ أَرْسَلَتْنِي إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : فَذَهَبْتُ بِهِ فَوَجَدْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَالِسًا فِي الْمَسْجِدِ وَمَعَهُ النَّاسُ فَقُمْتُ عَلَيْهِمْ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَأَرْسَلَكَ أَبُو طَلْحَةَ ؟ قَالَ : فَقُلْتُ : نَعَمْ ، قَالَ : لِلطَّعَامِ ؟ فَقُلْتُ : نَعَمْ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِمَنْ مَعَهُ : قُومُوا ، قَالَ : فَانْطَلَقَ وَانْطَلَقْتُ بَيْنَ أَيْدِيهِمْ حَتَّى جِئْتُ أَبَا طَلْحَةَ فَأَخْبَرْتُهُ ، فَقَالَ أَبُو طَلْحَةَ : يَا أُمَّ سُلَيْمٍ قَدْ جَاءَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالنَّاسِ ، وَلَيْسَ عِنْدَنَا مِنَ الطَّعَامِ مَا نُطْعِمُهُمْ ، فَقَالَتْ : اللَّهُ وَرَسُولُهُ أَعْلَمُ ، قَالَ : فَانْطَلَقَ أَبُو طَلْحَةَ حَتَّى لَقِيَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَقْبَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبُو طَلْحَةَ مَعَهُ حَتَّى دَخَلَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : هَلُمِّي يَا أُمَّ سُلَيْمٍ مَا عِنْدَكِ ؟ فَأَتَتْ بِذَلِكَ الْخُبْزِ ، فَأَمَرَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَفُتَّ وَعَصَرَتْ عَلَيْهِ أُمُّ سُلَيْمٍ عُكَّةً لَهَا فَآدَمَتْهُ ، ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا شَاءَ اللَّهُ أَنْ يَقُولَ ، ثُمَّ قَالَ : ائْذَنْ لِعَشَرَةٍ بِالدُّخُولِ ، فَأَذِنَ لَهُمْ فَأَكَلُوا حَتَّى شَبِعُوا ثُمَّ خَرَجُوا ، ثُمَّ قَالَ : ائْذَنْ لِعَشَرَةٍ فَأَذِنَ لَهُمْ فَأَكَلُوا حَتَّى شَبِعُوا ثُمَّ خَرَجُوا ، ثُمَّ قَالَ : ائْذَنْ لِعَشَرَةٍ فَأَذِنَ لَهُمْ فَأَكَلُوا حَتَّى شَبِعُوا ثُمَّ خَرَجُوا ، ثُمَّ قَالَ : ائْذَنْ لِعَشَرَةٍ فَأَذِنَ لَهُمْ فَأَكَلُوا حَتَّى شَبِعُوا ثُمَّ خَرَجُوا ، ثُمَّ قَالَ : ائْذَنْ لِعَشَرَةٍ حَتَّى أَكَلَ الْقَوْمُ كُلُّهُمْ وَشَبِعُوا ، وَالْقَوْمُ سَبْعُونَ رَجُلًا أَوْ ثَمَانُونَ رَجُلًا",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talhah",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talhah Zayd ibn Sahl al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ishaq ibn Abdullah ibn Abi Talhah -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Miracle of food multiplication by the Prophet ﷺ",
+        "Incident of Abu Talhah and Umm Sulaym feeding the companions",
+        "Generosity and hospitality of the Ansar",
+        "Trust in Allah's provision",
+        "Baraka in the Prophet's ﷺ supplication"
+      ]
+    },
+    {
+      "hadith_id": 9865,
+      "original_number": 2161,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: The food of two is sufficient for three, and the food of three is sufficient for four.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : طَعَامُ الْاثْنَيْنِ كَافِي الثَّلَاثَةِ ، وَطَعَامُ الثَّلَاثَةِ كَافِي الْأَرْبَعَةِ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) multiple times which is an ambiguous transmission term",
+          "impact": "However, this is the famous 'golden chain' of Malik from Abu al-Zinad from al-A'raj from Abu Hurayrah. All narrators are highly reliable and this chain is considered one of the strongest in hadith transmission."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Baraka in food sharing",
+        "Encouragement of eating together",
+        "Generosity and hospitality"
+      ]
+    },
+    {
+      "hadith_id": 9866,
+      "original_number": 2162,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Jabir ibn Abdullah: The Messenger of Allah ﷺ said: Close the door, tie the waterskin, cover the vessel or turn it over, and extinguish the lamp, for indeed the devil does not open a closed door, nor untie a knot, nor uncover a vessel, and indeed the little wicked creature sets fire to people's houses.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزُّبَيْرِ الْمَكِّيِّ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : أَغْلِقُوا الْبَاب وَأَوْكُوا السِّقَاءَ وَأَكْفِئُوا الْإِنَاءَ أَوْ خَمِّرُوا الْإِنَاءَ وَأَطْفِئُوا الْمِصْبَاحَ ، فَإِنَّ الشَّيْطَانَ لَا يَفْتَحُ غَلَقًا وَلَا يَحُلُّ وِكَاءً وَلَا يَكْشِفُ إِنَاءً ، وَإِنَّ الْفُوَيْسِقَةَ تُضْرِمُ عَلَى النَّاسِ بَيْتَهُمْ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zubayr al-Makki",
+              "full_name": "Muhammad ibn Muslim ibn Tadrus Abu al-Zubayr al-Makki",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - classified as category 3 by Ibn Hajar"]
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu al-Zubayr uses 'an when narrating from Jabir, which is problematic due to his known tadlis"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu al-Zubayr al-Makki -> Jabir ibn Abdullah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Zubayr al-Makki is a known mudallis (category 3 according to Ibn Hajar) and he uses 'an (عَنْ) when narrating from Jabir",
+          "impact": "When Abu al-Zubayr narrates from Jabir with 'an, this is considered problematic by many hadith scholars. Al-Layth ibn Sa'd verified some of his narrations from Jabir as direct hearing, but without explicit hearing terms, this creates doubt. This affects the grading."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Household safety measures at night",
+        "Protection from harm of animals and devils",
+        "Covering food and drink",
+        "Fire safety precautions"
+      ]
+    },
+    {
+      "hadith_id": 9867,
+      "original_number": 2163,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Abu Shurayh al-Ka'bi: The Messenger of Allah ﷺ said: Whoever believes in Allah and the Last Day, let him speak good or remain silent. And whoever believes in Allah and the Last Day, let him honor his neighbor. And whoever believes in Allah and the Last Day, let him honor his guest - his reward is one day and night, and his hospitality is three days, and whatever is beyond that is charity. And it is not lawful for him to stay with him until he causes him hardship.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ ، عَنْ أَبِي شُرَيْحٍ الْكَعْبِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ، فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ، فَلْيُكْرِمْ جَارَهُ ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ، فَلْيُكْرِمْ ضَيْفَهُ جَائِزَتُهُ يَوْمٌ وَلَيْلَةٌ ، وَضِيَافَتُهُ ثَلَاثَةُ أَيَّامٍ فَمَا كَانَ بَعْدَ ذَلِكَ فَهُوَ صَدَقَةٌ ، وَلَا يَحِلُّ لَهُ أَنْ يَثْوِيَ عِنْدَهُ حَتَّى يُحْرِجَهُ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Abi Sa'id al-Maqburi",
+              "full_name": "Sa'id ibn Abi Sa'id Kaysan al-Maqburi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Shurayh al-Ka'bi",
+              "full_name": "Khuwaylid ibn Amr Abu Shurayh al-Ka'bi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Sa'id ibn Abi Sa'id al-Maqburi -> Abu Shurayh al-Ka'bi -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) which is an ambiguous transmission term",
+          "impact": "However, all narrators are highly reliable and none are known for problematic tadlis. Sa'id al-Maqburi is a well-established narrator in Malik's Muwatta. This does not significantly impact reliability."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Speaking good or remaining silent",
+        "Honoring neighbors",
+        "Rights and duties of hospitality",
+        "Duration of guest hospitality",
+        "Ethics of being a guest"
+      ]
+    },
+    {
+      "hadith_id": 9868,
+      "original_number": 2164,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: While a man was walking on a road, he became extremely thirsty, so he found a well and went down into it and drank and came out. Then there was a dog panting and eating mud out of thirst. The man said: This dog has reached from thirst the same as I reached. So he went down the well and filled his leather sock, then he held it in his mouth until he climbed up and gave the dog to drink. So Allah thanked him for it and forgave him.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ سُمَيٍّ مَوْلَى أَبِي بَكْرٍ ، عَنْ أَبِي صَالِحٍ السَّمَّانِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : بَيْنَمَا رَجُلٌ يَمْشِي بِطَرِيقٍ إِذْ اشْتَدَّ عَلَيْهِ الْعَطَشُ فَوَجَدَ بِئْرًا ، فَنَزَلَ فِيهَا فَشَرِبَ وَخَرَجَ ، فَإِذَا كَلْبٌ يَلْهَثُ يَأْكُلُ الثَّرَى مِنَ الْعَطَشِ ، فَقَالَ الرَّجُلُ : لَقَدْ بَلَغَ هَذَا الْكَلْبَ مِنَ الْعَطَشِ مِثْلُ الَّذِي بَلَغَ مِنِّي ، فَنَزَلَ الْبِئْرَ فَمَلَأَ خُفَّهُ ، ثُمَّ أَمْسَكَهُ بِفِيهِ حَتَّى رَقِيَ فَسَقَى الْكَلْبَ ، فَشَكَرَ اللَّهُ لَهُ فَغَفَرَ لَهُ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sumayy",
+              "full_name": "Sumayy mawla Abi Bakr ibn Abd al-Rahman ibn al-Harith",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salih al-Samman",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayyat",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Sumayy mawla Abi Bakr -> Abu Salih al-Samman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) multiple times which is an ambiguous transmission term",
+          "impact": "However, this is another strong chain through Malik. All narrators are reliable and well-established in hadith transmission. This chain (Malik -> Sumayy -> Abu Salih -> Abu Hurayrah) is considered sound."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a man giving water to a thirsty dog",
+        "Mercy to animals",
+        "Reward for kindness to all living creatures",
+        "Forgiveness through compassionate acts"
+      ]
+    },
+    {
+      "hadith_id": 9869,
+      "original_number": 2165,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "They said: O Messenger of Allah, do we have reward for animals? He said: In every moist liver there is reward.",
+      "arabicText": "فَقَالُوا : يَا رَسُولَ اللَّهِ ، وَإِنَّ لَنَا فِي الْبَهَائِمِ لَأَجْرًا ؟ فَقَالَ : فِي كُلِّ ذِي كَبِدٍ رَطْبَةٍ أَجْرٌ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Continuation of previous hadith",
+              "full_name": "This is a continuation of hadith 9868",
+              "grade": "See previous",
+              "generation": "See previous",
+              "transmissionTerm": "Continuation",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Continuation of previous hadith (9868)"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Reward for kindness to all living creatures",
+        "Mercy to animals",
+        "Value of every living being"
+      ]
+    },
+    {
+      "hadith_id": 9870,
+      "original_number": 2166,
+      "collection": "Muwatta Imam Malik",
+      "english_translation": "Narrated by Jabir ibn Abdullah: He said: The Messenger of Allah ﷺ sent an expedition toward the coast, and he appointed Abu Ubaydah ibn al-Jarrah over them, and they were three hundred. He said: And I was among them. He said: So we set out until we were on part of the road and the provisions ran out. So Abu Ubaydah ordered the provisions of that army to be collected, and all of it was collected and it became two sacks of dates. He said: So he would ration it to us each day little by little until it ran out, and we would only receive one date each. I said: And what does one date do? He said: We certainly found its loss when it ran out. He said: Then we reached the sea and there was a whale like the hill. So that army ate from it for eighteen nights. Then Abu Ubaydah ordered two of its ribs to be set up, then he ordered a mount to be saddled, then it passed under them and did not touch them.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ وَهْبِ بْنِ كَيْسَانَ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ، أَنَّهُ قَالَ : بَعَثَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْثًا قِبَلَ السَّاحِلِ ، فَأَمَّرَ عَلَيْهِمْ أَبَا عُبَيْدَةَ بْنَ الْجَرَّاحِ وَهُمْ ثَلَاثُ مِائَةٍ ، قَالَ : وَأَنَا فِيهِمْ ، قَالَ : فَخَرَجْنَا حَتَّى إِذَا كُنَّا بِبَعْضِ الطَّرِيقِ فَنِيَ الزَّادُ ، فَأَمَرَ أَبُو عُبَيْدَةَ بِأَزْوَادِ ذَلِكَ الْجَيْشِ فَجُمِعَ ذَلِكَ كُلُّهُ فَكَانَ مِزْوَدَيْ تَمْرٍ ، قَالَ : فَكَانَ يُقَوِّتُنَاهُ كُلَّ يَوْمٍ قَلِيلًا قَلِيلًا حَتَّى فَنِيَ وَلَمْ تُصِبْنَا إِلَّا تَمْرَةٌ تَمْرَةٌ ، فَقُلْتُ : وَمَا تُغْنِي تَمْرَةٌ ؟ فَقَالَ : لَقَدْ وَجَدْنَا فَقْدَهَا حَيْثُ فَنِيَتْ ، قَالَ : ثُمَّ انْتَهَيْنَا إِلَى الْبَحْرِ فَإِذَا حُوتٌ مِثْلُ الظَّرِبِ ، فَأَكَلَ مِنْهُ ذَلِكَ الْجَيْشُ ثَمَانِيَ عَشْرَةَ لَيْلَةً ، ثُمَّ أَمَرَ أَبُو عُبَيْدَةَ بِضِلْعَيْنِ مِنْ أَضْلَاعِهِ فَنُصِبَا ، ثُمَّ أَمَرَ بِرَاحِلَةٍ فَرُحِلَتْ ، ثُمَّ مَرَّتْ تَحْتَهُمَا وَلَمْ تُصِبْهُمَا",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Wahb ibn Kaysan",
+              "full_name": "Wahb ibn Kaysan Abu Nuaym al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Wahb ibn Kaysan -> Jabir ibn Abdullah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) which is an ambiguous transmission term",
+          "impact": "However, all narrators are highly reliable. Wahb ibn Kaysan is a well-established narrator from Jabir, and this is a famous hadith. The use of 'an from non-mudallis narrators is acceptable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of the expedition to the coast",
+        "Story of the large whale (Ambar fish)",
+        "Miracle of provision during military expedition",
+        "Baraka in small provisions",
+        "Gratitude for blessings"
+      ]
+    }
+  ]
+}

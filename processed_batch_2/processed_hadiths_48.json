@@ -1,0 +1,713 @@
+{
+  "batch_number": 2,
+  "file_number": 48,
+  "processed_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 9706,
+      "english_translation": "Narrated by Umar ibn al-Khattab: He ruled that for a molar tooth (there is) a camel, and for the collarbone a camel, and for the rib a camel.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muslim ibn Jundub",
+              "full_name": "Muslim ibn Jundub al-Hudhali",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aslam",
+              "full_name": "Aslam mawla Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Zayd ibn Aslam -> Muslim ibn Jundub -> Aslam -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of عَنْ (an) transmission term from Malik onwards, though all narrators are generally reliable",
+          "impact": "Minor - The narrators are all considered trustworthy and this chain is well-established in the Muwatta. Malik is not known for tadlis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood Money Compensation for Teeth",
+        "Blood Money Compensation for Collarbone",
+        "Blood Money Compensation for Ribs",
+        "Umar ibn al-Khattab's Judicial Rulings"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ مُسْلِمِ بْنِ جُنْدُبٍ ، عَنْ أَسْلَمَ مَوْلَى عُمَرَ بْنِ الْخَطَّابِ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ قَضَى فِي الضِّرْسِ بِجَمَلٍ ، وَفِي التَّرْقُوَةِ بِجَمَلٍ ، وَفِي الضِّلَعِ بِجَمَلٍ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2002,
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9707,
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab: Umar ibn al-Khattab ruled that for molar teeth (there is) a camel for each one.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab (reporting Umar's ruling)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sa'id ibn al-Musayyab reporting from Umar ibn al-Khattab without explicit meeting mentioned",
+          "impact": "Minor - Sa'id ibn al-Musayyab is well-known to have met and narrated from Umar, though he was young. This is an accepted chain."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood Money Compensation for Molar Teeth",
+        "Umar ibn al-Khattab's Judicial Rulings"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ ، يَقُولُ : قَضَى عُمَرُ بْنُ الْخَطَّابِ فِي الْأَضْرَاسِ بِبَعِيرٍ بَعِيرٍ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2003,
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9708,
+      "english_translation": "Sa'id ibn al-Musayyab said: Muawiyah ibn Abi Sufyan ruled that for molar teeth (there is) five camels for each one. Sa'id ibn al-Musayyab said: The blood money decreases in the ruling of Umar ibn al-Khattab and increases in the ruling of Muawiyah. If I were (to judge), I would have made it two camels for each molar tooth, so the blood money would be equal. And every mujtahid (scholar exercising independent judgment) is rewarded.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a continuation from the previous hadith, reporting Sa'id ibn al-Musayyab's statement"]
+        }
+      ],
+      "plainChains": [
+        "Sa'id ibn al-Musayyab (reporting Muawiyah's ruling and his own opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain to Muawiyah's ruling is not explicitly mentioned in this excerpt",
+          "impact": "Moderate - This appears to be part of a longer narration where Sa'id ibn al-Musayyab is comparing different rulings. The chain is implied from the context."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Blood Money Compensation for Molar Teeth",
+        "Muawiyah ibn Abi Sufyan's Judicial Rulings",
+        "Comparison of Judicial Rulings",
+        "Independent Legal Reasoning (Ijtihad)",
+        "Sa'id ibn al-Musayyab's Opinion on Blood Money"
+      ],
+      "arabicText": "وَقَضَى مُعَاوِيَةُ بْنُ أَبِي سُفْيَانَ فِي الْأَضْرَاسِ بِخَمْسَةِ أَبْعِرَةٍ خَمْسَةِ أَبْعِرَةٍ . قَالَ سَعِيدُ بْنُ الْمُسَيَّبِ : فَالدِّيَةُ تَنْقُصُ فِي قَضَاءِ عُمَرَ بْنِ الْخَطَّابِ وَتَزِيدُ فِي قَضَاءِ مُعَاوِيَةَ ، فَلَوْ كُنْتُ أَنَا لَجَعَلْتُ فِي الْأَضْرَاسِ بَعِيرَيْنِ بَعِيرَيْنِ فَتِلْكَ الدِّيَةُ سَوَاءٌ ، وَكُلُّ مُجْتَهِدٍ مَأْجُورٌ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2004,
+      "grade": "Mawquf"
+    },
+    {
+      "hadith_id": 9709,
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab: If a tooth is injured and becomes black, then in it is its full blood money. If it falls out after becoming black, then in it also is its full blood money.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of عَنْ (an) from Yahya ibn Sa'id to Sa'id ibn al-Musayyab",
+          "impact": "Minimal - Yahya ibn Sa'id al-Ansari is well-known for his reliability and direct connection to Sa'id ibn al-Musayyab."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood Money for Blackened Teeth",
+        "Blood Money for Lost Teeth After Injury",
+        "Legal Opinions on Dental Injuries"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ كَانَ يَقُولُ : إِذَا أُصِيبَتِ السِّنُّ فَاسْوَدَّتْ فَفِيهَا عَقْلُهَا تَامًّا ، فَإِنْ طُرِحَتْ بَعْدَ أَنِ اسْوَدَّتْ فَفِيهَا عَقْلُهَا أَيْضًا تَامًّا",
+      "collection": "Muwatta Malik",
+      "reference_number": 2005,
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9710,
+      "english_translation": "Chapter: The Practice Regarding the Blood Money of Teeth",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ الْعَمَلِ فِي عَقْلِ الْأَسْنَانِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2006,
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 9711,
+      "english_translation": "Narrated by Abdullah ibn Abbas: Abu Ghattafan ibn Tarif al-Murri informed him that Marwan ibn al-Hakam sent him to Abdullah ibn Abbas asking him: What is (the blood money) for a molar tooth? So Abdullah ibn Abbas said: In it are five camels. He (Abu Ghattafan) said: Then Marwan sent me back to Abdullah ibn Abbas, and he said: Do you make the front of the mouth equal to the molar teeth? So Abdullah ibn Abbas said: If you were to consider that only by (the example of) fingers, their blood money is equal.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dawud ibn al-Husayn",
+              "full_name": "Dawud ibn al-Husayn al-Umawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ghattafan ibn Tarif al-Murri",
+              "full_name": "Abu Ghattafan ibn Tarif ibn Abdullah al-Murri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَخْبَرَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Dawud ibn al-Husayn -> Abu Ghattafan ibn Tarif -> Abdullah ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of عَنْ (an) transmission term throughout the chain",
+          "impact": "Minor - All narrators in this chain are reliable and well-established transmitters from the Muwatta tradition."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood Money for Molar Teeth",
+        "Blood Money for Front Teeth",
+        "Equality of Blood Money for All Teeth",
+        "Dialogue Between Marwan and Ibn Abbas",
+        "Analogy Between Teeth and Fingers in Blood Money"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ ، عَنْ أَبِي غَطَفَانَ بْنِ طَرِيفٍ الْمُرِّيِّ أَنَّهُ أَخْبَرَهُ , أَنَّ مَرْوَانَ بْنَ الْحَكَمِ بَعَثَهُ إِلَى عَبْدِ اللَّهِ بْنِ عَبَّاسٍ يَسْأَلُهُ : مَاذَا فِي الضِّرْسِ ؟ فَقَالَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ : فِيهِ خَمْسٌ مِنَ الْإِبِلِ ، قَالَ : فَرَدَّنِي مَرْوَانُ إِلَى عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، فَقَالَ : أَتَجْعَلُ مُقَدَّمَ الْفَمِ مِثْلَ الْأَضْرَاسِ ؟ فَقَالَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ : لَوْ لَمْ تَعْتَبِرْ ذَلِكَ إِلَّا بِالْأَصَابِعِ عَقْلُهَا سَوَاءٌ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2007,
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9712,
+      "english_translation": "Narrated by Urwah ibn al-Zubayr: He used to make all teeth equal in blood money and would not prefer some over others. Malik said: The practice among us is that the front teeth, molars, and canines - their blood money is equal. That is because the Messenger of Allah ﷺ said regarding a tooth: 'Five camels.' And a molar tooth is a tooth among the teeth; some of them do not have preference over others.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Hisham ibn Urwah -> Urwah ibn al-Zubayr (plus Malik's commentary referencing the Prophet ﷺ)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik's reference to the Prophet's ﷺ statement about teeth is mursal (disconnected) without a complete chain",
+          "impact": "Moderate - While Malik's mursal narrations are generally considered strong by Maliki scholars, this lacks a complete chain to the Prophet ﷺ. The main narration about Urwah's practice is sound."
+        },
+        {
+          "issue": "Multiple uses of عَنْ (an) in the chain to Urwah",
+          "impact": "Minimal - All narrators are reliable and this is a well-established Muwatta chain."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Equality of Blood Money for All Teeth",
+        "Blood Money for Teeth - Five Camels",
+        "Urwah ibn al-Zubayr's Legal Practice",
+        "Prophetic Ruling on Tooth Blood Money"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ أَنَّهُ كَانَ يُسَوِّي بَيْنَ الْأَسْنَانِ فِي الْعَقْلِ وَلَا يُفَضِّلُ بَعْضَهَا عَلَى بَعْضٍ . قَالَ مَالِك : وَالْأَمْرُ عِنْدَنَا أَنَّ مُقَدَّمَ الْفَمِ وَالْأَضْرَاسِ وَالْأَنْيَابِ عَقْلُهَا سَوَاءٌ ، وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ فِي السِّنِّ : خَمْسٌ مِنَ الْإِبِلِ ، وَالضِّرْسُ سِنٌّ مِنَ الْأَسْنَانِ ، لَا يَفْضُلُ بَعْضُهَا عَلَى بَعْضٍ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2008,
+      "grade": "Mawquf Sahih with Mursal reference"
+    },
+    {
+      "hadith_id": 9713,
+      "english_translation": "Chapter: What Has Come About the Blood Money for a Slave's Injury",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ مَا جَاءَ فِي دِيَةِ جِرَاحِ الْعَبْدِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2009,
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 9714,
+      "english_translation": "Narrated: It reached Malik that Sa'id ibn al-Musayyab and Sulayman ibn Yasar used to say regarding the muwidihah (skull wound exposing bone) of a slave: 'Half of a tenth of his price.'",
+      "chains": [
+        {
+          "type": "mawquf-mu'allaq",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["mu'allaq - suspended chain with balaghahu"]
+            }
+          ],
+          "chainIssues": ["Chain is mu'allaq (suspended) - Malik says 'it reached him' without naming the intermediary narrators"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> [unknown intermediaries] -> Sa'id ibn al-Musayyab and Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mu'allaq narration - Malik uses بَلَغَهُ (balaghahu - it reached him) without naming the chain",
+          "impact": "Significant - This creates a gap in the chain. However, Malik's balaghat (reports with balaghahu) are generally considered reliable by Maliki scholars due to his rigorous standards."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Blood Money for Slave Injuries",
+        "Compensation for Skull Wound Exposing Bone",
+        "Legal Opinions on Slave Blood Money"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ ، وَسُلَيْمَانَ بْنَ يَسَارٍ ، كَانَا يَقُولَانِ فِي مُوضِحَةِ الْعَبْدِ : نِصْفُ عُشْرِ ثَمَنِهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2010,
+      "grade": "Mawquf Mu'allaq"
+    },
+    {
+      "hadith_id": 9715,
+      "english_translation": "Malik said: It reached him that Marwan ibn al-Hakam used to rule regarding a slave who is injured by wounds that upon the one who injured him is the measure of what decreased from the slave's price. Malik said: The practice among us is that for the muwidihah (exposing bone wound) of a slave is half of a tenth of his price, and for his munaqilah (fracturing bone wound) is a tenth and a half of a tenth of his price, and for his ma'mumah (brain-reaching wound) and his ja'ifah (body-cavity wound), in each one of them is a third of his price. And regarding what is other than these four characteristics from what a slave is injured with - what decreased from his price is evaluated after the slave recovers and heals, how much is between the value of the slave after the wound injured him and his value when healthy before this injured him, then the one who injured him pays what is between the two values. Malik said regarding a slave if his hand or leg is broken then his fracture heals: There is nothing upon the one who injured him. But if his fracture results in a decrease or limping, then upon the one who injured him is the measure of what decreased from the slave's price. Malik said: The practice among us regarding retaliation between slaves is like the form of retaliation of free people - the life of a female slave for the life of a male slave and her wound for his wound. So when a slave kills a slave intentionally, the master of the killed slave is given a choice: if he wishes he kills, and if he wishes he takes the blood money. If he takes the blood money, he takes the value of his slave. And if the master of the killer slave wishes to give the price of the killed slave, he does so, and if he wishes he surrenders his slave. When he surrenders him, there is nothing upon him other than that. And the master of the killed slave, when he takes the killer slave and is satisfied with him, cannot kill him. And that applies to all retaliation between slaves in cutting of hands and legs and the like - it is in the same position as killing. Malik said regarding a Muslim slave who injures a Jew or Christian: That the master of the slave, if he wishes to pay blood money for what he inflicted, he does so, or he surrenders him so he is sold and gives the Jew or Christian from the slave's price the blood money of his wound or all his price if it encompasses his price. And he does not give the Jew or Christian a Muslim slave.",
+      "chains": [
+        {
+          "type": "mawquf-mu'allaq",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["mu'allaq - suspended chain with balaghahu"]
+            }
+          ],
+          "chainIssues": ["Chain is mu'allaq (suspended) - Malik says 'it reached him' without naming the intermediary narrators to Marwan"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> [unknown intermediaries] -> Marwan ibn al-Hakam (plus Malik's legal opinions)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mu'allaq narration - Malik uses بَلَغَهُ (balaghahu) for the report from Marwan",
+          "impact": "Moderate - Creates a gap in the chain to Marwan. The bulk of this hadith consists of Malik's own legal opinions which don't require a chain."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Blood Money for Slave Injuries",
+        "Compensation Based on Decreased Value",
+        "Different Types of Wounds and Their Compensation",
+        "Retaliation Between Slaves",
+        "Choice of Slave Master in Murder Cases",
+        "Muslim Slave Injuring Non-Muslim",
+        "Prohibition of Giving Muslim Slave to Non-Muslim"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ مَرْوَانَ بْنَ الْحَكَمِ كَانَ يَقْضِي فِي الْعَبْدِ يُصَابُ بِالْجِرَاحِ أَنَّ عَلَى مَنْ جَرَحَهُ قَدْرَ مَا نَقَصَ مِنْ ثَمَنِ الْعَبْدِ . قَالَ مَالِك : وَالْأَمْرُ عِنْدَنَا أَنَّ فِي مُوضِحَةِ الْعَبْدِ نِصْفَ عُشْرِ ثَمَنِهِ ، وَفِي مُنَقِّلَتِهِ الْعُشْرُ وَنِصْفُ الْعُشْرِ مِنْ ثَمَنِهِ ، وَفِي مَأْمُومَتِهِ وَجَائِفَتِهِ فِي كُلِّ وَاحِدَةٍ مِنْهُمَا ثُلُثُ ثَمَنِهِ ، وَفِيمَا سِوَى هَذِهِ الْخِصَالِ الْأَرْبَعِ ، مِمَّا يُصَابُ بِهِ الْعَبْدُ مَا نَقَصَ مِنْ ثَمَنِهِ ، يُنْظَرُ فِي ذَلِكَ بَعْدَ مَا يَصِحُّ الْعَبْدُ وَيَبْرَأُ ، كَمْ بَيْنَ قِيمَةِ الْعَبْدِ بَعْدَ أَنْ أَصَابَهُ الْجُرْحُ ، وَقِيمَتِهِ صَحِيحًا قَبْلَ أَنْ يُصِيبَهُ هَذَا ، ثُمَّ يَغْرَمُ الَّذِي أَصَابَهُ مَا بَيْنَ الْقِيمَتَيْنِ . قَالَ مَالِك ، فِي الْعَبْدِ إِذَا كُسِرَتْ يَدُهُ أَوْ رِجْلُهُ ثُمَّ صَحَّ كَسْرُهُ : فَلَيْسَ عَلَى مَنْ أَصَابَهُ شَيْءٌ ، فَإِنْ أَصَابَ كَسْرَهُ ذَلِكَ نَقْصٌ أَوْ عَثَلٌ كَانَ عَلَى مَنْ أَصَابَهُ قَدْرُ مَا نَقَصَ مِنْ ثَمَنِ الْعَبْدِ . قَالَ مَالِك : الْأَمْرُ عِنْدَنَا فِي الْقِصَاصِ بَيْنَ الْمَمَالِيكِ كَهَيْئَةِ قِصَاصِ الْأَحْرَارِ نَفْسُ الْأَمَةِ بِنَفْسِ الْعَبْدِ وَجُرْحُهَا بِجُرْحِهِ ، فَإِذَا قَتَلَ الْعَبْدُ عَبْدًا عَمْدًا خُيِّرَ سَيِّدُ الْعَبْدِ الْمَقْتُولِ ، فَإِنْ شَاءَ قَتَلَ وَإِنْ شَاءَ أَخَذَ الْعَقْلَ ، فَإِنْ أَخَذَ الْعَقْلَ أَخَذَ قِيمَةَ عَبْدِهِ ، وَإِنْ شَاءَ رَبُّ الْعَبْدِ الْقَاتِلِ أَنْ يُعْطِيَ ثَمَنَ الْعَبْدِ الْمَقْتُولِ فَعَلَ ، وَإِنْ شَاءَ أَسْلَمَ عَبْدَهُ فَإِذَا أَسْلَمَهُ فَلَيْسَ عَلَيْهِ غَيْرُ ذَلِكَ ، وَلَيْسَ لِرَبِّ الْعَبْدِ الْمَقْتُولِ إِذَا أَخَذَ الْعَبْدَ الْقَاتِلَ وَرَضِيَ بِهِ أَنْ يَقْتُلَهُ ، وَذَلِكَ فِي الْقِصَاصِ كُلِّهِ بَيْنَ الْعَبِيدِ فِي قَطْعِ الْيَدِ وَالرِّجْلِ وَأَشْبَاهِ ذَلِكَ بِمَنْزِلَتِهِ فِي الْقَتْلِ . قَالَ مَالِك ، فِي الْعَبْدِ الْمُسْلِمِ يَجْرَحُ الْيَهُودِيَّ أَوِ النَّصْرَانِيَّ : إِنَّ سَيِّدَ الْعَبْدِ إِنْ شَاءَ أَنْ يَعْقِلَ عَنْهُ مَا قَدْ أَصَابَ فَعَلَ ، أَوْ أَسْلَمَهُ فَيُبَاعُ فَيُعْطِي الْيَهُودِيَّ أَوِ النَّصْرَانِيَّ مِنْ ثَمَنِ الْعَبْدِ دِيَةَ جُرْحِهِ أَوْ ثَمَنَهُ كُلَّهُ إِنْ أَحَاطَ بِثَمَنِهِ ، وَلَا يُعْطِي الْيَهُودِيَّ وَلَا النَّصْرَانِيَّ عَبْدًا مُسْلِمًا",
+      "collection": "Muwatta Malik",
+      "reference_number": 2011,
+      "grade": "Mawquf Mu'allaq with Malik's Opinions"
+    },
+    {
+      "hadith_id": 9716,
+      "english_translation": "Chapter: What Has Come About the Blood Money of the People of the Covenant (Dhimmah)",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ مَا جَاءَ فِي دِيَةِ أَهْلِ الذِّمَّةِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2012,
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 9717,
+      "english_translation": "Narrated: It reached Malik that Umar ibn Abd al-Aziz ruled that the blood money of a Jew or Christian, when one of them is killed, is like half the blood money of a free Muslim. Malik said: The practice among us is that a Muslim is not killed for a disbeliever, except that a Muslim kills him by treacherous assassination, so he is killed for it.",
+      "chains": [
+        {
+          "type": "mawquf-mu'allaq",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["mu'allaq - suspended chain with balaghahu"]
+            }
+          ],
+          "chainIssues": ["Chain is mu'allaq (suspended) - Malik says 'it reached him' without naming the intermediary narrators"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> [unknown intermediaries] -> Umar ibn Abd al-Aziz (plus Malik's legal opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mu'allaq narration - Malik uses بَلَغَهُ (balaghahu) for the report from Umar ibn Abd al-Aziz",
+          "impact": "Moderate - Creates a gap in the chain. However, Malik's balaghat are generally considered reliable."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Blood Money for Jews and Christians",
+        "Blood Money Being Half of Muslim's Diyah",
+        "Muslim Not Killed for Disbeliever",
+        "Exception for Treacherous Assassination",
+        "Umar ibn Abd al-Aziz's Judicial Rulings"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ قَضَى أَنَّ دِيَةَ الْيَهُودِيِّ أَوِ النَّصْرَانِيِّ إِذَا قُتِلَ أَحَدُهُمَا مِثْلُ نِصْفِ دِيَةِ الْحُرِّ الْمُسْلِمِ . قَالَ مَالِك : الْأَمْرُ عِنْدَنَا أَنْ لَا يُقْتَلَ مُسْلِمٌ بِكَافِرٍ ، إِلَّا أَنْ يَقْتُلَهُ مُسْلِمٌ قَتْلَ غِيلَةٍ فَيُقْتَلُ بِهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2013,
+      "grade": "Mawquf Mu'allaq"
+    },
+    {
+      "hadith_id": 9718,
+      "english_translation": "Narrated by Sulayman ibn Yasar: The blood money of a Magian is eight hundred dirhams. Malik said: And this is the practice among us. Malik said: The wounds of the Jew, Christian, and Magian - in their blood monies - are according to the calculation of the wounds of Muslims in their blood monies. The muwidihah (exposing bone) is half a tenth of his blood money, and the ma'mumah (brain-reaching wound) is a third of his blood money, and the ja'ifah (body-cavity wound) is a third of his blood money. So according to that calculation are all their wounds.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yahya ibn Sa'id -> Sulayman ibn Yasar (plus Malik's legal opinions)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of عَنْ (an) transmission term",
+          "impact": "Minimal - All narrators are highly reliable and this is a well-established Muwatta chain."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood Money for Magians",
+        "Calculation of Wound Compensation for Non-Muslims",
+        "Proportional Blood Money Based on Religion",
+        "Different Types of Wounds and Their Compensation"
+      ],
+      "arabicText": "وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّ سُلَيْمَانَ بْنَ يَسَارٍ ، كَانَ يَقُولُ : دِيَةُ الْمَجُوسِيِّ ثَمَانِيَ مِائَةِ دِرْهَمٍ . قَالَ مَالِك : وَهُوَ الْأَمْرُ عِنْدَنَا . قَالَ مَالِك : وَجِرَاحُ الْيَهُودِيِّ وَالنَّصْرَانِيِّ وَالْمَجُوسِيِّ فِي دِيَاتِهِمْ عَلَى حِسَابِ جِرَاحِ الْمُسْلِمِينَ فِي دِيَاتِهِمُ الْمُوضِحَةُ نِصْفُ عُشْرِ دِيَتِهِ ، وَالْمَأْمُومَةُ ثُلُثُ دِيَتِهِ ، وَالْجَائِفَةُ ثُلُثُ دِيَتِهِ ، فَعَلَى حِسَابِ ذَلِكَ جِرَاحَاتُهُمْ كُلُّهَا",
+      "collection": "Muwatta Malik",
+      "reference_number": 2014,
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9719,
+      "english_translation": "Chapter: What Obligates Blood Money Upon a Man From His Own Wealth Specifically",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ مَا يُوجِبُ الْعَقْلَ عَلَى الرَّجُلِ فِي خَاصَّةِ مَالِهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2015,
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 9720,
+      "english_translation": "Narrated by Urwah ibn al-Zubayr: There is no blood money upon the 'aqilah (male relatives who share blood money responsibility) in intentional killing. Rather, upon them is the blood money of accidental killing.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Hisham ibn Urwah -> Urwah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of عَنْ (an) transmission term",
+          "impact": "Minimal - All narrators are highly reliable and this is a well-established chain in the Muwatta."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood Money Responsibility of Relatives",
+        "Intentional Killing vs Accidental Killing",
+        "Legal Distinction Between Murder Types",
+        "Financial Responsibility in Homicide Cases"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، أَنَّهُ كَانَ يَقُولُ : لَيْسَ عَلَى الْعَاقِلَةِ عَقْلٌ فِي قَتْلِ الْعَمْدِ ، إِنَّمَا عَلَيْهِمْ عَقْلُ قَتْلِ الْخَطَإِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2016,
+      "grade": "Mawquf Sahih"
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "batch_number": 2,
+  "file_number": 74,
+  "record_count": 15,
+  "processed_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 10096,
+      "skip_reason": "Chapter heading only - no hadith content",
+      "arabicText": "الْوُضُوءُ مِنَ النَّوْمِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 19
+    },
+    {
+      "hadith_id": 10097,
+      "english_translation": "Malik said: Whoever sleeps in his prostration and his sleep becomes heavy and prolonged, his wudu is nullified. He said: And whoever sleeps a light sleep - a brief drowsiness and the like - I do not see his wudu as nullified. Malik said regarding one who sleeps on his riding animal: If that is prolonged, his wudu is nullified, but if it is something light, he remains in his wudu. The questioner said: What do you think if the one on his riding animal sleeps for the duration between Maghrib and Isha? He said: I see that he should repeat wudu in such a case, and this is a lot. He said: And in my view, he is like one sitting. Malik said: Whoever sleeps while sitting with his knees drawn up on Friday and similar occasions, that is light and I do not see wudu upon him because such a person does not settle firmly. The questioner asked: What if he sleeps while sitting without drawing up his knees? He said: This is more severe because such a person settles firmly, and wudu is upon him if that is much and prolonged. Malik said from Zayd ibn Aslam, from Ata ibn Yasar: that the interpretation of this verse 'O you who believe, when you stand for prayer, wash your faces and your hands to the elbows...' is that it refers to 'when you stand from your sleeping places', meaning from sleep.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is not a hadith but rather the legal opinion (fiqh) of Imam Malik regarding when sleep nullifies wudu"]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata ibn Yasar",
+              "full_name": "Ata ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This narration from Ata is mawquf (statement of a Tabi'i regarding Quranic interpretation), not marfu to the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Malik (his opinion)",
+        "Malik -> Zayd ibn Aslam -> Ata ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith from the Prophet ﷺ but rather legal opinions (fiqh) of Imam Malik and a tafsir statement from Ata ibn Yasar",
+          "impact": "Cannot be attributed to the Prophet ﷺ - these are scholarly opinions and interpretations"
+        }
+      ],
+      "IISGrade": "Not Applicable - Legal Opinion",
+      "Topics": [
+        "Wudu nullification from sleep",
+        "Light sleep vs heavy sleep",
+        "Sleeping while riding",
+        "Sleeping positions and wudu",
+        "Tafsir of Quran 5:6"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : مَنْ نَامَ فِي سُجُودِهِ فَاسْتَثْقَلَ نَوْمًا وَطَالَ ذَلِكَ أَنَّ وُضُوءَهُ مُنْتَقَضٌ . قَالَ : وَمَنْ نَامَ نَوْمًا خَفِيفًا - الْخَطِرَةَ وَنَحْوَهَا - لَمْ أَرَ وُضُوءَهُ مُنْتَقَضًا . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ نَامَ عَلَى دَابَّتِهِ قَالَ : إِنْ طَالَ ذَلِكَ بِهِ انْتَقَضَ وُضُوءُهُ وَإِنْ كَانَ شَيْئًا خَفِيفًا فَهُوَ عَلَى وُضُوئِهِ . قَالَ : فَقُلْتُ لَهُ : أَرَأَيْتَ إِنْ نَامَ الَّذِي عَلَى دَابَّتِهِ قَدْرَ مَا بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ ؟ قَالَ : أَرَى أَنْ يُعِيدَ الْوُضُوءَ فِي مثل هَذَا وَهَذَا كَثِيرٌ , قَالَ : وَهُوَ عندِي بِمَنْزِلَةِ الْقَاعِدِ . قَالَ : وَقَالَ مَالِكٌ : مَنْ نَامَ وَهُوَ مُحْتَبٍ فِي يَوْمِ الْجُمُعَةِ وَمَا أَشْبَهَ ذَلِكَ فَإِنَّ ذَلِكَ خَفِيفٌ وَلَا أَرَى عَلَيْهِ الْوُضُوءَ لِأَنَّ هَذَا لَا يَثْبُتُ , قَالَ : فَإِنْ نَامَ وَهُوَ جَالِسٌ بِلَا احْتِبَاءٍ ؟ قَالَ : هَذَا أَشَدُّ لِأَنَّ هَذَا يَثْبُتُ وَعَلَى هَذَا الْوُضُوءُ إِنْ كَثُرَ ذَلِكَ وَطَالَ . قَالَ مَالِكٌ : عن زَيْدِ بْنِ أَسْلَمَ ، عن عَطَاءِ بْنِ يَسَارٍ ، أَنَّ تَفْسِيرَ هَذِهِ الْآيَةِ : /4 يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوا وَإِنْ كُنْتُمْ مَرْضَى أَوْ عَلَى سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ /4 أَنَّ ذَلِكَ إِذَا قُمْتُمْ مِنَ الْمَضَاجِعِ يَعني النَّوْمَ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 20,
+      "grade": "Mawquf"
+    },
+    {
+      "hadith_id": 10098,
+      "english_translation": "Narrated by Umar ibn al-Khattab, he said: 'When one of you sleeps while lying down, then let him perform wudu.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This chain uses 'anna (أَنَّ) which indicates potential disconnection - Zayd ibn Aslam did not directly hear from Umar ibn al-Khattab (who died before Zayd was born)", "This is a mursal or munqati' chain as Zayd ibn Aslam was not born during the life of Umar ibn al-Khattab"]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Zayd ibn Aslam -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Clear disconnection (inqita') in the chain: Zayd ibn Aslam (born around 80 AH) could not have heard from Umar ibn al-Khattab (died 23 AH)",
+          "impact": "This makes the narration munqati' (disconnected) and therefore weak according to hadith terminology"
+        },
+        {
+          "issue": "The use of 'anna (أَنَّ) suggests indirect transmission or disconnection",
+          "impact": "This transmission term reinforces the disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Wudu requirement after sleeping while lying down"
+      ],
+      "arabicText": "قَالَ /12 مَالِكٌ /12 : عن /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 ، قَالَ : /20 \" إِذَا نَامَ أَحَدُكُمْ وَهُوَ مُضْطَجِعٌ فَلْيَتَوَضَّأْ \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 21,
+      "grade": "Munqati' (Disconnected)"
+    },
+    {
+      "hadith_id": 10099,
+      "english_translation": "Narrated by Abu Hurayrah, he used to say: 'There is no wudu upon one sleeping while sitting with knees drawn up, nor upon one standing and sleeping.' Ibn Wahb also narrated that Ata ibn Abi Rabah and Mujahid said: 'If a man sleeps while bowing or prostrating, then wudu is upon him.' Ibn Wahb narrated from Yunus ibn Yazid, from Ibn Shihab who said: 'The Sunnah is that whoever sleeps while bowing or prostrating, then wudu is upon him.' Ali ibn Ziyad narrated from Sufyan, from Said ibn Iyas al-Jariri, from Abi Khalid ibn Allaq al-Absi, from Abu Hurayrah who said: 'Whoever becomes heavy with sleep, then wudu is obligatory upon him.' Ibn Wahb said: Rabia ibn Abi Abd al-Rahman had a fan in his hand while sitting, and the fan fell from his hand while he was drowsy, so he performed wudu. Ibn Abi Salamah said: 'Whoever becomes heavy with sleep, then wudu is upon him in whatever state he was.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Haywah ibn Shurayh",
+              "full_name": "Haywah ibn Shurayh ibn Safwan al-Tujaybi al-Himsi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sakhr Humayd ibn Ziyad",
+              "full_name": "Humayd ibn Ziyad al-Khuza'i al-Madani",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yazid ibn Qusayt",
+              "full_name": "Yazid ibn Qusayt al-Laythi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple uses of 'an (عَنْ) transmission which could indicate indirect transmission"]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ali ibn Ziyad",
+              "full_name": "Ali ibn Ziyad al-Tunisi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan ibn Uyaynah ibn Abi Imran al-Hilali",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Said ibn Iyas al-Jariri",
+              "full_name": "Said ibn Iyas ibn Abi Uthman al-Jariri al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Experienced ikhtilat (memory confusion) late in life"]
+            },
+            {
+              "name": "Abu Khalid ibn Allaq al-Absi",
+              "full_name": "Abu Khalid Yazid ibn Allaq al-Absi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Said ibn Iyas al-Jariri experienced ikhtilat later in life - need to determine if the narrator from him heard before or after confusion"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Haywah ibn Shurayh -> Abu Sakhr Humayd ibn Ziyad -> Yazid ibn Qusayt -> Abu Hurayrah",
+        "Ali ibn Ziyad -> Sufyan -> Said ibn Iyas al-Jariri -> Abu Khalid ibn Allaq -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are statements (aqwal) of Abu Hurayrah, not marfu hadiths from the Prophet ﷺ",
+          "impact": "These represent the opinion of a Companion, not a direct statement from the Prophet ﷺ"
+        },
+        {
+          "issue": "Said ibn Iyas al-Jariri experienced ikhtilat (memory confusion) later in life",
+          "impact": "The narration through Sufyan from al-Jariri should be examined - Sufyan ibn Uyaynah is considered among those who heard from al-Jariri before his confusion, so this particular path is likely acceptable"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chains",
+          "impact": "Minor concern as all narrators in both chains are considered reliable and not known for problematic tadlis"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Wudu requirement for different sleeping positions",
+        "Sleeping while standing or sitting with knees drawn up",
+        "Sleeping while bowing or prostrating",
+        "Heavy sleep and wudu"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 حَيْوَةَ بْنِ شُرَيْحٍ L2596 /94 ، عن /26 أَبِي صَخْرٍ حُمَيْدِ بْنِ زِيَادٍ L2539 /26 ، عن /26 يَزِيدَ بْنِ قُسَيْطٍ L8455 /26 ، /27 أَنَّ /93 أَبَا هُرَيْرَةَ L4396 /93 , كَانَ يَقُولُ : /20 \" لَيْسَ عَلَى الْمُجْتَبِي النَّائِمِ ، وَلَا عَلَى الْقَائِمِ النَّائِمِ وُضُوءٌ \" /27 * \r\nقَالَ ابْنُ وَهْبٍ : وَقَالَ عَطَاءُ بْنُ أَبِي رَبَاحٍ ، وَمُجَاهِدٌ \" إِنَّ الرَّجُلَ إِذَا نَامَ رَاكِعًا أَوْ سَاجِدًا فَعَلَيْهِ الْوُضُوءُ \" . قَالَ ابْنُ وَهْبٍ ، عن /94 يُونُسَ بْنِ يَزِيدَ /94 ، عن /26 ابْنِ شِهَابٍ /26 ، قَالَ : \" إِنَّ السُّنَّةَ فِيمَنْ نَامَ رَاكِعًا أَوْ سَاجِدًا ، فَعَلَيْهِ الْوُضُوءُ \" . قَالَ عَلِيُّ بْنُ زِيَادٍ ، عن /94 سُفْيَانَ L3436 /94 ، عن /26 سَعِيدِ بْنِ إِيَاسٍ الْجَرِيرِيِّ L3290 /26 ، عن /26 أَبِي خَالِدِ بْنِ عَلَّاقٍ الْعَبْسِيِّ /26 ، عن /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : \" مَنِ اسْتَحَقَّ نَوْمًا فَقَدْ وَجَبَ عَلَيْهِ الْوُضُوءُ \" قَالَ ابْنُ وَهْبٍ : وَأَنَّ رَبِيعَةَ بْنَ أَبِي عَبْدِ الرَّحْمَنِ كَانَتْ فِي يَدِهِ مِرْوَحَةٌ وَهُوَ جَالِسٌ ، فَسَقَطَتْ مِنْ يَدِهِ الْمِرْوَحَةُ وَهُوَ نَاعِسٌ فَتَوَضَّأَ , وَقَالَ : قَالَ /93 ابْنُ أَبِي سَلَمَةَ /93 : \" مَنِ اسْتَثْقَلَ نَوْمًا فَعَلَيْهِ الْوُضُوءُ عَلَى أَيْ حَالٍ كَانَ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 22,
+      "grade": "Mawquf - Acceptable"
+    },
+    {
+      "hadith_id": 10100,
+      "skip_reason": "Chapter heading only - no hadith content",
+      "arabicText": "مَا جَاءَ فِي سَلَسِ الْبَوْلِ وَالْمَذْيِ وَالدُّودِ وَالدَّمِ يَخْرُجُ مِنَ الدُّبُرِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 23
+    },
+    {
+      "hadith_id": 10101,
+      "skip_reason": "Legal opinions and discussions of Imam Malik - not a hadith",
+      "arabicText": "قَالَ : وَسَأَلْتُ ابْنَ الْقَاسِمِ عن الذَّكَرِ يَخْرُجُ مِنْهُ الْمَذْيُ هَلْ عَلَى صَاحِبِهِ مِنْهُ الْوُضُوءُ ؟...",
+      "collection": "كتاب رقم 20",
+      "reference_number": 24,
+      "note": "This entry contains extensive legal discussions and opinions of Malik ibn Anas regarding madhiy, urinary incontinence, and related purity issues - not a hadith chain"
+    },
+    {
+      "hadith_id": 10102,
+      "english_translation": "Narrated by Umar ibn al-Khattab, he said: 'Indeed, I find it descending from me like a small bead, so when one of you finds that, then let him wash his private part and perform wudu for prayer.' Malik said: Meaning madhiy (pre-seminal fluid).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aslam",
+              "full_name": "Aslam ibn Zayd al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Zayd ibn Aslam -> Aslam (his father) -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration - a statement of Umar ibn al-Khattab, not from the Prophet ﷺ",
+          "impact": "While from a Companion, this is Umar's personal statement about his own experience, not a marfu hadith"
+        },
+        {
+          "issue": "The chain uses 'an (عَنْ) but the narrators are all reliable and the chain is connected through Aslam who was the freed slave of Umar",
+          "impact": "Minor - Aslam directly served Umar and had direct access to his statements"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Madhiy (pre-seminal fluid) and its ruling",
+        "Washing after madhiy",
+        "Wudu requirement after madhiy"
+      ],
+      "arabicText": "قَالَ : وَقَدْ ذَكَرَ لَنَا /12 مَالِكٌ /12 ، عن /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عن /26 أَبِيهِ L549 /26 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 ، قَالَ : /20 \" إِنِّي لَأَجِدُهُ يَنْحَدِرُ مِنِّي مثل الْخُرَيْزَةِ ، فَإِذَا وَجَدَ أَحَدُكُمْ ذَلِكَ فَلْيَغْسِلْ فَرْجَهُ ، وَلْيَتَوَضَّأْ وُضُوءَهُ لِلصَّلَاةِ \" /27 , قَالَ /12 مَالِكٌ /12 : /10 يَعني الْمَذْيَ /10 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 25,
+      "grade": "Mawquf - Sound"
+    },
+    {
+      "hadith_id": 10103,
+      "english_translation": "Narrated by Umar ibn al-Khattab, he said: 'Indeed, I find it descending from me during prayer on my thigh like beads of pearl, but I do not leave until I complete my prayer.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Muhammad al-Umari",
+              "full_name": "Umar ibn Muhammad ibn Zayd ibn Abdullah ibn Umar al-Adawi al-Umari",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Has some errors in his narrations"]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection - Umar ibn Muhammad al-Umari (died around 173 AH) could not have heard from Umar ibn al-Khattab (died 23 AH)", "The use of 'anna (أَنَّ) indicates indirect transmission or disconnection"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Umar ibn Muhammad al-Umari -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Clear disconnection (inqita') in the chain: Umar ibn Muhammad al-Umari was born long after Umar ibn al-Khattab died",
+          "impact": "This makes the narration munqati' (disconnected) and therefore weak"
+        },
+        {
+          "issue": "Umar ibn Muhammad al-Umari is graded as Saduq Lahu Awham (truthful but has some errors)",
+          "impact": "Even if the chain were connected, this narrator's reliability is not at the highest level"
+        },
+        {
+          "issue": "The narration contains additional reports from various scholars that are not hadith chains",
+          "impact": "Much of the text is scholarly opinions and practices, not authenticated hadiths"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Madhiy occurring during prayer",
+        "Continuing prayer despite madhiy",
+        "Urinary incontinence and wudu",
+        "Practice of Zayd ibn Thabit regarding urinary incontinence"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 : عن /94 عُمَرَ بْنِ مُحَمَّدٍ الْعُمَرِيِّ L6005 /94 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 قَالَ : /20 \" إِنِّي لَأَجِدُهُ يَنْحَدِرُ مِنِّي فِي الصَّلَاةِ عَلَى فَخِذِي كَخَرَزِ اللُّؤْلُؤِ فَمَا أَنْصَرِفُ حَتَّى أَقْضِيَ صَلَاتِي \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 26,
+      "grade": "Munqati' (Disconnected) - Weak"
+    },
+    {
+      "hadith_id": 10104,
+      "english_translation": "Narrated by al-Miqdad ibn al-Aswad: that Ali ibn Abi Talib ordered him to ask for him the Messenger of Allah ﷺ about when one of us has madhiy come out of him, what is upon him? For indeed his daughter is with me and I am shy to ask him. Al-Miqdad said: So I asked him and he ﷺ said: 'When one of you finds that, then let him wash his private part and perform wudu for prayer.'",
+      "chains": [
+        {
+          "type": "marfu",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Nadr",
+              "full_name": "Salim ibn Abi Umayya al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Miqdad ibn al-Aswad",
+              "full_name": "al-Miqdad ibn Amr ibn Tha'labah al-Kindi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Nadr -> Sulayman ibn Yasar -> al-Miqdad ibn al-Aswad -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) from Sulayman ibn Yasar to al-Miqdad and from al-Miqdad regarding the Prophet's ﷺ statement",
+          "impact": "Minor concern - Sulayman ibn Yasar is highly reliable (Thiqah Thabt) and not known for problematic tadlis. The connection is considered sound by the majority of scholars"
+        },
+        {
+          "issue": "The narration also includes additional statements from Malik about madhiy and wady, and other scholarly opinions",
+          "impact": "The additional material is fiqh opinion, not part of the marfu hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Ali ibn Abi Talib asking about madhiy",
+        "Ali's shyness due to being married to the Prophet's ﷺ daughter",
+        "Ruling on madhiy",
+        "Washing private parts after madhiy",
+        "Wudu after madhiy"
+      ],
+      "arabicText": "قَالَ /12 مَالِكٌ /12 ، عن /94 أَبِي النَّضْرِ L3181 /94 حَدَّثَهُ ، عن /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، /27 عن /93 الْمِقْدَادِ بْنِ الْأَسْوَدِ L1684 /93 , أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ أَمَرَ أَنْ يَسْأَلَ لَهُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عن /20 أَحَدِنَا يَخْرُجُ مِنْهُ الْمَذْيُ مَاذَا عَلَيْهِ ؟ فَإِنَّ عندِي ابْنَتَهُ وَأَنَا اسْتَحْيِ أَنْ أَسْأَلَهُ , قَالَ الْمِقْدَادُ : فَسَأَلْتُهُ فَقَالَ : \" إِذَا وَجَدَ أَحَدُكُمْ ذَلِكَ فَلْيَغْسِلْ فَرْجَهُ وَلْيَتَوَضَّأْ وُضُوءَهُ لِلصَّلَاةِ \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 27,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10105,
+      "skip_reason": "Chapter heading only - no hadith content",
+      "arabicText": "فِي وُضُوءِ الْمَجْنُونِ وَالسَّكْرَانِ وَالْمُغْمَى عَلَيْهِ إِذَا أَفَاقُوا",
+      "collection": "كتاب رقم 20",
+      "reference_number": 28
+    },
+    {
+      "hadith_id": 10106,
+      "skip_reason": "Legal opinions and discussions of Imam Malik - not a hadith",
+      "arabicText": "قَالَ وَسَأَلْتُ مَالِكًا عن الْمَجْنُونِ يُخْنَقُ ؟ قَالَ : أَرَى عَلَيْهِ الْوُضُوءَ إِذَا أَفَاقَ...",
+      "collection": "كتاب رقم 20",
+      "reference_number": 29,
+      "note": "This entry contains legal discussions and opinions of Malik ibn Anas regarding wudu for those who lose consciousness - not a hadith chain"
+    },
+    {
+      "hadith_id": 10107,
+      "skip_reason": "Chapter heading only - no hadith content",
+      "arabicText": "مَا جَاءَ فِي الْمُلَامَسَةِ وَالْقُبْلَةِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 30
+    },
+    {
+      "hadith_id": 10108,
+      "skip_reason": "Legal opinions and discussions of Imam Malik - not a hadith",
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الْمَرْأَةِ تَمَسُّ ذَكَرَ الرَّجُلِ...",
+      "collection": "كتاب رقم 20",
+      "reference_number": 31,
+      "note": "This entry contains legal discussions and opinions of Malik ibn Anas regarding touching and kissing - not a hadith chain"
+    },
+    {
+      "hadith_id": 10109,
+      "english_translation": "Narrated by Abdullah ibn Umar, he used to say: 'Wudu is required from a man kissing his wife and from his touching her with his hand.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydillah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis by some scholars (category 3 in Ibn Hajar's classification)"]
+            },
+            {
+              "name": "Salim ibn Abdullah",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Shihab al-Zuhri uses 'an (عَنْ) and is classified as mudallis"]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab al-Zuhri -> Salim ibn Abdullah -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration - a statement of Abdullah ibn Umar, not from the Prophet ﷺ",
+          "impact": "While from a Companion, this is Ibn Umar's personal opinion, not a marfu hadith"
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis (category 3) and uses 'an (عَنْ) transmission",
+          "impact": "Al-Zuhri is widely considered extremely reliable and his 'an'anah is generally accepted by the majority of scholars even though he practiced some tadlis. This does not significantly downgrade the narration given his status"
+        },
+        {
+          "issue": "The narration also contains additional reports from various scholars through mursal chains",
+          "impact": "The additional material includes scholarly opinions and mursal reports which are not as strong as connected chains"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Wudu after kissing one's wife",
+        "Wudu after touching one's wife",
+        "Physical contact with spouse and purity"
+      ],
+      "arabicText": "قَالَ /12 مَالِكٌ /12 ، عن /94 ابْنِ شِهَابٍ L7272 /94 ، عن /26 سَالِمِ بْنِ عَبْدِ اللَّهِ L3194 /26 ، عن /93 أَبِيهِ L4967 /93 ، /27 أَنَّهُ كَانَ يَقُولُ : /20 \" الْوُضُوءُ مِنْ قُبْلَةِ الرَّجُلِ امْرَأَتَهُ ، وَمِنْ جَسِّهَا بِيَدِهِ \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 32,
+      "grade": "Mawquf - Acceptable"
+    },
+    {
+      "hadith_id": 10110,
+      "skip_reason": "Chapter heading only - no hadith content",
+      "arabicText": "فِي الَّذِي يَشُكُّ فِي الْوُضُوءِ وَالْحَدَثِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 33
+    }
+  ]
+}

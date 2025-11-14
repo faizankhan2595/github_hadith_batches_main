@@ -1,0 +1,998 @@
+{
+  "batch_number": 2,
+  "file_number": 76,
+  "processed_count": 9,
+  "hadiths": [
+    {
+      "hadith_id": 10127,
+      "english_translation": "Malik said: Vomiting is of two types - what comes out like food, he did not consider what touches the body from that as impure. And what changes from the state of food and touches his body or his garment, he washes it. And Malik said: Regarding the place of cupping, he said: He washes it and it does not suffice him to wipe it. Malik said: And if he wiped the place of cupping, then prayed and did not wash it, that he should repeat as long as the time remains. Ibn Wahb said, from Ibn Lahi'ah, from Bukayr ibn Abdullah, from al-Qasim ibn Muhammad: That he would not perform ablution from vomiting, and did not consider ablution from it. Ibn Wahb said: And men from the people of knowledge informed me, from Ali ibn Abi Talib, and Yahya ibn Sa'id, and Rabi'ah ibn Abi Abd al-Rahman, and Abi al-Zinad, and Zayd ibn Aslam, and Abd al-Aziz ibn Abi Salamah, likewise. Ibn Wahb said: And it reached me from Yahya ibn Sa'id, and Mujahid, and Tawus, and Rabi'ah ibn Abi Abd al-Rahman regarding al-qals (belching), likewise. Malik said: And I saw Rabi'ah ibn Abi Abd al-Rahman after Maghrib belching in the mosque repeatedly, and he would not leave until he prayed. Ibn Wahb said: And Ibn Abbas, and Ibn Amr, and al-Hasan have said regarding cupping: He washes the place of cupping only. Ibn Wahb said: And Yahya ibn Sa'id said regarding the vein that is cut, and cupping, likewise. And Ibn Shihab said regarding cupping, likewise, and Rabi'ah ibn Abi Abd al-Rahman likewise.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Lahi'ah",
+              "full_name": "Abdullah ibn Lahi'ah ibn Uqbah al-Hadrami al-Misri",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator",
+                "lost books in fire",
+                "memory issues"
+              ]
+            },
+            {
+              "name": "Bukayr ibn Abdullah",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains Ibn Lahi'ah who is weak",
+            "Indirect transmission terms used (عَنْ, أَنَّهُ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Ibn Lahi'ah -> Bukayr ibn Abdullah -> al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Lahi'ah is a weak narrator due to loss of his books in a fire and subsequent memory issues",
+          "impact": "His narrations are generally considered weak unless through specific golden chain narrators (al-Abadilah). This chain does not go through those specific narrators, making it weak."
+        },
+        {
+          "issue": "Multiple indirect transmission terms (عَنْ and أَنَّهُ) used throughout the chain",
+          "impact": "May indicate potential disconnection in the chain, though narrators are not known for tadlis except Ibn Lahi'ah's general weakness"
+        },
+        {
+          "issue": "Contains statements from multiple scholars transmitted through Ibn Wahb with 'balaghani' (it reached me) and 'akhbarani rijal' (men informed me) - these are weak forms of transmission",
+          "impact": "Attribution to scholars like Ali, Yahya ibn Sa'id, and others is questionable due to unclear or disconnected chains"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Purity and impurity of vomit",
+        "Washing after cupping (hijamah)",
+        "No ablution from vomiting",
+        "No ablution from belching",
+        "Incident of Rabi'ah belching in the mosque after Maghrib"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : الْقَيْءُ قَيْآنِ أَمَّا مَا يَخْرُجُ بِمَنْزِلَةِ الطَّعَامِ فَكَانَ لَا يُرَى مَا أَصَابَ الْجَسَدَ مِنْ ذَلِكَ بِنَجَسٍ , وَمَا تَغَيَّرَ عن حَالِ الطَّعَامِ ، فَأَصَابَ جَسَدَهُ أَوْ ثَوْبَهُ غَسَلَهُ قَالَ : وَقَالَ مَالِكٌ : فِي مَوْضِعِ الْمَحَاجِمِ قَالَ : يَغْسِلُهُ وَلَا يُجْزِيهِ أَنْ يَمْسَحَهُ , قَالَ مَالِكٌ : وَإِنْ مَسَحَ مَوْضِعَ الْمَحَاجِمِ ، ثُمَّ صَلَّى وَلَمْ يَغْسِلْ ذَلِكَ أَنَّهُ يُعِيدُ مَا دَامَ فِي الْوَقْتِ . قَالَ ابْنُ وَهْبٍ ، عن ابْنِ لَهِيعَةَ ، عن بُكَيْرِ بْنِ عَبْدِ اللَّهِ ، عن الْقَاسِمِ بْنِ مُحَمَّدٍ : أَنَّهُ كَانَ لَا يَتَوَضَّأُ مِنَ الْقَيْءِ ، وَلَا يَرَى مِنْهُ الْوُضُوءَ . قَالَ ابْنُ وَهْبٍ : وَأَخْبَرَنِي رِجَالٌ مِنْ أَهْلِ الْعِلْمِ ، عن عَلِيِّ بْنِ أَبِي طَالِبٍ ، وَيَحْيَى بْنِ سَعِيدٍ ، وَرَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، وَأَبِي الزِّنَادِ ، وَزَيْدِ بْنِ أَسْلَمَ ، وَعَبْدِ الْعَزِيزِ بْنِ أَبِي سَلَمَةَ ، مِثْلَهُ . قَالَ ابْنُ وَهْبٍ : وَبَلَغَنِي عن يَحْيَى بْنِ سَعِيدٍ ، وَمُجَاهِدٍ ، وَطَاوُسٍ ، وَرَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ فِي الْقَلْسِ مِثْلُهُ , قَالَ مَالِكٌ : وَلَقَدْ رَأَيْتُ رَبِيعَةَ بْنَ أَبِي عَبْدِ الرَّحْمَنِ بَعْدَ الْمَغْرِبِ يَقْلِسُ فِي الْمَسْجِدِ مِرَارًا ، فَلَا يَنْصَرِفُ حَتَّى يُصَلِّيَ . قَالَ ابْنُ وَهْبٍ : وَقَدْ قَالَ ابْنُ عَبَّاسٍ ، وَابْنُ عَمْر ، وَالْحَسَنُ فِي الْحِجَامَةِ : يَغْسِلُ مَوْضِعَ الْمَحَاجِمِ فَقَطْ . قَالَ ابْنُ وَهْبٍ قَالَ : وَقَالَ يَحْيَى بْنُ سَعِيدٍ فِي   الْعِرْقِ يُقْطَعُ ، وَالْمَحَاجِمِ مِثْلَهُ . وَقَالَ ابْنُ شِهَابٍ فِي الْحِجَامَةِ مِثْلَهُ ، وَرَبِيعَةُ بْنُ أَبِي عَبْدِ الرَّحْمَنِ مِثْلَهُ .",
+      "collection": "كتاب رقم 20",
+      "reference_number": 50,
+      "grade": null
+    },
+    {
+      "hadith_id": 10129,
+      "english_translation": "Malik said: Every wound, if its owner leaves it, nothing flows from it, and if he picks at it with something, it flows, then what flows from it is washed from the body and the garment, and there is no ablution from it. And what flows by itself without picking at it, if it is abundant, there is ablution from it, and if it is little, there is no ablution from it. Ibn Wahb said, from Yunus ibn Yazid, from Ibn Shihab: That he used to say regarding the wound that flows blood or pus: He washes it and does not repeat the prayer. And if it was little, he wipes it. Ibn Wahb said: And I heard Malik when asked about the man who has a wound in his head or his body, so he washes it, then puts his hand on it and finds it wet, is there ablution from that? He said: No, unless it flows. Ibn Wahb said: And I heard from Layth ibn Sa'd when asked about the wound that flows: He said: If it is abundant, there is ablution from it, and if it is little, there is no ablution from it. Ibn Wahb said: And similar to this I heard from Malik and others from the people of knowledge. Ibn Wahb said, from Ibn Lahi'ah and Amr ibn al-Harith, from Bukayr ibn Abdullah, from Sulayman ibn Yasar: That he did not use to make ablution from nosebleed nor from what flows from wounds. Ibn Wahb said: And I heard from Yahya ibn Ayub, from Rabi'ah ibn Abi Abd al-Rahman: That he was wounded in his head, and it flowed blood, so he prayed and did not renew ablution.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus ibn Yazid",
+              "full_name": "Yunus ibn Yazid ibn Abi al-Najad al-Ayli",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaidillah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Indirect transmission terms used (عَنْ, أَنَّهُ)"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Lahi'ah",
+              "full_name": "Abdullah ibn Lahi'ah ibn Uqbah al-Hadrami al-Misri",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator",
+                "lost books in fire"
+              ]
+            },
+            {
+              "name": "Bukayr ibn Abdullah",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains Ibn Lahi'ah who is weak"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn al-Harith",
+              "full_name": "Amr ibn al-Harith ibn Ya'qub al-Ansari al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bukayr ibn Abdullah",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Yunus ibn Yazid -> Ibn Shihab",
+        "Ibn Wahb -> Ibn Lahi'ah -> Bukayr ibn Abdullah -> Sulayman ibn Yasar",
+        "Ibn Wahb -> Amr ibn al-Harith -> Bukayr ibn Abdullah -> Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis (category 3) by some scholars and uses indirect term (أَنَّهُ)",
+          "impact": "However, Ibn Shihab is generally considered extremely reliable by the vast majority of scholars, so this does not significantly affect the grade despite his classification as mudallis in some lists"
+        },
+        {
+          "issue": "One chain contains Ibn Lahi'ah who is a weak narrator",
+          "impact": "The chain through Ibn Lahi'ah is weak and unreliable. However, there is a supporting chain through Amr ibn al-Harith which is sound"
+        },
+        {
+          "issue": "Multiple statements from different scholars (Malik, Layth, etc.) with varying chain qualities",
+          "impact": "Some attributions rely on Ibn Wahb's hearing ('sami'tu') which is acceptable but not the strongest form when not part of a complete chain"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Ablution from flowing wounds",
+        "Pus and blood from wounds",
+        "No ablution from nosebleed",
+        "Incident of Rabi'ah praying with bleeding head wound"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : كُلُّ قُرْحَةٍ إِذَا تَرَكَهَا صَاحِبُهَا لَمْ يَسِلْ مِنْهَا شَيْءٌ ، وَإِذَا نَكَأَهَا بِشَيْءٍ سَالَ    @ 1 : 71 @   مِنْهَا , فَإِنَّ تِلْكَ مَا سَالَ مِنْهَا يُغْسَلُ مِنْهُ الثَّوْبُ وَإِنْ سَالَ عَلَى جَسَدِهِ غَسَلَهُ إِلَّا أَنْ يَكُونَ الشَّيْءُ الْيَسِيرُ مثل الدَّمِ الَّذِي يَفْتِلُهُ وَلَا يَنْصَرِفُ , وَمَا كَانَ مِنْ قُرْحَةٍ يَسِيلُ لَا يَجِفُّ وَهِيَ تَمْصُلُ ، فَإِنَّ تِلْكَ يُجْعَلُ عَلَيْهَا خِرْقَةٌ ، وَيُدَارِيهَا مَا اسْتَطَاعَ , وَإِنْ أَصَابَ ثَوْبَهُ لَمْ أَرَ بَأْسًا أَنْ يُصَلِّيَ بِهِ مَا لَمْ يَتَفَاحَشْ ذَلِكَ ، وَإِنْ تَفَاحَشَ ذَلِكَ ، فَأَحَبُّ إِلَيَّ أَنْ يَغْسِلَهُ وَلَا يُصَلِّيَ بِهِ .\u001bE17 قَالَ ابْنُ الْقَاسِمِ : وَالْقَيْحُ وَالصَّدِيدُ عندَ مَالِكٍ بِمَنْزِلَةِ الدَّمِ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ كَانَتْ بِهِ قُرْحَةٌ ، فَنَكَأَهَا فَسَالَ الدَّمُ ، أَوْ خَرَجَ الدَّمُ هُوَ نَفْسُهُ سَالَ مِنْ غَيْرِ أَنْ يَنْكَأَهَا , قَالَ : هَذَا يَقْطَعُ الصَّلَاةَ إِنْ كَانَ الدَّمُ قَدْ سَالَ وَالْقَيْحُ ، فَيَغْسِلُ ذَلِكَ عنهُ وَلَا يَبْنِي وَيَسْتَأْنِفُ ، وَلَا يَبْنِي إِلَّا فِي الرُّعَافِ وَحْدَهُ , قَالَ : إِنْ كَانَ ذَلِكَ الدَّمُ الَّذِي خَرَجَ مِنْ هَذِهِ الْقُرْحَةِ دَمًا يَسِيرًا ، فَلْيَمْسَحْهُ وَلْيَفْتِلْهُ وَلْيَمْضِ عَلَى صَلَاتِهِ . قَالَ ابْنُ وَهْبٍ : إِنَّ عُمَرَ بْنَ الْخَطَّابِ صَلَّى ، وَالْجُرْحُ يَثْعَبُ دَمًا قَالَ يُونُسُ بْنُ يَزِيدَ ، عن رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّهُ قَالَ : أَمَّا الشَّيْءُ اللَّازِمُ مِنْ جُرْحٍ يَمْصُلُ ، أَوْ أَثَرِ بَرَاغِيثَ فَصَلِّ بِثَوْبِكَ , وَإِذَا تَفَاحَشَ مَنْظَرُهُ ذَلِكَ ، أَوْ   تَغَيَّرَ رِيحُهُ فَاغْسِلْهُ ، وَلَيْسَ بِهِ بَأْسٌ مَا لَمْ يَتَفَاحَشْ مَنْظَرُهُ ، وَيَظْهَرُ رِيحُهُ مَا دُمْتَ تُدَارِي ذَلِكَ . قَالَ ابْنُ وَهْبٍ ، قَالَ يُونُسُ : قَالَ ابْنُ شِهَابٍ فِي الْجُرْحِ يَمْصُلُ قَالَ : تُدَارِي مَا عَلَيْكَ مِنْ ذَلِكَ ، ثُمَّ تُصَلِّي . قَالَ ابْنُ وَهْبٍ ، قَالَ يُونُسُ ، قَالَ أَبُو الزِّنَادِ : أَمَّا الَّذِي لَا يَبْرَحُ فَلَا غَسْلَ فِيهِ . قَالَ ابْنُ وَهْبٍ ، وَقَدْ قَالَ عُرْوَةُ بْنُ الزُّبَيْرِ ، وَعَطَاءُ بْنُ أَبِي رَبَاحٍ مِثْلَهُ فِي الدُّمَّلِ ، وَالْقُرْحَةِ . قَالَ ابْنُ وَهْبٍ : إِنَّ /93 أَبَا هُرَيْرَةَ /93 , /15 /93 وَابْنَ الْمُسَيِّبِ /93 /15 ، /15 /93 وَسَالِمَ بْنَ عَبْدِ اللَّهِ /93 /15 كَانُوا يُخْرِجُونَ أَصَابِعَهُمْ مِنْ أُنُوفِهِمْ مُخْتَضِبَةً دَمًا ، فَيَفْتِلُونَهُ وَيَمْسَحُونَهُ ، ثُمَّ يُصَلُّونَ وَلَا يَتَوَضَّئُونَ قَالَ ابْنُ وَهْبٍ : وَبَلَغَنِي أَنَّ ابْنَ الْمُسَيِّبِ ، وَعَطَاءَ بْنَ أَبِي رَبَاحٍ ، وَرَبِيعَةَ وَمُحَمَّدَ بْنَ كَعْبٍ الْقُرَظِيَّ فِيمَا يَخْرُجُ مِنَ الْفَمِ مِنَ الدَّمِ لَا يَرَوْنَ فِيهِ وُضُوءًا . وَقَالَ سَالِمٌ وَيَحْيَى بْنُ سَعِيدٍ مِثْلَهُ .2E18",
+      "collection": "كتاب رقم 20",
+      "reference_number": 52,
+      "grade": null
+    },
+    {
+      "hadith_id": 10131,
+      "english_translation": "Malik said: The meaning of the saying of the Prophet ﷺ: 'In the sandal (garment), what comes after it purifies it,' and this is regarding dried filth. Ibn al-Qasim said: Malik used to say: If a man steps on something impure with his sandal, then walks on pure earth or pure stone, and it removes what was on his sandal, then he prays in it, there is no harm. And if any trace remains on it, he washes it with water.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Purification of sandals by walking on pure earth",
+        "Dried filth on garments"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : مَعنى قَوْلِ النَّبِيِّ عَلَيْهِ السَّلامُ : \" فِي الدِّرْعِ يُطَهِّرُهُ مَا بَعْدَهُ \" ، وَهَذَا فِي الْقِشْبِ الْيَابِسِ . قَالَ ابْنُ الْقَاسِمِ : كَانَ مَالِكٌ يَقُولُ : دَهْرَهُ فِي الرَّجُلِ يَطَأُ بِخُفِّهِ عَلَى أَرْوَاثِ الدَّوَابِّ ، ثُمَّ يَأْتِي الْمَسْجِدَ أَنَّهُ يَغْسِلُهُ وَلَا يُصَلِّي فِيهِ قَبْلَ أَنْ يَغْسِلَهُ , ثُمَّ كَانَ آخِرَ مَا فَارَقْنَاهُ عَلَيْهِ أَنْ قَالَ : أَرْجُو أَنْ يَكُونَ وَاسِعًا , قَالَ : وَمَا كَانَ النَّاسُ يَتَحَفَّظُونَ هَذَا التَّحَفُّظَ . وَقَالَ مَالِكٌ فِيمَنْ وَطِئَ بِخُفَّيْهِ أَوْ بِنَعْلَيْهِ عَلَى دَمٍ أَوْ عَلَى عَذِرَةٍ قَالَ : لَا يُصَلِّي فِيهِ حَتَّى يَغْسِلَهُ , قَالَ : وَإِذَا وَطِئَ عَلَى أَرْوَاثِ الدَّوَابِّ وَأَبْوَالِهَا ؟ قَالَ : فَهَذَا يَدْلُكُهُ ، وَيُصَلِّي بِهِ وَهَذَا خَفِيفٌ . \r\n$18  19 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 54,
+      "grade": null
+    },
+    {
+      "hadith_id": 10132,
+      "english_translation": "Ibn Wahb said, from al-Harith ibn Nabhan, from a man, from Anas ibn Malik: That the Messenger of Allah ﷺ was asked about blood that is on the garment. He said: 'Scratch it off, then wash it with water.' Ibn Wahb said, from Hisham ibn Sa'd, from Zayd ibn Aslam, from his father: That a man came to Umar ibn al-Khattab and said: O Commander of the Faithful, verily I had major impurity (janabah) and could not find water. Umar said: Do not pray. Then Ammar ibn Yasir said: O Commander of the Faithful, do you not remember when you and I were in a military expedition and we had janabah and could not find water? As for you, you did not pray, but as for me, I rolled in the dust and prayed. Then I came to the Messenger of Allah ﷺ and he said: 'It would have been sufficient for you to do this' - and the Messenger of Allah ﷺ struck the earth with his palms, then blew on them, then wiped his face and his palms. Umar said: Fear Allah, O Ammar! He said: If you wish, I will not narrate it. Umar said: We will let you bear the responsibility for what you narrate.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Harith ibn Nabhan",
+              "full_name": "al-Harith ibn Nabhan al-Jarmi al-Basri",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator",
+                "criticized by scholars"
+              ]
+            },
+            {
+              "name": "a man (unknown)",
+              "full_name": "Unknown narrator",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "completely unknown"
+              ]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains al-Harith ibn Nabhan who is weak",
+            "Contains unknown narrator",
+            "Broken chain due to majhul narrator"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Sa'd",
+              "full_name": "Hisham ibn Sa'd al-Madani",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "his father (Aslam)",
+              "full_name": "Aslam mawla Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> al-Harith ibn Nabhan -> unknown man -> Anas ibn Malik -> Prophet Muhammad ﷺ",
+        "Ibn Wahb -> Hisham ibn Sa'd -> Zayd ibn Aslam -> Aslam -> Umar ibn al-Khattab (and includes narration from Ammar about the Prophet ﷺ)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain contains al-Harith ibn Nabhan who is a weak narrator criticized by hadith scholars",
+          "impact": "This chain is weak and unreliable"
+        },
+        {
+          "issue": "First chain contains an unknown narrator (rajul - a man) which breaks the chain",
+          "impact": "This makes the first chain severely problematic and unreliable due to jahala (unknown narrator)"
+        },
+        {
+          "issue": "Second chain contains Hisham ibn Sa'd who is graded as Saduq (truthful but not highest level)",
+          "impact": "Slightly lower reliability than Thiqah narrators, but generally acceptable"
+        },
+        {
+          "issue": "Second chain uses multiple indirect transmission terms (عَنْ)",
+          "impact": "These narrators are not known for tadlis, so this is acceptable"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Washing blood from garments",
+        "Tayammum (dry ablution) when water is unavailable",
+        "Incident of Ammar ibn Yasir rolling in dust",
+        "Dialogue between Umar and Ammar about tayammum",
+        "Method of tayammum taught by the Prophet ﷺ"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 الْحَارِثِ بْنِ نَبْهَانَ L1223 /94 ، عن /18 /26 رَجُلٍ L1131 /26 /18 ، /27 عن /93 أَنَسِ بْنِ مَالِكٍ L720 /93 , أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" إِذَا جَاءَ أَحَدُكُمْ إِلَى الْمَسْجِدِ فَإِنْ كَانَ لَيْلًا فَلْيَدْلُكْ نَعْلَيْهِ ، وَإِنْ كَانَ نَهَارًا فَلْيَنْظُرْ إِلَى أَسْفَلِهِمَا \" /27 * \r\nقَالَ ابْنُ وَهْبٍ ، قَالَ اللَّيْثُ بْنُ سَعْدٍ : وَسَمِعْتُ يَحْيَى بْنَ سَعِيدٍ ، يَقُولُ : نَكْرَهُ أَنْ يُصَلِّيَ بِبَوْلِ الْحَمِيرِ ، وَالْبِغَالِ ، وَالْخَيْلِ ، وَأَرْوَاثِهَا ، وَلَا نَكْرَهُ ذَلِكَ مِنَ الْإِبِلِ وَالْبَقَرِ وَالْغَنَمِ , وَقَالَهُ ابْنُ شِهَابٍ ، وَعَطَاءٌ ، وَعَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ ، وَنَافِعٌ ، وَأَبُو الزِّنَادِ ، وَسَالِمٌ   ، وَمُجَاهِدٌ فِي الْإِبِلِ ، وَالْبَقَرِ ، وَالْغَنَمِ . وَقَالَ مَالِكٌ : إِنَّ أَهْلَ الْعِلْمِ لَا يَرَوْنَ عَلَى مَنْ    @ 1 : 72 @    أَصَابَهُ شَيْءٌ مِنْ أَبْوَالِ الْبَقَرِ وَالْإِبِلِ وَالْغَنَمِ ، وَإِنْ أَصَابَ ثَوْبَهُ فَلَا يَغْسِلُهُ , وَيَرَوْنَ عَلَى مَنْ أَصَابَهُ شَيْءٌ مِنْ أَبْوَالِ الدَّوَابِّ : الْخَيْلِ وَالْبِغَالِ وَالْحَمِيرِ أَنْ يَغْسِلَهُ ، وَالَّذِي فَرَّقَ بَيْنَ ذَلِكَ أَنَّ تِلْكَ تُشْرَبُ أَلْبَانُهَا ، وَتُؤْكَلُ لُحُومُهَا , وَأَنَّ هَذِهِ لَا تُشْرَبُ أَلْبَانُهَا ، وَلَا تُؤْكَلُ لُحُومُهَا ، وَقَدْ سَأَلْتُ بَعْضَ أَهْلِ الْعِلْمِ عن هَذَا فَقَالُوا لِي هَذَا . \r\n$19  20 /3 /141 /11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 عُمَرَ بْنِ قَيْسٍ L5995 /94 ، عن /26 عَطَاءٍ L5625 /26 ، قَالَ : /27 \" كَانَ /93 أَصْحَابُ L1131 /93 رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 يَمْشُونَ حُفَاةً ، فَمَا وَطَئُوا عَلَيْهِ مِنْ قَشَبٍ رَطْبٍ غَسَلُوهُ ، وَمَا وَطَئُوا عَلَيْهِ مِنْ قَشَبٍ يَابِسٍ لَمْ يَغْسِلُوهُ \" /27 * \r\nقَالَ وَكِيعٌ ، عن /94 سُفْيَانَ بْنِ عُيَيْنَةَ /94 ، عن /26 سُلَيْمَانَ بْنِ مِهْرَانَ /26 ، عن /26 شَقِيقِ بْنِ سَلَمَةَ /26 ، عن /93 عَبْدِ اللَّهِ بْنِ مَسْعُودٍ /93 ، قَالَ : \" كُنَّا نَمْشِي مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَلَا يَتَوَضَّأُ مِنْ مَوْطِئٍ \" قَالَ وَكِيعٌ ، عن /94 عِيسَى بْنِ يُونُسَ /94 ، عن /26 مُحَمَّدِ بْنِ مُجَاشِعٍ التَّغْلِبِيِّ /26 ، عن /26 أَبِيهِ /26 ، عن /26 كُهَيْلٍ /26 ، قَالَ : \" رَأَيْتُ /93 عَلِيَّ بْنَ أَبِي طَالِبٍ /93 يَخُوضُ طِينَ الْمَطَرِ ، ثُمَّ دَخَلَ الْمَسْجِدَ ، فَصَلَّى وَلَمْ يَغْسِلْ رِجْلَيْهِ \" قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ بِطِينِ الْمَطَرِ ، وَمَاءِ الْمَطَرِ الْمُسْتَنْقَعِ فِي   السِّكَكِ وَالطُّرُقِ ، وَمَا أَصَابَ مِنْ ثَوْبٍ أَوْ خُفٍّ أَوْ نَعْلٍ أَوْ جَسَدٍ ، فَلَا بَأْسَ بِذَلِكَ , قَالَ : فَقُلْنَا لَهُ : إِنَّهُ يَكُونُ فِيهِ أَرْوَاثُ الدَّوَابِّ وَأَبْوَالُهَا وَالْعَذِرَةُ , قَالَ : لَا بَأْسَ بِذَلِكَ مَا زَالَتِ الطُّرُقُ هَذَا فِيهَا ، وَكَانُوا يَخُوضُونَ الْمَطَرَ وَطِينَهُ ، وَيُصَلُّونَ وَلَا يَغْسِلُونَهُ .\u001fE19",
+      "collection": "كتاب رقم 20",
+      "reference_number": 55,
+      "grade": null
+    },
+    {
+      "hadith_id": 10134,
+      "english_translation": "Malik said regarding the man who prays while in his garment is a small amount of blood from menstruation or other than it, and he sees it while he is in prayer. He said: He continues with his prayer and does not care that he not wash it, except that he washes it for any other prayer. And if he saw it before he entered the prayer, I would prefer that he wash it, then pray, and if he did not do so and prayed, I would not command him to repeat. Ibn Wahb said: And Malik narrated to me, from Hisham ibn Urwah, from his father, from Aisha, wife of the Prophet ﷺ, who said: The Messenger of Allah ﷺ was asked about the man who finds wetness and does not remember a dream. He said: 'He should perform ghusl (bathe).' And about the man who sees a dream but does not find wetness. He said: 'There is no ghusl upon him.' Umm Sulaym said: O Messenger of Allah, if the woman sees that, is there ghusl upon her? He said: 'Yes, women are the sisters of men.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "his father (Urwah)",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Malik -> Hisham ibn Urwah -> Urwah -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Indirect transmission terms (عَنْ) used by Hisham ibn Urwah and Urwah",
+          "impact": "These narrators are not known for tadlis and are highly reliable, so this does not affect authenticity"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Praying with small amount of blood on garment",
+        "Ghusl after wet dream without remembering the dream",
+        "No ghusl for dream without wetness",
+        "Women's ghusl after wet dreams",
+        "Dialogue with Umm Sulaym about women's purification"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الرَّجُلِ يُصَلِّيَ وَفِي ثَوْبِهِ دَمٌ يَسِيرٌ مَنْ دَمِ حَيْضَةِ أَوْ غَيْرِهِ ، فَيَرَاهُ وَهُوَ فِي الصَّلَاةِ قَالَ : يَمْضِي عَلَى صَلَاتِهِ وَلَا يُبَالِي أَلَّا يَنْزِعَهُ ، وَلَوْ نَزَعَهُ لَمْ أَرَ بِهِ بَأْسًا , وَإِنْ كَانَ دَمًا كَثِيرًا كَانَ دَمَ حَيْضَةٍ ، أَوْ غَيْرِهِ نَزَعَهُ ، وَاسْتَأْنَفَ الصَّلَاةَ مِنْ أَوَّلِهَا بِإِقَامَةٍ , وَلَا يَبْنِي عَلَى شَيْءٍ مِمَّا صَلَّى ، وَإِنْ رَأَى بَعْدَمَا فَرَغَ أَعَادَ مَا دَامَ فِي الْوَقْتِ ، وَالدَّمُ كُلُّهُ عندِي سَوَاءٌ دَمُ الْحَيْضَةِ وَغَيْرُهُ , وَدَمُ الْحُوتِ عندَ مَالِكٍ مثل جَمِيعِ الدَّمِ , قَالَ : وَيُغْسَلُ قَلِيلُ الدَّمِ وَكَثِيرُهُ مِنَ الدَّمِ كُلِّهِ ، وَإِنْ كَانَ دَمَ ذُبَابٍ رَأَيْتُ أَنْ يُغْسَلَ . قُلْتُ : فَإِنْ كَانَ فِي نَافِلَةٍ ، فَلَمَّا صَلَّى رَكْعَةً رَأَى فِي ثَوْبِهِ دَمًا كَثِيرًا أَيَقْطَعُ أَمْ يَمْضِي ؟ فَإِنْ قَطَعَ أَيَكُونُ عَلَيْهِ قَضَاءٌ أَمْ لَا ؟ قَالَ : يَقْطَعُ وَلَا أَرَى عَلَيْهِ قَضَاءً إِلَّا أَنْ يُحِبَّ أَنْ يُصَلِّيَ , قَالَ : فَقِيلَ لِمَالِكٍ : فَدَمُ الْبَرَاغِيثِ ؟ قَالَ : إِنْ كَثُرَ ذَلِكَ وَانْتَشَرَ ، فَأَرَى أَنْ يَغْسِلَ , قَالَ : وَالْبَوْلُ ، وَالرَّجِيعُ ، وَالِاحْتِلَامُ ، وَالْمَذْيُ ، وَخَرْءُ الطَّيْرِ الَّتِي تَأْكُلُ الْجِيَفَ ، وَالدَّجَاجُ الَّتِي تَأْكُلُ النَّتِنَ ، فَإِنَّ قَلِيلَ خُرْئِهَا وَكَثِيرَهُ سَوَاءٌ , إِنْ ذَكَرَ وَهُوَ فِي الصَّلَاةِ وَهُوَ فِي ثَوْبِهِ ، أَوْ إِزَارِهِ نَزَعَ ، وَقَطَعَ الصَّلَاةَ وَاسْتَأْنَفَهَا مِنْ أَوَّلِهَا بِإِقَامَةٍ   جَدِيدَةٍ كَانَ مَعَ الْإِمَامِ أَوْ وَحْدَهُ ، فَإِنْ صَلَّاهَا أَعَادَهَا مَا دَامَ فِي الْوَقْتِ ، فَإِنْ ذَهَبَ الْوَقْتُ فَلَا إِعَادَةَ عَلَيْهِ , قَالَ : فَقُلْتُ لَهُ : فَإِنْ رَأَى فِي ثَوْبِهِ دَمًا مَا قَبْلَ أَنْ يَدْخُلَ فِي الصَّلَاةِ ، فَنَسِيَ حَتَّى دَخَلَ فِي الصَّلَاةِ ؟ قَالَ : هُوَ مثل هَذَا كُلِّهِ يَفْعَلُ فِيهِ كَمَا يَفْعَلُ فِيمَا فَسَّرْتُ لَكَ فِي هَذَا , قَالَ : وَأَرْوَاثُ الدَّوَابِّ : الْخَيْلِ وَالْبِغَالِ وَالْحَمِيرِ أَرَى أَنْ يُفْعَلَ فِيهَا كَمَا يُفْعَلُ فِي الْبَوْلِ وَالرَّجِيعِ وَالْمَذْيِ يَكُونُ فِي الثَّوْبِ ؟ قَالَ : وَلَا بَأْسَ بِبَوْلِ مَا يُؤْكَلُ لَحْمُهُ مثل الْبَعِيرِ وَالشَّاةِ وَالْبَقَرِ .\u001bE20 قَالَ : وَقَالَ مَالِكٌ فِي    @ 1 : 73 @   الْمَنِيِّ يُصِيبُ الثَّوْبَ فَيَجِفُّ فَيَحُتُّهُ قَالَ : لَا يُجْزِيهِ ذَلِكَ حَتَّى يَغْسِلَهُ . قَالَ : وَقَالَ مَالِكٌ : وَمَنْ صَلَّى وَفِي جَسَدِهِ دَنَسٌ ، فَهُوَ بِمَنْزِلَةِ مَنْ هُوَ فِي ثَوْبِهِ يَصْنَعُ بِهِ كَمَا يَصْنَعُ مَنْ صَلَّى وَفِي ثَوْبِهِ دَنَسٌ . قَالَ : وَقَالَ مَالِكٌ فِي دَمِ الْبَرَاغِيثِ يَكُونُ فِي الثَّوْبِ مُتَفَرِّقًا قَالَ : إِذَا تَفَاحَشَ ذَلِكَ غَسَلَهُ ، فَإِنْ كَانَ غَيْرَ مُتَفَاحِشٍ , فَلَا أَرَى بِهِ بَأْسًا , قَالَ مَالِكٌ : وَدَمُ الذُّبَابِ يُغْسَلُ , قَالَ : وَمَا رَأَيْتُ مَالِكًا يُفَرِّقُ بَيْنَ الدِّمَاءِ ، وَلَكِنَّهُ يَجْعَلُ دَمَ كُلِّ شَيْءٍ سَوَاءً , وَذَلِكَ أَنِّي كُنْتُ سَأَلْتُ ابْنَ الْقَاسِمِ عن دَمِ الْقُرَادِ وَالسَّمَكِ وَالذُّبَابِ فَقَالَ : وَدَمُ السَّمَكِ أَيْضًا يُغْسَلُ . قَالَ : وَقَالَ مَالِكٌ فِي الثَّوْبِ يَكُونُ فِيهِ النَّجَسُ قَالَ : لَا يُطَهِّرُهُ شَيْءٌ   إِلَّا الْمَاءُ وَكَذَلِكَ الْجَسَدُ , قَالَ : فَقُلْتُ لِمَالِكٍ : فَالْقَطْرَةُ مِنَ الدَّمِ تَكُونُ فِي الثَّوْبِ أَيَمُجُّهُ بِفِيهِ أَيْ يَقْلَعُهُ مِنْ ثَوْبِهِ وَيَنْزِعُهُ ؟ قَالَ : يَكْرَهُهُ لِثَوْبِهِ وَيُدْخِلُهُ فِي فِيهِ ، فَكَرِهَ ذَلِكَ . قَالَ : وَقَالَ مَالِكٌ فِي الثَّوْبِ يُصِيبُهُ الْبَوْلُ أَوِ الِاحْتِلَامُ ، فَيُخْطِئُ مَوْضِعَهُ وَلَا يَعْرِفُهُ قَالَ : يَغْسِلُهُ كُلَّهُ . قُلْتُ لَهُ : فَإِنْ عَرَفَ تِلْكَ النَّاحِيَةَ ؟ قَالَ : يَغْسِلُ تِلْكَ النَّاحِيَةَ مِنْهُ . قُلْتُ : فَإِنْ شَكَّ فَلَمْ يَسْتَيْقِنْ أَصَابَهُ أَوْ لَمْ يُصِبْهُ ؟ قَالَ : يَنْضَحُهُ بِالْمَاءِ وَلَا يَغْسِلُهُ ، وَذَكَرَ النَّضْحَ , فَقَالَ : هُوَ الشَّأْنُ وَهُوَ مِنْ أَمْرِ النَّاسِ , قَالَ : وَهُوَ طَهُورٌ ، وَلِكُلِّ مَا شَكَّ فِيهِ . قُلْتُ : أَرَأَيْتَ مَا تَطَايَرَ عَلِيِّ مِنَ الْبَوْلِ قَدْرَ رُءُوسِ الْإِبَرِ هَلْ تَحْفَظُ مِنْ مَالِكٍ فِيهِ شَيْئًا ؟ قَالَ : أَمَّا هَذَا بِعَيْنِهِ مثل رُءُوسِ الْإِبَرِ فَلَا ، وَلَكِنَّ قَوْلَ مَالِكٍ : يُغْسَلُ قَلِيلُ الْبَوْلِ وَكَثِيرُهُ .#E21 \r\n$20  21 /2 /141 /11 قَالَ /22 سَحْنُونٌ /22 ، عن /22 ابْنِ وَهْبٍ /22 ، عن /94 يُونُسَ بْنِ يَزِيدَ L8621 /94 ، عن /26 ابْنِ شِهَابٍ L7272 /26 ، قَالَ : بَلَغَنَا /27 \" أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 وَجَدَ فِي ثَوْبِهِ دَمًا فِي الصَّلَاةِ فَانْصَرَفَ \" /27 * \r\nقَالَ ابْنُ وَهْبٍ ، وَقَالَ ابْنُ شِهَابٍ : الْقَيْحُ بِمَنْزِلَةِ الدَّمِ فِي الثَّوْبِ ، وَهُوَ نَجِسٌ . وَقَالَ مُجَاهِدٌ ، وَاللَّيْثُ بْنُ سَعْدٍ مِثْلَهُ : يَغْسِلُهُ بِالْمَاءِ . \r\n$21  22 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 57,
+      "grade": null
+    },
+    {
+      "hadith_id": 10135,
+      "english_translation": "Ibn Wahb said, from Ibn Lahi'ah, from Yazid ibn Abi Habib, from Isa ibn Talhah, from Abu Hurayrah: That the Messenger of Allah ﷺ said: 'Whoever touches his penis, there is no prayer for him until he performs ablution.' Ibn Wahb said: And Malik narrated to me, from Abdullah ibn Abi Bakr, from Urwah ibn al-Zubayr, from Busrah bint Safwan: That the Messenger of Allah ﷺ said: 'Whoever touches his penis, let him perform ablution.' Ibn Wahb said: And Malik narrated to me, from Ibn Shihab, from Salim ibn Abdullah, from his father: That the Messenger of Allah ﷺ said: 'Whoever touches his penis, let him perform ablution.' Ibn Wahb said: And Amr ibn al-Harith and Ibn Lahi'ah narrated to me, from Yazid ibn Abi Habib, from Urwah ibn al-Zubayr and Ibn al-Musayyab and Sulayman ibn Yasar, that they said: Whoever touches his penis, ablution is upon him. Ibn Wahb said, from Sulayman ibn Bilal, from Yahya ibn Sa'id, from Sa'id ibn al-Musayyab: That whoever touches his penis, ablution is upon him. Ibn Wahb said: And I heard Malik say: The opinion with us is that whoever touches his private parts, front or back, man or woman, ablution is upon him or upon her.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Lahi'ah",
+              "full_name": "Abdullah ibn Lahi'ah ibn Uqbah al-Hadrami al-Misri",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator",
+                "lost books in fire"
+              ]
+            },
+            {
+              "name": "Yazid ibn Abi Habib",
+              "full_name": "Yazid ibn Abi Habib al-Azdi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Isa ibn Talhah",
+              "full_name": "Isa ibn Talhah ibn Ubaydillah al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains Ibn Lahi'ah who is weak"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Busrah bint Safwan",
+              "full_name": "Busrah bint Safwan ibn Nawfal al-Kalbiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaidillah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            },
+            {
+              "name": "Salim ibn Abdullah",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "his father (Abdullah ibn Umar)",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn Shihab uses عَنْ and is classified as mudallis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Ibn Lahi'ah -> Yazid ibn Abi Habib -> Isa ibn Talhah -> Abu Hurayrah -> Prophet Muhammad ﷺ",
+        "Ibn Wahb -> Malik -> Abdullah ibn Abi Bakr -> Urwah -> Busrah bint Safwan -> Prophet Muhammad ﷺ",
+        "Ibn Wahb -> Malik -> Ibn Shihab -> Salim -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain contains Ibn Lahi'ah who is a weak narrator",
+          "impact": "This chain is weak. However, there are two other supporting chains that are strong"
+        },
+        {
+          "issue": "Third chain: Ibn Shihab al-Zuhri is classified as mudallis (category 3) and uses indirect term (عَنْ)",
+          "impact": "Ibn Shihab is generally considered extremely reliable by the vast majority of scholars, so this does not significantly affect the grade despite his tadlis classification"
+        },
+        {
+          "issue": "Multiple indirect transmission terms (عَنْ) in all chains",
+          "impact": "The narrators in the stronger chains (2 and 3) are not known for problematic tadlis, so this is acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Ablution after touching private parts",
+        "Touching penis nullifies ablution"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 ابْنِ لَهِيعَةَ L5033 /94 ، عن /26 يَزِيدَ بْنِ أَبِي حَبِيبٍ L8366 /26 ، عن /26 عِيسَى بْنِ طَلْحَةَ L6313 /26 ، /27 عن /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنَّ /64 خَوْلَةَ بِنْتَ يَسَارٍ /64 ، قَالَتْ : يَا رَسُولَ اللَّهِ أَفَرَأَيْتَ /20 إِنْ لَمْ يَخْرُجِ الدَّمُ مِنَ الثَّوْبِ ؟ قَالَ : \" يَكْفِيكِ الْمَاءُ وَلَا يَضُرُّكِ أَثَرُهُ \" /27 * \r\n$22  23 /3 /141 قَالَ /12 مَالِكُ بْنُ أَنَسٍ /12 ، عن /94 هِشَامِ بْنِ عُرْوَةَ L8055 /94 ، عن /26 أَبِيهِ L5594 /26 ، عن /26 يَحْيَى بْنِ عَبْدِ الرَّحْمَنِ بْنِ حَاطِبٍ L8290 /26 ، /27 \" أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 /20 غَسَلَ الِاحْتِلَامَ مِنْ ثَوْبِهِ \" /27 * \r\nقَالَ ابْنُ وَهْبٍ ، عن اللَّيْثِ بْنِ سَعْدٍ ، عن رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّهُ قَالَ فِيمَنْ أَصَابَ ثَوْبَهُ بَوْلٌ ، أَوْ رَجِيعٌ ، أَوْ سَاقَهُ ، أَوْ بَعْضَ جَسَدِهِ حَتَّى صَلَّى وَفَرَغَ قَالَ : إِنْ كَانَ مِمَّا يَكُونُ مِنَ النَّاسِ ، فَإِنَّهُ يُعِيدُ صَلَاتَهُ ، وَإِنْ كَانَ قَدْ فَاتَ الْوَقْتُ فَلَا يُعِيدُ . وَقَالَ ابْنُ شِهَابٍ فِيمَنْ صَلَّى بِثَوْبٍ فِيهِ احْتِلَامٌ مثل قَوْلِ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، وَيُونُسَ , وَقَالَ رَبِيعَةُ فِي دَمِ الْبَرَاغِيثِ يَكُونُ فِي الثَّوْبِ : إِذَا تَفَاحَشَتْ مَنْظَرَتُهُ أَوْ تَغَيَّرَ رِيحُهُ ، فَاغْسِلْهُ وَلَا بَأْسَ بِهِ مَا لَمْ يَتَفَاحَشْ مَنْظَرُهُ وَيُظْهِرُهُ رِيحُهُ ، فَلَا بَأْسَ مَا دُمْتَ تُدَارِي ذَلِكَ . قَالَ وَكِيعٌ ، عن /94 أَفْلَحَ بْنِ حُمَيْدٍ /94 ، عن /26 أَبِيهِ /26 ، قَالَ \" عَرَّسْنَا مَعَ ابْنِ عُمَرَ بِالْأَبْوَاءِ ، ثُمَّ سِرْنَا حِينَ صَلَّيْنَا الْفَجْرَ حَتَّى ارْتَفَعَ النَّهَارُ ، فَقُلْتُ لِابْنِ عُمَرَ   : إِنِّي صَلَّيْتُ فِي إِزَارِي وَفِيهِ احْتِلَامٌ وَلَمْ أَغْسِلْهُ , فَوَقَفَ عَلِيَّ ابْنُ عُمَرَ فَقَالَ : أنزل فَاطْرَحْ إِزَارَكَ ، وَصَلِّ رَكْعَتَيْنِ وَأَقِمِ الصَّلَاةَ ، ثُمَّ صَلِّ الْفَجْرَ فَفَعَلْتُ \" . قَالَ سَحْنُونٌ : وَإِنَّمَا ذَكَرْتُ هَذَا حُجَّةً عَلَى مَنْ زَعَمَ أَنَّهُ لَا يُعِيدُ فِي    @ 1 : 74 @    الْوَقْتِ , وَقَالَ ابْنُ عُمَرَ ، وَأَبُو هُرَيْرَةَ فِي الثَّوْبِ تُصِيبُهُ الْجَنَابَةُ فَلَا يُعْرَفُ مَوْضِعُهَا يُغْسَلُ الثَّوْبُ كُلُّهُ مِنْ حَدِيثِ ابْنِ وَهْبٍ .3E22",
+      "collection": "كتاب رقم 20",
+      "reference_number": 58,
+      "grade": null
+    },
+    {
+      "hadith_id": 10136,
+      "english_translation": "Chapter: Regarding wiping over splints (jabair) and the covered nail.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Not Applicable - Chapter Heading",
+      "Topics": [
+        "Wiping over medical splints",
+        "Covered nail"
+      ],
+      "arabicText": "فِي الْمَسْحِ عَلَى الْجَبَائِرِ ، وَالظُّفُرِ الْمَكْسِيِّ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 59,
+      "grade": null
+    },
+    {
+      "hadith_id": 10137,
+      "english_translation": "Ibn al-Qasim said: I asked Ibn al-Qasim about wiping over splints (jabair), so he said: Malik said: He wipes over them. Ibn al-Qasim said: So I see that if he leaves the wiping over the splints, he should repeat the prayer as long as the time remains, and there is no repetition upon him after the time passes. Ibn Wahb said: And Malik narrated to me, from Nafi', that Abdullah ibn Umar used to wipe over the splints. Ibn Wahb said: And Hisham ibn Sa'd narrated to me, from Zayd ibn Aslam: That Jabir ibn Abdullah fell and broke his arm, so he used to wipe over the splints. Ibn Wahb said, from Amr ibn al-Harith, from Bukayr ibn Abdullah ibn al-Ashajj, from Sulayman ibn Yasar: That he used to wipe over the splints.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Sa'd",
+              "full_name": "Hisham ibn Sa'd al-Madani",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr ibn Haram al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَقَطَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Possible disconnection - Zayd ibn Aslam may not have met Jabir"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn al-Harith",
+              "full_name": "Amr ibn al-Harith ibn Ya'qub al-Ansari al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bukayr ibn Abdullah",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik",
+        "Ibn Wahb -> Malik -> Nafi' -> Abdullah ibn Umar",
+        "Ibn Wahb -> Hisham ibn Sa'd -> Zayd ibn Aslam -> Jabir ibn Abdullah",
+        "Ibn Wahb -> Amr ibn al-Harith -> Bukayr -> Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hisham ibn Sa'd is graded as Saduq (not highest level of reliability)",
+          "impact": "Slightly lower reliability than Thiqah, but generally acceptable"
+        },
+        {
+          "issue": "Third chain: Zayd ibn Aslam likely did not meet Jabir ibn Abdullah (died 78 AH), creating a potential disconnection",
+          "impact": "This chain is likely mursal (disconnected) and therefore weak"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Wiping over medical splints (jabair)",
+        "Incident of Jabir's broken arm",
+        "Practice of Abdullah ibn Umar wiping over splints"
+      ],
+      "arabicText": "قَالَ : وَسَأَلْتُ ابْنَ الْقَاسِمِ عن الْمَسْحِ عَلَى الْجَبَائِرِ فَقَالَ : قَالَ مَالِكٌ : يَمْسَحُ عَلَيْهَا , قَالَ ابْنُ الْقَاسِمِ : فَأَرَى إِنْ هُوَ تَرَكَ الْمَسْحَ عَلَى الْجَبَائِرِ أَنْ يُعِيدَ الصَّلَاةَ أَبَدًا . قَالَ : وَقَالَ مَالِكٌ : وَلَوْ أَنَّ رَجُلًا جُنُبًا أَصَابَهُ كَسْرٌ أَوْ شَجَّةٌ ، وَكَانَ يَنْكُبُ عنهَا الْمَاءَ لِمَوْضِعِ الْجَبَائِرِ ، فَإِنَّهُ إِذَا صَحَّ ذَلِكَ كَانَ عَلَيْهِ أَنْ يَغْسِلَ ذَلِكَ الْمَوْضِعَ الَّذِي كَانَتْ عَلَيْهِ الْجَبَائِرُ أَوِ الشَّجَّةُ . قُلْتُ : فَإِنْ صَحَّ وَلَمْ يَغْسِلْ ذَلِكَ الْمَوْضِعَ حَتَّى صَلَّى صَلَاةً أَوْ صَلَوَاتٍ ؟ قَالَ : إِنْ كَانَ فِي مَوْضِعٍ لَا يُصِيبُهُ الْوُضُوءُ ، إِنَّمَا هُوَ فِي الْمَنْكِبِ أَوِ الظَّهْرِ , فَأَرَى أَنْ يُعِيدَ كُلَّ مَا صَلَّى مِنْ حِينِ كَانَ يَقْدِرُ عَلَى أَنْ يَمَسَّهُ بِالْمَاءِ ؛ لِأَنَّهُ بِمَنْزِلَةِ مَنْ بَقِيَ فِي جَسَدِهِ مَوْضِعٌ لَمْ يُصِبْهُ الْمَاءُ فِي جَنَابَةٍ اغْتَسَلَ مِنْهَا حَتَّى صَلَّى صَلَوَاتٍ أَنَّهُ يُعِيدُ الصَّلَوَاتِ كُلَّهَا ، وَإِنَّمَا عَلَيْهِ أَنْ يَمَسَّ ذَلِكَ الْمَوْضِعَ بِالْمَاءِ فَقَطْ . قَالَ : وَقَالَ مَالِكٌ فِي الظُّفُرِ يَسْقُطُ قَالَ : لَا بَأْسَ أَنْ يَكْسِيَ الدَّوَاءَ ، ثُمَّ يُمْسَحَ عَلَيْهِ . قُلْتُ لِابْنِ الْقَاسِمِ : وَالْمَرْأَةُ بِهَذِهِ الْمَنْزِلَةِ ؟ قَالَ : نَعَمْ هِيَ مِثْلُهُ . قَالَ : ابْنُ وَهْبٍ وَقَدْ قَالَ : يَمْسَحُ عَلَى الْجَبَائِرِ الْحَسَنُ الْبَصْرِيُّ ، وَإِبْرَاهِيمُ النَّخَعِيُّ ، وَيَحْيَى بْنُ سَعِيدٍ ، وَرَبِيعَةُ بْنُ أَبِي عَبْدِ الرَّحْمَنِ , وَقَالَ رَبِيعَةُ : وَالشَّجَّةُ فِي الْوَجْهِ يُجْعَلُ عَلَيْهَا الدَّوَاءُ ، وَيُمْسَحُ عَلَيْهَا   , وَقَالَ مَالِكٌ فِي الْقِرْطَاسِ أَوْ لِشَيْءٍ يُجْعَلُ عَلَى الصُّدْغِ مِنْ صُدَاعٍ ، أَوْ مِنْ وَجَعٍ بِهِ أَنَّهُ يُمْسَحُ عَلَيْهِ مِنْ رِوَايَةِ ابْنِ وَهْبٍ .",
+      "collection": "كتاب رقم 20",
+      "reference_number": 60,
+      "grade": null
+    },
+    {
+      "hadith_id": 10139,
+      "english_translation": "Ibn al-Qasim said: Malik said regarding the one whose feet were amputated to the ankles: When he performs ablution, he washes with water what remains of the ankles, and he washes the place of the amputation also. It was said: And if both his hands were amputated at the elbows? He said: He washes what remains of the elbows and the place of the amputation. It was said: And if it was amputated at the shoulder? He said: He washes the place of the amputation. Ibn Wahb said, from Amr ibn al-Harith, that Bukayr ibn al-Ashajj informed him, from Sulayman ibn Yasar, from Ata' ibn Yasar: That the Messenger of Allah ﷺ was brought a vessel, so he poured water on his hands and washed them, then he poured with his right hand on his left and washed them, then he put his hand in the vessel and rinsed his mouth and sniffed water into his nose, then he put his hand in the vessel and took out water and wiped his face, then he put his hand in the vessel and took out water and wiped his right arm to the elbow, then he put his hand in the vessel and wiped his left arm to the elbow, then he put his hand in the vessel and wiped his head, then he poured water on his feet. Ibn Wahb said: And Amr ibn al-Harith informed me, from Bukayr ibn Abdullah, from Sulayman ibn Yasar: That the Messenger of Allah ﷺ used to put his hand in the vessel and not take it out until he completed his ablution.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn al-Harith",
+              "full_name": "Amr ibn al-Harith ibn Ya'qub al-Ansari al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bukayr ibn al-Ashajj",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata' ibn Yasar",
+              "full_name": "Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Potential disconnection - Ata' ibn Yasar's direct hearing from the Prophet ﷺ is questionable"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn al-Harith",
+              "full_name": "Amr ibn al-Harith ibn Ya'qub al-Ansari al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bukayr ibn Abdullah",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal chain - Sulayman ibn Yasar did not meet the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik",
+        "Ibn Wahb -> Amr ibn al-Harith -> Bukayr -> Sulayman ibn Yasar -> Ata' ibn Yasar -> Prophet Muhammad ﷺ",
+        "Ibn Wahb -> Amr ibn al-Harith -> Bukayr -> Sulayman ibn Yasar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Second chain: Ata' ibn Yasar is from the Second Generation (Tabi'in) and likely did not meet the Prophet ﷺ directly",
+          "impact": "This makes the chain mursal (disconnected) and therefore weak. He likely heard this from a Companion whose name is not mentioned"
+        },
+        {
+          "issue": "Third chain: Sulayman ibn Yasar is from the Third Generation and definitely did not meet the Prophet ﷺ",
+          "impact": "This is clearly a mursal (disconnected) chain, making it weak"
+        },
+        {
+          "issue": "Both marfu' chains have clear disconnections from the Prophet ﷺ",
+          "impact": "These narrations about the Prophet's ﷺ ablution method are weak due to missing links in the chains"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Ablution for amputees",
+        "Washing the place of amputation",
+        "Description of the Prophet's ﷺ ablution method",
+        "Keeping hand in vessel during ablution"
+      ],
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : قَالَ مَالِكٌ فِيمَنْ قُطِعَتْ رِجْلَاهُ إِلَى الْكَعْبَيْنِ قَالَ : إِذَا تَوَضَّأَ غَسَلَ بِالْمَاءِ مَا بَقِيَ مِنَ الْكَعْبَيْنِ ، وَغَسَلَ مَوْضِعَ الْقَطْعِ أَيْضًا . قُلْتُ لِابْنِ الْقَاسِمِ : أَيَبْقَى مِنَ الْكَعْبَيْنِ شَيْءٌ ؟ قَالَ : نَعَمْ إِنَّمَا يُقْطَعُ مِنْ تَحْتِ الْكَعْبَيْنِ ، وَيَبْقَى الْكَعْبَانِ فِي السَّاقَيْنِ , وَقَدْ قَالَ اللَّهُ تَبَارَكَ وَتَعَالَى : /4 وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ /4 . وَلَقَدْ وَقَفْتُ مَالِكًا عَلَى الْكَعْبَيْنِ اللَّذَيْنِ إِلَيْهِمَا حَدُّ الْوُضُوءِ الَّذِي ذَكَرَ اللَّهُ فِي كِتَابِهِ فَوَضَعَ لِي يَدَهُ عَلَى الْكَعْبَيْنِ اللَّذَيْنِ فِي أَسْفَلِ السَّاقَيْنِ فَقَالَ لِي : هَذَانِ هُمَا . قُلْتُ : فَإِنْ هُوَ قُطِعَتْ يَدَاهُ مِنَ الْمَرْفِقَيْنِ ، أَيَغْسِلُ مَا بَقِيَ مِنَ الْمَرْفِقَيْنِ وَيَغْسِلُ مَوْضِعَ الْقَطْعِ ؟ قَالَ : لَا يَغْسِلُ مَوْضِعَ الْقَطْعِ وَلَمْ يَبْقَ مِنَ الْمَرْفِقَيْنِ شَيْءٌ ، فَلَيْسَ عَلَيْهِ أَنْ يَغْسِلَ شَيْئًا مِنْ يَدَيْهِ إِذَا قُطِعَتَا مِنَ الْمَرْفِقَيْنِ . قُلْتُ : وَكَيْفَ لَمْ يَبْقَ مِنَ الْمَرْفِقَيْنِ شَيْءٌ ؟ قَالَ : لِأَنَّ الْقَطْعَ قَدْ أَتَى عَلَى جَمِيعِ الذِّرَاعَيْنِ وَالْمَرْفِقَانِ فِي الذِّرَاعَيْنِ ، فَلَمَّا ذَهَبَ الْمَرْفِقَانِ مَعَ الذِّرَاعَيْنِ لَمْ يَكُنْ عَلَيْهِ أَنْ يَغْسِلَ مَوْضِعَ الْقَطْعِ ,    @ 1 : 75 @    قَالَ : وَأَمَّا الْكَعْبَانِ فَهُمَا بَاقِيَانِ فِي السَّاقَيْنِ ، فَلِذَلِكَ غُسِلَ مَوْضِعُ الْقَطْعِ , قُلْتُ : وَهَذَا قَوْلُ مَالِكٍ أَيْضًا , قَالَ : سَأَلْتُ مَالِكًا عن الذِّرَاعَيْنِ ؟ قَالَ ابْنُ الْقَاسِمِ : وَالتَّيَمُّمُ هُوَ فِي ذَلِكَ مثل الْوُضُوءِ . قَالَ ابْنُ الْقَاسِمِ : إِلَّا أَنْ يَكُونَ بَقِيَ شَيْءٌ مِنَ الْمَرْفِقَيْنِ فِي الْعَضُدَيْنِ يَعْرِفُ ذَلِكَ   النَّاسُ وَيَعْرِفُهُ الْعَرَبُ ، فَإِنْ كَانَ كَذَلِكَ فَلْيَغْسِلْ مَا بَقِيَ مِنَ الْمَرْفِقَيْنِ .BE23",
+      "collection": "كتاب رقم 20",
+      "reference_number": 62,
+      "grade": null
+    }
+  ]
+}

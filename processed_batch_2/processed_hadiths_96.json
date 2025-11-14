@@ -1,0 +1,706 @@
+{
+  "batch_number": 2,
+  "file_number": 96,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 10426,
+      "book_id": 20,
+      "hadith_number": 349,
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'Whoever catches one rak'ah of the Friday prayer, let him add another to it, or let him pray another with it.'",
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ عُمَرَ ، عن نَافِعٍ ، عن عَبْدِ اللَّهِ بْنِ عُمَرَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ أَدْرَكَ رَكْعَةً مِنَ الْجُمُعَةِ فَلْيُضِفْ إِلَيْهَا أُخْرَى ، أَوْ لِيُصَلِّ إِلَيْهَا أُخْرَى \" قَالَ : وَقَالَ مَالِكٌ : فِيمَنْ فَاتَتْهُ رَكْعَةٌ يَوْمَ الْجُمُعَةِ ثُمَّ سَلَّمَ الْإِمَامُ مَنْ صَلَاتِهِ , قَالَ : يَقُومُ فَيَقْضِي رَكْعَةً يَقْرَأُ فِيهَا بِسُورَةِ الْجُمُعَةِ يَسْتَحِبُّ ذَلِكَ لَهُ مَالِكٌ مِنْ غَيْرِ أَنْ يَرَاهُ وَاجِبًا عَلَيْهِ , وَيَأْمُرُهُ بِالْجَهْرِ فِيهَا بِالْقِرَاءَةِ . 145",
+      "collection": "Book 20",
+      "reference_number": 349,
+      "grade": null,
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn Muhammad ibn Zayd ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'an (عَنْ) by Nafi' from Ibn Umar, though this is the famous golden chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Abdullah ibn Umar (descendant) -> Nafi' -> Abdullah ibn Umar (Companion) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Nafi' uses 'an (عَنْ) when narrating from Ibn Umar. However, Nafi' from Ibn Umar is considered one of the golden chains (silsilah al-dhahab) and his transmission from Ibn Umar is firmly established.",
+          "impact": "Minimal - The Malik-Nafi'-Ibn Umar chain is considered the strongest chain, and scholars accept Nafi's use of 'an from Ibn Umar"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Catching part of Friday Prayer",
+        "Method of completing missed rak'ah in Friday Prayer"
+      ]
+    },
+    {
+      "hadith_id": 10427,
+      "book_id": 20,
+      "hadith_number": 350,
+      "english_translation": "Narrated by Abdullah ibn Mas'ud: 'Whoever catches one rak'ah on Friday has caught the Friday prayer, and whoever misses two rak'ahs, let him pray four.' Also narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Whoever catches one rak'ah of Friday prayer, let him pray another with it, and whoever misses the two rak'ahs, let him pray four' - or he said 'Dhuhr' or he said 'the first.'",
+      "arabicText": "وَقَالَ مَالِكٌ : مَنْ أَدْرَكَ الْجُلُوسَ يَوْمَ الْجُمُعَةِ صَلَّى أَرْبَعًا , قَالَ عَلِيٌّ ، عن سُفْيَانَ ، عن أَبِي إِسْحَاقَ ، عن أَبِي الْأَحْوَصِ ، عن عَبْدِ اللَّهِ بْنِ مَسْعُودٍ ، قَالَ : \" مَنْ أَدْرَكَ رَكْعَةً يَوْمَ الْجُمُعَةِ فَقَدْ أَدْرَكَ الْجُمُعَةَ ، وَمَنْ فَاتَتْهُ رَكْعَتَانِ فَلْيُصَلِّ أَرْبَعًا \" * قَالَ عَلِيٌّ ، عن سُفْيَانَ ، عن أَشْعَثَ ، عن نَافِعٍ ، عن ابْنِ عُمَرَ ، قَالَ : \" مَنْ أَدْرَكَ مِنَ الْجُمُعَةِ رَكْعَةً أَضَافَ إِلَيْهَا أُخْرَى , وَإِنْ أَدْرَكَهُمْ جُلُوسًا صَلَّى أَرْبَعًا \" . قَالَ عَلِيٌّ ، عن سُفْيَانَ ، عن أَبِي إِسْحَاقَ ، عن عَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ ، عن الْأَسْوَدِ ، وَعَلْقَمَةَ ، قَالَا : إِذَا أَدْرَكَ الرَّكْعَةَ مِنَ الْجُمُعَةِ أَضَافَ إِلَيْهَا أُخْرَى ، وَإِنْ أَدْرَكَهُمْ جُلُوسًا صَلَّى أَرْبَعًا قَالَ وَكِيعٌ ، عن يَاسِينَ الزَّيَّاتِ ، عن الزُّهْرِيِّ ، عن سَعِيدِ بْنِ الْمُسَيِّبِ ، عن أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ ، عن أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ أَدْرَكَ مِنَ الْجُمُعَةِ رَكْعَةً فَلْيُصَلِّ إِلَيْهَا أُخْرَى ، وَمَنْ فَاتَتْهُ الرَّكْعَتَانِ فَلْيُصَلِّ أَرْبَعًا \" ، أَوْ قَالَ الظُّهْرُ ، أَوْ قَالَ الْأُولَى قَالَ سَحْنُونٌ ، عن عَلِيٍّ ، عن سُفْيَانَ ، عن أَبِي سَلَمَةَ مَوْلَى الشَّعْبِيِّ ، عن الشَّعْبِيِّ ، قَالَ : إِذَا أَدْرَكَ رَكْعَةً مِنَ الْجُمُعَةِ أَضَافَ إِلَيْهَا أُخْرَى ، وَإِنْ أَدْرَكَهُمْ جُلُوسًا صَلَّى أَرْبَعًا . قَالَ عَلِيُّ ، عن سُفْيَانَ ، عن مُغِيرَةَ ، عن إِبْرَاهِيمَ النَّخَعِيِّ ، عن رَجُلٍ ، قَالَ : إِذَا سَمِعْتَ الْإِمَامَ حِينَ قَالَ : سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ فَصَلِّ أَرْبَعًا ؟ قَالَ عَلِيٌّ : يَعني مِنَ الرَّكْعَةِ الْآخِرَةِ .",
+      "collection": "Book 20",
+      "reference_number": 350,
+      "grade": null,
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ali",
+              "full_name": "Ali ibn Abdullah ibn Ja'far al-Sa'di al-Madini",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan ibn Uyaynah ibn Abi Imran Maymun al-Hilali al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 2 according to Ibn Hajar"
+              ]
+            },
+            {
+              "name": "Abu Ishaq",
+              "full_name": "Amr ibn Abdullah al-Sabi'i al-Hamdani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3 according to Ibn Hajar",
+                "ikhtilat after age 100"
+              ]
+            },
+            {
+              "name": "Abu al-Ahwas",
+              "full_name": "Awf ibn Malik ibn Nadla al-Jushami",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Mas'ud",
+              "full_name": "Abdullah ibn Mas'ud ibn Ghafil ibn Habib al-Hudhali",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) throughout the chain",
+            "Abu Ishaq al-Sabi'i is a category 3 mudallis using 'an"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih ibn Adi al-Ru'asi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yasin al-Zayyat",
+              "full_name": "Yasin ibn Mu'adh al-Zayyat al-Kufi",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator - criticized by Yahya ibn Ma'in and others"
+              ]
+            },
+            {
+              "name": "al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3 according to some scholars, though highly reliable"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan ibn Abi Wahb al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah ibn Abd al-Rahman",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf al-Zuhri al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains weak narrator Yasin al-Zayyat which severely affects the chain",
+            "Multiple uses of 'an including by al-Zuhri who practiced tadlis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ali ibn Abdullah -> Sufyan ibn Uyaynah -> Abu Ishaq -> Abu al-Ahwas -> Abdullah ibn Mas'ud",
+        "Waki' -> Yasin al-Zayyat -> al-Zuhri -> Sa'id ibn al-Musayyib -> Abu Salamah -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Sabi'i is a category 3 mudallis using 'an (عَنْ) in the first chain. Category 3 mudallisun require direct transmission terms (haddathana, sami'tu) for their reports to be accepted unconditionally.",
+          "impact": "Makes the first chain questionable, though Abu Ishaq is generally reliable"
+        },
+        {
+          "issue": "Yasin al-Zayyat in the second chain is a weak (da'if) narrator. He was criticized by Yahya ibn Ma'in and other hadith critics.",
+          "impact": "Severely weakens the second marfu' chain to Abu Hurayrah"
+        },
+        {
+          "issue": "Al-Zuhri is classified by some scholars as a category 3 mudallis and uses 'an (عَنْ). However, al-Zuhri is considered highly reliable and his narrations are generally accepted even with 'an.",
+          "impact": "Minor - al-Zuhri's high reliability mitigates this concern, but should be noted"
+        },
+        {
+          "issue": "Sufyan ibn Uyaynah is a category 2 mudallis using 'an in the first chain. Category 2 tadlis is generally acceptable even with 'an.",
+          "impact": "Minimal impact on chain reliability"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Catching part of Friday Prayer",
+        "Method of completing missed rak'ahs in Friday Prayer",
+        "Praying four rak'ahs when missing Friday prayer"
+      ]
+    },
+    {
+      "hadith_id": 10428,
+      "book_id": 20,
+      "hadith_number": 351,
+      "english_translation": "Chapter: What has been narrated about the Imam going out on Friday",
+      "arabicText": "مَا جَاءَ فِي خُرُوجِ الْإِمَامِ يَوْمَ الْجُمُعَةِ",
+      "collection": "Book 20",
+      "reference_number": 351,
+      "grade": null,
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading - Imam's exit on Friday"
+      ]
+    },
+    {
+      "hadith_id": 10429,
+      "book_id": 20,
+      "hadith_number": 352,
+      "english_translation": "Narrated by Ali: He used to dislike praying on Friday while the Imam is giving the sermon. And it was narrated that during the time of Umar ibn al-Khattab, people would talk when he sat on the pulpit until the muadhdhin became silent, then when Umar stood on the pulpit no one would speak until he finished both his sermons.",
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : مَنِ افْتَتَحَ الصَّلَاةَ يَوْمَ الْجُمُعَةِ فَلَمْ يَرْكَعْ حَتَّى خَرَجَ الْإِمَامُ , قَالَ : يَمْضِي عَلَى صَلَاتِهِ وَلَا يَقْطَعُ ، وَمَنْ دَخَلَ بَعْدَمَا خَرَجَ الْإِمَامُ فَلْيَجْلِسْ وَلَا يَرْكَعْ , وَإِنْ دَخَلَ فَخَرَجَ الْإِمَامُ قَبْلَ أَنْ يَفْتَتِحَ هُوَ الصَّلَاةَ فَلْيَقْعُدْ وَلَا يُصَلِّي . قَالَ ابْنُ وَهْبٍ ، عن يُونُسَ بْنِ يَزِيدَ ، عن ابْنِ شِهَابٍ , ، قَالَ : أَخْبَرَنِي ثَعْلَبَةُ بْنُ أَبِي مَالِكٍ الْقُرَظِيّ ، أَنَّ جُلُوسَ الْإِمَامِ عَلَى الْمِنْبَرِ يَقْطَعُ الصَّلَاةَ ، وَأَنَّ كَلَامَهُ يَقْطَعُ الْكَلَامَ , وَقَالَ : إِنَّهُمْ كَانُوا يَتَحَدَّثُونَ حِينَ يَجْلِسُ عُمَرُ بْنُ الْخَطَّابِ عَلَى الْمِنْبَرِ حَتَّى يَسْكُتَ الْمُؤَذِّنُ , فَإِذَا قَامَ عُمَرُ عَلَى الْمِنْبَرِ لَمْ يَتَكَلَّمْ أَحَدٌ حَتَّى يَقْضِيَ خُطْبَتَيْهِ كِلْتَيْهِمَا , فَإِذَا نزل عن الْمِنْبَرِ وَقَضَى خُطْبَتَيْهِ كِلْتَيْهِمَا تَكَلَّمُوا . قَالَ وَكِيعٌ ، عن سُفْيَانَ ، عن أَبِي إِسْحَاقَ ، عن الْحَارِثِ ، عن عَلِيٍّ : \" أَنَّهُ كَانَ يَكْرَهُ الصَّلَاةَ يَوْمَ الْجُمُعَةِ وَالْإِمَامُ يَخْطُبُ \" , قَالَ وَكِيعٌ ، عن لَيْثٍ ، عن مُجَاهِدٍ ، مِثْلَهُ , قَالَ وَكِيعٌ ، عن سُفْيَانَ ، عن ابْنِ جُرَيْجٍ ، عن عَطَاءٍ ، مِثْلَهُ",
+      "collection": "Book 20",
+      "reference_number": 352,
+      "grade": null,
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih ibn Adi al-Ru'asi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan al-Thawri ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 2 according to Ibn Hajar"
+              ]
+            },
+            {
+              "name": "Abu Ishaq",
+              "full_name": "Amr ibn Abdullah al-Sabi'i al-Hamdani al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3",
+                "ikhtilat in later life"
+              ]
+            },
+            {
+              "name": "al-Harith",
+              "full_name": "al-Harith ibn Abdullah al-A'war al-Hamdani al-Kufi",
+              "grade": "Da'if Jiddan",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "accused of lying by some scholars including al-Sha'bi",
+                "very weak - matruk by some"
+              ]
+            },
+            {
+              "name": "Ali",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains al-Harith al-A'war who is very weak (da'if jiddan) and accused of lying",
+            "Abu Ishaq is category 3 mudallis using 'an"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Waki' -> Sufyan al-Thawri -> Abu Ishaq -> al-Harith -> Ali"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Harith ibn Abdullah al-A'war is a very weak (da'if jiddan) narrator. He was accused of lying by al-Sha'bi and other scholars. Some classified him as matruk (abandoned).",
+          "impact": "Severely weakens the chain - this is a critical flaw that makes the narration problematic"
+        },
+        {
+          "issue": "Abu Ishaq al-Sabi'i is a category 3 mudallis using 'an (عَنْ), and this narration is through al-Harith who is very problematic.",
+          "impact": "Compounds the weakness in the chain"
+        },
+        {
+          "issue": "Sufyan al-Thawri is a category 2 mudallis using 'an, though this is generally acceptable for category 2.",
+          "impact": "Minor additional concern in an already weak chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Umar ibn al-Khattab on the pulpit",
+        "Prohibition of prayer during Friday sermon",
+        "Silence during Imam's sermon",
+        "Behavior of people during Umar's sermons"
+      ]
+    },
+    {
+      "hadith_id": 10430,
+      "book_id": 20,
+      "hadith_number": 353,
+      "english_translation": "Chapter: What has been narrated about facing the Imam on Friday and listening (with silence)",
+      "arabicText": "مَا جَاءَ فِي اسْتِقْبَالِ الْإِمَامِ يَوْمَ الْجُمُعَةِ وَالْإِنْصَاتِ",
+      "collection": "Book 20",
+      "reference_number": 353,
+      "grade": null,
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading - Facing and listening to Imam on Friday"
+      ]
+    },
+    {
+      "hadith_id": 10431,
+      "book_id": 20,
+      "hadith_number": 354,
+      "english_translation": "Ibn al-Qasim said: I saw Malik, when the Imam was on the pulpit on Friday, would listen and face him and not speak to anyone, and I saw him disliking if someone spoke to him at that time and he would not respond.",
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : رَأَيْتُ مَالِكًا وَالْإِمَامُ يَوْمَ الْجُمُعَةِ عَلَى الْمِنْبَرِ قَاعِدٌ ، وَمَالِكٌ مُتَحَلِّقٌ فِي أَصْحَابِهِ قَبْلَ أَنْ يَأْتِيَ الْإِمَامُ وَبَعْدَمَا جَاءَ يَتَحَدَّثُ وَلَا يَقْطَعُ حَدِيثَهُ وَلَا يَصْرِفُ وَجْهَهُ إِلَى الْإِمَامِ , وَيُقْبِلُ هُوَ وَأَصْحَابُهُ عَلَى حَدِيثِهِمْ كَمَا هُمْ حَتَّى يَسْكُتَ الْمُؤَذِّنُ , فَإِذَا سَكَتَ الْمُؤَذِّنُ وَقَامَ الْإِمَامُ لِلْخُطْبَةِ تَحَوَّلَ هُوَ وَجَمِيعُ أَصْحَابِهِ إِلَى الْإِمَامِ فَاسْتَقْبَلُوهُ بِوُجُوهِهِمْ , قَالَ ابْنُ الْقَاسِمِ : وَأَخْبَرَنِي مَالِكٌ أَنَّهُ رَأَى بَعْضَ أَهْلِ الْعِلْمِ مِمَّنْ مَضَى يَتَحَلَّقُ فِي يَوْمِ الْجُمُعَةِ وَيَتَحَدَّثُ , فَقُلْتُ لِمَالِكٍ : مَتَى يَجِبُ عَلَى النَّاسِ أَنْ يَسْتَقْبِلُوا الْإِمَامَ بِوُجُوهِهِمْ ؟ قَالَ : إِذَا قَامَ يَخْطُبُ وَلَيْسَ حِينَ يَخْرُجُ .\u0001E149 قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ بِالْكَلَامِ بَعْدَ نُزُولِ الْإِمَامِ عن الْمِنْبَرِ إِلَى أَنْ يَفْتَتِحَ الصَّلَاةَ .,E150 146 قَالَ ابْنُ وَهْبٍ ، عن جَرِيرِ بْنِ حَازِمٍ ، عن ثَابِتٍ الْبُنَانِيِّ ، عن أَنَسِ بْنِ مَالِكٍ ، قَالَ : \" كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْزِلُ مِنَ الْمِنْبَرِ يَوْمَ الْجُمُعَةِ ، فَيُكَلِّمُهُ الرَّجُلُ فِي الْحَاجَةِ فَيُكَلِّمُهُ ، ثُمَّ يَتَقَدَّمُ إِلَى مُصَلَّاهُ فَيُصَلِّي \" * قَالَ : وَسَأَلْنَا مَالِكًا عن الرَّجُلِ يُقْبِلُ عَلَى الذِّكْرِ وَالْإِمَامُ يَخْطُبُ ؟ فَقَالَ : إِنْ كَانَ شَيْئًا خَفِيفًا سِرًّا فِي نَفْسِهِ ، فَلَا بَأْسَ بِهِ , قَالَ : وَأَحَبُّ إِلَيَّ أَنْ يُنْصِتَ وَيَسْتَمِعَ . قَالَ مَالِكٌ : وَيَجِبُ عَلَى مَنْ لَمْ يَسْمَعِ الْإِمَامَ مِنَ الْإِنْصَاتِ مثل مَا يَجِبُ عَلَى مَنْ يَسْمَعُهُ , قَالَ : وَإِنَّمَا مثل ذَلِكَ مثل الصَّلَاةِ يَجِبُ عَلَى مَنْ لَمْ يَسْمَعِ الْإِمَامَ فِيهَا مِنَ الْإِنْصَاتِ مثل مَا يَجِبُ عَلَى مَنْ يَسْمَعُهُ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ عَطَسَ وَالْإِمَامُ يَخْطُبُ ؟ فَقَالَ يَحْمَدُ اللَّهَ فِي نَفْسِهِ سِرًّا , قَالَ : وَلَا يُشَمِّتُ أَحَدٌ الْعَاطِسَ وَالْإِمَامُ يَخْطُبُ . قَالَ ابْنُ وَهْبٍ قَالَ : كَانَ ابْنُ عُمَرَ ، وَابْنُ الْمُسَيِّبِ ، وَأَنَسُ بْنُ مَالِكٍ ، وَعُرْوَةُ بْنُ الزُّبَيْرِ ، وَسَالِمٌ ، وَإِسْمَاعِيلُ بْنُ مُحَمَّدِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ ، وَرَبِيعَةُ يَحْتَبُونَ وَالْإِمَامُ يَخْطُبُ عَلَى الْمِنْبَرِ . قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ بِالِاحْتِبَاءِ يَوْمَ الْجُمُعَةِ وَالْإِمَامُ يَخْطُبُ . قَالَ : وَرَأَيْتُ مَالِكًا يَتَحَدَّثُ وَحَوْلَهُ حَلْقَةٌ ، وَالْإِمَامُ جَالِسٌ عَلَى الْمِنْبَرِ ، وَالْمُؤَذِّنُونَ فِي الْأَذَانِ , قَالَ : وَإِنَّمَا يَسْتَقْبِلُ النَّاسُ الْإِمَامَ بِوُجُوهِهِمْ إِذَا أَخَذَ فِي الْخُطْبَةِ لَيْسَ حِينَ يَجْلِسُ عَلَى الْمِنْبَرِ ، وَالْمُؤَذِّنُونَ فِي الْأَذَانِ . قَالَ : وَقَالَ مَالِكٌ : لَا يَتَكَلَّمْ أَحَدٌ فِي جُلُوسِ الْإِمَامِ بَيْنَ خُطْبَتَيْهِ , قَالَ : وَلَا بَأْسَ بِالْكَلَامِ إِذَا نزل عن الْمِنْبَرِ إِلَى أَنْ يَدْخُلَ فِي الصَّلَاةِ . 147",
+      "collection": "Book 20",
+      "reference_number": 354,
+      "grade": null,
+      "chains": [
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Himyari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "رَأَيْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> [witnessed behavior of] Malik"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Practice of Malik ibn Anas",
+        "Silence and attention during Friday sermon",
+        "Behavior during sermon"
+      ]
+    },
+    {
+      "hadith_id": 10432,
+      "book_id": 20,
+      "hadith_number": 355,
+      "english_translation": "Narrated by Anas ibn Malik: The Prophet ﷺ used to give two sermons on Friday, sitting between them. Also narrated through other chains from Abu Hurayrah and Jabir with similar meanings about the Prophet's ﷺ practice of giving two sermons.",
+      "arabicText": "قَالَ سَحْنُونٌ ، عن ابْنِ وَهْبٍ ، عن مَسْلَمَةَ بْنِ عَلِيٍّ ، عن عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ ، عن ابْنِ شِهَابٍ : أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِذَا قَعَدَ الْإِمَامُ عَلَى الْمِنْبَرِ يَوْمَ الْجُمُعَةِ فَاسْتَقْبِلُوهُ بِوُجُوهِكُمْ وَأَصْغُوا إِلَيْهِ بِأَسْمَاعِكُمْ ، وَارْمُقُوهُ بِأَبْصَارِكُمْ \" * قَالَ سَحْنُونٌ ، عن ابْنِ وَهْبٍ ، عن مَسْلَمَةَ بْنِ عَلِيٍّ ، عن عُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، قَالَ : الْإِمَامُ إِذَا قَعَدَ يَوْمَ الْجُمُعَةِ عَلَى الْمِنْبَرِ اسْتَقْبَلَهُ أَهْلُ الْمَسْجِدِ بِوُجُوهِهِمْ . ابْنُ وَهْبٍ ، وَقَالَ لِي مَالِكُ بْنُ أَنَسٍ : السُّنَّةُ أَنْ يَسْتَقْبِلَ النَّاسُ الْإِمَامَ يَوْمَ الْجُمُعَةِ وَهُوَ يَتَكَلَّمُ . قَالَ سَحْنُونٌ عن ، عَلِيٍّ ، عن سُفْيَانَ : أَنَّ ابْنَ عُمَرَ ، وَشُرَيْحًا ، وَالنَّخَعِيَّ كَانُوا يَحْتَبُونَ يَوْمَ الْجُمُعَةِ ، وَيَسْتَقْبِلُونَ الْإِمَامَ بِوُجُوهِهِمْ إِذَا قَعَدَ عَلَى الْمِنْبَرِ يَخْطُبُ . قَالَ سَحْنُونٌ ، عن وَكِيعٍ ، عن وَاصِلٍ الرَّقَاشِيِّ ، قَالَ : رَأَيْتُ مُجَاهِدًا ، وَطَاوُسًا ، وَعَطَاءً يَسْتَقْبِلُونَ الْإِمَامَ يَوْمَ الْجُمُعَةِ بِوُجُوهِهِمْ وَالْإِمَامُ يَخْطُبُ .-E151",
+      "collection": "Book 20",
+      "reference_number": 355,
+      "grade": null,
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Maslamah ibn Ali",
+              "full_name": "Maslamah ibn Ali al-Hudhali al-Basri",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some weakness noted by critics"
+              ]
+            },
+            {
+              "name": "Ata' al-Khurasani",
+              "full_name": "Ata' ibn Abi Muslim al-Khurasani",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "did not meet Anas - mursal according to some"
+              ]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ata' al-Khurasani likely did not meet Anas ibn Malik - potential disconnection"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn Wahb -> Maslamah ibn Ali -> Ata' al-Khurasani -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ata' al-Khurasani did not meet Anas ibn Malik according to many hadith scholars, making this chain munqati' (disconnected).",
+          "impact": "This is a significant disconnection that affects the chain's reliability"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain without explicit hearing.",
+          "impact": "Adds to concerns about transmission"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Description of Prophet's ﷺ Friday sermon method",
+        "Two sermons with sitting between them",
+        "Friday prayer practice"
+      ]
+    },
+    {
+      "hadith_id": 10433,
+      "book_id": 20,
+      "hadith_number": 356,
+      "english_translation": "Chapter: What has been narrated about the sermon",
+      "arabicText": "مَا جَاءَ فِي الْخُطْبَةِ",
+      "collection": "Book 20",
+      "reference_number": 356,
+      "grade": null,
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading - The sermon"
+      ]
+    },
+    {
+      "hadith_id": 10434,
+      "book_id": 20,
+      "hadith_number": 357,
+      "english_translation": "Malik said: All sermons - the Imam's sermon for rain prayer, the two Eids, and Friday - all of them should have two sermons with sitting between them.",
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : الْخُطَبُ كُلُّهَا خُطْبَةُ الْإِمَامِ فِي الِاسْتِسْقَاءِ ، وَالْعِيدَيْنِ ، وَيَوْمِ عَرَفَةَ ، وَالْجُمُعَةِ , يَجْلِسُ فِيمَا بَيْنَهَا يَفْصِلُ فِيمَا بَيْنَ الْخُطْبَتَيْنِ بِالْجُلُوسِ , وَقَبْلَ أَنْ يَبْتَدِئَ الْخُطْبَةَ الْأُولَى يَجْلِسُ ، ثُمَّ يَقُومُ يَخْطُبُ ثُمَّ يَجْلِسُ أَيْضًا ثُمَّ يَقُومُ يَخْطُبُ , هَكَذَا قَالَ لِي مَالِكٌ . قَالَ : وَقَالَ مَالِكٌ : إِذَا صَعِدَ الْإِمَامُ الْمِنْبَرَ فِي خُطْبَةِ الْعِيدَيْنِ جَلَسَ قَبْلَ أَنْ يَخْطُبَ ، ثُمَّ يَقُومُ فَيَخْطُبُ , قَالَ : وَأَمَّا فِي الْجُمُعَةِ ، فَإِنَّهُ يَجْلِسُ حَتَّى يُؤَذِّنَ الْمُؤَذِّنُ . قَالَ ابْنُ الْقَاسِمِ ، قَالَ لِي مَالِكٌ : يَجْلِسُ فِي كُلِّ خُطْبَةٍ قَبْلَ أَنْ يَخْطُبَ مثل مَا يَصْنَعُ فِي الْجُمُعَةِ . قَالَ ابْنُ الْقَاسِمِ : وَسَأَلْتُ مَالِكًا إِذَا صَعِدَ الْإِمَامُ يَوْمَ الْجُمُعَةِ عَلَى الْمِنْبَرِ هَلْ يُسَلِّمُ عَلَى النَّاسِ ؟ قَالَ : لَا ، وَأَنْكَرَ ذَلِكَ . قَالَ : وَسَمِعْتُهُ يَقُولُ : مِنْ سُنَّةِ الْإِمَامِ ، وَمِنْ شَأْنِ الْإِمَامِ أَنْ يَقُولَ إِذَا فَرَغَ مِنْ خُطْبَتِهِ : يَغْفِرُ اللَّهُ لَنَا وَلَكُمْ . فَقُلْتُ : يَا أَبَا عَبْدِ اللَّهِ ، فَإِنَّ الْأَئِمَّةَ يَقُولُونَ الْيَوْمَ : اذْكُرُوا اللَّهَ يَذْكُرُكُمْ , قَالَ : وَهَذَا حَسَنٌ ، وَكَأَنِّي رَأَيْتُهُ يَرَى الْأَوَّلَ أَصْوَبَ . قَالَ : وَقَالَ مَالِكٌ : بَلَغَنِي أَنَّ عُمَرَ بْنَ الْخَطَّابِ أَرَادَ أَنْ يَتَكَلَّمَ بِكَلَامٍ يَأْمُرُ النَّاسَ فِيهِ وَيَعِظَهُمْ وَيَنْهَاهُمْ , فَصَعِدَ الْمِنْبَرَ ، فَقَعَدَ عَلَيْهِ حَتَّى ذَهَبَ الذَّاهِبُ إِلَى قُبَاءَ وَإِلَى الْعَوَالِي ، فَأَخْبَرَهُمْ بِذَلِكَ , فَأَقْبَلَ النَّاسُ ثُمَّ قَامَ عُمَرُ ، فَتَكَلَّمَ بِمَا شَاءَ اللَّهُ قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ أَنْ يَتَكَلَّمَ الْإِمَامُ فِي الْخُطْبَةِ عَلَى الْمِنْبَرِ إِذَا كَانَ فِي أَمْرٍ أَوْ نَهْيٍ . قَالَ : وَقَالَ مَالِكٌ فِي الْإِمَامِ يُرِيدُ أَنْ يَأْمُرَ النَّاسَ يَوْمَ الْجُمُعَةِ وَهُوَ عَلَى الْمِنْبَرِ فِي خُطْبَتِهِ بِالْأَمْرِ يَنْهَاهُمْ عنهُ ، أَوْ يَعِظُهُمْ بِهِ , قَالَ : لَا بَأْسَ بِذَلِكَ ، وَلَا نَرَاهُ لَاغِيًا . قَالَ : وَلَقَدِ اسْتَشَارَنِي بَعْضُ الْوُلَاةِ فِي ذَلِكَ ، فَأَشَرْتُ عَلَيْهِ بِهِ . قَالَ ابْنُ الْقَاسِمِ : وَكُلُّ مَنْ كَلَّمَهُ الْإِمَامُ فَرَدَّ عَلَى الْإِمَامِ ، فَلَا أَرَاهُ لَاغِيًا , قَالَ : وَلَا أَحْفَظُ عن مَالِكٍ فِيهِ شَيْئًا . 148 قَالَ سَحْنُونٌ ، عن ابْنِ وَهْبٍ ، عن يُونُسَ بْنِ يَزِيدَ ، عن ابْنِ شِهَابٍ ، أَنَّهُ قَالَ : \" بَلَغَنَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَبْدَأُ فَيَجْلِسُ عَلَى الْمِنْبَرِ , فَإِذَا سَكَتَ الْمُؤَذِّنُ قَامَ فَخَطَبَ الْخُطْبَةَ الْأُولَى ، ثُمَّ جَلَسَ شَيْئًا يَسِيرًا , ثُمَّ قَامَ فَخَطَبَ الْخُطْبَةَ الثَّانِيَةَ حَتَّى إِذَا قَضَاهَا اسْتَغْفَرَ اللَّهَ ، ثُمَّ نزل فَصَلَّى \" , قَالَ ابْنُ شِهَابٍ : وَكَانَ إِذَا قَامَ أَخَذَ عَصًا ، فَتَوَكَّأَ عَلَيْهَا وَهُوَ قَائِمٌ عَلَى الْمِنْبَرِ , ثُمَّ كَانَ أَبُو بَكْرٍ ، وَعُمَرُ ، وَعُثْمَانُ يَفْعَلُونَ ذَلِكَ * ابْنُ وَهْبٍ ، وَقَالَ مَالِكٌ : وَذَلِكَ مِمَّا يُسْتَحَبُّ لِلْأَئِمَّةِ أَصْحَابِ الْمَنَابِرِ أَنْ يَخْطُبُوا يَوْمَ الْجُمُعَةِ وَمَعَهُمُ الْعِصِيُّ يَتَوَكَّئُونَ عَلَيْهَا فِي قِيَامِهِمْ ، وَهُوَ الَّذِي رَأَيْنَا وَسَمِعنا .9E152",
+      "collection": "Book 20",
+      "reference_number": 357,
+      "grade": null,
+      "chains": [
+        {
+          "type": "scholarly_opinion",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Himyari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Statement of Malik ibn Anas"
+      ],
+      "potential_issues": [],
+      "IISGrade": "N/A - Scholarly Opinion",
+      "Topics": [
+        "Sermon format for prayers",
+        "Two sermons with sitting between them"
+      ]
+    },
+    {
+      "hadith_id": 10435,
+      "book_id": 20,
+      "hadith_number": 358,
+      "english_translation": "Chapter: What has been narrated about the places where Friday prayer can be performed",
+      "arabicText": "مَا جَاءَ فِي الْمَوَاضِعِ الَّتِي يَجُوزُ أَنْ تُصَلَّى فِيهَا يَوْمُ الْجُمُعَةِ",
+      "collection": "Book 20",
+      "reference_number": 358,
+      "grade": null,
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading - Places for Friday prayer"
+      ]
+    },
+    {
+      "hadith_id": 10436,
+      "book_id": 20,
+      "hadith_number": 359,
+      "english_translation": "Malik said regarding the houses around the mosque and the shops: If someone was in a house or shop during the call to Friday prayer and did not go to the mosque, and prayed with the Imam while in the house or shop without going to the mosque, that is permissible for him.",
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الدُّورِ الَّتِي حَوْلَ الْمَسْجِدِ وَالْحَوَانِيتِ الَّتِي حَوْلَ الْمَسْجِدِ الَّتِي لَا يُدْخَلُ فِيهَا إِلَّا بِإِذْنٍ : لَا تُصَلَّى فِيهَا الْجُمُعَةُ ، وَإِنْ أَذِنَ أَهْلُهَا فِي ذَلِكَ لِلنَّاسِ يَوْمَ الْجُمُعَةِ , قَالَ : فَلَا تُصَلَّى فِيهَا الْجُمُعَةُ وَإِنْ أَذِنُوا , وَقَالَ مَالِكٌ : وَمَا كَانَ حَوْلَ الْمَسْجِدِ مِنْ أَفْنِيَةِ الْحَوَانِيتِ وَأَفْنِيَةِ الدُّورِ الَّتِي تُدْخَلُ بِغَيْرِ إِذْنٍ ، فَلَا بَأْسَ بِالصَّلَاةِ فِيهَا يَوْمَ الْجُمُعَةِ بِصَلَاةِ الْإِمَامِ , قَالَ : وَإِنْ لَمْ تَتَّصِلِ الصُّفُوفُ إِلَى تِلْكَ الْأَفْنِيَةِ ، فَصَلَّى رَجُلٌ فِي تِلْكَ الْأَفْنِيَةِ ، فَصَلَاتُهُ تَامَّةٌ إِذَا ضَاقَ الْمَسْجِدُ . قَالَ : وَقَالَ مَالِكٌ : وَلَا أُحِبُّ لِأَحَدٍ أَنْ يُصَلِّيَ فِي تِلْكَ الْأَفْنِيَةِ إِلَّا مِنْ ضِيقِ الْمَسْجِدِ , قَالَ ابْنُ الْقَاسِمِ : وَإِنْ صَلَّى أَجْزَأَهُ , قَالَ مَالِكٌ : وَإِنْ كَانَ الطَّرِيقُ بَيْنَهُمَا فَصَلَّى فِي تِلْكَ الْأَفْنِيَةِ بِصَلَاةِ الْإِمَامِ وَلَمْ تَتَّصِلِ الصُّفُوفُ إِلَى تِلْكَ الْأَفْنِيَةِ فَصَلَاتُهُ تَامَّةٌ . قَالَ : وَإِنْ صَلَّى رَجُلٌ فِي الطَّرِيقِ ، وَفِي الطَّرِيقِ أَرْوَاثُ الدَّوَابِّ وَأَبْوَالُهَا ؟ قَالَ مَالِكٌ : صَلَاتُهُ تَامَّةٌ , وَلَمْ يَزَلِ النَّاسُ يُصَلُّونَ فِي الطَّرِيقِ مِنْ ضِيقِ الْمَسَاجِدِ وَفِيهَا أَرْوَاثُ الدَّوَابِّ وَأَبْوَالُهَا . قُلْتُ : وَكَذَلِكَ قَوْلُ مَالِكٍ فِي جَمِيعِ الصَّلَوَاتِ إِذَا ضَاقَ الْمَسْجِدُ بِأَهْلِهِ , قَالَ : هُوَ قَوْلُ مَالِكٍ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ صَلَّى يَوْمَ الْجُمُعَةِ عَلَى ظَهْرِ الْمَسْجِدِ بِصَلَاةِ الْإِمَامِ , قَالَ : لَا يَنْبَغِي ذَلِكَ لِأَنَّ الْجُمُعَةَ لَا تَكُونُ إِلَّا فِي الْمَسْجِدِ الْجَامِعِ . قُلْتُ : فَإِنْ فَعَلَ ؟ قَالَ : يُعِيدُ وَإِنْ خَرَجَ الْوَقْتُ أَرْبَعًا . قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ بِذَلِكَ فِي غَيْرِ الْجُمُعَةِ أَنْ يُصَلِّيَ الرَّجُلُ بِصَلَاةِ الْإِمَامِ عَلَى ظَهْرِ الْمَسْجِدِ وَالْإِمَامُ فِي دَاخِلِ الْمَسْجِدِ . قَالَ : وَسَأَلْتُ مَالِكًا عن إِمَامِ الْفُسْطَاطِ يُصَلِّي بِنَاحِيَةِ الْعَسْكَرِ يَوْمَ الْجُمُعَةِ ، وَاسْتَخْلَفَ مَنْ يُصَلِّي بِالنَّاسِ فِي الْمَسْجِدِ الْجَامِعِ الْجُمُعَةَ , أَيْنَ تَرَى أَنْ نُصَلِّيَ أَمِعِ الْإِمَامِ حَيْثُ صَلَّى فِي الْعَسْكَرِ أَمْ فِي الْمَسْجِدِ الْجَامِعِ ؟ قَالَ : أَرَى أَنْ يُصَلُّوا فِي الْمَسْجِدِ الْجَامِعِ وَأَرَى الْجُمُعَةَ لِلْمَسْجِدِ الْجَامِعِ وَالْإِمَامُ قَدْ تَرَكَهَا فِي مَوْضِعِهَا . 149 قَالَ سَحْنُونٌ ، عن ابْنِ وَهْبٍ ، عن سَعِيدِ بْنِ أَبِي أَيُّوبَ ، عن مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ : \" أَنَّ أَزْوَاجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كُنَّ يُصَلِّينَ فِي بُيُوتِهِنَّ بِصَلَاةِ أَهْلِ الْمَسْجِدِ \" , قَالَ ابْنُ وَهْبٍ : وَأَخْبَرَنِي رِجَالٌ مِنْ أَهْلِ الْعِلْمِ ، عن عُمَرَ بْنِ الْخَطَّابِ ، وَأَبِي هُرَيْرَةَ ، وَعُمَرَ بْنِ عَبْدِ الْعَزِيزِ وَزَيْدِ بْنِ أَسْلَمَ ، وَرَبِيعَةَ ، مِثْلَهُ , إِلَّا أَنَّ عُمَرَ قَالَ : مَا لَمْ تَكُنْ جُمُعَةً * قَالَ ابْنُ وَهْبٍ ، قَالَ مَالِكٌ : وَحَدَّثَنِي غَيْرُ وَاحِدٍ مِمَّنْ أَثِقُ بِهِ : أَنَّ النَّاسَ كَانُوا يَدْخُلُونَ حُجَرَ أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْدَ وَفَاةِ النَّبِيِّ عَلَيْهِ الصَّلاةُ وَالسَّلامُ ، وَيُصَلُّونَ فِيهَا الْجُمُعَةَ , وَكَانَ الْمَسْجِدُ يَضِيقُ عَلَى أَهْلِهِ ، فَيَتَوَسَّعُونَ بِهَا ، وَحُجَرُ أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيْسَتْ مِنَ الْمَسْجِدِ , وَلَكِنَّهَا شَارِعَةٌ إِلَى الْمَسْجِدِ وَلَا بَأْسَ بِمَنْ صَلَّى فِي أَفْنِيَةِ الْمَسْجِدِ وَرِحَابِهِ الَّتِي تَلِيهِ , فَإِنَّ ذَلِكَ لَمْ يَزَلْ مِنْ أَمْرِ النَّاسِ لَا يَعِيبُهُ أَهْلُ الْفِقْهِ وَلَا يَكْرَهُونَهُ , وَلَمْ يَزَلِ النَّاسُ يُصَلُّونَ فِي حُجَرِ أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى بُنِيَ الْمَسْجِدُ . قَالَ ابْنُ وَهْبٍ ، وَقَالَ لِي مَالِكٌ : فَأَمَّا مَنْ صَلَّى فِي دَارٍ مُغْلَقَةٍ لَا تُدْخَلُ إِلَّا بِإِذْنٍ , فَإِنِّي لَا أَرَاهَا مِنَ الْمَسْجِدِ ، وَلَا أَرَى أَنْ تُصَلَّى الْجُمُعَةُ فِيهَا . E153",
+      "collection": "Book 20",
+      "reference_number": 359,
+      "grade": null,
+      "chains": [
+        {
+          "type": "scholarly_opinion",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Himyari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Statement of Malik ibn Anas"
+      ],
+      "potential_issues": [],
+      "IISGrade": "N/A - Scholarly Opinion",
+      "Topics": [
+        "Praying Friday prayer in houses near mosque",
+        "Praying in shops during Friday prayer"
+      ]
+    },
+    {
+      "hadith_id": 10437,
+      "book_id": 20,
+      "hadith_number": 360,
+      "english_translation": "Chapter: Upon whom is Friday prayer obligatory",
+      "arabicText": "فِيمَنْ تَجِبُ عَلَيْهِ الْجُمُعَةُ",
+      "collection": "Book 20",
+      "reference_number": 360,
+      "grade": null,
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading - Obligation of Friday prayer"
+      ]
+    },
+    {
+      "hadith_id": 10438,
+      "book_id": 20,
+      "hadith_number": 361,
+      "english_translation": "Malik said regarding the gathered village that has become connected in its buildings and has become like a city, that Friday prayer is not obligatory upon its people unless there is a Sultan (ruler) who judges between them and establishes justice and the hudud (prescribed punishments) and leads them in Friday prayer.",
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الْقَرْيَةِ الْمُجْتَمِعَةِ الَّتِي قَدِ اتَّصَلَتْ دُورُهَا كَانَ عَلَيْهَا وَالٍ أَوْ لَمْ يَكُنْ , قَالَ : أَرَى أَنْ يُجَمِّعُوا الْجُمُعَةَ . قُلْتُ : فَهَلْ حَدَّ مَالِكٌ فِي عِظَمِ الْقَرْيَةِ حَدًّا ؟ قَالَ لَا , إِلَّا إِنَّهُ قَالَ : مثل الْمَنَاهِلِ الَّتِي بَيْنَ مَكَّةَ وَالْمَدِينَةَ مثل الرَّوْحَاءِ وَأَشْبَاهِهَا . قَالَ : وَقَدْ سَمِعْتُهُ غَيْرَ مَرَّةٍ يَقُولُ فِي الْقُرَى الْمُتَّصِلَةِ الْبُنْيَانِ الَّتِي يَكُونُ فِيهَا الْأَسْوَاقُ يُجَمِّعُ أَهْلُهَا , وَقَدْ سَمِعْتُهُ غَيْرَ مَرَّةٍ يَقُولُ فِي الْقَرْيَةِ الْمُتَّصِلَةِ الْبُنْيَانِ : يُجَمِّعُ أَهْلُهَا وَلَمْ يَذْكُرِ الْأَسْوَاقَ . قَالَ : وَقَدْ سَأَلَهُ أَهْلُ الْمَغْرِبِ عن الْخُصُوصِ الْمُتَّصِلَةِ وَهُمْ جَمَاعَةٌ ، وَاتِّصَالُ تِلْكَ الْخُصُوصِ كَاتِّصَالِ الْبُيُوتِ , وَقَالُوا : لَيْسَ لَنَا وَالٍ ؟ قَالَ : يُجَمِّعُونَ الْجُمُعَةَ ، وَإِنْ لَمْ يَكُنْ لَهُمْ وَالٍ . قَالَ : وَقَالَ مَالِكٌ فِي أَهْلِ مِصْرٍ ، أَوْ قَرْيَةٍ يُجَمِّعُ فِي مِثْلِهَا الْجَامِعُ مَاتَ وَلِيُّهُمْ وَلَمْ يَسْتَخْلِفْ ، فَبَقِيَ الْقَوْمُ بِلَا إِمَامٍ ؟ قَالَ : إِذَا حَضَرَتْ صَلَاةُ الْجُمُعَةِ قَدَّمُوا رَجُلًا مِنْهُمْ ، فَخَطَبَ بِهِمْ وَصَلَّى الْجُمُعَةَ . قَالَ مَالِكٌ : وَكَذَلِكَ الْقُرَى الَّتِي يَنْبَغِي لِأَهْلِهَا أَنْ يُجَمِّعُوا فِيهَا الْجُمُعَةَ لَا يَكُونُ عَلَيْهِمْ وَالٍ , فَإِنَّهُ يَنْبَغِي لَهُمْ أَنْ يُقَوِّمُوا رَجُلًا ، فَيُصَلِّي بِهِمُ الْجُمُعَةَ يَخْطُبُ وَيُصَلِّي . وَقَالَ مَالِكٌ : إِنَّ لِلَّهِ فَرَائِضَ فِي أَرْضِهِ لَا يُنْقِصُهَا شَيْءٌ إِنْ وَلِيَهَا وَالٍ ، أَوْ لَمْ يَلِهَا نَحْوًا مِنْ هَذَا يُرِيدُ الْجُمُعَةَ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ كَانَ عَلَى ثَلَاثَةِ أَمْيَالٍ مِنَ الْمَدِينَةِ . أَرَى أَنْ يَشْهَدُوا الْجُمُعَةَ ، وَقَالَ مَالِكٌ : وَإِنَّمَا أَبْعَدُ الْعَوَالِي وَبَيْنَ الْمَدِينَةِ ثَلَاثَةُ أَمْيَالٍ قَالَ وَإِنْ كَانَتْ زِيَادَةً فَزِيَادَةٌ يَسِيرَةٌ قَالَ : فَأَرَى ذَلِكَ عَلَيْهِ , قَالَ : وَقَدْ كَانَ أَبُو هُرَيْرَةَ فِي كَهْفِ جَبَلٍ بِذِي الْحُلَيْفَةِ ، فَكَانَ رُبَّمَا تَخَلَّفَ وَلَمْ يَشْهَدِ الْجُمُعَةَ . E154 قُلْتُ : مَا قَوْلُ مَالِكٍ إِذَا اجْتَمَعَ الْأَضْحَى وَالْجُمُعَةُ ، أَوِ الْفِطْرُ وَالْجُمُعَةُ ، فَصَلَّى رَجُلٌ مَنْ أَهْلِ الْحَضَرِ الْعِيدَ مَعَ الْإِمَامِ ، ثُمَّ أَرَادَ أَنْ لَا يَشْهَدَ الْجُمُعَةَ , هَلْ يَضَعُ ذَلِكَ عنهُ شُهُودُهُ صَلَاةَ الْعِيدِ مَا وَجَبَ عَلَيْهِ مِنْ إِتْيَانِ الْجُمُعَةِ ؟ قَالَ : لَا ، وَكَانَ يَقُولُ : لَا يَضَعُ ذَلِكَ عنهُ مَا وَجَبَ عَلَيْهِ مِنْ إِتْيَانِ الْجُمُعَةِ , قَالَ مَالِكٌ : وَلَمْ يَبْلُغْنِي أَنَّ أَحَدًا أَذِنَ لِأَهْلِ الْعَوَالِي إِلَّا عُثْمَانَ , وَلَمْ يَكُنْ مَالِكٌ يَرَى الَّذِي فَعَلَ عُثْمَانُ , وَكَانَ يَرَى : إِنَّ مَنْ وَجَبَتْ عَلَيْهِ الْجُمُعَةُ لَا يَضَعُهَا عنهُ إِذْنُ الْإِمَامِ ، وَإِنْ شَهِدَ مَعَ الْإِمَامِ قَبْلَ ذَلِكَ مِنْ يَوْمِهِ ذَلِكَ عِيدًا ، وَبَلَغَنِي ذَلِكَ عن مَالِكٍ .\u0012E155 150 قَالَ سَحْنُونٌ ، عن ابْنِ وَهْبٍ ، عن يُونُسَ بْنِ يَزِيدَ ، عن ابْنِ شِهَابٍ , فَقَالَ : بَلَغَنِي أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" جَمَعَ أَهْلَ الْعَوَالِي فِي مَسْجِدِهِ يَوْمَ الْجُمُعَةِ ، فَكَانَ يَأْتِي الْجُمُعَةَ مِنَ الْمُسْلِمِينَ مَنْ كَانَ بِالْعَقِيقِ وَنَحْوَ ذَلِكَ \" , قَالَ مَالِكٌ : وَالْعَوَالِي عَلَى ثَلَاثَةِ أَمْيَالٍ * قَالَ سَحْنُونٌ ، عن ابْنِ وَهْبٍ ، عن اللَّيْثِ بْنِ سَعْدٍ : أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ كَتَبَ : أَيُّمَا قَرْيَةٍ اجْتَمَعَ فِيهَا خَمْسُونَ رَجُلًا فَلْيَؤُمَّهُمْ رَجُلٌ مِنْهُمْ , وَلْيَخْطُبْ عَلَيْهِمْ يَوْمَ الْجُمُعَةِ ، وَلْيُقَصِّرْ بِهِمُ الصَّلَاةَ . قَالَ ابْنُ وَهْبٍ ، قَالَ ابْنُ شِهَابٍ : إِنَّا لَنَرَى الْخَمْسِينَ جَمَاعَةً إِذَا كَانُوا بِأَرْضٍ مُنْقَطِعَةٍ لَيْسَ قُرْبَهَا إِمَامٌ . قَالَ ابْنُ وَهْبٍ ، عن رِجَالٍ مِنْ أَهْلِ الْعِلْمِ ، عن سَعِيدِ بْنِ الْمُسَيِّبِ ، وَعُرْوَةَ بْنِ الزُّبَيْرِ ، وَعَلِيِّ بْنِ حُسَيْنٍ ، وَابْنِ عُمَرَ ، مِثْلَهُ . 151",
+      "collection": "Book 20",
+      "reference_number": 361,
+      "grade": null,
+      "chains": [
+        {
+          "type": "scholarly_opinion",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Himyari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Statement of Malik ibn Anas"
+      ],
+      "potential_issues": [],
+      "IISGrade": "N/A - Scholarly Opinion",
+      "Topics": [
+        "Obligation of Friday prayer in villages",
+        "Role of Sultan in establishing Friday prayer",
+        "Conditions for Friday prayer"
+      ]
+    },
+    {
+      "hadith_id": 10439,
+      "book_id": 20,
+      "hadith_number": 362,
+      "english_translation": "It was mentioned by Ibn Wahb from al-Qasim ibn Muhammad: Friday prayer is only obligatory upon free men who have reached puberty who are not travelers, upon whom the prescribed prayers are obligatory.",
+      "arabicText": "وَذَكَرَ ابْنُ وَهْبٍ ، عن الْقَاسِمِ بْنِ مُحَمَّدٍ ، عن النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِذَا اجْتَمَعَ ثَلَاثُونَ بَيْتًا فَلْيُؤَمِّرُوا عَلَيْهِمْ رَجُلًا مِنْهُمْ يُصَلِّي بِهِمُ الْجُمُعَةَ \" * #E156",
+      "collection": "Book 20",
+      "reference_number": 362,
+      "grade": null,
+      "chains": [
+        {
+          "type": "scholarly_opinion",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "ذَكَرَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'an (عَنْ) transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) transmission term from al-Qasim ibn Muhammad, though both narrators are reliable.",
+          "impact": "Minimal - this is a statement of al-Qasim's opinion, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Conditions for obligation of Friday prayer",
+        "Friday prayer not obligatory on travelers and slaves"
+      ]
+    },
+    {
+      "hadith_id": 10440,
+      "book_id": 20,
+      "hadith_number": 363,
+      "english_translation": "Chapter: About buying and selling on Friday and working on it",
+      "arabicText": "فِي الْبَيْعِ وَالشِّرَاءِ يَوْمَ الْجُمُعَةِ وَالْعَمَلِ فِيهِ",
+      "collection": "Book 20",
+      "reference_number": 363,
+      "grade": null,
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading - Commerce on Friday"
+      ]
+    }
+  ]
+}

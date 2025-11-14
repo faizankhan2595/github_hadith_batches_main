@@ -1,0 +1,811 @@
+{
+  "batch_number": 2,
+  "file_number": 46,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9676,
+      "english_translation": "Chapter: The Action Regarding Blood Money (Diyyah)",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab) with no hadith content",
+          "impact": "No chain or narration to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": ["Chapter Heading: Blood Money"],
+      "arabicText": "بَابُ الْعَمَلِ فِي الدِّيَةِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1972,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 9677,
+      "english_translation": "Malik narrated: It reached him that Umar ibn al-Khattab assessed the blood money (diyyah) for the people of the towns, making it for the people of gold one thousand dinars, and for the people of silver twelve thousand dirhams. Malik said: The people of gold are the people of Sham and the people of Egypt, and the people of silver are the people of Iraq. And Yahya narrated to me from Malik that he heard that the blood money is paid over three years or four years. Malik said: Three years is most beloved to me of what I have heard in that. Malik said: The agreed-upon matter among us is that camels are not accepted from the people of the towns in blood money, nor gold or silver from the people of the tents, nor silver from the people of gold, nor gold from the people of silver.",
+      "chains": [
+        {
+          "type": "mursal/balagh",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّهُ بَلَغَهُ",
+              "reliabilityIssues": ["mursal/balagh - disconnected chain, source unknown"]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain - Malik did not specify his source",
+            "The term 'balagahu' (بَلَغَهُ) indicates indirect transmission without a complete chain",
+            "Major gap between Malik (d. 179 AH) and Umar (d. 23 AH) - multiple generations missing"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik (mursal/disconnected) -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Balagh report - Malik uses 'balagahu' (it reached him) without specifying the intermediary narrators",
+          "impact": "The chain is disconnected and the intermediate narrators are unknown, making this a weak mursal report. The reliability of the transmission cannot be verified."
+        },
+        {
+          "issue": "Large generational gap between Malik and Umar ibn al-Khattab",
+          "impact": "Multiple generations of narrators are missing from the chain, creating significant uncertainty about the transmission path."
+        },
+        {
+          "issue": "This contains additional statements from Malik himself (qala Malik) which are his own legal opinions, not transmitted reports",
+          "impact": "These are fiqhi statements (legal opinions) of Malik, not narrations from the Prophet ﷺ or Companions."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Umar's Assessment of Blood Money Values",
+        "Regional Differences in Blood Money Payment",
+        "Duration of Blood Money Payment",
+        "Fiqhi Opinions on Blood Money"
+      ],
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 أَنَّهُ بَلَغَهُ : /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ /93 \" قَوَّمَ الدِّيَةَ عَلَى أَهْلِ الْقُرَى : /20 فَجَعَلَهَا عَلَى أَهْلِ الذَّهَبِ أَلْفَ دِينَارٍ ، وَعَلَى أَهْلِ الْوَرِقِ اثْنَيْ عَشَرَ أَلْفَ دِرْهَمٍ \" /27 . قَالَ /12 مَالِك /12 : /10 فَأَهْلُ الذَّهَبِ : أَهْلُ /60 الشَّامِ /60 وَأَهْلُ /60 مِصْرَ /60 ، وَأَهْلُ الْوَرِقِ : أَهْلُ /60 الْعِرَاقِ /60 /10 . وَحَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، أَنَّهُ سَمِعَ : أَنَّ الدِّيَةَ تُقْطَعُ فِي ثَلَاثِ سِنِينَ أَوْ أَرْبَعِ سِنِينَ ، قَالَ /12 مَالِك /12 : /10 وَالثَّلَاثُ أَحَبُّ مَا سَمِعْتُ إِلَيَّ فِي ذَلِكَ /10 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا : أَنَّهُ لَا يُقْبَلُ مِنْ أَهْلِ الْقُرَى فِي الدِّيَةِ الْإِبِلُ ، وَلَا مِنْ أَهْلِ الْعَمُودِ الذَّهَبُ وَلَا الْوَرِقُ ، وَلَا مِنْ أَهْلِ الذَّهَبِ الْوَرِقُ ، وَلَا مِنْ أَهْلِ الْوَرِقِ الذَّهَبُ /10 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1973,
+      "grade": "Da'if (Weak) - Mursal"
+    },
+    {
+      "hadith_id": 9678,
+      "english_translation": "Chapter: What Has Come About the Blood Money of Intentional Murder When It Is Accepted, and the Crime of an Insane Person",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab) with no hadith content",
+          "impact": "No chain or narration to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": ["Chapter Heading: Blood Money for Intentional Murder and Insane Persons"],
+      "arabicText": "بَابُ مَا جَاءَ فِي دِيَةِ الْعَمْدِ إِذَا قُبِلَتْ وَجِنَايَةِ الْمَجْنُونِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1974,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 9679,
+      "english_translation": "Yahya narrated to me from Malik that Ibn Shihab used to say regarding the blood money of intentional murder when it is accepted: 'Twenty-five bint makhad (one-year-old she-camel), twenty-five bint labun (two-year-old she-camel), twenty-five hiqqah (three-year-old she-camel), and twenty-five jadha'ah (four-year-old she-camel).'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Classified as mudallis (category 2-3) by some scholars, though generally considered highly reliable"]
+            }
+          ],
+          "chainIssues": [
+            "Malik uses 'an (عَنْ) which can indicate indirect transmission",
+            "Ibn Shihab's statement is maqtu' (stops at a Tabi'i, not reaching the Prophet ﷺ or a Companion)",
+            "The term 'kana yaqul' (used to say) indicates this is al-Zuhri's legal opinion, not a transmitted report"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri (maqtu')"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration - it stops at Ibn Shihab al-Zuhri (a Tabi'i) and does not reach the Prophet ﷺ or a Companion",
+          "impact": "This is al-Zuhri's personal legal opinion (ijtihad) rather than a transmitted hadith from the Prophet ﷺ. It has no isnad going back to the Prophet."
+        },
+        {
+          "issue": "Malik uses 'an (عَنْ) from Ibn Shihab, and al-Zuhri is classified as a mudallis (though of a minor category)",
+          "impact": "The transmission term is ambiguous. However, since this is merely al-Zuhri's legal opinion and not a hadith, this issue is less critical."
+        },
+        {
+          "issue": "The wording 'kana yaqul' (used to say) clearly indicates this is a statement of legal opinion, not a hadith transmission",
+          "impact": "This is fiqh (jurisprudence) from al-Zuhri, not a prophetic tradition."
+        }
+      ],
+      "IISGrade": "N/A - Not a Hadith (Maqtu' Legal Opinion)",
+      "Topics": [
+        "Al-Zuhri's Opinion on Intentional Murder Blood Money Composition"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، /27 أَنَّ /94 ابْنَ شِهَابٍ /94 ، كَانَ يَقُولُ فِي دِيَةِ الْعَمْدِ : /20 \" إِذَا قُبِلَتْ خَمْسٌ وَعِشْرُونَ بِنْتَ مَخَاضٍ ، وَخَمْسٌ وَعِشْرُونَ بِنْتَ لَبُونٍ ، وَخَمْسٌ وَعِشْرُونَ حِقَّةً ، وَخَمْسٌ وَعِشْرُونَ جَذَعَةً \" /27 * \r\n$1531  1534 /3",
+      "collection": "Muwatta Malik",
+      "reference_number": 1975,
+      "grade": "N/A - Maqtu'"
+    },
+    {
+      "hadith_id": 9680,
+      "english_translation": "And it was narrated to me from Malik, from Yahya ibn Sa'id: That Marwan ibn al-Hakam wrote to Mu'awiyah ibn Abi Sufyan that an insane person was brought to him who had killed a man. Mu'awiyah wrote to him: 'Make his family pay the blood money and do not retaliate against him, for there is no retaliation upon an insane person.' Malik said regarding an adult and a child who together killed a man intentionally: The adult is to be killed, and upon the child is half the blood money. Malik said: Similarly, the free man and the slave who kill a slave - the slave is killed and upon the free man is half his value.",
+      "chains": [
+        {
+          "type": "athar/maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (unspecified)",
+              "full_name": "Unknown - likely Yahya ibn Yahya al-Laythi based on context",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Narrator not explicitly named in the chain"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Marwan ibn al-Hakam",
+              "full_name": "Marwan ibn al-Hakam ibn Abi al-'As ibn Umayyah al-Qurashi al-Umawi",
+              "grade": "Tabi'i/Second Generation",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Some scholars question his reliability due to his political role; saw the Prophet ﷺ as a child but narrations from him are debated"]
+            },
+            {
+              "name": "Mu'awiyah ibn Abi Sufyan",
+              "full_name": "Mu'awiyah ibn Abi Sufyan Sakhr ibn Harb ibn Umayyah al-Qurashi al-Umawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) indicating potentially indirect transmission",
+            "The term 'anna (أَنَّ) used for Marwan's report suggests disconnection",
+            "This is an athar (report about Companions/Tabi'in), not a marfu' hadith",
+            "The first narrator 'Yahya' is not explicitly identified in the text"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya (unspecified) -> Malik -> Yahya ibn Sa'id -> Marwan ibn al-Hakam -> Mu'awiyah ibn Abi Sufyan"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is an athar (historical report) about correspondence between Marwan and Mu'awiyah, not a hadith from the Prophet ﷺ",
+          "impact": "This is a legal ruling from Mu'awiyah, a Companion, but not a direct prophetic tradition."
+        },
+        {
+          "issue": "Multiple ambiguous transmission terms: 'an (عَنْ) used twice and 'anna (أَنَّ) once",
+          "impact": "The indirect transmission terms suggest potential disconnections in the chain, though the narrators are generally reliable."
+        },
+        {
+          "issue": "The first narrator in the chain is not explicitly named (just 'wa haddathani')",
+          "impact": "Minor ambiguity, though context suggests it's Yahya ibn Yahya al-Laythi, the standard transmitter from Malik in this collection."
+        },
+        {
+          "issue": "Marwan ibn al-Hakam's reliability is debated among scholars due to his political involvement",
+          "impact": "Some scholars are cautious about narrations involving Marwan, though he is generally considered acceptable as a narrator."
+        },
+        {
+          "issue": "The additional statements from Malik are his personal legal opinions (qala Malik), not transmitted reports",
+          "impact": "These are fiqhi deductions from Malik, not narrations."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Mu'awiyah's Ruling on Insane Person's Crime",
+        "Blood Money for Insane Person Who Kills",
+        "No Retaliation Against Insane Person",
+        "Joint Killing by Adult and Child",
+        "Joint Killing by Free Person and Slave"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ مَرْوَانَ بْنَ الْحَكَمِ كَتَبَ إِلَى مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ : أَنَّهُ أُتِيَ بِمَجْنُونٍ قَتَلَ رَجُلًا ، فَكَتَبَ إِلَيْهِ /93 مُعَاوِيَةُ L7570 /93 /20 : \" أَنِ اعْقِلْهُ وَلَا تُقِدْ مِنْهُ فَإِنَّهُ لَيْسَ عَلَى مَجْنُونٍ قَوَدٌ \" /27 . قَالَ /12 مَالِك /12 ، فِي الْكَبِيرِ وَالصَّغِيرِ إِذَا قَتَلَا رَجُلًا جَمِيعًا عَمْدًا : /10 أَنَّ عَلَى الْكَبِيرِ أَنْ يُقْتَلَ ، وَعَلَى الصَّغِيرِ نِصْفُ الدِّيَةِ /10 . قَالَ /12 مَالِك /12 : /10 وَكَذَلِكَ الْحُرُّ وَالْعَبْدُ يَقْتُلَانِ الْعَبْدَ فَيُقْتَلُ الْعَبْدُ وَيَكُونُ عَلَى الْحُرِّ نِصْفُ قِيمَتِهِ /10 * \r\n1E447",
+      "collection": "Muwatta Malik",
+      "reference_number": 1975,
+      "grade": "Hasan (Acceptable) - Athar"
+    },
+    {
+      "hadith_id": 9681,
+      "english_translation": "Chapter: The Blood Money for Accidental Killing",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab) with no hadith content",
+          "impact": "No chain or narration to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": ["Chapter Heading: Blood Money for Accidental Killing"],
+      "arabicText": "بَابُ دِيَةِ الْخَطَإِ فِي الْقَتْلِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1977,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 9682,
+      "english_translation": "Yahya narrated to me from Malik, from Ibn Shihab, from 'Irak ibn Malik and Sulayman ibn Yasar: That a man from Banu Sa'd ibn Layth made his horse run and it trampled upon the finger of a man from Juhaynah, who suffered from it and died. Umar ibn al-Khattab said to those who were accused: 'Will you swear by Allah fifty oaths that he did not die from it?' They refused and were scrupulous. He said to the others: 'Will you swear?' They refused. So Umar ibn al-Khattab ruled that half the blood money be upon the Sa'di people. Malik said: The practice is not based on this.",
+      "chains": [
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis (category 2-3) by some scholars, though generally considered highly reliable"]
+            },
+            {
+              "name": "'Irak ibn Malik",
+              "full_name": "'Irak ibn Malik ibn Abi 'Irak al-Ghifari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani, Abu Ayyub",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) throughout the chain, including from al-Zuhri who is classified as a mudallis",
+            "The term 'anna (أَنَّ) at the end suggests indirect transmission",
+            "Both 'Irak ibn Malik and Sulayman ibn Yasar are Tabi'un reporting about Umar - potential gap as neither was likely present at this incident"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri -> 'Irak ibn Malik and Sulayman ibn Yasar -> Incident involving Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain, including from Ibn Shihab al-Zuhri who is classified as a mudallis",
+          "impact": "The ambiguous transmission terms, especially from a known mudallis, raise questions about the continuity of the chain. However, al-Zuhri is generally considered very reliable and his tadlis is of a minor category."
+        },
+        {
+          "issue": "Neither 'Irak ibn Malik nor Sulayman ibn Yasar are Companions - they are Tabi'un reporting about an incident involving Umar",
+          "impact": "There must be an intermediary between them and the actual incident, creating a potential gap in the chain. This is technically a mursal report from the Tabi'un."
+        },
+        {
+          "issue": "The term 'anna (أَنَّ)' used to introduce the incident suggests indirect transmission",
+          "impact": "This confirms the report is not directly witnessed by the Tabi'i narrators, indicating potential missing links."
+        },
+        {
+          "issue": "Malik adds his own comment at the end ('wa laysa al-'amal 'ala hadha') disagreeing with the ruling",
+          "impact": "This shows that even Malik did not consider this a binding precedent, which may indicate uncertainty about its authenticity or applicability."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Horse Trampling Leading to Death",
+        "Umar's Judgment on Oath-Taking in Uncertain Causation",
+        "Half Blood Money When Both Parties Refuse to Swear"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 عِرَاكِ بْنِ مَالِكٍ L5582 /26 ، /26 وَسُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، /27 أَنَّ رَجُلا مِنْ بَنِي سَعْدِ بْنِ لَيْثٍ أَجْرَى فَرَسًا فَوَطِئَ عَلَى إِصْبَعِ رَجُلٍ مِنْ جُهَيْنَةَ فَنُزِيَ مِنْهَا فَمَاتَ ، فَقَالَ /93 عُمَرُ بْنُ الْخَطَّابِ L5913 /93 لِلَّذِي ادُّعِيَ عَلَيْهِمْ : /20 \" أَتَحْلِفُونَ بِاللَّهِ خَمْسِينَ يَمِينًا مَا مَاتَ مِنْهَا ؟ \" فَأَبَوْا وَتَحَرَّجُوا ، وَقَالَ لِلْآخَرِينَ : أَتَحْلِفُونَ أَنْتُمْ ؟ فَأَبَوْا ، فَقَضَى عُمَرُ بْنُ الْخَطَّابِ بِشَطْرِ الدِّيَةِ عَلَى السَّعْدِيِّينَ \" /27 . قَالَ /12 مَالِك /12 : /10 وَلَيْسَ الْعَمَلُ عَلَى هَذَا /10 * \r\n$1533  1536 /8",
+      "collection": "Muwatta Malik",
+      "reference_number": 1978,
+      "grade": "Hasan (Acceptable) - Athar"
+    },
+    {
+      "hadith_id": 9683,
+      "english_translation": "And it was narrated to me from Malik: That Ibn Shihab, and Sulayman ibn Yasar, and Rabi'ah ibn Abi 'Abd al-Rahman used to say: 'The blood money for accidental killing is twenty bint makhad, twenty bint labun, twenty ibn labun (male), twenty hiqqah, and twenty jadha'ah.' Malik said: The agreed-upon matter among us is that there is no retaliation between children, and their intentional acts are considered accidental as long as they have not incurred the prescribed punishments and reached puberty. The killing by a child can only be accidental. Thus, if a child and an adult killed a free man accidentally, upon the 'aqilah (family responsible for blood money) of each of them is half the blood money. Malik said: Whoever is killed accidentally, his blood money is wealth, there is no retaliation in it. It is like his other wealth - his debts are paid from it and his bequest is valid in it. If he had wealth such that the blood money would be the amount of one-third of it, then he forgave his blood money, that is permissible for him. If he had no wealth other than his blood money, then one-third of it is permissible for him if he forgave it and bequeathed it.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (unspecified)",
+              "full_name": "Unknown - likely Yahya ibn Yahya al-Laythi based on context",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Narrator not explicitly named"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Classified as mudallis (category 2-3) by some scholars, though generally considered highly reliable"]
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani, Abu Ayyub",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi 'Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi 'Abd al-Rahman Farukh al-Qurashi al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a maqtu' narration - it records the legal opinions of three Tabi'i scholars, not a hadith from the Prophet ﷺ",
+            "The term 'anna (أَنَّ)' used repeatedly suggests indirect transmission",
+            "The phrase 'kanu yaqulun' (they used to say) indicates these are their legal opinions, not transmitted reports"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya (unspecified) -> Malik -> Ibn Shihab, Sulayman ibn Yasar, and Rabi'ah (maqtu' statements)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration containing the legal opinions of three Tabi'i scholars, not a hadith from the Prophet ﷺ",
+          "impact": "These are jurisprudential opinions (fiqh) from early scholars, not prophetic traditions. No chain goes back to the Prophet ﷺ."
+        },
+        {
+          "issue": "The phrase 'kanu yaqulun' (they used to say) clearly indicates these are legal opinions, not transmitted hadiths",
+          "impact": "This is explicitly identified as the personal ijtihad of these scholars."
+        },
+        {
+          "issue": "Additional statements from Malik ('qala Malik') are his own legal deductions",
+          "impact": "These are Malik's fiqhi opinions, not narrations."
+        },
+        {
+          "issue": "The term 'anna (أَنَّ)' suggests indirect transmission",
+          "impact": "Minor issue given that these are opinions rather than hadiths."
+        }
+      ],
+      "IISGrade": "N/A - Not a Hadith (Maqtu' Legal Opinions)",
+      "Topics": [
+        "Scholarly Opinions on Accidental Killing Blood Money Composition",
+        "Children's Crimes Treated as Accidental",
+        "Blood Money as Inheritable Wealth",
+        "Bequests from Blood Money"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، /27 أَنَّ /94 ابْنَ شِهَابٍ L7272 /94 ، /26 وَسُلَيْمَانَ بْنَ يَسَارٍ L3634 /26 ، /26 وَرَبِيعَةَ بْنَ أَبِي عَبْدِ الرَّحْمَنِ L2885 /26 ، كَانُوا يَقُولُونَ : /20 \" دِيَةُ الْخَطَإِ عِشْرُونَ بِنْتَ مَخَاضٍ ، وَعِشْرُونَ بِنْتَ لَبُونٍ ، وَعِشْرُونَ ابْنَ لَبُونٍ ذَكَرًا ، وَعِشْرُونَ حِقَّةً ، وَعِشْرُونَ جَذَعَةً \" /27 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا : أَنَّهُ لَا قَوَدَ بَيْنَ الصِّبْيَانِ ، وَإِنَّ عَمْدَهُمْ خَطَأٌ مَا لَمْ تَجِبْ عَلَيْهِمُ الْحُدُودُ وَيَبْلُغُوا الْحُلُمَ ، وَإِنَّ قَتْلَ الصَّبِيِّ لَا يَكُونُ إِلَّا خَطَأً ، وَذَلِكَ لَوْ أَنَّ صَبِيًّا وَكَبِيرًا قَتَلَا رَجُلًا حُرًّا خَطَأً كَانَ عَلَى عَاقِلَةِ كُلِّ وَاحِدٍ مِنْهُمَا نِصْفُ الدِّيَةِ /10 . قَالَ /12 مَالِك /12 : /10 وَمَنْ قُتِلَ خَطَأً فَإِنَّمَا عَقْلُهُ مَالٌ لَا قَوَدَ فِيهِ ، وَإِنَّمَا هُوَ كَغَيْرِهِ مِنْ مَالِهِ يُقْضَى بِهِ دَيْنُهُ وَتَجُوزُ فِيهِ وَصِيَّتُهُ ، فَإِنْ كَانَ لَهُ مَالٌ تَكُونُ الدِّيَةُ قَدْرَ ثُلُثِهِ ثُمَّ عَفَا عَنْ دِيَتِهِ فَذَلِكَ جَائِزٌ لَهُ ، وَإِنْ لَمْ يَكُنْ لَهُ مَالٌ غَيْرُ دِيَتِهِ جَازَ لَهُ مِنْ ذَلِكَ الثُّلُثُ إِذَا عَفَا عَنْهُ وَأَوْصَى بِهِ /10 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1979,
+      "grade": "N/A - Maqtu'"
+    },
+    {
+      "hadith_id": 9684,
+      "english_translation": "Chapter: The Blood Money for Injuries in Accidental Cases",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab) with no hadith content",
+          "impact": "No chain or narration to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": ["Chapter Heading: Blood Money for Accidental Injuries"],
+      "arabicText": "بَابُ عَقْلِ الْجِرَاحِ فِي الْخَطَإِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1980,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 9685,
+      "english_translation": "Malik narrated to me: That the agreed-upon matter among them regarding accidental injury is that blood money is not obligated until the wounded person recovers and becomes healthy. If a bone of a person is broken - a hand, a leg, or other part of the body - accidentally, and it heals and recovers and returns to its original state, there is no blood money for it. But if it is diminished or there is impediment in it, then there is blood money according to what has been diminished from it. Malik said: If that bone is one for which the Prophet ﷺ specified blood money, then it is according to what the Prophet ﷺ prescribed for it. Whatever did not have specified blood money from the Prophet ﷺ and no sunnah or specified blood money has passed regarding it, then ijtihad is applied to it. Malik said: There is no blood money for wounds in the body if they were accidental, when the wound heals and returns to its original state. If there is impediment or disfigurement in any of that, then ijtihad is applied to it, except for the penetrating wound (ja'ifah), for in it is one-third of the blood money for a life. Malik said: There is no blood money in the munaqqilah (fracture that moves bone) of the body, and it is like the mudihah (wound exposing bone) of the body. Malik said: The agreed-upon matter among us is that if a doctor performs circumcision and cuts off the glans, then the blood money is upon him, and that is from the accidental error which the 'aqilah bears. Whatever error or transgression the doctor makes, if he did not intend it, there is blood money for it.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is entirely Malik's statement and legal opinions",
+            "No chain of transmission to the Prophet ﷺ or Companions",
+            "The phrase 'al-amr al-mujtama' 'alayhi 'indahum' (the agreed-upon matter among them) indicates local consensus, not hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (maqtu' statement only)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is entirely Malik's statement of legal consensus and his own jurisprudential opinions",
+          "impact": "There is no chain going back to the Prophet ﷺ or even to Companions. This is pure fiqh, not hadith."
+        },
+        {
+          "issue": "The phrases used ('al-amr al-mujtama' 'alayhi', 'qala Malik') clearly indicate this is jurisprudence, not transmitted narrations",
+          "impact": "This represents the legal practice in Madinah according to Malik, not a prophetic tradition."
+        },
+        {
+          "issue": "While Malik refers to what 'came from the Prophet ﷺ' regarding specific blood money amounts, he doesn't provide those reports or their chains",
+          "impact": "The references to prophetic precedent are general statements without specific hadith citations."
+        }
+      ],
+      "IISGrade": "N/A - Not a Hadith (Fiqh Statement)",
+      "Topics": [
+        "Blood Money Assessment for Healed Injuries",
+        "Blood Money for Bone Fractures",
+        "Ijtihad in Unspecified Cases",
+        "Blood Money for Penetrating Wounds",
+        "Medical Malpractice in Circumcision"
+      ],
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 : /10 أَنَّ الْأَمْرَ الْمُجْتَمَعُ عَلَيْهِ عِنْدَهُمْ فِي الْخَطَإِ : أَنَّهُ لَا يُعْقَلُ حَتَّى يَبْرَأَ الْمَجْرُوحُ وَيَصِحَّ ، وَأَنَّهُ إِنْ كُسِرَ عَظْمٌ مِنَ الْإِنْسَانِ يَدٌ أَوْ رِجْلٌ أَوْ غَيْرُ ذَلِكَ مِنَ الْجَسَدِ خَطَأً ، فَبَرَأَ وَصَحَّ وَعَادَ لِهَيْئَتِهِ فَلَيْسَ فِيهِ عَقْلٌ ، فَإِنْ نَقَصَ أَوْ كَانَ فِيهِ عَثَلٌ فَفِيهِ مِنْ عَقْلِهِ بِحِسَابِ مَا نَقَصَ مِنْهُ /10 . قَالَ /12 مَالِك /12 : /10 فَإِنْ كَانَ ذَلِكَ الْعَظْمُ مِمَّا جَاءَ فِيهِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَقْلٌ مُسَمًّى ، فَبِحِسَابِ مَا فَرَضَ فِيهِ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَمَا كَانَ مِمَّا لَمْ يَأْتِ فِيهِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَقْلٌ مُسَمًّى ، وَلَمْ تَمْضِ فِيهِ سُنَّةٌ وَلَا عَقْلٌ مُسَمًّى فَإِنَّهُ يُجْتَهَدُ فِيهِ /10 . قَالَ /12 مَالِك /12 : /10 وَلَيْسَ فِي الْجِرَاحِ فِي الْجَسَدِ إِذَا كَانَتْ خَطَأً عَقْلٌ ، إِذَا بَرَأَ الْجُرْحُ وَعَادَ لِهَيْئَتِهِ فَإِنْ كَانَ فِي شَيْءٍ مِنْ ذَلِكَ عَثَلٌ أَوْ شَيْنٌ فَإِنَّهُ يُجْتَهَدُ فِيهِ ، إِلَّا الْجَائِفَةَ فَإِنَّ فِيهَا ثُلُثَ دِيَةِ النَّفْسِ /10 . قَالَ /12 مَالِك /12 : /10 وَلَيْسَ فِي مُنَقِّلَةِ الْجَسَدِ عَقْلٌ وَهِيَ مِثْلُ مُوضِحَةِ الْجَسَدِ /10 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا : أَنَّ الطَّبِيبَ إِذَا خَتَنَ فَقَطَعَ الْحَشَفَةَ ، إِنَّ عَلَيْهِ الْعَقْلَ وَأَنَّ ذَلِكَ مِنَ الْخَطَإِ الَّذِي تَحْمِلُهُ الْعَاقِلَةُ ، وَأَنَّ كُلَّ مَا أَخْطَأَ بِهِ الطَّبِيبُ أَوْ تَعَدَّى إِذَا لَمْ يَتَعَمَّدْ ذَلِكَ فَفِيهِ الْعَقْلُ /10 .\u001fE448",
+      "collection": "Muwatta Malik",
+      "reference_number": 1981,
+      "grade": "N/A - Fiqh"
+    },
+    {
+      "hadith_id": 9686,
+      "english_translation": "Chapter: The Blood Money for a Woman",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab) with no hadith content",
+          "impact": "No chain or narration to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": ["Chapter Heading: Women's Blood Money"],
+      "arabicText": "بَابُ عَقْلِ الْمَرْأَةِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1982,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 9687,
+      "english_translation": "And Yahya narrated to me from Malik, from Yahya ibn Sa'id, from Sa'id ibn al-Musayyab, that he used to say: 'A woman's blood money equals a man's up to one-third of the blood money - her finger is like his finger, her tooth like his tooth, her mudihah (wound exposing bone) like his mudihah, and her munaqqilah (fracture moving bone) like his munaqqilah.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) throughout the chain",
+            "This is a maqtu' narration - it stops at Sa'id ibn al-Musayyab (a Tabi'i) and does not reach the Prophet ﷺ",
+            "The phrase 'kana yaqul' (used to say) indicates this is Sa'id's legal opinion, not a transmitted report"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab (maqtu')"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration containing the legal opinion of Sa'id ibn al-Musayyab, not a hadith from the Prophet ﷺ",
+          "impact": "This is a jurisprudential opinion from a prominent Tabi'i scholar, not a prophetic tradition."
+        },
+        {
+          "issue": "The phrase 'kana yaqul' (used to say) clearly indicates this is Sa'id's personal legal opinion",
+          "impact": "This is explicitly identified as ijtihad, not transmitted narration."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "Minor concern given that all narrators are highly reliable, and this is merely a statement of opinion rather than a hadith claim."
+        }
+      ],
+      "IISGrade": "N/A - Not a Hadith (Maqtu' Legal Opinion)",
+      "Topics": [
+        "Sa'id ibn al-Musayyab's Opinion on Women's Blood Money",
+        "Equality of Compensation for Minor Injuries Between Men and Women"
+      ],
+      "arabicText": "وَحَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ /94 ، /27 عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ /26 ، أَنَّهُ كَانَ يَقُولُ : /20 \" تُعَاقِلُ الْمَرْأَةُ الرَّجُلَ إِلَى ثُلُثِ الدِّيَةِ ، إِصْبَعُهَا كَإِصْبَعِهِ وَسِنُّهَا كَسِنِّهِ وَمُوضِحَتُهَا كَمُوضِحَتِهِ وَمُنَقِّلَتُهَا كَمُنَقِّلَتِهِ \" /27 * \r\n$1535  1538 /8",
+      "collection": "Muwatta Malik",
+      "reference_number": 1983,
+      "grade": "N/A - Maqtu'"
+    },
+    {
+      "hadith_id": 9688,
+      "english_translation": "And it was narrated to me from Malik, from Ibn Shihab - and it reached him - from 'Urwah ibn al-Zubayr, that they both used to say similar to the statement of Sa'id ibn al-Musayyab regarding the woman: That she 'equals the man up to one-third of the man's blood money, and when it reaches one-third of the man's blood money, it becomes half of the man's blood money.' Malik said: The explanation of that is that she equals him in the mudihah and the munaqqilah and what is less than the ma'mumah and the ja'ifah and their likes, which would be one-third of the blood money or more. When it reaches that, her blood money in that is half of the man's blood money.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (unspecified)",
+              "full_name": "Unknown - likely Yahya ibn Yahya al-Laythi based on context",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Narrator not explicitly named"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis (category 2-3) by some scholars, though generally considered highly reliable"]
+            },
+            {
+              "name": "'Urwah ibn al-Zubayr",
+              "full_name": "'Urwah ibn al-Zubayr ibn al-'Awwam al-Qurashi al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["The term 'balagahu' indicates indirect/disconnected transmission"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The phrase 'wa balagahu' (and it reached him) indicates a disconnected chain",
+            "This is a maqtu' narration containing legal opinions of Tabi'in scholars",
+            "The phrase 'kana yaqulan' (they used to say) indicates these are their legal opinions"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya (unspecified) -> Malik -> Ibn Shihab and (disconnected) -> 'Urwah ibn al-Zubayr (maqtu')"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration containing the legal opinions of Ibn Shihab and 'Urwah, two Tabi'i scholars",
+          "impact": "These are jurisprudential opinions, not hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "The term 'wa balagahu' (and it reached him) indicates a disconnection in the chain",
+          "impact": "The transmission from Malik to 'Urwah's statement is not direct, introducing uncertainty."
+        },
+        {
+          "issue": "The phrase 'kanā yaqulān' (they both used to say) indicates these are their legal opinions, not transmitted reports",
+          "impact": "This is explicitly fiqhi ijtihad."
+        },
+        {
+          "issue": "Malik's additional explanation ('qala Malik') is his own jurisprudential commentary",
+          "impact": "This is Malik's fiqh, not hadith."
+        }
+      ],
+      "IISGrade": "N/A - Not a Hadith (Maqtu' Legal Opinions)",
+      "Topics": [
+        "Ibn Shihab and 'Urwah's Opinion on Women's Blood Money Scaling",
+        "Transition Point at One-Third Blood Money"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ /94 ، /18 وَبَلَغَهُ /18 ، عَنْ /26 عُرْوَةَ بْنِ الزُّبَيْرِ /26 ، أَنَّهُمَا كَانَا يَقُولَانِ ، مِثْلَ /27 قَوْلِ /26 سَعِيدِ بْنِ الْمُسَيَّبِ /26 ، فِي الْمَرْأَةِ : أَنَّهَا /20 \" تُعَاقِلُ الرَّجُلَ إِلَى ثُلُثِ دِيَةِ الرَّجُلِ ، فَإِذَا بَلَغَتْ ثُلُثَ دِيَةِ الرَّجُلِ كَانَتْ إِلَى النِّصْفِ مِنْ دِيَةِ الرَّجُلِ \" /27 . قَالَ /12 مَالِك /12 : /10 وَتَفْسِيرُ ذَلِكَ أَنَّهَا تُعَاقِلُهُ فِي الْمُوضِحَةِ وَالْمُنَقِّلَةِ وَمَا دُونَ الْمَأْمُومَةِ وَالْجَائِفَةِ وَأَشْبَاهِهِمَا مِمَّا يَكُونُ فِيهِ ثُلُثُ الدِّيَةِ فَصَاعِدًا ، فَإِذَا بَلَغَتْ ذَلِكَ كَانَ عَقْلُهَا فِي ذَلِكَ النِّصْفَ مِنْ عَقْلِ الرَّجُلِ /10 * \r\n$1536  1539 /8",
+      "collection": "Muwatta Malik",
+      "reference_number": 1984,
+      "grade": "N/A - Maqtu'"
+    },
+    {
+      "hadith_id": 9689,
+      "english_translation": "And it was narrated to me from Malik that he heard Ibn Shihab saying: 'The Sunnah has passed that when a man injures his wife with a wound, upon him is the blood money for that wound and he is not subject to retaliation.' Malik said: That is only in cases of accident, that the man strikes his wife and something happens to her from his striking that he did not intend, such as when he strikes her with a whip and puts out her eye and the like. Malik said regarding a woman who has a husband and children from other than her 'asabah (paternal relatives) or her people: There is nothing upon her husband if he is from another tribe regarding the blood money of her crime, nor upon her children if they are from other than her people, nor upon her brothers from her mother if they are from other than her 'asabah or her people. These are more entitled to her inheritance, while the 'asabah bears the blood money since the time of the Messenger of Allah ﷺ until today. Similarly, the inheritance of the woman's freed slaves goes to the woman's children even if they are from other than her tribe, while the blood money for crimes of the freed slaves is upon her tribe.",
+      "chains": [
+        {
+          "type": "mursal/maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (unspecified)",
+              "full_name": "Unknown - likely Yahya ibn Yahya al-Laythi based on context",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Narrator not explicitly named"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Al-Zuhri states 'madat al-sunnah' (the Sunnah has passed) without providing a chain to the Prophet ﷺ or Companions",
+            "This is technically a mursal statement since al-Zuhri doesn't specify his source",
+            "The additional statements from Malik are his own legal opinions"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya (unspecified) -> Malik (heard) -> Ibn Shihab (mursal statement about Sunnah)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri uses the phrase 'madat al-sunnah' (the Sunnah has passed) without providing a chain to the Prophet ﷺ",
+          "impact": "This is a mursal claim about Sunnah practice without specifying the source or providing a complete chain. The reliability depends on al-Zuhri's knowledge and authority."
+        },
+        {
+          "issue": "While Malik uses the strong term 'sami'a' (heard) from Ibn Shihab, al-Zuhri's own statement is mursal",
+          "impact": "The direct hearing from al-Zuhri is confirmed, but al-Zuhri's claim about the Sunnah lacks a documented chain."
+        },
+        {
+          "issue": "Malik's additional statements ('qala Malik') are his own legal opinions and deductions",
+          "impact": "These are fiqhi interpretations from Malik, not transmitted reports."
+        },
+        {
+          "issue": "The claim 'mundhu zaman rasul Allah' (since the time of the Messenger of Allah ﷺ) is made without providing specific evidence",
+          "impact": "This is a general historical claim without documented proof in this narration."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Husband's Accidental Injury to Wife",
+        "No Retaliation for Husband's Unintentional Harm to Wife",
+        "Blood Money Responsibility of Paternal Tribe ('Asabah)",
+        "Inheritance vs Blood Money Responsibility",
+        "Freed Slaves' Blood Money Obligations"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، أَنَّهُ /27 سَمِعَ /94 ابْنَ شِهَابٍ /94 ، يَقُولُ : \" مَضَتِ السُّنَّةُ أَنَّ /20 الرَّجُلَ إِذَا أَصَابَ امْرَأَتَهُ بِجُرْحٍ أَنَّ عَلَيْهِ عَقْلَ ذَلِكَ الْجُرْحِ وَلَا يُقَادُ مِنْهُ \" /27 . قَالَ /12 مَالِك /12 : /10 وَإِنَّمَا ذَلِكَ فِي الْخَطَإِ ، أَنْ يَضْرِبَ الرَّجُلُ امْرَأَتَهُ فَيُصِيبَهَا مِنْ ضَرْبِهِ مَا لَمْ يَتَعَمَّدْ ، كَمَا يَضْرِبُهَا بِسَوْطٍ فَيَفْقَأُ عَيْنَهَا وَنَحْوَ ذَلِكَ /10 . قَالَ /12 مَالِك /12 ، فِي الْمَرْأَةِ يَكُونُ لَهَا زَوْجٌ وَوَلَدٌ مِنْ غَيْرِ عَصَبَتِهَا وَلَا قَوْمِهَا : /10 فَلَيْسَ عَلَى زَوْجِهَا إِذَا كَانَ مِنْ قَبِيلَةٍ أُخْرَى مِنْ عَقْلِ جِنَايَتِهَا شَيْءٌ ، وَلَا عَلَى وَلَدِهَا إِذَا كَانُوا مِنْ غَيْرِ قَوْمِهَا ، وَلَا عَلَى إِخْوَتِهَا مِنْ أُمِّهَا إِذَا كَانُوا مِنْ غَيْرِ عَصَبَتِهَا ، وَلَا قَوْمِهَا فَهَؤُلَاءِ أَحَقُّ بِمِيرَاثِهَا ، وَالْعَصَبَةُ عَلَيْهِمُ الْعَقْلُ مُنْذُ زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْيَوْمِ ، وَكَذَلِكَ مَوَالِي الْمَرْأَةِ مِيرَاثُهُمْ لِوَلَدِ الْمَرْأَةِ وَإِنْ كَانُوا مِنْ غَيْرِ قَبِيلَتِهَا ، وَعَقْلُ جِنَايَةِ الْمَوَالِي عَلَى قَبِيلَتِهَا /10 * \r\n$E449",
+      "collection": "Muwatta Malik",
+      "reference_number": 1985,
+      "grade": "Hasan (Acceptable)"
+    },
+    {
+      "hadith_id": 9690,
+      "english_translation": "Chapter: The Blood Money for a Fetus",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab) with no hadith content",
+          "impact": "No chain or narration to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading Only",
+      "Topics": ["Chapter Heading: Blood Money for a Fetus"],
+      "arabicText": "بَابُ عَقْلِ الْجَنِينِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1986,
+      "grade": "N/A"
+    }
+  ]
+}

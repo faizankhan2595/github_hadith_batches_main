@@ -1,0 +1,622 @@
+{
+  "batch_number": 2,
+  "file_number": 68,
+  "processed_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 10006,
+      "english_translation": "Narrated from Abu Hurayrah: The Messenger of Allah ﷺ said: 'For the slave (owned servant) is his food and clothing according to what is reasonable, and he should not be burdened with work except what he can bear.' And it reached Malik that Umar ibn al-Khattab used to go to al-Awali every Saturday, and if he found a slave in work he could not bear, he would lighten it from him.",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["mursal - disconnected chain, Malik did not specify his source"]
+            }
+          ],
+          "chainIssues": ["Disconnected chain - Malik uses بَلَغَهُ (it reached him) without naming the intermediary source", "This is a mu'dal (completely disconnected) narration as multiple narrators are omitted between Malik and Abu Hurayrah"]
+        }
+      ],
+      "plainChains": [
+        "Malik (mursal/disconnected) -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik states 'it reached him' (بَلَغَهُ) without naming his source, indicating a disconnected chain with missing narrators between Malik and Abu Hurayrah",
+          "impact": "This is a weak form of transmission as the intermediary narrators are unknown. The hadith cannot be graded as authentic without supporting chains"
+        },
+        {
+          "issue": "The second part about Umar ibn al-Khattab is also mursal from Malik with the same disconnection",
+          "impact": "Both reports in this hadith entry suffer from the same chain weakness"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Rights of Enslaved People",
+        "Treatment of Servants",
+        "Justice in Labor",
+        "Incident of Umar inspecting treatment of slaves in al-Awali"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ أَبَا هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لِلْمَمْلُوكِ طَعَامُهُ وَكِسْوَتُهُ بِالْمَعْرُوفِ ، وَلَا يُكَلَّفُ مِنَ الْعَمَلِ إِلَّا مَا يُطِيقُ \" وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ كَانَ \" يَذْهَبُ إِلَى الْعَوَالِي كُلَّ يَوْمِ سَبْتٍ ، فَإِذَا وَجَدَ عَبْدًا فِي عَمَلٍ لَا يُطِيقُهُ وَضَعَ عَنْهُ مِنْهُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2302,
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 10007,
+      "english_translation": "Narrated from Uthman ibn Affan while he was delivering a sermon, he was saying: 'Do not burden a female slave who has no craft with earning income, for when you burden her with that, she will earn through her private parts. And do not burden the young child with earning, for if he does not find (lawful means), he will steal. And be chaste since Allah has made you chaste, and upon you is to eat from the food that is good.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Suhayl ibn Malik",
+              "full_name": "Nafi' ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father",
+              "full_name": "Malik ibn Abi Amir al-Asbahi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Uthman ibn Affan",
+              "full_name": "Uthman ibn Affan ibn Abi al-As ibn Umayyah al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu Suhayl ibn Malik -> His father (Malik ibn Abi Amir) -> Uthman ibn Affan"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of عَنْ ('an) by Abu Suhayl from his father and by the father from Uthman, though both are generally reliable",
+          "impact": "Minor concern as the narrators are trustworthy and there's explicit hearing (سَمِعَ) mentioned between the father and Uthman"
+        },
+        {
+          "issue": "This is a mawquf statement (statement of a Companion), not a marfu' hadith from the Prophet ﷺ",
+          "impact": "While valuable as the statement of a rightly-guided Caliph, it does not carry the same authority as a direct prophetic statement"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Protection of Enslaved Women",
+        "Prevention of Exploitation",
+        "Child Labor Prohibition",
+        "Economic Ethics",
+        "Speech of Uthman ibn Affan about protecting vulnerable people"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ عَمِّهِ أَبِي سُهَيْلِ بْنِ مَالِكٍ ، عَنْ أَبِيهِ ، أَنَّهُ سَمِعَ عُثْمَانَ بْنَ عَفَّانَ وَهُوَ يَخْطُبُ ، وَهُوَ يَقُولُ : \" لَا تُكَلِّفُوا الْأَمَةَ ، غَيْرَ ذَاتِ الصَّنْعَةِ الْكَسْبَ ، فَإِنَّكُمْ مَتَى كَلَّفْتُمُوهَا ذَلِكَ كَسَبَتْ بِفَرْجِهَا ، وَلَا تُكَلِّفُوا الصَّغِيرَ الْكَسْبَ ، فَإِنَّهُ إِذَا لَمْ يَجِدْ سَرَقَ ، وَعِفُّوا إِذْ أَعَفَّكُمُ اللَّهُ ، وَعَلَيْكُمْ مِنَ الْمَطَاعِمِ بِمَا طَابَ مِنْهَا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2303,
+      "grade": "Sahih Mawquf"
+    },
+    {
+      "hadith_id": 10009,
+      "english_translation": "Narrated from Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'When a slave is sincere to his master and perfects the worship of Allah, for him is his reward twice.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of عَنْ ('an) by Malik from Nafi' and أَنَّ (anna) from Ibn Umar",
+          "impact": "Very minimal impact. This is the famous 'Golden Chain' (Silsilat al-Dhahab): Malik from Nafi' from Ibn Umar, considered one of the most authentic chains in hadith literature. Nafi' is known to have been the freed slave and close companion of Ibn Umar, so their connection is well-established"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Reward for Enslaved Believers",
+        "Double Reward for Righteous Slaves",
+        "Excellence of Combining Service to Master and Worship of Allah"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" الْعَبْدُ إِذَا نَصَحَ لِسَيِّدِهِ وَأَحْسَنَ عِبَادَةَ اللَّهِ ، فَلَهُ أَجْرُهُ مَرَّتَيْنِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2305,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10010,
+      "english_translation": "It reached Malik that a female slave belonging to Abdullah ibn Umar ibn al-Khattab was seen by Umar ibn al-Khattab having adorned herself with the adornment of free women. So he entered upon his daughter Hafsah and said: 'Did I not see your brother's slave girl going about among the people having adorned herself with the adornment of free women?' And Umar disapproved of that.",
+      "chains": [
+        {
+          "type": "athar mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["mursal - disconnected chain, source not specified"]
+            }
+          ],
+          "chainIssues": ["Completely disconnected - Malik does not name any source for this report", "Multiple generations missing between Malik and the event during Umar's time"]
+        }
+      ],
+      "plainChains": [
+        "Malik (mursal/disconnected) -> Umar ibn al-Khattab (incident)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik states 'it reached him' (بَلَغَهُ) without naming any source",
+          "impact": "This is a severely disconnected chain. The incident is about Umar and his son Abdullah, but Malik provides no chain of transmission. Cannot be authenticated without supporting evidence"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Umar disapproving slave girl dressing as free woman",
+        "Distinction in Dress between Free Women and Enslaved Women",
+        "Modesty Standards"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ أَمَةً كَانَتْ لِعَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ رَآهَا عُمَرُ بْنُ الْخَطَّابِ وَقَدْ تَهَيَّأَتْ بِهَيْئَةِ الْحَرَائِرِ ، فَدَخَلَ عَلَى ابْنَتِهِ حَفْصَةَ ، فَقَالَ : \" أَلَمْ أَرَ جَارِيَةَ أَخِيكِ تَجُوسُ النَّاسَ وَقَدْ تَهَيَّأَتْ بِهَيْئَةِ الْحَرَائِرِ \" ، وَأَنْكَرَ ذَلِكَ عُمَرُ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2306,
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 10012,
+      "english_translation": "Narrated from Abdullah ibn Umar, he said: When we pledged allegiance to the Messenger of Allah ﷺ for listening and obedience, the Messenger of Allah ﷺ would say to us: 'In what you are able.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of عَنْ ('an) and أَنَّ (anna) instead of explicit hearing terms",
+          "impact": "Minimal impact. Malik-Abdullah ibn Dinar-Ibn Umar is a well-established authentic chain. Abdullah ibn Dinar was a reliable student of Ibn Umar. The use of 'an/'anna does not affect the authenticity here"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Bay'ah to the Prophet ﷺ",
+        "Conditions of Pledge of Allegiance",
+        "Mercy in Religious Obligations",
+        "Listening and Obedience within One's Capacity"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ، قَالَ : كُنَّا إِذَا بَايَعْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى السَّمْعِ وَالطَّاعَةِ ، يَقُولُ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" فِيمَا اسْتَطَعْتُمْ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2308,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10013,
+      "english_translation": "Narrated from Umaimah bint Ruqaiqah, she said: I came to the Messenger of Allah ﷺ with women who pledged allegiance to him upon Islam. We said: 'O Messenger of Allah, we pledge allegiance to you that we will not associate anything with Allah, and we will not steal, and we will not commit adultery, and we will not kill our children, and we will not bring forth a slander that we invent between our hands and our feet, and we will not disobey you in what is good.' So the Messenger of Allah ﷺ said: 'In what you are able and can bear.' She said: So we said: 'Allah and His Messenger are more merciful to us than ourselves. Come, let us pledge allegiance to you, O Messenger of Allah.' So the Messenger of Allah ﷺ said: 'Indeed I do not shake hands with women. My word to a hundred women is like my word to one woman, or similar to my word to one woman.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn al-Munkadir",
+              "full_name": "Muhammad ibn al-Munkadir ibn Abdullah al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umaimah bint Ruqaiqah",
+              "full_name": "Umaimah bint Ruqaiqah al-Tamimiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Muhammad ibn al-Munkadir -> Umaimah bint Ruqaiqah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of عَنْ ('an) throughout the chain",
+          "impact": "Minimal impact. All narrators are highly reliable. Muhammad ibn al-Munkadir was a trustworthy narrator from the Tabi'in. Though he uses 'an, he is not known for tadlis and is considered reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Women's Bay'ah to the Prophet ﷺ",
+        "Incident of Women Pledging Allegiance",
+        "Prophet's ﷺ Practice of Not Shaking Hands with Women",
+        "Conditions of Women's Pledge",
+        "Verbal Bay'ah without Physical Contact"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ ، عَنْ أُمَيْمَةَ بِنْتِ رُقَيْقَةَ ، أَنَّهَا قَالَتْ : أَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي نِسْوَةٍ بَايَعْنَهُ عَلَى الْإِسْلَامِ ، فَقُلْنَ : يَا رَسُولَ اللَّهِ ، نُبَايِعُكَ عَلَى أَنْ لَا نُشْرِكَ بِاللَّهِ شَيْئًا ، وَلَا نَسْرِقَ وَلَا نَزْنِيَ ، وَلَا نَقْتُلَ أَوْلَادَنَا ، وَلَا نَأْتِيَ بِبُهْتَانٍ نَفْتَرِيهِ بَيْنَ أَيْدِينَا وَأَرْجُلِنَا ، وَلَا نَعْصِيَكَ فِي مَعْرُوفٍ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" فِيمَا اسْتَطَعْتُنَّ وَأَطَقْتُنَّ \" ، قَالَتْ : فَقُلْنَ : اللَّهُ وَرَسُولُهُ أَرْحَمُ بِنَا مِنْ أَنْفُسِنَا ، هَلُمَّ نُبَايِعْكَ يَا رَسُولَ اللَّهِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنِّي لَا أُصَافِحُ النِّسَاءَ ، إِنَّمَا قَوْلِي لِمِائَةِ امْرَأَةٍ كَقَوْلِي لِامْرَأَةٍ وَاحِدَةٍ ، أَوْ مِثْلِ قَوْلِي لِامْرَأَةٍ وَاحِدَةٍ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2309,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10014,
+      "english_translation": "Narrated from Abdullah ibn Umar that he wrote to Abd al-Malik ibn Marwan pledging allegiance to him. He wrote to him: 'In the name of Allah, the Most Gracious, the Most Merciful. As for what follows, to the servant of Allah Abd al-Malik, Commander of the Faithful, peace be upon you. I praise to you Allah who there is no deity except Him, and I acknowledge to you listening and obedience upon the Sunnah of Allah and the Sunnah of His Messenger, in what I am able.'",
+      "chains": [
+        {
+          "type": "athar mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report (statement/action of a Companion), not a marfu' hadith from the Prophet ﷺ",
+          "impact": "While authentic as a historical report about Ibn Umar's practice, it does not carry the authority of a prophetic statement"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Letter of Abdullah ibn Umar to Abd al-Malik",
+        "Format of Bay'ah Letter",
+        "Conditional Obedience to Rulers",
+        "Adherence to Sunnah in Political Matters"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ كَتَبَ إِلَى عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ يُبَايِعُهُ ، فَكَتَبَ إِلَيْهِ : \" بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ، أَمَّا بَعْدُ ، لِعَبْدِ اللَّهِ عَبْدِ الْمَلِكِ أَمِيرِ الْمُؤْمِنِينَ سَلَامٌ عَلَيْكَ ، فَإِنِّي أَحْمَدُ إِلَيْكَ اللَّهَ الَّذِي لَا إِلَهَ إِلَّا هُوَ ، وَأُقِرُّ لَكَ بِالسَّمْعِ وَالطَّاعَةِ عَلَى سُنَّةِ اللَّهِ وَسُنَّةِ رَسُولِهِ ، فِيمَا اسْتَطَعْتُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2310,
+      "grade": "Sahih Mawquf"
+    },
+    {
+      "hadith_id": 10016,
+      "english_translation": "Narrated from Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'Whoever says to his brother: Disbeliever, then one of them has returned with it (the accusation applies to one of them).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of عَنْ ('an) and أَنَّ (anna) instead of explicit hearing terms",
+          "impact": "Minimal impact. This is a well-established authentic chain through reliable narrators"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Warning Against Takfir",
+        "Danger of Calling a Muslim a Disbeliever",
+        "Backfiring of False Accusations"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مَنْ قَالَ لِأَخِيهِ : كَافِرٌ ، فَقَدْ بَاءَ بِهَا أَحَدُهُمَا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2312,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10017,
+      "english_translation": "Narrated from Abu Hurayrah: The Messenger of Allah ﷺ said: 'When you hear a man saying: The people are ruined, then he is the most ruined of them.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Suhayl ibn Abi Salih",
+              "full_name": "Suhayl ibn Abi Salih Dhakwan al-Samman",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some criticism of his memory, though generally accepted"]
+            },
+            {
+              "name": "His father (Abu Salih)",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayyat",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Suhayl ibn Abi Salih -> Abu Salih -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suhayl ibn Abi Salih is graded as Saduq (truthful) but had some memory issues according to some critics, though the majority accepted him",
+          "impact": "Minor concern. While Suhayl faced some criticism, his narrations are generally accepted, especially when narrated by reliable narrators like Malik. The chain remains sound"
+        },
+        {
+          "issue": "Use of عَنْ ('an) throughout the chain",
+          "impact": "Minimal impact given the reliability of the narrators and their well-established connections"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Warning Against Despair",
+        "Prohibition of Declaring People Doomed",
+        "Humility in Speech",
+        "Avoiding Negative Generalizations"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِذَا سَمِعْتَ الرَّجُلَ يَقُولُ : هَلَكَ النَّاسُ ، فَهُوَ أَهْلَكُهُمْ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2313,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10018,
+      "english_translation": "Narrated from Abu Hurayrah: The Messenger of Allah ﷺ said: 'Let not one of you say: O disappointment of time (O evil of time), for indeed Allah is the Time.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of عَنْ ('an) throughout the chain",
+          "impact": "Minimal impact. This is a well-known authentic chain (Malik-Abu al-Zinad-al-A'raj-Abu Hurayrah). All narrators are highly reliable and their connections are well-established"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Prohibition of Blaming Time",
+        "Proper Understanding of Divine Decree",
+        "Respect for Allah's Names and Attributes",
+        "Avoiding Improper Speech About Fate"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا يَقُلْ أَحَدُكُمْ : يَا خَيْبَةَ الدَّهْرِ ، فَإِنَّ اللَّهَ هُوَ الدَّهْرُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2314,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10019,
+      "english_translation": "It reached Malik from Yahya ibn Sa'id: 'That Isa ibn Maryam (Jesus son of Mary) met a pig on the road, so he said to it: Pass in peace. It was said to him: Do you say this to a pig? So Isa ibn Maryam said: I fear that I train my tongue to speak with evil.'",
+      "chains": [
+        {
+          "type": "Israeli narrative",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["This is mursal - no chain to Isa ibn Maryam is provided"]
+            }
+          ],
+          "chainIssues": ["This is not a hadith from Prophet Muhammad ﷺ but rather a story about Isa ibn Maryam (Jesus)", "The chain is mursal/maqtu' as there is no connection provided to the actual source of this story", "This falls under Israeli narratives (Isra'iliyyat) - stories from previous nations"]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Yahya ibn Sa'id (mursal story about Isa)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith from Prophet Muhammad ﷺ - it is a story about Prophet Isa (Jesus)",
+          "impact": "Cannot be classified as a prophetic hadith. This is an Israeli narrative with no chain of transmission to its source"
+        },
+        {
+          "issue": "Completely disconnected chain - no source is mentioned for this story about Isa ibn Maryam",
+          "impact": "The authenticity of this story cannot be verified through Islamic hadith methodology. It may be a wise saying but lacks proper authentication"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Story of Prophet Isa encountering a pig",
+        "Training the Tongue to Good Speech",
+        "Avoiding Habituation to Evil Speech",
+        "Israeli Narrative"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، \" أَنّ عِيسَى ابْنَ مَرْيَمَ لَقِيَ خِنْزِيرًا بِالطَّرِيقِ ، فَقَالَ لَهُ : انْفُذْ بِسَلَامٍ ، فَقِيلَ لَهُ : تَقُولُ هَذَا لِخِنْزِيرٍ ، فَقَالَ عِيسَى ابْنُ مَرْيَمَ : إِنِّي أَخَافُ أَنْ أُعَوِّدَ لِسَانِي الْمَنْطِقَ بِالسُّوءِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2315,
+      "grade": "Israeli Narrative - Not a Prophetic Hadith"
+    }
+  ]
+}

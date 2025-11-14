@@ -1,0 +1,812 @@
+{
+  "batch_number": 2,
+  "file_number": 54,
+  "processed_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 9796,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2092,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ قَالَ : بَلَغَنِي أَنَّ \" الْمَرْءَ لَيُدْرِكُ بِحُسْنِ خُلُقِهِ دَرَجَةَ الْقَائِمِ بِاللَّيْلِ الظَّامِي بِالْهَوَاجِرِ \"",
+      "english_translation": "Yahya ibn Sa'id said: It reached me that a man can attain by his good character the rank of one who stands in prayer at night and fasts during the intense heat of the day.",
+      "chains": [
+        {
+          "type": "balagh (disconnected report)",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik (likely Yahya ibn Yahya al-Laythi or Abdullah ibn Yusuf)",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear - narrator not specified in the text"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Disconnected chain - Yahya ibn Sa'id says 'balaghani' (it reached me) without specifying the source", "This is not a prophetic hadith but a statement that reached Yahya ibn Sa'id"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Yahya ibn Sa'id -> (disconnected via balaghani)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain through 'balaghani' (بلغني) - Yahya ibn Sa'id does not specify his source",
+          "impact": "Makes this report unreliable as it lacks a complete chain of transmission"
+        },
+        {
+          "issue": "This is not a marfu' hadith but a balagh report",
+          "impact": "Cannot be attributed to the Prophet ﷺ"
+        },
+        {
+          "issue": "Unknown first narrator in the chain from Malik",
+          "impact": "Incomplete documentation of the transmission path"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Good Character",
+        "Virtue of Good Manners",
+        "Comparison between worship and character"
+      ]
+    },
+    {
+      "hadith_id": 9797,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2093,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ قَالَ : سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ ، يَقُولُ : \" أَلَا أُخْبِرُكُمْ بِخَيْرٍ مِنْ كَثِيرٍ مِنَ الصَّلَاةِ وَالصَّدَقَةِ \" ، قَالُوا : بَلَى ، قَالَ : \" إِصْلَاحُ ذَاتِ الْبَيْنِ ، وَإِيَّاكُمْ وَالْبِغْضَةَ فَإِنَّهَا هِيَ الْحَالِقَةُ \"",
+      "english_translation": "Yahya ibn Sa'id said: I heard Sa'id ibn al-Musayyab saying: 'Shall I not inform you of something better than much prayer and charity?' They said: 'Yes.' He said: 'Reconciling people, and beware of hatred for it is the razor (that shaves away religion).'",
+      "chains": [
+        {
+          "type": "mawquf (statement of Sa'id ibn al-Musayyab)",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear - narrator not specified"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown first narrator from Malik",
+          "impact": "Minor issue as this is common in Muwatta manuscripts"
+        },
+        {
+          "issue": "This is a mawquf statement, not a marfu' hadith",
+          "impact": "This is the saying of Sa'id ibn al-Musayyab, not directly from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Reconciliation between people",
+        "Warning against hatred",
+        "Virtue of making peace"
+      ]
+    },
+    {
+      "hadith_id": 9798,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2094,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ قَدْ بَلَغَهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" بُعِثْتُ لِأُتَمِّمَ حُسْنَ الْأَخْلَاقِ \"",
+      "english_translation": "It reached Malik that the Messenger of Allah ﷺ said: 'I was sent to perfect good character.'",
+      "chains": [
+        {
+          "type": "balagh mursal (disconnected report)",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Severely disconnected - Malik says 'balaghahu' (it reached him) without any chain to the Prophet ﷺ", "Multiple narrators are missing between Malik and the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> (completely disconnected via balaghahu) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Completely disconnected chain - Malik uses 'balaghahu' (بلغه) without providing any intermediary narrators",
+          "impact": "This is a mursal balagh, making the chain severely deficient and unreliable"
+        },
+        {
+          "issue": "No companion or tabi'i mentioned in the chain",
+          "impact": "Cannot verify the authenticity without knowing the complete transmission path"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Purpose of the Prophetic mission",
+        "Good Character",
+        "Completion of noble manners"
+      ]
+    },
+    {
+      "hadith_id": 9800,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2096,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ سَلَمَةَ بْنِ صَفْوَانَ بْنِ سَلَمَةَ الزُّرَقِيِّ ، عَنْ زَيْدِ بْنِ طَلْحَةَ بْنِ رُكَانَةَ ، يَرْفَعُهُ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لِكُلِّ دِينٍ خُلُقٌ وَخُلُقُ الْإِسْلَامِ الْحَيَاءُ \"",
+      "english_translation": "Salamah ibn Safwan narrated from Zayd ibn Talhah ibn Rukanah, raising it to the Prophet ﷺ, that the Messenger of Allah ﷺ said: 'Every religion has a character, and the character of Islam is modesty (haya).'",
+      "chains": [
+        {
+          "type": "marfu' (raised to the Prophet)",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Salamah ibn Safwan",
+              "full_name": "Salamah ibn Safwan ibn Salamah al-Zurqi al-Ansari al-Madani",
+              "grade": "Da'if",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Weak narrator - considered da'if by majority of scholars", "Little known with limited narrations"]
+            },
+            {
+              "name": "Zayd ibn Talhah ibn Rukanah",
+              "full_name": "Zayd ibn Talhah ibn Rukanah ibn Abd Yazid al-Muttalibi",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "يَرْفَعُهُ",
+              "reliabilityIssues": ["Unknown narrator - majhul status", "Very few narrations from him", "The term 'yarfa'uhu' (he raises it) can indicate uncertainty in the chain"]
+            }
+          ],
+          "chainIssues": ["Contains a weak narrator (Salamah ibn Safwan)", "Contains an unknown narrator (Zayd ibn Talhah)", "The use of 'yarfa'uhu' instead of direct transmission terminology suggests potential disconnection"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Salamah ibn Safwan -> Zayd ibn Talhah -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Salamah ibn Safwan ibn Salamah al-Zurqi is a weak (da'if) narrator",
+          "impact": "His weakness significantly affects the reliability of this chain"
+        },
+        {
+          "issue": "Zayd ibn Talhah ibn Rukanah is majhul (unknown) with very limited documentation",
+          "impact": "The unknown status of a narrator in the chain creates serious reliability concerns"
+        },
+        {
+          "issue": "The expression 'yarfa'uhu' (he raises it) rather than explicit hearing terms",
+          "impact": "May indicate that Zayd did not directly hear this from the Prophet ﷺ or there may be missing narrators"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Modesty as character of Islam",
+        "Distinctive characteristics of religions",
+        "Virtue of Haya"
+      ]
+    },
+    {
+      "hadith_id": 9801,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2097,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَرَّ عَلَى رَجُلٍ وَهُوَ يَعِظُ أَخَاهُ فِي الْحَيَاءِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : دَعْهُ فَإِنَّ \" الْحَيَاءَ مِنَ الْإِيمَانِ \"",
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ passed by a man who was admonishing his brother about modesty (haya). The Messenger of Allah ﷺ said: 'Leave him, for modesty is part of faith.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known as mudallis (category 3 according to Ibn Hajar)", "Uses 'an (عن) transmission term"]
+            },
+            {
+              "name": "Salim ibn Abdullah",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Al-Zuhri uses 'an (عن) and is classified as mudallis, though his narrations from Salim are generally well-established"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Ibn Shihab al-Zuhri -> Salim ibn Abdullah -> Abdullah ibn Umar -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as a mudallis (category 3 by Ibn Hajar) and uses the indirect term 'an (عن)",
+          "impact": "While this creates a potential concern, al-Zuhri is widely considered extremely reliable and his narrations from Salim ibn Abdullah are well-documented and accepted by scholars. This is part of the famous 'golden chain' (silsilah al-dhahab): Malik -> al-Zuhri -> Salim -> Ibn Umar"
+        },
+        {
+          "issue": "Unknown first narrator from Malik",
+          "impact": "Minor issue as this is common in Muwatta manuscripts and doesn't significantly affect the chain's reliability given the strength of the subsequent narrators"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ defending modesty",
+        "Modesty as part of faith",
+        "The Prophet's ﷺ intervention in a conversation"
+      ]
+    },
+    {
+      "hadith_id": 9803,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2099,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ، أَنَّ رَجُلًا أَتَى إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، عَلِّمْنِي كَلِمَاتٍ أَعِيشُ بِهِنَّ وَلَا تُكْثِرْ عَلَيَّ فَأَنْسَى ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَا تَغْضَبْ \"",
+      "english_translation": "Humayd ibn Abd al-Rahman ibn Awf reported that a man came to the Messenger of Allah ﷺ and said: 'O Messenger of Allah, teach me words by which I may live, and do not make them too many lest I forget.' The Messenger of Allah ﷺ said: 'Do not become angry.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis category 3"]
+            },
+            {
+              "name": "Humayd ibn Abd al-Rahman",
+              "full_name": "Humayd ibn Abd al-Rahman ibn Awf al-Zuhri al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Born during the caliphate of Umar, did not meet the Prophet ﷺ"]
+            }
+          ],
+          "chainIssues": ["This is mursal - Humayd ibn Abd al-Rahman did not meet the Prophet ﷺ as he was born during the caliphate of Umar", "The companion who heard this from the Prophet is not mentioned"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Ibn Shihab al-Zuhri -> Humayd ibn Abd al-Rahman -> (missing companion) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Humayd ibn Abd al-Rahman was from the Tabi'in and did not meet the Prophet ﷺ",
+          "impact": "The missing companion in the chain makes this report disconnected and problematic"
+        },
+        {
+          "issue": "Al-Zuhri narrates with 'an (عن) from Humayd, and al-Zuhri is classified as mudallis",
+          "impact": "Adds another layer of potential concern, though al-Zuhri is generally reliable"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of a man seeking concise advice",
+        "Warning against anger",
+        "The Prophet's ﷺ teaching methodology"
+      ]
+    },
+    {
+      "hadith_id": 9804,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2100,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ \"",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'The strong person is not the one who can overpower others in wrestling. Rather, the strong person is the one who controls himself when angry.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis category 3"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Al-Zuhri uses 'an (عن) and is known for tadlis, though his narrations from Sa'id ibn al-Musayyab are generally well-established"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab -> Abu Hurayrah -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as mudallis (category 3) and uses 'an (عن) transmission term",
+          "impact": "While this creates potential concern, al-Zuhri's narrations from Sa'id ibn al-Musayyab are among the most famous and well-documented chains in hadith literature. This is one of the 'golden chains' and is widely accepted by scholars despite the 'an term."
+        },
+        {
+          "issue": "Unknown first narrator from Malik",
+          "impact": "Minor issue common in Muwatta manuscripts"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Definition of true strength",
+        "Self-control during anger",
+        "Controlling one's anger"
+      ]
+    },
+    {
+      "hadith_id": 9806,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2102,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ ، عَنْ أَبِي أَيُّوبَ الْأَنْصَارِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا يَحِلُّ لِمُسْلِمٍ أَنْ يُهَاجِرَ أَخَاهُ فَوْقَ ثَلَاثِ لَيَالٍ ، يَلْتَقِيَانِ فَيُعْرِضُ هَذَا وَيُعْرِضُ هَذَا ، وَخَيْرُهُمَا الَّذِي يَبْدَأُ بِالسَّلَامِ \"",
+      "english_translation": "Narrated by Abu Ayyub al-Ansari: The Messenger of Allah ﷺ said: 'It is not lawful for a Muslim to shun his brother for more than three nights, meeting one another where this one turns away and that one turns away, and the better of them is the one who is first to give the greeting of peace.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis category 3"]
+            },
+            {
+              "name": "Ata' ibn Yazid al-Laythi",
+              "full_name": "Ata' ibn Yazid ibn Abdullah al-Laythi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ayyub al-Ansari",
+              "full_name": "Khalid ibn Zayd ibn Kulayb al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Al-Zuhri uses 'an (عن) and is known for tadlis"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Ibn Shihab al-Zuhri -> Ata' ibn Yazid al-Laythi -> Abu Ayyub al-Ansari -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as mudallis (category 3) and uses 'an (عن)",
+          "impact": "Creates potential concern, but al-Zuhri's narrations from Ata' ibn Yazid are generally considered reliable. Al-Zuhri is widely regarded as extremely trustworthy despite his occasional tadlis."
+        },
+        {
+          "issue": "Unknown first narrator from Malik",
+          "impact": "Minor issue common in Muwatta manuscripts"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of shunning beyond three days",
+        "Virtue of initiating greetings",
+        "Brotherhood in Islam"
+      ]
+    },
+    {
+      "hadith_id": 9807,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2103,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا تَبَاغَضُوا وَلَا تَحَاسَدُوا وَلَا تَدَابَرُوا ، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا ، وَلَا يَحِلُّ لِمُسْلِمٍ أَنْ يُهَاجِرَ أَخَاهُ فَوْقَ ثَلَاثِ لَيَالٍ \"",
+      "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ said: 'Do not hate one another, do not envy one another, do not turn away from one another, and be servants of Allah as brothers. It is not lawful for a Muslim to shun his brother for more than three nights.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis category 3"]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Al-Zuhri uses 'an (عن) from Anas, and there is scholarly debate about whether al-Zuhri heard directly from Anas ibn Malik"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Ibn Shihab al-Zuhri -> Anas ibn Malik -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as mudallis (category 3) and uses 'an (عن) from Anas ibn Malik",
+          "impact": "Some scholars debated whether al-Zuhri heard directly from Anas, though the majority opinion is that he did meet him. Given al-Zuhri's general reliability and the acceptance of his narrations from Anas by most scholars, this is acceptable though noted."
+        },
+        {
+          "issue": "Unknown first narrator from Malik",
+          "impact": "Minor issue common in Muwatta manuscripts"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of hatred and envy",
+        "Brotherhood among Muslims",
+        "Prohibition of shunning beyond three days"
+      ]
+    },
+    {
+      "hadith_id": 9808,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2104,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِيَّاكُمْ وَالظَّنَّ ، فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ ، وَلَا تَجَسَّسُوا وَلَا تَحَسَّسُوا وَلَا تَنَافَسُوا وَلَا تَحَاسَدُوا وَلَا تَبَاغَضُوا وَلَا تَدَابَرُوا ، وَكُونُوا عِبَادَ اللَّهِ إِخْوَانًا \"",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Beware of suspicion, for suspicion is the most false of speech. Do not spy on one another, do not pry into others' affairs, do not compete with malice, do not envy one another, do not hate one another, and do not turn away from one another. Be servants of Allah as brothers.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Abu al-Zinad -> Al-A'raj -> Abu Hurayrah -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown first narrator from Malik",
+          "impact": "Minor issue common in Muwatta manuscripts, does not significantly affect the chain given the strength of subsequent narrators"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Warning against suspicion",
+        "Prohibition of spying",
+        "Brotherhood among Muslims",
+        "Social ethics in Islam"
+      ]
+    },
+    {
+      "hadith_id": 9809,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2105,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَطَاءِ بْنِ أَبِي مُسْلِمٍ عَبْدِ اللَّهِ الْخُرَاسَانِيِّ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" تَصَافَحُوا يَذْهَبْ الْغِلُّ ، وَتَهَادَوْا تَحَابُّوا وَتَذْهَبِ الشَّحْنَاءُ \"",
+      "english_translation": "Ata' ibn Abi Muslim al-Khurasani said: The Messenger of Allah ﷺ said: 'Shake hands with one another and rancor will disappear. Give gifts to one another and you will love one another and enmity will disappear.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata' ibn Abi Muslim",
+              "full_name": "Ata' ibn Abi Muslim Abdullah al-Khurasani al-Madani",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["Tabi'i who did not meet the Prophet ﷺ", "Known primarily for narrating mursal reports"]
+            }
+          ],
+          "chainIssues": ["This is mursal - Ata' ibn Abi Muslim was from the Tabi'in and did not meet the Prophet ﷺ", "The companion is not mentioned in the chain"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Ata' ibn Abi Muslim al-Khurasani -> (missing companion) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Ata' ibn Abi Muslim al-Khurasani was from the Tabi'in and did not meet the Prophet ﷺ",
+          "impact": "The missing companion in the chain makes this report disconnected and problematic"
+        },
+        {
+          "issue": "Ata' ibn Abi Muslim is known for narrating mursal reports which are considered weak",
+          "impact": "His mursal narrations lack the necessary chain completeness"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtue of shaking hands",
+        "Virtue of gift-giving",
+        "Removing enmity and rancor"
+      ]
+    },
+    {
+      "hadith_id": 9810,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2106,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" تُفْتَحُ أَبْوَابُ الْجَنَّةِ يَوْمَ الْاثْنَيْنِ وَيَوْمَ الْخَمِيسِ ، فَيُغْفَرُ لِكُلِّ عَبْدٍ مُسْلِمٍ لَا يُشْرِكُ بِاللَّهِ شَيْئًا ، إِلَّا رَجُلًا كَانَتْ بَيْنَهُ وَبَيْنَ أَخِيهِ شَحْنَاءُ ، فَيُقَالُ : أَنْظِرُوا هَذَيْنِ حَتَّى يَصْطَلِحَا ، أَنْظِرُوا هَذَيْنِ حَتَّى يَصْطَلِحَا \"",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'The gates of Paradise are opened on Monday and Thursday, and forgiveness is granted to every Muslim servant who does not associate anything with Allah, except for a man who has enmity between him and his brother. It is said: Delay these two until they reconcile. Delay these two until they reconcile.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Unknown narrator",
+              "full_name": "Unknown narrator from Malik",
+              "grade": "Unknown",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Identity unclear"]
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Suhayl ibn Abi Salih",
+              "full_name": "Suhayl ibn Abi Salih Dhakwan al-Samman al-Madani",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Considered Saduq with some memory issues", "His hadith are generally acceptable but not at the highest level"]
+            },
+            {
+              "name": "Abu Salih",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Suhayl ibn Abi Salih is rated as Saduq (truthful but not at the highest level of precision)"]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Suhayl ibn Abi Salih -> Abu Salih -> Abu Hurayrah -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suhayl ibn Abi Salih is graded as Saduq, not Thiqah, indicating some memory issues",
+          "impact": "While his narrations are generally acceptable, they are not at the highest level of reliability. Some scholars noted he had memory lapses, though his narrations through reliable students like Malik are more accepted."
+        },
+        {
+          "issue": "Unknown first narrator from Malik",
+          "impact": "Minor issue common in Muwatta manuscripts"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Gates of Paradise opened on Monday and Thursday",
+        "Forgiveness withheld due to enmity",
+        "Importance of reconciliation"
+      ]
+    }
+  ]
+}

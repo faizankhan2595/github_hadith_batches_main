@@ -1,0 +1,831 @@
+{
+  "batch_number": 2,
+  "file_number": 63,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9932,
+      "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ said: 'The good dream from a righteous man is one part of forty-six parts of prophethood.' And narrated by Abu Hurayrah from the Messenger of Allah ﷺ with similar wording.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talhah",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talhah Zayd ibn Sahl al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ishaq ibn Abdullah ibn Abi Talhah -> Anas ibn Malik -> Prophet Muhammad ﷺ",
+        "Yahya ibn Yahya -> Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact on authenticity given Malik's high reliability and the strength of both chains"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms in both chains from non-mudallis narrators",
+          "impact": "Minor concern but acceptable given the high reliability of all narrators"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Good Dreams and Their Significance",
+        "Connection Between Dreams and Prophethood"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ الْأَنْصَارِيِّ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" الرُّؤْيَا الْحَسَنَةُ مِنَ الرَّجُلِ الصَّالِحِ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ \" . وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِثْلِ ذَلِكَ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2228,
+      "grade": null
+    },
+    {
+      "hadith_id": 9933,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ used to ask when he finished the morning prayer: 'Did any of you see a dream last night?' And he would say: 'Nothing remains after me of prophethood except the righteous dream.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talhah",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talhah Zayd ibn Sahl al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zuhayr ibn Sa'sa'ah",
+              "full_name": "Zuhayr ibn Sa'sa'ah ibn Zalim al-Khazraji al-Ansari",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known by few narrators, limited documentation"]
+            },
+            {
+              "name": "Sa'sa'ah",
+              "full_name": "Sa'sa'ah ibn Zalim ibn Mukhlid al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ishaq ibn Abdullah ibn Abi Talhah -> Zuhayr ibn Sa'sa'ah -> Sa'sa'ah -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact on authenticity given Malik's high reliability"
+        },
+        {
+          "issue": "Zuhayr ibn Sa'sa'ah is graded as Maqbul with limited documentation",
+          "impact": "This narrator has limited documentation, though he narrates through Malik's path which strengthens the report"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout the chain",
+          "impact": "Minor concern but acceptable given most narrators are reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophet's ﷺ Practice After Fajr Prayer",
+        "Righteous Dreams After Prophethood"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ الْأَنْصَارِيِّ ، عَنْ زُفَرَ بْنِ صَعْصَعَةَ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا انْصَرَفَ مِنْ صَلَاةِ الْغَدَاةِ ، يَقُولُ : \" هَلْ رَأَى أَحَدٌ مِنْكُمُ اللَّيْلَةَ رُؤْيَا ؟ \" وَيَقُولُ : \" لَيْسَ يَبْقَى بَعْدِي مِنَ النُّبُوَّةِ ، إِلَّا الرُّؤْيَا الصَّالِحَةُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2229,
+      "grade": null
+    },
+    {
+      "hadith_id": 9934,
+      "english_translation": "The Messenger of Allah ﷺ said: 'Nothing will remain after me of prophethood except the glad tidings.' They asked: 'What are the glad tidings, O Messenger of Allah?' He said: 'The righteous dream that a righteous man sees or is seen for him, one part of forty-six parts of prophethood.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal hadith - Zayd ibn Aslam (from Third Generation) narrates directly from the Prophet ﷺ without mentioning a Companion, indicating a missing link"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Zayd ibn Aslam -> [Missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Zayd ibn Aslam is a Tabi'i narrating directly from the Prophet ﷺ without mentioning which Companion he heard from",
+          "impact": "Significant issue as there is a clear disconnection in the chain. Mursal hadiths are considered weak unless supported by other evidence"
+        },
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact given Malik's reliability, but combined with the mursal nature, this affects the grade"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Glad Tidings Through Dreams",
+        "Dreams as Part of Prophethood"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَنْ يَبْقَى بَعْدِي مِنَ النُّبُوَّةِ إِلَّا الْمُبَشِّرَاتُ \" ، فَقَالُوا : وَمَا الْمُبَشِّرَاتُ يَا رَسُولَ اللَّهِ ؟ قَالَ : \" الرُّؤْيَا الصَّالِحَةُ يَرَاهَا الرَّجُلُ الصَّالِحُ أَوْ تُرَى لَهُ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2230,
+      "grade": null
+    },
+    {
+      "hadith_id": 9935,
+      "english_translation": "Narrated by Abu Qatadah ibn Rib'i: I heard the Messenger of Allah ﷺ say: 'The righteous dream is from Allah, and the bad dream is from Shaytan. So when one of you sees something he dislikes, let him blow to his left three times when he wakes up, and let him seek refuge with Allah from its evil, for it will not harm him, Allah willing.' Abu Salamah said: 'I used to see dreams that were heavier upon me than a mountain, but when I heard this hadith, I paid them no mind.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah ibn Abd al-Rahman",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Qatadah ibn Rib'i",
+              "full_name": "al-Harith ibn Rib'i al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Yahya ibn Sa'id -> Abu Salamah ibn Abd al-Rahman -> Abu Qatadah ibn Rib'i -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact on authenticity given Malik's high reliability"
+        },
+        {
+          "issue": "Yahya ibn Sa'id uses 'an (عَنْ) from Abu Salamah",
+          "impact": "Minor concern but acceptable as Yahya ibn Sa'id is highly reliable and not known for problematic tadlis"
+        },
+        {
+          "issue": "Abu Salamah uses indirect term 'annahu qala' (أَنَّهُ قَالَ) before explicit 'sami'tu' (سَمِعْتُ)",
+          "impact": "Minimal impact as Abu Salamah then explicitly states he heard from Abu Qatadah using 'sami'tu'"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Nature of Good and Bad Dreams",
+        "Method to Protect from Bad Dreams",
+        "Supplication After Nightmares"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ ، أَنَّهُ قَالَ : سَمِعْتُ أَبَا قَتَادَةَ بْنَ رِبْعِيٍّ ، يَقُولُ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : \" الرُّؤْيَا الصَّالِحَةُ مِنَ اللَّهِ ، وَالْحُلْمُ مِنَ الشَّيْطَانِ ، فَإِذَا رَأَى أَحَدُكُمُ الشَّيْءَ يَكْرَهُهُ فَلْيَنْفُثْ عَنْ يَسَارِهِ ثَلَاثَ مَرَّاتٍ إِذَا اسْتَيْقَظَ ، وَلْيَتَعَوَّذْ بِاللَّهِ مِنْ شَرِّهَا فَإِنَّهَا لَنْ تَضُرَّهُ إِنْ شَاءَ اللَّهُ \" . قَالَ أَبُو سَلَمَةَ : إِنْ كُنْتُ لَأَرَى الرُّؤْيَا هِيَ أَثْقَلُ عَلَيَّ مِنَ الْجَبَلِ ، فَلَمَّا سَمِعْتُ هَذَا الْحَدِيثَ فَمَا كُنْتُ أُبَالِيهَا",
+      "collection": "Muwatta Malik",
+      "reference_number": 2231,
+      "grade": null
+    },
+    {
+      "hadith_id": 9936,
+      "english_translation": "Urwah said regarding this verse 'For them are glad tidings in the worldly life and in the Hereafter' (Surah Yunus 10:64): 'It is the righteous dream that a righteous man sees or is seen for him.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Hisham ibn Urwah -> Urwah [stops at Urwah - not from Prophet ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf hadith - stops at Urwah ibn al-Zubayr (a Tabi'i) and is not attributed to the Prophet ﷺ. This is Urwah's interpretation of a Quranic verse",
+          "impact": "Significant issue as this is not a prophetic statement but rather a scholarly interpretation from a Tabi'i. Not marfu' hadith"
+        },
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact on chain reliability, though the mawquf nature is the primary concern"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout the chain",
+          "impact": "Minor concern for chain integrity, but acceptable given narrator reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Interpretation of Quranic Verse about Glad Tidings",
+        "Dreams as Glad Tidings in This Life"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، أَنَّهُ كَانَ يَقُولُ فِي هَذِهِ الْآيَةِ : لَهُمُ الْبُشْرَى فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ سورة يونس آية 64 ، قَالَ : \" هِيَ الرُّؤْيَا الصَّالِحَةُ يَرَاهَا الرَّجُلُ الصَّالِحُ أَوْ تُرَى لَهُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2232,
+      "grade": null
+    },
+    {
+      "hadith_id": 9938,
+      "english_translation": "Narrated by Abu Musa al-Ash'ari: The Messenger of Allah ﷺ said: 'Whoever plays backgammon has disobeyed Allah and His Messenger.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Musa ibn Maysarah",
+              "full_name": "Musa ibn Maysarah al-Taymi al-Basri",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Considered truthful but not of the highest level of precision"]
+            },
+            {
+              "name": "Sa'id ibn Abi Hind",
+              "full_name": "Sa'id ibn Abi Hind al-Fazari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Musa al-Ash'ari",
+              "full_name": "Abdullah ibn Qays ibn Sulaym al-Ash'ari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Musa ibn Maysarah -> Sa'id ibn Abi Hind -> Abu Musa al-Ash'ari -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact on authenticity given Malik's high reliability"
+        },
+        {
+          "issue": "Musa ibn Maysarah is graded as Saduq rather than Thiqah, indicating he is truthful but occasionally makes errors",
+          "impact": "Minor concern as he is still considered acceptable by the majority, though not of the highest precision"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout the chain from narrators not known for problematic tadlis",
+          "impact": "Minor concern but acceptable given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Backgammon and Its Status",
+        "Games of Chance"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ مُوسَى بْنِ مَيْسَرَةَ ، عَنْ سَعِيدِ بْنِ أَبِي هِنْدٍ ، عَنْ أَبِي مُوسَى الْأَشْعَرِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مَنْ لَعِبَ بِالنَّرْدِ فَقَدْ عَصَى اللَّهَ وَرَسُولَهُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2234,
+      "grade": null
+    },
+    {
+      "hadith_id": 9939,
+      "english_translation": "Narrated by Aisha, wife of the Prophet ﷺ: It reached her that some people living in her house as tenants had backgammon with them, so she sent to them: 'If you do not remove it, I will expel you from my house.' And she disapproved of that for them. And narrated from Abdullah ibn Umar: He used to beat and break it when he found anyone from his household playing backgammon.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Alqamah ibn Abi Alqamah",
+              "full_name": "Alqamah ibn Abi Alqamah Mawla Aisha bint Abi Bakr al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His mother",
+              "full_name": "Mother of Alqamah - Mawlah of Aisha",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation, identity not fully established"]
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ بَلَغَهَا",
+              "reliabilityIssues": ["Balagha (بَلَغَهَا) form indicates indirect report to Aisha"]
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' Mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Alqamah ibn Abi Alqamah -> His mother -> Aisha [stops at Aisha - not from Prophet ﷺ]",
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Abdullah ibn Umar [stops at Ibn Umar - not from Prophet ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Both chains are mawquf - they stop at Companions (Aisha and Ibn Umar) and are not attributed to the Prophet ﷺ. These are the actions and statements of Companions, not prophetic narrations",
+          "impact": "Significant issue as these are not marfu' hadiths but rather represent the understanding and practice of Companions"
+        },
+        {
+          "issue": "In the first chain, the report reached Aisha indirectly (بَلَغَهَا - balaghaha), indicating she did not witness this directly",
+          "impact": "Adds another layer of potential weakness to the first chain"
+        },
+        {
+          "issue": "The mother of Alqamah is Maqbul with limited documentation",
+          "impact": "Minor concern in the first chain"
+        },
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis in both chains, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact given Malik's reliability"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms in both chains",
+          "impact": "Minor concern but acceptable given narrator reliability in the second chain"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Aisha Expelling Tenants with Backgammon",
+        "Ibn Umar's Practice Against Backgammon",
+        "Companions' Attitude Toward Games"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَلْقَمَةَ بْنِ أَبِي عَلْقَمَةَ ، عَنْ أُمِّهِ ، عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ بَلَغَهَا : أَنَّ أَهْلَ بَيْتٍ فِي دَارِهَا كَانُوا سُكَّانًا فِيهَا وَعِنْدَهُمْ نَرْدٌ ، فَأَرْسَلَتْ إِلَيْهِمْ : \" لَئِنْ لَمْ تُخْرِجُوهَا لَأُخْرِجَنَّكُمْ مِنْ دَارِي \" ، وَأَنْكَرَتْ ذَلِكَ عَلَيْهِمْ . وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّهُ كَانَ \" إِذَا وَجَدَ أَحَدًا مِنْ أَهْلِهِ يَلْعَبُ بِالنَّرْدِ ضَرَبَهُ وَكَسَرَهَا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2235,
+      "grade": null
+    },
+    {
+      "hadith_id": 9941,
+      "english_translation": "The Messenger of Allah ﷺ said: 'The rider greets the walker, and when one person from a group gives greeting, it suffices for them.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal hadith - Zayd ibn Aslam (from Third Generation) narrates directly from the Prophet ﷺ without mentioning a Companion, indicating a missing link"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Zayd ibn Aslam -> [Missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Zayd ibn Aslam is a Tabi'i narrating directly from the Prophet ﷺ without mentioning which Companion he heard from",
+          "impact": "Significant issue as there is a clear disconnection in the chain. Mursal hadiths are considered weak unless supported by other evidence"
+        },
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact given Malik's reliability, but combined with the mursal nature, this affects the grade"
+        },
+        {
+          "issue": "Zayd ibn Aslam uses 'anna (أَنَّ) which is an indirect transmission term",
+          "impact": "Compounds the mursal issue as it further indicates potential disconnection"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Etiquette of Greeting",
+        "Who Should Initiate Salam"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" يُسَلِّمُ الرَّاكِبُ عَلَى الْمَاشِي ، وَإِذَا سَلَّمَ مِنَ الْقَوْمِ وَاحِدٌ أَجْزَأَ عَنْهُمْ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2237,
+      "grade": null
+    },
+    {
+      "hadith_id": 9942,
+      "english_translation": "Narrated by Muhammad ibn Amr ibn Ata': I was sitting with Abdullah ibn Abbas when a man from the people of Yemen entered and said: 'As-salamu alaykum wa rahmatullahi wa barakatuhu,' then added something more beyond that. Ibn Abbas, whose sight had gone at that time, asked: 'Who is this?' They said: 'This is the Yemeni who frequents you' and they identified him to him. Ibn Abbas said: 'Indeed, the greeting ends at al-barakah (the blessing).'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Wahb ibn Kaysan",
+              "full_name": "Wahb ibn Kaysan Abu Nuh al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Amr ibn Ata'",
+              "full_name": "Muhammad ibn Amr ibn Ata' ibn Aslam al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Wahb ibn Kaysan -> Muhammad ibn Amr ibn Ata' -> Abdullah ibn Abbas [stops at Ibn Abbas - not from Prophet ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf hadith - stops at Abdullah ibn Abbas (a Companion) and is not attributed to the Prophet ﷺ. This is Ibn Abbas's statement about the proper extent of the greeting",
+          "impact": "Significant issue as this is not a marfu' hadith but rather represents the understanding of a Companion"
+        },
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact given Malik's reliability"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout the chain",
+          "impact": "Minor concern but acceptable given narrator reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Ibn Abbas Correcting the Greeting Formula",
+        "Proper Extent of Salam Greeting"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ وَهْبِ بْنِ كَيْسَانَ ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ ، أَنَّهُ قَالَ : كُنْتُ جَالِسًا عِنْدَ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ فَدَخَلَ عَلَيْهِ رَجُلٌ مِنْ أَهْلِ الْيَمَنِ ، فَقَالَ : السَّلَامُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ ، ثُمَّ زَادَ شَيْئًا مَعَ ذَلِكَ أَيْضًا ، قَالَ ابْنُ عَبَّاسٍ وَهُوَ يَوْمَئِذٍ قَدْ ذَهَبَ بَصَرُهُ : \" مَنْ هَذَا ؟ \" قَالُوا : هَذَا الْيَمَانِي الَّذِي يَغْشَاكَ فَعَرَّفُوهُ إِيَّاهُ ، قَالَ : فَقَالَ ابْنُ عَبَّاسٍ : إِنَّ \" السَّلَامَ انْتَهَى إِلَى الْبَرَكَةِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2238,
+      "grade": null
+    },
+    {
+      "hadith_id": 9944,
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'Indeed, when one of the Jews greets you, he is only saying: As-sam alaykum (death be upon you), so say: Alayka (upon you).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis but extremely reliable - Category 1 mudallis"]
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Qurashi al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'an (عَنْ) which could indicate tadlis, though he is classified as Category 1 mudallis and is extremely reliable",
+          "impact": "Minimal impact on authenticity given Malik's high reliability"
+        },
+        {
+          "issue": "Abdullah ibn Dinar uses 'an (عَنْ) from Ibn Umar",
+          "impact": "Minor concern but acceptable as Abdullah ibn Dinar is highly reliable and well-known for narrating from Ibn Umar"
+        },
+        {
+          "issue": "Ibn Umar uses 'annahu qala (أَنَّهُ قَالَ)' which is an indirect term",
+          "impact": "Minor concern as this is a common formulation in hadith transmission and Ibn Umar is a Companion"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Response to Jewish Greetings",
+        "Etiquette with People of the Book"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّ \" الْيَهُودَ إِذَا سَلَّمَ عَلَيْكُمْ أَحَدُهُمْ ، فَإِنَّمَا يَقُولُ : السَّامُ عَلَيْكُمْ ، فَقُلْ : عَلَيْكَ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2240,
+      "grade": null
+    }
+  ]
+}

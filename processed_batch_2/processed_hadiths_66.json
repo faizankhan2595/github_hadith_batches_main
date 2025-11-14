@@ -1,0 +1,678 @@
+{
+  "batch_number": 2,
+  "file_number": 66,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9976,
+      "book_id": 19,
+      "hadith_number": 2272,
+      "collection": "Muwatta Malik",
+      "reference_number": 2272,
+      "grade": "Sahih",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، عَنْ مَيْمُونَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنِ الْفَأْرَةِ تَقَعُ فِي السَّمْنِ ، فَقَالَ : \" انْزِعُوهَا وَمَا حَوْلَهَا فَاطْرَحُوهُ \"",
+      "english_translation": "Narrated by Maymunah, the wife of the Prophet ﷺ: The Messenger of Allah ﷺ was asked about a mouse that falls into ghee. He said: 'Remove it and what is around it, and throw that away.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known to practice tadlis (category 3), but highly reliable"]
+            },
+            {
+              "name": "Ubaydullah ibn Abdullah ibn Utbah",
+              "full_name": "Ubaydullah ibn Abdullah ibn Utbah ibn Mas'ud al-Hudhali",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Maymunah",
+              "full_name": "Maymunah bint al-Harith al-Hilaliyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Ubaydullah ibn Abdullah ibn Utbah -> Abdullah ibn Abbas -> Maymunah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an ('عَنْ') and is classified as mudallis (category 3 by Ibn Hajar), though he is highly reliable and his narrations are generally accepted",
+          "impact": "Minimal - al-Zuhri is among the most reliable narrators despite occasional tadlis. This chain is well-established and accepted by hadith scholars"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of mouse falling into ghee",
+        "Purification of food contaminated by dead animal"
+      ]
+    },
+    {
+      "hadith_id": 9977,
+      "book_id": 19,
+      "hadith_number": 2273,
+      "collection": "Muwatta Malik",
+      "reference_number": 2273,
+      "grade": "Chapter Heading",
+      "arabicText": "بَابُ مَا يُتَّقَى مِنَ الشُّؤْمِ",
+      "english_translation": "Chapter: What Should Be Avoided Regarding Bad Omens",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": []
+    },
+    {
+      "hadith_id": 9978,
+      "book_id": 19,
+      "hadith_number": 2274,
+      "collection": "Muwatta Malik",
+      "reference_number": 2274,
+      "grade": "Sahih",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ أَبِي حَازِمِ بْنِ دِينَارٍ ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِنْ كَانَ فَفِي الْفَرَسِ وَالْمَرْأَةِ وَالْمَسْكَنِ يَعْنِي الشُّؤْمَ \"",
+      "english_translation": "Narrated by Sahl ibn Sa'd al-Sa'idi: The Messenger of Allah ﷺ said: 'If there is (such a thing as bad omen), it is in the horse, the woman, and the dwelling - meaning the bad omen.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hazim ibn Dinar",
+              "full_name": "Salama ibn Dinar al-A'raj al-Madani Abu Hazim",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sahl ibn Sa'd al-Sa'idi",
+              "full_name": "Sahl ibn Sa'd ibn Malik al-Ansari al-Khazraji al-Sa'idi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu Hazim ibn Dinar -> Sahl ibn Sa'd al-Sa'idi -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Discussion of bad omens in specific things",
+        "Prophet's ﷺ clarification on superstitions"
+      ]
+    },
+    {
+      "hadith_id": 9979,
+      "book_id": 19,
+      "hadith_number": 2275,
+      "collection": "Muwatta Malik",
+      "reference_number": 2275,
+      "grade": "Sahih",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ حَمْزَةَ ، وَسَالِمٍ ابْنَيْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" الشُّؤْمُ فِي الدَّارِ وَالْمَرْأَةِ وَالْفَرَسِ \"",
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'Bad omen is in the house, the woman, and the horse.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known to practice tadlis (category 3), but highly reliable"]
+            },
+            {
+              "name": "Hamzah ibn Abdullah ibn Umar",
+              "full_name": "Hamzah ibn Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Salim ibn Abdullah ibn Umar",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Hamzah ibn Abdullah ibn Umar & Salim ibn Abdullah ibn Umar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an ('عَنْ') and is classified as mudallis (category 3), though highly reliable",
+          "impact": "Minimal - al-Zuhri is among the most reliable narrators and this chain is well-established"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Discussion of bad omens in specific things",
+        "Prophet's ﷺ statement on superstitions"
+      ]
+    },
+    {
+      "hadith_id": 9980,
+      "book_id": 19,
+      "hadith_number": 2276,
+      "collection": "Muwatta Malik",
+      "reference_number": 2276,
+      "grade": "Sahih",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ قَالَ : جَاءَتِ امْرَأَةٌ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَتْ : يَا رَسُولَ اللَّهِ دَارٌ سَكَنَّاهَا وَالْعَدَدُ كَثِيرٌ ، وَالْمَالُ وَافِرٌ فَقَلَّ الْعَدَدُ وَذَهَبَ الْمَالُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" دَعُوهَا ذَمِيمَةً \"",
+      "english_translation": "Narrated by Yahya ibn Sa'id: A woman came to the Messenger of Allah ﷺ and said: 'O Messenger of Allah, we lived in a house when our number was many and wealth was abundant, then the number decreased and the wealth disappeared.' The Messenger of Allah ﷺ said: 'Leave it as blameworthy.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": ["This is mursal - Yahya ibn Sa'id is a Tabi'i reporting directly from the Prophet ﷺ without mentioning the Companion"]
+            }
+          ],
+          "chainIssues": ["Mursal chain - missing the Companion narrator between Yahya ibn Sa'id and the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id al-Ansari -> Prophet Muhammad ﷺ (Mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Yahya ibn Sa'id (a Tabi'i) narrates directly from the Prophet ﷺ without mentioning the Companion who transmitted it",
+          "impact": "Significant - Mursal hadiths have a missing link in the chain (the Companion is not mentioned). However, the mursal narrations of reliable Tabi'in like Yahya ibn Sa'id al-Ansari are considered strong, especially when narrated by Malik in the Muwatta"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of woman complaining about unlucky house",
+        "Guidance on dealing with perceived bad fortune in dwelling"
+      ]
+    },
+    {
+      "hadith_id": 9981,
+      "book_id": 19,
+      "hadith_number": 2277,
+      "collection": "Muwatta Malik",
+      "reference_number": 2277,
+      "grade": "Chapter Heading",
+      "arabicText": "بَابُ مَا يُكْرَهُ مِنَ الْأَسْمَاءِ",
+      "english_translation": "Chapter: Disliked Names",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": []
+    },
+    {
+      "hadith_id": 9982,
+      "book_id": 19,
+      "hadith_number": 2278,
+      "collection": "Muwatta Malik",
+      "reference_number": 2278,
+      "grade": "Sahih",
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِلَقْحَةٍ تُحْلَبُ : \" مَنْ يَحْلُبُ هَذِهِ ؟ \" فَقَامَ رَجُلٌ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَا اسْمُكَ ؟ \" فَقَالَ لَهُ الرَّجُلُ : مُرَّةُ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" اجْلِسْ \" . ثُمَّ قَالَ : \" مَنْ يَحْلُبُ هَذِهِ ؟ \" فَقَامَ رَجُلٌ ، فَقَالَ لَهُ : \" مَا اسْمُكَ ؟ \" فَقَالَ : حَرْبٌ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" اجْلِسْ \" . ثُمَّ قَالَ : \" مَنْ يَحْلُبُهَا ؟ \" فَقَامَ رَجُلٌ فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَا اسْمُكَ ؟ \" فَقَالَ : يَعِيشُ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" احْلُبْ \"",
+      "english_translation": "Narrated by Yahya ibn Sa'id: The Messenger of Allah ﷺ said about a milk-camel to be milked: 'Who will milk this one?' A man stood up, and the Messenger of Allah ﷺ said to him: 'What is your name?' The man said: 'Murrah (Bitterness).' The Messenger of Allah ﷺ said to him: 'Sit down.' Then he said: 'Who will milk this one?' A man stood up, and he said to him: 'What is your name?' He said: 'Harb (War).' The Messenger of Allah ﷺ said to him: 'Sit down.' Then he said: 'Who will milk it?' A man stood up, and the Messenger of Allah ﷺ said to him: 'What is your name?' He said: 'Ya'ish (He lives).' The Messenger of Allah ﷺ said to him: 'Milk it.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["This is mursal - Yahya ibn Sa'id is a Tabi'i reporting directly from the Prophet ﷺ without mentioning the Companion"]
+            }
+          ],
+          "chainIssues": ["Mursal chain - missing the Companion narrator between Yahya ibn Sa'id and the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id al-Ansari -> Prophet Muhammad ﷺ (Mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Yahya ibn Sa'id (a Tabi'i) narrates directly from the Prophet ﷺ without mentioning the Companion who transmitted it",
+          "impact": "Significant - Mursal hadiths have a missing link in the chain. However, mursal narrations of reliable Tabi'in like Yahya ibn Sa'id al-Ansari are considered strong, especially in Malik's Muwatta"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Prophet ﷺ asking names before task",
+        "Prophet's ﷺ practice regarding good and bad omens in names",
+        "Etiquette of choosing appropriate names"
+      ]
+    },
+    {
+      "hadith_id": 9983,
+      "book_id": 19,
+      "hadith_number": 2279,
+      "collection": "Muwatta Malik",
+      "reference_number": 2279,
+      "grade": "Sahih Mawquf",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، قَالَ لِرَجُلٍ : \" مَا اسْمُكَ ؟ \" فَقَالَ : جَمْرَةُ ، فَقَالَ : \" ابْنُ مَنْ ؟ \" فَقَالَ : ابْنُ شِهَابٍ ، قَالَ : \" مِمَّنْ ؟ \" قَالَ : مِنْ الْحُرَقَةِ ، قَالَ : \" أَيْنَ مَسْكَنُكَ ؟ \" قَالَ : بِحَرَّةِ النَّارِ ، قَالَ : \" بِأَيِّهَا ؟ \" قَالَ : بِذَاتِ لَظًى ، فَقَالَ عُمَرُ : \" أَدْرِكْ أَهْلَكَ فَقَدِ احْتَرَقُوا \" . فَكَانَ كَمَا قَالَ عُمَرُ",
+      "english_translation": "Narrated by Yahya ibn Sa'id: Umar ibn al-Khattab said to a man: 'What is your name?' He said: 'Jamrah (Ember).' He said: 'Son of whom?' He said: 'Son of Shihab (Flame).' He said: 'From which tribe?' He said: 'From al-Huraqah (The Burning Ones).' He said: 'Where is your dwelling?' He said: 'At Harrat al-Nar (The Volcanic Field of Fire).' He said: 'At which part of it?' He said: 'At Dhat Laza (The Place of Blaze).' Umar said: 'Go quickly to your family, for they have burned.' And it was as Umar said.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Potential disconnection - Yahya ibn Sa'id al-Ansari (died 143-144 AH) did not meet Umar ibn al-Khattab (died 23 AH), so there is at least one missing narrator in the chain"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id al-Ansari -> Umar ibn al-Khattab (Disconnected)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain is disconnected (munqati') - Yahya ibn Sa'id al-Ansari was not born during the lifetime of Umar ibn al-Khattab, so there is at least one missing narrator between them",
+          "impact": "Significant - This makes the chain weak due to the clear disconnection. At least one generation of narrators is missing between Yahya and Umar"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Umar's insight about fire-related names",
+        "Story demonstrating Umar's wisdom and foresight",
+        "Bad omens in names and their perceived effects"
+      ]
+    },
+    {
+      "hadith_id": 9984,
+      "book_id": 19,
+      "hadith_number": 2280,
+      "collection": "Muwatta Malik",
+      "reference_number": 2280,
+      "grade": "Chapter Heading",
+      "arabicText": "بَابُ مَا جَاءَ فِي الْحِجَامَةِ وَأُجْرَةِ الْحَجَّامِ",
+      "english_translation": "Chapter: What Has Come Regarding Cupping and the Cupper's Wage",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": []
+    },
+    {
+      "hadith_id": 9985,
+      "book_id": 19,
+      "hadith_number": 2281,
+      "collection": "Muwatta Malik",
+      "reference_number": 2281,
+      "grade": "Sahih",
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ حُمَيْدٍ الطَّوِيلِ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، أَنَّهُ قَالَ : \" احْتَجَمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَجَمَهُ أَبُو طَيْبَةَ ، فَأَمَرَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِصَاعٍ مِنْ تَمْرٍ ، وَأَمَرَ أَهْلَهُ أَنْ يُخَفِّفُوا عَنْهُ مِنْ خَرَاجِهِ \"",
+      "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ had himself cupped, and Abu Taybah cupped him. The Messenger of Allah ﷺ ordered that he be given a sa' of dates, and he ordered his family to reduce his tax (or tribute) burden.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd al-Tawil",
+              "full_name": "Humayd ibn Abi Humayd Thawr al-Tawil al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Humayd al-Tawil -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Prophet ﷺ being cupped by Abu Taybah",
+        "Compensation for cupping service",
+        "Prophet's ﷺ kindness to service providers"
+      ]
+    },
+    {
+      "hadith_id": 9986,
+      "book_id": 19,
+      "hadith_number": 2282,
+      "collection": "Muwatta Malik",
+      "reference_number": 2282,
+      "grade": "Weak - Mursal",
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِنْ كَانَ دَوَاءٌ يَبْلُغُ الدَّاءَ ، فَإِنَّ الْحِجَامَةَ تَبْلُغُهُ \"",
+      "english_translation": "Narrated by Malik: It reached him (i.e., he heard) that the Messenger of Allah ﷺ said: 'If there is a medicine that reaches the ailment, then cupping reaches it.'",
+      "chains": [
+        {
+          "type": "mursal/balagh",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["This is a balagh (بَلَغَهُ) - Malik reports it without mentioning any chain of narrators"]
+            }
+          ],
+          "chainIssues": ["Complete disconnection - this is a balagh report where Malik doesn't mention any chain at all, making the entire chain unknown"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> (Unknown chain) -> Prophet Muhammad ﷺ (Balagh/Mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a balagh (بَلَغَهُ) report - Malik states 'it reached me' without providing any chain of narrators, making the entire transmission path unknown",
+          "impact": "Severe - Balagh reports are among the weakest forms of transmission as the entire chain is missing. We don't know who narrated this to Malik or through whom it reached him"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Cupping as effective medical treatment",
+        "Prophetic medicine"
+      ]
+    },
+    {
+      "hadith_id": 9987,
+      "book_id": 19,
+      "hadith_number": 2283,
+      "collection": "Muwatta Malik",
+      "reference_number": 2283,
+      "grade": "Sahih",
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ ابْنِ مُحَيِّصَةَ الْأَنْصَارِيِّ أَحَدِ بَنِي حَارِثَةَ ، أَنَّهُ اسْتَأْذَنَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي إِجَارَةِ الْحَجَّامِ فَنَهَاهُ عَنْهَا ، فَلَمْ يَزَلْ يَسْأَلُهُ وَيَسْتَأْذِنُهُ ، حَتَّى قَالَ : \" اعْلِفْهُ نُضَّاحَكَ \" يَعْنِي رَقِيقَكَ",
+      "english_translation": "Narrated by Ibn Muhayyisah al-Ansari, one of Banu Harithah: He sought permission from the Messenger of Allah ﷺ regarding the cupper's wage, and he forbade him from it. He continued to ask him and seek his permission until he said: 'Feed it to your irrigation camel' - meaning your slaves.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known to practice tadlis (category 3), but highly reliable"]
+            },
+            {
+              "name": "Ibn Muhayyisah al-Ansari",
+              "full_name": "Sahl ibn Muhayyisah ibn Mas'ud al-Ansari al-Harithi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Ibn Muhayyisah al-Ansari -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an ('عَنْ') and is classified as mudallis (category 3), though highly reliable",
+          "impact": "Minimal - al-Zuhri is among the most reliable narrators despite occasional tadlis"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of seeking permission for cupper's wage",
+        "Initial prohibition then allowance for specific use",
+        "Guidance on earnings from cupping profession"
+      ]
+    },
+    {
+      "hadith_id": 9988,
+      "book_id": 19,
+      "hadith_number": 2284,
+      "collection": "Muwatta Malik",
+      "reference_number": 2284,
+      "grade": "Chapter Heading",
+      "arabicText": "بَابُ مَا جَاءَ فِي الْمَشْرِقِ",
+      "english_translation": "Chapter: What Has Come Regarding the East",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": []
+    },
+    {
+      "hadith_id": 9989,
+      "book_id": 19,
+      "hadith_number": 2285,
+      "collection": "Muwatta Malik",
+      "reference_number": 2285,
+      "grade": "Sahih",
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ قَالَ : رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُشِيرُ إِلَى الْمَشْرِقِ ، وَيَقُولُ : \" إِنَّ الْفِتْنَةَ هَاهُنَا إِنَّ الْفِتْنَةَ هَاهُنَا مِنْ حَيْثُ يَطْلُعُ قَرْنُ الشَّيْطَانِ \"",
+      "english_translation": "Narrated by Abdullah ibn Umar: I saw the Messenger of Allah ﷺ pointing to the East and saying: 'Indeed, the fitnah (tribulation) is here, indeed the fitnah is here, from where the horn of Satan rises.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Madani mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Prophet ﷺ pointing to the East",
+        "Prophecy about tribulation from the East",
+        "Warning about future trials"
+      ]
+    },
+    {
+      "hadith_id": 9990,
+      "book_id": 19,
+      "hadith_number": 2286,
+      "collection": "Muwatta Malik",
+      "reference_number": 2286,
+      "grade": "Weak - Mursal",
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ أَرَادَ الْخُرُوجَ إِلَى الْعِرَاقِ ، فَقَالَ لَهُ كَعْبُ الْأَحْبَارِ : \" لَا تَخْرُجْ إِلَيْهَا يَا أَمِيرَ الْمُؤْمِنِينَ ، فَإِنَّ بِهَا تِسْعَةَ أَعْشَارِ السِّحْرِ ، وَبِهَا فَسَقَةُ الْجِنِّ ، وَبِهَا الدَّاءُ الْعُضَالُ \"",
+      "english_translation": "Narrated by Malik: It reached him that Umar ibn al-Khattab intended to go out to Iraq, and Ka'b al-Ahbar said to him: 'Do not go there, O Commander of the Faithful, for in it are nine-tenths of magic, in it are the wicked jinn, and in it is the incurable disease.'",
+      "chains": [
+        {
+          "type": "mawquf/balagh",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["This is a balagh (بَلَغَهُ) - Malik reports it without mentioning any chain of narrators"]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ka'b al-Ahbar",
+              "full_name": "Ka'b ibn Mati' al-Himyari al-Yamani",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["Known for Isra'iliyyat (narrations from Jewish sources)"]
+            }
+          ],
+          "chainIssues": ["Complete disconnection - this is a balagh report where Malik doesn't mention any chain between himself and the incident"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> (Unknown chain) -> Ka'b al-Ahbar & Umar ibn al-Khattab (Balagh)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a balagh (بَلَغَهُ) report - Malik states 'it reached me' without providing any chain of narrators",
+          "impact": "Severe - Balagh reports are among the weakest forms of transmission as the entire chain is missing. We don't know who narrated this to Malik"
+        },
+        {
+          "issue": "The statement is attributed to Ka'b al-Ahbar, who was known for transmitting Isra'iliyyat (Jewish traditions)",
+          "impact": "This is not a prophetic hadith but rather a statement from Ka'b al-Ahbar, which may be based on previous scriptures rather than Islamic sources"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Story of Umar's intended journey to Iraq",
+        "Ka'b al-Ahbar's warning about Iraq",
+        "Description of negative characteristics of Iraq"
+      ]
+    }
+  ]
+}

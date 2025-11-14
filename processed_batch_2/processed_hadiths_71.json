@@ -1,0 +1,704 @@
+{
+  "batch_number": 2,
+  "file_number": 71,
+  "processed_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 10051,
+      "english_translation": "Narrated by Aisha, Mother of the Believers: That the wives of the Prophet ﷺ, when the Messenger of Allah ﷺ passed away, wanted to send Uthman ibn Affan to Abu Bakr al-Siddiq to ask him about their inheritance from the Messenger of Allah ﷺ. So Aisha said to them: 'Has not the Messenger of Allah ﷺ said: We are not inherited from, what we leave behind is charity.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 2/3 according to some scholars"]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ",
+        "Malik ibn Anas -> Abu al-Zinad -> Al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an (عَنْ) transmission term and is classified as mudallis (category 2-3) by some scholars",
+          "impact": "Al-Zuhri is widely considered extremely reliable and his tadlis is minimal. This does not significantly affect the hadith grade as he is highly trusted by all hadith scholars. His narrations are accepted even with 'an."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Prophet's wives asking about inheritance after his death",
+        "Prophet's ﷺ property being charity not inheritance"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ ، أَنَّ أَزْوَاجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِينَ تُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَرَدْنَ أَنْ يَبْعَثْنَ عُثْمَانَ بْنَ عَفَّانَ إِلَى أَبِي بَكْرٍ الصِّدِّيقِ ، فَيَسْأَلْنَهُ مِيرَاثَهُنَّ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَتْ لَهُنَّ عَائِشَةُ : أَلَيْسَ قَدْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَا نُورَثُ ، مَا تَرَكْنَا فَهُوَ صَدَقَةٌ \" * وَحَدَّثَنِي مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا يَقْتَسِمُ وَرَثَتِي دَنَانِيرَ ، مَا تَرَكْتُ بَعْدَ نَفَقَةِ نِسَائِي وَمَئُونَةِ عَامِلِي فَهُوَ صَدَقَةٌ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2347,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10053,
+      "english_translation": "Narrated by Abu Hurayrah: That the Messenger of Allah ﷺ said: 'The fire of the children of Adam which they kindle is one part of seventy parts of the fire of Hellfire.' They said: 'O Messenger of Allah, it (the worldly fire) is certainly sufficient.' He said: 'Indeed, it (Hellfire) has been increased over it by sixty-nine parts.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu al-Zinad -> Al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Description of Hellfire intensity",
+        "Comparison between worldly fire and Hellfire"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" نَارُ بَنِي آدَمَ الَّتِي يُوقِدُونَ جُزْءٌ مِنْ سَبْعِينَ جُزْءًا مِنْ نَارِ جَهَنَّمَ \" ، فَقَالُوا : يَا رَسُولَ اللَّهِ إِنْ كَانَتْ لَكَافِيَةً ، قَالَ : \" إِنَّهَا فُضِّلَتْ عَلَيْهَا بِتِسْعَةٍ وَسِتِّينَ جُزْءًا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2349,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10054,
+      "english_translation": "Narrated by Abu Hurayrah: That he said: 'Do you see it (Hellfire) as red like this fire of yours? Indeed, it is blacker than tar, and tar is pitch.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Suhayl ibn Malik",
+              "full_name": "Nafi' ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Malik ibn Abi Amir)",
+              "full_name": "Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu Suhayl ibn Malik (his uncle) -> Malik ibn Abi Amir -> Abu Hurayrah"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Description of Hellfire color being black not red"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ عَمِّهِ أَبِي سُهَيْلِ بْنِ مَالِكٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّهُ قَالَ : \" أَتَرَوْنَهَا حَمْرَاءَ كَنَارِكُمْ هَذِهِ ، لَهِيَ أَسْوَدُ مِنَ الْقَارِ وَالْقَارُ الزِّفْتُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2350,
+      "grade": "Sahih mawquf"
+    },
+    {
+      "hadith_id": 10056,
+      "english_translation": "That the Messenger of Allah ﷺ said: 'Whoever gives charity from good earnings - and Allah does not accept except that which is good - it is as if he places it in the palm of the Most Merciful, Who nurtures it just as one of you nurtures his colt or young camel until it becomes like a mountain.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Hubab Sa'id ibn Yasar",
+              "full_name": "Sa'id ibn Yasar Abu al-Hubab al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is mursal - Sa'id ibn Yasar is a Tabi'i narrating directly from the Prophet ﷺ without mentioning a Companion"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id -> Sa'id ibn Yasar -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Sa'id ibn Yasar (a Tabi'i) narrates directly from the Prophet ﷺ without mentioning the Companion who transmitted it",
+          "impact": "Mursal hadiths have a disconnection in the chain. However, the mursal reports of reliable Tabi'in like Sa'id ibn Yasar through strong chains like Malik's golden chain are considered strong, especially when supported by other narrations. This particular hadith has supporting evidence in Sahih collections."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Charity from lawful earnings",
+        "Allah nurturing charity until it grows",
+        "Reward multiplication for charity"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ أَبِي الْحُبَاب سَعِيدِ بْنِ يَسَارٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مَنْ تَصَدَّقَ بِصَدَقَةٍ مِنْ كَسْبٍ طَيِّبٍ ، وَلَا يَقْبَلُ اللَّهُ إِلَّا طَيِّبًا ، كَانَ إِنَّمَا يَضَعُهَا فِي كَفِّ الرَّحْمَنِ يُرَبِّيهَا كَمَا يُرَبِّي أَحَدُكُمْ فَلُوَّهُ أَوْ فَصِيلَهُ حَتَّى تَكُونَ مِثْلَ الْجَبَلِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2352,
+      "grade": "Hasan (mursal but supported)"
+    },
+    {
+      "hadith_id": 10057,
+      "english_translation": "Narrated by Anas ibn Malik: Abu Talhah was the wealthiest of the Ansar in Madinah in terms of palm trees, and the most beloved of his properties to him was Bayruha, which was situated facing the mosque. The Messenger of Allah ﷺ used to enter it and drink from its good water. Anas said: When this verse was revealed: 'You will never attain righteousness until you spend from that which you love' (Quran 3:92), Abu Talhah went to the Messenger of Allah ﷺ and said: 'O Messenger of Allah, indeed Allah the Blessed and Exalted says: You will never attain righteousness until you spend from that which you love, and indeed the most beloved of my properties to me is Bayruha, and it is charity for Allah. I hope for its reward and treasure with Allah, so place it, O Messenger of Allah, wherever you wish.' The Messenger of Allah ﷺ said: 'Excellent! That is profitable wealth, that is profitable wealth. I have heard what you said about it, and I think you should give it to your close relatives.' So Abu Talhah said: 'I will do so, O Messenger of Allah.' Then Abu Talhah divided it among his relatives and paternal cousins.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talhah",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talhah al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ishaq ibn Abdullah ibn Abi Talhah -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Abu Talhah giving his most beloved property as charity",
+        "Revelation context of Quran 3:92",
+        "Prophet's ﷺ guidance to give charity to close relatives",
+        "Spending from what one loves"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ ، يَقُولُ : كَانَ أَبُو طَلْحَةَ أَكْثَرَ أَنْصَارِيٍّ بِالْمَدِينَةِ مَالًا مِنْ نَخْلٍ ، وَكَانَ أَحَبَّ أَمْوَالِهِ إِلَيْهِ بَيْرُحَاءَ وَكَانَتْ مُسْتَقْبِلَةَ الْمَسْجِدِ ، وَكَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَدْخُلُهَا ، وَيَشْرَبُ مِنْ مَاءٍ فِيهَا طَيِّبٍ ، قَالَ أَنَسٌ : فَلَمَّا أُنْزِلَتْ هَذِهِ الْآيَةُ : لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ سورة آل عمران آية 92 ، قَامَ أَبُو طَلْحَةَ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى يَقُولُ : لَنْ تَنَالُوا الْبِرَّ حَتَّى تُنْفِقُوا مِمَّا تُحِبُّونَ سورة آل عمران آية 92 ، وَإِنَّ أَحَبَّ أَمْوَالِي إِلَيَّ بَيْرُحَاءَ وَإِنَّهَا صَدَقَةٌ لِلَّهِ أَرْجُو بِرَّهَا وَذُخْرَهَا عِنْدَ اللَّهِ ، فَضَعْهَا يَا رَسُولَ اللَّهِ حَيْثُ شِئْتَ ، قَالَ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" بَخٍ ، ذَلِكَ مَالٌ رَابِحٌ ذَلِكَ مَالٌ رَابِحٌ ، وَقَدْ سَمِعْتُ مَا قُلْتَ فِيهِ ، وَإِنِّي أَرَى أَنْ تَجْعَلَهَا فِي الْأَقْرَبِينَ \" ، فَقَالَ أَبُو طَلْحَةَ : أَفْعَلُ يَا رَسُولَ اللَّهِ ، فَقَسَمَهَا أَبُو طَلْحَةَ فِي أَقَارِبِهِ وَبَنِي عَمِّهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2353,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10058,
+      "english_translation": "That the Messenger of Allah ﷺ said: 'Give to the beggar even if he comes on a horse.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is mursal - Zayd ibn Aslam is a Tabi'i narrating directly from the Prophet ﷺ without mentioning a Companion"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Zayd ibn Aslam -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Zayd ibn Aslam (a Tabi'i) narrates directly from the Prophet ﷺ without mentioning the Companion",
+          "impact": "Mursal hadiths have a disconnection in the chain. The mursal reports of Malik through Zayd ibn Aslam are considered among the stronger mursal narrations due to the reliability of both narrators, but the missing link remains a weakness."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Giving to those who ask",
+        "Not judging beggars by appearance"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" أَعْطُوا السَّائِلَ وَإِنْ جَاءَ عَلَى فَرَسٍ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2354,
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 10059,
+      "english_translation": "Narrated by his grandmother: She said: The Messenger of Allah ﷺ said: 'O believing women! Let not one of you belittle giving a gift to her neighbor, even if it be a burnt sheep's trotter.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Mu'adh al-Ashhali al-Ansari",
+              "full_name": "Amr ibn Mu'adh ibn al-Nu'man al-Ansari al-Ashhali",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Little known narrator, only narrating through limited chains"]
+            },
+            {
+              "name": "His grandmother",
+              "full_name": "Grandmother of Amr ibn Mu'adh (possibly a Companion)",
+              "grade": "Majhul al-Hal",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Unknown female Companion - identity uncertain"]
+            }
+          ],
+          "chainIssues": ["Grandmother of Amr ibn Mu'adh is not clearly identified by name"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Zayd ibn Aslam -> Amr ibn Mu'adh al-Ashhali -> His grandmother -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Amr ibn Mu'adh al-Ashhali is a Maqbul narrator with limited narrations",
+          "impact": "Maqbul narrators are those whose narrations are acceptable when supported. This narrator is not well-known but narrates through reliable chains."
+        },
+        {
+          "issue": "The grandmother of Amr ibn Mu'adh is not identified by name, creating uncertainty about her exact identity",
+          "impact": "While she appears to be a Companion, the lack of clear identification creates some ambiguity. However, since Companions are considered trustworthy, if she is indeed a Companion, this would not be a major issue."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Not belittling small gifts to neighbors",
+        "Encouraging charity even if minimal"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ عَمْرِو بْنِ مُعَاذٍ الْأَشْهَلِيِّ الْأَنْصَارِيِّ ، عَنْ جَدَّتِهِ ، أَنَّهَا قَالَتْ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" يَا نِسَاءَ الْمُؤْمِنَاتِ لَا تَحْقِرَنَّ إِحْدَاكُنَّ أَنْ تُهْدِيَ لِجَارَتِهَا ، وَلَوْ كُرَاعَ شَاةٍ مُحْرَقًا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2355,
+      "grade": "Hasan"
+    },
+    {
+      "hadith_id": 10060,
+      "english_translation": "It reached Malik from Aisha, wife of the Prophet ﷺ: That a poor person asked her while she was fasting and there was nothing in her house except a loaf of bread. She said to her freed slave woman: 'Give it to him.' She said: 'You have nothing to break your fast with.' She said: 'Give it to him.' She said: So I did. She said: When evening came, the people of a household or a person who had not used to give us gifts sent us a sheep with its shroud. Aisha, Mother of the Believers, called me and said: 'Eat from this, this is better than your loaf.' AND: It reached me that a poor person asked Aisha, Mother of the Believers, for food while before her were grapes. She said to someone: 'Take one grape and give it to him.' He started looking at her and being amazed. Aisha said: 'Are you amazed? How many atoms' weight do you see in this grape?'",
+      "chains": [
+        {
+          "type": "balaghat",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Balaghat form - missing link(s) in the chain"]
+            }
+          ],
+          "chainIssues": ["This is balaghat (it reached) - the chain between Malik and Aisha is not mentioned, creating a gap"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> [missing narrator(s)] -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a balaghat report (بَلَغَهُ) - Malik says 'it reached me' without specifying his source",
+          "impact": "Balaghat narrations have missing links in the chain. The reliability depends on whether the missing narrator(s) are trustworthy. Given that this is about Aisha's actions (not a marfu' hadith from the Prophet ﷺ), and it's reported by Malik who is extremely reliable, the report carries some weight but cannot be graded as high as a connected chain."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Aisha giving her only food while fasting",
+        "Reward for charity being returned manifold",
+        "Incident of Aisha giving one grape to beggar",
+        "Not belittling small charity"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّ مِسْكِينًا سَأَلَهَا وَهِيَ صَائِمَةٌ وَلَيْسَ فِي بَيْتِهَا إِلَّا رَغِيفٌ ، فَقَالَتْ لِمَوْلَاةٍ لَهَا : \" أَعْطِيهِ إِيَّاهُ \" ، فَقَالَتْ : لَيْسَ لَكِ مَا تُفْطِرِينَ عَلَيْهِ ، فَقَالَتْ : \" أَعْطِيهِ إِيَّاهُ \" ، قَالَتْ : فَفَعَلْتُ ، قَالَتْ : فَلَمَّا أَمْسَيْنَا أَهْدَى لَنَا أَهْلُ بَيْتٍ أَوْ إِنْسَانٌ ، مَا كَانَ يُهْدِي لَنَا شَاةً وَكَفَنَهَا ، فَدَعَتْنِي عَائِشَةُ أُمُّ الْمُؤْمِنِينَ ، فَقَالَتْ : \" كُلِي مِنْ هَذَا ، هَذَا خَيْرٌ مِنْ قُرْصِكِ \" . وَحَدَّثَنِي ، عَنْ مَالِك ، قَالَ : بَلَغَنِي : أَنَّ مِسْكِينًا اسْتَطْعَمَ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ وَبَيْنَ يَدَيْهَا عِنَبٌ ، فَقَالَتْ لِإِنْسَانٍ : خُذْ حَبَّةً فَأَعْطِهِ إِيَّاهَا ، فَجَعَلَ يَنْظُرُ إِلَيْهَا وَيَعْجَبُ ، فَقَالَتْ عَائِشَةُ : أَتَعْجَبُ كَمْ تَرَى فِي هَذِهِ الْحَبَّةِ مِنْ مِثْقَالِ ذَرَّةٍ ؟ !",
+      "collection": "Muwatta Malik",
+      "reference_number": 2356,
+      "grade": "Mursal/Balaghat"
+    },
+    {
+      "hadith_id": 10062,
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: That people from the Ansar asked the Messenger of Allah ﷺ and he gave to them. Then they asked him again and he gave to them until what he had was exhausted. Then he said: 'Whatever good I have, I will never withhold it from you. Whoever seeks to be chaste, Allah will make him chaste. Whoever seeks to be self-sufficient, Allah will make him self-sufficient. Whoever seeks to be patient, Allah will make him patient. And no one has been given a gift better and more abundant than patience.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 2/3 according to some scholars"]
+            },
+            {
+              "name": "Ata' ibn Yazid al-Laythi",
+              "full_name": "Ata' ibn Yazid ibn Abdullah al-Laythi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khazraji al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Ata' ibn Yazid al-Laythi -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an (عَنْ) transmission term and is classified as mudallis (category 2-3) by some scholars",
+          "impact": "Al-Zuhri is widely considered extremely reliable and his tadlis is minimal. This does not significantly affect the hadith grade as he is highly trusted by all hadith scholars."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Ansar repeatedly asking Prophet ﷺ for help",
+        "Prophet's ﷺ generosity until nothing remained",
+        "Virtue of self-sufficiency and patience",
+        "Not asking people for help"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ، أَنَّ نَاسًا مِنْ الْأَنْصَارِ سَأَلُوا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَعْطَاهُمْ ، ثُمَّ سَأَلُوهُ فَأَعْطَاهُمْ حَتَّى نَفِدَ مَا عِنْدَهُ ، ثُمَّ قَالَ : \" مَا يَكُونُ عِنْدِي مِنْ خَيْرٍ فَلَنْ أَدَّخِرَهُ عَنْكُمْ ، وَمَنْ يَسْتَعْفِفْ يُعِفَّهُ اللَّهُ ، وَمَنْ يَسْتَغْنِ يُغْنِهِ اللَّهُ ، وَمَنْ يَتَصَبَّرْ يُصَبِّرْهُ اللَّهُ ، وَمَا أُعْطِيَ أَحَدٌ عَطَاءً هُوَ خَيْرٌ وَأَوْسَعُ مِنَ الصَّبْرِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2358,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10063,
+      "english_translation": "Narrated by Abdullah ibn Umar: That the Messenger of Allah ﷺ said while he was on the pulpit, and he was mentioning charity and refraining from asking: 'The upper hand is better than the lower hand. The upper hand is the one that gives, and the lower is the one that begs.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Virtue of giving over receiving",
+        "Upper hand and lower hand explanation"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ وَهُوَ عَلَى الْمِنْبَرِ ، وَهُوَ يَذْكُرُ الصَّدَقَةَ وَالتَّعَفُّفَ عَنِ الْمَسْأَلَةِ : \" الْيَدُ الْعُلْيَا خَيْرٌ مِنَ الْيَدِ السُّفْلَى ، وَالْيَدُ الْعُلْيَا هِيَ الْمُنْفِقَةُ ، وَالسُّفْلَى هِيَ السَّائِلَةُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2359,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10064,
+      "english_translation": "That the Messenger of Allah ﷺ sent to Umar ibn al-Khattab a gift, but Umar returned it. The Messenger of Allah ﷺ said to him: 'Why did you return it?' He said: 'O Messenger of Allah, did you not inform us that it is better for one of us not to take anything from anyone?' The Messenger of Allah ﷺ said: 'That is only about asking. As for what comes without asking, it is provision that Allah provides for you.' Umar ibn al-Khattab said: 'By the One in Whose hand is my soul, I will not ask anyone for anything, but whatever comes to me without asking, I will take it.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata' ibn Yasar",
+              "full_name": "Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is mursal - Ata' ibn Yasar (a Tabi'i) narrates the incident without mentioning who informed him from Umar"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Zayd ibn Aslam -> Ata' ibn Yasar -> [missing link] -> Umar ibn al-Khattab and Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Ata' ibn Yasar (a senior Tabi'i) narrates the incident without mentioning his source from Umar ibn al-Khattab",
+          "impact": "Mursal hadiths have a disconnection. However, this particular mursal is strong because: (1) it's narrated through Malik's golden chain (Malik -> Zayd ibn Aslam), (2) Ata' ibn Yasar is a highly reliable Tabi'i, (3) this hadith has supporting evidence in Sahih collections with connected chains."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Umar refusing Prophet's ﷺ gift",
+        "Difference between asking and receiving without asking",
+        "Accepting gifts that come without asking"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ عَطَاءِ بْنِ يَسَارٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَرْسَلَ إِلَى عُمَرَ بْنِ الْخَطَّابِ ، بِعَطَاءٍ فَرَدَّهُ عُمَرُ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لِمَ رَدَدْتَهُ ؟ \" فَقَالَ : يَا رَسُولَ اللَّهِ ، أَلَيْسَ أَخْبَرْتَنَا أَنَّ خَيْرًا لِأَحَدِنَا أَنْ لَا يَأْخُذَ مِنْ أَحَدٍ شَيْئًا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّمَا ذَلِكَ عَنِ الْمَسْأَلَةِ ، فَأَمَّا مَا كَانَ مِنْ غَيْرِ مَسْأَلَةٍ فَإِنَّمَا هُوَ رِزْقٌ يَرْزُقُكَهُ اللَّهُ \" ، فَقَالَ عُمَرُ بْنُ الْخَطَّابِ : أَمَا وَالَّذِي نَفْسِي بِيَدِهِ لَا أَسْأَلُ أَحَدًا شَيْئًا ، وَلَا يَأْتِينِي شَيْءٌ مِنْ غَيْرِ مَسْأَلَةٍ إِلَّا أَخَذْتُهُ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2360,
+      "grade": "Hasan (mursal but supported)"
+    },
+    {
+      "hadith_id": 10065,
+      "english_translation": "Narrated by Abu Hurayrah: That the Messenger of Allah ﷺ said: 'By the One in Whose hand is my soul, that one of you should take his rope and gather firewood on his back is better for him than coming to a man whom Allah has given from His bounty and asking him, whether he gives to him or refuses him.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu al-Zinad -> Al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Virtue of working and earning over begging",
+        "Gathering firewood being better than asking people"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" وَالَّذِي نَفْسِي بِيَدِهِ ، لَأَنْ يَأْخُذَ أَحَدُكُمْ حَبْلَهُ فَيَحْتَطِبَ عَلَى ظَهْرِهِ ، خَيْرٌ لَهُ مِنْ أَنْ يَأْتِيَ رَجُلًا أَعْطَاهُ اللَّهُ مِنْ فَضْلِهِ فَيَسْأَلَهُ أَعْطَاهُ أَوْ مَنَعَهُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2361,
+      "grade": "Sahih"
+    }
+  ]
+}

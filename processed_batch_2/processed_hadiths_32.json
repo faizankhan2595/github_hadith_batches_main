@@ -1,0 +1,625 @@
+{
+  "batch_number": 2,
+  "file_number": 32,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 9466,
+      "english_translation": "Chapter: Judgment in the Division of Properties",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ الْقَضَاءِ فِي قَسْمِ الْأَمْوَالِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1762",
+      "grade": "Chapter Heading Only"
+    },
+    {
+      "hadith_id": 9467,
+      "english_translation": "Thawr ibn Zayd al-Dili reported: It reached me that the Messenger of Allah ﷺ said: 'Whichever house or land was divided during the pre-Islamic period (Jahiliyyah), then it remains according to the division of Jahiliyyah. And whichever house or land was reached by Islam and was not yet divided, then it is according to the division of Islam.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis category 1 - generally not affecting acceptance"]
+            },
+            {
+              "name": "Thawr ibn Zayd al-Dili",
+              "full_name": "Thawr ibn Zayd al-Dili al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The chain is disconnected - Thawr ibn Zayd uses 'balaghani' (بَلَغَنِي - it reached me) indicating he did not hear it directly from the Prophet ﷺ",
+            "This is a mursal hadith with a missing link between Thawr ibn Zayd (Third Generation) and the Prophet ﷺ",
+            "Malik narrates with 'an (عَنْ) but he is category 1 mudallis and highly reliable, so minimal impact"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Thawr ibn Zayd al-Dili -> (disconnected) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain (mursal): Thawr ibn Zayd explicitly states 'balaghani' (it reached me), indicating he did not receive this narration directly from a Companion or the Prophet ﷺ. The intermediary narrator(s) between Thawr and the Prophet are unknown.",
+          "impact": "This is a clear disconnection that significantly weakens the chain. Mursal hadiths are generally considered weak unless supported by other evidence."
+        },
+        {
+          "issue": "Malik ibn Anas uses the indirect transmission term 'an (عَنْ). While Malik is classified as a category 1 mudallis by some scholars, he is among the most reliable narrators and this minor tadlis does not significantly impact reliability.",
+          "impact": "Minimal impact given Malik's exceptional reliability and status."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Inheritance Division Rules from Pre-Islamic Times",
+        "Property Division in Early Islam",
+        "Treatment of Pre-Islamic Contracts in Islam"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /26 ثَوْرِ بْنِ زَيْدٍ الدِّيلِيِّ L2057 /26 ، أَنَّهُ قَالَ : بَلَغَنِي ، /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" أَيُّمَا دَارٍ أَوْ أَرْضٍ قُسِمَتْ فِي الْجَاهِلِيَّةِ ، فَهِيَ عَلَى قَسْمِ الْجَاهِلِيَّةِ ، وَأَيُّمَا دَارٍ أَوْ أَرْضٍ أَدْرَكَهَا الْإِسْلَامُ وَلَمْ تُقْسَمْ ، فَهِيَ عَلَى قَسْمِ الْإِسْلَامِ \" /27 . قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِيمَنْ هَلَكَ وَتَرَكَ أَمْوَالًا بِالْعَالِيَةِ وَالسَّافِلَةِ : /10 إِنَّ الْبَعْلَ لَا يُقْسَمُ مَعَ النَّضْحِ إِلَّا أَنْ يَرْضَى أَهْلُهُ بِذَلِكَ ، وَإِنَّ الْبَعْلَ يُقْسَمُ مَعَ الْعَيْنِ إِذَا كَانَ يُشْبِهُهَا ، وَأَنَّ الْأَمْوَالَ إِذَا كَانَتْ بِأَرْضٍ وَاحِدَةٍ الَّذِي بَيْنَهُمَا مُتَقَارِبٌ ، أَنَّهُ يُقَامُ كُلُّ مَالٍ مِنْهَا ، ثُمَّ يُقْسَمُ بَيْنَهُمْ وَالْمَسَاكِنُ وَالدُّورُ بِهَذِهِ الْمَنْزِلَةِ /10 *",
+      "collection": "Muwatta Malik",
+      "reference_number": "1763",
+      "grade": "Mursal (Disconnected)"
+    },
+    {
+      "hadith_id": 9468,
+      "english_translation": "Chapter: Judgment Concerning Predatory Animals and Livestock Under Guard",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ الْقَضَاءِ فِي الضَّوَارِي وَالْحَرِيسَةِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1764",
+      "grade": "Chapter Heading Only"
+    },
+    {
+      "hadith_id": 9469,
+      "english_translation": "From Haram ibn Sa'd ibn Muhayyisa: That a she-camel belonging to al-Bara' ibn Azib entered a man's garden and caused damage in it. So the Messenger of Allah ﷺ judged that the people of the gardens must guard them during the day, and that whatever the livestock damage during the night is guaranteed upon their owners.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis category 1 - generally not affecting acceptance"]
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis category 3 according to some scholars, though widely considered extremely reliable"]
+            },
+            {
+              "name": "Haram ibn Sa'd ibn Muhayyisa",
+              "full_name": "Haram ibn Sa'd ibn Muhayyisa al-Ansari al-Awsi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The hadith uses 'anna' (أَنَّ) when reporting about the incident, which often indicates indirect transmission or disconnection",
+            "Haram ibn Sa'd ibn Muhayyisa (Second Generation) did not witness this incident himself - he is reporting about al-Bara' ibn Azib's camel incident without a direct chain to the Prophet ﷺ",
+            "Ibn Shihab al-Zuhri uses 'an (عَنْ) and is classified as category 3 mudallis by some, though he is extremely reliable",
+            "Malik uses 'an (عَنْ) but as category 1 mudallis with exceptional reliability, minimal impact"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Haram ibn Sa'd ibn Muhayyisa -> (disconnected report about incident) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain (mursal): Haram ibn Sa'd ibn Muhayyisa is a Second Generation narrator (not a Companion) reporting about an incident involving al-Bara' ibn Azib without mentioning who informed him. The intermediary between Haram and the actual witnesses is missing.",
+          "impact": "This creates a significant gap in the chain. The hadith is mursal and the missing narrator's reliability cannot be assessed."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri uses the indirect term 'an (عَنْ) and is classified as a category 3 mudallis by some scholars (like Ibn Hajar). However, al-Zuhri is one of the most reliable narrators in Islamic scholarship and his tadlis is generally overlooked by the majority of scholars.",
+          "impact": "While technically noteworthy, al-Zuhri's exceptional reliability means this has minimal practical impact on the hadith's assessment."
+        },
+        {
+          "issue": "Malik ibn Anas uses 'an (عَنْ) and is classified as a category 1 mudallis by some scholars, though he is among the most reliable narrators.",
+          "impact": "Minimal to no impact given Malik's exceptional reliability and category 1 status."
+        },
+        {
+          "issue": "The use of 'anna' (أَنَّ) in reporting the incident often indicates indirect transmission or lack of direct hearing.",
+          "impact": "Contributes to the overall weakness of the chain due to unclear transmission method."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of al-Bara' ibn Azib's Camel Damaging a Garden",
+        "Liability for Livestock Damage During Day and Night",
+        "Responsibility of Garden Owners to Guard Their Property"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 حَرَامِ بْنِ سَعْدِ بْنِ مُحَيِّصَةَ L2331 /26 ، /27 أَنَّ نَاقَةً لِلْبَرَاءِ بْنِ عَازِبٍ دَخَلَتْ حَائِطَ رَجُلٍ فَأَفْسَدَتْ فِيهِ \" فَقَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ /20 عَلَى أَهْلِ الْحَوَائِطِ حِفْظَهَا بِالنَّهَارِ ، وَأَنَّ مَا أَفْسَدَتِ الْمَوَاشِي بِاللَّيْلِ ضَامِنٌ عَلَى أَهْلِهَا \" /27 * \r\n$1412  1415 /3",
+      "collection": "Muwatta Malik",
+      "reference_number": "1765",
+      "grade": "Mursal (Disconnected)"
+    },
+    {
+      "hadith_id": 9470,
+      "english_translation": "From Yahya ibn Abd al-Rahman ibn Hatib: That slaves belonging to Hatib stole a she-camel from a man of Muzaynah and slaughtered it. This was brought before Umar ibn al-Khattab, and Umar commanded Kathir ibn al-Salt to cut off their hands. Then Umar said, 'I see that you starve them.' Then Umar said, 'By Allah, I will surely fine you a fine that will be difficult for you.' Then he said to the Muzayni, 'How much is the price of your she-camel?' The Muzayni said, 'By Allah, I have been refusing (offers of) four hundred dirhams for it.' So Umar said, 'Give him eight hundred dirhams.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis category 1 - generally not affecting acceptance"]
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Urwah)",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Abd al-Rahman ibn Hatib",
+              "full_name": "Yahya ibn Abd al-Rahman ibn Hatib ibn Abi Balta'ah al-Lakhmi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) in the chain: Malik (category 1 mudallis), Hisham ibn Urwah, and Urwah all use this indirect term",
+            "The report uses 'anna' (أَنَّ) when describing the incident",
+            "This is a mawquf hadith (stops at Umar ibn al-Khattab, not reaching the Prophet ﷺ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Yahya ibn Abd al-Rahman ibn Hatib -> (report about) Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at a Companion - Umar ibn al-Khattab) and does not reach the Prophet ﷺ. It represents the judgment and practice of Umar, not a prophetic statement.",
+          "impact": "While valuable as a companion's practice, it is not a marfu' hadith and cannot be directly attributed to the Prophet ﷺ."
+        },
+        {
+          "issue": "Malik ibn Anas uses 'an (عَنْ) and is a category 1 mudallis, though highly reliable.",
+          "impact": "Minimal impact given Malik's exceptional reliability."
+        },
+        {
+          "issue": "Hisham ibn Urwah and his father Urwah both use the indirect term 'an (عَنْ). While both are highly reliable narrators, the consistent use of indirect terms throughout the chain is noteworthy.",
+          "impact": "Minor concern, as both narrators are well-established as reliable and their use of 'an is generally accepted."
+        },
+        {
+          "issue": "The report uses 'anna' (أَنَّ) when describing the incident, which can indicate indirect transmission.",
+          "impact": "Minor impact given the overall strength of the narrators."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Hatib's Slaves Stealing and Slaughtering a Camel",
+        "Umar ibn al-Khattab's Judgment on Theft and Compensation",
+        "Doubling of Compensation for Wronged Party",
+        "Employer Responsibility for Employees' Actions"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 هِشَامِ بْنِ عُرْوَةَ L8055 /94 ، عَنْ /26 أَبِيهِ L5594 /26 ، عَنْ /26 يَحْيَى بْنِ عَبْدِ الرَّحْمَنِ بْنِ حَاطِبٍ L8290 /26 ، /27 أَنّ رَقِيقًا لِحَاطِبٍ سَرَقُوا نَاقَةً لِرَجُلٍ مِنْ مُزَيْنَةَ فَانْتَحَرُوهَا ، فَرُفِعَ ذَلِكَ إِلَى عُمَرَ بْنِ الْخَطَّابِ ، فَأَمَرَ عُمَرُ ، كَثِيرَ بْنَ الصَّلْتِ أَنْ يَقْطَعَ أَيْدِيَهُمْ ، ثُمَّ قَالَ عُمَرُ : \" أَرَاكَ تُجِيعُهُمْ \" ، ثُمَّ قَالَ /93 عُمَرُ L5913 /93 : \" وَاللَّهِ /20 لَأُغَرِّمَنَّكَ غُرْمًا يَشُقُّ عَلَيْكَ \" ، ثُمَّ قَالَ لِلْمُزَنِيِّ : \" كَمْ ثَمَنُ نَاقَتِكَ ؟ \" فَقَالَ الْمُزَنِيُّ : قَدْ كُنْتُ وَاللَّهِ أَمْنَعُهَا مِنْ أَرْبَعِ مِائَةِ دِرْهَمٍ . فَقَالَ عُمَرُ : \" أَعْطِهِ ثَمَانَ مِائَةِ دِرْهَمٍ \" /27 . قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 وَلَيْسَ عَلَى هَذَا الْعَمَلُ عِنْدَنَا فِي تَضْعِيفِ الْقِيمَةِ ، وَلَكِنْ مَضَى أَمْرُ النَّاسِ عِنْدَنَا عَلَى أَنَّهُ إِنَّمَا يَغْرَمُ الرَّجُلُ قِيمَةَ الْبَعِيرِ أَوِ الدَّابَّةِ يَوْمَ يَأْخُذُهَا /10 * \r\n\"E388",
+      "collection": "Muwatta Malik",
+      "reference_number": "1766",
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9471,
+      "english_translation": "Chapter: Judgment Concerning One Who Injures Animals",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ الْقَضَاءِ فِيمَنْ أَصَابَ شَيْئًا مِنَ الْبَهَائِمِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1767",
+      "grade": "Chapter Heading Only"
+    },
+    {
+      "hadith_id": 9472,
+      "english_translation": "Yahya said: I heard Malik saying: The practice among us concerning one who injures an animal is that upon the one who injured it is the measure of what decreased from its price. Yahya said: And I heard Malik saying concerning a camel that attacks a man and he fears for himself so he kills it or hamstrings it: If he has witnesses that it intended to attack him and did attack him, then there is no liability upon him. But if he has no proof except his own statement, then he is liable for the camel.",
+      "chains": [
+        {
+          "type": "athar (statement of Malik)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith but rather Malik's legal opinion (fiqh) about the practice in Madinah",
+            "Does not trace back to the Prophet ﷺ or any Companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas (legal opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but a statement of Malik's legal reasoning and the practice of the people of Madinah. It does not trace back to the Prophet ﷺ.",
+          "impact": "Cannot be graded as a hadith. This is fiqh (jurisprudence) not riwayah (narration)."
+        }
+      ],
+      "IISGrade": "N/A - Fiqh Statement",
+      "Topics": [
+        "Compensation for Damaging Animals",
+        "Self-Defense Against Aggressive Animals",
+        "Evidentiary Requirements in Animal Damage Cases"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ عِنْدَنَا فِيمَنْ أَصَابَ شَيْئًا مِنَ الْبَهَائِمِ ، إِنَّ عَلَى الَّذِي أَصَابَهَا قَدْرَ مَا نَقَصَ مِنْ ثَمَنِهَا /10 . قَالَ /22 يَحْيَى /22 : وَسَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِي الْجَمَلِ يَصُولُ عَلَى الرَّجُلِ فَيَخَافُهُ عَلَى نَفْسِهِ فَيَقْتُلُهُ أَوْ يَعْقِرُهُ : /10 فَإِنَّهُ إِنْ كَانَتْ لَهُ بَيِّنَةٌ عَلَى أَنَّهُ أَرَادَهُ وَصَالَ عَلَيْهِ فَلَا غُرْمَ عَلَيْهِ ، وَإِنْ لَمْ تَقُمْ لَهُ بَيِّنَةٌ إِلَّا مَقَالَتُهُ فَهُوَ ضَامِنٌ لِلْجَمَلِ /10 . #",
+      "collection": "Muwatta Malik",
+      "reference_number": "1768",
+      "grade": "Statement of Malik (Fiqh)"
+    },
+    {
+      "hadith_id": 9473,
+      "english_translation": "Chapter: Judgment Concerning What is Given to Workers",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ الْقَضَاءِ فِيمَا يُعْطَى الْعُمَّالُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1769",
+      "grade": "Chapter Heading Only"
+    },
+    {
+      "hadith_id": 9474,
+      "english_translation": "Yahya said: I heard Malik saying concerning one who hands to a washer a garment to dye it, and he dyes it, then the owner of the garment says 'I did not order you to use this dye,' and the washer says 'Rather, you ordered me to do that': The washer is believed in that, and similarly the tailor in similar matters, and the goldsmith in similar matters, and they must take an oath on that unless they bring something they are not employed to do, then their statement is not valid in that, and the owner of the garment must take an oath. If he refuses and declines to take an oath, then the dyer must take an oath. He said: And I heard Malik saying concerning a dyer to whom a garment is handed and he makes a mistake with it and hands it to another man until the one to whom he gave it wears it: There is no liability upon the one who wore it, and the washer is liable to the owner of the garment. That is if he wore the garment that was handed to him without knowing that it was not his. But if he wore it while knowing it was not his garment, then he is liable for it.",
+      "chains": [
+        {
+          "type": "athar (statement of Malik)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith but rather Malik's legal opinion (fiqh) about disputes between craftsmen and customers",
+            "Does not trace back to the Prophet ﷺ or any Companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas (legal opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but a statement of Malik's legal reasoning. It does not trace back to the Prophet ﷺ.",
+          "impact": "Cannot be graded as a hadith. This is fiqh (jurisprudence) not riwayah (narration)."
+        }
+      ],
+      "IISGrade": "N/A - Fiqh Statement",
+      "Topics": [
+        "Disputes Between Craftsmen and Customers",
+        "Oath-Taking in Commercial Disputes",
+        "Liability for Mistakes by Service Providers",
+        "Rights of Innocent Third Parties in Property Disputes"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِيمَنْ دَفَعَ إِلَى الْغَسَّالِ ثَوْبًا يَصْبُغُهُ فَصَبَغَهُ ، فَقَالَ صَاحِبُ الثَّوْبِ : لَمْ آمُرْكَ بِهَذَا الصِّبْغِ ، وَقَالَ الْغَسَّالُ : بَلْ أَنْتَ أَمَرْتَنِي بِذَلِكَ : /10 فَإِنَّ الْغَسَّالَ مُصَدَّقٌ فِي ذَلِكَ ، وَالْخَيَّاطُ مِثْلُ ذَلِكَ ، وَالصَّائِغُ مِثْلُ ذَلِكَ ، وَيَحْلِفُونَ عَلَى ذَلِكَ إِلَّا أَنْ يَأْتُوا بِأَمْرٍ لَا يُسْتَعْمَلُونَ فِي مِثْلِهِ ، فَلَا يَجُوزُ قَوْلُهُمْ فِي ذَلِكَ ، وَلْيَحْلِفْ صَاحِبُ الثَّوْبِ ، فَإِنْ رَدَّهَا وَأَبَى أَنْ يَحْلِفَ حُلِّفَ الصَّبَّاغُ /10 . قَالَ : وَسَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِي الصَّبَّاغِ يُدْفَعُ إِلَيْهِ الثَّوْبُ ، فَيُخْطِئُ بِهِ ، فَيَدْفَعُهُ إِلَى رَجُلٍ آخَرَ حَتَّى يَلْبَسَهُ الَّذِي أَعْطَاهُ إِيَّاهُ : /10 إِنَّهُ لَا غُرْمَ عَلَى الَّذِي لَبِسَهُ ، وَيَغْرَمُ الْغَسَّالُ لِصَاحِبِ الثَّوْبِ ، وَذَلِكَ إِذَا لَبِسَ الثَّوْبَ الَّذِي دُفِعَ إِلَيْهِ عَلَى غَيْرِ مَعْرِفَةٍ ، بِأَنَّهُ لَيْسَ لَهُ ، فَإِنْ لَبِسَهُ وَهُوَ يَعْرِفُ أَنَّهُ لَيْسَ ثَوْبَهُ فَهُوَ ضَامِنٌ لَهُ /10 . #",
+      "collection": "Muwatta Malik",
+      "reference_number": "1770",
+      "grade": "Statement of Malik (Fiqh)"
+    },
+    {
+      "hadith_id": 9475,
+      "english_translation": "Chapter: Judgment Concerning Guarantees and Transfers of Debt",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ الْقَضَاءِ فِي الْحَمَالَةِ وَالْحِوَلِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1771",
+      "grade": "Chapter Heading Only"
+    },
+    {
+      "hadith_id": 9476,
+      "english_translation": "Yahya said: I heard Malik saying: The practice among us concerning a man who transfers another man to a (third) man with a debt owed to him is: If the one to whom he was transferred goes bankrupt or dies without leaving enough to pay, then the transferee has no claim against the one who transferred him, and he cannot return to his first debtor. Malik said: This is the practice about which there is no disagreement among us. Malik said: As for a man for whom another man guarantees a debt owed by yet another man, then the guarantor dies or goes bankrupt, then the one for whom the guarantee was made returns to his first debtor.",
+      "chains": [
+        {
+          "type": "athar (statement of Malik)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith but rather Malik's legal opinion (fiqh) about debt transfers and guarantees",
+            "Does not trace back to the Prophet ﷺ or any Companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas (legal opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but a statement of Malik's legal reasoning about the practice in Madinah. It does not trace back to the Prophet ﷺ.",
+          "impact": "Cannot be graded as a hadith. This is fiqh (jurisprudence) not riwayah (narration)."
+        }
+      ],
+      "IISGrade": "N/A - Fiqh Statement",
+      "Topics": [
+        "Debt Transfer and Assignment",
+        "Financial Guarantees and Their Consequences",
+        "Rights of Creditors When Debtors Go Bankrupt"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ عِنْدَنَا فِي الرَّجُلِ يُحِيلُ الرَّجُلَ عَلَى الرَّجُلِ بِدَيْنٍ لَهُ عَلَيْهِ : أَنَّهُ إِنْ أَفْلَسَ الَّذِي أُحِيلَ عَلَيْهِ أَوْ مَاتَ فَلَمْ يَدَعْ وَفَاءً ، فَلَيْسَ لِلْمُحْتَالِ عَلَى الَّذِي أَحَالَهُ شَيْءٌ ، وَأَنَّهُ لَا يَرْجِعُ عَلَى صَاحِبِهِ الْأَوَّلِ /10 . قَالَ /12 مَالِك /12 : /10 وَهَذَا الْأَمْرُ الَّذِي لَا اخْتِلَافَ فِيهِ عِنْدَنَا /10 . قَالَ /12 مَالِك /12 : /10 فَأَمَّا الرَّجُلُ يَتَحَمَّلُ لَهُ الرَّجُلُ بِدَيْنٍ لَهُ عَلَى رَجُلٍ آخَرَ ، ثُمَّ يَهْلِكُ الْمُتَحَمِّلُ أَوْ يُفْلِسُ ، فَإِنَّ الَّذِي تُحُمِّلَ لَهُ يَرْجِعُ عَلَى غَرِيمِهِ الْأَوَّلِ /10 . #6E389",
+      "collection": "Muwatta Malik",
+      "reference_number": "1772",
+      "grade": "Statement of Malik (Fiqh)"
+    },
+    {
+      "hadith_id": 9477,
+      "english_translation": "Chapter: Judgment Concerning One Who Purchases a Garment with a Defect",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ الْقَضَاءِ فِيمَنِ ابْتَاعَ ثَوْبًا وَبِهِ عَيْبٌ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1773",
+      "grade": "Chapter Heading Only"
+    },
+    {
+      "hadith_id": 9478,
+      "english_translation": "Yahya said: I heard Malik saying: When a man purchases a garment that has a defect such as burning or other than that, which the seller knew about and it was witnessed against him regarding that or he acknowledged it, then the purchaser made a change in it such as cutting that decreases the price of the garment, then the purchaser learned of the defect, it is returned to the seller and there is no liability upon the purchaser for his cutting it. He said: And if a man purchases a garment that has a defect from burning or damage, and the one who sold it claimed that he did not know about that, and the purchaser had cut the garment or dyed it, then the purchaser has a choice: if he wishes, the amount by which the burning or damage decreased the price of the garment can be deducted and he keeps the garment, or if he wishes, he can pay what the cutting or dyeing decreased from the price of the garment and return it. He has the choice in that. If the purchaser had dyed the garment with a dye that increases its price, then the purchaser has a choice: if he wishes, the amount by which the defect decreased the price of the garment can be deducted, or if he wishes, he can become a partner with the one who sold him the garment. It is examined how much the price of the garment is with the burning or damage in it. If its price was ten dirhams and the price of what the dye increased in it was five dirhams, then they become partners in the garment, each of them according to his share. According to this calculation is what the dye increased in the price of the garment.",
+      "chains": [
+        {
+          "type": "athar (statement of Malik)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith but rather Malik's legal opinion (fiqh) about defective merchandise",
+            "Does not trace back to the Prophet ﷺ or any Companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas (legal opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but a statement of Malik's legal reasoning about commercial transactions. It does not trace back to the Prophet ﷺ.",
+          "impact": "Cannot be graded as a hadith. This is fiqh (jurisprudence) not riwayah (narration)."
+        }
+      ],
+      "IISGrade": "N/A - Fiqh Statement",
+      "Topics": [
+        "Returns and Refunds for Defective Merchandise",
+        "Buyer's Rights Upon Discovering Hidden Defects",
+        "Partnership Formation Through Improvement of Defective Goods",
+        "Calculation of Compensation in Commercial Disputes"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 إِذَا ابْتَاعَ الرَّجُلُ ثَوْبًا وَبِهِ عَيْبٌ مِنْ حَرْقٍ أَوْ غَيْرِهِ ، قَدْ عَلِمَهُ الْبَائِعُ فَشُهِدَ عَلَيْهِ بِذَلِكَ أَوْ أَقَرَّ بِهِ فَأَحْدَثَ فِيهِ الَّذِي ابْتَاعَهُ حَدَثًا مِنْ تَقْطِيعٍ يُنَقِّصُ ثَمَنَ الثَّوْبِ ، ثُمَّ عَلِمَ الْمُبْتَاعُ بِالْعَيْبِ ، فَهُوَ رَدٌّ عَلَى الْبَائِعِ وَلَيْسَ عَلَى الَّذِي ابْتَاعَهُ غُرْمٌ فِي تَقْطِيعِهِ إِيَّاهُ . قَالَ : وَإِنِ ابْتَاعَ رَجُلٌ ثَوْبًا وَبِهِ عَيْبٌ مِنْ حَرْقٍ أَوْ عَوَارٍ ، فَزَعَمَ الَّذِي بَاعَهُ أَنَّهُ لَمْ يَعْلَمْ بِذَلِكَ وَقَدْ قَطَعَ الثَّوْبَ الَّذِي ابْتَاعَهُ أَوْ صَبَغَهُ ، فَالْمُبْتَاعُ بِالْخِيَارِ إِنْ شَاءَ أَنْ يُوضَعَ عَنْهُ قَدْرُ مَا نَقَصَ الْحَرْقُ أَوِ الْعَوَارُ مِنْ ثَمَنِ الثَّوْبِ وَيُمْسِكُ الثَّوْبَ فَعَلَ ، وَإِنْ شَاءَ أَنْ يَغْرَمَ مَا نَقَصَ التَّقْطِيعُ أَوِ الصِّبْغُ مِنْ ثَمَنِ الثَّوْبِ ، وَيَرُدُّهُ فَعَلَ ، وَهُوَ فِي ذَلِكَ بِالْخِيَارِ ، فَإِنْ كَانَ الْمُبْتَاعُ قَدْ صَبَغَ الثَّوْبَ صِبْغًا يَزِيدُ فِي ثَمَنِهِ ، فَالْمُبْتَاعُ بِالْخِيَارِ ، إِنْ شَاءَ أَنْ يُوضَعَ عَنْهُ قَدْرُ مَا نَقَصَ الْعَيْبُ مِنْ ثَمَنِ الثَّوْبِ ، وَإِنْ شَاءَ أَنْ يَكُونَ شَرِيكًا لِلَّذِي بَاعَهُ الثَّوْبَ فَعَلَ ، وَيُنْظَرُ كَمْ ثَمَنُ الثَّوْبِ وَفِيهِ الْحَرْقُ أَوِ الْعَوَارُ ، فَإِنْ كَانَ ثَمَنُهُ عَشَرَةَ دَرَاهِمَ وَثَمَنُ مَا زَادَ فِيهِ الصِّبْغُ خَمْسَةَ دَرَاهِمَ كَانَا شَرِيكَيْنِ فِي الثَّوْبِ لِكُلِّ وَاحِدٍ مِنْهُمَا بِقَدْرِ حِصَّتِهِ ، فَعَلَى حِسَابِ هَذَا يَكُونُ مَا زَادَ الصِّبْغُ فِي ثَمَنِ الثَّوْبِ /10 . #",
+      "collection": "Muwatta Malik",
+      "reference_number": "1774",
+      "grade": "Statement of Malik (Fiqh)"
+    },
+    {
+      "hadith_id": 9479,
+      "english_translation": "Chapter: What is Not Permissible of Gifts",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Chapter Heading"],
+      "arabicText": "بَابُ مَا لَا يَجُوزُ مِنَ النُّحْلِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1775",
+      "grade": "Chapter Heading Only"
+    },
+    {
+      "hadith_id": 9480,
+      "english_translation": "Narrated by al-Nu'man ibn Bashir: That his father Bashir brought him to the Messenger of Allah ﷺ and said, 'I have given this son of mine a slave boy who belonged to me.' So the Messenger of Allah ﷺ said, 'Have you given all your children the like of this?' He said, 'No.' The Messenger of Allah ﷺ said, 'Then take it back.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis category 1 - generally not affecting acceptance"]
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis category 3 according to some scholars, though widely considered extremely reliable"]
+            },
+            {
+              "name": "Humayd ibn Abd al-Rahman ibn Awf",
+              "full_name": "Humayd ibn Abd al-Rahman ibn Awf al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "حَدَّثَاهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn al-Nu'man ibn Bashir",
+              "full_name": "Muhammad ibn al-Nu'man ibn Bashir ibn Sa'd al-Ansari al-Khazraji",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَاهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Nu'man ibn Bashir",
+              "full_name": "Al-Nu'man ibn Bashir ibn Sa'd ibn Tha'labah al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Malik uses 'an (عَنْ) - category 1 mudallis, minimal impact",
+            "Ibn Shihab al-Zuhri uses 'an (عَنْ) - classified as category 3 mudallis by some, though extremely reliable",
+            "The chain has two separate paths converging: both Humayd ibn Abd al-Rahman and Muhammad ibn al-Nu'man narrate to Ibn Shihab, indicated by 'annahuma haddathaahu (أَنَّهُمَا حَدَّثَاهُ)',
+            "Both narrators use the strong term 'haddathaahu' (حَدَّثَاهُ) indicating direct narration to Ibn Shihab"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Humayd ibn Abd al-Rahman ibn Awf -> al-Nu'man ibn Bashir -> Prophet Muhammad ﷺ",
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Muhammad ibn al-Nu'man ibn Bashir -> al-Nu'man ibn Bashir -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik ibn Anas uses 'an (عَنْ) and is a category 1 mudallis according to some scholars, though he is among the most reliable narrators.",
+          "impact": "Minimal to no impact given Malik's exceptional reliability and category 1 status."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri uses the indirect term 'an (عَنْ) and is classified as a category 3 mudallis by some scholars (like Ibn Hajar). However, al-Zuhri is one of the most reliable narrators in Islamic scholarship and his tadlis is generally overlooked by the majority of scholars.",
+          "impact": "While technically noteworthy, al-Zuhri's exceptional reliability and the fact that two independent narrators (Humayd and Muhammad ibn al-Nu'man) both narrate this hadith to him using the direct term 'haddathaahu' significantly strengthens the chain. Minimal practical impact."
+        },
+        {
+          "issue": "The final link uses 'an (عَنْ) from al-Nu'man ibn Bashir, but since al-Nu'man is a Companion reporting about his own incident, this is not problematic.",
+          "impact": "No impact - Companions' narrations are accepted."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Bashir ibn Sa'd Giving Unequal Gift to His Son",
+        "Equality in Giving Gifts to Children",
+        "Prophetic Command to Retract Unequal Gift",
+        "Fairness Among Children in Parental Gifts"
+      ],
+      "arabicText": "حَدَّثَنَا /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ L2542 /26 ، وَعَنْ /26 مُحَمَّدِ بْنِ النُّعْمَانِ بْنِ بَشِيرٍ L6868 /26 أَنَّهُمَا حَدَّثَاهُ ، /27 عَنِ /94 النُّعْمَانِ بْنِ بَشِيرٍ L1733 /94 ، أَنَّهُ قَالَ : إِنَّ أَبَاهُ بَشِيرًا أَتَى بِهِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : إِنِّي نَحَلْتُ ابْنِي هَذَا غُلَامًا كَانَ لِي . فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" أَكُلَّ وَلَدِكَ نَحَلْتَهُ مِثْلَ هَذَا ؟ \" فَقَالَ : لَا . قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" فَارْتَجِعْهُ \" /27 * \r\n$1414  1417 /3",
+      "collection": "Muwatta Malik",
+      "reference_number": "1776",
+      "grade": "Sahih"
+    }
+  ]
+}

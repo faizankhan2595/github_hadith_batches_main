@@ -1,0 +1,754 @@
+{
+  "batch_number": 2,
+  "file_number": 82,
+  "record_count": 15,
+  "processed_date": "2025-11-14",
+  "hadiths": [
+    {
+      "hadith_id": 10216,
+      "collection": "Unknown Book 20",
+      "reference_number": 139,
+      "arabicText": "مَا جَاءَ فِي النُّفَسَاءِ",
+      "english_translation": "This is a chapter heading: What has come regarding the woman in post-natal bleeding (nifas).",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not a hadith with a chain of narration",
+          "impact": "No chain analysis applicable"
+        }
+      ],
+      "IISGrade": "Not Applicable - Chapter Heading",
+      "Topics": [
+        "Post-natal Bleeding Rulings"
+      ],
+      "note": "Chapter heading only"
+    },
+    {
+      "hadith_id": 10217,
+      "collection": "Unknown Book 20",
+      "reference_number": 140,
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : كَانَ مَالِكٌ يَقُولُ فِي النُّفَسَاءِ : أَقْصَى مَا يُمْسِكُهَا الدَّمُ سِتُّونَ يَوْمًا ، ثُمَّ رَجَعَ عن ذَلِكَ آخِرَ مَا لَقِينَاهُ , فَقَالَ : أَرَى أَنْ يُسْأَلَ عن ذَلِكَ النِّسَاءُ ، وَأَهْلُ الْمَعْرِفَةِ ، فَتَجْلِسُ بَعْدَ ذَلِكَ...",
+      "english_translation": "Ibn al-Qasim said: Malik used to say regarding the woman in post-natal bleeding: The maximum time that blood withholds her is sixty days, then he retracted from that at the end of what we met him, and said: I see that women and people of knowledge should be asked about that, then she sits (refrains from prayer) after that. Ibn Nafi' said, from 'Asim, from Abu Bakr ibn Umar, from Salim ibn Abdullah, that he was asked about the woman in post-natal bleeding: How long is the maximum she leaves prayer if the blood does not cease from her? He said: She leaves prayer for two months, that is the maximum she leaves prayer, then she performs ghusl and prays...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a jurisprudential report from Malik, not a hadith going back to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik's opinion"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but rather jurisprudential opinions and discussions of Malik and his students",
+          "impact": "No chain to the Prophet ﷺ, this is fiqh/legal reasoning"
+        }
+      ],
+      "IISGrade": "Not Applicable - Jurisprudential Discussion",
+      "Topics": [
+        "Post-natal Bleeding Duration",
+        "Consultation with Knowledgeable Women",
+        "Scholarly Ijtihad in Women's Matters"
+      ]
+    },
+    {
+      "hadith_id": 10218,
+      "collection": "Unknown Book 20",
+      "reference_number": 141,
+      "arabicText": "مَا جَاءَ فِي الْمَرْأَةِ الْحَامِلِ تَلِدُ وَلَدًا ، وَيَبْقَى فِي بَطْنِهَا آخَرُ",
+      "english_translation": "This is a chapter heading: What has come regarding the pregnant woman who gives birth to a child while another remains in her belly.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not a hadith with a chain of narration",
+          "impact": "No chain analysis applicable"
+        }
+      ],
+      "IISGrade": "Not Applicable - Chapter Heading",
+      "Topics": [
+        "Multiple Births with Time Gap"
+      ],
+      "note": "Chapter heading only"
+    },
+    {
+      "hadith_id": 10219,
+      "collection": "Unknown Book 20",
+      "reference_number": 142,
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ فِي الْمَرْأَةِ الْحَامِلِ : تَلِدُ وَلَدًا ، وَيَبْقَى فِي بَطْنِهَا آخَرُ فَلَا تَضَعُهُ إِلَّا بَعْدَ شَهْرَيْنِ ، وَالدَّمُ يَتَمَادَى بِهَا فِيمَا بَيْنَ الْوَلَدَيْنِ...",
+      "english_translation": "Ibn al-Qasim said regarding the pregnant woman: She gives birth to a child, and another remains in her belly, so she does not deliver it except after two months, and the blood continues with her between the two children. He said: It is waited for the maximum of what the post-natal bleeding is with the woman in post-natal bleeding, and her husband has the right of return to her. And it has been said regarding her: That her condition is the condition of the pregnant woman until she delivers the second child...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jurisprudential discussion, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik's opinion"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is jurisprudential discussion about a complex fiqh issue",
+          "impact": "No chain to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Not Applicable - Jurisprudential Discussion",
+      "Topics": [
+        "Sequential Twin Births",
+        "Post-natal Bleeding Between Multiple Births",
+        "Scholarly Disagreement on Complex Medical-Fiqh Issues"
+      ]
+    },
+    {
+      "hadith_id": 10220,
+      "collection": "Unknown Book 20",
+      "reference_number": 143,
+      "arabicText": "فِي الْحَامِلَ تَرَى الدَّمَ عَلَى حَمْلِهَا",
+      "english_translation": "This is a chapter heading: Regarding the pregnant woman who sees blood during her pregnancy.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not a hadith with a chain of narration",
+          "impact": "No chain analysis applicable"
+        }
+      ],
+      "IISGrade": "Not Applicable - Chapter Heading",
+      "Topics": [
+        "Bleeding During Pregnancy"
+      ],
+      "note": "Chapter heading only"
+    },
+    {
+      "hadith_id": 10221,
+      "collection": "Unknown Book 20",
+      "reference_number": 144,
+      "arabicText": "قُلْتُ : أَرَأَيْتَ الْحَامِلَ تَرَى الدَّمَ فِي حَمْلِهَا كَمْ تُمْسِكُ عن الصَّلَاةِ ؟ قَالَ : قَالَ مَالِكٌ : لَيْسَ أَوَّلُ الْحَمْلِ كَآخِرِهِ...",
+      "english_translation": "I said: What is your opinion about the pregnant woman who sees blood during her pregnancy, how long does she refrain from prayer? He said: Malik said: The beginning of pregnancy is not like its end. If she sees blood at the beginning of pregnancy, she refrains from prayer and what is exercised ijtihad for her in it, and there is no fixed limit in that. Ibn al-Qasim said: If she sees that in three months or so, she leaves prayer for fifteen days or so. If she exceeds six months of her pregnancy, then she sees it, she leaves prayer between that and twenty days or so.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قُلْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jurisprudential Q&A, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Questioner -> Ibn al-Qasim -> Malik's opinion"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a jurisprudential Q&A session",
+          "impact": "No chain to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Not Applicable - Jurisprudential Discussion",
+      "Topics": [
+        "Bleeding at Different Stages of Pregnancy",
+        "Variable Rulings Based on Pregnancy Stage"
+      ]
+    },
+    {
+      "hadith_id": 10222,
+      "collection": "Unknown Book 20",
+      "reference_number": 145,
+      "arabicText": "قَالَ ابْنُ وَهْبٍ ، عن اللَّيْثِ بْنِ سَعْدٍ ، وَابْنِ لَهِيعَةَ ، عن بُكَيْرِ بْنِ عَبْدِ اللَّهِ ، عن أُمِّ عَلْقَمَةَ مَوْلَاةِ عَائِشَةَ ، عن عَائِشَةَ , أَنَّهَا سُئِلَتْ عن الْحَامِلِ تَرَى الدَّمَ أَتُصَلِّي ؟ قَالَتْ : لَا تُصَلِّي حَتَّى يَذْهَبَ عنهَا الدَّمُ",
+      "english_translation": "Narrated by Aisha: She was asked about the pregnant woman who sees blood, does she pray? She said: She does not pray until the blood ceases from her.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Layth ibn Sa'd",
+              "full_name": "al-Layth ibn Sa'd ibn Abd al-Rahman al-Fahmi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Lahi'ah",
+              "full_name": "Abdullah ibn Lahi'ah ibn Uqbah al-Hadrami al-Misri",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Books destroyed in fire",
+                "Memory issues after the fire",
+                "Narrations acceptable only through specific narrators like Ibn Wahb"
+              ]
+            },
+            {
+              "name": "Bukayr ibn Abdullah",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Alqamah",
+              "full_name": "Umm Alqamah mawlat Aisha",
+              "grade": "Maqbul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Limited narrations",
+                "Known primarily through this chain"
+              ]
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn Lahi'ah is present in the chain - generally weak narrator",
+            "However, narrations of Ibn Lahi'ah through Ibn Wahb are considered more acceptable",
+            "All transmission terms are 'an (عَنْ) which could indicate indirect transmission",
+            "This is a mawquf narration (stops at Aisha), not marfu' to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> al-Layth ibn Sa'd & Ibn Lahi'ah -> Bukayr ibn Abdullah -> Umm Alqamah -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Lahi'ah is in the chain - generally a weak narrator due to loss of books in fire",
+          "impact": "However, his narrations through Ibn Wahb (who narrated from him before the fire) are considered more reliable. This somewhat mitigates the weakness."
+        },
+        {
+          "issue": "Umm Alqamah has limited narrations and is not extensively documented",
+          "impact": "Graded as Maqbul - acceptable when supported, but not strong on its own"
+        },
+        {
+          "issue": "All narrators use 'an (عَنْ) transmission terms throughout the chain",
+          "impact": "Potential for indirect transmission, though no known mudallis in this particular chain"
+        },
+        {
+          "issue": "This is Aisha's opinion (mawquf), not a direct statement from the Prophet ﷺ",
+          "impact": "While companion opinions carry weight, this is not a marfu' hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Pregnant Woman Seeing Blood",
+        "Prayer Suspension During Bleeding in Pregnancy",
+        "Aisha's Opinion on Women's Issues"
+      ]
+    },
+    {
+      "hadith_id": 10223,
+      "collection": "Unknown Book 20",
+      "reference_number": 146,
+      "arabicText": "مَا جَاءَ فِي وَقْتِ الصَّلَاةِ",
+      "english_translation": "This is a chapter heading: What has come regarding the timing of prayer.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not a hadith with a chain of narration",
+          "impact": "No chain analysis applicable"
+        }
+      ],
+      "IISGrade": "Not Applicable - Chapter Heading",
+      "Topics": [
+        "Prayer Timings"
+      ],
+      "note": "Chapter heading only"
+    },
+    {
+      "hadith_id": 10224,
+      "collection": "Unknown Book 20",
+      "reference_number": 147,
+      "arabicText": "قَالَ سَحْنُونٌ ، قَالَ ابْنُ الْقَاسِمِ ، قَالَ مَالِكٌ : أَحَبُّ مَا جَاءَ فِي وَقْتِ صَلَاةِ الظُّهْرِ إِلَيَّ قَوْلُ عُمَرَ بْنِ الْخَطَّابِ : أَنْ صَلُّوا الظُّهْرَ وَالْفَيْءُ ذِرَاعٌ...",
+      "english_translation": "Sahnun said, Ibn al-Qasim said, Malik said: The most beloved of what has come to me regarding the time of Zuhr prayer is the statement of Umar ibn al-Khattab: That you should pray Zuhr when the shadow is a cubit. Ibn al-Qasim said, Malik said: And most beloved to me is that people pray Zuhr in winter and summer when the shadow is a cubit... And Ibn Umar used to sometimes ride during travel after the shadow becomes a cubit, and travel two or three miles before praying Zuhr. Ibn al-Qasim said: I did not see Malik define the time of Asr as two qamah heights, but rather in what I saw him describe, he used to say: And the sun is white and clear.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jurisprudential discussion citing Umar's practice"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn al-Qasim -> Malik's preference citing Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Malik's jurisprudential preference, citing practices of Umar and Ibn Umar",
+          "impact": "Not a direct hadith chain to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Not Applicable - Jurisprudential Discussion",
+      "Topics": [
+        "Zuhr Prayer Timing",
+        "Shadow Measurement for Prayer Times",
+        "Asr Prayer Timing",
+        "Travel Prayer Practices"
+      ]
+    },
+    {
+      "hadith_id": 10225,
+      "collection": "Unknown Book 20",
+      "reference_number": 148,
+      "arabicText": "قَالَ سَحْنُونٌ ، عن ابْنِ الْقَاسِمِ ، عن مَالِكٍ ، عن نَافِعٍ ، عن ابْنِ عُمَرَ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ كَتَبَ إِلَى عُمَّالِهِ : إِنَّ أَهَمَّ أُمُورِكُمْ عندِي الصَّلَاةُ ، فَمَنْ حَفِظَهَا وَحَافَظَ عَلَيْهَا حَفِظَ دِينَهُ ، وَمَنْ ضَيَّعَهَا فَهُوَ لِمَا سِوَاهَا أَضِيَعُ , ثُمَّ كَتَبَ : أَنْ صَلُّوا الظُّهْرَ إِذَا كَانَ الْفَيْءُ ذِرَاعًا إِلَى أَنْ يَكُونَ ظِلُّ أَحَدِكُمْ مِثْلَهُ ، وَالْعَصْرَ وَالشَّمْسُ مُرْتَفِعَةٌ بَيْضَاءُ نَقِيَّةٌ قَدْرَ مَا يَسِيرُ الرَّاكِبُ فَرْسَخَيْنِ أَوْ ثَلَاثَةً",
+      "english_translation": "Narrated by Ibn Umar: That Umar ibn al-Khattab wrote to his governors: The most important of your affairs to me is prayer, so whoever preserves it and maintains it preserves his religion, and whoever wastes it is more wasting of what is other than it. Then he wrote: That you should pray Zuhr when the shadow is a cubit until the shadow of one of you becomes like his height, and Asr while the sun is elevated, white and clear, about the distance a rider travels two or three farsakh.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi",
+              "grade": "Thiqah",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَتَبَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is the famous 'golden chain' (silsilat al-dhahab): Malik -> Nafi' -> Ibn Umar",
+            "All narrators are highly reliable",
+            "However, transmission term 'an is used by Malik from Nafi' and by Nafi' from Ibn Umar",
+            "Malik is sometimes classified as a mudallis of category 2 by some scholars, though this is debated",
+            "The narration is mawquf (stops at Umar's letter), though it contains reference to the Prophet's ﷺ practice"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn al-Qasim -> Malik -> Nafi' -> Ibn Umar -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik is sometimes classified as doing tadlis by a few scholars, though majority consider him reliable even with 'an",
+          "impact": "The 'golden chain' Malik-Nafi'-Ibn Umar is universally accepted despite the 'an terminology. This is one of the strongest chains in hadith literature."
+        },
+        {
+          "issue": "This is mawquf at Umar - his letter to governors",
+          "impact": "While it's Umar's instruction rather than a direct prophetic hadith, companion practices carry significant weight, especially from Umar who was known for strict adherence to the Sunnah"
+        },
+        {
+          "issue": "The text includes a reference to 'when Jibril established the time for him' but this appears in the surrounding discussion, not the main chain",
+          "impact": "The marfu' element is mentioned but not with a complete chain in this narration"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Importance of Prayer",
+        "Letter of Umar to Governors",
+        "Zuhr Prayer Timing",
+        "Asr Prayer Timing",
+        "Leadership Responsibility for Prayer"
+      ]
+    },
+    {
+      "hadith_id": 10226,
+      "collection": "Unknown Book 20",
+      "reference_number": 149,
+      "arabicText": "مَا جَاءَ فِي الْأَذَانِ وَالْإِقَامَةِ",
+      "english_translation": "This is a chapter heading: What has come regarding the Adhan and Iqamah.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not a hadith with a chain of narration",
+          "impact": "No chain analysis applicable"
+        }
+      ],
+      "IISGrade": "Not Applicable - Chapter Heading",
+      "Topics": [
+        "Adhan and Iqamah"
+      ],
+      "note": "Chapter heading only"
+    },
+    {
+      "hadith_id": 10227,
+      "collection": "Unknown Book 20",
+      "reference_number": 150,
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ قَالَ مَالِكٌ : الْأَذَانُ : اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ، أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ، أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ...",
+      "english_translation": "Ibn al-Qasim said, Malik said: The Adhan is: Allah is Greater, Allah is Greater, I bear witness that there is no deity except Allah (twice), I bear witness that Muhammad is the Messenger of Allah (twice). He said: Then he repeats with a voice higher than his first voice, saying: I bear witness that there is no deity except Allah (twice), I bear witness that Muhammad is the Messenger of Allah (twice). He said: This is Malik's statement regarding raising the voice. Then: Come to prayer (twice), Come to success (twice), Allah is Greater, Allah is Greater, There is no deity except Allah. He said: If the Adhan is for Fajr prayer in travel or residence, he says: Prayer is better than sleep (twice) after 'Come to success'.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jurisprudential instruction from Malik, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik's instruction"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Malik's jurisprudential instruction about how to perform Adhan",
+          "impact": "Not a hadith chain to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Not Applicable - Jurisprudential Discussion",
+      "Topics": [
+        "Adhan Method",
+        "Tarji' in Adhan",
+        "Al-Salatu Khayrun min al-Nawm in Fajr Adhan"
+      ]
+    },
+    {
+      "hadith_id": 10228,
+      "collection": "Unknown Book 20",
+      "reference_number": 151,
+      "arabicText": "قَالَ : وَأَخْبَرَنِي ابْنُ وَهْبٍ ، عن عُثْمَانَ بْنِ الْحَكَمِ ، عن ابْنِ جُرَيْجٍ ، قَالَ : حَدَّثَنِي غَيْرُ وَاحِدٍ مِنْ آلِ أَبِي مَحْذُورَةَ ، أَنَّ أَبَا مَحْذُورَةَ ، قَالَ : قَالَ لِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : اذْهَبْ فَأَذِّنْ عندَ الْمَسْجِدِ الْحَرَامِ , قَالَ : قُلْتُ : كَيْفَ أُؤَذِّنُ يَا رَسُولَ اللَّهِ ؟ قَالَ : فَعَلَّمَنِي الْأُولَى : اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ، أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ، أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ , ثُمَّ قَالَ : ارْجِعْ وَامْدُدْ مِنْ صَوْتِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ، أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ، أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ، حَيَّ عَلَى الصَّلَاةِ ، حَيَّ عَلَى الصَّلَاةِ ، حَيَّ عَلَى الْفَلَاحِ ، حَيَّ عَلَى الْفَلَاحِ ، الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ ، الصَّلَاةُ خَيْرٌ مِنَ النَّوْمِ فِي الْأُولَى مِنَ الصُّبْحِ ، اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ ، لَا إِلَهَ إِلَّا اللَّهُ",
+      "english_translation": "Narrated by Abu Mahdhura: The Messenger of Allah ﷺ said to me: Go and call the Adhan at the Sacred Mosque. He said: I said: How do I call the Adhan, O Messenger of Allah? He said: So he taught me the first: Allah is Greater, Allah is Greater, I bear witness that there is no deity except Allah (twice), I bear witness that Muhammad is the Messenger of Allah (twice). Then he said: Return and extend from your voice: I bear witness that there is no deity except Allah (twice), I bear witness that Muhammad is the Messenger of Allah (twice), Come to prayer (twice), Come to success (twice), Prayer is better than sleep, Prayer is better than sleep in the first of Fajr, Allah is Greater, Allah is Greater, There is no deity except Allah.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Uthman ibn al-Hakam",
+              "full_name": "Uthman ibn al-Hakam ibn Abdullah al-Awqasi al-Juhani",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but not of the highest level"
+              ]
+            },
+            {
+              "name": "Ibn Jurayj",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Umawi al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Famous mudallis of category 3 according to Ibn Hajar",
+                "When he uses 'an it requires scrutiny"
+              ]
+            },
+            {
+              "name": "Ghayr Wahid (more than one)",
+              "full_name": "Ghayr Wahid min Al Abi Mahdhura (Multiple unnamed narrators from the family of Abu Mahdhura)",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": [
+                "Unnamed narrators",
+                "Unknown individuals",
+                "Critical weakness in the chain"
+              ]
+            },
+            {
+              "name": "Abu Mahdhura",
+              "full_name": "Aws ibn Ma'ir ibn Lubdan al-Jumahi (or other opinions on his name)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "CRITICAL ISSUE: 'Ghayr Wahid' (more than one) - unnamed narrators from the family of Abu Mahdhura",
+            "Ibn Jurayj uses 'an from these unnamed narrators after using explicit term 'haddathani'",
+            "Ibn Jurayj is a known mudallis (category 3), and here he narrates from unknown/unnamed sources",
+            "Uthman ibn al-Hakam is Saduq (not Thiqah), which is a lower grade of reliability",
+            "The presence of unnamed narrators creates a significant break in reliability assessment"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Uthman ibn al-Hakam -> Ibn Jurayj -> Unnamed narrators from Abu Mahdhura's family -> Abu Mahdhura -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj is a famous mudallis of category 3 according to Ibn Hajar's classification",
+          "impact": "His narrations with 'an require direct hearing to be accepted. While he uses 'haddathani' (told me) here, he's narrating from unnamed sources which is problematic."
+        },
+        {
+          "issue": "CRITICAL: 'Ghayr Wahid min Al Abi Mahdhura' - unnamed, unknown narrators",
+          "impact": "This creates a major weakness. We don't know who these narrators are, their reliability, or whether they actually heard from Abu Mahdhura. This is Majhul (unknown) status, which severely impacts the chain."
+        },
+        {
+          "issue": "Uthman ibn al-Hakam is graded as Saduq, not Thiqah",
+          "impact": "While he's considered truthful, he's not of the highest reliability level. This adds a minor concern to the overall chain assessment."
+        },
+        {
+          "issue": "The chain has multiple compounding issues: mudallis narrator + unnamed sources + Saduq narrator",
+          "impact": "Each individual issue might be manageable, but together they significantly weaken the chain's reliability."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Abu Mahdhura Learning the Adhan",
+        "Prophet ﷺ Teaching the Adhan",
+        "Adhan at the Sacred Mosque",
+        "Tarji' in Adhan",
+        "Al-Salatu Khayrun min al-Nawm in Fajr"
+      ]
+    },
+    {
+      "hadith_id": 10229,
+      "collection": "Unknown Book 20",
+      "reference_number": 152,
+      "arabicText": "وَأَخْبَرَنِي ابْنُ وَهْبٍ ، قَالَ : بَلَغَنِي عن أَنَسِ بْنِ مَالِكٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِلَالًا أَنْ يَشْفَعَ الْأَذَانَ ، وَيُوتِرَ الْإِقَامَةَ",
+      "english_translation": "Narrated from Anas ibn Malik: That the Messenger of Allah ﷺ ordered Bilal to make the Adhan even (in pairs) and to make the Iqamah odd (singular).",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown narrator(s)",
+              "full_name": "Missing link(s) between Ibn Wahb and Anas",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "Complete disconnection",
+                "Unknown intermediary narrators"
+              ]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "CRITICAL: 'Balaghani' (it reached me) indicates a disconnected chain",
+            "There are missing narrators between Ibn Wahb and Anas ibn Malik",
+            "This is a mursal/balagh narration with unknown intermediaries",
+            "Complete break in the chain of transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -[DISCONNECTION]-> Unknown narrators -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "CRITICAL: 'Balaghani' (it reached me) - explicit statement of disconnection",
+          "impact": "Ibn Wahb admits he didn't receive this directly. The intermediary narrators are unknown, making this a mursal/balagh narration which is weak by definition due to missing links."
+        },
+        {
+          "issue": "Missing link(s) between Ibn Wahb (6th generation) and Anas (Companion)",
+          "impact": "There should be 4-5 generations between them. Not knowing who these narrators are makes it impossible to assess the chain's reliability."
+        },
+        {
+          "issue": "Even if the content is authentic, the chain is broken",
+          "impact": "This hadith cannot be relied upon through this particular chain, though it may have stronger chains in other sources."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Adhan Method",
+        "Iqamah Method",
+        "Bilal as Muezzin",
+        "Even Phrases in Adhan",
+        "Odd Phrases in Iqamah"
+      ]
+    },
+    {
+      "hadith_id": 10230,
+      "collection": "Unknown Book 20",
+      "reference_number": 153,
+      "arabicText": "ابْنُ وَهْبٍ ، عن عَبْدِ اللَّهِ بْنِ عُمَرَ ، عن نَافِعٍ ، عن ابْنِ عُمَرَ ، أَنَّهُ قَالَ : لَيْسَ عَلَى النِّسَاءِ أَذَانٌ وَلَا إِقَامَةٌ",
+      "english_translation": "Narrated by Ibn Umar: He said: There is no Adhan or Iqamah required upon women.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn Hafs al-Umari al-Madani",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Weak narrator",
+                "Not to be confused with Ubaydullah ibn Umar who is Thiqah"
+              ]
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Umar (al-Umari) is Da'if (weak) - this is a major issue",
+            "This Abdullah ibn Umar is NOT the reliable Ubaydullah ibn Umar",
+            "All transmission terms are 'an which could indicate indirect transmission",
+            "The narration is mawquf (stops at Ibn Umar's opinion)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Abdullah ibn Umar (al-Umari - weak) -> Nafi' -> Ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "CRITICAL: Abdullah ibn Umar al-Umari is a weak (Da'if) narrator",
+          "impact": "This is a significant weakness in the chain. He should not be confused with Ubaydullah ibn Umar who is highly reliable. The presence of a weak narrator severely impacts the chain's reliability."
+        },
+        {
+          "issue": "All narrators use 'an transmission terms",
+          "impact": "Potential for indirect transmission, though this is a lesser concern compared to the weak narrator issue"
+        },
+        {
+          "issue": "This is Ibn Umar's opinion (mawquf), not a prophetic statement",
+          "impact": "Even if the chain were sound, this would be a companion's opinion, not a hadith from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Women and Adhan",
+        "Women and Iqamah",
+        "Women's Prayer Obligations",
+        "Ibn Umar's Opinion on Women's Worship"
+      ]
+    }
+  ]
+}

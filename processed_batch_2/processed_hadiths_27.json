@@ -1,0 +1,737 @@
+{
+  "batch_number": 2,
+  "file_number": 27,
+  "processed_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 9391,
+      "hadith_number": 1687,
+      "collection": "Muwatta Malik",
+      "arabic_text": "بَابُ مَا تَقَعُ فِيهِ الشُّفْعَةُ",
+      "english_translation": "Chapter: What Pre-emption (Shuf'ah) Applies To",
+      "chains": [],
+      "plain_chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "topics": [],
+      "reference_number": 1687,
+      "grade": "Chapter Heading",
+      "note": "This is a chapter heading, not a hadith narration"
+    },
+    {
+      "hadith_id": 9392,
+      "hadith_number": 1688,
+      "collection": "Muwatta Malik",
+      "arabic_text": "حَدَّثَنَا يَحْيَى ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، وَعَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" قَضَى بِالشُّفْعَةِ فِيمَا لَمْ يُقْسَمْ بَيْنَ الشُّرَكَاءِ ، فَإِذَا وَقَعَتِ الْحُدُودُ بَيْنَهُمْ فَلَا شُفْعَةَ فِيهِ \" . قَالَ مَالِك : وَعَلَى ذَلِكَ السُّنَّةُ الَّتِي لَا اخْتِلَافَ فِيهَا عِنْدَنَا",
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab and Abu Salamah ibn Abd al-Rahman ibn Awf: The Messenger of Allah ﷺ ruled concerning pre-emption (shuf'ah) in what has not been divided among partners, but when boundaries have been established between them, there is no pre-emption in it. Malik said: This is the sunna upon which there is no disagreement among us.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 3"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah ibn Abd al-Rahman ibn Awf",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "وَعَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal: Sa'id ibn al-Musayyab and Abu Salamah did not hear this directly from the Prophet ﷺ as both are from the Tabi'in generation",
+            "Al-Zuhri uses indirect term 'an (عَنْ) and is classified as mudallis category 3"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab & Abu Salamah ibn Abd al-Rahman -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - Sa'id ibn al-Musayyab and Abu Salamah are Tabi'in and did not meet the Prophet ﷺ",
+          "impact": "This is a mursal hadith. The connection to the Prophet ﷺ is not direct. However, mursal narrations from Sa'id ibn al-Musayyab are considered among the strongest mursal reports by many scholars."
+        },
+        {
+          "issue": "Al-Zuhri is classified as mudallis (category 3) and uses 'an (عَنْ) when narrating from Sa'id ibn al-Musayyab",
+          "impact": "Al-Zuhri is widely considered extremely reliable despite his tadlis. His narrations are generally accepted, but the use of 'an should be noted. The meeting between al-Zuhri and Sa'id ibn al-Musayyab is well-established."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "topics": [
+        "Pre-emption Rights in Shared Property",
+        "Ruling on Pre-emption After Division",
+        "Property Partnership Rules"
+      ],
+      "reference_number": 1688,
+      "grade": "Mursal - Sahih chain to Sa'id and Abu Salamah, but disconnected from Prophet ﷺ"
+    },
+    {
+      "hadith_id": 9393,
+      "hadith_number": 1689,
+      "collection": "Muwatta Malik",
+      "arabic_text": "قَالَ مَالِك : إِنَّهُ بَلَغَهُ ، أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ سُئِلَ عَنِ الشُّفْعَةِ هَلْ فِيهَا مِنْ سُنَّةٍ ؟ فَقَالَ : \" نَعَمْ ، الشُّفْعَةُ فِي الدُّورِ وَالْأَرَضِينَ ، وَلَا تَكُونُ إِلَّا بَيْنَ الشُّرَكَاءِ \" . وَحَدَّثَنِي مَالِك ، أَنَّهُ بَلَغَهُ ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ ، مِثْلُ ذَلِكَ . قَالَ مَالِك ، فِي رَجُلٍ اشْتَرَى شِقْصًا مَعَ قَوْمٍ فِي أَرْضٍ بِحَيَوَانٍ عَبْدٍ أَوْ وَلِيدَةٍ ، أَوْ مَا أَشْبَهَ ذَلِكَ مِنَ الْعُرُوضِ ، فَجَاءَ الشَّرِيكُ يَأْخُذُ بِشُفْعَتِهِ بَعْدَ ذَلِكَ ، فَوَجَدَ الْعَبْدَ أَوِ الْوَلِيدَةَ قَدْ هَلَكَا ، وَلَمْ يَعْلَمْ أَحَدٌ قَدْرَ قِيمَتِهِمَا ، فَيَقُولُ الْمُشْتَرِي : قِيمَةُ الْعَبْدِ أَوِ الْوَلِيدَةِ مِائَةُ دِينَارٍ ، وَيَقُولُ صَاحِبُ الشُّفْعَةِ الشَّرِيكُ : بَلْ قِيمَتُهَا خَمْسُونَ دِينَارًا . قَالَ مَالِك : يَحْلِفُ الْمُشْتَرِي أَنَّ قِيمَةَ مَا اشْتَرَى بِهِ مِائَةُ دِينَارٍ ، ثُمَّ إِنْ شَاءَ أَنْ يَأْخُذَ صَاحِبُ الشُّفْعَةِ أَخَذَ أَوْ يَتْرُكَ ، إِلَّا أَنْ يَأْتِيَ الشَّفِيعُ بِبَيِّنَةٍ أَنَّ قِيمَةَ الْعَبْدِ أَوِ الْوَلِيدَةِ دُونَ مَا قَالَ الْمُشْتَرِي . قَالَ مَالِك : مَنْ وَهَبَ شِقْصًا فِي دَارٍ أَوْ أَرْضٍ مُشْتَرَكَةٍ ، فَأَثَابَهُ الْمَوْهُوبُ لَهُ بِهَا نَقْدًا أَوْ عَرْضًا ، فَإِنَّ الشُّرَكَاءَ يَأْخُذُونَهَا بِالشُّفْعَةِ إِنْ شَاءُوا ، وَيَدْفَعُونَ إِلَى الْمَوْهُوبِ لَهُ قِيمَةَ مَثُوبَتِهِ دَنَانِيرَ أَوْ دَرَاهِمَ",
+      "english_translation": "Narrated that Sa'id ibn al-Musayyab was asked about pre-emption whether there is a sunna concerning it. He said: Yes, pre-emption is in houses and lands, and it only occurs between partners. And it reached Malik from Sulayman ibn Yasar something similar to that. Malik said regarding a man who bought a share with people in land with an animal - a slave or a slave-girl - or something similar to that from goods, then the partner came to take his pre-emption after that, and found the slave or slave-girl had died, and no one knew their value...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["balaghah form - disconnected chain"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Munqati' (disconnected) - Malik uses 'balaghah' (إِنَّهُ بَلَغَهُ) indicating he did not hear this directly",
+            "The intermediary narrators between Malik and Sa'id are not mentioned",
+            "This is a statement (fatwa) of Sa'id ibn al-Musayyab, not a hadith from the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Malik ibn Anas -> (unknown intermediaries) -> Sa'id ibn al-Musayyab (his statement)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Munqati' chain - Malik uses balaghah form (بَلَغَهُ) indicating disconnected transmission",
+          "impact": "The chain is not connected. The intermediary narrators are unknown. This weakens the attribution to Sa'id ibn al-Musayyab, though his reliability is not in question."
+        },
+        {
+          "issue": "This is a statement (mawquf/maqtu') of Sa'id ibn al-Musayyab, not a prophetic hadith",
+          "impact": "This represents the legal opinion (fatwa) of Sa'id ibn al-Musayyab, one of the great Tabi'in jurists. It does not claim to be from the Prophet ﷺ."
+        },
+        {
+          "issue": "Most of the text contains Malik's own legal opinions and rulings",
+          "impact": "The bulk of this entry consists of Imam Malik's jurisprudential positions (fiqh), not transmitted narrations."
+          }
+      ],
+      "IISGrade": "Problematic",
+      "topics": [
+        "Pre-emption in Houses and Lands",
+        "Pre-emption Rights Among Partners",
+        "Legal Rulings on Pre-emption Disputes",
+        "Valuation Disputes in Property Sales",
+        "Pre-emption in Gift Transactions"
+      ],
+      "reference_number": 1689,
+      "grade": "Munqati' - Disconnected chain to Sa'id ibn al-Musayyab, plus jurisprudential opinions"
+    },
+    {
+      "hadith_id": 9394,
+      "hadith_number": 1690,
+      "collection": "Muwatta Malik",
+      "arabic_text": "بَابُ مَا لَا تَقَعُ فِيهِ الشُّفْعَةُ",
+      "english_translation": "Chapter: What Pre-emption Does Not Apply To",
+      "chains": [],
+      "plain_chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "topics": [],
+      "reference_number": 1690,
+      "grade": "Chapter Heading",
+      "note": "This is a chapter heading, not a hadith narration"
+    },
+    {
+      "hadith_id": 9395,
+      "hadith_number": 1691,
+      "collection": "Muwatta Malik",
+      "arabic_text": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ مُحَمَّدِ بْنِ عُمَارَةَ ، عَنْ أَبِي بَكْرِ بْنِ حَزْمٍ ، أَنَّ عُثْمَانَ بْنَ عَفَّانَ ، قَالَ : \" إِذَا وَقَعَتِ الْحُدُودُ فِي الْأَرْضِ ، فَلَا شُفْعَةَ فِيهَا ، وَلَا شُفْعَةَ فِي بِئْرٍ وَلَا فِي فَحْلِ النَّخْلِ \" . قَالَ مَالِك : وَعَلَى هَذَا الْأَمْرُ عِنْدَنَا",
+      "english_translation": "Narrated that Uthman ibn Affan said: When boundaries have been established in land, there is no pre-emption in it, and there is no pre-emption in a well nor in a stud palm. Malik said: This is the practice among us.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Umarah",
+              "full_name": "Muhammad ibn Umarah ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Hazm",
+              "full_name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Uthman ibn Affan",
+              "full_name": "Uthman ibn Affan ibn Abi al-'As ibn Umayyah al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Abu Bakr ibn Hazm uses 'anna' (أَنَّ) which may indicate indirect transmission",
+            "Abu Bakr ibn Hazm was born after Uthman's death, making this mursal (he did not meet Uthman)"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Muhammad ibn Umarah -> Abu Bakr ibn Hazm -> Uthman ibn Affan (mawquf/mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Bakr ibn Hazm (died ~120 AH) did not meet Uthman ibn Affan (died 35 AH)",
+          "impact": "This is a mursal narration. Abu Bakr ibn Hazm was born after Uthman's martyrdom, so there is a missing link in the chain. The statement is attributed to Uthman but the connection is not direct."
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) by Abu Bakr ibn Hazm indicating indirect transmission",
+          "impact": "The term 'anna' often indicates the narrator did not hear directly from the person mentioned, which is consistent with the generational gap."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "topics": [
+        "Pre-emption After Property Division",
+        "Items Excluded from Pre-emption Rights",
+        "Statement of Uthman ibn Affan on Property Law"
+      ],
+      "reference_number": 1691,
+      "grade": "Mursal - Abu Bakr ibn Hazm did not meet Uthman"
+    },
+    {
+      "hadith_id": 9396,
+      "hadith_number": 1692,
+      "collection": "Muwatta Malik",
+      "arabic_text": "بَابُ التَّرْغِيبِ فِي الْقَضَاءِ بِالْحَقِّ",
+      "english_translation": "Chapter: Encouragement to Judge with Truth",
+      "chains": [],
+      "plain_chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "topics": [],
+      "reference_number": 1692,
+      "grade": "Chapter Heading",
+      "note": "This is a chapter heading, not a hadith narration"
+    },
+    {
+      "hadith_id": 9397,
+      "hadith_number": 1693,
+      "collection": "Muwatta Malik",
+      "arabic_text": "حَدَّثَنَا يَحْيَى ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ ، عَنْ أُمِّ سَلَمَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِنَّمَا أَنَا بَشَرٌ ، وَإِنَّكُمْ تَخْتَصِمُونَ إِلَيَّ ، فَلَعَلَّ بَعْضَكُمْ أَنْ يَكُونَ أَلْحَنَ بِحُجَّتِهِ مِنْ بَعْضٍ ، فَأَقْضِيَ لَهُ عَلَى نَحْوِ مَا أَسْمَعُ مِنْهُ ، فَمَنْ قَضَيْتُ لَهُ بِشَيْءٍ مِنْ حَقِّ أَخِيهِ ، فَلَا يَأْخُذَنَّ مِنْهُ شَيْئًا ، فَإِنَّمَا أَقْطَعُ لَهُ قِطْعَةً مِنَ النَّارِ \"",
+      "english_translation": "Narrated by Umm Salamah, the wife of the Prophet ﷺ: The Messenger of Allah ﷺ said: I am only a human being, and you bring your disputes to me. Perhaps some of you are more eloquent in presenting his argument than others, so I judge in his favor according to what I hear from him. So whoever I judge for him something from his brother's right, let him not take anything from it, for I am only cutting for him a piece of the Fire.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zaynab bint Abi Salamah",
+              "full_name": "Zaynab bint Abi Salamah ibn Abd al-Asad al-Makhzumiyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Hind bint Abi Umayyah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plain_chains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Zaynab bint Abi Salamah -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) by multiple narrators in the chain",
+          "impact": "While 'an can indicate potential tadlis, none of these narrators are known for problematic tadlis. The meetings between all narrators in this chain are well-established. Malik from Hisham, Hisham from his father Urwah, and Urwah from Zaynab are all well-documented connections."
+        }
+      ],
+      "IISGrade": "Sound",
+      "topics": [
+        "Limitations of Prophetic Judgment",
+        "Warning Against Taking What Is Not One's Right",
+        "Eloquence in Presenting Arguments",
+        "Prohibition of Unjust Gains Through Legal Rulings",
+        "Punishment for Taking Others' Rights"
+      ],
+      "reference_number": 1693,
+      "grade": "Sahih - This hadith is narrated through the golden chain of Malik and is found in both Sahih al-Bukhari and Sahih Muslim"
+    },
+    {
+      "hadith_id": 9398,
+      "hadith_number": 1694,
+      "collection": "Muwatta Malik",
+      "arabic_text": "وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ \" اخْتَصَمَ إِلَيْهِ مُسْلِمٌ وَيَهُودِيٌّ ، فَرَأَى عُمَرُ أَنَّ الْحَقَّ لِلْيَهُودِيِّ ، فَقَضَى لَهُ . فَقَالَ لَهُ الْيَهُودِيُّ : وَاللَّهِ لَقَدْ قَضَيْتَ بِالْحَقِّ . فَضَرَبَهُ عُمَرُ بْنُ الْخَطَّابِ بِالدِّرَّةِ ، ثُمَّ قَالَ : \" وَمَا يُدْرِيكَ ؟ \" فَقَالَ لَهُ الْيَهُودِيُّ : إِنَّا نَجِدُ أَنَّهُ لَيْسَ قَاضٍ يَقْضِي بِالْحَقِّ ، إِلَّا كَانَ عَنْ يَمِينِهِ مَلَكٌ ، وَعَنْ شِمَالِهِ مَلَكٌ ، يُسَدِّدَانِهِ وَيُوَفِّقَانِهِ لِلْحَقِّ مَا دَامَ مَعَ الْحَقِّ ، فَإِذَا تَرَكَ الْحَقَّ عَرَجَا وَتَرَكَاهُ \"",
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab: A Muslim and a Jew brought a dispute to Umar ibn al-Khattab. Umar saw that the truth was with the Jew, so he judged in his favor. The Jew said to him: By Allah, you have judged with truth. So Umar ibn al-Khattab struck him with a whip, then said: How do you know? The Jew said to him: We find that there is no judge who judges with truth except that there is an angel on his right and an angel on his left, guiding him and directing him to the truth as long as he is with the truth. But when he leaves the truth, they ascend and leave him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Sa'id ibn al-Musayyab did not witness this incident directly as he was young when Umar died"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab -> Umar ibn al-Khattab (mawquf/mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal - Sa'id ibn al-Musayyab likely did not witness this incident firsthand",
+          "impact": "Sa'id ibn al-Musayyab was very young when Umar died (around 15 years old or younger). While he may have heard accounts from Umar, this specific incident is narrated without mentioning his source. Mursal narrations from Sa'id are considered among the strongest mursal reports."
+        },
+        {
+          "issue": "The Jewish man's statement about angels is from non-Islamic sources",
+          "impact": "The hadith includes a claim from Jewish scripture/tradition. This is not problematic for the authenticity of what Umar did (judging fairly), but the theological claim about angels needs to be evaluated separately and is not necessarily confirmed by Islamic sources."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "topics": [
+        "Incident of Umar Judging Between a Muslim and a Jew",
+        "Justice Regardless of Religion",
+        "Angels Accompanying Just Judges",
+        "Umar's Adherence to Truth in Judgment"
+      ],
+      "reference_number": 1694,
+      "grade": "Mursal - Strong chain to Sa'id ibn al-Musayyab, but disconnected from the incident"
+    },
+    {
+      "hadith_id": 9399,
+      "hadith_number": 1695,
+      "collection": "Muwatta Malik",
+      "arabic_text": "بَابُ مَا جَاءَ فِي الشَّهَادَاتِ",
+      "english_translation": "Chapter: What Has Come Concerning Testimonies",
+      "chains": [],
+      "plain_chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "topics": [],
+      "reference_number": 1695,
+      "grade": "Chapter Heading",
+      "note": "This is a chapter heading, not a hadith narration"
+    },
+    {
+      "hadith_id": 9400,
+      "hadith_number": 1696,
+      "collection": "Muwatta Malik",
+      "arabic_text": "حَدَّثَنَا يَحْيَى ، عَنْ مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ ، عَنْ أَبِيهِ ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عُثْمَانَ ، عَنْ أَبِي عَمْرَةَ الْأَنْصَارِيِّ ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" أَلَا أُخْبِرُكُمْ بِخَيْرِ الشُّهَدَاءِ ، الَّذِي يَأْتِي بِشَهَادَتِهِ قَبْلَ أَنْ يُسْأَلَهَا ، أَوْ يُخْبِرُ بِشَهَادَتِهِ قَبْلَ أَنْ يُسْأَلَهَا \"",
+      "english_translation": "Narrated by Zayd ibn Khalid al-Juhani: The Messenger of Allah ﷺ said: Shall I not inform you of the best of witnesses? The one who brings his testimony before he is asked for it, or informs of his testimony before he is asked for it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm",
+              "full_name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Amr ibn Uthman",
+              "full_name": "Abdullah ibn Amr ibn Uthman ibn Affan al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Amrah al-Ansari",
+              "full_name": "Abu Amrah al-Ansari (disputed identity)",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["disputed identity"]
+            },
+            {
+              "name": "Zayd ibn Khalid al-Juhani",
+              "full_name": "Zayd ibn Khalid ibn Abd Rabbih al-Juhani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple narrators use 'an (عَنْ) transmission term",
+            "Abu Amrah al-Ansari's identity is disputed among scholars"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Abdullah ibn Abi Bakr ibn Hazm -> Abu Bakr ibn Muhammad ibn Hazm -> Abdullah ibn Amr ibn Uthman -> Abu Amrah al-Ansari -> Zayd ibn Khalid al-Juhani -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Amrah al-Ansari is a disputed figure with uncertain identity",
+          "impact": "There is scholarly disagreement about who Abu Amrah al-Ansari was. Some identify him as a companion, others suggest he might be a Tabi'i. This uncertainty affects the chain's strength, though the narrator is generally considered acceptable (Saduq)."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) by narrators not known for problematic tadlis",
+          "impact": "While 'an is used multiple times, the narrators in this chain are not known for problematic tadlis, and the connections between them are generally well-established. This is a minor concern."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "topics": [
+        "Best Form of Testimony",
+        "Volunteering Testimony Before Being Asked",
+        "Witness Responsibility in Justice"
+      ],
+      "reference_number": 1696,
+      "grade": "Hasan - Acceptable chain with minor uncertainty about Abu Amrah"
+    },
+    {
+      "hadith_id": 9401,
+      "hadith_number": 1697,
+      "collection": "Muwatta Malik",
+      "arabic_text": "وَحَدَّثَنِي مَالِك ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّهُ قَالَ : قَدِمَ عَلَى عُمَرَ بْنِ الْخَطَّابِ رَجُلٌ مِنْ أَهْلِ الْعِرَاقِ ، فَقَالَ : لَقَدْ جِئْتُكَ لِأَمْرٍ مَا لَهُ رَأْسٌ وَلَا ذَنَبٌ . فَقَالَ عُمَرُ : \" مَا هُوَ ؟ \" قَالَ : شَهَادَاتُ الزُّورِ ظَهَرَتْ بِأَرْضِنَا . فَقَالَ عُمَرُ : \" أَوَ قَدْ كَانَ ذَلِكَ ؟ \" قَالَ : نَعَمْ . فَقَالَ عُمَرُ : \" وَاللَّهِ لَا يُؤْسَرُ رَجُلٌ فِي الْإِسْلَامِ بِغَيْرِ الْعُدُولِ \"",
+      "english_translation": "Narrated that Rabi'ah ibn Abi Abd al-Rahman said: A man from the people of Iraq came to Umar ibn al-Khattab and said: I have come to you about a matter that has no beginning and no end. Umar said: What is it? He said: False testimonies have appeared in our land. Umar said: Has that really happened? He said: Yes. So Umar said: By Allah, no man in Islam shall be bound except by upright witnesses.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Rabi'ah ibn Abi Abd al-Rahman did not meet Umar ibn al-Khattab"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Malik ibn Anas -> Rabi'ah ibn Abi Abd al-Rahman -> (missing link) -> Umar ibn al-Khattab (mawquf/mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal - Rabi'ah ibn Abi Abd al-Rahman (died ~136 AH) did not meet Umar ibn al-Khattab (died 23 AH)",
+          "impact": "There is a clear generational gap. Rabi'ah was born after Umar's death, so he could not have witnessed this incident. The chain is disconnected (munqati'/mursal). The intermediary source is not mentioned."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "topics": [
+        "Incident of Man from Iraq Reporting False Testimonies",
+        "Umar's Response to Spread of False Testimony",
+        "Requirement of Upright Witnesses in Islamic Justice"
+      ],
+      "reference_number": 1697,
+      "grade": "Mursal - Disconnected chain, Rabi'ah did not meet Umar"
+    },
+    {
+      "hadith_id": 9402,
+      "hadith_number": 1698,
+      "collection": "Muwatta Malik",
+      "arabic_text": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، قَالَ : \" لَا تَجُوزُ شَهَادَةُ خَصْمٍ وَلَا ظَنِينٍ \"",
+      "english_translation": "Narrated that it reached Malik that Umar ibn al-Khattab said: The testimony of an adversary (in the case) or a suspected person is not acceptable.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["balaghah form - disconnected"]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Munqati' (disconnected) - Malik uses balaghah form (بَلَغَهُ)",
+            "The intermediary narrators between Malik and Umar are completely unknown"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Malik ibn Anas -> (completely unknown chain) -> Umar ibn al-Khattab (mawquf/munqati')"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Severely disconnected chain - Malik uses balaghah (بَلَغَهُ)",
+          "impact": "The use of 'balaghah' indicates Malik heard this through unspecified intermediaries. The chain is completely broken with no information about the transmitters between Malik and Umar. This significantly weakens the attribution."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "topics": [
+        "Inadmissibility of Testimony from Adversaries",
+        "Inadmissibility of Testimony from Suspected Persons",
+        "Conditions for Acceptable Testimony"
+      ],
+      "reference_number": 1698,
+      "grade": "Munqati' - Severely disconnected chain"
+    },
+    {
+      "hadith_id": 9403,
+      "hadith_number": 1699,
+      "collection": "Muwatta Malik",
+      "arabic_text": "بَابُ الْقَضَاءِ فِي شَهَادَةِ الْمَحْدُودِ",
+      "english_translation": "Chapter: Judgment Concerning the Testimony of One Who Has Been Punished with a Hadd Punishment",
+      "chains": [],
+      "plain_chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "topics": [],
+      "reference_number": 1699,
+      "grade": "Chapter Heading",
+      "note": "This is a chapter heading, not a hadith narration"
+    },
+    {
+      "hadith_id": 9404,
+      "hadith_number": 1700,
+      "collection": "Muwatta Malik",
+      "arabic_text": "قَالَ يَحْيَى : عَنْ مَالِك أَنَّهُ بَلَغَهُ ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ ، وَغَيْرِهِ ، أَنَّهُمْ كَانُوا يَقُولُونَ : \" لَا تَجُوزُ شَهَادَةُ الْمَحْدُودِ فِي الْقَذْفِ أَبَدًا ، وَإِنْ تَابَ \"",
+      "english_translation": "Narrated that it reached Malik from Sulayman ibn Yasar and others that they used to say: The testimony of one who has been punished for false accusation (qadhf) is never acceptable, even if he repents.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["balaghah form - disconnected"]
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "كَانُوا يَقُولُونَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Munqati' - Malik uses balaghah (بَلَغَهُ) indicating indirect transmission",
+            "This is a statement (fatwa) of Sulayman ibn Yasar and others, not a hadith from the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plain_chains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> (unknown intermediaries) -> Sulayman ibn Yasar and others (their statement)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain - Malik uses balaghah form",
+          "impact": "The intermediary narrators between Malik and Sulayman ibn Yasar are not mentioned, making this a munqati' (disconnected) narration."
+        },
+        {
+          "issue": "This is a legal opinion (fatwa) of Tabi'in, not a prophetic hadith",
+          "impact": "This represents the jurisprudential position of Sulayman ibn Yasar and other Tabi'in scholars, not a direct statement from the Prophet ﷺ. It's valuable as an early legal opinion but is maqtu' in nature."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "topics": [
+        "Testimony of Those Punished for False Accusation",
+        "Effect of Repentance on Witness Credibility",
+        "Legal Opinions of Early Scholars on Witness Acceptability"
+      ],
+      "reference_number": 1700,
+      "grade": "Munqati' - Disconnected chain to a statement of Tabi'in"
+    },
+    {
+      "hadith_id": 9405,
+      "hadith_number": 1701,
+      "collection": "Muwatta Malik",
+      "arabic_text": "بَابُ الْقَضَاءِ بِالْيَمِينِ مَعَ الشَّاهِدِ",
+      "english_translation": "Chapter: Judgment with an Oath Along with a Witness",
+      "chains": [],
+      "plain_chains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "topics": [],
+      "reference_number": 1701,
+      "grade": "Chapter Heading",
+      "note": "This is a chapter heading, not a hadith narration"
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "batch_number": 2,
+  "file_number": 64,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9946,
+      "english_translation": "Narrated by Abu Waqid al-Laythi: That the Messenger of Allah ﷺ, while he was sitting in the mosque with people around him, three people approached. Two of them came towards the Messenger of Allah ﷺ and one went away. When they stood at the gathering of the Messenger of Allah ﷺ, they greeted. As for one of them, he saw a gap in the circle and sat in it. As for the other, he sat behind them. As for the third, he turned away and left. When the Messenger of Allah ﷺ finished, he said: 'Shall I not inform you about the three people? As for one of them, he sought refuge with Allah, so Allah gave him refuge. As for the other, he was shy, so Allah was shy towards him. As for the other, he turned away, so Allah turned away from him.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talha",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talha al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Murrah",
+              "full_name": "Abu Murrah mawla Aqil ibn Abi Talib",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Limited narrations, primarily known through this chain"
+              ]
+            },
+            {
+              "name": "Abu Waqid al-Laythi",
+              "full_name": "al-Harith ibn Awf ibn al-Harith al-Laythi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'an (عَنْ) throughout the chain",
+            "Abu Murrah is a less well-known narrator with limited documentation"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ishaq ibn Abdullah ibn Abi Talha -> Abu Murrah -> Abu Waqid al-Laythi -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Murrah (mawla of Aqil) is a narrator with limited documentation. He is classified as Maqbul (acceptable when corroborated).",
+          "impact": "This narrator has few narrations and limited scholarly assessment. While not explicitly weakened, the lack of extensive documentation affects chain strength."
+        },
+        {
+          "issue": "Consecutive use of 'an (عَنْ) transmission terms throughout the chain",
+          "impact": "While none of the narrators in this chain are classified as major mudallis, the consistent use of 'an throughout creates potential for undetected gaps in transmission, though this is mitigated by the overall reliability of Malik and his direct student Ishaq ibn Abdullah."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of three men entering the Prophet's ﷺ gathering",
+        "Etiquette of attending gatherings",
+        "Divine response to human actions",
+        "Modesty and shyness in Islam"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ L952 /94 ، عَنْ /26 أَبِي مُرَّةَ L8496 /26 مَوْلَى عَقِيلِ بْنِ أَبِي طَالِبٍ ، /27 عَنْ /93 أَبِي وَاقِدٍ اللَّيْثِيِّ L6257 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَمَا هُوَ جَالِسٌ فِي الْمَسْجِدِ وَالنَّاسُ مَعَهُ ، إِذْ أَقْبَلَ نَفَرٌ ثَلَاثَةٌ ، فَأَقْبَلَ اثْنَانِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَذَهَبَ وَاحِدٌ ، فَلَمَّا وَقَفَا عَلَى مَجْلِسِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَلَّمَا ، فَأَمَّا أَحَدُهُمَا فَرَأَى فُرْجَةً فِي الْحَلْقَةِ فَجَلَسَ فِيهَا وَأَمَّا الْآخَرُ فَجَلَسَ خَلْفَهُمْ وَأَمَّا الثَّالِثُ فَأَدْبَرَ ذَاهِبًا ، فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" أَلَا أُخْبِرُكُمْ عَنِ النَّفَرِ الثَّلَاثَةِ : أَمَّا أَحَدُهُمْ فَأَوَى إِلَى اللَّهِ فَآوَاهُ اللَّهُ ، وَأَمَّا الْآخَرُ فَاسْتَحْيَا فَاسْتَحْيَا اللَّهُ مِنْهُ ، وَأَمَّا الْآخَرُ فَأَعْرَضَ فَأَعْرَضَ اللَّهُ عَنْهُ \" /27 * \r\n$1729  1732 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2242,
+      "grade": null
+    },
+    {
+      "hadith_id": 9947,
+      "english_translation": "Narrated by Anas ibn Malik: That he heard Umar ibn al-Khattab when a man greeted him, and he returned the greeting. Then Umar asked the man: 'How are you?' He said: 'I praise Allah to you.' So Umar said: 'That is what I wanted from you.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talha",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talha al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ishaq ibn Abdullah ibn Abi Talha -> Anas ibn Malik -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the Companion level, not reaching the Prophet ﷺ)",
+          "impact": "While the chain to Umar is sound, this represents the statement of Umar, not the Prophet ﷺ. It shows Companion practice but is not a Prophetic hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Etiquette of greeting and responding to greetings",
+        "Incident of Umar asking about someone's well-being",
+        "Praising Allah when asked about one's condition"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ L952 /94 ، عَنْ /93 أَنَسِ بْنِ مَالِكٍ L720 /93 ، /27 أَنَّهُ سَمِعَ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 وَسَلَّمَ عَلَيْهِ رَجُلٌ فَرَدَّ عَلَيْهِ السَّلَامَ ، ثُمَّ سَأَلَ عُمَرُ الرَّجُلَ : \" كَيْفَ أَنْتَ ؟ \" فَقَالَ : أَحْمَدُ إِلَيْكَ اللَّهَ ، فَقَالَ عُمَرُ : /20 \" ذَلِكَ الَّذِي أَرَدْتُ مِنْكَ \" /27 * \r\n$1730  1733 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2243,
+      "grade": null
+    },
+    {
+      "hadith_id": 9948,
+      "english_translation": "Narrated by Abdullah ibn Umar: That the Messenger of Allah ﷺ said: 'When one of you eats, let him eat with his right hand, and when he drinks, let him drink with his right hand. For indeed Satan eats with his left hand and drinks with his left hand.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Etiquette of eating and drinking",
+        "Using the right hand for eating and drinking",
+        "Actions of Satan"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ L952 /94 ، أَنَّ /26 الطُّفَيْلَ بْنَ أُبَيِّ بْنِ كَعْبٍ L1500 /26 أَخْبَرَهُ ، أَنَّهُ /27 كَانَ يَأْتِي عَبْدَ اللَّهِ بْنَ عُمَرَ فَيَغْدُو مَعَهُ إِلَى السُّوقِ ، قَالَ : فَإِذَا غَدَوْنَا إِلَى السُّوقِ لَمْ يَمُرَّ عَبْدُ اللَّهِ بْنُ عُمَرَ عَلَى سَقَاطٍ وَلَا صَاحِبِ بِيعَةٍ وَلَا مِسْكِينٍ وَلَا أَحَدٍ إِلَّا سَلَّمَ عَلَيْهِ ، قَالَ الطُّفَيْلُ : فَجِئْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ يَوْمًا فَاسْتَتْبَعَنِي إِلَى السُّوقِ ، فَقُلْتُ لَهُ : وَمَا تَصْنَعُ فِي السُّوقِ ، وَأَنْتَ لَا تَقِفُ عَلَى الْبَيِّعِ ، وَلَا تَسْأَلُ عَنِ السِّلَعِ ، وَلَا تَسُومُ بِهَا ، وَلَا تَجْلِسُ فِي مَجَالِسِ السُّوقِ ؟ قَالَ وَأَقُولُ : اجْلِسْ بِنَا هَاهُنَا نَتَحَدَّثُ ، قَالَ : فَقَالَ لِي /93 عَبْدُ اللَّهِ بْنُ عُمَرَ L4967 /93 : \" يَا أَبَا بَطْنٍ /23 وَكَانَ الطُّفَيْلُ ذَا بَطْنٍ /23 ، /20 إِنَّمَا نَغْدُو مِنْ أَجْلِ السَّلَامِ نُسَلِّمُ عَلَى مَنْ لَقِيَنَا \" /27 * \r\n$1731  1734 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2244,
+      "grade": null
+    },
+    {
+      "hadith_id": 9949,
+      "english_translation": "Narrated by Abdullah ibn Umar: That the Messenger of Allah ﷺ said: 'None of you should eat with his left hand, nor drink with his left hand. For indeed Satan eats with his left hand and drinks with his left hand.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) transmission term throughout, though none of these narrators are known as major mudallis",
+          "impact": "Minimal impact as this is one of the strongest chains in hadith literature (the golden chain through Malik). All narrators are highly reliable."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Etiquette of eating and drinking",
+        "Prohibition of eating and drinking with the left hand",
+        "Actions of Satan"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ رَجُلًا سَلَّمَ عَلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ، فَقَالَ : السَّلَامُ عَلَيْكَ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ وَالْغَادِيَاتُ وَالرَّائِحَاتُ ، فَقَالَ لَهُ /93 عَبْدُ اللَّهِ بْنُ عُمَرَ L4967 /93 : /20 \" وَعَلَيْكَ أَلْفًا \" ، ثُمَّ كَأَنَّهُ كَرِهَ ذَلِكَ /27 . وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، أَنَّهُ بَلَغَهُ : إِذَا دُخِلَ الْبَيْتُ غَيْرُ الْمَسْكُونِ ، يُقَالُ : السَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ * \r\n$E502 /1 كِتَابُ الْاسْتِئْذَانِ /1",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2245,
+      "grade": null
+    },
+    {
+      "hadith_id": 9950,
+      "english_translation": "Narrated by Amr ibn Shu'ayb, from his father, from his grandfather: That a man came to the Prophet ﷺ and said: 'O Messenger of Allah, I have property and children, and my father takes from my property.' He said: 'You and your property belong to your father. Indeed, your children are from the best of your earnings, so eat from their earnings.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Classified as mudallis (category 3) by some scholars"
+              ]
+            },
+            {
+              "name": "Amr ibn Shu'ayb",
+              "full_name": "Amr ibn Shu'ayb ibn Muhammad ibn Abdullah ibn Amr ibn al-'As",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "The chain 'Amr from his father from his grandfather' has scholarly debate about its authenticity"
+              ]
+            },
+            {
+              "name": "Shu'ayb ibn Muhammad",
+              "full_name": "Shu'ayb ibn Muhammad ibn Abdullah ibn Amr ibn al-'As",
+              "grade": "Maqbul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Limited biographical information available"
+              ]
+            },
+            {
+              "name": "Abdullah ibn Amr ibn al-'As",
+              "full_name": "Abdullah ibn Amr ibn al-'As al-Sahmi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The famous chain 'Amr ibn Shu'ayb from his father from his grandfather' is debated among scholars",
+            "Use of 'an throughout, including from al-Zuhri who is known for tadlis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab al-Zuhri -> Amr ibn Shu'ayb -> Shu'ayb ibn Muhammad -> Abdullah ibn Amr ibn al-'As -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 according to some scholars) and is using 'an (عَنْ)",
+          "impact": "Al-Zuhri is generally considered extremely reliable by the vast majority of scholars despite his occasional tadlis. His narrations are typically accepted even with 'an. However, this should be noted as a potential minor issue."
+        },
+        {
+          "issue": "The chain 'Amr ibn Shu'ayb from his father from his grandfather' is a famous but debated chain formula",
+          "impact": "This specific chain structure has been extensively discussed by hadith scholars. While Amr ibn Shu'ayb is generally considered Saduq (truthful), there's ambiguity about whether 'grandfather' refers to Abdullah ibn Amr or to an intermediary. Many scholars grade such narrations as Hasan (acceptable) but requiring corroboration."
+        },
+        {
+          "issue": "Shu'ayb ibn Muhammad (Amr's father) has limited biographical documentation",
+          "impact": "The middle link in this famous chain has sparse biographical information, contributing to scholarly caution about this transmission path."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of a man complaining about his father taking from his wealth",
+        "Rights of parents over children's property",
+        "Relationship between parents and children regarding wealth",
+        "Father's right to use his child's earnings"
+      ],
+      "arabicText": "بَابُ الْاسْتِئْذَانِ",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2246,
+      "grade": null
+    },
+    {
+      "hadith_id": 9951,
+      "english_translation": "Narrated by Aisha, the wife of the Prophet ﷺ: That the Messenger of Allah ﷺ used to pray eleven rak'ahs between when he prayed Isha until dawn. He would make salam after every two rak'ahs and would pray Witr with one rak'ah.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Classified as mudallis (category 3) by some scholars"
+              ]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab al-Zuhri -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 by some scholars) and is using 'an (عَنْ)",
+          "impact": "Al-Zuhri is generally considered extremely reliable by the vast majority of scholars despite his occasional tadlis. His narrations from Urwah are particularly strong as Urwah was one of his most frequent teachers. This issue is noted for completeness but has minimal practical impact."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Description of the Prophet's ﷺ night prayer",
+        "Method of praying Witr",
+        "Number of rak'ahs in night prayer"
+      ],
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 صَفْوَانَ بْنِ سُلَيْمٍ L3938 /94 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَأَلَهُ رَجُلٌ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، أَسْتَأْذِنُ عَلَى أُمِّي ؟ فَقَالَ : \" نَعَمْ \" ، قَالَ الرَّجُلُ : إِنِّي مَعَهَا فِي الْبَيْتِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" اسْتَأْذِنْ عَلَيْهَا \" ، فَقَالَ الرَّجُلُ : إِنِّي خَادِمُهَا ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" اسْتَأْذِنْ عَلَيْهَا ، أَتُحِبُّ أَنْ تَرَاهَا عُرْيَانَةً ؟ \" قَالَ : لَا ، قَالَ : \" فَاسْتَأْذِنْ عَلَيْهَا \" /27 * \r\n$1733  1736 /2",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2247,
+      "grade": null
+    },
+    {
+      "hadith_id": 9952,
+      "english_translation": "Narrated by Abdullah ibn Abbas: That he spent a night at the house of his maternal aunt Maymunah, the wife of the Prophet ﷺ. He said: I lay down across the bed, and the Messenger of Allah ﷺ and his wife lay lengthwise along the bed. The Messenger of Allah ﷺ slept until midnight or a bit before or after it. Then the Messenger of Allah ﷺ woke up and began to wipe the sleep from his face with his hand. Then he recited the last ten verses of Surah Al-Imran. Then he got up to a hanging water-skin and performed ablution from it, performing ablution well. Then he stood and prayed.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Makhramah ibn Sulayman",
+              "full_name": "Makhramah ibn Sulayman ibn Haythama al-Walidi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Kurayb",
+              "full_name": "Kurayb ibn Abi Muslim mawla Ibn Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Makhramah ibn Sulayman -> Kurayb -> Abdullah ibn Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) throughout the chain",
+          "impact": "While all narrators are reliable and none are known as major mudallis, the consistent use of 'an creates potential for undetected gaps. However, this is a well-known hadith with strong corroboration."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Ibn Abbas spending the night at his aunt Maymunah's house",
+        "Description of the Prophet's ﷺ night prayer routine",
+        "Method of waking for night prayer",
+        "Recitation of Quran before prayer",
+        "Description of the Prophet's ﷺ ablution"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 الثِّقَةِ L1131 /94 عِنْدَهُ ، عَنْ /26 بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الْأَشَجِّ L1951 /26 ، عَنْ /26 بُسْرِ بْنِ سَعِيدٍ L1848 /26 ، عَنْ /93 أَبِي سَعِيدٍ الْخُدْرِيِّ L3260 /93 ، /27 عَنْ /93 أَبِي مُوسَى الْأَشْعَرِيِّ L5021 /93 ، أَنَّهُ قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" الْاسْتِئْذَانُ ثَلَاثٌ ، فَإِنْ أُذِنَ لَكَ فَادْخُلْ ، وَإِلَّا فَارْجِعْ \" /27 * \r\n$1734  1737 /2",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2248,
+      "grade": null
+    },
+    {
+      "hadith_id": 9953,
+      "english_translation": "Narrated by Abu Hurayrah: That the Messenger of Allah ﷺ said: 'When the Imam says 'Amin', then say 'Amin', for whoever's 'Amin' coincides with the 'Amin' of the angels, his previous sins will be forgiven.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sumayy",
+              "full_name": "Sumayy mawla Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salih al-Samman",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayat al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Sumayy -> Abu Salih al-Samman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Saying 'Amin' after the Imam in prayer",
+        "Forgiveness of sins through saying 'Amin' with angels",
+        "Angels saying 'Amin' during prayer"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ L2885 /94 ، عَنْ /18 /26 غَيْرِ وَاحِدٍ L1131 /26 /18 مِنْ عُلَمَائِهِمْ : أَنَّ /93 أَبَا مُوسَى الْأَشْعَرِيَّ L5021 /93 جَاءَ يَسْتَأْذِنُ عَلَى عُمَرَ بْنِ الْخَطَّابِ فَاسْتَأْذَنَ ثَلَاثًا ثُمَّ رَجَعَ ، فَأَرْسَلَ عُمَرُ بْنُ الْخَطَّابِ فِي أَثَرِهِ ، فَقَالَ : مَا لَكَ لَمْ تَدْخُلْ ؟ فَقَالَ /27 سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : /20 \" الْاسْتِئْذَانُ ثَلَاثٌ ، فَإِنْ أُذِنَ لَكَ فَادْخُلْ ، وَإِلَّا فَارْجِعْ \" /27 . فَقَالَ عُمَرُ : وَمَنْ يَعْلَمُ هَذَا ؟ لَئِنْ لَمْ تَأْتِنِي بِمَنْ يَعْلَمُ ذَلِكَ ، لَأَفْعَلَنَّ بِكَ كَذَا وَكَذَا ، فَخَرَجَ أَبُو مُوسَى حَتَّى جَاءَ مَجْلِسًا فِي الْمَسْجِدِ يُقَالُ لَهُ مَجْلِسُ الْأَنْصَارِ ، فَقَالَ : إِنِّي أَخْبَرْتُ عُمَرَ بْنَ الْخَطَّابِ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : \" الْاسْتِئْذَانُ ثَلَاثٌ ، فَإِنْ أُذِنَ لَكَ فَادْخُلْ ، وَإِلَّا فَارْجِعْ \" ، فَقَالَ : لَئِنْ لَمْ تَأْتِنِي بِمَنْ يَعْلَمُ هَذَا لَأَفْعَلَنَّ بِكَ كَذَا وَكَذَا ، فَإِنْ كَانَ سَمِعَ ذَلِكَ أَحَدٌ مِنْكُمْ فَلْيَقُمْ مَعِي ، فَقَالُوا /15 /93 لِأَبِي سَعِيدٍ الْخُدْرِيِّ L3260 /93 /15 : قُمْ مَعَهُ ، وَكَانَ أَبُو سَعِيدٍ أَصْغَرَهُمْ ، فَقَامَ مَعَهُ فَأَخْبَرَ بِذَلِكَ عُمَرَ بْنَ الْخَطَّابِ ، فَقَالَ عُمَرُ بْنُ الْخَطَّابِ ، لِأَبِي مُوسَى : أَمَا إِنِّي لَمْ أَتَّهِمْكَ ، وَلَكِنْ خَشِيتُ أَنْ يَتَقَوَّلَ النَّاسُ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ * \r\n)E503",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2249,
+      "grade": null
+    },
+    {
+      "hadith_id": 9954,
+      "english_translation": "Narrated by Abu Hurayrah: That the Messenger of Allah ﷺ said: 'When one of you says 'Amin' and the angels in the sky say 'Amin', and one coincides with the other, his previous sins will be forgiven.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Saying 'Amin' in prayer",
+        "Angels saying 'Amin'",
+        "Forgiveness of sins through coinciding with angels' 'Amin'"
+      ],
+      "arabicText": "بَابُ التَّشْمِيتِ فِي الْعُطَاسِ",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2250,
+      "grade": null
+    },
+    {
+      "hadith_id": 9955,
+      "english_translation": "Narrated by Abu Hurayrah: That the Messenger of Allah ﷺ said: 'Say 'Amin' when the Imam says 'Amin', for indeed the angels say 'Amin', and whoever's 'Amin' coincides with the 'Amin' of the angels, his previous sins will be forgiven.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Classified as mudallis (category 3) by some scholars"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 by some scholars) and is using 'an (عَنْ)",
+          "impact": "Al-Zuhri is generally considered extremely reliable by the vast majority of scholars despite his occasional tadlis. His narrations from Sa'id ibn al-Musayyab are particularly strong as Sa'id was one of his primary teachers. This issue is noted for completeness but has minimal practical impact."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Saying 'Amin' when the Imam says it",
+        "Angels saying 'Amin'",
+        "Forgiveness of sins through saying 'Amin'"
+      ],
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ L4632 /94 ، عَنْ /26 أَبِيهِ L133 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" إِنْ عَطَسَ فَشَمِّتْهُ ، ثُمَّ إِنْ عَطَسَ فَشَمِّتْهُ ، ثُمَّ إِنْ عَطَسَ فَشَمِّتْهُ ، ثُمَّ إِنْ عَطَسَ فَقُلْ : إِنَّكَ مَضْنُوكٌ \" /27 . قَالَ عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ : لَا أَدْرِي أَبَعْدَ الثَّالِثَةِ أَوِ الرَّابِعَةِ * \r\n$1736  1739 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2251,
+      "grade": null
+    },
+    {
+      "hadith_id": 9956,
+      "english_translation": "Narrated by Abu Musa al-Ash'ari: That the Messenger of Allah ﷺ said: 'The likeness of a good companion and a bad companion is like that of the bearer of musk and the blower of bellows. As for the bearer of musk, either he will give you some, or you will buy from him, or you will smell a pleasant fragrance from him. And as for the blower of bellows, either he will burn your clothes, or you will smell an unpleasant odor from him.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd ibn Qays al-Makki",
+              "full_name": "Humayd ibn Qays al-A'raj al-Makki",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered truthful but not of the highest level of precision"
+              ]
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Musa al-Ash'ari",
+              "full_name": "Abdullah ibn Qays ibn Sulaym al-Ash'ari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Humayd ibn Qays al-Makki -> Mujahid -> Abu Musa al-Ash'ari -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Humayd ibn Qays al-Makki is graded as Saduq (truthful) rather than Thiqah",
+          "impact": "While Humayd is considered truthful, he is not at the highest level of precision (dabt). This slightly affects the chain strength, though it remains acceptable. Some scholars have minor reservations about his narrations."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Parable of good and bad companionship",
+        "Comparison between good companion and musk bearer",
+        "Comparison between bad companion and bellows blower",
+        "Influence of companions on a person"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ عُمَرَ L4967 /93 كَانَ إِذَا عَطَسَ ، فَقِيلَ لَهُ : يَرْحَمُكَ اللَّهُ ، قَالَ : /20 \" يَرْحَمُنَا اللَّهُ وَإِيَّاكُمْ وَيَغْفِرُ لَنَا وَلَكُمْ \" /27 *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2252,
+      "grade": null
+    },
+    {
+      "hadith_id": 9957,
+      "english_translation": "Narrated by Safwan ibn Sulaym, from several Companions of the Prophet ﷺ: That the Messenger of Allah ﷺ said: 'Beware! Whoever wrongs a mu'ahid (one with whom there is a covenant), or diminishes his right, or burdens him beyond his capacity, or takes something from him without his consent, I will be his opponent on the Day of Resurrection.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safwan ibn Sulaym",
+              "full_name": "Safwan ibn Sulaym al-Zuhri al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Several Companions",
+              "full_name": "Multiple Companions (unnamed)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "",
+              "reliabilityIssues": [
+                "The specific Companions are not named in this narration"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "The Companions from whom Safwan narrated are not specifically named"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Zayd ibn Aslam -> Safwan ibn Sulaym -> Several unnamed Companions -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The specific Companions who narrated this to Safwan ibn Sulaym are not named",
+          "impact": "While Safwan ibn Sulaym is considered reliable and the narration mentions 'several Companions', the lack of specific names introduces ambiguity. This is similar to a mursal hadith but with the added note that multiple Companions conveyed it, which strengthens it somewhat compared to a typical mursal."
+        },
+        {
+          "issue": "Use of 'an (عَنْ) throughout the chain",
+          "impact": "While the narrators are reliable, the consistent use of 'an creates potential for undetected gaps in transmission."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Rights of those under covenant protection (mu'ahid)",
+        "Prohibition of wronging non-Muslims under protection",
+        "Warning against overburdening those under covenant",
+        "Prohibition of taking property without consent",
+        "The Prophet ﷺ as advocate on Day of Judgment for the wronged"
+      ],
+      "arabicText": "بَابُ مَا جَاءَ فِي الصُّوَرِ وَالتَّمَاثِيلِ",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2253,
+      "grade": null
+    },
+    {
+      "hadith_id": 9958,
+      "english_translation": "Narrated by Abdullah ibn Umar: That the Messenger of Allah ﷺ cut off the hand of a thief who stole a shield, whose price was three dirhams.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of theft of a shield",
+        "Application of hadd punishment for theft",
+        "Minimum value for cutting hand in theft (three dirhams)"
+      ],
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ L952 /94 ، أَنَّ /26 رَافِعَ بْنَ إِسْحَاق L2862 /26 مَوْلَى الشِّفَاءِ أَخْبَرَهُ ، قَالَ : دَخَلْتُ أَنَا وَعَبْدُ اللَّهِ بْنُ أَبِي طَلْحَةَ عَلَى أَبِي سَعِيدٍ الْخُدْرِيِّ نَعُودُهُ ، /27 فَقَالَ لَنَا /93 أَبُو سَعِيدٍ L3260 /93 : أَخْبَرَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَنَّ /20 \" الْمَلَائِكَةَ لَا تَدْخُلُ بَيْتًا فِيهِ تَمَاثِيلُ أَوْ تَصَاوِيرُ \" /27 . شَكَّ إِسْحَاق لَا يَدْرِي أَيَّتَهُمَا قَالَ أَبُو سَعِيدٍ ؟ * \r\n$1738  1741 /2",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2254,
+      "grade": null
+    },
+    {
+      "hadith_id": 9959,
+      "english_translation": "Narrated by Aisha, the wife of the Prophet ﷺ: That the Messenger of Allah ﷺ said: 'The hand is not cut except for a quarter of a dinar and upwards.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amrah bint Abd al-Rahman",
+              "full_name": "Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm -> Amrah bint Abd al-Rahman -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Minimum threshold for theft punishment",
+        "Cutting the hand for theft of a quarter dinar or more"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 أَبِي النَّضْرِ L3181 /94 ، عَنْ /26 عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ L5409 /26 ، /27 أَنَّهُ دَخَلَ عَلَى /93 أَبِي طَلْحَةَ الْأَنْصَارِيِّ L3142 /93 يَعُودُهُ ، قَالَ : فَوَجَدَ عِنْدَهُ سَهْلَ بْنَ حُنَيْفٍ فَدَعَا أَبُو طَلْحَةَ إِنْسَانًا فَنَزَعَ نَمَطًا مِنْ تَحْتِهِ ، فَقَالَ لَهُ سَهْلُ بْنُ حُنَيْفٍ : لِمَ تَنْزِعُهُ ؟ قَالَ : /20 \" لِأَنَّ فِيهِ تَصَاوِيرَ \" ، وَقَدْ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِيهَا مَا قَدْ عَلِمْتَ ، فَقَالَ /15 /93 سَهْلٌ L3671 /93 /15 : أَلَمْ يَقُلْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِلَّا مَا كَانَ رَقْمًا فِي ثَوْبٍ \" ، قَالَ : بَلَى وَلَكِنَّهُ أَطْيَبُ لِنَفْسِي /27 * \r\n$1739  1742 /2",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2255,
+      "grade": null
+    },
+    {
+      "hadith_id": 9960,
+      "english_translation": "Narrated by Abdullah ibn Abbas: That the Messenger of Allah ﷺ said: 'There is no contagious disease, no bad omen, and no owl. If there is evil in anything, it is in the woman, the horse, and the dwelling.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Classified as mudallis (category 3) by some scholars"
+              ]
+            },
+            {
+              "name": "Ubaydullah ibn Abdullah ibn Utbah",
+              "full_name": "Ubaydullah ibn Abdullah ibn Utbah ibn Mas'ud al-Hudhali",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abdullah ibn Abi Bakr ibn Hazm -> Ibn Shihab al-Zuhri -> Ubaydullah ibn Abdullah ibn Utbah -> Abdullah ibn Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 by some scholars) and is using 'an (عَنْ)",
+          "impact": "Al-Zuhri is generally considered extremely reliable by the vast majority of scholars despite his occasional tadlis. His narrations from Ubaydullah ibn Abdullah are strong. This issue is noted for completeness but has minimal practical impact."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Negation of contagious disease as independent cause",
+        "Negation of bad omens and superstitions",
+        "Mention of potential harm in women, horses, and dwellings"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، عَنْ /26 الْقَاسِمِ بْنِ مُحَمَّدٍ L1598 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَنَّهَا اشْتَرَتْ نُمْرُقَةً فِيهَا تَصَاوِيرُ ، فَلَمَّا رَآهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَامَ عَلَى الْبَاب فَلَمْ يَدْخُلْ ، فَعَرَفَتْ فِي وَجْهِهِ الْكَرَاهِيَةَ ، وَقَالَتْ : يَا رَسُولَ اللَّهِ ، أَتُوبُ إِلَى اللَّهِ وَإِلَى رَسُولِهِ فَمَاذَا أَذْنَبْتُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" فَمَا بَالُ هَذِهِ النُّمْرُقَةِ ؟ \" قَالَتْ : اشْتَرَيْتُهَا لَكَ تَقْعُدُ عَلَيْهَا وَتَوَسَّدُهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ /20 أَصْحَابَ هَذِهِ الصُّوَرِ يُعَذَّبُونَ يَوْمَ الْقِيَامَةِ ، يُقَالُ لَهُمْ : أَحْيُوا مَا خَلَقْتُمْ ، ثُمَّ قَالَ : إِنَّ الْبَيْتَ الَّذِي فِيهِ الصُّوَرُ لَا تَدْخُلُهُ الْمَلَائِكَةُ \" /27 * \r\n#E504",
+      "collection": "كتاب رقم 19",
+      "reference_number": 2256,
+      "grade": null
+    }
+  ]
+}

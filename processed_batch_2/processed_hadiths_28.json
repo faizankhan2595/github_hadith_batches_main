@@ -1,0 +1,671 @@
+{
+  "batch_number": 2,
+  "file_number": 28,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 9406,
+      "original_number": 1702,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Narrated by Yahya from Malik, from Ja'far ibn Muhammad, from his father: That the Messenger of Allah ﷺ judged with an oath along with a witness.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ja'far ibn Muhammad",
+              "full_name": "Ja'far ibn Muhammad ibn Ali ibn al-Husayn ibn Ali ibn Abi Talib",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad al-Baqir",
+              "full_name": "Muhammad ibn Ali ibn al-Husayn ibn Ali ibn Abi Talib",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The chain is mursal (disconnected) as it does not reach the Prophet ﷺ directly from Muhammad al-Baqir who is a Tabi'i and did not meet the Prophet",
+            "Use of 'anna' (أَنَّ) indicates indirect transmission or lack of direct hearing"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ja'far ibn Muhammad -> Muhammad al-Baqir (his father) -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal (disconnected) chain as Muhammad al-Baqir (d. 114 AH) was a Tabi'i who never met the Prophet ﷺ",
+          "impact": "The chain is disconnected between Muhammad al-Baqir and the Prophet ﷺ, making this a mursal hadith which is considered weak in transmission"
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) instead of explicit hearing terms indicates indirect transmission",
+          "impact": "Suggests the report may not be based on direct hearing, weakening the transmission"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Judicial Ruling with Oath and Single Witness",
+        "Court Procedures and Evidence"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ ، عَنْ أَبِيهِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَضَى بِالْيَمِينِ مَعَ الشَّاهِدِ"
+    },
+    {
+      "hadith_id": 9407,
+      "original_number": 1703,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "From Malik, from Abu al-Zinad: That Umar ibn Abdul Aziz wrote to Abdul Hamid ibn Abdul Rahman ibn Zayd ibn al-Khattab while he was a governor over Kufa: Judge with an oath along with a witness.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Abdul Aziz",
+              "full_name": "Umar ibn Abdul Aziz ibn Marwan ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "كَتَبَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'anna' (أَنَّ) indicates indirect transmission or lack of direct hearing from Umar ibn Abdul Aziz"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu al-Zinad -> Umar ibn Abdul Aziz"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stopped at the level of a Tabi'i, Umar ibn Abdul Aziz, not reaching the Prophet ﷺ)",
+          "impact": "This is not a prophetic hadith but a statement/action of Umar ibn Abdul Aziz, useful for understanding early Islamic judicial practice but not directly attributable to the Prophet"
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) suggests indirect transmission",
+          "impact": "Abu al-Zinad may not have directly witnessed or heard this from Umar ibn Abdul Aziz"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Judicial Practice of Umar ibn Abdul Aziz",
+        "Ruling with Oath and Witness"
+      ],
+      "arabicText": "وَعَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ كَتَبَ إِلَى عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ وَهُوَ عَامِلٌ عَلَى الْكُوفَةِ : أَنْ اقْضِ بِالْيَمِينِ مَعَ الشَّاهِدِ"
+    },
+    {
+      "hadith_id": 9408,
+      "original_number": 1704,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Malik narrated to me that it reached him: That Abu Salamah ibn Abdul Rahman and Sulayman ibn Yasar were asked: 'Is judgment given with an oath along with a witness?' They said: 'Yes.' Malik said: 'The Sunnah has been established regarding judging with an oath along with a single witness, the claimant swears with his witness and establishes his right. If he refuses to swear, the defendant is made to swear. If he swears, that right falls from him. If he refuses to swear, the right is established against him for its owner.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah ibn Abdul Rahman",
+              "full_name": "Abu Salamah ibn Abdul Rahman ibn Awf al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "سُئِلَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal/mu'dal chain as Malik says 'it reached him' (بَلَغَهُ) without naming the intermediary narrators",
+            "The transmission is disconnected between Malik and Abu Salamah/Sulayman ibn Yasar"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (it reached him, mursal) -> Abu Salamah ibn Abdul Rahman and Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal/mu'dal narration as Malik uses the expression 'it reached him' (بَلَغَهُ) without naming the chain",
+          "impact": "The chain is disconnected and unknown intermediaries exist between Malik and the two Tabi'un, making this weak as a hadith chain"
+        },
+        {
+          "issue": "Most of the text is Malik's own legal opinion (قَالَ مَالِك) rather than a prophetic hadith",
+          "impact": "This is primarily fiqh (jurisprudence) from Imam Malik, not a hadith from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Judicial Procedures with Oath and Witness",
+        "Malik's Legal Opinion on Testimony",
+        "Women's Testimony in Various Matters",
+        "Inheritance of Newborns"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ ، وَسُلَيْمَانَ بْنَ يَسَارٍ سُئِلَا : هَلْ يُقْضَى بِالْيَمِينِ مَعَ الشَّاهِدِ ؟ فَقَالَا : نَعَمْ . قَالَ مَالِك : مَضَتِ السُّنَّةُ فِي الْقَضَاءِ بِالْيَمِينِ مَعَ الشَّاهِدِ الْوَاحِدِ..."
+    },
+    {
+      "hadith_id": 9409,
+      "original_number": 1705,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Chapter: Judgment regarding one who dies having a debt owed to him and a debt owed by him for which there is one witness.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ الْقَضَاءِ فِيمَنْ هَلَكَ ، وَلَهُ دَيْنٌ ، وَعَلَيْهِ دَيْنٌ لَهُ فِيهِ شَاهِدٌ وَاحِدٌ"
+    },
+    {
+      "hadith_id": 9410,
+      "original_number": 1706,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Yahya said: Malik said regarding a man who dies having a debt owed to him with one witness, and a debt owed by him to people with one witness for them, and his heirs refuse to swear on their rights with their witness: He said: 'The creditors swear and take their rights. If anything remains, the heirs have no share of it, because the oaths were offered to them before and they abandoned them. Unless they say: We did not know our companion had surplus, and it is known that they only abandoned the oaths because of that, then I see that they should swear and take what remains after his debt.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik (his legal opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is entirely Malik's legal opinion (قَالَ مَالِك), not a hadith from the Prophet ﷺ",
+          "impact": "This is fiqh (jurisprudence) from Imam Malik, valuable for understanding Maliki legal methodology but not a prophetic tradition"
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Malik's Opinion on Inheritance and Debts",
+        "Legal Ruling on Heirs and Creditors"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك ، فِي الرَّجُلِ يَهْلِكُ وَلَهُ دَيْنٌ عَلَيْهِ شَاهِدٌ وَاحِدٌ ، وَعَلَيْهِ دَيْنٌ لِلنَّاسِ لَهُمْ فِيهِ شَاهِدٌ وَاحِدٌ..."
+    },
+    {
+      "hadith_id": 9411,
+      "original_number": 1707,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Chapter: Judgment in Claims.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ الْقَضَاءِ فِي الدَّعْوَى"
+    },
+    {
+      "hadith_id": 9412,
+      "original_number": 1708,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Yahya said: Malik said, from Jamil ibn Abdul Rahman al-Mu'adhdhin: That he used to attend Umar ibn Abdul Aziz while he was judging between people. When a man came to him claiming a right against another man, he would examine the case. If there was mixing or association between them, he would make the one claimed against swear an oath. If there was none of that, he would not make him swear. Malik said: 'This is our practice, that whoever claims against a man, the case is examined. If there is mixing or association between them, the defendant is made to swear. If he swears, that right falls from him. If he refuses to swear and returns the oath to the claimant, and the claimant swears, he takes his right.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jamil ibn Abdul Rahman",
+              "full_name": "Jamil ibn Abdul Rahman al-Mu'adhdhin al-Madani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Abdul Aziz",
+              "full_name": "Umar ibn Abdul Aziz ibn Marwan ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Jamil ibn Abdul Rahman -> Umar ibn Abdul Aziz"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration describing the judicial practice of Umar ibn Abdul Aziz, not a hadith from the Prophet ﷺ",
+          "impact": "While it demonstrates early Islamic judicial practice, it is not directly attributable to the Prophet"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Judicial Practice of Umar ibn Abdul Aziz",
+        "Oath Requirements Based on Prior Association"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ جَمِيلِ بْنِ عَبْدِ الرَّحْمَنِ الْمُؤَذِّنِ ، أَنَّهُ كَانَ يَحْضُرُ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ وَهُوَ يَقْضِي بَيْنَ النَّاسِ..."
+    },
+    {
+      "hadith_id": 9413,
+      "original_number": 1709,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Chapter: Judgment Regarding the Testimony of Children.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ الْقَضَاءِ فِي شَهَادَةِ الصِّبْيَانِ"
+    },
+    {
+      "hadith_id": 9414,
+      "original_number": 1710,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Yahya said: Malik said, from Hisham ibn Urwah: That Abdullah ibn al-Zubayr used to judge with the testimony of children among themselves regarding wounds. Malik said: 'The established practice among us is that the testimony of children is acceptable among themselves regarding wounds, and is not acceptable against others. Their testimony among themselves is only acceptable regarding wounds alone, not in other matters, if this is before they separate, or are coached, or are taught. If they separate, there is no testimony for them unless they had reliable witnesses testify to their testimony before they separated.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn al-Zubayr",
+              "full_name": "Abdullah ibn al-Zubayr ibn al-Awwam al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'anna' (أَنَّ) suggests indirect transmission, Hisham may not have directly witnessed Abdullah ibn al-Zubayr's judicial practice"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Hisham ibn Urwah -> Abdullah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration describing the judicial practice of the Companion Abdullah ibn al-Zubayr",
+          "impact": "While valuable as it shows companion practice, it is not a direct hadith from the Prophet ﷺ"
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) indicates possible indirect knowledge",
+          "impact": "Hisham ibn Urwah may be reporting this based on what he heard rather than direct witnessing"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Children's Testimony in Injury Cases",
+        "Judicial Practice of Abdullah ibn al-Zubayr"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ هِشَامِ بْنِ عُرْوَةَ ، أَنَّ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ كَانَ يَقْضِي بِشَهَادَةِ الصِّبْيَانِ ، فِيمَا بَيْنَهُمْ مِنَ الْجِرَاحِ..."
+    },
+    {
+      "hadith_id": 9415,
+      "original_number": 1711,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Chapter: What has come regarding swearing falsely on the pulpit of the Prophet ﷺ.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ مَا جَاءَ فِي الْحِنْثِ عَلَى مِنْبَرِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ"
+    },
+    {
+      "hadith_id": 9416,
+      "original_number": 1712,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Narrated by Jabir ibn Abdullah al-Ansari: That the Messenger of Allah ﷺ said: 'Whoever swears falsely on my pulpit, let him take his seat in the Fire.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hashim ibn Hashim",
+              "full_name": "Hashim ibn Hashim ibn Utbah ibn Abi Waqas al-Zuhri",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Nistas",
+              "full_name": "Abdullah ibn Nistas al-Madani",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["majhul al-hal"]
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr ibn Haram al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) in the chain indicating potentially indirect transmission",
+            "Abdullah ibn Nistas is considered majhul al-hal (unknown in condition) by some scholars"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Hashim ibn Hashim -> Abdullah ibn Nistas -> Jabir ibn Abdullah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Nistas is considered Maqbul (acceptable when corroborated) and some scholars consider him majhul al-hal",
+          "impact": "His testimony alone may not be sufficient without supporting evidence. He is known only through a few narrations and his reliability is not firmly established"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) without explicit hearing terms throughout the chain",
+          "impact": "Raises possibility of tadlis or indirect transmission, though none of these narrators are famous mudallisun"
+        },
+        {
+          "issue": "Hashim ibn Hashim ibn Utbah is graded as Saduq (truthful but not of the highest precision)",
+          "impact": "He is generally reliable but not considered among the most precise narrators"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Warning Against False Oaths",
+        "Sanctity of the Prophet's ﷺ Pulpit",
+        "Punishment for False Testimony"
+      ],
+      "arabicText": "قَالَ يَحْيَى : حَدَّثَنَا مَالِك ، عَنْ هَاشِمِ بْنِ هَاشِمِ بْنِ عُتْبَةَ بْنِ أَبِي وَقَّاصٍ ، عَنْ عَبْدِ اللَّهِ بْنِ نِسْطَاسٍ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ الْأَنْصَارِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : مَنْ حَلَفَ عَلَى مِنْبَرِي آثِمًا ، تَبَوَّأَ مَقْعَدَهُ مِنَ النَّارِ"
+    },
+    {
+      "hadith_id": 9417,
+      "original_number": 1713,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Narrated by Abu Umamah: That the Messenger of Allah ﷺ said: 'Whoever usurps the right of a Muslim man by his oath, Allah has forbidden Paradise for him and made the Fire obligatory for him.' They said: 'Even if it is something trivial, O Messenger of Allah?' He said: 'Even if it is a twig from an arak tree, even if it is a twig from an arak tree, even if it is a twig from an arak tree.' He said it three times.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Ala' ibn Abdul Rahman",
+              "full_name": "al-Ala' ibn Abdul Rahman ibn Ya'qub al-Haraqi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ma'bad ibn Ka'b",
+              "full_name": "Ma'bad ibn Ka'b ibn Malik al-Salami al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Ka'b",
+              "full_name": "Abdullah ibn Ka'b ibn Malik al-Ansari al-Salami",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Umamah",
+              "full_name": "Abu Umamah As'ad ibn Sahl ibn Hunayf al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) throughout the chain without explicit hearing terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> al-Ala' ibn Abdul Rahman -> Ma'bad ibn Ka'b -> Abdullah ibn Ka'b (his brother) -> Abu Umamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) without explicit hearing terms",
+          "impact": "While none of these narrators are known mudallisun, the lack of explicit hearing terms slightly weakens the transmission strength"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Warning Against Usurping Rights Through False Oaths",
+        "Severity of Taking Others' Property Unjustly",
+        "Punishment for False Testimony"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ ، عَنْ مَعْبَدِ بْنِ كَعْبٍ السَّلَمِيِّ ، عَنْ أَخِيهِ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ الْأَنْصَارِيِّ ، عَنْ أَبِي أُمَامَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : مَنِ اقْتَطَعَ حَقَّ امْرِئٍ مُسْلِمٍ بِيَمِينِهِ ، حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَأَوْجَبَ لَهُ النَّارَ..."
+    },
+    {
+      "hadith_id": 9418,
+      "original_number": 1714,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Chapter: Comprehensive chapter regarding what has come about swearing on the pulpit.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ جَامِعِ مَا جَاءَ فِي الْيَمِينِ عَلَى الْمِنْبَرِ"
+    },
+    {
+      "hadith_id": 9419,
+      "original_number": 1715,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Yahya said: Malik said, from Dawud ibn al-Husayn, that he heard Abu Ghatafan ibn Tarif al-Murri saying: 'Zayd ibn Thabit al-Ansari and Ibn Muti' disputed about a house between them before Marwan ibn al-Hakam while he was the governor of Madinah. Marwan ruled that Zayd ibn Thabit should swear on the pulpit. Zayd ibn Thabit said: I will swear to him in my place. Marwan said: No, by Allah, except at the place where rights are cut off. Zayd ibn Thabit kept swearing that his right was true, and refused to swear on the pulpit. Marwan ibn al-Hakam was amazed by that.' Malik said: 'I do not see that anyone should be made to swear on the pulpit for less than a quarter dinar, which is three dirhams.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dawud ibn al-Husayn",
+              "full_name": "Dawud ibn al-Husayn al-Umawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ghatafan ibn Tarif",
+              "full_name": "Abu Ghatafan ibn Tarif al-Murri al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Thabit",
+              "full_name": "Zayd ibn Thabit ibn al-Dahhak al-Ansari al-Najjari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "اخْتَصَمَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Dawud ibn al-Husayn -> Abu Ghatafan ibn Tarif -> (witnessed) Zayd ibn Thabit's dispute"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Zayd ibn Thabit's Dispute Over a House",
+        "Zayd ibn Thabit's Refusal to Swear on the Pulpit",
+        "Judicial Practice in Madinah Under Marwan's Governance"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ دَاوُدَ بْنِ الْحُصَيْنِ ، أَنَّهُ سَمِعَ أَبَا غَطَفَانَ بْنَ طَرِيفٍ الْمُرِّيَّ ، يَقُولُ : اخْتَصَمَ زَيْدُ بْنُ ثَابِتٍ الْأَنْصَارِيُّ ، وَابْنُ مُطِيعٍ..."
+    },
+    {
+      "hadith_id": 9420,
+      "original_number": 1716,
+      "collection": "Book 19 (Author Unknown)",
+      "english_translation": "Chapter: What is not permissible regarding the foreclosure of pledges.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ مَا لَا يَجُوزُ مِنْ غَلَقِ الرَّهْنِ"
+    }
+  ]
+}

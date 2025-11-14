@@ -1,0 +1,716 @@
+{
+  "batch_number": 2,
+  "file_number": 57,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9841,
+      "collection": "Muwatta Malik",
+      "reference_number": 2137,
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'I was shown (in a dream) tonight at the Kaaba, and I saw a man with brown complexion, the most handsome you could see among brown-skinned men. He had long hair, the most handsome you could see of long hair, combed so that it was dripping water. He was leaning on two men or on the shoulders of two men, making tawaf around the Kaaba. I asked: Who is this? It was said: This is the Messiah, son of Mary. Then suddenly I saw a man with curly, frizzy hair, blind in the right eye, which looked like a floating grape. I asked: Who is this? It was said to me: This is the Messiah, the Dajjal.'",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" أَرَانِي اللَّيْلَةَ عِنْدَ /60 الْكَعْبَةِ /60 فَرَأَيْتُ رَجُلًا آدَمَ كَأَحْسَنِ مَا أَنْتَ رَاءٍ مِنْ أُدْمِ الرِّجَالِ ، لَهُ لِمَّةٌ كَأَحْسَنِ مَا أَنْتَ رَاءٍ مِنَ اللِّمَمِ قَدْ رَجَّلَهَا فَهِيَ تَقْطُرُ مَاءً مُتَّكِئًا عَلَى رَجُلَيْنِ أَوْ عَلَى عَوَاتِقِ رَجُلَيْنِ يَطُوفُ /60 بِالْكَعْبَةِ /60 ، فَسَأَلْتُ : مَنْ هَذَا ؟ قِيلَ : هَذَا /56 الْمَسِيحُ ابْنُ مَرْيَمَ /56 ، ثُمَّ إِذَا أَنَا بِرَجُلٍ جَعْدٍ قَطَطٍ أَعْوَرِ الْعَيْنِ الْيُمْنَى كَأَنَّهَا عِنَبَةٌ طَافِيَةٌ ، فَسَأَلْتُ : مَنْ هَذَا ؟ فَقِيلَ لِي : هَذَا الْمَسِيحُ الدَّجَّالُ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik is classified by some scholars as doing minor tadlis (category 1-2), and he uses 'an (عَنْ) in this chain",
+          "impact": "Very minimal impact as Malik is among the most reliable imams and his tadlis is of the lightest category. The chain remains sound."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Vision of the Prophet ﷺ showing Isa ibn Maryam",
+        "Description of the appearance of Isa ibn Maryam",
+        "Description of the appearance of the Dajjal",
+        "Signs of the Hour"
+      ]
+    },
+    {
+      "hadith_id": 9843,
+      "collection": "Muwatta Malik",
+      "reference_number": 2139,
+      "english_translation": "Narrated by Abu Hurayrah: 'Five things are from the fitrah (natural disposition): trimming the nails, cutting the mustache, plucking the armpit hair, shaving the pubic hair, and circumcision.'",
+      "arabicText": "/40 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ L3280 /94 ، عَنْ /26 أَبِيهِ L6624 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : /20 \" خَمْسٌ مِنَ الْفِطْرَةِ : تَقْلِيمُ الْأَظْفَارِ ، وَقَصُّ الشَّارِبِ ، وَنَتْفُ الْإِبِطِ ، وَحَلْقُ الْعَانَةِ ، وَالْاخْتِتَانُ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Sa'id ibn Abi Sa'id al-Maqburi",
+              "full_name": "Sa'id ibn Abi Sa'id Kaysan al-Maqburi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Maqburi",
+              "full_name": "Kaysan Abu Sa'id al-Maqburi mawla Umm al-Darda'",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Sa'id ibn Abi Sa'id al-Maqburi -> Abu Sa'id al-Maqburi -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain from reliable narrators",
+          "impact": "Minimal impact as all narrators are reliable and well-known for their truthfulness. Malik's minor tadlis does not affect the grading significantly."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Five practices of natural disposition (fitrah)",
+        "Personal grooming and hygiene"
+      ]
+    },
+    {
+      "hadith_id": 9844,
+      "collection": "Muwatta Malik",
+      "reference_number": 2140,
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab (mawquf): Ibrahim ﷺ was the first of people to host a guest, the first of people to be circumcised, the first of people to trim the mustache, and the first of people to see gray hair. He said: O Lord, what is this? Allah, Blessed and Exalted, said: It is dignity, O Ibrahim. He said: O Lord, increase me in dignity. Yahya said: I heard Malik saying: 'One should take from the mustache until the edge of the lip appears, which is the border, and he should not shave it completely, lest he mutilate himself.'",
+      "arabicText": "/24 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، أَنَّهُ قَالَ : /20 \" كَانَ /56 إِبْرَاهِيمُ /56 صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَوَّلَ النَّاسِ ضَيَّفَ الضَّيْفَ ، وَأَوَّلَ النَّاسِ اخْتَتَنَ ، وَأَوَّلَ النَّاسِ قَصَّ الشَّارِبَ ، وَأَوَّلَ النَّاسِ رَأَى الشَّيْبَ ، فَقَالَ : يَا رَبِّ مَا هَذَا ؟ فَقَالَ اللَّهُ تَبَارَكَ وَتَعَالَى : وَقَارٌ يَا /56 إِبْرَاهِيمُ /56 ، فَقَالَ : يَا رَبِّ زِدْنِي وَقَارًا \" /27 . قَالَ /22 يَحْيَى /22 : وَسَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 يُؤْخَذُ مِنَ الشَّارِبِ حَتَّى يَبْدُوَ طَرَفُ الشَّفَةِ وَهُوَ الْإِطَارُ ، وَلَا يَجُزُّهُ فَيُمَثِّلُ بِنَفْسِهِ /10",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (statement of Sa'id ibn al-Musayyab, not directly from the Prophet ﷺ)",
+          "impact": "This is Sa'id ibn al-Musayyab's statement about Prophet Ibrahim ﷺ, not a hadith directly from Prophet Muhammad ﷺ. It is historical information transmitted by a great Tabi'i."
+        },
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain",
+          "impact": "Minimal impact as all narrators are highly reliable and well-known"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "First instances of hospitality, circumcision, and grooming attributed to Ibrahim",
+        "Story of Ibrahim's prayer for dignity upon seeing gray hair",
+        "Method of trimming the mustache"
+      ]
+    },
+    {
+      "hadith_id": 9846,
+      "collection": "Muwatta Malik",
+      "reference_number": 2142,
+      "english_translation": "Narrated by Jabir ibn Abdullah: The Messenger of Allah ﷺ forbade that a man eat with his left hand, or walk in one sandal, or wrap himself in as-samma' (a manner of wrapping), or sit in ihtiba' (a sitting position) in one garment while exposing his private parts.",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الزُّبَيْرِ L7270 /94 ، /27 عَنْ /93 جَابِرِ بْنِ عَبْدِ اللَّهِ السَّلَمِيِّ L2069 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى أَنْ يَأْكُلَ الرَّجُلُ بِشِمَالِهِ ، أَوْ يَمْشِيَ فِي نَعْلٍ وَاحِدَةٍ ، وَأَنْ يَشْتَمِلَ الصَّمَّاءَ ، وَأَنْ يَحْتَبِيَ فِي ثَوْبٍ وَاحِدٍ كَاشِفًا عَنْ فَرْجِهِ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Abu al-Zubayr",
+              "full_name": "Muhammad ibn Muslim ibn Tadrus al-Asadi al-Makki",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr ibn Haram al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abu al-Zubayr -> Jabir ibn Abdullah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Zubayr is a known mudallis (category 3 in Ibn Hajar's classification) and uses 'an (عَنْ) when narrating from Jabir",
+          "impact": "This is a significant concern. Abu al-Zubayr's narrations from Jabir using 'an are considered problematic by many hadith scholars unless supported by explicit hearing terms or through the path of al-Layth ibn Sa'd who verified his direct hearing. This weakens the chain."
+        },
+        {
+          "issue": "Abu al-Zubayr is graded as Saduq by many scholars, not reaching the level of Thiqah",
+          "impact": "This adds to the concern about the chain's reliability when combined with his tadlis"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Etiquette of eating with the right hand",
+        "Prohibition of walking in only one sandal",
+        "Proper manner of wrapping oneself in clothing",
+        "Maintaining modesty in sitting positions"
+      ]
+    },
+    {
+      "hadith_id": 9847,
+      "collection": "Muwatta Malik",
+      "reference_number": 2143,
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'When one of you eats, let him eat with his right hand and drink with his right hand, for indeed Satan eats with his left hand and drinks with his left hand.'",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 أَبِي بَكْرِ بْنِ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ L124 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" إِذَا أَكَلَ أَحَدُكُمْ فَلْيَأْكُلْ بِيَمِينِهِ وَلْيَشْرَبْ بِيَمِينِهِ ، فَإِنَّ الشَّيْطَانَ يَأْكُلُ بِشِمَالِهِ وَيَشْرَبُ بِشِمَالِهِ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydillah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Abu Bakr ibn Ubaydillah",
+              "full_name": "Abu Bakr ibn Ubaydillah ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri -> Abu Bakr ibn Ubaydillah -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis by some scholars and uses 'an (عَنْ) in this chain",
+          "impact": "Al-Zuhri is among the most reliable narrators of hadith and is considered acceptable even when using 'an due to his exceptional reliability and precision. His tadlis is minor and does not significantly impact the chain."
+        },
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain",
+          "impact": "Minimal impact given the high reliability of all narrators"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Etiquette of eating and drinking with the right hand",
+        "Actions of Satan in opposition to proper conduct"
+      ]
+    },
+    {
+      "hadith_id": 9849,
+      "collection": "Muwatta Malik",
+      "reference_number": 2145,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'The miskeen (poor person) is not the one who goes around to people and is turned away with a morsel or two, or a date or two.' They said: 'Then who is the miskeen, O Messenger of Allah?' He said: 'The one who does not find wealth that suffices him, and people do not perceive him to give him charity, and he does not stand up to ask people.'",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الزِّنَادِ L4798 /94 ، عَنْ /26 الْأَعْرَجِ L4506 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَيْسَ الْمِسْكِينُ بِهَذَا الطَّوَّافِ الَّذِي يَطُوفُ عَلَى النَّاسِ فَتَرُدُّهُ اللُّقْمَةُ وَاللُّقْمَتَانِ ، وَالتَّمْرَةُ وَالتَّمْرَتَانِ \" ، قَالُوا : فَمَا الْمِسْكِينُ يَا رَسُولَ اللَّهِ ؟ قَالَ : /20 \" الَّذِي لَا يَجِدُ غِنًى يُغْنِيهِ ، وَلَا يَفْطُنُ النَّاسُ لَهُ فَيُتَصَدَّقَ عَلَيْهِ ، وَلَا يَقُومُ فَيَسْأَلَ النَّاسَ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abu al-Zinad -> Al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain",
+          "impact": "Minimal impact as all narrators are reliable and well-known. This is one of the famous golden chains (silsilat al-dhahab) through Abu al-Zinad from al-A'raj from Abu Hurayrah."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Definition of the true poor person (miskeen)",
+        "Hidden poverty and dignity",
+        "Virtue of not begging from people"
+      ]
+    },
+    {
+      "hadith_id": 9850,
+      "collection": "Muwatta Malik",
+      "reference_number": 2146,
+      "english_translation": "Narrated by the grandmother of Ibn Bujayd: The Messenger of Allah ﷺ said: 'Return something to the poor person, even if it is a burnt hoof.'",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 ابْنِ بُجَيْدٍ الْأَنْصَارِيِّ ثُمَّ الْحَارِثِيِّ L4318 /26 ، عَنْ /93 جَدَّتِهِ L2576 /93 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" رُدُّوا الْمِسْكِينَ وَلَوْ بِظِلْفٍ مُحْرَقٍ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi mawla Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Bujayd al-Ansari",
+              "full_name": "Abdullah ibn Bujayd ibn Qays al-Ansari al-Harithi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Grandmother of Ibn Bujayd",
+              "full_name": "Unknown companion woman, grandmother of Abdullah ibn Bujayd",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["majhul"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Zayd ibn Aslam -> Ibn Bujayd al-Ansari -> His grandmother (Companion) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The grandmother of Ibn Bujayd is not specifically named and her identity is unknown (majhul al-'ayn)",
+          "impact": "Although she is mentioned as a companion, her specific identity is unclear. However, all companions are considered reliable (al-sahaba kulluhum 'udul), so this does not severely weaken the chain."
+        },
+        {
+          "issue": "Ibn Bujayd is graded as Saduq, not reaching the level of Thiqah",
+          "impact": "This slightly lowers the chain quality, but Saduq narrators are generally acceptable"
+        },
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain",
+          "impact": "Combined with the other issues, this adds some ambiguity to the transmission"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Generosity toward the poor",
+        "Virtue of giving even the smallest thing to the needy"
+      ]
+    },
+    {
+      "hadith_id": 9852,
+      "collection": "Muwatta Malik",
+      "reference_number": 2148,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'The Muslim eats in one intestine, while the disbeliever eats in seven intestines.'",
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الزِّنَادِ L4798 /94 ، عَنْ /26 الْأَعْرَجِ L4506 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" يَأْكُلُ الْمُسْلِمُ فِي مِعًى وَاحِدٍ ، وَالْكَافِرُ يَأْكُلُ فِي سَبْعَةِ أَمْعَاءٍ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abu al-Zinad -> Al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain",
+          "impact": "Minimal impact as all narrators are reliable and well-known. This is the famous golden chain through Abu al-Zinad from al-A'raj from Abu Hurayrah."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Moderation in eating for Muslims",
+        "Comparison of eating habits between believers and disbelievers"
+      ]
+    },
+    {
+      "hadith_id": 9853,
+      "collection": "Muwatta Malik",
+      "reference_number": 2149,
+      "english_translation": "Narrated by Abu Hurayrah: A disbelieving guest was a guest of the Messenger of Allah ﷺ, so the Messenger of Allah ﷺ ordered a sheep to be milked for him, and he drank its milk. Then another, and he drank it. Then another, and he drank it, until he had drunk the milk of seven sheep. Then in the morning he accepted Islam, so the Messenger of Allah ﷺ ordered a sheep to be milked for him, and he drank its milk. Then he ordered another for him, but he could not finish it. So the Messenger of Allah ﷺ said: 'The believer drinks in one intestine, while the disbeliever drinks in seven intestines.'",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 سُهَيْلِ بْنِ أَبِي صَالِحٍ L3687 /94 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ضَافَهُ ضَيْفٌ كَافِرٌ ، فَأَمَرَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِشَاةٍ فَحُلِبَتْ فَشَرِبَ حِلَابَهَا ، ثُمَّ أُخْرَى فَشَرِبَهُ ، ثُمَّ أُخْرَى فَشَرِبَهُ ، حَتَّى شَرِبَ حِلَابَ سَبْعِ شِيَاهٍ ، ثُمَّ إِنَّهُ أَصْبَحَ فَأَسْلَمَ ، فَأَمَرَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِشَاةٍ فَحُلِبَتْ فَشَرِبَ حِلَابَهَا ، ثُمَّ أَمَرَ لَهُ بِأُخْرَى فَلَمْ يَسْتَتِمَّهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" الْمُؤْمِنُ يَشْرَبُ فِي مِعًى وَاحِدٍ ، وَالْكَافِرُ يَشْرَبُ فِي سَبْعَةِ أَمْعَاءٍ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Suhayl ibn Abi Salih",
+              "full_name": "Suhayl ibn Abi Salih Dhakwan al-Samman al-Madani",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["memory_weakness"]
+            },
+            {
+              "name": "Abu Salih",
+              "full_name": "Dhakwan Abu Salih al-Samman mawla Juwayriyah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Suhayl ibn Abi Salih -> Abu Salih -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suhayl ibn Abi Salih is graded as Saduq by the majority of scholars, with some criticism regarding his memory",
+          "impact": "Suhayl was criticized by some scholars for memory weakness, though he is considered acceptable by most. Imam Ahmad and others accepted his narrations, while some were more cautious. This brings the chain down from the highest level but doesn't make it weak."
+        },
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain",
+          "impact": "Combined with Suhayl's status, this adds some ambiguity"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Story of a disbeliever who drank milk from seven sheep",
+        "Man's conversion to Islam and reduced consumption",
+        "Hospitality of the Prophet ﷺ toward non-Muslims",
+        "Effect of faith on moderation"
+      ]
+    },
+    {
+      "hadith_id": 9855,
+      "collection": "Muwatta Malik",
+      "reference_number": 2151,
+      "english_translation": "Narrated by Umm Salamah, wife of the Prophet ﷺ: The Messenger of Allah ﷺ said: 'The one who drinks from a silver vessel is only gurgling the fire of Hell in his belly.'",
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، عَنْ /26 زَيْدِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ L3146 /26 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ الصِّدِّيقِ L4894 /26 ، /27 عَنْ /93 أُمِّ سَلَمَةَ L8101 /93 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" الَّذِي يَشْرَبُ فِي آنِيَةِ الْفِضَّةِ إِنَّمَا يُجَرْجِرُ فِي بَطْنِهِ نَارَ جَهَنَّمَ \" /27",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Abdullah ibn Umar",
+              "full_name": "Zayd ibn Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abd al-Rahman ibn Abi Bakr",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Hind bint Abi Umayyah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Zayd ibn Abdullah ibn Umar -> Abdullah ibn Abd al-Rahman ibn Abi Bakr -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Zayd ibn Abdullah ibn Umar is graded as Saduq, not reaching the level of Thiqah",
+          "impact": "This slightly lowers the chain quality. Some scholars questioned his precision, though he is generally accepted."
+        },
+        {
+          "issue": "Multiple instances of 'an (عَنْ) in the chain",
+          "impact": "Combined with Zayd's Saduq status, this adds some concern but doesn't severely weaken the chain as the other narrators are highly reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of drinking from silver vessels",
+        "Warning about the punishment for using gold and silver utensils"
+      ]
+    }
+  ]
+}

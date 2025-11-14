@@ -1,0 +1,455 @@
+{
+  "batch_number": 2,
+  "file_number": 84,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 10246,
+      "collection": "كتاب رقم 20",
+      "reference_number": 169,
+      "arabicText": "قَالَ ابْنُ وَهْبٍ ، عن يُونُسَ بْنِ يَزِيدَ ، عن ابْنِ شِهَابٍ ، قَالَ : أَخْبَرَنِي مَحْمُودُ بْنُ رَبِيعٍ ، عن عُبَادَةَ بْنِ الصَّامِتِ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَا صَلَاةَ لِمَنْ لَمْ يَقْرَأْ بِأُمِّ الْقُرْآنِ \"",
+      "english_translation": "Narrated by 'Ubadah ibn al-Samit: The Messenger of Allah ﷺ said: 'There is no prayer for one who does not recite the Umm al-Qur'an (Fatiha).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابْنُ وَهْبٍ",
+              "full_name": "عبد الله بن وهب بن مسلم القرشي الفهري المصري",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يُونُسُ بْنُ يَزِيدَ",
+              "full_name": "يونس بن يزيد بن أبي النجاد الأيلي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابْنُ شِهَابٍ",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 2/3 in Ibn Hajar's classification, but widely considered extremely reliable"]
+            },
+            {
+              "name": "مَحْمُودُ بْنُ رَبِيعٍ",
+              "full_name": "محمود بن الربيع بن سراقة الأنصاري الخزرجي",
+              "grade": "Thiqah",
+              "generation": "Companion/First Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عُبَادَةَ بْنِ الصَّامِتِ",
+              "full_name": "عبادة بن الصامت بن قيس الأنصاري الخزرجي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابْنُ وَهْبٍ -> يُونُسُ بْنُ يَزِيدَ -> ابْنُ شِهَابٍ -> مَحْمُودُ بْنُ رَبِيعٍ -> عُبَادَةَ بْنِ الصَّامِتِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis by some scholars and uses 'an (عن) transmission term",
+          "impact": "Al-Zuhri is widely considered extremely reliable (Thiqah Thabt) despite his occasional tadlis. His narrations are accepted even with 'an by the vast majority of scholars. This is a very minor concern that does not affect the authenticity."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Recitation of Surah al-Fatiha in Prayer",
+        "Essential Components of Valid Prayer",
+        "Prayer Method"
+      ],
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 10247,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قَالَ ابْنُ وَهْبٍ ، عن مَالِكٍ ، عن الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ ، أَنَّهُ سَمِعَ أَبَا السَّائِبِ يُحَدِّثُ ، عن أَبِي هُرَيْرَةَ ، أَنَّهُ قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ أَدْرَكَ مِنَ الصُّبْحِ رَكْعَةً قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ ، فَقَدْ أَدْرَكَ الصُّبْحَ ، وَمَنْ أَدْرَكَ مِنَ الْعَصْرِ رَكْعَةً قَبْلَ أَنْ تَغْرُبَ الشَّمْسُ ، فَقَدْ أَدْرَكَ الْعَصْرِ \"",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Whoever catches one rak'ah of Subh (Fajr prayer) before the sun rises, has caught Subh. And whoever catches one rak'ah of 'Asr before the sun sets, has caught 'Asr.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابْنُ وَهْبٍ",
+              "full_name": "عبد الله بن وهب بن مسلم القرشي الفهري المصري",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَالِكٍ",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ",
+              "full_name": "العلاء بن عبد الرحمن بن يعقوب الحرقي",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبَا السَّائِبِ",
+              "full_name": "أبو السائب مولى هشام بن زهرة",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ...يُحَدِّثُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي أبو هريرة",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ...أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابْنُ وَهْبٍ -> مَالِكٍ -> الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ -> أَبَا السَّائِبِ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The use of 'anna (أَنَّهُ) between al-'Ala' and Abu al-Sa'ib could indicate some ambiguity",
+          "impact": "However, the explicit 'sami'a' (سَمِعَ) strengthens the connection. This is a very minor concern given the overall reliability of the chain, especially through Malik's golden chain."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prayer Timing",
+        "Catching Prayer with One Rak'ah",
+        "Last Time for Fajr Prayer",
+        "Last Time for 'Asr Prayer"
+      ],
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 10248,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قَالَ مَالِكُ بْنُ أَنَسٍ ، عن أَبِي نُعَيْمٍ وَهْبِ بْنِ كَيْسَانَ ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ ، يَقُولُ : \" مَنْ صَلَّى رَكْعَةً لَمْ يَقْرَأْ فِيهَا بِأُمِّ الْقُرْآنِ ، فَلَمْ يُصَلِّ إِلَّا وَرَاءَ الْإِمَامِ \"",
+      "english_translation": "Narrated by Jabir ibn Abdullah: 'Whoever prays a rak'ah without reciting Umm al-Qur'an (Fatiha) in it, has not prayed, except behind an imam.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مَالِكُ بْنُ أَنَسٍ",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي نُعَيْمٍ وَهْبِ بْنِ كَيْسَانَ",
+              "full_name": "وهب بن كيسان أبو نعيم المكي",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جَابِرَ بْنَ عَبْدِ اللَّهِ",
+              "full_name": "جابر بن عبد الله بن عمرو بن حرام الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَالِكُ بْنُ أَنَسٍ -> أَبِي نُعَيْمٍ وَهْبِ بْنِ كَيْسَانَ -> جَابِرَ بْنَ عَبْدِ اللَّهِ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stopped at the companion level), not marfu' to the Prophet ﷺ",
+          "impact": "This is Jabir's own statement or understanding, not a direct prophetic narration. While mawquf narrations from companions are valuable, they do not carry the same authority as marfu' narrations."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Recitation of Surah al-Fatiha in Prayer",
+        "Following the Imam in Prayer",
+        "Essential Components of Valid Prayer"
+      ],
+      "grade": "Sound (Mawquf)"
+    },
+    {
+      "hadith_id": 10249,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "فِي رَفْعِ الْيَدَيْنِ فِي الرُّكُوعِ وَالْإِحْرَامِ",
+      "english_translation": "Chapter: Regarding raising the hands in ruku' (bowing) and ihram (entering prayer)",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not an actual hadith narration",
+          "impact": "No chain of narrators to analyze. This serves as a categorization marker."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading on Raising Hands in Prayer"
+      ],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10250,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَا أَعْرِفُ رَفْعَ الْيَدَيْنِ فِي شَيْءٍ مِنْ تَكْبِيرِ الصَّلَاةِ لَا فِي خَفْضٍ وَلَا فِي رَفْعٍ إِلَّا فِي افْتِتَاحِ الصَّلَاةِ ، يَرْفَعُ يَدَيْهِ شَيْئًا خَفِيفًا ، وَلَا أَعْرِفُ رَفْعَ الْيَدَيْنِ فِي شَيْءٍ مِنْ صَلَاةِ الْجَنَائِزِ",
+      "english_translation": "Malik said: 'I do not know of raising the hands in any of the takbirs of the prayer, neither in lowering nor in raising, except at the opening of the prayer, where one raises the hands slightly. And I do not know of raising the hands in any part of the funeral prayer.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Imam Malik (athar), not a prophetic narration",
+          "impact": "This represents Malik's juristic opinion based on the practice of Madinah. It is not a marfu' hadith but rather a scholarly position (madhab). No chain analysis applicable."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Imam Malik's Opinion on Raising Hands in Prayer",
+        "Prayer Method According to Maliki School"
+      ],
+      "grade": "Scholar's Opinion (Athar)"
+    },
+    {
+      "hadith_id": 10251,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "الدَّبُّ فِي الرُّكُوعِ",
+      "english_translation": "Chapter: Regarding moving/walking while in ruku' (bowing position)",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not an actual hadith narration",
+          "impact": "No chain of narrators to analyze. This serves as a categorization marker."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading on Moving While Bowing"
+      ],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10252,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : مَنْ جَاءَ وَالْإِمَامُ رَاكِعٌ ، فَلْيَرْكَعْ إِنْ خَشِيَ أَنْ يَرْفَعَ الْإِمَامُ رَأْسَهُ إِذَا كَانَ قَرِيبًا يَطْمَعُ إِذَا رَكَعَ ، فَدَبَّ رَاكِعًا أَنْ يَصِلَ إِلَى الصَّفِّ ، فَإِنْ كَانَ بَعِيدًا لَا يَطْمَعُ أَنْ يَصِلَ إِلَى الصَّفِّ قَبْلَ أَنْ يَرْفَعَ الْإِمَامُ رَأْسَهُ ، فَلَا يَرْكَعْ حَتَّى يَصِلَ إِلَى الصَّفِّ ، قِيلَ : وَلَا يَكُونُ مُدْرِكًا لِتِلْكَ الرَّكْعَةِ إِذَا أَدْرَكَ الْإِمَامَ رَاكِعًا ، قَالَ : لَا",
+      "english_translation": "Malik said: 'Whoever comes while the imam is in ruku' (bowing), let him bow if he fears that the imam will raise his head, if he is close and hopes that by bowing and moving while bowed, he can reach the row. But if he is far and does not hope to reach the row before the imam raises his head, then let him not bow until he reaches the row.' It was asked: 'Will he not have caught that rak'ah if he caught the imam in ruku'?' He said: 'No.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Imam Malik (athar), not a prophetic narration",
+          "impact": "This represents Malik's juristic opinion about joining congregational prayer. It is not a marfu' hadith but rather a scholarly position (madhab). No chain analysis applicable."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Imam Malik's Opinion on Joining Prayer While Imam is Bowing",
+        "Moving While in Ruku' Position",
+        "Catching the Rak'ah"
+      ],
+      "grade": "Scholar's Opinion (Athar)"
+    },
+    {
+      "hadith_id": 10253,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "فِي الرُّكُوعِ وَالسُّجُودِ",
+      "english_translation": "Chapter: Regarding ruku' (bowing) and sujud (prostration)",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not an actual hadith narration",
+          "impact": "No chain of narrators to analyze. This serves as a categorization marker."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading on Ruku' and Sujud"
+      ],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10254,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الرُّكُوعِ وَالسُّجُودِ : إِذَا أَمْكَنَ يَدَيْهِ مِنْ رُكْبَتَيْهِ ، وَإِنْ لَمْ يُسَبِّحْ ، فَذَلِكَ مُجْزِئٌ عنهُ ، وَكَانَ لَا يُوَقِّتُ تَسْبِيحًا . قَالَ : وَقَالَ مَالِكٌ : التَّسْبِيحُ فِي السُّجُودِ أَيْضًا مِثْلُ الرُّكُوعِ ، وَمَنْ أَمْكَنَ جَبْهَتَهُ مِنَ الْأَرْضِ ، وَإِنْ لَمْ يُسَبِّحْ ، فَذَلِكَ مُجْزِئٌ عنهُ",
+      "english_translation": "Malik said regarding ruku' and sujud: 'If one places his hands on his knees, even if he does not perform tasbih (glorification), that is sufficient for him, and he (Malik) did not specify a required number of tasbih.' And Malik said: 'Tasbih in sujud is also like ruku', and whoever places his forehead on the ground, even if he does not perform tasbih, that is sufficient for him.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Imam Malik (athar), not a prophetic narration",
+          "impact": "This represents Malik's juristic opinion about the minimum requirements for valid ruku' and sujud. It is not a marfu' hadith but rather a scholarly position (madhab). No chain analysis applicable."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Imam Malik's Opinion on Minimum Requirements for Ruku'",
+        "Imam Malik's Opinion on Minimum Requirements for Sujud",
+        "Tasbih in Prayer"
+      ],
+      "grade": "Scholar's Opinion (Athar)"
+    },
+    {
+      "hadith_id": 10255,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "فِي الَّذِي يَنْعَسُ خَلْفَ الْإِمَامِ ، وَمَا يُكْرَهُ مِنَ الدُّعَاءِ فِي الرُّكُوعِ",
+      "english_translation": "Chapter: Regarding one who dozes off behind the imam, and what is disliked regarding supplication in ruku'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not an actual hadith narration",
+          "impact": "No chain of narrators to analyze. This serves as a categorization marker."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading on Dozing Behind Imam",
+        "Chapter Heading on Supplication in Ruku'"
+      ],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10256,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : الَّذِي أَرَى وَآخُذُ بِهِ فِي نَفْسِي فِي الَّذِي يَنْعَسُ خَلْفَ الْإِمَامِ فِي الرَّكْعَةِ الْأُولَى ، أَنَّهُ لَا يَتْبَعُ الْإِمَامَ فِيهَا , وَإِنْ كَانَ يُدْرِكُهُ قَبْلَ أَنْ يَرْكَعَ لِلثَّانِيَةِ ، وَإِذَا رَكَعَ لِلثَّانِيَةِ ، رَكَعَ مَعَهُ ، فَكَانَتْ لَهُ أَوَّلَ رَكْعَةٍ لَهُ ، وَهِيَ آخِرَةٌ لِلْإِمَامِ",
+      "english_translation": "Ibn al-Qasim said: 'What I see and take for myself regarding the one who dozes off behind the imam in the first rak'ah is that he should not follow the imam in it, even if he catches up with him before he bows for the second (rak'ah). And when he (the imam) bows for the second (rak'ah), he (the one who dozed) should bow with him, and it will be his first rak'ah, while it is the last for the imam.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Ibn al-Qasim (a student of Malik), not a prophetic narration",
+          "impact": "This represents Ibn al-Qasim's juristic opinion about the ruling for someone who dozes off during prayer. It is not a marfu' hadith but rather a scholarly position. No chain analysis applicable."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Ibn al-Qasim's Opinion on Dozing During Prayer",
+        "Making Up Missed Rak'ah"
+      ],
+      "grade": "Scholar's Opinion (Athar)"
+    },
+    {
+      "hadith_id": 10257,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "مَا جَاءَ فِي جُلُوسِ الصَّلَاةِ",
+      "english_translation": "Chapter: Regarding the sitting positions in prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not an actual hadith narration",
+          "impact": "No chain of narrators to analyze. This serves as a categorization marker."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading on Sitting in Prayer"
+      ],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10258,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : الْجُلُوسُ فِيمَا بَيْنَ السَّجْدَتَيْنِ مثل الْجُلُوسِ فِي التَّشَهُّدِ يُفْضِي بِأَلْيَتَيْهِ إِلَى الْأَرْضِ ، وَيَنْصِبُ رِجْلَهُ الْيَمِينَ ، وَيَثْنِي رِجْلَهُ الْيُسْرَى . قَالَ : قُلْتُ : وَالتَّشَهُّدُ فِي ذَلِكَ الْجُلُوسِ ؟ قَالَ : مَا أَعْرِفُ ذَلِكَ",
+      "english_translation": "Malik said: 'The sitting between the two prostrations is like the sitting in tashahhud - one lets his buttocks touch the ground, keeps his right foot upright, and folds his left foot.' I asked: 'And the tashahhud in that sitting?' He said: 'I do not know of that.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Imam Malik (athar), not a prophetic narration",
+          "impact": "This represents Malik's juristic opinion about the sitting position between prostrations. It is not a marfu' hadith but rather a scholarly position (madhab). No chain analysis applicable."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Imam Malik's Opinion on Sitting Between Prostrations",
+        "Sitting Position in Tashahhud"
+      ],
+      "grade": "Scholar's Opinion (Athar)"
+    },
+    {
+      "hadith_id": 10259,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "مَا جَاءَ فِي هَيْئَةِ السُّجُودِ",
+      "english_translation": "Chapter: Regarding the manner of prostration (sujud)",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading, not an actual hadith narration",
+          "impact": "No chain of narrators to analyze. This serves as a categorization marker."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Chapter Heading on Manner of Prostration"
+      ],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10260,
+      "collection": "كتاب رقم 20",
+      "reference_number": null,
+      "arabicText": "قُلْتُ لِابْنِ الْقَاسِمِ : فَمَا قَوْلُ مَالِكٍ فِي سُجُودِ الرَّجُلِ فِي صَلَاتِهِ ، هَلْ يَرْفَعُ بَطْنَهُ عن فَخِذَيْهِ وَيُجَافِي بِضَبْعَيْهِ ؟ قَالَ : نَعَمْ ، وَلَا يُفَرِّجُ ذَلِكَ التَّفْرِيجَ الشَّدِيدَ ، إِلَّا أَنْ يَرْفَعَ بَطْنَهُ وَيُجَافِي ضَبْعَيْهِ ، وَلَا يَتَّقِي بِيَدَيْهِ ، وَلَكِنْ يُفْضِي بِهِمَا إِلَى الْأَرْضِ ، وَالْمَرْأَةُ مِثْلُ الرَّجُلِ فِي ذَلِكَ ، إِلَّا أَنَّ الْمَرْأَةَ تَضُمُّ بَعْضَهَا إِلَى بَعْضٍ",
+      "english_translation": "I asked Ibn al-Qasim: 'What is Malik's opinion about a man's prostration in his prayer - should he lift his belly from his thighs and separate his upper arms?' He said: 'Yes, but not excessive spreading, except that he lifts his belly and separates his upper arms, and he should not support himself on his hands but rather place them flat on the ground. And the woman is like the man in this, except that the woman gathers herself together.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a statement from Ibn al-Qasim reporting Malik's opinion (athar), not a prophetic narration",
+          "impact": "This represents Malik's juristic opinion about the manner of prostration for men and women. It is not a marfu' hadith but rather a scholarly position. No chain analysis applicable."
+        }
+      ],
+      "IISGrade": "N/A",
+      "Topics": [
+        "Imam Malik's Opinion on Manner of Prostration for Men",
+        "Imam Malik's Opinion on Manner of Prostration for Women",
+        "Body Positioning in Sujud"
+      ],
+      "grade": "Scholar's Opinion (Athar)"
+    }
+  ]
+}

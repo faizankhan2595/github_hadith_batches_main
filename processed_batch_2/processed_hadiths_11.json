@@ -1,0 +1,910 @@
+{
+  "batch_number": 2,
+  "file_number": 11,
+  "processed_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 9151,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "It reached Malik that Sa'id ibn al-Musayyib and Sulayman ibn Yasar were asked about the divorce of an intoxicated person. They said: 'If an intoxicated person divorces, his divorce is valid, and if he kills, he is killed for it.' Malik said: 'This is the matter among us.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "[Disconnection]",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Chain disconnection (balagha form)", "Unknown intermediaries"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan ibn Abi Wahb al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection via balagha form (بَلَغَهُ) indicating Malik did not receive this directly", "This is a statement of Sa'id and Sulayman, not traced to the Prophet"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Disconnection] -> Sa'id ibn al-Musayyib & Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagha form (بَلَغَهُ) indicates clear disconnection in the chain - Malik did not receive this report directly from a known narrator",
+          "impact": "This creates a significant gap in transmission, making the chain mursal/munqati'. The unknown intermediary narrators cannot be evaluated for reliability."
+        },
+        {
+          "issue": "This is a mawquf report (statement of tabi'in), not a marfu' hadith from the Prophet",
+          "impact": "While the opinions of Sa'id ibn al-Musayyib and Sulayman ibn Yasar are highly respected, this is not a prophetic statement and thus does not have the same authority."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Divorce of an intoxicated person",
+        "Criminal responsibility of an intoxicated person"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /26 سَعِيدَ بْنَ الْمُسَيَّبِ /26 ، /26 وَسُلَيْمَانَ بْنَ يَسَارٍ /26 ، سُئِلَا عَنْ طَلَاقِ السَّكْرَانِ ، فَقَالَا : /20 \" إِذَا طَلَّقَ السَّكْرَانُ جَازَ طَلَاقُهُ ، وَإِنْ قَتَلَ قُتِلَ بِهِ \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَعَلَى ذَلِكَ الْأَمْرُ عِنْدَنَا /10",
+      "collection": "Muwatta Malik",
+      "reference_number": 1447
+    },
+    {
+      "hadith_id": 9152,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "It reached Malik that Sa'id ibn al-Musayyib used to say: 'If a man does not find what to spend on his wife, they are separated.' Malik said: 'This is what I found the people of knowledge in our land upon.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "[Disconnection]",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Chain disconnection (balagha form)", "Unknown intermediaries"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan ibn Abi Wahb al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection via balagha form (بَلَغَهُ) indicating Malik did not receive this directly", "This is a statement of Sa'id ibn al-Musayyib, not traced to the Prophet"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Disconnection] -> Sa'id ibn al-Musayyib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagha form (بَلَغَهُ) indicates clear disconnection in the chain - Malik did not receive this report directly",
+          "impact": "This creates a significant gap in transmission, making the chain mursal/munqati'. The unknown intermediary narrators cannot be evaluated."
+        },
+        {
+          "issue": "This is a mawquf report (statement of a tabi'i), not a marfu' hadith from the Prophet",
+          "impact": "This represents the legal opinion of Sa'id ibn al-Musayyib rather than a prophetic statement."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Separation due to husband's inability to provide maintenance"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /26 سَعِيدَ بْنَ الْمُسَيَّبِ /26 ، كَانَ يَقُولُ : /20 \" إِذَا لَمْ يَجِدِ الرَّجُلُ مَا يُنْفِقُ عَلَى امْرَأَتِهِ ، فُرِّقَ بَيْنَهُمَا \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَعَلَى ذَلِكَ أَدْرَكْتُ أَهْلَ الْعِلْمِ بِبَلَدِنَا /10",
+      "collection": "Muwatta Malik",
+      "reference_number": 1448
+    },
+    {
+      "hadith_id": 9154,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Umm Salamah: Yahya narrated to me from Malik, from Abd Rabbihi ibn Sa'id ibn Qays, from Abu Salamah ibn Abd al-Rahman, that he said: Abdullah ibn Abbas and Abu Hurayrah were asked about a pregnant woman whose husband dies. Ibn Abbas said: 'The latter of the two waiting periods.' And Abu Hurayrah said: 'When she gives birth, she is lawful.' So Abu Salamah ibn Abd al-Rahman entered upon Umm Salamah, the wife of the Prophet ﷺ, and asked her about that. Umm Salamah said: Subay'ah al-Aslamiyyah gave birth half a month after her husband's death. Two men proposed to her, one young and the other elderly. She inclined toward the young one. The old man said: 'You are not yet lawful.' Her family was absent, and he hoped that when her family came, they would prefer him. So she came to the Messenger of Allah ﷺ, and he said: 'You are lawful, so marry whom you wish.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd Rabbihi ibn Sa'id",
+              "full_name": "Abd Rabbihi ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abu Salamah ibn Abd al-Rahman ibn Awf al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Umm Salamah Hind bint Abi Umayyah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms used by non-mudallis reliable narrators"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Abd Rabbihi ibn Sa'id -> Abu Salamah ibn Abd al-Rahman -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain from Malik through Abu Salamah",
+          "impact": "While all narrators are considered reliable and none are known mudallisun of concern, the use of 'an rather than explicit hearing terms (حدثنا/سمعت) introduces theoretical possibility of gaps. However, given the high reliability of all narrators and the well-established connections between them, this does not significantly impact the chain's strength."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Waiting period of pregnant widow ending upon childbirth",
+        "Incident of Subay'ah al-Aslamiyyah seeking to remarry after childbirth"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ رَبِّهِ بْنِ سَعِيدِ بْنِ قَيْسٍ L5296 /94 ، عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ L4903 /26 ، أَنَّهُ قَالَ : سُئِلَ عَبْدُ اللَّهِ بْنُ عَبَّاسٍ ، وَأَبُو هُرَيْرَةَ ، عَنِ الْمَرْأَةِ الْحَامِلِ يُتَوَفَّى عَنْهَا زَوْجُهَا ، فَقَالَ /93 ابْنُ عَبَّاسٍ L4883 /93 : آخِرَ الْأَجَلَيْنِ ، وَقَالَ /93 أَبُو هُرَيْرَةَ L4396 /93 : \" إِذَا وَلَدَتْ فَقَدْ حَلَّتْ \" فَدَخَلَ أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ عَلَى /64 أُمِّ سَلَمَةَ /64 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَسَأَلَهَا عَنْ ذَلِكَ ، /27 فَقَالَتْ /93 أُمُّ سَلَمَةَ L8101 /93 : وَلَدَتْ /64 سُبَيْعَةُ الْأَسْلَمِيَّةُ /64 بَعْدَ وَفَاةِ زَوْجِهَا بِنِصْفِ شَهْرٍ ، فَخَطَبَهَا رَجُلَانِ أَحَدُهُمَا شَابٌّ وَالْآخَرُ كَهْلٌ ، فَحَطَّتْ إِلَى الشَّابِّ ، فَقَالَ الشَّيْخُ : لَمْ تَحِلِّي بَعْدُ ، وَكَانَ أَهْلُهَا غُيَّبًا ، وَرَجَا إِذَا جَاءَ أَهْلُهَا أَنْ يُؤْثِرُوهُ بِهَا ، فَجَاءَتْ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : /20 \" قَدْ حَلَلْتِ ، فَانْكِحِي مَنْ شِئْتِ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1450
+    },
+    {
+      "hadith_id": 9155,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abdullah ibn Umar: It was narrated to me from Malik, from Nafi', from Abdullah ibn Umar that he was asked about a woman whose husband dies while she is pregnant. Abdullah ibn Umar said: 'When she delivers her child, she is lawful.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' ibn Sarjis al-Daylami mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms used"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report (statement of companion Abdullah ibn Umar), not a marfu' hadith from the Prophet",
+          "impact": "While the opinion of Ibn Umar is highly valued, this is his personal legal opinion rather than a direct prophetic statement."
+        },
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain",
+          "impact": "The famous 'golden chain' of Malik -> Nafi' -> Ibn Umar is universally accepted as connected despite the use of 'an. All narrators are highly reliable and their direct connections are well-established."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Waiting period of pregnant widow ending upon childbirth"
+      ],
+      "arabicText": "/40 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّهُ سُئِلَ عَنِ الْمَرْأَةِ يُتَوَفَّى عَنْهَا زَوْجُهَا وَهِيَ حَامِلٌ ، فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ : /20 \" إِذَا وَضَعَتْ حَمْلَهَا ، فَقَدْ حَلَّتْ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1451
+    },
+    {
+      "hadith_id": 9156,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Umar ibn al-Khattab: A man from the Ansar who was with him informed him that Umar ibn al-Khattab said: 'If she gives birth while her husband is on his bier, not yet buried, she becomes lawful.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' ibn Sarjis al-Daylami mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "[implied from previous]",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "[implied from previous]",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rajul min al-Ansar",
+              "full_name": "An unnamed Ansari man (Majhul)",
+              "grade": "Majhul",
+              "generation": "First Generation",
+              "transmissionTerm": "أَخْبَرَهُ",
+              "reliabilityIssues": ["Unknown narrator (majhul al-'ayn)"]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Unknown Ansari man in the chain creates jahala (unknown narrator issue)"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Abdullah ibn Umar -> Unknown Ansari man -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Contains an unnamed narrator described only as 'a man from the Ansar' (رَجُلٌ مِنْ الْأَنْصَارِ)",
+          "impact": "This creates jahala (unknown status) in the chain. While the narrator is described as Ansari and was present with Ibn Umar, his specific identity is unknown, making it impossible to verify his reliability. This is a significant weakness."
+        },
+        {
+          "issue": "This is a mawquf report (statement of companion Umar), not a marfu' hadith from the Prophet",
+          "impact": "While Umar's opinion carries weight, this is his personal legal opinion rather than a prophetic statement."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Waiting period of pregnant widow ending immediately upon childbirth"
+      ],
+      "arabicText": "/40 /34 فَأَخْبَرَهُ /18 /26 رَجُلٌ L1131 /26 /18 مِنْ الْأَنْصَارِ كَانَ عِنْدَهُ ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 ، قَالَ : /20 \" لَوْ وَضَعَتْ وَزَوْجُهَا عَلَى سَرِيرِهِ لَمْ يُدْفَنْ بَعْدُ ، لَحَلَّتْ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1452
+    },
+    {
+      "hadith_id": 9157,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by al-Miswar ibn Makhramah: It was narrated to me from Malik, from Hisham ibn Urwah, from his father, from al-Miswar ibn Makhramah that he informed him that Subay'ah al-Aslamiyyah gave birth a few nights after her husband's death. The Messenger of Allah ﷺ said to her: 'You are lawful, so marry whom you wish.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some criticism of his later Iraqi narrations", "His Medinan narrations via Malik are considered sound"]
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Miswar ibn Makhramah",
+              "full_name": "al-Miswar ibn Makhramah ibn Nawfal al-Zuhri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms throughout the chain"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> al-Miswar ibn Makhramah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain",
+          "impact": "While all narrators are reliable, the use of 'an rather than explicit hearing terms introduces theoretical possibility of gaps. However, the connections are well-established in hadith literature."
+        },
+        {
+          "issue": "Hisham ibn Urwah's narrations were criticized when he narrated in Iraq during his later years, particularly regarding memory issues",
+          "impact": "This narration comes through Malik in Medina, before Hisham moved to Iraq, so this criticism does not apply here. Malik's narrations from Hisham are considered among the most reliable."
+        },
+        {
+          "issue": "Potential mursal issue: al-Miswar ibn Makhramah was young during the Prophet's ﷺ time and may not have directly witnessed this incident with Subay'ah",
+          "impact": "Al-Miswar was born around year 2 AH and was approximately 8-9 years old at the Prophet's death. While he is counted among companions, his direct hearing of this statement is uncertain. He may have heard it from another companion."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Waiting period of pregnant widow ending upon childbirth",
+        "Incident of Subay'ah al-Aslamiyyah seeking to remarry after childbirth"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 هِشَامِ بْنِ عُرْوَةَ L8055 /94 ، عَنْ /26 أَبِيهِ L5594 /26 ، /27 عَنِ /93 الْمِسْوَرِ بْنِ مَخْرَمَةَ L1634 /93 أَنَّهُ أَخْبَرَهُ ، أَنَّ /64 سُبَيْعَةَ الْأَسْلَمِيَّةَ /64 نُفِسَتْ بَعْدَ وَفَاةِ زَوْجِهَا بِلَيَالٍ ، فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" قَدْ حَلَلْتِ ، فَانْكِحِي مَنْ شِئْتِ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1453
+    },
+    {
+      "hadith_id": 9158,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Umm Salamah: It was narrated to me from Malik, from Yahya ibn Sa'id, from Sulayman ibn Yasar, that Abdullah ibn Abbas and Abu Salamah ibn Abd al-Rahman ibn Awf disagreed about a woman who gives birth a few nights after her husband's death. Abu Salamah said: 'When she delivers what is in her womb, she is lawful.' And Ibn Abbas said: 'The latter of the two waiting periods.' Then Abu Hurayrah came and said: 'I am with my nephew' - meaning Abu Salamah. So they sent Kurayb, the freed slave of Abdullah ibn Abbas, to Umm Salamah, the wife of the Prophet ﷺ, to ask her about that. He came to them and informed them that she said: 'Subay'ah al-Aslamiyyah gave birth a few nights after her husband's death, and she mentioned that to the Messenger of Allah ﷺ. He said: You are lawful, so marry whom you wish.' Malik said: 'This is the matter that has always been followed by the people of knowledge among us.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Kurayb",
+              "full_name": "Kurayb ibn Abi Muslim al-Hashimi mawla Ibn Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "[implied witness]",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Umm Salamah Hind bint Abi Umayyah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms used"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Yahya ibn Sa'id -> Sulayman ibn Yasar -> Kurayb -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain from Malik through Sulayman ibn Yasar",
+          "impact": "All narrators in this chain are highly reliable and none are known mudallisun of serious concern. The connections are well-established, so this does not significantly weaken the chain."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Waiting period of pregnant widow ending upon childbirth",
+        "Incident of Subay'ah al-Aslamiyyah seeking to remarry after childbirth",
+        "Scholarly disagreement between Ibn Abbas and Abu Salamah",
+        "Abu Hurayrah supporting Abu Salamah's position"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ ، وَأَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ، اخْتَلَفَا فِي الْمَرْأَةِ تُنْفَسُ بَعْدَ وَفَاةِ زَوْجِهَا بِلَيَالٍ ، فَقَالَ أَبُو سَلَمَةَ : \" إِذَا وَضَعَتْ مَا فِي بَطْنِهَا ، فَقَدْ حَلَّتْ \" ، وَقَالَ ابْنُ عَبَّاسٍ : \" آخِرَ الْأَجَلَيْنِ \" ، فَجَاءَ /93 أَبُو هُرَيْرَةَ L4396 /93 ، فَقَالَ : أَنَا مَعَ ابْنِ أَخِي يَعْنِي أَبَا سَلَمَةَ /27 فَبَعَثُوا كُرَيْبًا مَوْلَى عَبْدِ اللَّهِ بْنِ عَبَّاسٍ إِلَى /93 أُمِّ سَلَمَةَ L8101 /93 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَسْأَلُهَا عَنْ ذَلِكَ ، فَجَاءَهُمْ ، فَأَخْبَرَهُمْ أَنَّهَا قَالَتْ : /20 وَلَدَتْ /64 سُبَيْعَةُ الْأَسْلَمِيَّةُ /64 بَعْدَ وَفَاةِ زَوْجِهَا بِلَيَالٍ ، فَذَكَرَتْ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : \" قَدْ حَلَلْتِ ، فَانْكِحِي مَنْ شِئْتِ \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَهَذَا الْأَمْرُ الَّذِي لَمْ يَزَلْ عَلَيْهِ أَهْلُ الْعِلْمِ عِنْدَنَا /10",
+      "collection": "Muwatta Malik",
+      "reference_number": 1454
+    },
+    {
+      "hadith_id": 9160,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by al-Furay'ah bint Malik ibn Sinan: Yahya narrated to me from Malik, from Sa'id ibn Ishaq ibn Ka'b ibn Ujrah, from his paternal aunt Zaynab bint Ka'b ibn Ujrah, that al-Furay'ah bint Malik ibn Sinan, the sister of Abu Sa'id al-Khudri, informed her that she came to the Messenger of Allah ﷺ asking him to return to her family in Banu Khudrah, for her husband had gone out in pursuit of slaves of his who had fled. When they reached the edge of al-Qadum, they caught up with him and killed him. She said: So I asked the Messenger of Allah ﷺ to return to my family in Banu Khudrah, for my husband did not leave me in a dwelling he owned, nor any maintenance. She said: The Messenger of Allah ﷺ said: 'Yes.' She said: I departed until, when I was in the chamber, the Messenger of Allah ﷺ called me, or commanded someone to call me. He said: 'How did you say?' So I repeated to him the story I had mentioned to him about my husband. He said: 'Stay in your house until the Book reaches its term.' She said: So I observed my waiting period in it for four months and ten days. She said: When Uthman ibn Affan sent for me and asked me about that, I informed him, so he followed it and judged by it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Ishaq ibn Ka'b",
+              "full_name": "Sa'id ibn Ishaq ibn Ka'b ibn Ujrah al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zaynab bint Ka'b",
+              "full_name": "Zaynab bint Ka'b ibn Ujrah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Furay'ah bint Malik",
+              "full_name": "al-Furay'ah bint Malik ibn Sinan al-Ansariyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms used"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Sa'id ibn Ishaq ibn Ka'b -> Zaynab bint Ka'b -> al-Furay'ah bint Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain",
+          "impact": "All narrators are considered reliable. The chain is well-established, particularly as it passes through family members (Sa'id from his aunt Zaynab, who narrates from al-Furay'ah). This familial connection strengthens the likelihood of direct transmission."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Widow observing waiting period in her marital home",
+        "Incident of al-Furay'ah bint Malik seeking permission to return to her family",
+        "Prophetic instruction to remain in marital home during waiting period",
+        "Uthman ibn Affan judging according to this hadith"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 سَعِيدِ بْنِ إِسْحَاق بْنِ كَعْبِ بْنِ عُجْرَةَ L3237 /94 ، عَنْ عَمَّتِهِ /26 زَيْنَبَ بِنْتِ كَعْبِ بْنِ عُجْرَةَ L3168 /26 ، /27 أَنَّ /93 الْفُرَيْعَةَ بِنْتَ مَالِكِ بْنِ سِنَانٍ L1539 /93 وَهِيَ أُخْتُ أَبِي سَعِيدٍ الْخُدْرِيِّ أَخْبَرَتْهَا ، أَنَّهَا جَاءَتْ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تَسْأَلُهُ أَنْ تَرْجِعَ إِلَى أَهْلِهَا فِي بَنِي خُدْرَةَ ، فَإِنَّ زَوْجَهَا خَرَجَ فِي طَلَبِ أَعْبُدٍ لَهُ أَبَقُوا حَتَّى إِذَا كَانُوا بِطَرَفِ /60 الْقَدُومِ /60 لَحِقَهُمْ فَقَتَلُوهُ ، قَالَتْ : فَسَأَلْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أَرْجِعَ إِلَى أَهْلِي فِي بَنِي خُدْرَةَ ، فَإِنَّ زَوْجِي لَمْ يَتْرُكْنِي فِي مَسْكَنٍ يَمْلِكُهُ ، وَلَا نَفَقَةٍ ، قَالَتْ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" نَعَمْ \" ، قَالَتْ : فَانْصَرَفْتُ ، حَتَّى إِذَا كُنْتُ فِي الْحُجْرَةِ ، نَادَانِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَوْ أَمَرَ بِي فَنُودِيتُ لَهُ ، فَقَالَ : \" كَيْفَ قُلْتِ ؟ \" فَرَدَّدْتُ عَلَيْهِ الْقِصَّةَ الَّتِي ذَكَرْتُ لَهُ مِنْ شَأْنِ زَوْجِي ، فَقَالَ : /20 \" امْكُثِي فِي بَيْتِكِ حَتَّى يَبْلُغَ الْكِتَابُ أَجَلَهُ \" /27 ، قَالَتْ : فَاعْتَدَدْتُ فِيهِ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا . قَالَتْ : فَلَمَّا كَانَ عُثْمَانُ بْنُ عَفَّانَ أَرْسَلَ إِلَيَّ ، فَسَأَلَنِي عَنْ ذَلِكَ ، فَأَخْبَرْتُهُ ، فَاتَّبَعَهُ وَقَضَى بِهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1456
+    },
+    {
+      "hadith_id": 9161,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Umar ibn al-Khattab: It was narrated to me from Malik, from Humayd ibn Qays al-Makki, from Amr ibn Shu'ayb, from Sa'id ibn al-Musayyib, that Umar ibn al-Khattab 'used to send back women whose husbands had died from al-Bayda, preventing them from performing Hajj.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd ibn Qays",
+              "full_name": "Humayd ibn Qays al-Makki al-A'raj",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Shu'ayb",
+              "full_name": "Amr ibn Shu'ayb ibn Muhammad ibn Abdullah ibn Amr ibn al-As",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Amr ibn Shu'ayb's narrations 'from his father from his grandfather' are debated among scholars", "Some consider them acceptable (hasan), others have reservations"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan ibn Abi Wahb al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms used throughout", "Potential disconnection: Sa'id ibn al-Musayyib may not have directly heard from Umar"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Humayd ibn Qays -> Amr ibn Shu'ayb -> Sa'id ibn al-Musayyib -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Amr ibn Shu'ayb is considered Saduq but his narrations, particularly the famous chain 'from his father from his grandfather,' are debated among scholars",
+          "impact": "While many scholars accept his narrations as hasan (acceptable), others have reservations. In this case, he's not using the 'from his father from his grandfather' formula, but narrating from Sa'id ibn al-Musayyib, which is more straightforward. However, his grade as Saduq rather than Thiqah means occasional errors are possible."
+        },
+        {
+          "issue": "Potential disconnection between Sa'id ibn al-Musayyib and Umar ibn al-Khattab - Sa'id was born around year 15 AH, and Umar died in year 23 AH, making direct hearing possible but uncertain",
+          "impact": "Sa'id would have been only about 8 years old when Umar died. While it's theoretically possible he heard from Umar, it's more likely he received this through intermediaries. This makes the report potentially mursal."
+        },
+        {
+          "issue": "This is a mawquf report (action of companion Umar), not a marfu' hadith from the Prophet",
+          "impact": "While Umar's practice carries weight, this is his personal ijtihad rather than a prophetic statement."
+        },
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain",
+          "impact": "While most narrators are reliable, the cumulative effect of multiple 'an terms increases the theoretical possibility of gaps."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Widow in waiting period prevented from traveling for Hajj",
+        "Umar ibn al-Khattab's practice regarding widows in waiting period"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 حُمَيْدِ بْنِ قَيْسٍ الْمَكِّيِّ L2547 /94 ، عَنْ /26 عَمْرِو بْنِ شُعَيْبٍ L6144 /26 ، عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 \" كَانَ /20 يَرُدُّ الْمُتَوَفَّى عَنْهُنَّ أَزْوَاجُهُنَّ مِنَ الْبَيْدَاءِ ، يَمْنَعُهُنَّ الْحَجَّ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1457
+    },
+    {
+      "hadith_id": 9162,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abdullah ibn Umar: It was narrated to me from Malik, from Yahya ibn Sa'id, that it reached him that al-Sa'ib ibn Khabab died, and his wife came to Abdullah ibn Umar and mentioned her husband's death to him. She mentioned to him a farm they had at Qanah, and asked him whether it was proper for her to spend the night there. He forbade her from that. So she would leave from Madinah at dawn, arriving at their farm in the morning, staying there during her day, then entering Madinah when evening came and spending the night in her house.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "[Disconnection]",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Chain disconnection (balagha form)", "Unknown intermediaries"]
+            },
+            {
+              "name": "Wife of al-Sa'ib ibn Khabab",
+              "full_name": "Unknown woman (wife of al-Sa'ib ibn Khabab)",
+              "grade": "Majhul",
+              "generation": "Second Generation",
+              "transmissionTerm": "[implied]",
+              "reliabilityIssues": ["Unknown narrator"]
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection via balagha form (بَلَغَهُ) indicating Yahya ibn Sa'id did not receive this directly", "This is a statement/action of Abdullah ibn Umar, not traced to the Prophet"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Yahya ibn Sa'id -> [Disconnection] -> Wife of al-Sa'ib -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagha form (بَلَغَهُ) indicates clear disconnection - Yahya ibn Sa'id did not receive this report directly from a known narrator",
+          "impact": "This creates a significant gap in transmission, making the chain mursal/munqati'. The unknown intermediary narrators cannot be evaluated for reliability."
+        },
+        {
+          "issue": "The woman (wife of al-Sa'ib ibn Khabab) who asked Ibn Umar is not named, creating additional jahala (unknown status)",
+          "impact": "While her identity as the wife of al-Sa'ib is mentioned, her personal reliability cannot be assessed."
+        },
+        {
+          "issue": "This is a mawquf report (ruling of companion Abdullah ibn Umar), not a marfu' hadith from the Prophet",
+          "impact": "This represents Ibn Umar's personal legal opinion/ijtihad rather than a prophetic statement."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Widow in waiting period must spend nights in marital home",
+        "Abdullah ibn Umar's ruling on a widow's movement during waiting period"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، أَنَّهُ /18 بَلَغَهُ /18 ، /27 أَنَّ السَّائِبَ بْنَ خَبَاب تُوُفِّيَ ، وَإِنَّ امْرَأَتَهُ جَاءَتْ إِلَى /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، فَذَكَرَتْ لَهُ وَفَاةَ زَوْجِهَا ، وَذَكَرَتْ لَهُ حَرْثًا لَهُمْ /60 بِقَنَاةَ /60 ، وَسَأَلَتْهُ هَلْ /20 يَصْلُحُ لَهَا أَنْ تَبِيتَ فِيهِ ؟ فَنَهَاهَا عَنْ ذَلِكَ ، فَكَانَتْ تَخْرُجُ مِنَ /60 الْمَدِينَةِ /60 سَحَرًا ، فَتُصْبِحُ فِي حَرْثِهِمْ ، فَتَظَلُّ فِيهِ يَوْمَهَا ، ثُمَّ تَدْخُلُ /60 الْمَدِينَةَ /60 إِذَا أَمْسَتْ ، فَتَبِيتُ فِي بَيْتِهَا /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1458
+    },
+    {
+      "hadith_id": 9163,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Urwah ibn al-Zubayr: It was narrated to me from Malik, from Hisham ibn Urwah, from his father, that he used to say about a Bedouin woman whose husband dies: 'She stays wherever her family stays.' Malik said: 'This is the matter among us.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some criticism of his later Iraqi narrations", "His Medinan narrations via Malik are considered sound"]
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms used"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Hisham ibn Urwah -> Urwah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report (opinion of tabi'i Urwah ibn al-Zubayr), not a marfu' hadith from the Prophet",
+          "impact": "This represents Urwah's personal legal opinion/ijtihad rather than a prophetic statement."
+        },
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain",
+          "impact": "All narrators are reliable. Hisham's narrations from his father Urwah via Malik are considered particularly sound, as these were narrated in Medina before Hisham moved to Iraq."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Bedouin widow's waiting period observance with traveling family"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، /27 عَنْ /94 هِشَامِ بْنِ عُرْوَةَ L8055 /94 ، عَنْ /26 أَبِيهِ L5594 /26 ، أَنَّهُ كَانَ يَقُولُ فِي الْمَرْأَةِ الْبَدَوِيَّةِ يُتَوَفَّى عَنْهَا زَوْجُهَا : /20 \" إِنَّهَا تَنْتَوِي حَيْثُ انْتَوَى أَهْلُهَا \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَهَذَا الْأَمْرُ عِنْدَنَا /10",
+      "collection": "Muwatta Malik",
+      "reference_number": 1459
+    },
+    {
+      "hadith_id": 9164,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abdullah ibn Umar: It was narrated to me from Malik, from Nafi', from Abdullah ibn Umar that he used to say: 'A woman whose husband has died, and an irrevocably divorced woman, do not spend the night except in their house.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' ibn Sarjis al-Daylami mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple عَنْ ('an) terms used"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report (statement of companion Abdullah ibn Umar), not a marfu' hadith from the Prophet",
+          "impact": "This represents Ibn Umar's personal legal opinion/ijtihad rather than a prophetic statement."
+        },
+        {
+          "issue": "Multiple عَنْ ('an) transmission terms throughout the chain",
+          "impact": "The famous 'golden chain' of Malik -> Nafi' -> Ibn Umar is universally accepted as connected despite the use of 'an. All narrators are highly reliable and their direct connections are well-established."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Widow and irrevocably divorced woman must spend nights in their home during waiting period"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّهُ كَانَ يَقُولُ : /20 \" لَا تَبِيتُ الْمُتَوَفَّى عَنْهَا زَوْجُهَا ، وَلَا الْمَبْتُوتَةُ ، إِلَّا فِي بَيْتِهَا \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1460
+    }
+  ]
+}

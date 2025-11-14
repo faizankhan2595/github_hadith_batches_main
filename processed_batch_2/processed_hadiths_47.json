@@ -1,0 +1,659 @@
+{
+  "batch_number": 2,
+  "file_number": 47,
+  "record_count": 10,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9691,
+      "original_hadith_number": 1987,
+      "collection": "Muwatta Malik",
+      "english_translation": "Narrated by Abu Hurayrah: Two women from Hudhayl, one of them threw something at the other, causing her to miscarry her fetus. The Messenger of Allah ﷺ ruled in it with a ghurrah (compensation) of a male or female slave.",
+      "arabicText": "وَحَدَّثَنِي يَحْيَى، عَنْ مَالِك، عَنْ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ امْرَأَتَيْنِ مِنْ هُذَيْلٍ رَمَتْ إِحْدَاهُمَا الْأُخْرَى فَطَرَحَتْ جَنِينَهَا، فَقَضَى فِيهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِغُرَّةٍ عَبْدٍ أَوْ وَلِيدَةٍ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (category 2-3, but generally accepted as reliable)"]
+            },
+            {
+              "name": "Abu Salamah ibn Abd al-Rahman ibn Awf",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf al-Qurashi al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Abu Salamah ibn Abd al-Rahman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis by some scholars (category 2-3 in Ibn Hajar's classification) and uses 'an (عَنْ) here",
+          "impact": "However, al-Zuhri is widely considered extremely reliable by the vast majority of scholars. His tadlis is minor and his narrations are generally accepted even with 'an. This does not significantly affect the reliability of this chain."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of two women from Hudhayl with miscarriage",
+        "Blood money for fetus",
+        "Compensation for causing miscarriage"
+      ]
+    },
+    {
+      "hadith_id": 9692,
+      "original_hadith_number": 1988,
+      "collection": "Muwatta Malik",
+      "english_translation": "The Messenger of Allah ﷺ ruled regarding a fetus that is killed in its mother's womb with a ghurrah (compensation) of a male or female slave. The one who was ruled against said: 'How can I pay compensation for one who did not drink, nor eat, nor speak, nor cry out? Such a one should be considered worthless.' The Messenger of Allah ﷺ said: 'This is one of the brothers of the soothsayers.'",
+      "arabicText": "وَحَدَّثَنِي، عَنْ مَالِك، عَنْ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَضَى فِي الْجَنِينِ يُقْتَلُ فِي بَطْنِ أُمِّهِ بِغُرَّةٍ عَبْدٍ أَوْ وَلِيدَةٍ، فَقَالَ الَّذِي قُضِيَ عَلَيْهِ: كَيْفَ أَغْرَمُ مَا لَا شَرِبَ وَلَا أَكَلَ وَلَا نَطَقَ وَلَا اسْتَهَلَّ وَمِثْلُ ذَلِكَ يُطَلُّ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: إِنَّمَا هَذَا مِنْ إِخْوَانِ الْكُهَّانِ",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (category 2-3, but generally accepted as reliable)"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Mursal: Sa'id ibn al-Musayyib did not meet the Prophet ﷺ, so this chain is disconnected. He reports directly from the Prophet ﷺ without mentioning the Companion who narrated to him."]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyib -> Prophet Muhammad ﷺ (disconnected)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith. Sa'id ibn al-Musayyib was from the Second Generation (Tabi'in) and never met the Prophet ﷺ, yet he reports directly from him without mentioning the Companion intermediary",
+          "impact": "This creates a clear disconnection in the chain. Mursal hadiths are considered weak by the majority of scholars due to the missing link. Although Sa'id ibn al-Musayyib's mursal narrations are among the strongest of mursal reports, this still represents a significant chain defect."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis and uses 'an (عَنْ) here",
+          "impact": "However, al-Zuhri is widely considered extremely reliable by the vast majority of scholars. This does not significantly affect the reliability given the more serious issue of the mursal nature."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of man objecting to blood money for fetus",
+        "Prophet's ﷺ response to objection about fetal compensation",
+        "Blood money for fetus killed in womb"
+      ]
+    },
+    {
+      "hadith_id": 9693,
+      "original_hadith_number": 1989,
+      "collection": "Muwatta Malik",
+      "english_translation": "Narrated from Malik, from Rabi'ah ibn Abi Abd al-Rahman, that he used to say: 'The ghurrah is valued at fifty dinars or six hundred dirhams, and the diya (blood money) of a free Muslim woman is five hundred dinars or six thousand dirhams.' Malik said: 'The diya of the fetus of a free woman is one-tenth of her diya, and one-tenth is fifty dinars or six hundred dirhams.' Malik said: 'I have not heard anyone differ that the ghurrah is not required for the fetus until it separates from its mother's womb and falls from her belly dead.' Malik said: 'And I have heard that if the fetus exits from its mother's womb alive and then dies, the full diya is required.' Malik said: 'There is no life for the fetus except by crying out (istihla'l). So if it exits from its mother's womb and cries out, then dies, the full diya is required. And we see that in the fetus of a slave woman is one-tenth of her mother's price.' Malik said: 'And if a woman kills a man or a woman intentionally while she is pregnant, qisas (retaliation) is not taken from her until she delivers her child. And if a pregnant woman is killed intentionally or by mistake, there is nothing upon the one who killed her regarding her fetus. If she was killed intentionally, the one who killed her is killed, and there is no diya for her fetus. And if she was killed by mistake, upon the 'aqilah (male relatives) of her killer is her diya, and there is no diya for her fetus.' Yahya narrated to me: Malik was asked about the fetus of a Jewish or Christian woman that is miscarried. He said: 'I see that in it is one-tenth of her mother's diya.'",
+      "arabicText": "وَحَدَّثَنِي، عَنْ مَالِك، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّهُ كَانَ يَقُولُ: الْغُرَّةُ تُقَوَّمُ خَمْسِينَ دِينَارًا أَوْ سِتَّ مِائَةِ دِرْهَمٍ، وَدِيَةُ الْمَرْأَةِ الْحُرَّةِ الْمُسْلِمَةِ خَمْسُ مِائَةِ دِينَارٍ أَوْ سِتَّةُ آلَافِ دِرْهَمٍ. قَالَ مَالِك: فَدِيَةُ جَنِينِ الْحُرَّةِ عُشْرُ دِيَتِهَا وَالْعُشْرُ خَمْسُونَ دِينَارًا أَوْ سِتُّ مِائَةِ دِرْهَمٍ. قَالَ مَالِك: وَلَمْ أَسْمَعْ أَحَدًا يُخَالِفُ فِي أَنَّ الْجَنِينَ لَا تَكُونُ فِيهِ الْغُرَّةُ حَتَّى يُزَايِلَ بَطْنَ أُمِّهِ وَيَسْقُطُ مِنْ بَطْنِهَا مَيِّتًا. قَالَ مَالِك: وَسَمِعْتُ أَنَّهُ إِذَا خَرَجَ الْجَنِينُ مِنْ بَطْنِ أُمِّهِ حَيًّا ثُمَّ مَاتَ أَنَّ فِيهِ الدِّيَةَ كَامِلَةً. قَالَ مَالِك: وَلَا حَيَاةَ لِلْجَنِينِ إِلَّا بِالْاسْتِهْلَالِ، فَإِذَا خَرَجَ مِنْ بَطْنِ أُمِّهِ فَاسْتَهَلَّ ثُمَّ مَاتَ، فَفِيهِ الدِّيَةُ كَامِلَةً، وَنَرَى أَنَّ فِي جَنِينِ الْأَمَةِ عُشْرَ ثَمَنِ أُمِّهِ. قَالَ مَالِك: وَإِذَا قَتَلَتِ الْمَرْأَةُ رَجُلًا أَوِ امْرَأَةً عَمْدًا وَالَّتِي قَتَلَتْ حَامِلٌ، لَمْ يُقَدْ مِنْهَا حَتَّى تَضَعَ حَمْلَهَا، وَإِنْ قُتِلَتِ الْمَرْأَةُ وَهِيَ حَامِلٌ عَمْدًا أَوْ خَطَأً فَلَيْسَ عَلَى مَنْ قَتَلَهَا فِي جَنِينِهَا شَيْءٌ، فَإِنْ قُتِلَتْ عَمْدًا قُتِلَ الَّذِي قَتَلَهَا وَلَيْسَ فِي جَنِينِهَا دِيَةٌ، وَإِنْ قُتِلَتْ خَطَأً فَعَلَى عَاقِلَةِ قَاتِلِهَا دِيَتُهَا وَلَيْسَ فِي جَنِينِهَا دِيَةٌ. وَحَدَّثَنِي يَحْيَى، سُئِلَ مَالِك عَنْ جَنِينِ الْيَهُودِيَّةِ وَالنَّصْرَانِيَّةِ يُطْرَحُ؟ فَقَالَ: أَرَى أَنَّ فِيهِ عُشْرَ دِيَةِ أُمِّهِ",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mawquf report (statement of a Tabi'i scholar, not from the Prophet ﷺ). It contains the legal opinions of Rabi'ah ibn Abi Abd al-Rahman and Malik ibn Anas, not a hadith from the Prophet ﷺ."]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Rabi'ah ibn Abi Abd al-Rahman (statement of Tabi'i)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith from the Prophet ﷺ but rather statements (aqwal) of scholars",
+          "impact": "This is a mawquf report containing the legal opinions and ijtihad of Rabi'ah and Malik. It does not constitute a prophetic hadith and should be understood as scholarly opinion, not as direct transmission from the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Opinion",
+      "Topics": [
+        "Valuation of blood money for fetus",
+        "Blood money for free Muslim woman",
+        "Delayed execution for pregnant woman",
+        "Blood money for non-Muslim fetus"
+      ]
+    },
+    {
+      "hadith_id": 9695,
+      "original_hadith_number": 1991,
+      "collection": "Muwatta Malik",
+      "english_translation": "Narrated by Sa'id ibn al-Musayyib: Regarding the two lips, he used to say: 'The full diya. And if the lower one is cut, then two-thirds of the diya is in it.'",
+      "arabicText": "حَدَّثَنِي يَحْيَى، عَنْ مَالِك، عَنْ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ كَانَ يَقُولُ فِي الشَّفَتَيْنِ: الدِّيَةُ كَامِلَةً فَإِذَا قُطِعَتِ السُّفْلَى فَفِيهَا ثُلُثَا الدِّيَة",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (category 2-3, but generally accepted as reliable)"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mawquf report (statement of a Tabi'i, not from the Prophet ﷺ). It contains the legal opinion of Sa'id ibn al-Musayyib."]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyib (statement of Tabi'i)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith from the Prophet ﷺ but rather a statement (qawl) of Sa'id ibn al-Musayyib",
+          "impact": "This is a mawquf report containing the legal opinion and ijtihad of Sa'id ibn al-Musayyib. It does not constitute a prophetic hadith and should be understood as scholarly opinion."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an (عَنْ) and is classified as a mudallis",
+          "impact": "However, al-Zuhri is widely considered extremely reliable by the vast majority of scholars. This does not significantly affect the reliability of transmitting Sa'id's statement."
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Opinion",
+      "Topics": [
+        "Blood money for lips",
+        "Compensation for cutting lower lip"
+      ]
+    },
+    {
+      "hadith_id": 9696,
+      "original_hadith_number": 1992,
+      "collection": "Muwatta Malik",
+      "english_translation": "Malik said: 'I asked Ibn Shihab about a one-eyed man who blinds the eye of a sound person.' Ibn Shihab said: 'If the sound person wishes to have retaliation (qisas) from him, he has qisas. And if he wishes, he has the diya: one thousand dinars or twelve thousand dirhams.' Yahya narrated to me from Malik that it reached him: That for every pair from the human being is the full diya, and that for the tongue is the full diya, and that for the two ears if their hearing goes is the full diya, whether they are cut off or not cut off, and for the man's penis is the full diya, and for the two testicles is the full diya. Yahya narrated to me from Malik that it reached him: That for the two breasts of a woman is the full diya. Malik said: 'The lightest of that in my view are the two eyebrows and the two breasts of a man.' Malik said: 'The matter with us is: That if a man is injured in his limbs more than his diya, that is for him - if his two hands and his two feet and his two eyes are injured, he has three diyas.' Malik said regarding the sound eye of a one-eyed man if it is blinded by mistake: 'In it is the full diya.'",
+      "arabicText": "حَدَّثَنِي يَحْيَى، عَنْ مَالِك، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ: عَنِ الرَّجُلِ الْأَعْوَرِ يَفْقَأُ عَيْنَ الصَّحِيحِ؟ فَقَالَ ابْنُ شِهَابٍ: إِنْ أَحَبَّ الصَّحِيحُ أَنْ يَسْتَقِيدَ مِنْهُ فَلَهُ الْقَوَدُ، وَإِنْ أَحَبَّ فَلَهُ الدِّيَةُ أَلْفُ دِينَارٍ أَوِ اثْنَا عَشَرَ أَلْفَ دِرْهَمٍ. وَحَدَّثَنِي يَحْيَى، عَنْ مَالِك، أَنَّهُ بَلَغَهُ: أَنَّ فِي كُلِّ زَوْجٍ مِنَ الْإِنْسَانِ الدِّيَةَ كَامِلَةً، وَأَنَّ فِي اللِّسَانِ الدِّيَةَ كَامِلَةً، وَأَنَّ فِي الْأُذُنَيْنِ إِذَا ذَهَبَ سَمْعُهُمَا الدِّيَةَ كَامِلَةً، اصْطُلِمَتَا أَوْ لَمْ تُصْطَلَمَا، وَفِي ذَكَرِ الرَّجُلِ الدِّيَةُ كَامِلَةً، وَفِي الْأُنْثَيَيْنِ الدِّيَةُ كَامِلَةً. وَحَدَّثَنِي يَحْيَى، عَنْ مَالِك، أَنَّهُ بَلَغَهُ: أَنَّ فِي ثَدْيَيِ الْمَرْأَةِ الدِّيَةَ كَامِلَةً. قَالَ مَالِك: وَأَخَفُّ ذَلِكَ عِنْدِي الْحَاجِبَانِ وَثَدْيَا الرَّجُلِ. قَالَ مَالِك: الْأَمْرُ عِنْدَنَا: أَنَّ الرَّجُلَ إِذَا أُصِيبَ مِنْ أَطْرَافِهِ أَكْثَرُ مِنْ دِيَتِهِ فَذَلِكَ لَهُ إِذَا أُصِيبَتْ يَدَاهُ وَرِجْلَاهُ وَعَيْنَاهُ فَلَهُ ثَلَاثُ دِيَاتٍ. قَالَ مَالِك فِي عَيْنِ الْأَعْوَرِ الصَّحِيحَةِ إِذَا فُقِئَتْ خَطَأً: إِنَّ فِيهَا الدِّيَةَ كَامِلَةً",
+      "chains": [
+        {
+          "type": "mawquf and balaghat",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "Multiple: سَأَلَ / بَلَغَهُ / قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This contains multiple types of reports: (1) Malik's question to Ibn Shihab with his answer (mawquf), (2) Reports that 'reached' Malik (balaghat - disconnected reports with unknown sources), (3) Malik's own legal opinions. None of these are marfu' hadiths from the Prophet ﷺ."]
+        }
+      ],
+      "plainChains": [
+        "Multiple reports: Malik's questions, balaghat reports, and Malik's opinions (not prophetic hadiths)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith from the Prophet ﷺ but rather contains: (1) Ibn Shihab's legal opinion, (2) Disconnected reports (balaghat) without chains, (3) Malik's own legal opinions",
+          "impact": "These are scholarly opinions and legal rulings, not prophetic hadiths. The balaghat reports ('it reached him') are particularly weak as the source is unknown and the chain is completely disconnected."
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Opinions and Balaghat",
+      "Topics": [
+        "Blood money for paired body parts",
+        "Qisas for one-eyed man blinding sound person",
+        "Blood money for tongue, ears, genitals",
+        "Multiple injuries exceeding single diya"
+      ]
+    },
+    {
+      "hadith_id": 9698,
+      "original_hadith_number": 1994,
+      "collection": "Muwatta Malik",
+      "english_translation": "Narrated that Zayd ibn Thabit used to say regarding a standing eye when its sight is extinguished: 'One hundred dinars.' Yahya said: Malik was asked about eyelid injury and eye socket. He said: 'There is nothing in that except ijtihad (judicial discretion), unless it decreases the sight of the eye, then he has according to what was decreased from the sight of the eye.' Yahya said: Malik said: 'The matter with us regarding a standing blind eye when its sight is extinguished, and regarding a paralyzed hand when it is cut off, is that there is nothing in that except ijtihad, and there is no specified blood money in that.'",
+      "arabicText": "حَدَّثَنِي يَحْيَى، عَنْ مَالِك، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، أَنَّ زَيْدَ بْنَ ثَابِتٍ، كَانَ يَقُولُ فِي الْعَيْنِ الْقَائِمَةِ إِذَا طَفِئَتْ: مِائَةُ دِينَارٍ. قَالَ يَحْيَى: وَسُئِلَ مَالِك، عَنْ شَتَرِ الْعَيْنِ وَحِجَاجِ الْعَيْنِ؟ فَقَالَ: لَيْسَ فِي ذَلِكَ إِلَّا الْاجْتِهَادُ، إِلَّا أَنْ يَنْقُصَ بَصَرُ الْعَيْنِ فَيَكُونُ لَهُ بِقَدْرِ مَا نَقَصَ مِنْ بَصَرِ الْعَيْنِ. قَالَ يَحْيَى: قَالَ مَالِك: الْأَمْرُ عِنْدَنَا فِي الْعَيْنِ الْقَائِمَةِ الْعَوْرَاءِ إِذَا طَفِئَتْ، وَفِي الْيَدِ الشَّلَّاءِ إِذَا قُطِعَتْ، إِنَّهُ لَيْسَ فِي ذَلِكَ إِلَّا الْاجْتِهَادُ، وَلَيْسَ فِي ذَلِكَ عَقْلٌ مُسَمًّى",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Thabit",
+              "full_name": "Zayd ibn Thabit ibn al-Dahhak al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mawquf report (statement of a Companion, not from the Prophet ﷺ). It contains the legal opinion of Zayd ibn Thabit and additional opinions from Malik."]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Yahya ibn Sa'id -> Sulayman ibn Yasar -> Zayd ibn Thabit (statement of Companion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report - a statement of the Companion Zayd ibn Thabit, not a marfu' hadith from the Prophet ﷺ",
+          "impact": "While the chain to Zayd ibn Thabit is sound, this represents his personal legal opinion (ijtihad) rather than a direct prophetic teaching. Additionally, Malik's own opinions are added, which are scholarly views."
+        },
+        {
+          "issue": "The transmission term 'anna' (أَنَّ) is used for Zayd ibn Thabit",
+          "impact": "This is an indirect transmission term that can indicate potential disconnection, though in this context it appears to be reporting Zayd's consistent practice and opinion."
+        }
+      ],
+      "IISGrade": "Not Applicable - Companion Opinion",
+      "Topics": [
+        "Blood money for blind eye that is extinguished",
+        "Judicial discretion for eyelid injuries",
+        "Compensation for paralyzed hand when cut"
+      ]
+    },
+    {
+      "hadith_id": 9700,
+      "original_hadith_number": 1996,
+      "collection": "Muwatta Malik",
+      "english_translation": "Yahya narrated to me from Malik, from Yahya ibn Sa'id, that he heard Sulayman ibn Yasar mention: 'That the mudiha (wound exposing bone) on the face is like the mudiha on the head, except that if it disfigures the face, there is added to its compensation what is between it and half the compensation of the mudiha on the head, so in it would be seventy-five dinars.' Malik said: 'And the matter with us is that in the munaqqilah (wound that breaks bone fragments) is fifteen obligations. He said: The munaqqilah is that whose bone fragments fly out and it does not pierce to the brain, and it occurs on the head and on the face.' Malik said: 'The matter agreed upon with us is: That the ma'mumah (wound reaching the brain) and the ja'ifah (wound reaching the body cavity) - there is no qisas (retaliation) in them.'",
+      "arabicText": "وَحَدَّثَنِي يَحْيَى، عَنْ مَالِك، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّهُ سَمِعَ سُلَيْمَانَ بْنَ يَسَارٍ يَذْكُرُ: أَنَّ الْمُوضِحَةَ فِي الْوَجْهِ مِثْلُ الْمُوضِحَةِ فِي الرَّأْسِ، إِلَّا أَنْ تَعِيبَ الْوَجْهَ فَيُزَادُ فِي عَقْلِهَا، مَا بَيْنَهَا وَبَيْنَ عَقْلِ نِصْفِ الْمُوضِحَةِ فِي الرَّأْسِ، فَيَكُونُ فِيهَا خَمْسَةٌ وَسَبْعُونَ دِينَارًا. قَالَ مَالِك: وَالْأَمْرُ عِنْدَنَا أَنَّ فِي الْمُنَقِّلَةِ خَمْسَ عَشَرَةَ فَرِيضَةً. قَالَ: وَالْمُنَقِّلَةُ الَّتِي يَطِيرُ فِرَاشُهَا مِنَ الْعَظْمِ وَلَا تَخْرِقُ إِلَى الدِّمَاغِ، وَهِيَ تَكُونُ فِي الرَّأْسِ وَفِي الْوَجْهِ. قَالَ مَالِك: الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا: أَنَّ الْمَأْمُومَةَ وَالْجَائِفَةَ لَيْسَ فِيهِمَا قَوَدٌ",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mawquf report (statement of a Tabi'i scholar, not from the Prophet ﷺ). It contains the legal opinions of Sulayman ibn Yasar and Malik ibn Anas."]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Yahya ibn Sa'id -> Sulayman ibn Yasar (statement of Tabi'i)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith from the Prophet ﷺ but rather statements of Tabi'i scholars",
+          "impact": "This is a mawquf report containing the legal opinions and scholarly consensus ('the matter agreed upon with us') of the Madinan scholars, particularly Sulayman ibn Yasar and Malik. It represents scholarly ijtihad, not prophetic hadith."
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Opinion",
+      "Topics": [
+        "Blood money for mudiha wound on face vs head",
+        "Compensation for facial disfigurement",
+        "Blood money for munaqqilah wound",
+        "No retaliation for ma'mumah and ja'ifah wounds"
+      ]
+    },
+    {
+      "hadith_id": 9701,
+      "original_hadith_number": 1997,
+      "collection": "Muwatta Malik",
+      "english_translation": "Ibn Shihab said: 'There is no qisas (retaliation) for the ma'mumah (wound reaching the brain).' Malik said: 'And the ma'mumah is what pierces the bone to the brain, and the ma'mumah only occurs in the head. And what reaches the brain when it pierces the bone.' Malik said: 'The matter with us is that there is no blood money for what is less than the mudiha (wound exposing bone) from wounds, until it reaches the mudiha. And the blood money is only in the mudiha and what is above it. That is because the Messenger of Allah ﷺ ended at the mudiha in his letter to Amr ibn Hazm, and he made in it five camels. And the leaders did not rule in the past nor in recent times regarding what is less than the mudiha with blood money.'",
+      "arabicText": "وَقَدْ قَالَ ابْنُ شِهَابٍ: لَيْسَ فِي الْمَأْمُومَةِ قَوَدٌ. قَالَ مَالِك: وَالْمَأْمُومَةُ مَا خَرَقَ الْعَظْمَ إِلَى الدِّمَاغِ، وَلَا تَكُونُ الْمَأْمُومَةُ إِلَّا فِي الرَّأْسِ. وَمَا يَصِلُ إِلَى الدِّمَاغِ إِذَا خَرَقَ الْعَظْمَ. قَالَ مَالِك: الْأَمْرُ عِنْدَنَا أَنَّهُ لَيْسَ فِيمَا دُونَ الْمُوضِحَةِ مِنَ الشِّجَاجِ عَقْلٌ، حَتَّى تَبْلُغَ الْمُوضِحَةَ، وَإِنَّمَا الْعَقْلُ فِي الْمُوضِحَةِ فَمَا فَوْقَهَا، وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ انْتَهَى إِلَى الْمُوضِحَةِ فِي كِتَابِهِ لِعَمْرِو بْنِ حَزْمٍ، فَجَعَلَ فِيهَا خَمْسًا مِنَ الْإِبِلِ، وَلَمْ تَقْضِ الْأَئِمَّةُ فِي الْقَدِيمِ وَلَا فِي الْحَدِيثِ فِيمَا دُونَ الْمُوضِحَةِ بِعَقْلٍ",
+      "chains": [
+        {
+          "type": "mursal (indirect reference to prophetic practice)",
+          "narrators": [
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This contains: (1) Ibn Shihab's legal opinion, (2) Malik's legal opinions, (3) An indirect reference to the Prophet's ﷺ letter to Amr ibn Hazm without a proper chain. The reference to the Prophet's letter is not transmitted with a complete sanad, making it mursal or mu'dal."]
+        }
+      ],
+      "plainChains": [
+        "Statements of Ibn Shihab and Malik with indirect reference to Prophet's letter (disconnected)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This primarily contains scholarly opinions of Ibn Shihab and Malik. The reference to the Prophet's ﷺ letter to Amr ibn Hazm lacks a proper chain",
+          "impact": "While the letter to Amr ibn Hazm is famous, the reference here is indirect without a connected sanad. The hadith of the letter has been debated by scholars regarding its authenticity. The main content here is scholarly opinion based on that letter."
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Opinion with Indirect Reference",
+      "Topics": [
+        "No retaliation for ma'mumah wound",
+        "Definition of ma'mumah wound",
+        "Blood money starts from mudiha wound",
+        "Prophet's ﷺ letter to Amr ibn Hazm about wounds"
+      ]
+    },
+    {
+      "hadith_id": 9702,
+      "original_hadith_number": 1998,
+      "collection": "Muwatta Malik",
+      "english_translation": "Yahya narrated to me from Malik, from Yahya ibn Sa'id, from Sa'id ibn al-Musayyib, that he said: 'Every penetrating wound in a limb from the limbs, in it is one-third of the blood money of that limb.' Malik narrated to me: 'Ibn Shihab did not see that. And I do not see in a penetrating wound in a limb from the limbs in the body a matter agreed upon, but I see in it ijtihad (judicial discretion); the Imam exercises ijtihad in that, and there is no agreed-upon matter regarding it with us.' Malik said: 'The matter with us is that the ma'mumah, munaqqilah, and mudiha only occur on the face and head. Whatever of that is on the body, there is nothing in it except ijtihad.' Malik said: 'So I do not see the lower jaw and the nose as part of the head in their wounds, because they are two separate bones, and the head after them is one bone.' Yahya narrated to me from Malik, from Rabi'ah ibn Abi Abd al-Rahman, that Abdullah ibn al-Zubayr inflicted qisas (retaliation) for the munaqqilah.",
+      "arabicText": "وَحَدَّثَنِي يَحْيَى، عَنْ مَالِك، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّهُ قَالَ: كُلُّ نَافِذَةٍ فِي عُضْوٍ مِنَ الْأَعْضَاءِ فَفِيهَا ثُلُثُ عَقْلِ ذَلِكَ الْعُضْوِ. حَدَّثَنِي مَالِك: كَانَ ابْنُ شِهَابٍ لَا يَرَى ذَلِكَ. وَأَنَا لَا أَرَى فِي نَافِذَةٍ فِي عُضْوٍ مِنَ الْأَعْضَاءِ فِي الْجَسَدِ أَمْرًا مُجْتَمَعًا عَلَيْهِ، وَلَكِنِّي أَرَى فِيهَا الْاجْتِهَادَ يَجْتَهِدُ الْإِمَامُ فِي ذَلِكَ، وَلَيْسَ فِي ذَلِكَ أَمْرٌ مُجْتَمَعٌ عَلَيْهِ عِنْدَنَا. قَالَ مَالِك: الْأَمْرُ عِنْدَنَا أَنَّ الْمَأْمُومَةَ وَالْمُنَقِّلَةَ وَالْمُوضِحَةَ لَا تَكُونُ إِلَّا فِي الْوَجْهِ وَالرَّأْسِ فَمَا كَانَ فِي الْجَسَدِ مِنْ ذَلِكَ فَلَيْسَ فِيهِ إِلَّا الْاجْتِهَادُ. قَالَ مَالِك: فَلَا أَرَى اللَّحْيَ الْأَسْفَلَ وَالْأَنْفَ مِنَ الرَّأْسِ فِي جِرَاحِهِمَا لِأَنَّهُمَا عَظْمَانِ مُنْفَرِدَانِ، وَالرَّأْسُ بَعْدَهُمَا عَظْمٌ وَاحِدٌ. وَحَدَّثَنِي يَحْيَى، عَنْ مَالِك، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ أَقَادَ مِنَ الْمُنَقِّلَةِ",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This contains multiple mawquf reports: (1) Sa'id ibn al-Musayyib's opinion, (2) Ibn Shihab's disagreement, (3) Malik's extensive legal opinions, (4) Report of Abdullah ibn al-Zubayr's judicial action. None are marfu' hadiths from the Prophet ﷺ."]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn al-Zubayr",
+              "full_name": "Abdullah ibn al-Zubayr ibn al-Awwam al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mawquf report about Abdullah ibn al-Zubayr's judicial action as a ruler, not a hadith from the Prophet ﷺ."]
+        }
+      ],
+      "plainChains": [
+        "Chain 1: Yahya -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyib (statement of Tabi'i)",
+        "Chain 2: Yahya -> Malik -> Rabi'ah -> Abdullah ibn al-Zubayr (action of Companion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith from the Prophet ﷺ but rather contains scholarly opinions and a report of a Companion's judicial action",
+          "impact": "These are mawquf reports containing: (1) Differing scholarly opinions between Sa'id ibn al-Musayyib, Ibn Shihab, and Malik about blood money for penetrating wounds, (2) Malik's extensive legal reasoning, (3) A report that Abdullah ibn al-Zubayr inflicted qisas for munaqqilah. These represent scholarly ijtihad and judicial precedent, not prophetic hadith."
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Opinions and Companion Action",
+      "Topics": [
+        "Blood money for penetrating wounds in limbs",
+        "Scholarly disagreement on wound compensation",
+        "Classification of wounds requiring blood money",
+        "Abdullah ibn al-Zubayr's judicial ruling on munaqqilah"
+      ]
+    },
+    {
+      "hadith_id": 9704,
+      "original_hadith_number": 2000,
+      "collection": "Muwatta Malik",
+      "english_translation": "Narrated from Rabi'ah ibn Abi Abd al-Rahman, that he said: I asked Sa'id ibn al-Musayyib: 'How much is for a woman's finger?' He said: 'Ten camels.' I said: 'How much for two fingers?' He said: 'Twenty camels.' I said: 'How much for three?' He said: 'Thirty camels.' I said: 'How much for four?' He said: 'Twenty camels.' I said: 'When her wound became greater and her affliction more severe, her blood money decreased?' Sa'id said: 'Are you an Iraqi?' I said: 'Rather, a knowledgeable person seeking to verify, or an ignorant person seeking to learn.' Sa'id said: 'It is the Sunnah, O my nephew.' Malik said: 'The matter with us regarding the fingers of the hand when they are cut - their blood money is complete. That is because the five fingers when cut, their blood money is the blood money of the hand: fifty camels, ten camels for each finger.' Malik said: 'And the calculation of the fingers is thirty-three dinars and one-third of a dinar for each joint, and it is from camels three obligations and one-third of an obligation.'",
+      "arabicText": "وَحَدَّثَنِي يَحْيَى، عَنْ مَالِك، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّهُ قَالَ: سَأَلْتُ سَعِيدَ بْنَ الْمُسَيَّبِ: كَمْ فِي إِصْبَعِ الْمَرْأَةِ؟ فَقَالَ: عَشْرٌ مِنَ الْإِبِلِ، فَقُلْتُ: كَمْ فِي إِصْبَعَيْنِ؟ قَالَ: عِشْرُونَ مِنَ الْإِبِلِ، فَقُلْتُ: كَمْ فِي ثَلَاثٍ؟ فَقَالَ: ثَلَاثُونَ مِنَ الْإِبِلِ، فَقُلْتُ: كَمْ فِي أَرْبَعٍ؟ قَالَ: عِشْرُونَ مِنَ الْإِبِلِ، فَقُلْتُ: حِينَ عَظُمَ جُرْحُهَا وَاشْتَدَّتْ مُصِيبَتُهَا نَقَصَ عَقْلُهَا، فَقَالَ سَعِيدٌ: أَعِرَاقِيٌّ أَنْتَ؟ فَقُلْتُ: بَلْ عَالِمٌ مُتَثَبِّتٌ أَوْ جَاهِلٌ مُتَعَلِّمٌ، فَقَالَ سَعِيدٌ: هِيَ السُّنَّةُ يَا ابْنَ أَخِي. قَالَ مَالِك: الْأَمْرُ عِنْدَنَا فِي أَصَابِعِ الْكَفِّ إِذَا قُطِعَتْ فَقَدْ تَمَّ عَقْلُهَا، وَذَلِكَ أَنَّ خَمْسَ الْأَصَابِعِ إِذَا قُطِعَتْ كَانَ عَقْلُهَا عَقْلَ الْكَفِّ خَمْسِينَ مِنَ الْإِبِلِ فِي كُلِّ إِصْبَعٍ عَشَرَةٌ مِنَ الْإِبِلِ. قَالَ مَالِك: وَحِسَابُ الْأَصَابِعِ ثَلَاثَةٌ وَثَلَاثُونَ دِينَارًا، وَثُلُثُ دِينَارٍ فِي كُلِّ أُنْمُلَةٍ وَهِيَ مِنَ الْإِبِلِ ثَلَاثُ فَرَائِضَ وَثُلُثُ فَرِيضَةٍ",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ (in dialogue)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mawquf report containing a dialogue between Rabi'ah and Sa'id ibn al-Musayyib, followed by Malik's commentary. While Sa'id refers to it as 'Sunnah', he does not provide a chain to the Prophet ﷺ."]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Rabi'ah -> Sa'id ibn al-Musayyib (statement and dialogue of Tabi'i)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report - a dialogue between two Tabi'in scholars. Although Sa'id ibn al-Musayyib says 'It is the Sunnah', he does not provide a chain to the Prophet ﷺ",
+          "impact": "While Sa'id claims this ruling is based on Sunnah, the absence of a chain makes this effectively his opinion or his understanding of the Sunnah, not a directly transmitted prophetic hadith. This is an important historical dialogue showing how the ruling on women's fingers was established in Madinan jurisprudence, but it lacks a connected sanad to the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Not Applicable - Scholarly Dialogue and Opinion",
+      "Topics": [
+        "Dialogue between Rabi'ah and Sa'id about finger compensation",
+        "Blood money for woman's fingers",
+        "The unusual Sunnah ruling on four fingers",
+        "Calculation of finger blood money"
+      ]
+    }
+  ]
+}

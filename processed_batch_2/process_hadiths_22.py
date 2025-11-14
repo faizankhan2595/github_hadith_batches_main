@@ -1,0 +1,657 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Hadith Analysis Script for Batch 2, File 22
+Classical Hadith Sciences Methodology
+"""
+
+import json
+import re
+
+def clean_arabic_text(text):
+    """Remove formatting codes and clean Arabic text"""
+    if not text:
+        return ""
+    text = re.sub(r'/\d+', '', text)
+    text = re.sub(r'L\d+', '', text)
+    text = re.sub(r'\s+', ' ', text)
+    text = re.sub(r'[@#$&*\r\n]', '', text)
+    text = text.replace('$', '').replace('&', '')
+    return text.strip()
+
+def analyze_hadith_9317():
+    """Muwatta Malik - Statement of Malik on Murabaha sales"""
+    return {
+        "hadith_id": 9317,
+        "english_translation": "Yahya narrated to me: Malik said: The agreed-upon matter among us concerning cloth that a man buys in one town, then brings to another town and sells with profit markup, is that he does not calculate in it the broker's fees, nor the folding fee, nor the binding fee, nor the expenses, nor the house rent. As for the transport cost of the cloth in carrying it, it is calculated in the original price but profit is not calculated on it, unless the seller informs the one bargaining with him of all that. If they agree on profit after knowing all that, there is no harm in it.",
+        "chains": [
+            {
+                "type": "maqtu'",
+                "narrators": [
+                    {
+                        "name": "Yahya",
+                        "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Later Narrator",
+                        "transmissionTerm": "حَدَّثَنِي",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "قَالَ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": []
+            }
+        ],
+        "plainChains": [
+            "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (statement)"
+        ],
+        "potential_issues": [
+            {
+                "issue": "This is a statement (qawl) of Imam Malik, not a hadith from the Prophet ﷺ. It is classified as maqtu' - a statement from a Tabi'i or later scholar.",
+                "impact": "This is jurisprudential opinion (fiqh) based on the practice of Madinah, not a direct prophetic narration. It represents the consensus view in Madinah according to Malik."
+            }
+        ],
+        "IISGrade": "Sound",
+        "Topics": [
+            "Commercial Transactions - Murabaha Sale",
+            "Calculation of Costs in Profit-Markup Sales",
+            "Disclosure Requirements in Trade"
+        ],
+        "arabicText": "حَدَّثَنِي يَحْيَى ، قَالَ مَالِك : الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا فِي الْبَزِّ يَشْتَرِيهِ الرَّجُلُ بِبَلَدٍ ، ثُمَّ يَقْدَمُ بِهِ بَلَدًا آخَرَ فَيَبِيعُهُ مُرَابَحَةً : إِنَّهُ لَا يَحْسِبُ فِيهِ أَجْرَ السَّمَاسِرَةِ وَلَا أَجْرَ الطَّيِّ وَلَا الشَّدِّ وَلَا النَّفَقَةَ وَلَا كِرَاءَ بَيْتٍ ، فَأَمَّا كِرَاءُ الْبَزِّ فِي حُمْلَانِهِ فَإِنَّهُ يُحْسَبُ فِي أَصْلِ الثَّمَنِ وَلَا يُحْسَبُ فِيهِ رِبْحٌ ، إِلَّا أَنْ يُعْلِمَ الْبَائِعُ مَنْ يُسَاوِمُهُ بِذَلِكَ كُلِّهِ ، فَإِنْ رَبَّحُوهُ عَلَى ذَلِكَ كُلِّهِ بَعْدَ الْعِلْمِ بِهِ فَلَا بَأْسَ بِهِ",
+        "collection": "Muwatta Malik",
+        "reference_number": 1613,
+        "grade": "Maqtu' Sahih"
+    }
+
+def analyze_hadith_9319():
+    """Muwatta Malik - Statement of Malik on sale by description"""
+    return {
+        "hadith_id": 9319,
+        "english_translation": "Malik said: The matter among us concerning people who buy goods - cloth or slaves - and a man hears about it and says to one of them: 'The cloth you bought from so-and-so, its description and condition have reached me, would you sell me your share with such-and-such profit?' He says: 'Yes.' So he profits him and becomes a partner with the people in his place. Then when he looks at it, he finds it ugly and considers it overpriced. Malik said: That is binding on him and he has no choice in it, if he bought it based on a written description and known specifications.",
+        "chains": [
+            {
+                "type": "maqtu'",
+                "narrators": [
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "قَالَ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": []
+            }
+        ],
+        "plainChains": [
+            "Malik ibn Anas (statement)"
+        ],
+        "potential_issues": [
+            {
+                "issue": "This is a jurisprudential statement (fatwa) from Imam Malik, not a hadith from the Prophet ﷺ. It is maqtu'.",
+                "impact": "Represents Maliki legal opinion on sale by description (bay' al-sifah). Not a prophetic narration but legal reasoning based on the practice of Madinah."
+            }
+        ],
+        "IISGrade": "Sound",
+        "Topics": [
+            "Commercial Transactions - Sale by Description",
+            "Binding Nature of Contracts Based on Specifications",
+            "Partnership in Trade Goods"
+        ],
+        "arabicText": "قَالَ مَالِك : الْأَمْرُ عِنْدَنَا فِي الْقَوْمِ يَشْتَرُونَ السِّلْعَةَ الْبَزَّ أَوِ الرَّقِيقَ فَيَسْمَعُ بِهِ الرَّجُلُ ، فَيَقُولُ لِرَجُلٍ مِنْهُمْ : الْبَزُّ الَّذِي اشْتَرَيْتَ مِنْ فُلَانٍ قَدْ بَلَغَتْنِي صِفَتُهُ وَأَمْرُهُ ، فَهَلْ لَكَ أَنْ أُرْبِحَكَ فِي نَصِيبِكَ كَذَا وَكَذَا ؟ فَيَقُولُ : نَعَمْ . فَيُرْبِحُهُ وَيَكُونُ شَرِيكًا لِلْقَوْمِ مَكَانَهُ ، فَإِذَا نَظَرَ إِلَيْهِ رَآهُ قَبِيحًا وَاسْتَغْلَاهُ . قَالَ مَالِك : ذَلِكَ لَازِمٌ لَهُ وَلَا خِيَارَ لَهُ فِيهِ ، إِذَا كَانَ ابْتَاعَهُ عَلَى بَرْنَامَجٍ وَصِفَةٍ مَعْلُومَةٍ",
+        "collection": "Muwatta Malik",
+        "reference_number": 1615,
+        "grade": "Maqtu' Sahih"
+    }
+
+def analyze_hadith_9321():
+    """Famous hadith on khiyar al-majlis - The Golden Chain of Malik"""
+    return {
+        "hadith_id": 9321,
+        "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'The two parties in a business transaction have the option (to cancel it) as long as they have not separated, except in a transaction with the option (stipulated beforehand).'",
+        "chains": [
+            {
+                "type": "marfu'",
+                "narrators": [
+                    {
+                        "name": "Yahya",
+                        "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Later Narrator",
+                        "transmissionTerm": "حَدَّثَنِي",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Nafi'",
+                        "full_name": "Nafi' mawla Ibn Umar",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Third Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Abdullah ibn Umar",
+                        "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+                        "grade": "Companion",
+                        "generation": "Companion",
+                        "transmissionTerm": "أَنَّ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": []
+            }
+        ],
+        "plainChains": [
+            "Yahya ibn Yahya -> Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+        ],
+        "potential_issues": [
+            {
+                "issue": "The chain uses 'an (عَنْ) from Malik and Nafi', which is an ambiguous transmission term. However, this is the famous 'Golden Chain' (Silsilat al-Dhahab) of Malik -> Nafi' -> Ibn Umar, considered one of the most authentic chains in hadith literature.",
+                "impact": "Despite the use of 'an, this chain is considered extremely strong due to: (1) Malik's confirmed direct hearing from Nafi', well-documented and undisputed; (2) Nafi's confirmed companionship with Ibn Umar for decades; (3) Neither Malik nor Nafi' are known for problematic tadlis. This is one of the most authenticated chains in Islamic scholarship."
+            },
+            {
+                "issue": "Imam Malik himself stated in the Muwatta that 'this has no known limit with us, nor a practice acted upon regarding it,' indicating the Madinans did not act upon this hadith regarding khiyar al-majlis.",
+                "impact": "This represents a famous jurisprudential difference: While the hadith itself is authentic, Malik and the Madinans did not apply the option of assembly (khiyar al-majlis) in their practice, preferring other evidences. The hadith's authenticity is not questioned, but its legal application was."
+            }
+        ],
+        "IISGrade": "Perfect",
+        "Topics": [
+            "Option to Cancel in Business Transactions",
+            "Khiyar al-Majlis - Assembly Option",
+            "Rights of Contracting Parties"
+        ],
+        "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" الْمُتَبَايِعَانِ كُلُّ وَاحِدٍ مِنْهُمَا بِالْخِيَارِ عَلَى صَاحِبِهِ مَا لَمْ يَتَفَرَّقَا إِلَّا بَيْعَ الْخِيَارِ \"",
+        "collection": "Muwatta Malik",
+        "reference_number": 1617,
+        "grade": "Sahih"
+    }
+
+def analyze_hadith_9322():
+    """Mursal hadith from Ibn Mas'ud"""
+    return {
+        "hadith_id": 9322,
+        "english_translation": "Malik narrated to me that it reached him that Abdullah ibn Mas'ud used to narrate that the Messenger of Allah ﷺ said: 'Whichever two parties engage in a business transaction, the word is what the seller says, or they both rescind (the transaction).'",
+        "chains": [
+            {
+                "type": "marfu' mursal",
+                "narrators": [
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "حَدَّثَنِي أَنَّهُ بَلَغَهُ",
+                        "reliabilityIssues": ["balaghat form - missing intermediaries"]
+                    },
+                    {
+                        "name": "Unknown intermediary/intermediaries",
+                        "full_name": "Not specified",
+                        "grade": "Majhul",
+                        "generation": "Unknown",
+                        "transmissionTerm": "---",
+                        "reliabilityIssues": ["missing chain link(s)"]
+                    },
+                    {
+                        "name": "Abdullah ibn Mas'ud",
+                        "full_name": "Abdullah ibn Mas'ud ibn Ghafil al-Hudhali",
+                        "grade": "Companion",
+                        "generation": "Companion",
+                        "transmissionTerm": "كَانَ يُحَدِّثُ أَنَّ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": [
+                    "Disconnected chain (munqati'/mursal): The phrase 'balaghahu' (it reached him) indicates Malik did not receive this directly, and the intermediary narrators are unknown",
+                    "Missing link(s) between Malik (d. 179 H) and Ibn Mas'ud (d. 32 H) - approximately 150 years gap"
+                ]
+            }
+        ],
+        "plainChains": [
+            "Malik ibn Anas -> [Unknown intermediary/intermediaries] -> Abdullah ibn Mas'ud -> Prophet Muhammad ﷺ"
+        ],
+        "potential_issues": [
+            {
+                "issue": "This is a mursal/munqati' narration with the formula 'balaghahu' (it reached him), indicating a clear disconnection in the chain. The intermediary narrator(s) between Malik and Ibn Mas'ud are unknown.",
+                "impact": "The hadith is classified as da'if (weak) due to the disconnected chain. The balaghat form in Malik's Muwatta indicates unknown intermediaries. While Malik's balaghat narrations are generally from trustworthy sources, the lack of a connected chain prevents this from being graded as sahih."
+            },
+            {
+                "issue": "There is significant time gap (approximately 150 years) between Malik and Ibn Mas'ud, making direct transmission impossible.",
+                "impact": "This confirms the necessity of intermediate narrators who are not mentioned, further establishing the mursal/munqati' classification."
+            }
+        ],
+        "IISGrade": "Problematic",
+        "Topics": [
+            "Dispute Resolution in Business Transactions",
+            "Seller's Word in Price Disagreements",
+            "Rescission of Contracts"
+        ],
+        "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ كَانَ يُحَدِّثُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" أَيُّمَا بَيِّعَيْنِ تَبَايَعَا ، فَالْقَوْلُ مَا قَالَ الْبَائِعُ ، أَوْ يَتَرَادَّانِ \"",
+        "collection": "Muwatta Malik",
+        "reference_number": 1618,
+        "grade": "Da'if - Mursal"
+    }
+
+def analyze_hadith_9324():
+    """Athar of Zayd ibn Thabit on riba"""
+    return {
+        "hadith_id": 9324,
+        "english_translation": "Narrated by Ubayd Abi Salih, the freed slave of as-Saffah: I sold cloth of mine to the people of Dar Nakhlah on credit to a fixed term. Then I wanted to go out to Kufa, so they offered me to reduce some of the price for them if they would pay me immediately. So I asked about that Zayd ibn Thabit, and he said: 'I do not command you to consume this nor to feed it (to others).'",
+        "chains": [
+            {
+                "type": "mawquf",
+                "narrators": [
+                    {
+                        "name": "Yahya",
+                        "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Later Narrator",
+                        "transmissionTerm": "حَدَّثَنِي",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Abu al-Zinad",
+                        "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi",
+                        "grade": "Thiqah",
+                        "generation": "Fourth Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Busr ibn Sa'id",
+                        "full_name": "Busr ibn Sa'id al-Hadhrami al-Madani",
+                        "grade": "Thiqah",
+                        "generation": "Third Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Ubayd Abi Salih",
+                        "full_name": "Ubayd mawla as-Saffah",
+                        "grade": "Saduq",
+                        "generation": "Third Generation",
+                        "transmissionTerm": "أَنَّهُ قَالَ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Zayd ibn Thabit",
+                        "full_name": "Zayd ibn Thabit ibn ad-Dahhak al-Ansari al-Khazraji",
+                        "grade": "Companion",
+                        "generation": "Companion",
+                        "transmissionTerm": "فَقَالَ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": []
+            }
+        ],
+        "plainChains": [
+            "Yahya -> Malik -> Abu al-Zinad -> Busr ibn Sa'id -> Ubayd Abi Salih (asking) -> Zayd ibn Thabit"
+        ],
+        "potential_issues": [
+            {
+                "issue": "Multiple uses of the ambiguous transmission term 'an (عَنْ) in the chain from Malik through to Busr ibn Sa'id.",
+                "impact": "While 'an is generally ambiguous, in this particular chain: (1) Malik's direct connection to Abu al-Zinad is well-documented and unquestioned; (2) Abu al-Zinad's connection to Busr ibn Sa'id is established; (3) None of these narrators are known for problematic tadlis. The chain remains sound despite the use of 'an."
+            },
+            {
+                "issue": "Ubayd Abi Salih is graded as Saduq rather than Thiqah, indicating he is truthful but may have occasional memory issues.",
+                "impact": "The grade of Saduq indicates general reliability but slightly lower precision than Thiqah narrators. However, this does not significantly weaken the chain as the narration is corroborated by the overall quality of the chain and the clear incident being narrated."
+            }
+        ],
+        "IISGrade": "Sound",
+        "Topics": [
+            "Riba in Debt Transactions",
+            "Putting Time Forward for Reduction in Debt",
+            "Companion's Ruling on Questionable Financial Practice"
+        ],
+        "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ بُسْرِ بْنِ سَعِيدٍ ، عَنْ عُبَيْدٍ أَبِي صَالِحٍ مَوْلَى السَّفَّاحِ ، أَنَّهُ قَالَ : \" بِعْتُ بَزًّا لِي مِنْ أَهْلِ دَارِ نَخْلَةَ إِلَى أَجَلٍ ، ثُمَّ أَرَدْتُ الْخُرُوجَ إِلَى الْكُوفَةِ ، فَعَرَضُوا عَلَيَّ أَنْ أَضَعَ عَنْهُمْ بَعْضَ الثَّمَنِ وَيَنْقُدُونِي ، فَسَأَلْتُ عَنْ ذَلِكَ زَيْدَ بْنَ ثَابِتٍ ، فَقَالَ : لَا آمُرُكَ أَنْ تَأْكُلَ هَذَا وَلَا تُوكِلَهُ \"",
+        "collection": "Muwatta Malik",
+        "reference_number": 1620,
+        "grade": "Sahih"
+    }
+
+def analyze_hadith_9325():
+    """Ibn Umar's opinion on riba in debt"""
+    return {
+        "hadith_id": 9325,
+        "english_translation": "Narrated from Abdullah ibn Umar: He was asked about a man who has a debt owed to him by another man to a fixed term, and the creditor reduces some of it while the other hastens its payment. Abdullah ibn Umar disliked that and forbade it.",
+        "chains": [
+            {
+                "type": "mawquf",
+                "narrators": [
+                    {
+                        "name": "Narrator (unnamed)",
+                        "full_name": "Not specified in this narration",
+                        "grade": "Unknown",
+                        "generation": "Later Narrator",
+                        "transmissionTerm": "حَدَّثَنِي",
+                        "reliabilityIssues": ["unnamed narrator"]
+                    },
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Uthman ibn Hafs ibn Khaldah",
+                        "full_name": "Uthman ibn Hafs ibn Khaldah al-Jarhi al-Madani",
+                        "grade": "Thiqah",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Ibn Shihab",
+                        "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Third Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": ["mudallis - category 3"]
+                    },
+                    {
+                        "name": "Salim ibn Abdullah",
+                        "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab",
+                        "grade": "Thiqah",
+                        "generation": "Third Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Abdullah ibn Umar",
+                        "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+                        "grade": "Companion",
+                        "generation": "Companion",
+                        "transmissionTerm": "أَنَّهُ سُئِلَ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": [
+                    "The first narrator (who narrated to Malik) is not named with the phrase 'wa-haddathani' without specification",
+                    "Ibn Shihab al-Zuhri uses 'an (عَنْ), and he is classified as a mudallis (category 3)"
+                ]
+            }
+        ],
+        "plainChains": [
+            "[Unnamed narrator] -> Malik -> Uthman ibn Hafs -> Ibn Shihab al-Zuhri -> Salim ibn Abdullah -> Abdullah ibn Umar"
+        ],
+        "potential_issues": [
+            {
+                "issue": "The first narrator to Malik is unnamed in this transmission, indicated by the phrase 'wa-haddathani' without specification.",
+                "impact": "The unnamed narrator creates ambiguity. However, this is common in Malik's Muwatta where Yahya ibn Yahya or another prominent student transmitted. Given the strong subsequent chain, this does not significantly weaken the narration but prevents it from being graded as 'Perfect'."
+            },
+            {
+                "issue": "Ibn Shihab al-Zuhri is using the ambiguous term 'an (عَنْ), and he is classified as a mudallis (category 3 according to Ibn Hajar's classification).",
+                "impact": "Al-Zuhri's tadlis is well-documented, though he is considered extremely reliable overall. When he uses 'an, there is a theoretical possibility of concealing a weak link. However, his narration from his student Salim ibn Abdullah (son of Ibn Umar) is well-established, and al-Zuhri had direct and extensive contact with Salim. Despite the tadlis classification, most scholars accept his 'an narrations from known students like Salim. The narration remains sound but not perfect."
+            }
+        ],
+        "IISGrade": "Acceptable",
+        "Topics": [
+            "Riba in Debt - Early Payment Discount",
+            "Companion's Ruling on Debt Acceleration",
+            "Ibn Umar's Strictness on Riba"
+        ],
+        "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عُثْمَانَ بْنِ حَفْصِ بْنِ خَلْدَةَ ، عَنْ ابْنِ شِهَابٍ ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ سُئِلَ عَنِ الرَّجُلِ \" يَكُونُ لَهُ الدَّيْنُ عَلَى الرَّجُلِ إِلَى أَجَلٍ ، فَيَضَعُ عَنْهُ صَاحِبُ الْحَقِّ وَيُعَجِّلُهُ الْآخَرُ ، فَكَرِهَ ذَلِكَ عَبْدُ اللَّهِ بْنُ عُمَرَ وَنَهَى عَنْهُ \"",
+        "collection": "Muwatta Malik",
+        "reference_number": 1621,
+        "grade": "Hasan"
+    }
+
+def analyze_hadith_9326():
+    """Statement of Zayd ibn Aslam on jahiliyyah riba"""
+    return {
+        "hadith_id": 9326,
+        "english_translation": "Malik narrated to me from Zayd ibn Aslam that he said: 'Riba in the pre-Islamic period (jahiliyyah) was that a man would have a debt owed by another man for a fixed term. When the term came due, he would say: Will you pay it or increase (the debt)? If he paid, he took it, and if not, he increased the debt and extended the term.'",
+        "chains": [
+            {
+                "type": "maqtu'",
+                "narrators": [
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "حَدَّثَنِي",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Zayd ibn Aslam",
+                        "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+                        "grade": "Thiqah",
+                        "generation": "Fourth Generation",
+                        "transmissionTerm": "عَنْ أَنَّهُ قَالَ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": []
+            }
+        ],
+        "plainChains": [
+            "Malik ibn Anas -> Zayd ibn Aslam (statement)"
+        ],
+        "potential_issues": [
+            {
+                "issue": "This is a statement (qawl) from Zayd ibn Aslam, a Tabi'i, not a hadith from the Prophet ﷺ. It is classified as maqtu'.",
+                "impact": "This is a historical explanation about the practice of riba in the pre-Islamic period, not a prophetic narration. It represents Zayd ibn Aslam's knowledge and explanation of jahiliyyah practices, which is valuable for understanding the context of Islamic prohibitions but is not a direct prophetic teaching."
+            }
+        ],
+        "IISGrade": "Sound",
+        "Topics": [
+            "Description of Pre-Islamic Riba Practice",
+            "Jahiliyyah Financial Practices",
+            "Historical Context of Riba Prohibition"
+        ],
+        "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنَّهُ قَالَ : \" كَانَ الرِّبَا فِي الْجَاهِلِيَّةِ أَنْ يَكُونَ لِلرَّجُلِ عَلَى الرَّجُلِ الْحَقُّ إِلَى أَجَلٍ ، فَإِذَا حَلَّ الْأَجَلُ ، قَالَ : أَتَقْضِي أَمْ تُرْبِي ؟ فَإِنْ قَضَى أَخَذَ ، وَإِلَّا زَادَهُ فِي حَقِّهِ وَأَخَّرَ عَنْهُ فِي الْأَجَلِ \"",
+        "collection": "Muwatta Malik",
+        "reference_number": 1622,
+        "grade": "Maqtu' Sahih"
+    }
+
+def analyze_hadith_9328():
+    """Hadith on procrastination of the wealthy debtor"""
+    return {
+        "hadith_id": 9328,
+        "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'The procrastination of the wealthy person is injustice, and when one of you is referred to a person of means, let him accept the referral.'",
+        "chains": [
+            {
+                "type": "marfu'",
+                "narrators": [
+                    {
+                        "name": "Yahya",
+                        "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Later Narrator",
+                        "transmissionTerm": "حَدَّثَنَا",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Abu al-Zinad",
+                        "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi",
+                        "grade": "Thiqah",
+                        "generation": "Fourth Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "al-A'raj",
+                        "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+                        "grade": "Thiqah",
+                        "generation": "Third Generation",
+                        "transmissionTerm": "عَنْ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Abu Hurayrah",
+                        "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi (Abu Hurayrah)",
+                        "grade": "Companion",
+                        "generation": "Companion",
+                        "transmissionTerm": "أَنَّ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": []
+            }
+        ],
+        "plainChains": [
+            "Yahya ibn Yahya -> Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+        ],
+        "potential_issues": [
+            {
+                "issue": "The chain uses 'an (عَنْ) from Malik, Abu al-Zinad, and al-A'raj, which is an ambiguous transmission term.",
+                "impact": "Despite the use of 'an, this chain is considered extremely strong. This is one of the famous and well-authenticated chains: (1) Malik's connection to Abu al-Zinad is well-established and undisputed; (2) Abu al-Zinad's connection to al-A'raj is famous and documented; (3) Al-A'raj's connection to Abu Hurayrah is one of the most authenticated relationships in hadith literature. None of these narrators are known for problematic tadlis in these specific relationships. This chain is found in both Sahih Bukhari and Sahih Muslim."
+            }
+        ],
+        "IISGrade": "Perfect",
+        "Topics": [
+            "Injustice of Delaying Debt Payment by the Wealthy",
+            "Debt Transfer - Hawalah",
+            "Rights and Obligations in Debt Settlement"
+        ],
+        "arabicText": "حَدَّثَنَا يَحْيَى ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَطْلُ الْغَنِيِّ ظُلْمٌ ، وَإِذَا أُتْبِعَ أَحَدُكُمْ عَلَى مَلِيءٍ فَلْيَتْبَعْ \"",
+        "collection": "Muwatta Malik",
+        "reference_number": 1624,
+        "grade": "Sahih"
+    }
+
+def analyze_hadith_9329():
+    """Athar of Sa'id ibn al-Musayyib on selling with debt"""
+    return {
+        "hadith_id": 9329,
+        "english_translation": "Malik narrated to me from Musa ibn Maysarah that he heard a man ask Sa'id ibn al-Musayyib. He said: 'I am a man who sells on credit.' So Sa'id said: 'Do not sell except what you take possession of (immediately).'",
+        "chains": [
+            {
+                "type": "maqtu'",
+                "narrators": [
+                    {
+                        "name": "Malik",
+                        "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Fifth Generation",
+                        "transmissionTerm": "حَدَّثَنِي",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "Musa ibn Maysarah",
+                        "full_name": "Musa ibn Maysarah al-Tamimi al-Madani",
+                        "grade": "Thiqah",
+                        "generation": "Fourth Generation",
+                        "transmissionTerm": "عَنْ أَنَّهُ سَمِعَ",
+                        "reliabilityIssues": []
+                    },
+                    {
+                        "name": "A man (unnamed)",
+                        "full_name": "Unknown questioner",
+                        "grade": "Majhul",
+                        "generation": "Unknown",
+                        "transmissionTerm": "---",
+                        "reliabilityIssues": ["unknown identity"]
+                    },
+                    {
+                        "name": "Sa'id ibn al-Musayyib",
+                        "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Qurashi al-Makhzumi",
+                        "grade": "Thiqah Thabt",
+                        "generation": "Second Generation",
+                        "transmissionTerm": "فَقَالَ",
+                        "reliabilityIssues": []
+                    }
+                ],
+                "chainIssues": []
+            }
+        ],
+        "plainChains": [
+            "Malik -> Musa ibn Maysarah -> (heard a man ask) -> Sa'id ibn al-Musayyib (statement)"
+        ],
+        "potential_issues": [
+            {
+                "issue": "This is a statement (qawl/fatwa) from Sa'id ibn al-Musayyib, one of the great Tabi'in, not a hadith from the Prophet ﷺ. It is classified as maqtu'.",
+                "impact": "This represents the legal opinion of Sa'id ibn al-Musayyib, one of the most prominent jurists among the Tabi'in and known as 'Sayyid al-Tabi'in' (Master of the Successors). While this is not a prophetic narration, it carries significant weight as the opinion of one of the most knowledgeable early scholars who had direct contact with many companions."
+            },
+            {
+                "issue": "The questioner is unnamed ('rajul' - a man), making his identity unknown.",
+                "impact": "The unknown identity of the questioner does not affect the authenticity of Sa'id ibn al-Musayyib's response, as we are narrating his answer, not a prophetic hadith. The strong chain to Sa'id is what matters for authenticating his statement."
+            }
+        ],
+        "IISGrade": "Sound",
+        "Topics": [
+            "Prohibition of Selling What is Not Possessed",
+            "Credit Sales Requirements",
+            "Sa'id ibn al-Musayyib's Legal Ruling on Debt Sales"
+        ],
+        "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ مُوسَى بْنِ مَيْسَرَةَ ، أَنَّهُ سَمِعَ رَجُلًا يَسْأَلُ سَعِيدَ بْنَ الْمُسَيَّبِ ، فَقَالَ : إِنِّي رَجُلٌ أَبِيعُ بِالدَّيْنِ ، فَقَالَ سَعِيدٌ : \" لَا تَبِعْ إِلَّا مَا تَأْخُذُ قَبْضُهُ \"",
+        "collection": "Muwatta Malik",
+        "reference_number": 1625,
+        "grade": "Sahih - Maqtu'"
+    }
+
+# Main processing
+def main():
+    with open('/home/user/github_hadith_batches_2/batch_2/enriched_hadiths_22.json', 'r', encoding='utf-8') as f:
+        input_data = json.load(f)
+
+    processed_hadiths = []
+
+    # Map hadith IDs to analysis functions
+    analyses = {
+        9317: analyze_hadith_9317(),
+        9319: analyze_hadith_9319(),
+        9321: analyze_hadith_9321(),
+        9322: analyze_hadith_9322(),
+        9324: analyze_hadith_9324(),
+        9325: analyze_hadith_9325(),
+        9326: analyze_hadith_9326(),
+        9328: analyze_hadith_9328(),
+        9329: analyze_hadith_9329()
+    }
+
+    for hadith in input_data['hadiths']:
+        hadith_id = hadith['hadith_id']
+        if hadith_id in analyses:
+            processed_hadiths.append(analyses[hadith_id])
+
+    output_data = {
+        "batch_number": 2,
+        "file_number": 22,
+        "record_count": len(processed_hadiths),
+        "processed_hadiths": processed_hadiths
+    }
+
+    with open('/home/user/github_hadith_batches_2/processed_batch_2/processed_hadiths_22.json', 'w', encoding='utf-8') as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
+
+    print(f"Successfully processed {len(processed_hadiths)} hadiths")
+    print(f"Output written to: /home/user/github_hadith_batches_2/processed_batch_2/processed_hadiths_22.json")
+
+if __name__ == "__main__":
+    main()

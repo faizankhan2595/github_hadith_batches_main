@@ -1,0 +1,761 @@
+{
+  "batch_number": 2,
+  "file_number": 19,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9272,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Sa'id ibn al-Musayyab and Sulayman ibn Yasar: They both forbade that a man sells wheat for gold on credit, then buys dates with the gold before he receives the gold.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu al-Zinad -> Sa'id ibn al-Musayyab and Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik and Abu al-Zinad narrate with 'an (عَنْ)",
+          "impact": "Minimal - all narrators highly reliable and chain well-established in Muwatta"
+        },
+        {
+          "issue": "Mawquf narration (stops at Tabi'un level)",
+          "impact": "Statement of two senior Tabi'un scholars, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Commercial transactions involving deferred payment",
+        "Exchange of commodities before receipt of payment"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ ، وَسُلَيْمَانَ بْنَ يَسَارٍ \" يَنْهَيَانِ أَنْ يَبِيعَ الرَّجُلُ حِنْطَةً بِذَهَبٍ إِلَى أَجَلٍ ، ثُمَّ يَشْتَرِيَ بِالذَّهَبِ تَمْرًا قَبْلَ أَنْ يَقْبِضَ الذَّهَبَ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1568",
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9273,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that Kathir ibn Farqad asked Abu Bakr ibn Muhammad ibn Amr ibn Hazm about a man who sells food to a man for gold on credit, then buys dates with the gold before he receives the gold, so he disliked that and forbade it. And it was narrated from Ibn Shihab with similar meaning. Malik said: Sa'id ibn al-Musayyab, Sulayman ibn Yasar, Abu Bakr ibn Muhammad ibn Amr ibn Hazm, and Ibn Shihab only forbade that a man should not sell wheat for gold, then the man buys dates with the gold before he receives the gold from his sale from the one from whom he bought the wheat. But as for buying dates with the gold with which he sold the wheat on credit from someone other than the seller from whom he bought the wheat, before receiving the gold and transferring the one from whom he bought the dates to his debtor who sold him the wheat for the gold that he owes him as the price of the dates, there is no harm in that. Malik said: I asked more than one of the people of knowledge about that, and they saw no harm in it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Kathir ibn Farqad",
+              "full_name": "Kathir ibn Farqad al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm",
+              "full_name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَأَلَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydillah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Known for tadlis (category 3) but widely considered extremely reliable"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Kathir ibn Farqad -> Abu Bakr ibn Muhammad ibn Amr ibn Hazm",
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an (عَنْ), and he is classified as mudallis (category 3)",
+          "impact": "Minimal - al-Zuhri widely considered extremely reliable by vast majority of scholars, narrations in Muwatta well-established"
+        },
+        {
+          "issue": "Mawquf narrations with Malik's juristic commentary",
+          "impact": "Statements of Tabi'un scholars, not prophetic hadiths, includes Imam Malik's legal opinion"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Commercial transactions with deferred payment",
+        "Juristic opinions on commodity exchange before receipt",
+        "Transfer of debt (hawala)"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ كَثِيرِ بْنِ فَرْقَدٍ ، أَنَّهُ سَأَلَ أَبَا بَكْرِ بْنَ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ عَنِ الرَّجُلِ يَبِيعُ الطَّعَامَ مِنَ الرَّجُلِ بِذَهَبٍ إِلَى أَجَلٍ ثُمَّ يَشْتَرِي بِالذَّهَبِ تَمْرًا قَبْلَ أَنْ يَقْبِضَ الذَّهَبَ ، فَكَرِهَ ذَلِكَ وَنَهَى عَنْهُ . وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، بِمِثْلِ ذَلِكَ ...",
+      "collection": "Muwatta Malik",
+      "reference_number": "1569",
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9275,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Abdullah ibn Umar that he said: There is no harm in a man advancing to a man in described food at a known price to a specified term, as long as it is not in crops whose goodness has not yet appeared or dates whose goodness has not yet appeared. [Followed by extensive Malik's commentary on various scenarios of forward contracts, cancellations, and Prophet's ﷺ prohibition on selling food before receipt]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Golden chain (Malik -> Nafi' -> Ibn Umar) but using 'an transmission terms",
+          "impact": "Minimal - one of most famous and reliable chains in hadith literature despite 'an terms"
+        },
+        {
+          "issue": "Mawquf narration (stops at Companion level)",
+          "impact": "Statement/opinion of Abdullah ibn Umar, though Malik quotes marfu' hadith within his commentary"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Forward contracts (salam) in commodities",
+        "Description of the Prophet's ﷺ prohibition on selling food before receipt",
+        "Commercial transactions with specifications and terms",
+        "Cancellation (iqala) of contracts",
+        "Substitution of commodities after contract maturity"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ قَالَ : \" لَا بَأْسَ بِأَنْ يُسَلِّفَ الرَّجُلُ الرَّجُلَ فِي الطَّعَامِ الْمَوْصُوفِ بِسِعْرٍ مَعْلُومٍ إِلَى أَجَلٍ مُسَمًّى ، مَا لَمْ يَكُنْ فِي زَرْعٍ لَمْ يَبْدُ صَلَاحُهُ أَوْ تَمْرٍ لَمْ يَبْدُ صَلَاحُهُ \" ...",
+      "collection": "Muwatta Malik",
+      "reference_number": "1571",
+      "grade": "Mawquf Sahih"
+    },
+    {
+      "hadith_id": 9277,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Sulayman ibn Yasar who said: The fodder of the donkey of Sa'd ibn Abi Waqqas ran out, so he said to his slave: Take from the wheat of your family and buy barley with it, but do not take except its like.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'd ibn Abi Waqqas",
+              "full_name": "Sa'd ibn Abi Waqqas ibn Uhayb ibn Abd Manaf al-Zuhri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "فَقَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Missing link(s) between Malik and Sulayman ibn Yasar - reported as 'balaghahu' (it reached him)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> Sulayman ibn Yasar -> Sa'd ibn Abi Waqqas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' (it reached him) indicating disconnection",
+          "impact": "Significant - missing narrator(s) between Malik and Sulayman ibn Yasar weakens the chain"
+        },
+        {
+          "issue": "Mawquf narration (Companion's action)",
+          "impact": "Reports action of Sa'd ibn Abi Waqqas, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of exchanging wheat for barley",
+        "Exchange of different food types with equal measure"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، أَنَّهُ بَلَغَهُ ، أَنَّ سُلَيْمَانَ بْنَ يَسَارٍ ، قَالَ : فَنِيَ عَلَفُ حِمَارِ سَعْدِ بْنِ أَبِي وَقَّاصٍ ، فَقَالَ لِغُلَامِهِ : \" خُذْ مِنْ حِنْطَةِ أَهْلِكَ ، فَابْتَعْ بِهَا شَعِيرًا وَلَا تَأْخُذْ إِلَّا مِثْلَهُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1573",
+      "grade": "Mawquf Da'if (due to disconnection)"
+    },
+    {
+      "hadith_id": 9278,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Sulayman ibn Yasar that he informed him that Abd al-Rahman ibn al-Aswad ibn Abd Yaghuth's fodder for his animal ran out, so he said to his slave: Take food from the wheat of your family and buy barley with it for us, and do not take except its like.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Aswad ibn Abd Yaghuth",
+              "full_name": "Abd al-Rahman ibn al-Aswad ibn Abd Yaghuth al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "فَقَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Sulayman ibn Yasar -> Abd al-Rahman ibn al-Aswad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik and Nafi' use 'an (عَنْ) transmission terms",
+          "impact": "Minimal - all narrators highly reliable"
+        },
+        {
+          "issue": "Maqtu' narration (statement of Tabi'i)",
+          "impact": "Reports action of a Tabi'i, not Companion or Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of exchanging wheat for barley",
+        "Exchange of different food types with equal measure"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ أَنَّهُ أَخْبَرَهُ ، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الْأَسْوَدِ بْنِ عَبْدِ يَغُوثَ فَنِيَ عَلَفُ دَابَّتِهِ ، فَقَالَ لِغُلَامِهِ : \" خُذْ مِنْ حِنْطَةِ أَهْلِكَ طَعَامًا فَابْتَعْ بِهَا لَنَا شَعِيرًا وَلَا تَأْخُذْ إِلَّا مِثْلَهُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1574",
+      "grade": "Maqtu' Sahih"
+    },
+    {
+      "hadith_id": 9280,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Muhammad ibn Abdullah ibn Abi Maryam that he asked Sa'id ibn al-Musayyab and said: I am a man who buys food which is from vouchers with payment by installments, so sometimes I buy from it for a dinar and half a dirham, or a dinar and a quarter of a dirham. So he said to me: There is no good in the quarter and half, but you may buy for a dinar and a dirham or a dinar and two dirhams.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Abdullah ibn Abi Maryam",
+              "full_name": "Muhammad ibn Abdullah ibn Abi Maryam al-Ghasani al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَأَلَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Muhammad ibn Abdullah ibn Abi Maryam -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik and Muhammad use 'an (عَنْ) transmission terms",
+          "impact": "Minimal - all narrators reliable"
+        },
+        {
+          "issue": "Maqtu' narration (fatwa of Tabi'i)",
+          "impact": "Legal opinion of Sa'id ibn al-Musayyab, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Commercial transactions with mixed currency denominations",
+        "Juristic opinion on buying food with vouchers"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي مَرْيَمَ ، أَنَّهُ سَأَلَ سَعِيدَ بْنَ الْمُسَيَّبِ ، فَقَالَ : إِنِّي رَجُلٌ أَبْتَاعُ الطَّعَامَ يَكُونُ مِنَ الصُّكُوكِ بِالْجَارِ ، فَرُبَّمَا ابْتَعْتُ مِنْهُ بِدِينَارٍ وَنِصْفِ دِرْهَمٍ ، أَوْ دِينَارٍ وَرُبُعِ دِرْهَمٍ . فَقَالَ لِي : لَا خَيْرَ فِي الرُّبُعِ وَالنِّصْفِ وَلَكِنِ ابْتَعْ بِدِينَارٍ وَدِرْهَمٍ أَوْ بِدِينَارٍ وَدِرْهَمَيْنِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1576",
+      "grade": "Maqtu' Sahih"
+    },
+    {
+      "hadith_id": 9281,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that Muhammad ibn Sirin used to say: Do not sell grain in its ears until it whitens. Malik said: Whoever buys food at a known price to a specified term, then when the term comes due, the seller asks him to wait with the food, he should not wait for him unless he collects his price from him. If he waits for him with the food after paying him its price, there is no harm in that. But if he waits for him with the food before collecting its price, then he is selling food on credit before receiving it, and that is not permissible. [Followed by Malik's commentary on delaying payment and its implications]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            },
+            {
+              "name": "Muhammad ibn Sirin",
+              "full_name": "Muhammad ibn Sirin al-Ansari al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Missing link(s) between Malik and Muhammad ibn Sirin - reported as 'balaghahu'"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> Muhammad ibn Sirin"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' indicating disconnection",
+          "impact": "Significant - missing narrator(s) between Malik and Muhammad ibn Sirin weakens the chain"
+        },
+        {
+          "issue": "Maqtu' narration with Malik's juristic commentary",
+          "impact": "Statement of Muhammad ibn Sirin with Malik's extensive legal analysis"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Sale of grain before it ripens",
+        "Delaying delivery after contract maturity",
+        "Juristic opinions on deferred transactions"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّهُ بَلَغَهُ ، أَنَّ مُحَمَّدَ بْنَ سِيرِينَ ، كَانَ يَقُولُ : \" لَا تَبِيعُوا الْحَبَّ فِي سُنْبُلِهِ حَتَّى يَبْيَضَّ \" ...",
+      "collection": "Muwatta Malik",
+      "reference_number": "1577",
+      "grade": "Maqtu' Da'if (due to disconnection)"
+    },
+    {
+      "hadith_id": 9283,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that Umar ibn al-Khattab said: There is no hoarding in our market. Men who have surplus gold should not go to provision from Allah's provision which has come down to our courtyard and hoard it against us. But whoever brings goods and sits with his goods for sale may sell it as Allah wills for him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Missing link(s) between Malik and Umar - reported as 'balaghahu'"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' indicating disconnection",
+          "impact": "Significant - missing narrator(s) between Malik and Umar ibn al-Khattab weakens the chain"
+        },
+        {
+          "issue": "Mawquf narration (Companion's statement)",
+          "impact": "Statement of Umar ibn al-Khattab, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prohibition of hoarding goods (ihtikar)",
+        "Incident of Umar's policy on market practices",
+        "Free trade and market ethics"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، قَالَ : \" لَا حُكْرَةَ فِي سُوقِنَا ، لَا يَعْمِدُ رِجَالٌ بِأَيْدِيهِمْ فُضُولٌ مِنْ أَذْهَابٍ إِلَى رِزْقٍ مِنْ رِزْقِ اللَّهِ نَزَلَ بِسَاحَتِنَا فَيَحْتَكِرُونَهُ عَلَيْنَا ، وَلَكِنْ أَيُّمَا جَالِبٍ جَلَبَ عَلَى عَمُودِ كَبِدِهِ فِي الشِّتَاءِ وَالصَّيْفِ فَذَلِكَ ضَيْفُ عُمَرَ فَلْيَبِعْ كَيْفَ شَاءَ اللَّهُ وَلْيُمْسِكْ كَيْفَ شَاءَ اللَّهُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1579",
+      "grade": "Mawquf Da'if (due to disconnection)"
+    },
+    {
+      "hadith_id": 9284,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Sa'id ibn al-Musayyab that Umar ibn al-Khattab passed by Hatib ibn Abi Balta'a while he was selling his raisins in the market. Umar ibn al-Khattab said to him: Either increase the price or leave our market.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus ibn Yusuf",
+              "full_name": "Yunus ibn Yusuf al-Ayli al-Madani",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) but not of highest level"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "فَقَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hatib ibn Abi Balta'a",
+              "full_name": "Hatib ibn Abi Balta'a al-Lakhmi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "-",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yunus ibn Yusuf -> Sa'id ibn al-Musayyab -> Umar ibn al-Khattab and Hatib ibn Abi Balta'a"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik and Yunus use 'an (عَنْ) transmission terms",
+          "impact": "Minor - most narrators reliable"
+        },
+        {
+          "issue": "Yunus ibn Yusuf graded as Saduq, not Thiqah",
+          "impact": "Yunus is considered truthful but not of the highest level of reliability"
+        },
+        {
+          "issue": "Sa'id narrates with 'anna (أَنَّ), potentially indicating indirect transmission",
+          "impact": "Some ambiguity in transmission, but Sa'id is highly reliable"
+        },
+        {
+          "issue": "Mawquf narration (Companion's action)",
+          "impact": "Incident involving Umar ibn al-Khattab, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Umar ibn al-Khattab regulating market prices",
+        "Market supervision (hisba)",
+        "Incident involving Hatib ibn Abi Balta'a selling raisins"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يُونُسَ بْنِ يُوسُفَ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ مَرَّ بِحَاطِبِ بْنِ أَبِي بَلْتَعَةَ وَهُوَ يَبِيعُ زَبِيبًا لَهُ بِالسُّوقِ ، فَقَالَ لَهُ عُمَرُ بْنُ الْخَطَّابِ : \" إِمَّا أَنْ تَزِيدَ فِي السِّعْرِ وَإِمَّا أَنْ تُرْفَعَ مِنْ سُوقِنَا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1580",
+      "grade": "Mawquf Hasan"
+    },
+    {
+      "hadith_id": 9285,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that Uthman ibn Affan used to forbid hoarding.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            },
+            {
+              "name": "Uthman ibn Affan",
+              "full_name": "Uthman ibn Affan ibn Abi al-As ibn Umayyah al-Umawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "يَنْهَى",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Missing link(s) between Malik and Uthman - reported as 'balaghahu'"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> Uthman ibn Affan"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' indicating disconnection",
+          "impact": "Significant - missing narrator(s) between Malik and Uthman ibn Affan weakens the chain"
+        },
+        {
+          "issue": "Mawquf narration (Companion's practice)",
+          "impact": "Practice of Uthman ibn Affan, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prohibition of hoarding goods (ihtikar)",
+        "Practice of Uthman ibn Affan regarding market ethics"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُثْمَانَ بْنَ عَفَّانَ كَانَ \" يَنْهَى عَنِ الْحُكْرَةِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1581",
+      "grade": "Mawquf Da'if (due to disconnection)"
+    }
+  ]
+}

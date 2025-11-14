@@ -1,0 +1,683 @@
+{
+  "batch_number": 2,
+  "file_number": 50,
+  "processed_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 9736,
+      "hadith_number": 2032,
+      "is_chapter_heading": true,
+      "arabic_text": "بَابُ الْعَفْوِ فِي قَتْلِ الْعَمْدِ",
+      "english_translation": "Chapter: Pardon in Intentional Killing",
+      "note": "This is a chapter heading (باب), not an actual hadith narration."
+    },
+    {
+      "hadith_id": 9737,
+      "hadith_number": 2033,
+      "english_translation": "Yahya narrated to me from Malik that he (Malik) met those he was pleased with from the people of knowledge who were saying about a man who bequeaths that his killer be pardoned if he kills him intentionally: 'That is permissible for him, and he has more right to his blood than others from his guardians after him.' Malik said about a man who pardons after intentional killing becomes due for him and is obligatory for him: 'There is no blood money binding upon the killer, unless the one who pardoned him stipulated that at the time of pardoning him.' Malik said about the intentional killer when he is pardoned: 'He is lashed one hundred lashes and imprisoned for a year.' Malik said: 'When a man kills intentionally and evidence is established for that, and the murdered person has sons and daughters, and the sons pardon but the daughters refuse to pardon, then the pardon of the sons is valid over the daughters, and the daughters have no authority with the sons in establishing the blood claim or pardoning it.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (statement of Malik)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (statement of Imam Malik), not traced to the Prophet ﷺ",
+          "impact": "This represents the legal opinion (fiqh) of Imam Malik based on his understanding of scholars he met, not a prophetic hadith"
+        },
+        {
+          "issue": "Malik uses 'anna' (أَنَّهُ) when reporting from scholars, which indicates indirect transmission",
+          "impact": "The opinions are attributed to unnamed scholars ('those he was pleased with from the people of knowledge'), which affects direct attribution but not Malik's reliability in reporting scholarly consensus"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Pardon in Intentional Homicide",
+        "Right of the Victim to Pardon the Killer",
+        "Blood Money Conditions",
+        "Punishment After Pardon",
+        "Sons' Authority Over Daughters in Blood Matters"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، أَنَّهُ أَدْرَكَ مَنْ يَرْضَى مِنْ أَهْلِ الْعِلْمِ ، يَقُولُونَ فِي الرَّجُلِ إِذَا أَوْصَى أَنْ يُعْفَى عَنْ قَاتِلِهِ إِذَا قَتَلَ عَمْدًا : إِنَّ ذَلِكَ جَائِزٌ لَهُ ، وَأَنَّهُ أَوْلَى بِدَمِهِ مِنْ غَيْرِهِ مِنْ أَوْلِيَائِهِ مِنْ بَعْدِهِ . قَالَ مَالِك ، فِي الرَّجُلِ يَعْفُو عَنْ قَتْلِ الْعَمْدِ بَعْدَ أَنْ يَسْتَحِقَّهُ وَيَجِبَ لَهُ : إِنَّهُ لَيْسَ عَلَى الْقَاتِلِ عَقْلٌ يَلْزَمُهُ ، إِلَّا أَنْ يَكُونَ الَّذِي عَفَا عَنْهُ اشْتَرَطَ ذَلِكَ عِنْدَ الْعَفْوِ عَنْهُ . قَالَ مَالِك ، فِي الْقَاتِلِ عَمْدًا إِذَا عُفِيَ عَنْهُ : أَنَّهُ يُجْلَدُ مِائَةَ جَلْدَةٍ وَيُسْجَنُ سَنَةً . قَالَ مَالِك : وَإِذَا قَتَلَ الرَّجُلُ عَمْدًا وَقَامَتْ عَلَى ذَلِكَ الْبَيِّنَةُ ، وَلِلْمَقْتُولِ بَنُونَ وَبَنَاتٌ ، فَعَفَا الْبَنُونَ وَأَبَى الْبَنَاتُ أَنْ يَعْفُونَ ، فَعَفْوُ الْبَنِينَ جَائِزٌ عَلَى الْبَنَاتِ ، وَلَا أَمْرَ لِلْبَنَاتِ مَعَ الْبَنِينَ فِي الْقِيَامِ بِالدَّمِ وَالْعَفْوِ عَنْهُ .",
+      "collection": "Muwatta Malik",
+      "reference_number": 2033,
+      "grade": "Mawquf (Statement of Malik)"
+    },
+    {
+      "hadith_id": 9738,
+      "hadith_number": 2034,
+      "is_chapter_heading": true,
+      "arabic_text": "بَابُ الْقِصَاصِ فِي الْجِرَاحِ",
+      "english_translation": "Chapter: Retaliation for Wounds",
+      "note": "This is a chapter heading (باب), not an actual hadith narration."
+    },
+    {
+      "hadith_id": 9739,
+      "hadith_number": 2035,
+      "english_translation": "Yahya narrated to me from Malik from Abu al-Zinad from Sulayman ibn Yasar that a slave woman belonging to some people from the Ansar bit the hand of a woman, so the woman pulled her hand away and a front tooth of the slave woman fell out. They came to the Prophet ﷺ, and he annulled it. They said: 'O Messenger of Allah, should we not have retaliation?' The Messenger of Allah ﷺ said: 'The Book of Allah - retaliation.' The woman's guardians refused except to have retaliation. So the Messenger of Allah ﷺ commanded retaliation to be taken from her. Anas ibn Malik said: 'I was among them on that day, and it was a beautiful young slave girl, so I wished that they would accept the blood money and pardon her.' Malik said: 'It has reached me that the tooth was restored for the woman whose tooth was broken, so she came to the Prophet ﷺ and informed him, so he commanded that the retaliation against the slave woman be stopped. He said, and he recited: 'So whoever pardons and makes reconciliation, his reward is with Allah.' (Quran 42:40)'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain (mursal): Sulayman ibn Yasar (Third Generation Successor) did not meet the Prophet ﷺ, and he reports this incident without mentioning who informed him about it"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Abu al-Zinad -> Sulayman ibn Yasar -> [Missing link] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain: Sulayman ibn Yasar was a Third Generation Successor and never met the Prophet ﷺ",
+          "impact": "This creates a clear disconnection in the chain. The missing narrator(s) between Sulayman ibn Yasar and the incident are not mentioned, making this a mursal hadith which is considered weak according to the majority of hadith scholars"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmissions in the chain",
+          "impact": "While the narrators are all highly reliable, the use of 'an throughout allows for potential tadlis, though none of these narrators are known for problematic tadlis"
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) by Abu al-Zinad from Sulayman ibn Yasar",
+          "impact": "This indirect reporting term suggests Abu al-Zinad may not have heard this directly from Sulayman ibn Yasar, though both are considered highly reliable"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of the Slave Girl Who Bit a Woman's Hand",
+        "Retaliation for Tooth Injury",
+        "Acceptance of Pardon and Blood Money",
+        "Tooth Restoration After Injury",
+        "Divine Reward for Pardoning"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ أَبِي الزِّنَادِ عَنْ سُلَيْمَانَ بْنِ يَسَارٍ أَنَّ جَارِيَةً لِقَوْمٍ مِنَ الْأَنْصَارِ عَضَّتْ يَدَ امْرَأَةٍ فَانْتَزَعَتِ الْمَرْأَةُ يَدَهَا فَسَقَطَتْ ثَنِيَّةُ الْجَارِيَةِ فَأَتَوُا النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَبْطَلَهَا فَقَالُوا يَا رَسُولَ اللَّهِ أَلَا نَقْتَصُّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كِتَابُ اللَّهِ الْقِصَاصُ فَأَبَى أَوْلِيَاءُ الْمَرْأَةِ إِلَّا الْقِصَاصَ فَأَمَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِالْقِصَاصِ مِنْهَا قَالَ أَنَسُ بْنُ مَالِك كُنْتُ فِيهِمْ يَوْمَئِذٍ وَكَانَتْ جَارِيَةً وَضِيئَةً فَكُنْتُ أَوَدُّ أَنْ يَقْبَلُوا الْعَقْلَ وَيَعْفُوا عَنْهَا قَالَ مَالِك بَلَغَنِي أَنَّ السِّنَّ نَبَتَتْ لِلْمَرْأَةِ الَّتِي انْكَسَرَتْ سِنُّهَا فَأَتَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخْبَرَتْهُ فَأَمَرَ بِالْكَفِّ عَنِ الْجَارِيَةِ قَالَ فَتَلَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2035,
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 9740,
+      "hadith_number": 2036,
+      "is_chapter_heading": true,
+      "arabic_text": "بَابُ مَا جَاءَ فِي الْمُثْلَةِ",
+      "english_translation": "Chapter: What Has Come About Mutilation",
+      "note": "This is a chapter heading (باب), not an actual hadith narration."
+    },
+    {
+      "hadith_id": 9741,
+      "hadith_number": 2037,
+      "english_translation": "Yahya narrated to me from Malik from Ibn Shihab from Sa'id ibn al-Musayyib that 'Umar ibn al-Khattab cut the hand and the foot from opposite sides from those who fought, plundered, and committed mischief in the land, until they were put to death or crucified.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Potential disconnection: Sa'id ibn al-Musayyib (Second Generation) was very young when 'Umar died and may not have directly witnessed this ruling"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyib -> 'Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 according to some scholars) and uses 'an (عَنْ)",
+          "impact": "Al-Zuhri is considered extremely reliable by the vast majority of scholars, and his tadlis is considered minor. When narrating from Sa'id ibn al-Musayyib (his most frequent teacher), his reports are generally accepted even with 'an. However, the possibility of tadlis should be noted"
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) by Ibn Shihab from Sa'id ibn al-Musayyib",
+          "impact": "This suggests indirect transmission, though given the strong relationship between al-Zuhri and Sa'id ibn al-Musayyib, this is not considered problematic"
+        },
+        {
+          "issue": "Potential disconnection: Sa'id ibn al-Musayyib's direct knowledge of 'Umar's ruling",
+          "impact": "Sa'id ibn al-Musayyib was born around 13-15 AH and 'Umar died in 23 AH, making Sa'id approximately 8-10 years old. While he may have heard about this ruling, he likely did not witness it directly. This creates a potential mursal quality to the report"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Punishment of Highway Robbers",
+        "Cross-Cutting of Hand and Foot",
+        "Hirabah Punishment",
+        "Practice of 'Umar ibn al-Khattab in Criminal Punishment"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ ابْنِ شِهَابٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ أَنَّ عُمَرَ بْنَ الْخَطَّابِ قَطَعَ مِنْ خِلَافٍ مِنَ الَّذِينَ حَارَبُوا وَأَخَذُوا الْأَمْوَالَ وَأَفْسَدُوا فِي الْأَرْضِ حَتَّى قُتِلُوا أَوْ صُلِبُوا",
+      "collection": "Muwatta Malik",
+      "reference_number": 2037,
+      "grade": "Mawquf (Statement/Action of 'Umar)"
+    },
+    {
+      "hadith_id": 9742,
+      "hadith_number": 2038,
+      "is_chapter_heading": true,
+      "arabic_text": "بَابُ مَا جَاءَ فِي الْقَسَامَةِ",
+      "english_translation": "Chapter: What Has Come About Qasama (Oath-Taking in Cases of Suspected Murder)",
+      "note": "This is a chapter heading (باب), not an actual hadith narration."
+    },
+    {
+      "hadith_id": 9743,
+      "hadith_number": 2039,
+      "english_translation": "Yahya narrated to me from Malik from Ibn Shihab from Abu Bakr ibn Muhammad ibn 'Amr ibn Hazm from his father from his grandfather that the Messenger of Allah ﷺ wrote to the people of Yemen: 'Indeed, whoever kills a believer with clear evidence, then he is to be killed in retaliation unless the guardians of the killed person are pleased (to pardon). And indeed qasama is on the practice of the people of Jahiliyyah, and indeed no wound has intelligence (i.e., compensation for wounds below killing), and in the nose when it is completely cut off is the diya (full blood money), and in the tongue is the diya, and in the two lips is the diya, and in the testicles is the diya, and in the male organ is the diya, and in the spine is the diya, and in the two eyes is the diya, and in one leg is half the diya.' Malik said: 'What is practiced with us is that qasama is only for intentional killing or what resembles intentional killing.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Abu Bakr ibn Muhammad",
+              "full_name": "Abu Bakr ibn Muhammad ibn 'Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Muhammad ibn 'Amr)",
+              "full_name": "Muhammad ibn 'Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His grandfather ('Amr ibn Hazm)",
+              "full_name": "Amr ibn Hazm ibn Zayd al-Ansari al-Najjari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Potential issue with the famous letter: Some scholars questioned whether Muhammad ibn 'Amr ibn Hazm directly heard this letter from his father, or whether it was found in written form"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Abu Bakr ibn Muhammad ibn 'Amr ibn Hazm -> Muhammad ibn 'Amr ibn Hazm -> 'Amr ibn Hazm -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 according to some scholars) and uses 'an (عَنْ)",
+          "impact": "Al-Zuhri is considered extremely reliable by the vast majority of scholars. His tadlis is considered minor and his reports are generally accepted even with 'an, especially when narrating from well-known teachers. However, the possibility should be noted"
+        },
+        {
+          "issue": "The famous 'Letter to Yemen' (Sahifa) - debate about its transmission",
+          "impact": "This is the famous letter that the Prophet ﷺ sent to the people of Yemen. Some scholars debated whether the narrators actually heard it orally or found it in written form. Abu Dawud, al-Nasa'i, and Ibn Hibban authenticated it. However, Ibn 'Abd al-Barr noted that Muhammad ibn 'Amr may not have directly heard from his father but rather found the written letter. This creates some scholarly debate about the chain's continuity"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmissions throughout the chain",
+          "impact": "The consistent use of 'an throughout allows for potential tadlis at multiple levels, though all the narrators are considered reliable and none except al-Zuhri are known for problematic tadlis"
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) at the end of the chain",
+          "impact": "This suggests the letter was written rather than orally transmitted, which some consider acceptable for written communications from the Prophet ﷺ, while others prefer direct oral transmission"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Letter to the People of Yemen",
+        "Retaliation for Intentional Killing",
+        "Qasama Practice",
+        "Blood Money for Various Injuries",
+        "Compensation for Nose, Tongue, Lips, Testicles, Spine, Eyes, and Leg"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ ابْنِ شِهَابٍ عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ عَنْ أَبِيهِ عَنْ جَدِّهِ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَتَبَ إِلَى أَهْلِ الْيَمَنِ إِنَّ مَنْ قَتَلَ مُؤْمِنًا بِبَيِّنَةٍ فَإِنَّهُ يُقْتَلُ بِهِ إِلَّا أَنْ يَرْضَى أَوْلِيَاءُ الْمَقْتُولِ وَإِنَّ الْقَسَامَةَ عَلَى أَمْرِ الْجَاهِلِيَّةِ وَإِنَّهُ لَا جَلْبَ فِي جُرْحٍ وَفِي الْأَنْفِ إِذَا اسْتُوعِبَ جَدْعُهُ الدِّيَةُ وَفِي اللِّسَانِ الدِّيَةُ وَفِي الشَّفَتَيْنِ الدِّيَةُ وَفِي الْبَيْضَتَيْنِ الدِّيَةُ وَفِي الذَّكَرِ الدِّيَةُ وَفِي الصُّلْبِ الدِّيَةُ وَفِي الْعَيْنَيْنِ الدِّيَةُ وَفِي الرِّجْلِ الْوَاحِدَةِ نِصْفُ الدِّيَةِ قَالَ مَالِك الْأَمْرُ عِنْدَنَا أَنَّ الْقَسَامَةَ لَا تَكُونُ إِلَّا فِي قَتْلِ الْعَمْدِ أَوْ شِبْهِ الْعَمْدِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2039,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9744,
+      "hadith_number": 2040,
+      "english_translation": "Yahya narrated to me from Malik that he had heard that the Jews brought to the Messenger of Allah ﷺ a man and a woman who had committed adultery. The Messenger of Allah ﷺ came to them and said: 'What do you find in your Book?' They said: 'Our scholars have innovated the matter of blackening the face and parading.' Abdullah ibn Salam said: 'You have lied. In it is the verse of stoning, so bring the Torah.' So they spread it out, and one of them put his hand over the verse of stoning and began reading what was before it and what was after it. Abdullah ibn Salam said to him: 'Lift your hand.' So he lifted his hand, and behold, beneath it was the verse of stoning. So the Messenger of Allah ﷺ commanded regarding them, and they were stoned. Abdullah ibn Umar said: 'I was among those who stoned them, and I saw him (the man) leaning over her protecting her from the stones.' Malik said: 'Abdullah ibn Salam was a rabbi from their rabbis, a scholar from their scholars. He was the son of al-Harith. His name in Jahiliyyah was al-Husayn. When he became Muslim, the Messenger of Allah ﷺ named him Abdullah and attributed him to Islam. He was from the tribe of Isra'il. Malik said: 'I heard that this verse was revealed about that: 'And how do they make you a judge while they have the Torah, in which is the judgment of Allah? Then they turn away after that, and those are not the believers.' (Quran 5:43) Malik said: 'The command with us is that when a Jew or a Christian commits adultery with a Muslim woman, or a Muslim commits adultery with a Jewish or Christian woman, or kills a Muslim, then he is under the same law as the Muslim, and the same is taken from him as is taken from the Muslim. That is that the People of the Book are under the same rulings as Muslims in these matters in what is taken from them of legal punishments and other than that. That is because the Messenger of Allah ﷺ stoned the two Jews for adultery following the ruling in the Torah.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّهُ بَلَغَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal/Mu'dal: Malik uses 'balaghahu' (بَلَغَهُ - it reached him) without naming his source, creating a significant gap in the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Unknown sources] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Mu'dal transmission: Malik uses 'balaghahu' (بَلَغَهُ) without identifying his sources",
+          "impact": "This creates a severe disconnection in the chain. 'Balaghahu' indicates Malik heard this report but does not specify from whom, leaving potentially multiple missing links in the chain. This is considered weaker than a regular mursal hadith"
+        },
+        {
+          "issue": "Complete absence of chain after Malik",
+          "impact": "Without knowing who transmitted this story to Malik, we cannot evaluate the reliability of those intermediary narrators or determine if they were companions or successors who witnessed the event"
+        },
+        {
+          "issue": "The story involves Abdullah ibn Salam and Abdullah ibn Umar as witnesses, but no chain connects Malik to them",
+          "impact": "While both Abdullah ibn Salam and Abdullah ibn Umar are reliable companions, Malik does not establish a chain of transmission from them, making this a problematic narration despite the content being widely known from other sources"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of the Stoning of the Jewish Adulterers",
+        "Revelation of Torah Verse on Stoning",
+        "Abdullah ibn Salam's Exposure of Jewish Scholars' Deception",
+        "Application of Torah Law by the Prophet ﷺ",
+        "Man Protecting the Woman During Stoning",
+        "Biography of Abdullah ibn Salam",
+        "Application of Islamic Law on People of the Book"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى عَنْ مَالِك أَنَّهُ بَلَغَهُ أَنَّ الْيَهُودَ جَاءُوا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِرَجُلٍ وَامْرَأَةٍ قَدْ زَنَيَا فَقَالَ لَهُمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا تَجِدُونَ فِي كِتَابِكُمْ قَالُوا أَحْدَثَ أَحْبَارُنَا تَحْمِيمَ الْوَجْهِ وَالتَّجْبِيهَ قَالَ عَبْدُ اللَّهِ بْنُ سَلَامٍ كَذَبْتُمْ إِنَّ فِيهَا آيَةَ الرَّجْمِ فَأَتَوْا بِالتَّوْرَاةِ فَنَشَرُوهَا فَوَضَعَ أَحَدُهُمْ يَدَهُ عَلَى آيَةِ الرَّجْمِ وَطَفِقَ يَقْرَأُ مَا قَبْلَهَا وَمَا بَعْدَهَا فَقَالَ لَهُ عَبْدُ اللَّهِ بْنُ سَلَامٍ ارْفَعْ يَدَكَ فَرَفَعَ يَدَهُ فَإِذَا فِيهَا آيَةُ الرَّجْمِ فَأَمَرَ بِهِمَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَرُجِمَا قَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ كُنْتُ فِيمَنْ رَجَمَهُمَا فَلَقَدْ رَأَيْتُهُ يَحْنُو عَلَيْهَا يَقِيهَا الْحِجَارَةَ قَالَ مَالِك كَانَ عَبْدُ اللَّهِ بْنُ سَلَامٍ حَبْرًا مِنْ أَحْبَارِهِمْ وَعَالِمًا مِنْ عُلَمَائِهِمْ وَهُوَ ابْنُ الْحَارِثِ وَكَانَ اسْمُهُ فِي الْجَاهِلِيَّةِ الْحُصَيْنُ فَلَمَّا أَسْلَمَ سَمَّاهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَبْدَ اللَّهِ وَنَسَبَهُ إِلَى الْإِسْلَامِ وَهُوَ مِنْ بَنِي إِسْرَائِيلَ قَالَ مَالِك بَلَغَنِي أَنَّ هَذِهِ الْآيَةَ نَزَلَتْ فِي ذَلِكَ وَكَيْفَ يُحَكِّمُونَكَ وَعِنْدَهُمُ التَّوْرَاةُ فِيهَا حُكْمُ اللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنْ بَعْدِ ذَلِكَ وَمَا أُولَئِكَ بِالْمُؤْمِنِينَ قَالَ مَالِك الْأَمْرُ عِنْدَنَا أَنَّ الْيَهُودِيَّ أَوِ النَّصْرَانِيَّ إِذَا زَنَى بِالْمُسْلِمَةِ أَوْ زَنَى الْمُسْلِمُ بِالْيَهُودِيَّةِ أَوِ النَّصْرَانِيَّةِ أَوْ قَتَلَ مُسْلِمًا فَإِنَّهُ بِمَنْزِلَةِ الْمُسْلِمِ وَيُؤْخَذُ مِنْهُ مَا يُؤْخَذُ مِنَ الْمُسْلِمِ وَذَلِكَ أَنَّ أَهْلَ الْكِتَابِ بِمَنْزِلَةِ الْمُسْلِمِينَ فِي هَذَا الْبَابِ فِيمَا يُؤْخَذُ مِنْهُمْ مِنَ الْحُدُودِ وَغَيْرِهَا وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَجَمَ الْيَهُودِيَّيْنِ فِي الزِّنَا عَلَى حُكْمِ التَّوْرَاةِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2040,
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 9745,
+      "hadith_number": 2041,
+      "is_chapter_heading": true,
+      "arabic_text": "بَابُ الْعَمَلِ فِي الْقَسَامَةِ",
+      "english_translation": "Chapter: The Practice Regarding Qasama",
+      "note": "This is a chapter heading (باب), not an actual hadith narration."
+    },
+    {
+      "hadith_id": 9746,
+      "hadith_number": 2042,
+      "english_translation": "Yahya narrated to me from Malik from Rabi'ah ibn Abi Abd al-Rahman that Sa'id ibn al-Musayyib said: 'The Messenger of Allah ﷺ said: 'The oath is upon the one against whom the claim is made.' Malik said: 'The best of what I have heard about qasama is that it is permissible in murder, both intentional and unintentional killing. The beginning is with the claimants, and if the relatives of the slain person start the oath and swear, then they are entitled to the blood of their companion. That is when the slain person is found among a tribe or group of people, and he did not speak or indicate who killed him. If he named his killer or indicated to him before he died, then the qasama is not required. The testimony of witnesses who were present at his death is established, and he named his killer to them and indicated to him. The blood is obligatory against the one whom the murdered person named and indicated, and there is no qasama in that.' Malik said: 'The custom with us is that qasama is not permissible for anyone except in murder. It is not permissible in wounds, even if they are intentional, nor in anything of the rights and claims between people except murder alone.' Malik said: 'The custom with us is that when the slain person is found dead in a locality of a people, they are asked: 'Do you swear fifty oaths that you did not kill and you do not know who killed him?' If they swear, they are released. If they refuse to swear, then they hold (liability) for him. But if the relatives of the slain do not ask them to swear, then there is no qasama.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal: Sa'id ibn al-Musayyib (Second Generation Successor) did not meet the Prophet ﷺ, creating a clear disconnection in the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Rabi'ah ibn Abi Abd al-Rahman -> Sa'id ibn al-Musayyib -> [Missing link] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain: Sa'id ibn al-Musayyib was from the Second Generation and never met the Prophet ﷺ",
+          "impact": "This creates a clear disconnection. The missing narrator(s) between Sa'id ibn al-Musayyib and the Prophet ﷺ are unknown, making this a mursal hadith. However, Sa'id ibn al-Musayyib's mursal reports are considered among the strongest mursal narrations by many scholars, as he was known to only report from reliable sources"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmissions in the chain before the mursal",
+          "impact": "While all narrators are reliable, the use of 'an throughout allows for potential tadlis, though none of these narrators are known for problematic tadlis"
+        },
+        {
+          "issue": "The narration includes extensive commentary from Malik about the practice in Madinah",
+          "impact": "Much of this report is actually Malik's own understanding and the practice of the people of Madinah ('al-amr 'indana'), not all traced to the Prophet ﷺ. Only the first statement ('The oath is upon the one against whom the claim is made') is attributed to the Prophet"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Qasama in Murder Cases",
+        "Oath Procedure in Suspected Killing",
+        "Burden of Proof in Legal Claims",
+        "Oath of Fifty People",
+        "Liability for Murder in a Locality",
+        "Maliki Practice on Qasama"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ أَنَّهُ قَالَ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْيَمِينُ عَلَى الْمُدَّعَى عَلَيْهِ قَالَ مَالِك أَحْسَنُ مَا سَمِعْتُ فِي الْقَسَامَةِ أَنَّهَا تَجُوزُ فِي الْقَتْلِ عَمْدًا وَخَطَأً وَالْبَدَاءَةُ بِالْمُدَّعِينَ وَإِذَا بَدَأَ أَوْلِيَاءُ الْمَقْتُولِ بِالْيَمِينِ وَحَلَفُوا اسْتَحَقُّوا دَمَ صَاحِبِهِمْ وَذَلِكَ إِذَا وُجِدَ الْمَقْتُولُ بَيْنَ حَيٍّ أَوْ قَوْمٍ وَلَمْ يَتَكَلَّمْ وَلَمْ يَدُلَّ عَلَى مَنْ قَتَلَهُ فَإِذَا سَمَّى قَاتِلَهُ أَوْ دَلَّ عَلَيْهِ قَبْلَ أَنْ يَمُوتَ فَلَا قَسَامَةَ فِيهِ تَثْبُتُ شَهَادَةُ الشُّهُودِ الَّذِينَ حَضَرُوهُ حِينَ أَشْهَدَهُمْ عَلَى قَاتِلِهِ وَدَلَّ عَلَيْهِ فَيَجِبُ الدَّمُ عَلَى مَنْ سَمَّاهُ الْمَقْتُولُ وَدَلَّ عَلَيْهِ وَلَيْسَ فِي ذَلِكَ قَسَامَةٌ قَالَ مَالِك السُّنَّةُ عِنْدَنَا أَنَّ الْقَسَامَةَ لَا تَجُوزُ لِأَحَدٍ إِلَّا فِي الْقَتْلِ وَلَا تَجُوزُ فِي الْجِرَاحِ وَإِنْ كَانَتْ عَمْدًا وَلَا فِي شَيْءٍ مِنَ الْحُقُوقِ وَالدَّعَاوَى بَيْنَ النَّاسِ إِلَّا فِي الْقَتْلِ وَحْدَهُ قَالَ مَالِك السُّنَّةُ عِنْدَنَا إِذَا وُجِدَ الْمَقْتُولُ قَتِيلًا فِي مَحَلَّةِ قَوْمٍ قِيلَ لَهُمْ أَتَحْلِفُونَ خَمْسِينَ يَمِينًا مَا قَتَلْتُمْ وَلَا عَلِمْتُمْ قَاتِلًا فَإِنْ حَلَفُوا بَرِئُوا وَإِنْ أَبَوْا أَنْ يَحْلِفُوا غَرِمُوهُ فَإِنْ لَمْ يَسْتَحْلِفْهُمْ أَوْلِيَاءُ الْمَقْتُولِ فَلَا قَسَامَةَ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2042,
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 9747,
+      "hadith_number": 2043,
+      "is_chapter_heading": true,
+      "arabic_text": "بَابُ دِيَةِ الْجَنِينِ وَمَنْ ضَرَبَ بَطْنَ امْرَأَةٍ",
+      "english_translation": "Chapter: Blood Money for a Fetus and One Who Strikes the Belly of a Woman",
+      "note": "This is a chapter heading (باب), not an actual hadith narration."
+    },
+    {
+      "hadith_id": 9748,
+      "hadith_number": 2044,
+      "english_translation": "Yahya narrated to me from Malik from Ibn Shihab from Sa'id ibn al-Musayyib and from Abu Salamah ibn Abd al-Rahman ibn 'Awf that Abu Hurayrah said: 'Two women from Hudhayl fought, and one of them threw a stone at the other and killed her and what was in her womb. So they brought their dispute to the Messenger of Allah ﷺ, and he ruled that the blood money for her fetus was a male or female slave, and he ruled that the blood money for the woman was to be paid by her 'aqilah (male relatives on the father's side).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah ibn Abd al-Rahman",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn 'Awf al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyib and Abu Salamah ibn Abd al-Rahman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 according to some scholars) and uses 'an (عَنْ)",
+          "impact": "Al-Zuhri is considered extremely reliable by the vast majority of scholars, and his tadlis is considered minor. When narrating from Sa'id ibn al-Musayyib and Abu Salamah (both among his most frequent teachers), his reports are generally accepted even with 'an. However, the possibility of tadlis should be noted"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmissions throughout the chain",
+          "impact": "The consistent use of 'an throughout allows for potential tadlis at multiple levels, though all narrators are considered highly reliable and none except al-Zuhri are known for problematic tadlis"
+        },
+        {
+          "issue": "Dual transmission: Ibn Shihab narrates from both Sa'id ibn al-Musayyib AND Abu Salamah",
+          "impact": "This actually strengthens the narration as it shows two different chains converging, both from reliable Second Generation narrators who heard from Abu Hurayrah. This is a positive feature"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Two Women from Hudhayl Fighting",
+        "Blood Money for a Fetus",
+        "Compensation for Miscarriage",
+        "Blood Money Paid by 'Aqilah",
+        "Woman Killed by Stone in Fight"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ ابْنِ شِهَابٍ عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ وَعَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ عَنْ أَبِي هُرَيْرَةَ أَنَّهُ قَالَ اقْتَتَلَتِ امْرَأَتَانِ مِنْ هُذَيْلٍ فَرَمَتْ إِحْدَاهُمَا الْأُخْرَى بِحَجَرٍ فَقَتَلَتْهَا وَمَا فِي بَطْنِهَا فَاخْتَصَمُوا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ دِيَةَ جَنِينِهَا غُرَّةٌ عَبْدٌ أَوْ أَمَةٌ وَقَضَى بِدِيَةِ الْمَرْأَةِ عَلَى عَاقِلَتِهَا",
+      "collection": "Muwatta Malik",
+      "reference_number": 2044,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9749,
+      "hadith_number": 2045,
+      "is_chapter_heading": true,
+      "arabic_text": "بَابُ عَقْلِ الْمَرْأَةِ",
+      "english_translation": "Chapter: Blood Money of a Woman",
+      "note": "This is a chapter heading (باب), not an actual hadith narration."
+    },
+    {
+      "hadith_id": 9750,
+      "hadith_number": 2046,
+      "english_translation": "Yahya narrated to me from Malik from Yahya ibn Sa'id from Sulayman ibn Yasar that Zayd ibn Thabit used to say: 'The blood money for a woman is equal to that of a man up to one-third of the blood money. Her finger is like his finger, her tooth is like his tooth, her wound that reaches the flesh is like his wound that reaches the flesh, and her head wound that reaches the bone is like his head wound that reaches the bone. When it exceeds one-third, then her compensation becomes half of his compensation.' Malik said: 'What is practiced with us is the saying of Zayd ibn Thabit: that the blood money of a woman is equal to the blood money of a man up to one-third of the blood money. So when it exceeds one-third, then it becomes half.' Malik said: 'An example of that is that the blood money for the two eyes of a woman is full blood money, and the blood money for one of her eyes is half the blood money. The blood money for her hand is half the blood money, and the blood money for one of her fingers is one-tenth of the blood money.' Malik said: 'Injuries below one-third are equal between men and women. When they reach one-third, they become half in the case of a woman. That is because one of her hands is half the blood money, and the blood money for both her hands together is full blood money. Wounds are like this.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Thabit",
+              "full_name": "Zayd ibn Thabit ibn al-Dahhak al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Yahya ibn Sa'id al-Ansari -> Sulayman ibn Yasar -> Zayd ibn Thabit (statement of Zayd)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (statement of the Companion Zayd ibn Thabit), not traced to the Prophet ﷺ",
+          "impact": "This represents the legal opinion (fiqh) and ijtihad of Zayd ibn Thabit, who was one of the leading jurists among the Companions. While Companion statements carry weight, this is not a prophetic hadith"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) transmissions in the chain",
+          "impact": "While all narrators are highly reliable, the use of 'an throughout allows for potential tadlis, though none of these narrators are known for problematic tadlis"
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) by Yahya ibn Sa'id from Sulayman ibn Yasar",
+          "impact": "This indirect reporting term suggests potential indirect transmission, though both narrators are highly reliable and well-connected"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood Money for Women's Injuries",
+        "Equality in Minor Injuries Between Men and Women",
+        "Reduction to Half After One-Third Threshold",
+        "Compensation for Eyes, Hands, Fingers, and Wounds",
+        "Legal Opinion of Zayd ibn Thabit on Blood Money"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى عَنْ مَالِك عَنْ يَحْيَى بْنِ سَعِيدٍ عَنْ سُلَيْمَانَ بْنِ يَسَارٍ أَنَّ زَيْدَ بْنَ ثَابِتٍ كَانَ يَقُولُ عَقْلُ الْمَرْأَةِ مِثْلُ عَقْلِ الرَّجُلِ حَتَّى يَبْلُغَ الثُّلُثَ مِنَ الدِّيَةِ إِصْبُعُهَا كَإِصْبَعِهِ وَسِنُّهَا كَسِنِّهِ وَمُوضِحَتُهَا كَمُوضِحَتِهِ وَمَأْمُومَتُهَا كَمَأْمُومَتِهِ فَإِذَا جَاوَزَتِ الثُّلُثَ رَجَعَتْ إِلَى النِّصْفِ قَالَ مَالِك الْأَمْرُ عِنْدَنَا قَوْلُ زَيْدِ بْنِ ثَابِتٍ أَنَّ عَقْلَ الْمَرْأَةِ مِثْلُ عَقْلِ الرَّجُلِ حَتَّى يَبْلُغَ الثُّلُثَ مِنَ الدِّيَةِ فَإِذَا جَاوَزَتْ ذَلِكَ صَارَ عَلَى النِّصْفِ قَالَ مَالِك مِثَالُ ذَلِكَ أَنَّ دِيَةَ عَيْنَيِ الْمَرْأَةِ الدِّيَةُ كَامِلَةً وَدِيَةَ إِحْدَى عَيْنَيْهَا نِصْفُ الدِّيَةِ وَدِيَةُ يَدِهَا نِصْفُ الدِّيَةِ وَدِيَةُ إِحْدَى أَصَابِعِهَا عُشْرُ الدِّيَةِ قَالَ مَالِك الْجِرَاحُ دُونَ الثُّلُثِ سَوَاءٌ بَيْنَ الرِّجَالِ وَالنِّسَاءِ فَإِذَا بَلَغَتِ الثُّلُثَ صَارَتْ عَلَى النِّصْفِ فِي الْمَرْأَةِ وَذَلِكَ أَنَّ إِحْدَى يَدَيْهَا نِصْفُ الدِّيَةِ وَدِيَةُ يَدَيْهَا جَمِيعًا الدِّيَةُ كَامِلَةً وَعَلَى هَذَا الْجِرَاحُ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2046,
+      "grade": "Mawquf (Statement of Zayd ibn Thabit)"
+    }
+  ]
+}

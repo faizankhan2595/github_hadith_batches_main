@@ -1,0 +1,730 @@
+{
+  "batch_number": 2,
+  "file_number": 100,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 10486,
+      "original_hadith_number": 409,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 409,
+      "arabicText": "مَا جَاءَ فِي حَمْلِ سَرِيرِ الْمَيِّتِ",
+      "english_translation": "Chapter: What has been reported about carrying the bier of the deceased",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only with no hadith text or chain of narration",
+          "impact": "Cannot be analyzed as a hadith - it is merely a topical division"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading - Funeral Procedures"],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10487,
+      "original_hadith_number": 410,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 410,
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ قُلْتُ لِمَالِكٍ : مِنْ أَيِّ جَوَانِبِ السَّرِيرِ أَحْمِلُ الْمَيِّتَ , وَبِأَيِّ ذَلِكَ أَبْدَأُ ؟ فَقَالَ : لَيْسَ فِي ذَلِكَ شَيْءٌ مُؤَقَّتٌ , احْمِلْ مِنْ حَيْثُ شِئْتَ ، إِنْ شِئْتَ مِنْ قُدَّامٍ ، وَإِنْ شِئْتَ مِنْ وَرَاءٍ , وَإِنْ شِئْتَ احْمِلْ بَعْضَ الْجَوَانِبِ ، وَدَعْ بَعْضَهَا , وَإِنْ شِئْتَ فَاحْمِلْ ، وَإِنْ شِئْتَ فَدَعْ , وَرَأَيْتُهُ يَرَى أَنَّ الَّذِي يَذْكُرُ النَّاسُ فِيهِ أَنْ يَبْدَأَ بِالْيَمِينِ بِدْعَةٌ .",
+      "english_translation": "Narrated by Malik: Ibn al-Qasim said: I asked Malik: From which sides of the bier should I carry the deceased, and with which should I begin? He said: There is nothing specified in that. Carry from wherever you wish - if you wish from the front, and if you wish from the back, and if you wish carry some sides and leave others, and if you wish carry and if you wish leave. And I saw him consider what people mention about beginning with the right side to be an innovation.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid ibn Junaydah al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قُلْتُ لِمَالِكٍ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report stopping at Imam Malik, not traced to the Prophet ﷺ",
+            "The transmission is through dialogue (I asked Malik), which is a strong direct connection"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik (mawquf opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement from Malik, not a marfu' hadith from the Prophet ﷺ",
+          "impact": "This represents Malik's juristic opinion rather than prophetic tradition"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": [
+        "Carrying the Funeral Bier",
+        "Malik's view on innovations in funeral practices"
+      ],
+      "grade": "Mawquf (Sahih chain to Malik)"
+    },
+    {
+      "hadith_id": 10488,
+      "original_hadith_number": 411,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 411,
+      "arabicText": "قَالَ ابْنُ وَهْبٍ ، عن الْحَارِثِ بْنِ نَبْهَانَ ، عن مَنْصُورٍ ، عن عُبَيْدِ بْنِ نِسْطَاسٍ ، عن أَبِي عُبَيْدَةَ بْنِ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ ، عن ابْنِ مَسْعُودٍ ، قَالَ : احْمِلُوا الْجِنَازَةَ مِنْ جَوَانِبِهَا الْأَرْبَعِ فَإِنَّهَا السُّنَّةُ , ثُمَّ إِنْ شِئْتَ فَتَطَوَّعْ ، وَإِنْ شِئْتَ فَدَعْ",
+      "english_translation": "Narrated by Ibn Mas'ud: Carry the funeral bier from its four sides, for this is the Sunnah. Then if you wish, continue voluntarily, and if you wish, leave it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Harith ibn Nabhan",
+              "full_name": "al-Harith ibn Nabhan al-Jazari",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mansur",
+              "full_name": "Mansur ibn al-Mu'tamir ibn Abdullah ibn Rabi'ah al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ubayd ibn Nistas",
+              "full_name": "Ubayd ibn Nistas al-Kufi",
+              "grade": "Majhul al-Hal",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["majhul al-hal - unknown reliability status"]
+            },
+            {
+              "name": "Abu Ubayda ibn Abdullah ibn Mas'ud",
+              "full_name": "Abu Ubayda Amir ibn Abdullah ibn Mas'ud al-Hudhali al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Did not hear from his father Ibn Mas'ud according to majority of scholars"]
+            },
+            {
+              "name": "Ibn Mas'ud",
+              "full_name": "Abdullah ibn Mas'ud ibn Ghafil al-Hudhali",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report stopping at the Companion Ibn Mas'ud",
+            "Critical disconnection: Abu Ubayda ibn Abdullah ibn Mas'ud did not hear from his father - this is established by Ahmad, al-Bukhari, and others",
+            "Ubayd ibn Nistas is unknown (majhul al-hal) with no established reliability grading"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> al-Harith ibn Nabhan -> Mansur -> Ubayd ibn Nistas -> Abu Ubayda ibn Abdullah ibn Mas'ud -> Ibn Mas'ud (mawquf)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ubayda ibn Abdullah ibn Mas'ud did not hear from his father according to the consensus of hadith critics including Imam Ahmad and al-Bukhari",
+          "impact": "This creates a clear disconnection (inqita') in the chain, rendering it munqati' (broken)"
+        },
+        {
+          "issue": "Ubayd ibn Nistas is majhul al-hal (unknown reliability)",
+          "impact": "An unknown narrator weakens the chain significantly as his precision and trustworthiness cannot be established"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) which could indicate indirect transmission",
+          "impact": "Though some narrators are reliable, the ambiguous transmission terms combined with other issues compound the weakness"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Carrying the Funeral Bier from Four Sides",
+        "Voluntary acts in funeral processions"
+      ],
+      "grade": "Mawquf with disconnected chain"
+    },
+    {
+      "hadith_id": 10489,
+      "original_hadith_number": 412,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 412,
+      "arabicText": "فِي الصَّلَاةِ عَلَى الْجِنَازَةِ فِي الْمَسْجِدِ",
+      "english_translation": "Chapter: On the funeral prayer in the mosque",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only with no hadith text or chain of narration",
+          "impact": "Cannot be analyzed as a hadith - it is merely a topical division"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading - Funeral Prayer in the Mosque"],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10490,
+      "original_hadith_number": 413,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 413,
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : أَكْرَهُ أَنْ تُوضَعَ الْجِنَازَةُ فِي الْمَسْجِدِ , فَإِنْ وُضِعَتْ قُرْبَ الْمَسْجِدِ لِلصَّلَاةِ عَلَيْهَا فَلَا بَأْسَ أَنْ يُصَلِّيَ مِنْ فِي الْمَسْجِدِ عَلَيْهَا بِصَلَاةِ الْإِمَامِ الَّذِي يُصَلِّي عَلَيْهَا إِذَا ضَاقَ خَارِجُ الْمَسْجِدِ بِأَهْلِهِ . قَالَ : وَقَالَ مَالِكٌ : وَلَا بَأْسَ بِالْجُلُوسِ عندَ الْقَبْرِ قَبْلَ أَنْ تُوضَعَ الْجِنَازَةُ عن أَعناقِ الرِّجَالِ , وَقَدْ فَعَلَ ذَلِكَ عُرْوَةُ بْنُ الزُّبَيْرِ .",
+      "english_translation": "Narrated by Malik: I dislike that the funeral bier be placed in the mosque. But if it is placed near the mosque for prayer over it, there is no harm in those who are in the mosque praying over it with the imam who is praying over it when the space outside the mosque becomes too crowded for its people. Malik said: There is no harm in sitting at the grave before the funeral bier is lowered from the necks of the men, and Urwah ibn al-Zubayr did this.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report containing Malik's juristic opinions",
+            "Also mentions the practice of Urwah ibn al-Zubayr without a chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (mawquf opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement representing Malik's juristic opinion, not a prophetic narration",
+          "impact": "This is scholarly ijtihad rather than transmitted hadith"
+        },
+        {
+          "issue": "The mention of Urwah ibn al-Zubayr's practice has no chain of transmission",
+          "impact": "Cannot verify this claim about Urwah's practice"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": [
+        "Funeral Prayer near the Mosque",
+        "Sitting at the grave before burial"
+      ],
+      "grade": "Mawquf (Malik's opinion)"
+    },
+    {
+      "hadith_id": 10491,
+      "original_hadith_number": 414,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 414,
+      "arabicText": "الصَّلَاةُ عَلَى قَاتِلِ نَفْسِهِ",
+      "english_translation": "Chapter: The funeral prayer over one who killed himself",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only with no hadith text or chain of narration",
+          "impact": "Cannot be analyzed as a hadith - it is merely a topical division"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading - Funeral Prayer for Suicide Victims"],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10492,
+      "original_hadith_number": 415,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 415,
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : يُصَلَّى عَلَى قَاتِلِ نَفْسِهِ ، وَيُصْنَعُ بِهِ مَا يُصْنَعُ بِمَوْتَى الْمُسْلِمِينَ ، وَإِثْمُهُ عَلَى نَفْسِهِ , قَالَ : وَسُئِلَ مَالِكٌ عن امْرَأَةٍ خَنَقَتْ نَفْسَهَا ؟ قَالَ مَالِكٌ : صَلُّوا عَلَيْهَا ، وَإِثْمُهَا عَلَى نَفْسِهَا . قَالَ ابْنُ وَهْبٍ ، وَقَالَ : وَقَالَ مثل قَوْلِ مَالِكٍ عَطَاءُ بْنُ أَبِي رَبَاحٍ . قَالَ : عَلِيُّ بْنُ زِيَادٍ ، عن سُفْيَانَ ، عن عَبْدِ اللَّهِ بْنِ عَوْنٍ ، عن إِبْرَاهِيمَ النَّخَعِيِّ ، قَالَ : السُّنَّةُ أَنْ يُصَلَّى عَلَى قَاتِلِ نَفْسِهِ .",
+      "english_translation": "Narrated by Malik: The funeral prayer should be performed over one who killed himself, and he should be treated as the Muslim dead are treated, and his sin is upon himself. Malik was asked about a woman who strangled herself. Malik said: Pray over her, and her sin is upon herself. Ibn Wahb said: Ata ibn Abi Rabah said the same as Malik's statement. Ali ibn Ziyad narrated from Sufyan, from Abdullah ibn Awn, from Ibrahim al-Nakha'i, who said: The Sunnah is to pray over one who killed himself.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is Malik's juristic opinion (mawquf)"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ali ibn Ziyad",
+              "full_name": "Ali ibn Ziyad ibn Judh'an al-Tusi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Awn",
+              "full_name": "Abdullah ibn Awn ibn Artaban al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibrahim al-Nakha'i",
+              "full_name": "Ibrahim ibn Yazid ibn Qays al-Nakha'i al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report stopping at Ibrahim al-Nakha'i (a major Tabi'i)",
+            "Chain uses 'an (عَنْ) but all narrators are reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (mawquf opinion)",
+        "Ali ibn Ziyad -> Sufyan al-Thawri -> Abdullah ibn Awn -> Ibrahim al-Nakha'i (mawquf)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are mawquf statements from scholars (Malik, Ata, Ibrahim al-Nakha'i), not marfu' narrations from the Prophet ﷺ",
+          "impact": "Represents scholarly consensus and juristic reasoning rather than direct prophetic tradition"
+        },
+        {
+          "issue": "Use of 'an (عَنْ) in the chain to Ibrahim al-Nakha'i",
+          "impact": "Minimal impact as all narrators are highly reliable (thiqah/thabt)"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a woman who strangled herself",
+        "Funeral Prayer for those who commit suicide",
+        "Treatment of Muslim sinners after death"
+      ],
+      "grade": "Mawquf with sound chains to the scholars mentioned"
+    },
+    {
+      "hadith_id": 10493,
+      "original_hadith_number": 416,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 416,
+      "arabicText": "الصَّلَاةُ عَلَى مَنْ يَمُوتُ مِنَ الْحُدُودِ وَالْقَوْدِ",
+      "english_translation": "Chapter: The funeral prayer over those who die from legal punishments and retaliation",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only with no hadith text or chain of narration",
+          "impact": "Cannot be analyzed as a hadith - it is merely a topical division"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading - Funeral Prayer for Executed Criminals"],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10494,
+      "original_hadith_number": 417,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 417,
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : كُلُّ مَنْ قَتَلَهُ الْإِمَامُ عَلَى قِصَاصٍ أَوْ ، قَتَلَهُ فِي حَدٍّ مِنَ الْحُدُودِ , فَإِنَّ الْإِمَامَ لَا يُصَلِّي عَلَيْهِ ، وَلَكِنْ يُغَسَّلُ وَيُحَنَّطُ وَيُكَفَّنُ وَيُصَلِّي عَلَيْهِ النَّاسُ غَيْرَ الْإِمَامِ . قُلْتُ : فَمَا قَوْلُ مَالِكٍ فِيمَنْ ضَرَبَهُ السُّلْطَانُ الْحَدَّ مِائَةَ جَلْدَةٍ ، فَمَاتَ مِنْ ذَلِكَ ؟ قَالَ : لَا أَحْفَظُ هَذَا عن مَالِكٍ ، وَلَكِنْ أَرَى أَنْ يُصَلِّيَ عَلَيْهِ الْإِمَامُ . قُلْتُ : لِمَ ؟ قَالَ : لِأَنَّ حَدَّهُ هُوَ الْجَلْدُ , وَلَمْ يَكُنِ الْقَتْلُ ، وَإِنَّمَا مَاتَ مِنْ مَرَضٍ أَصَابَهُ مِنْ وَجَعِ السِّيَاطِ ، فَأَرَى أَنْ يُصَلِّيَ عَلَيْهِ . قَالَ : وَقَالَ مَالِكٌ : يُصَلِّي عَلَى الْمَرْجُومِ أَهْلُهُ وَالنَّاسُ , وَلَا يُصَلِّي عَلَيْهِ الْإِمَامُ لِأَنَّهُ قَالَ : مَنْ قَتَلَهُ الْإِمَامُ عَلَى حَدٍّ مِنَ الْحُدُودِ فَلَا يُصَلِّي عَلَيْهِ الْإِمَامُ ، وَلْيُصَلِّ عَلَيْهِ أَهْلُهُ . قُلْتُ : أَلَيْسَ مَعنى قَوْلَ مَالِكٍ يُصَلِّي عَلَيْهِ أَهْلُهُ أَنْ تُصَلِّيَ النَّاسُ كُلُّهُمْ سِوَى الْإِمَامِ ؟ قَالَ : نَعَمْ هُوَ تَفْسِيرُهُ عندِي . قَالَ مَالِكٌ : وَسَمِعْتُ رَبِيعَةَ يَقُولُ فِي الَّذِي يُقْتَلُ قَوَدًا : أَنَّ الْإِمَامَ لَا يُصَلِّي عَلَيْهِ ، وَيُصَلِّي عَلَيْهِ أَهْلُهُ ، وَبِهِ يَأْخُذُ مَالِكٌ . قُلْتُ : أَرَأَيْتَ مَنْ قُتِلَ فِي قِصَاصٍ أَيُغْسَلُ وَيُكَفَّنُ وَيُصَلَّى عَلَيْهِ فِي قَوْلِ مَالِكٍ ؟ قَالَ : نَعَمْ , إِلَّا أَنَّ الْإِمَامَ لَا يُصَلِّي عَلَيْهِ . قَالَ ابْنُ وَهْبٍ , وَقَالَ مثل قَوْلِ مَالِكٍ ، ابْنُ شِهَابٍ ، وَرَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ",
+      "english_translation": "Narrated by Malik: Whoever the imam executes in retaliation or kills due to a legal punishment, the imam does not pray over him, but he should be washed, perfumed, shrouded, and people other than the imam should pray over him. I asked: What is Malik's position on one whom the ruler struck with the legal punishment of one hundred lashes and he died from it? He said: I do not recall this from Malik, but I see that the imam should pray over him. I asked: Why? He said: Because his punishment was lashing, not execution, and he only died from an illness that afflicted him from the pain of the whips, so I see that he should pray over him. Malik said: The stoned person's family and the people pray over him, and the imam does not pray over him. Malik said: I heard Rabi'ah say about the one who is killed in retaliation: that the imam does not pray over him, and his family prays over him, and Malik follows this. I asked: Have you considered one who was killed in retaliation - should he be washed, shrouded, and prayed over according to Malik's statement? He said: Yes, except that the imam does not pray over him. Ibn Wahb said: Ibn Shihab and Rabi'ah ibn Abi Abd al-Rahman said the same as Malik's statement.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid ibn Junaydah al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report containing Malik's juristic opinions through dialogue with Ibn al-Qasim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik (mawquf opinions)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf compilation of Malik's juristic opinions, not prophetic narrations",
+          "impact": "Represents scholarly ijtihad and legal reasoning rather than transmitted hadith"
+        },
+        {
+          "issue": "Mentions opinions of Rabi'ah, Ibn Shihab without complete chains",
+          "impact": "These are supporting scholarly opinions but lack detailed chains of transmission"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": [
+        "Funeral Prayer for executed criminals",
+        "Treatment of those killed in legal retaliation",
+        "Death from corporal punishment"
+      ],
+      "grade": "Mawquf (Malik's juristic opinions)"
+    },
+    {
+      "hadith_id": 10495,
+      "original_hadith_number": 418,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 418,
+      "arabicText": "فِي الصَّلَاةِ عَلَى الْأَعْجَمِي وَالصَّغِيرِ",
+      "english_translation": "Chapter: On the funeral prayer over the non-Arab and the child",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only with no hadith text or chain of narration",
+          "impact": "Cannot be analyzed as a hadith - it is merely a topical division"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading - Funeral Prayer for Children and Non-Arabs"],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10496,
+      "original_hadith_number": 419,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 419,
+      "arabicText": "قُلْتُ : أَرَأَيْتَ الصَّغِيرَ إِذَا صَارَ فِي سُهْمَانِ رَجُلٍ مَنِ الْمُسْلِمِينَ , أَوِ اشْتَرَاهُ فَمَاتَ أَيُصَلِّي عَلَيْهِ فِي قَوْلِ مَالِكٍ ؟ قَالَ : قَالَ مَالِكٌ : إِنْ كَانَ أَجَابَ إِلَى الْإِسْلَامِ أَوْ عَلِمَ ، فَتَشَهَّدَ صَلَّى عَلَيْهِ وَإِلَّا لَمْ يُصَلِّ عَلَيْهِ . قَالَ : فَقِيلَ لِمَالِكٍ : إِنَّ الَّذِي اشْتَرَاهُ صَغِيرًا إِنَّمَا اشْتَرَاهُ لِيَجْعَلَهُ عَلَى دِينِهِ يُدْخِلُهُ فِي الْإِسْلَامِ ؟ قَالَ مَالِكٌ : إِنْ كَانَ أَجَابَ إِلَى الْإِسْلَامِ بِشَيْءٍ يُعْرَفُ ، وَإِلَّا لَمْ يُصَلِّ عَلَيْهِ , قَالَ ابْنُ الْقَاسِمِ : وَذَلِكَ إِنْ كَانَ كَبِيرًا يَعْقِلُ الْإِسْلَامَ ، وَيَعْرِفُ مَا أَجَابَ إِلَيْهِ . قُلْتُ : فَإِنْ كَانَ صَغِيرًا ؟ قَالَ : قَالَ مَالِكٌ : لَا يُصَلَّى عَلَى الصَّغِيرِ ، فَالصَّغِيرُ الَّذِي يُشْتَرَى وَمِنْ نِيَّةِ صَاحِبِهِ أَنْ يُدْخِلَهُ فِي الْإِسْلَامِ فَمَاتَ قَبْلَ ذَلِكَ لَا يُصَلَّى عَلَيْهِ . قَالَ : وَسَمِعْتُ مَالِكًا يُسْأَلُ عن الْعَبْدَيْنِ النَّصْرَانِيِّينَ يُزَوِّجُ أَحَدَهُمَا مَنْ صَاحِبِهِ سَيِّدُهُمَا ، فَيُولَدُ لَهُمَا وَلَدٌ ، فَأَرَادَ سَيِّدُهُمَا أَنْ يُجْبِرَهُ عَلَى الْإِسْلَامِ أَيَكُونُ ذَلِكَ لَهُ ؟ قَالَ مَالِكٌ : مَا عَلِمْتُ بِذَلِكَ أَيْ لَا يُجْبِرْهُ قُلْتُ : كَيْفَ الْإِسْلَامُ الَّذِي إِذَا أَجَابَتْ إِلَيْهِ الْجَارِيَةُ حَلَّ وَطْؤُهَا وَالصَّلَاةُ عَلَيْهَا ؟ قَالَ : قَالَ مَالِكٌ : إِذَا شَهِدَتْ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ، وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ وَصَلَّتْ , فَقَدْ أَجَابَتْ أَوْ أَجَابَتْ بِأَمْرٍ يُعْرَفُ أَنَّهَا قَدْ دَخَلَتْ فِي الْإِسْلَامِ . قَالَ : وَسَأَلْتُ مَالِكًا عن الْمُسْلِمِينَ يُصِيبُونَ السَّبْيَ مِنَ الْعَدُوِّ فَيُبَايِعُونَ , فَيَشْتَرِي الرَّجُلُ مِنْهُمُ الصَّبِيَّ وَنِيَّتُهُ أَنْ يُدْخِلَهُ الْإِسْلَامَ وَهُوَ صَغِيرٌ فَيَمُوتُ , أَتَرَى أَنْ يُصَلِّيَ عَلَيْهِ قَالَ : لَا ، إِلَّا أَنْ يَكُونَ قَدْ دَخَلَ فِي الْإِسْلَامِ , وَقَالَ غَيْرُهُ : هُوَ مَعن بْنُ عِيسَى يُصَلِّي عَلَيْهِ . قُلْتُ لِابْنِ الْقَاسِمِ : أَرَأَيْتَ مَنْ نزل بِهِمْ أَهْلُ الشِّرْكِ بِسَاحِلِنَا ، فَبَاعُوهُمْ مِنَّا وَهُمْ صِبْيَانٌ . فَمَاتُوا قَبْلَ أَنْ يَتَكَلَّمُوا بِالْإِسْلَامِ بَعْدَمَا اشْتَرَيْنَاهُمْ , هَلْ تَحْفَظُ مِنْ مَالِكٍ فِيهِ شَيْئًا ؟ قَالَ : نَعَمْ , لَا يُصَلَّى عَلَيْهِمْ حَتَّى يُجِيبُوا إِلَى الْإِسْلَامِ . وَقَالَ فِيمَنِ اشْتَرَى جَارِيَةً مِنَ السَّبْيِ : إِنَّهَا لَا تُجَامَعُ حَتَّى تُجِيبَ إِلَى الْإِسْلَامِ , إِلَّا أَنْ تَكُونَ مِنْ أَهْلِ الْكِتَابِ ، فَيُجَامِعُهَا بَعْدَ الِاسْتِبْرَاءِ إِنْ أَحَبَّ .",
+      "english_translation": "Narrated by Malik through Ibn al-Qasim: I asked: Have you considered the young child when he becomes part of the shares of a Muslim man, or he purchases him and he dies - does he pray over him according to Malik's statement? He said: Malik said: If he responded to Islam or knew it and testified to the shahada, then pray over him, otherwise do not pray over him. It was said to Malik: The one who purchased him as a child only purchased him to make him follow his religion and enter him into Islam. Malik said: If he responded to Islam with something recognizable, otherwise do not pray over him. Ibn al-Qasim said: That is if he was mature enough to understand Islam and know what he responded to. I asked: What if he was young? He said: Malik said: Do not pray over the young child. The young child who is purchased with the intention of his owner to enter him into Islam and he died before that - do not pray over him. He said: I heard Malik being asked about two Christian slaves whose master marries one to the other, and a child is born to them, and their master wants to force him into Islam - does he have that right? Malik said: I do not know of that - meaning he does not force him. I asked: What is the Islam that when a female slave responds to it, her intercourse becomes permissible and prayer over her? He said: Malik said: When she testifies that there is no god but Allah and that Muhammad ﷺ is His servant and messenger and she prays, then she has responded, or she has responded with a matter by which it is known that she has entered into Islam. He said: I asked Malik about Muslims who acquire captives from the enemy and sell them, and a man purchases a child from them with the intention of entering him into Islam while he is young and he dies - do you see that he should pray over him? He said: No, unless he had entered into Islam. Someone else - he is Ma'n ibn Isa - said: Pray over him. I asked Ibn al-Qasim: Have you considered those upon whom the polytheists landed on our coast and sold them to us while they were children, and they died before speaking the Islam after we purchased them - do you recall anything from Malik about it? He said: Yes, do not pray over them until they respond to Islam. He said regarding one who purchases a female slave from captivity: She is not to be had intercourse with until she responds to Islam, unless she is from the People of the Book, then he may have intercourse with her after istibra if he wishes.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid ibn Junaydah al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قُلْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf compilation of Malik's juristic opinions through detailed dialogue with Ibn al-Qasim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik (mawquf opinions)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is entirely mawquf material representing Malik's juristic reasoning and fatawa, not prophetic narrations",
+          "impact": "This is scholarly ijtihad on complex issues of slavery, conversion, and funeral practices"
+        },
+        {
+          "issue": "Mentions Ma'n ibn Isa's differing opinion without a complete chain",
+          "impact": "Shows scholarly disagreement but lacks detailed transmission"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": [
+        "Funeral Prayer for captive children who die before accepting Islam",
+        "Conditions for valid conversion to Islam",
+        "Treatment of non-Muslim captives and slaves",
+        "Forcing religion upon slaves' children"
+      ],
+      "grade": "Mawquf (Malik's juristic opinions)"
+    },
+    {
+      "hadith_id": 10497,
+      "original_hadith_number": 420,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 420,
+      "arabicText": "قَالَ ابْنُ وَهْبٍ ، عن مُحَمَّدِ بْنِ عَمْرٍو ، عن ابْنِ جُرَيْجٍ ، عن ابْنِ أَبِي مُلَيْكَةَ ، أَنَّهُ سَمِعَ بِالْمَدِينَةِ \" أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَكِبَ إِلَى بَنِي النَّجَّارِ ، فَرَأَى جِنَازَةً عَلَى خَشَبَةٍ , فَقَالَ : مَا بَالُ هَذَا ؟ فَقِيلَ : عَبْدٌ لَنَا كَانَ عَبْدَ سُوءٍ مَسْخُوطًا جَافِيًا , قَالَ : أَكَانَ يُصَلِّي قَالُوا : نَعَمْ , قَالَ : أَكَانَ يَقُولُ : مُحَمَّدٌ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , قَالُوا : نَعَمْ , قَالَ : لَقَدْ كَادَتِ الْمَلَائِكَةُ تَحُولُ بَيْنِي وَبَيْنَهُ ارْجِعُوا فَأَحْسِنُوا غُسْلَهُ وَكَفَنَهُ وَدَفْنَهُ \"",
+      "english_translation": "Narrated from what was heard in Medina that the Messenger of Allah ﷺ rode to Banu al-Najjar and saw a funeral bier on a plank of wood. He said: What is this? It was said: A slave of ours who was an evil slave, displeasing and harsh. He said: Did he used to pray? They said: Yes. He said: Did he used to say Muhammad is the Messenger of Allah ﷺ? They said: Yes. He said: The angels nearly prevented me from reaching him. Return and perform his washing well, his shrouding, and his burial.",
+      "chains": [
+        {
+          "type": "mursal/munqati'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Amr",
+              "full_name": "Muhammad ibn Amr ibn Alqamah ibn Waqqa al-Laythi al-Madani",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Saduq with some memory issues according to some scholars"]
+            },
+            {
+              "name": "Ibn Jurayj",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis - category 3 mudallis according to Ibn Hajar", "Using 'an here without explicit hearing"]
+            },
+            {
+              "name": "Ibn Abi Mulaykah",
+              "full_name": "Abdullah ibn Ubaydullah ibn Abi Mulaykah al-Taymi al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": ["Did not meet the Prophet ﷺ - he was a Tabi'i", "Heard 'in Medina' indicates an unknown intermediary source"]
+            }
+          ],
+          "chainIssues": [
+            "Critical disconnection: Ibn Abi Mulaykah was a Tabi'i who did not meet the Prophet ﷺ",
+            "The expression 'he heard in Medina' (سَمِعَ بِالْمَدِينَةِ) indicates he heard from an unspecified source, not directly",
+            "Ibn Jurayj is a category 3 mudallis using 'an here, which raises concerns about the connection",
+            "Muhammad ibn Amr is Saduq (truthful but with occasional errors) rather than Thiqah",
+            "The chain is mursal or munqati' (disconnected) due to missing link between Ibn Abi Mulaykah and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Muhammad ibn Amr -> Ibn Jurayj -> Ibn Abi Mulaykah -> (unknown intermediary/ies) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Abi Mulaykah did not meet the Prophet ﷺ as he was born after the Prophet's death - this is a clear disconnection (inqita')",
+          "impact": "Makes this chain mursal or munqati', which is a significant weakness as we cannot identify the missing narrator(s)"
+        },
+        {
+          "issue": "Ibn Jurayj is a well-known mudallis (category 3 according to Ibn Hajar) and is using the ambiguous term 'an (عَنْ) here",
+          "impact": "Without explicit terms of direct hearing from Ibn Jurayj, this raises questions about whether he heard directly from Ibn Abi Mulaykah, though both were contemporaries who likely met"
+        },
+        {
+          "issue": "Muhammad ibn Amr ibn Alqamah is graded as Saduq (truthful) but not Thiqah, with some scholars noting occasional memory issues",
+          "impact": "While acceptable, he is not at the highest level of precision, which compounds with other issues in the chain"
+        },
+        {
+          "issue": "The expression 'he heard in Medina that...' (أَنَّهُ سَمِعَ بِالْمَدِينَةِ) indicates an unspecified source",
+          "impact": "We cannot identify who informed Ibn Abi Mulaykah of this incident, making verification impossible"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of the Prophet ﷺ seeing the funeral of a harsh slave",
+        "Importance of prayer and testimony of faith",
+        "Proper treatment of Muslim deceased regardless of character"
+      ],
+      "grade": "Mursal/Munqati' (Disconnected)"
+    },
+    {
+      "hadith_id": 10498,
+      "original_hadith_number": 421,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 421,
+      "arabicText": "الصَّلَاةُ عَلَى السَّقْطِ وَدَفْنُهُ",
+      "english_translation": "Chapter: The funeral prayer over the miscarried fetus and its burial",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only with no hadith text or chain of narration",
+          "impact": "Cannot be analyzed as a hadith - it is merely a topical division"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading - Funeral Prayer for Miscarried Fetuses"],
+      "grade": "Chapter Heading"
+    },
+    {
+      "hadith_id": 10499,
+      "original_hadith_number": 422,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 422,
+      "arabicText": "وَقَالَ مَالِكٌ : لَا يُصَلَّى عَلَى الصَّبِيِّ ، وَلَا يَرِثُ وَلَا يُورَثُ , وَلَا يُسَمَّى ، وَلَا يُغَسَّلُ ، وَلَا يُحَنَّطُ حَتَّى يَسْتَهِلَّ صَارِخًا وَهُوَ بِمَنْزِلَةِ مَنْ خَرَجَ مَيِّتًا . قَالَ ابْنُ الْقَاسِمِ : وَسَأَلْتُ مَالِكًا عن السَّقْطِ أَيُدْفَنُ فِي الدَّارِ ؟ فَكَرِهَ ذَلِكَ . مَالِكٌ . قَالَ حَدَّثَنِي ابْنُ شِهَابٍ ، أَنَّ السُّنَّةَ أَنْ لَا يُصَلَّى عَلَى الْمَنْفُوسِ حَتَّى يَسْتَهِلَّ صَارِخًا حِينَ يُولَدُ . قَالَ ابْنُ وَهْبٍ ، قَالَ يُونُسُ ، وَقَالَ ابْنُ شِهَابٍ : لَا يُصَلَّى عَلَى السَّقْطِ ، وَلَا بَأْسَ أَنْ يُدْفَنَ مَعَ أُمِّهِ .",
+      "english_translation": "Narrated by Malik: The funeral prayer is not performed over a newborn infant, and he does not inherit nor is he inherited from, and he is not named, and he is not washed, and he is not perfumed until he cries out loudly, and he is in the status of one who came out dead. Ibn al-Qasim said: I asked Malik about the miscarried fetus - should it be buried in the house? He disliked that. Malik said: Ibn Shihab narrated to me that the Sunnah is that the funeral prayer is not performed over the newborn until he cries out loudly when he is born. Ibn Wahb said: Yunus said, and Ibn Shihab said: The funeral prayer is not performed over the miscarried fetus, and there is no harm in it being buried with its mother.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is Malik's juristic opinion (mawquf)"
+          ]
+        },
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi al-Madani",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Known for occasional tadlis (category 2-3 according to different scholars)", "Not using tadlis here as he uses haddathani"]
+            }
+          ],
+          "chainIssues": [
+            "This is mursal - Ibn Shihab al-Zuhri mentions 'the Sunnah' without attributing it to a specific Companion or the Prophet ﷺ",
+            "The term 'al-Sunnah' could refer to established practice rather than a specific prophetic narration"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus",
+              "full_name": "Yunus ibn Yazid al-Ayli",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf statement from Ibn Shihab al-Zuhri"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (mawquf opinion)",
+        "Malik -> Ibn Shihab al-Zuhri (mursal about 'the Sunnah')",
+        "Ibn Wahb -> Yunus -> Ibn Shihab al-Zuhri (mawquf opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The first part is Malik's juristic opinion (mawquf), not a prophetic narration",
+          "impact": "Represents scholarly ijtihad rather than transmitted hadith"
+        },
+        {
+          "issue": "The statement about 'the Sunnah' from Ibn Shihab is mursal - not attributed to a specific narrator or the Prophet ﷺ",
+          "impact": "We cannot verify the source of this ruling or whether it traces back to the Prophet ﷺ"
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri is known for occasional tadlis, though he uses haddathani (explicit term) in the chain from Malik",
+          "impact": "In this instance, the explicit term removes tadlis concerns for that particular chain"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": [
+        "Funeral Prayer for stillborn infants",
+        "Legal status of newborns before crying",
+        "Burial of miscarried fetuses"
+      ],
+      "grade": "Mawquf opinions and Mursal statement"
+    },
+    {
+      "hadith_id": 10500,
+      "original_hadith_number": 423,
+      "book_id": 20,
+      "collection": "كتاب رقم 20 (مؤلف غير معروف)",
+      "reference_number": 423,
+      "arabicText": "فِي الصَّلَاةِ عَلَى وَلَدِ الزِّنَا",
+      "english_translation": "Chapter: On the funeral prayer over a child born of adultery",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only with no hadith text or chain of narration",
+          "impact": "Cannot be analyzed as a hadith - it is merely a topical division"
+        }
+      ],
+      "IISGrade": "Not Applicable",
+      "Topics": ["Chapter Heading - Funeral Prayer for Children Born of Adultery"],
+      "grade": "Chapter Heading"
+    }
+  ]
+}

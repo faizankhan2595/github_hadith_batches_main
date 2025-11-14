@@ -1,0 +1,650 @@
+{
+  "batch_number": 2,
+  "file_number": 67,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9992,
+      "collection": "Muwatta Malik",
+      "reference_number": 2288,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ أَبِي لُبَابةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ قَتْلِ الْحَيَّاتِ الَّتِي فِي الْبُيُوتِ",
+      "english_translation": "Narrated by Abu Lubabah: that the Messenger of Allah ﷺ forbade the killing of snakes that are in the houses.",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Lubabah",
+              "full_name": "Bashir ibn Abd al-Mundhir al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["mursal - did not specify hearing this directly from the Prophet ﷺ"]
+            }
+          ],
+          "chainIssues": ["This is a mursal narration as Abu Lubabah (a Companion) is reported to have said something about the Prophet ﷺ without explicitly stating he heard it directly, using 'anna' formulation which can indicate indirect transmission"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Abu Lubabah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Nafi' uses the indirect transmission term 'عَنْ' (an) when narrating from Abu Lubabah",
+          "impact": "Minor concern, but Nafi' is highly reliable and not known for tadlis, so this does not significantly affect authenticity"
+        },
+        {
+          "issue": "The formulation 'أَنَّ' (anna) is used which can sometimes indicate indirect transmission",
+          "impact": "Creates slight ambiguity about whether Abu Lubabah heard this directly from the Prophet ﷺ, though as a Companion this is generally acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Treatment of snakes found in houses",
+        "Distinction between harmful and potentially beneficial creatures"
+      ]
+    },
+    {
+      "hadith_id": 9993,
+      "collection": "Muwatta Malik",
+      "reference_number": 2289,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ سَائِبَةَ مَوْلَاةٍ لِعَائِشَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ قَتْلِ الْجِنَّانِ الَّتِي فِي الْبُيُوتِ ، إِلَّا ذَا الطُّفْيَتَيْنِ وَالْأَبْتَرَ ، فَإِنَّهُمَا يَخْطِفَانِ الْبَصَرَ وَيَطْرَحَانِ مَا فِي بُطُونِ النِّسَاءِ",
+      "english_translation": "Narrated by Sa'ibah, the freed slave of Aisha: that the Messenger of Allah ﷺ forbade the killing of the jinnan (house snakes) that are in the houses, except the one with two stripes and the short-tailed one, for indeed they both snatch away the eyesight and cause miscarriages in women.",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'ibah",
+              "full_name": "Sa'ibah mawlat Aisha bint Abi Bakr",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Little known narrator", "Mursal as she likely did not hear this directly from the Prophet ﷺ"]
+            }
+          ],
+          "chainIssues": ["This is mursal as Sa'ibah (a freed slave of Aisha, from the Tabi'in generation) is narrating about the Prophet ﷺ without a clear chain to him"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Sa'ibah mawlat Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sa'ibah is a Tabi'iyyah (not a Companion) narrating directly about the Prophet ﷺ using 'anna', making this mursal",
+          "impact": "Significant issue - this creates a disconnection in the chain as Sa'ibah did not meet the Prophet ﷺ, making this a mursal hadith which is weaker than a connected chain"
+        },
+        {
+          "issue": "Sa'ibah is not widely known and has limited narrations recorded from her",
+          "impact": "Her status as 'Maqbul' (acceptable when supported) means the narration requires corroboration"
+        },
+        {
+          "issue": "Use of 'عَنْ' (an) by Nafi' from Sa'ibah",
+          "impact": "Minor concern as Nafi' is highly reliable"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Types of snakes and their danger to humans",
+        "Health effects of certain snake species",
+        "Exceptions to general prohibition of killing house snakes"
+      ]
+    },
+    {
+      "hadith_id": 9994,
+      "collection": "Muwatta Malik",
+      "reference_number": 2290,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ صَيْفِيٍّ مَوْلَى ابْنِ أَفْلَحَ ، عَنْ أَبِي السَّائِبِ مَوْلَى هِشَامِ بْنِ زُهْرَةَ ، أَنَّهُ قَالَ : دَخَلْتُ عَلَى أَبِي سَعِيدٍ الْخُدْرِيِّ فَوَجَدْتُهُ يُصَلِّي فَجَلَسْتُ أَنْتَظِرُهُ حَتَّى قَضَى صَلَاتَهُ ، فَسَمِعْتُ تَحْرِيكًا تَحْتَ سَرِيرٍ فِي بَيْتِهِ فَإِذَا حَيَّةٌ فَقُمْتُ لِأَقْتُلَهَا ، فَأَشَارَ أَبُو سَعِيدٍ أَنِ اجْلِسْ فَلَمَّا انْصَرَفَ أَشَارَ إِلَى بَيْتٍ فِي الدَّارِ ، فَقَالَ : أَتَرَى هَذَا الْبَيْتَ ؟ فَقُلْتُ : نَعَمْ ، قَالَ : إِنَّهُ قَدْ كَانَ فِيهِ فَتًى حَدِيثُ عَهْدٍ بِعُرْسٍ ، فَخَرَجَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى الْخَنْدَقِ ، فَبَيْنَا هُوَ بِهِ إِذْ أَتَاهُ الْفَتَى يَسْتَأْذِنُهُ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، ائْذَنْ لِي أُحْدِثُ بِأَهْلِي عَهْدًا ، فَأَذِنَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَقَالَ : خُذْ عَلَيْكَ سِلَاحَكَ فَإِنِّي أَخْشَى عَلَيْكَ بَنِي قُرَيْظَةَ ، فَانْطَلَقَ الْفَتَى إِلَى أَهْلِهِ فَوَجَدَ امْرَأَتَهُ قَائِمَةً بَيْنَ الْبَابيْنِ فَأَهْوَى إِلَيْهَا بِالرُّمْحِ لِيَطْعُنَهَا وَأَدْرَكَتْهُ غَيْرَةٌ ، فَقَالَتْ : لَا تَعْجَلْ حَتَّى تَدْخُلَ وَتَنْظُرَ مَا فِي بَيْتِكَ ؟ فَدَخَلَ فَإِذَا هُوَ بِحَيَّةٍ مُنْطَوِيَةٍ عَلَى فِرَاشِهِ ، فَرَكَزَ فِيهَا رُمْحَهُ ثُمَّ خَرَجَ بِهَا فَنَصَبَهُ فِي الدَّارِ ، فَاضْطَرَبَتِ الْحَيَّةُ فِي رَأْسِ الرُّمْحِ ، وَخَرَّ الْفَتَى مَيِّتًا فَمَا يُدْرَى أَيُّهُمَا كَانَ أَسْرَعَ مَوْتًا الْفَتَى أَمْ الْحَيَّةُ ؟ فَذُكِرَ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ : إِنَّ بِالْمَدِينَةِ جِنًّا قَدْ أَسْلَمُوا ، فَإِذَا رَأَيْتُمْ مِنْهُمْ شَيْئًا فَآذِنُوهُ ثَلَاثَةَ أَيَّامٍ ، فَإِنْ بَدَا لَكُمْ بَعْدَ ذَلِكَ فَاقْتُلُوهُ فَإِنَّمَا هُوَ شَيْطَانٌ",
+      "english_translation": "Narrated by Abu al-Sa'ib, the freed slave of Hisham ibn Zuhrah, that he said: I entered upon Abu Sa'id al-Khudri and found him praying, so I sat waiting for him until he finished his prayer. Then I heard a movement under a bed in his house, and behold it was a snake, so I stood up to kill it. Abu Sa'id gestured to me to sit down. When he finished, he pointed to a house in the courtyard and said: Do you see this house? I said: Yes. He said: Indeed there was in it a young man recently married, and he went out with the Messenger of Allah ﷺ to the Trench (Battle of the Trench). While he was there, the young man came to him seeking permission, and he said: O Messenger of Allah, give me permission to visit my family. So the Messenger of Allah ﷺ gave him permission and said: Take your weapon with you, for I fear for you from Banu Qurayzah. So the young man went to his family and found his wife standing between the two doors. He aimed at her with the spear to stab her, as jealousy overcame him. She said: Do not be hasty until you enter and see what is in your house. So he entered and behold there was a snake coiled on his bed. He thrust his spear into it, then went out with it and set it up in the courtyard. The snake writhed at the top of the spear, and the young man fell down dead. It is not known which of them died first, the young man or the snake. This was mentioned to the Messenger of Allah ﷺ and he said: Indeed in Madinah there are jinn who have accepted Islam, so when you see anything of them, give them warning for three days, and if they appear to you after that, then kill them, for they are only devils.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sayfi",
+              "full_name": "Sayfi mawla Ibn Aflah",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Lesser known narrator with limited narrations"]
+            },
+            {
+              "name": "Abu al-Sa'ib",
+              "full_name": "Abu al-Sa'ib mawla Hisham ibn Zuhrah",
+              "grade": "Maqbul",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["Little known narrator"]
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khazraji al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Use of indirect transmission term 'عَنْ' by Malik from Sayfi"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Sayfi mawla Ibn Aflah -> Abu al-Sa'ib -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sayfi is a lesser known narrator (Saduq level) with limited narrations",
+          "impact": "Reduces the strength slightly from perfect, but acceptable given that Malik narrated from him"
+        },
+        {
+          "issue": "Abu al-Sa'ib is also a little known narrator with Maqbul status",
+          "impact": "Creates some uncertainty about the chain's strength"
+        },
+        {
+          "issue": "Use of indirect transmission term 'عَنْ' in the chain",
+          "impact": "Minor concern given the overall reliability of the narrators"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of the newly married companion who died after killing a snake during Battle of the Trench",
+        "Muslim jinn in Madinah",
+        "Warning house snakes before killing them",
+        "Battle of the Trench",
+        "Banu Qurayzah threat during the siege",
+        "Jealousy between spouses"
+      ]
+    },
+    {
+      "hadith_id": 9996,
+      "collection": "Muwatta Malik",
+      "reference_number": 2292,
+      "arabicText": "حَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، كَانَ إِذَا وَضَعَ رِجْلَهُ فِي الْغَرْزِ وَهُوَ يُرِيدُ السَّفَرَ ، يَقُولُ : بِاسْمِ اللَّهِ ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ ، وَالْخَلِيفَةُ فِي الْأَهْلِ ، اللَّهُمَّ ازْوِ لَنَا الْأَرْضَ وَهَوِّنْ عَلَيْنَا السَّفَرَ ، اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ ، وَمِنْ كَآبَةِ الْمُنْقَلَبِ ، وَمِنْ سُوءِ الْمَنْظَرِ فِي الْمَالِ وَالْأَهْلِ",
+      "english_translation": "It reached Malik that the Messenger of Allah ﷺ used to say when he placed his foot in the stirrup intending to travel: In the name of Allah. O Allah, You are the Companion in the journey and the Guardian of the family. O Allah, fold up for us the earth and make the journey easy for us. O Allah, I seek refuge in You from the hardship of the journey, from gloomy return, and from evil appearance in wealth and family.",
+      "chains": [
+        {
+          "type": "marfu' mu'dal/balagh",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Mursal/Mu'dal - the chain is completely disconnected with no intermediaries mentioned"]
+            }
+          ],
+          "chainIssues": ["This is mu'dal (severely disconnected) - Malik says 'balagahu' (it reached him) without mentioning any chain at all between himself and the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> [disconnected] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The expression 'أَنَّهُ بَلَغَهُ' (annahu balaghahu - it reached him) indicates a severely disconnected chain",
+          "impact": "Major weakness - this is mu'dal as there is no chain mentioned at all, making it impossible to verify the authenticity through narrator analysis. This type of narration is considered very weak in hadith sciences"
+        },
+        {
+          "issue": "Complete absence of any intermediary narrators between Malik and the Prophet ﷺ",
+          "impact": "The hadith cannot be authenticated through this chain alone and would require strong corroboration from other sources"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Supplication when beginning a journey",
+        "Seeking Allah's protection during travel",
+        "Remembrance of Allah when mounting"
+      ]
+    },
+    {
+      "hadith_id": 9997,
+      "collection": "Muwatta Malik",
+      "reference_number": 2293,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ الثِّقَةِ عِنْدَهُ ، عَنْ يَعْقُوبَ بْنِ عَبْدِ اللَّهِ بْنِ الْأَشَجِّ ، عَنْ بُسْرِ بْنِ سَعِيدٍ ، عَنْ سَعْدِ بْنِ أَبِي وَقَّاصٍ ، عَنْ خَوْلَةَ بِنْتِ حَكِيمٍ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : مَنْ نَزَلَ مَنْزِلًا فَلْيَقُلْ : أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ ، فَإِنَّهُ لَنْ يَضُرَّهُ شَيْءٌ حَتَّى يَرْتَحِلَ",
+      "english_translation": "Narrated by Khawlah bint Hakim that the Messenger of Allah ﷺ said: Whoever stops at a stopping place and says: I seek refuge in the perfect words of Allah from the evil of what He has created, nothing will harm him until he departs from that place.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Thiqah",
+              "full_name": "Unknown narrator whom Malik deemed trustworthy",
+              "grade": "Majhul al-Ayn",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Anonymous narrator - identity unknown", "Majhul al-Ayn status"]
+            },
+            {
+              "name": "Ya'qub ibn Abdullah ibn al-Ashajj",
+              "full_name": "Ya'qub ibn Abdullah ibn al-Ashajj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Busr ibn Sa'id",
+              "full_name": "Busr ibn Sa'id al-Madani al-Maqburi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'd ibn Abi Waqqas",
+              "full_name": "Sa'd ibn Abi Waqqas Malik ibn Uhayb al-Zuhri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Khawlah bint Hakim",
+              "full_name": "Khawlah bint Hakim al-Sulamiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains an anonymous narrator referred to only as 'al-Thiqah' (the trustworthy one)", "Multiple uses of the indirect transmission term 'عَنْ' throughout the chain"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> al-Thiqah (unknown) -> Ya'qub ibn Abdullah ibn al-Ashajj -> Busr ibn Sa'id -> Sa'd ibn Abi Waqqas -> Khawlah bint Hakim -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The narrator between Malik and Ya'qub is anonymous, referred to only as 'al-Thiqah' (the trustworthy one)",
+          "impact": "This is a significant weakness. While Malik's judgment of trustworthiness is valuable, the lack of identification makes it impossible for later scholars to verify the narrator's reliability independently. This creates a Majhul al-Ayn (unknown identity) issue"
+        },
+        {
+          "issue": "Multiple instances of the indirect transmission term 'عَنْ' used throughout the chain",
+          "impact": "Creates theoretical possibility of disconnection at multiple points, though the narrators are generally reliable"
+        },
+        {
+          "issue": "Sa'd ibn Abi Waqqas narrating from Khawlah bint Hakim - both are Companions",
+          "impact": "This is acceptable as Companions can narrate from each other"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Supplication when stopping at a place during travel",
+        "Seeking Allah's protection from harm",
+        "Use of Allah's perfect words for protection"
+      ]
+    },
+    {
+      "hadith_id": 9999,
+      "collection": "Muwatta Malik",
+      "reference_number": 2295,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حَرْمَلَةَ ، عَنْ عَمْرِو بْنِ شُعَيْبٍ ، عَنْ أَبِيهِ ، عَنْ جَدِّهِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : الرَّاكِبُ شَيْطَانٌ ، وَالرَّاكِبَانِ شَيْطَانَانِ ، وَالثَّلَاثَةُ رَكْبٌ",
+      "english_translation": "Narrated by the grandfather of Amr ibn Shu'ayb that the Messenger of Allah ﷺ said: The single rider is a devil, and the two riders are two devils, and the three are a riding party.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn Harmalah",
+              "full_name": "Abd al-Rahman ibn Harmalah al-Aslami al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Shu'ayb",
+              "full_name": "Amr ibn Shu'ayb ibn Muhammad ibn Abdullah ibn Amr ibn al-As",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["The famous chain 'Amr ibn Shu'ayb, from his father, from his grandfather' is debated among scholars"]
+            },
+            {
+              "name": "Shu'ayb",
+              "full_name": "Shu'ayb ibn Muhammad ibn Abdullah ibn Amr ibn al-As",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Part of the debated chain"]
+            },
+            {
+              "name": "Abdullah ibn Amr",
+              "full_name": "Abdullah ibn Amr ibn al-As al-Sahmi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["The chain 'Amr ibn Shu'ayb from his father from his grandfather' is a well-known formula that has been extensively debated by hadith scholars", "Multiple uses of the indirect term 'عَنْ' in the chain"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abd al-Rahman ibn Harmalah -> Amr ibn Shu'ayb -> Shu'ayb -> Abdullah ibn Amr ibn al-As -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain 'Amr ibn Shu'ayb, from his father, from his grandfather (Abdullah ibn Amr ibn al-As)' is a famous chain subject to scholarly debate",
+          "impact": "While the majority of scholars accept this chain as Hasan (acceptable), some scholars have questioned whether Amr ibn Shu'ayb actually heard from his grandfather directly or whether there are intermediaries. This creates some uncertainty about the chain's complete connectivity"
+        },
+        {
+          "issue": "Multiple uses of the indirect transmission term 'عَنْ' throughout the chain",
+          "impact": "Creates theoretical possibility of disconnection, though the narrators are generally considered acceptable"
+        },
+        {
+          "issue": "Amr ibn Shu'ayb and his father Shu'ayb are graded as Saduq rather than Thiqah",
+          "impact": "While acceptable, this is below the highest level of reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Traveling in groups for safety",
+        "Dangers of traveling alone or in pairs",
+        "Recommended minimum number for travel parties"
+      ]
+    },
+    {
+      "hadith_id": 10000,
+      "collection": "Muwatta Malik",
+      "reference_number": 2296,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حَرْمَلَةَ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ كَانَ يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : الشَّيْطَانُ يَهُمُّ بِالْوَاحِدِ وَالْاثْنَيْنِ ، فَإِذَا كَانُوا ثَلَاثَةً لَمْ يَهُمَّ بِهِمْ",
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab that he used to say: The Messenger of Allah ﷺ said: The devil concerns himself with the one and the two, but when they are three, he does not concern himself with them.",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn Harmalah",
+              "full_name": "Abd al-Rahman ibn Harmalah al-Aslami al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": ["Mursal - Sa'id ibn al-Musayyab is from the Tabi'in and did not meet the Prophet ﷺ"]
+            }
+          ],
+          "chainIssues": ["This is mursal as Sa'id ibn al-Musayyab (a Tabi'i) is narrating directly from the Prophet ﷺ without mentioning his source"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abd al-Rahman ibn Harmalah -> Sa'id ibn al-Musayyab -> [disconnected] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sa'id ibn al-Musayyab is from the Tabi'in (second generation) and did not meet the Prophet ﷺ, yet he is narrating directly from him",
+          "impact": "This is a clear case of mursal (disconnected chain) which is a significant weakness. The missing link(s) between Sa'id ibn al-Musayyab and the Prophet ﷺ cannot be verified. Despite Sa'id's high reliability, the mursal nature weakens the hadith considerably"
+        },
+        {
+          "issue": "The formulation 'كَانَ يَقُولُ' (he used to say) followed by attribution to the Prophet ﷺ without mentioning intermediaries",
+          "impact": "Confirms the mursal nature and lack of complete chain"
+        },
+        {
+          "issue": "Use of 'عَنْ' in earlier parts of the chain",
+          "impact": "Minor concern given reliability of those narrators"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Satan's influence on solitary travelers",
+        "Safety in numbers during travel",
+        "Protection from harm through companionship"
+      ]
+    },
+    {
+      "hadith_id": 10001,
+      "collection": "Muwatta Malik",
+      "reference_number": 2297,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : لَا يَحِلُّ لِامْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ ، تُسَافِرُ مَسِيرَةَ يَوْمٍ وَلَيْلَةٍ ، إِلَّا مَعَ ذِي مَحْرَمٍ مِنْهَا",
+      "english_translation": "Narrated by Abu Hurayrah that the Messenger of Allah ﷺ said: It is not permissible for a woman who believes in Allah and the Last Day to travel the distance of a day and a night, except with a mahram (male guardian) from her family.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Abi Sa'id al-Maqburi",
+              "full_name": "Sa'id ibn Abi Sa'id Kaysan al-Maqburi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Sa'id ibn Abi Sa'id al-Maqburi -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of indirect transmission term 'عَنْ' by Malik from Sa'id al-Maqburi",
+          "impact": "Minor concern as both narrators are highly reliable and Malik frequently narrated from Sa'id al-Maqburi"
+        },
+        {
+          "issue": "Use of 'أَنَّ' (anna) at the level of the Companion",
+          "impact": "This is standard and acceptable for Companion narrations as they are all considered trustworthy"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Women traveling without a mahram",
+        "Requirements for women's travel",
+        "Distance that requires a mahram for women"
+      ]
+    },
+    {
+      "hadith_id": 10003,
+      "collection": "Muwatta Malik",
+      "reference_number": 2299,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ أَبِي عُبَيْدٍ مَوْلَى سُلَيْمَانَ بْنِ عَبْدِ الْمَلِكِ ، عَنْ خَالِدِ بْنِ مَعْدَانَ ، يَرْفَعُهُ : إِنّ اللَّهَ تَبَارَكَ وَتَعَالَى رَفِيقٌ يُحِبُّ الرِّفْقَ ، وَيَرْضَى بِهِ وَيُعِينُ عَلَيْهِ مَا لَا يُعِينُ عَلَى الْعُنْفِ ، فَإِذَا رَكِبْتُمْ هَذِهِ الدَّوَابَّ الْعُجْمَ ، فَأَنْزِلُوهَا مَنَازِلَهَا ، فَإِنْ كَانَتِ الْأَرْضُ جَدْبَةً فَانْجُوا عَلَيْهَا بِنِقْيِهَا ، وَعَلَيْكُمْ بِسَيْرِ اللَّيْلِ ، فَإِنَّ الْأَرْضَ تُطْوَى بِاللَّيْلِ مَا لَا تُطْوَى بِالنَّهَارِ ، وَإِيَّاكُمْ وَالتَّعْرِيسَ عَلَى الطَّرِيقِ ، فَإِنَّهَا طُرُقُ الدَّوَابِّ وَمَأْوَى الْحَيَّاتِ",
+      "english_translation": "Narrated by Khalid ibn Ma'dan, raising it to the Prophet ﷺ: Indeed Allah, Blessed and Exalted, is Gentle and loves gentleness, and He is pleased with it and assists with it in a way He does not assist with harshness. So when you ride these mute animals, give them their rest stops. If the land is barren, then hasten through it with their remaining strength. And upon you is night travel, for the earth is folded at night in a way it is not folded during the day. And beware of resting on the road, for it is the path of animals and the abode of snakes.",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ubayd",
+              "full_name": "Abu Ubayd mawla Sulayman ibn Abd al-Malik",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Khalid ibn Ma'dan",
+              "full_name": "Khalid ibn Ma'dan ibn Abi Karib al-Kala'i",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "يَرْفَعُهُ",
+              "reliabilityIssues": ["Mursal - Khalid ibn Ma'dan is from the Tabi'in and the chain to the Prophet ﷺ is not mentioned"]
+            }
+          ],
+          "chainIssues": ["The expression 'يَرْفَعُهُ' (yarfa'uhu - he raises it) indicates that Khalid ibn Ma'dan is attributing this to the Prophet ﷺ without mentioning his source, making this mursal"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abu Ubayd -> Khalid ibn Ma'dan -> [disconnected] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The term 'يَرْفَعُهُ' (yarfa'uhu) indicates a mursal narration where Khalid ibn Ma'dan (a Tabi'i) is raising the hadith to the Prophet ﷺ without mentioning the intermediary",
+          "impact": "This is a significant weakness as the missing link(s) between Khalid ibn Ma'dan and the Prophet ﷺ cannot be verified. This creates a clear disconnection in the chain"
+        },
+        {
+          "issue": "Khalid ibn Ma'dan is from the Tabi'in generation and did not meet the Prophet ﷺ",
+          "impact": "Confirms the mursal nature of this narration"
+        },
+        {
+          "issue": "Use of 'عَنْ' in the earlier part of the chain",
+          "impact": "Minor concern given the reliability of those narrators"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Gentleness in treatment of animals",
+        "Care of riding animals during travel",
+        "Night travel advantages",
+        "Avoiding rest on roads due to dangers"
+      ]
+    },
+    {
+      "hadith_id": 10004,
+      "collection": "Muwatta Malik",
+      "reference_number": 2300,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ سُمَيٍّ مَوْلَى أَبِي بَكْرٍ ، عَنْ أَبِي صَالِحٍ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : السَّفَرُ قِطْعَةٌ مِنَ الْعَذَابِ يَمْنَعُ أَحَدَكُمْ نَوْمَهُ وَطَعَامَهُ وَشَرَابَهُ ، فَإِذَا قَضَى أَحَدُكُمْ نَهْمَتَهُ مِنْ وَجْهِهِ فَلْيُعَجِّلْ إِلَى أَهْلِهِ",
+      "english_translation": "Narrated by Abu Hurayrah that the Messenger of Allah ﷺ said: Travel is a piece of torment; it prevents one of you from his sleep, his food, and his drink. So when one of you fulfills his purpose from his journey, let him hasten back to his family.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sumayy",
+              "full_name": "Sumayy mawla Abi Bakr ibn Abd al-Rahman ibn al-Harith",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salih",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayyat",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Sumayy mawla Abi Bakr -> Abu Salih al-Samman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of the indirect transmission term 'عَنْ' in the chain",
+          "impact": "Minor concern as all narrators are Thiqah (trustworthy) or higher, and this chain is well-known and reliable. The use of 'عَنْ' from reliable narrators who are known to have met their teachers is generally acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hardships of travel",
+        "Returning home after completing journey purpose",
+        "Travel affecting sleep and sustenance"
+      ]
+    }
+  ]
+}

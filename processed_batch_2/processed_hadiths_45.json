@@ -1,0 +1,726 @@
+{
+  "batch_number": 2,
+  "file_number": 45,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9661,
+      "collection": "Muwatta Malik",
+      "reference_number": 1957,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَعْقُوبَ L1526 /94 ، عَنْ /26 أَبِيهِ L4521 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى أَنْ يُنْبَذَ فِي الدُّبَّاءِ وَالْمُزَفَّتِ \" /27",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ forbade that nabidh (date wine) be made in ad-dubba' (gourd) and al-muzaffat (tar-coated vessel).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Ala' ibn Abd al-Rahman",
+              "full_name": "al-Ala' ibn Abd al-Rahman ibn Ya'qub al-Haraqi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn Ya'qub",
+              "full_name": "Abd al-Rahman ibn Ya'qub al-Haraqi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> al-Ala' ibn Abd al-Rahman -> Abd al-Rahman ibn Ya'qub -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Containers prohibited for making nabidh",
+        "Types of vessels forbidden for fermentation"
+      ]
+    },
+    {
+      "hadith_id": 9663,
+      "collection": "Muwatta Malik",
+      "reference_number": 1959,
+      "arabicText": "وَحَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى أَنْ يُنْبَذَ الْبُسْرُ وَالرُّطَبُ جَمِيعًا ، وَالتَّمْرُ وَالزَّبِيبُ جَمِيعًا \" /27",
+      "english_translation": "The Messenger of Allah ﷺ forbade that unripe dates and ripe dates be soaked together, and dates and raisins be soaked together.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata' ibn Yasar",
+              "full_name": "Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal: Ata' ibn Yasar did not directly hear from the Prophet ﷺ, missing companion link"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Zayd ibn Aslam -> Ata' ibn Yasar -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith - Ata' ibn Yasar is a Tabi'i who did not meet the Prophet ﷺ, so there is a missing companion in the chain",
+          "impact": "This creates a disconnection in the chain. While Ata' ibn Yasar is thiqah, the mursal nature weakens the chain according to classical standards."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Mixing different types of fruits for soaking",
+        "Preventing strong fermentation by mixing varieties"
+      ]
+    },
+    {
+      "hadith_id": 9664,
+      "collection": "Muwatta Malik",
+      "reference_number": 1960,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 الثِّقَةِ L1131 /94 عِنْدَهُ ، عَنْ /26 بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الْأَشَجِّ L1951 /26 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ الْحُبَاب الْأَنْصَارِيِّ L20511 /26 ، /27 عَنْ /93 أَبِي قَتَادَةَ الْأَنْصَارِيِّ L1190 /93 ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى أَنْ يُشْرَبَ التَّمْرُ وَالزَّبِيبُ جَمِيعًا ، وَالزَّهْوُ وَالرُّطَبُ جَمِيعًا \" /27",
+      "english_translation": "Narrated by Abu Qatadah al-Ansari: The Messenger of Allah ﷺ forbade that dates and raisins be drunk together, and unripe dates and ripe dates be drunk together.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Thiqah (unnamed trustworthy narrator)",
+              "full_name": "Unknown trustworthy narrator according to Malik",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul al-ayn - identity unknown"
+              ]
+            },
+            {
+              "name": "Bukayr ibn Abdullah ibn al-Ashajj",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Hubab al-Ansari",
+              "full_name": "Abd al-Rahman ibn al-Hubab ibn al-Mundhir al-Ansari al-Awsi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Qatadah al-Ansari",
+              "full_name": "al-Harith ibn Rib'i al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains unnamed narrator (al-Thiqah) - Malik's trust in this narrator is accepted by scholars but the identity is unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> al-Thiqah (unnamed) -> Bukayr ibn Abdullah ibn al-Ashajj -> Abd al-Rahman ibn al-Hubab -> Abu Qatadah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator (al-Thiqah) - Imam Malik refers to a trustworthy narrator without naming him",
+          "impact": "While Malik's judgment of trustworthiness (thiqah) is generally accepted, the unknown identity creates some ambiguity. However, scholars generally accept Malik's unnamed trustworthy narrators."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Mixing different types of fruits for drinks",
+        "Preventing intoxication from mixed beverages"
+      ]
+    },
+    {
+      "hadith_id": 9666,
+      "collection": "Muwatta Malik",
+      "reference_number": 1962,
+      "arabicText": "وَحَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ L4903 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهَا قَالَتْ : سُئِلَ رَسُولُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْبِتْعِ ، فَقَالَ : /20 \" كُلُّ شَرَابٍ أَسْكَرَ فَهُوَ حَرَامٌ \" /27",
+      "english_translation": "Narrated by Aisha, wife of the Prophet ﷺ: The Messenger of Allah ﷺ was asked about al-bit' (honey wine), so he said: 'Every drink that intoxicates is forbidden.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - classified as category 3 mudallis by some scholars"
+              ]
+            },
+            {
+              "name": "Abu Salamah ibn Abd al-Rahman",
+              "full_name": "Abu Salamah ibn Abd al-Rahman ibn Awf al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri -> Abu Salamah ibn Abd al-Rahman -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is using 'an (عن) and he is classified as a mudallis by some scholars (category 3 in Ibn Hajar's classification)",
+          "impact": "While al-Zuhri's tadlis is noted, he is widely considered extremely reliable (thabt hujjah) by the vast majority of scholars. His narrations are generally accepted even with 'an, though explicit hearing terms would be stronger. This does not significantly impact the grade."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Question about al-bit' (honey wine)",
+        "General principle of intoxicant prohibition"
+      ]
+    },
+    {
+      "hadith_id": 9667,
+      "collection": "Muwatta Malik",
+      "reference_number": 1963,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 سُئِلَ عَنِ الْغُبَيْرَاءِ ، فَقَالَ : \" لَا خَيْرَ فِيهَا \" ، وَنَهَى عَنْهَا /27",
+      "english_translation": "The Messenger of Allah ﷺ was asked about al-Ghubayra' (a type of intoxicating drink), so he said: 'There is no good in it,' and he forbade it.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata' ibn Yasar",
+              "full_name": "Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal: Ata' ibn Yasar did not directly hear from the Prophet ﷺ, missing companion link"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Zayd ibn Aslam -> Ata' ibn Yasar -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith - Ata' ibn Yasar is a Tabi'i who did not meet the Prophet ﷺ, so there is a missing companion in the chain",
+          "impact": "This creates a disconnection in the chain. While Ata' ibn Yasar is thiqah, the mursal nature weakens the chain according to classical standards."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Question about al-Ghubayra' drink",
+        "Clarification about intoxicating beverages"
+      ]
+    },
+    {
+      "hadith_id": 9668,
+      "collection": "Muwatta Malik",
+      "reference_number": 1964,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" مَنْ شَرِبَ الْخَمْرَ فِي الدُّنْيَا ثُمَّ لَمْ يَتُبْ مِنْهَا حُرِمَهَا فِي الْآخِرَةِ \" /27",
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'Whoever drinks wine in this world and does not repent from it, will be deprived of it in the Hereafter.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Punishment for drinking wine without repentance",
+        "Deprivation of Paradise wine for unrepentant wine drinkers"
+      ]
+    },
+    {
+      "hadith_id": 9670,
+      "collection": "Muwatta Malik",
+      "reference_number": 1966,
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 ابْنِ وَعْلَةَ الْمِصْرِيِّ L4512 /26 ، أَنَّهُ سَأَلَ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ عَمَّا يُعْصَرُ مِنَ الْعِنَبِ ؟ /27 فَقَالَ /93 ابْنُ عَبَّاسٍ L4883 /93 : أَهْدَى رَجُلٌ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَاوِيَةَ خَمْرٍ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَمَا عَلِمْتَ أَنَّ اللَّهَ حَرَّمَهَا \" ، قَالَ : لَا ، فَسَارَّهُ رَجُلٌ إِلَى جَنْبِهِ ، فَقَالَ لَهُ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" بِمَ سَارَرْتَهُ ؟ \" فَقَالَ : أَمَرْتُهُ أَنْ يَبِيعَهَا ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ /20 الَّذِي حَرَّمَ شُرْبَهَا حَرَّمَ بَيْعَهَا \" ، فَفَتَحَ الرَّجُلُ الْمَزَادَتَيْنِ حَتَّى ذَهَبَ مَا فِيهِمَا /27",
+      "english_translation": "Ibn Wa'lah al-Misri asked Abdullah ibn Abbas about what is pressed from grapes. Ibn Abbas said: A man gifted the Messenger of Allah ﷺ a container of wine, so the Messenger of Allah ﷺ said to him: 'Do you not know that Allah has forbidden it?' He said: 'No.' Then a man beside him whispered to him, so the Prophet ﷺ said to him: 'What did you whisper to him?' He said: 'I ordered him to sell it.' So the Messenger of Allah ﷺ said to him: 'Indeed, the One who forbade drinking it has forbidden selling it.' So the man opened the two water skins until what was in them was gone.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Wa'lah al-Misri",
+              "full_name": "Abdullah ibn Wa'lah al-Misri",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn al-Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Zayd ibn Aslam -> Ibn Wa'lah al-Misri -> Abdullah ibn Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Wa'lah al-Misri is graded as Saduq (truthful) rather than Thiqah (trustworthy), indicating a slightly lower level of reliability",
+          "impact": "While Ibn Wa'lah is considered truthful, he is not at the highest level of narrator reliability. This creates a minor weakness in the chain but does not render it problematic."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of man gifting wine to the Prophet",
+        "Selling wine is forbidden like drinking it",
+        "Disposal of wine by pouring it out"
+      ]
+    },
+    {
+      "hadith_id": 9671,
+      "collection": "Muwatta Malik",
+      "reference_number": 1967,
+      "arabicText": "/40 وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ /94 إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ L952 /94 ، /27 عَنْ /93 أَنَسِ بْنِ مَالِكٍ L720 /93 ، أَنَّهُ قَالَ : كُنْتُ أَسْقِي أَبَا عُبَيْدَةَ بْنَ الْجَرَّاحِ ، وَأَبَا طَلْحَةَ الْأَنْصَارِيَّ ، وَأُبَيَّ بْنَ كَعْبٍ شَرَابًا مِنْ فَضِيخٍ وَتَمْرٍ ، قَالَ : فَجَاءَهُمْ آتٍ ، فَقَالَ : إِنَّ /20 \" الْخَمْرَ قَدْ حُرِّمَتْ \" ، فَقَالَ أَبُو طَلْحَةَ : يَا أَنَسُ قُمْ إِلَى هَذِهِ الْجِرَارِ فَاكْسِرْهَا ، قَالَ : فَقُمْتُ إِلَى مِهْرَاسٍ لَنَا فَضَرَبْتُهَا بِأَسْفَلِهِ حَتَّى تَكَسَّرَتْ /27",
+      "english_translation": "Narrated by Anas ibn Malik: He said: I used to serve Abu Ubaydah ibn al-Jarrah, Abu Talhah al-Ansari, and Ubayy ibn Ka'b a drink made from unripe dates and dates. Then someone came to them and said: 'Wine has been forbidden.' So Abu Talhah said: 'O Anas, stand up and go to these jars and break them.' So I stood up and went to a mortar of ours and struck them with its bottom until they broke.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talhah",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talhah al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ishaq ibn Abdullah ibn Abi Talhah -> Anas ibn Malik"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of wine prohibition announcement",
+        "Companions immediate compliance with prohibition",
+        "Breaking jars of wine upon hearing prohibition"
+      ]
+    },
+    {
+      "hadith_id": 9672,
+      "collection": "Muwatta Malik",
+      "reference_number": 1968,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 دَاوُدَ بْنِ الْحُصَيْنِ L2775 /94 ، عَنْ /26 وَاقِدِ بْنِ عَمْرِو بْنِ سَعْدِ بْنِ مُعَاذٍ L8126 /26 أَنَّهُ أَخْبَرَهُ ، عَنْ /26 مَحْمُودِ بْنِ لَبِيدٍ الْأَنْصَارِيِّ L7353 /26 ، /27 أَنَّ عُمَرَ بْنَ الْخَطَّابِ حِينَ قَدِمَ /60 الشَّامَ /60 شَكَا إِلَيْهِ أَهْلُ /60 الشَّامِ /60 وَبَاءَ الْأَرْضِ وَثِقَلَهَا ، وَقَالُوا : لَا يُصْلِحُنَا إِلَّا هَذَا الشَّرَابُ ، فَقَالَ عُمَرُ : \" اشْرَبُوا هَذَا الْعَسَلَ \" ، قَالُوا : لَا يُصْلِحُنَا الْعَسَلُ ، فَقَالَ رَجُلٌ مِنْ أَهْلِ الْأَرْضِ : هَلْ لَكَ أَنْ نَجْعَلَ لَكَ مِنْ هَذَا الشَّرَابِ شَيْئًا لَا يُسْكِرُ ؟ قَالَ : نَعَمْ ، فَطَبَخُوهُ حَتَّى ذَهَبَ مِنْهُ الثُّلُثَانِ وَبَقِيَ الثُّلُثُ ، فَأَتَوْا بِهِ عُمَرَ فَأَدْخَلَ فِيهِ عُمَرُ إِصْبَعَهُ ثُمَّ رَفَعَ يَدَهُ فَتَبِعَهَا يَتَمَطَّطُ ، فَقَالَ : \" هَذَا الطِّلَاءُ هَذَا مِثْلُ طِلَاءِ الْإِبِلِ \" ، فَأَمَرَهُمْ عُمَرُ أَنْ يَشْرَبُوهُ ، فَقَالَ لَهُ عُبَادَةُ بْنُ الصَّامِتِ : أَحْلَلْتَهَا وَاللَّهِ ؟ فَقَالَ /93 عُمَرُ L5913 /93 : \" كَلَّا وَاللَّهِ ، /20 اللَّهُمَّ إِنِّي لَا أُحِلُّ لَهُمْ شَيْئًا حَرَّمْتَهُ عَلَيْهِمْ ، وَلَا أُحَرِّمُ عَلَيْهِمْ شَيْئًا أَحْلَلْتَهُ لَهُمْ \" /27",
+      "english_translation": "Mahmud ibn Labid al-Ansari narrated that when Umar ibn al-Khattab came to Syria, the people of Syria complained to him about the plague of the land and its heaviness, and they said: 'Nothing suits us except this drink.' So Umar said: 'Drink this honey.' They said: 'Honey does not suit us.' So a man from the people of the land said: 'What if we make for you from this drink something that does not intoxicate?' He said: 'Yes.' So they cooked it until two-thirds went away and one-third remained. So they brought it to Umar, and Umar put his finger in it, then raised his hand and it followed stretching. So he said: 'This is at-tila' (cooked grape juice), this is like the coating of camels.' So Umar commanded them to drink it. So Ubadah ibn al-Samit said to him: 'Have you made it lawful, by Allah?' So Umar said: 'No, by Allah. O Allah, I do not make lawful for them anything You have forbidden to them, and I do not forbid to them anything You have made lawful for them.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dawud ibn al-Husayn",
+              "full_name": "Dawud ibn al-Husayn al-Umawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Waqid ibn Amr ibn Sa'd ibn Mu'adh",
+              "full_name": "Waqid ibn Amr ibn Sa'd ibn Mu'adh al-Ansari al-Awsi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mahmud ibn Labid al-Ansari",
+              "full_name": "Mahmud ibn Labid ibn Uqbah ibn Rafi' ibn Khadi al-Ansari al-Awsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Dawud ibn al-Husayn -> Waqid ibn Amr -> Mahmud ibn Labid -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Waqid ibn Amr is graded as Saduq (truthful) rather than Thiqah (trustworthy), indicating a slightly lower level of reliability",
+          "impact": "While Waqid is considered truthful, he is not at the highest level of narrator reliability. This creates a minor weakness in the chain but does not render it problematic."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Umar in Syria regarding cooked grape juice",
+        "People of Syria complaining about climate",
+        "Umar's judgment about cooked grape juice (at-tila')",
+        "Ubadah's questioning of Umar's ruling",
+        "Umar's declaration not to change Allah's laws"
+      ]
+    },
+    {
+      "hadith_id": 9673,
+      "collection": "Muwatta Malik",
+      "reference_number": 1969,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 : أَنَّ رِجَالًا مِنْ أَهْلِ /60 الْعِرَاقِ /60 ، قَالُوا لَهُ : يَا أَبَا عَبْدِ الرَّحْمَنِ إِنَّا نَبْتَاعُ مِنْ ثَمَرِ النَّخْلِ وَالْعِنَبِ فَنَعْصِرُهُ خَمْرًا فَنَبِيعُهَا ، فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ : \" إِنِّي /20 أُشْهِدُ اللَّهَ عَلَيْكُمْ وَمَلَائِكَتَهُ وَمَنْ سَمِعَ مِنَ الْجِنِّ وَالْإِنْسِ ، أَنِّي لَا آمُرُكُمْ أَنْ تَبِيعُوهَا وَلَا تَبْتَاعُوهَا وَلَا تَعْصِرُوهَا وَلَا تَشْرَبُوهَا وَلَا تَسْقُوهَا ، فَإِنَّهَا رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ \" /27",
+      "english_translation": "Narrated by Abdullah ibn Umar: Men from the people of Iraq said to him: 'O Abu Abd al-Rahman, we buy from the fruit of the palm and grapes, then we press it into wine and sell it.' So Abdullah ibn Umar said: 'Indeed, I call Allah to witness over you, and His angels, and whoever hears from jinn and humans, that I do not order you to sell it, nor to buy it, nor to press it, nor to drink it, nor to give it to others to drink, for it is filth from the work of Satan.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Question from people of Iraq about selling wine",
+        "Abdullah ibn Umar's strong statement against wine trade",
+        "Comprehensive prohibition of wine-related activities"
+      ]
+    },
+    {
+      "hadith_id": 9675,
+      "collection": "Muwatta Malik",
+      "reference_number": 1971,
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ L4632 /94 ، عَنْ /26 أَبِيهِ L133 /26 ، /27 أَنَّ فِي الْكِتَابِ الَّذِي كَتَبَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِعَمْرِو بْنِ حَزْمٍ فِي الْعُقُولِ : \" أَنَّ /20 فِي النَّفْسِ مِائَةً مِنَ الْإِبِلِ ، وَفِي الْأَنْفِ إِذَا أُوعِيَ جَدْعًا مِائَةٌ مِنَ الْإِبِلِ ، وَفِي الْمَأْمُومَةِ ثُلُثُ الدِّيَةِ ، وَفِي الْجَائِفَةِ مِثْلُهَا ، وَفِي الْعَيْنِ خَمْسُونَ ، وَفِي الْيَدِ خَمْسُونَ ، وَفِي الرِّجْلِ خَمْسُونَ ، وَفِي كُلِّ أُصْبُعٍ مِمَّا هُنَالِكَ عَشْرٌ مِنَ الْإِبِلِ ، وَفِي السِّنِّ خَمْسٌ ، وَفِي الْمُوضِحَةِ خَمْسٌ \" /27",
+      "english_translation": "In the letter that the Messenger of Allah ﷺ wrote to Amr ibn Hazm regarding blood money (diyat): 'For a life (soul) is one hundred camels, and for the nose if completely severed is one hundred camels, and for al-ma'mumah (injury reaching the brain membrane) is one-third of the diyah, and for al-ja'ifah (penetrating body wound) is the same, and for the eye is fifty, and for the hand is fifty, and for the foot is fifty, and for each finger from those is ten camels, and for the tooth is five, and for al-mudihah (wound exposing bone) is five.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari al-Najjari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm",
+              "full_name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari al-Najjari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The chain reports from a written letter (kitab) rather than direct oral transmission from the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm -> Abu Bakr ibn Muhammad ibn Amr ibn Hazm -> Letter of Prophet Muhammad ﷺ to Amr ibn Hazm"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This hadith is transmitted through a written document (the letter to Amr ibn Hazm) rather than direct oral transmission, and the chain does not go back to Amr ibn Hazm himself but to his descendants who possessed the letter",
+          "impact": "Scholars have debated the authenticity of the 'Letter of Amr ibn Hazm' with some accepting it due to its fame and widespread acceptance among scholars, while others question it due to the lack of a complete oral chain back to the Prophet ﷺ. However, many classical scholars accepted it as authentic."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Blood money amounts for various injuries",
+        "Diyah for killing a person",
+        "Compensation for bodily injuries",
+        "The letter of Prophet ﷺ to Amr ibn Hazm"
+      ]
+    }
+  ]
+}

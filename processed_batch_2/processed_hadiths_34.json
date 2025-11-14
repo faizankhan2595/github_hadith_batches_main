@@ -1,0 +1,668 @@
+{
+  "batch_number": 2,
+  "file_number": 34,
+  "processing_date": "2025-11-14",
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 9496,
+      "collection": "Muwatta Malik",
+      "reference_number": 1792,
+      "english_translation": "Chapter: Judgment Regarding a Slave Consuming Lost Property",
+      "arabicText": "بَابُ الْقَضَاءِ فِي اسْتِهْلَاكِ الْعَبْدِ اللُّقَطَةَ",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or content to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Legal Framework for Lost Property", "Slave's Liability for Consumption of Found Items"]
+    },
+    {
+      "hadith_id": 9497,
+      "collection": "Muwatta Malik",
+      "reference_number": 1793,
+      "english_translation": "Narrated by Malik: The matter among us regarding a slave who finds lost property and consumes it before the period designated for lost property reaches (which is one year), is that it is upon his neck. Either his master gives the price of what his slave consumed, or he hands over his slave to them. If he holds it until the period designated for lost property comes, then consumes it, it becomes a debt upon him to be pursued, and it is not upon his neck, and there is nothing upon his master in it.",
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ عِنْدَنَا فِي الْعَبْدِ يَجِدُ اللُّقَطَةَ فَيَسْتَهْلِكُهَا قَبْلَ أَنْ تَبْلُغَ الْأَجَلَ الَّذِي أُجِّلَ فِي اللُّقَطَةِ ، وَذَلِكَ سَنَةٌ ، أَنَّهَا فِي رَقَبَتِهِ ، إِمَّا أَنْ يُعْطِيَ سَيِّدُهُ ثَمَنَ مَا اسْتَهْلَكَ غُلَامُهُ ، وَإِمَّا أَنْ يُسَلِّمَ إِلَيْهِمْ غُلَامَهُ ، وَإِنْ أَمْسَكَهَا حَتَّى يَأْتِيَ الْأَجَلُ الَّذِي أُجِّلَ فِي اللُّقَطَةِ ، ثُمَّ اسْتَهْلَكَهَا ، كَانَتْ دَيْنًا عَلَيْهِ يُتْبَعُ بِهِ ، وَلَمْ تَكُنْ فِي رَقَبَتِهِ ، وَلَمْ يَكُنْ عَلَى سَيِّدِهِ فِيهَا شَيْءٌ /10 . #'E393",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a statement of Imam Malik (maqtu'), not attributed to the Prophet ﷺ or a Companion",
+          "impact": "This represents juristic opinion (fiqh) from Malik based on the practice of the people of Madinah, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "N/A - Juristic Statement",
+      "Topics": ["Slave's Consumption of Lost Property", "Master's Liability for Slave's Actions", "Timeline for Lost Property Claims"]
+    },
+    {
+      "hadith_id": 9498,
+      "collection": "Muwatta Malik",
+      "reference_number": 1794,
+      "english_translation": "Chapter: Judgment Regarding Stray Animals",
+      "arabicText": "بَابُ الْقَضَاءِ فِي الضَّوَالِّ",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or content to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Legal Framework for Stray Animals"]
+    },
+    {
+      "hadith_id": 9499,
+      "collection": "Muwatta Malik",
+      "reference_number": 1795,
+      "english_translation": "Narrated by Thabit ibn al-Dahhak al-Ansari: That he found a camel at al-Harrah and tethered it, then he mentioned it to Umar ibn al-Khattab. Umar ordered him to announce it three times. Thabit said to him: 'It has kept me from my land.' So Umar said to him: 'Release it where you found it.'",
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، /27 أَنَّ /26 ثَابِتَ بْنَ الضَّحَّاكِ الْأَنْصَارِيَّ L2014 /26 أَخْبَرَهُ ، أَنَّهُ وَجَدَ بَعِيرًا بِالْحَرَّةِ فَعَقَلَهُ ، ثُمَّ ذَكَرَهُ لِعُمَرَ بْنِ الْخَطَّابِ ، فَأَمَرَهُ /93 عُمَرُ L5913 /93 أَنْ يُعَرِّفَهُ ثَلَاثَ مَرَّاتٍ ، فَقَالَ لَهُ ثَابِتٌ : إِنَّهُ قَدْ شَغَلَنِي عَنْ ضَيْعَتِي . فَقَالَ لَهُ عُمَرُ : /20 \" أَرْسِلْهُ حَيْثُ وَجَدْتَهُ \" /27 * \r\n$1424  1427 /3",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Thabit ibn al-Dahhak al-Ansari",
+              "full_name": "Thabit ibn al-Dahhak ibn Khalifah al-Ansari al-Zuraqi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ...أَخْبَرَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) from Malik to Yahya ibn Sa'id and from Yahya to Sulayman, though both narrators are highly reliable",
+            "Uses 'anna (أَنَّ) followed by 'akhbarahu which indicates indirect then direct transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id -> Sulayman ibn Yasar -> Thabit ibn al-Dahhak -> (reports about) Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) in two places, which is potentially ambiguous",
+          "impact": "However, both Yahya ibn Sa'id al-Ansari and Sulayman ibn Yasar are not known for tadlis and are among the most reliable narrators, so this does not significantly affect the chain"
+        },
+        {
+          "issue": "This is mawquf (stopped at Umar), not marfu' to the Prophet ﷺ",
+          "impact": "This represents the juristic ruling of Umar ibn al-Khattab, not a direct prophetic statement"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["Incident of Thabit ibn al-Dahhak finding a stray camel", "Umar's Ruling on Stray Animals", "Announcement Requirement for Found Animals", "Relief from Burden of Caring for Stray Animals"]
+    },
+    {
+      "hadith_id": 9500,
+      "collection": "Muwatta Malik",
+      "reference_number": 1796,
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab: That Umar ibn al-Khattab said while he was leaning his back against the Ka'bah: 'Whoever takes a stray animal, then he is astray.'",
+      "arabicText": "/40 وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 ، قَالَ وَهُوَ مُسْنِدٌ ظَهْرَهُ إِلَى /60 الْكَعْبَةِ /60 : /20 \" مَنْ أَخَذَ ضَالَّةً ، فَهُوَ ضَالٌّ \" /27 * \r\n$1425  1428 /3",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) in two places from Malik to Yahya and from Yahya to Sa'id",
+            "Uses 'anna (أَنَّ) from Sa'id to Umar, indicating potential disconnection"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) in two places",
+          "impact": "However, both Yahya ibn Sa'id and Malik are not known for tadlis and are among the most reliable narrators"
+        },
+        {
+          "issue": "Sa'id ibn al-Musayyab's hearing from Umar is disputed - he may not have met him directly as he was very young when Umar died",
+          "impact": "This is a potential disconnection (inqita'), though some scholars accept Sa'id's reports from Umar. The use of 'anna (أَنَّ) rather than explicit hearing terms suggests this may be indirect"
+        },
+        {
+          "issue": "This is mawquf (stopped at Umar), not marfu' to the Prophet ﷺ",
+          "impact": "This represents the statement of Umar ibn al-Khattab"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": ["Umar's Statement at the Ka'bah about Stray Animals", "Warning Against Taking Stray Animals"]
+    },
+    {
+      "hadith_id": 9501,
+      "collection": "Muwatta Malik",
+      "reference_number": 1797,
+      "english_translation": "Narrated by Ibn Shihab: The stray camels in the time of Umar ibn al-Khattab were camels left to pasture and reproduce, no one touching them. Until when it was the time of Uthman ibn Affan, he ordered that they be announced, then sold, and when their owner came, he was given their price.",
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، أَنَّهُ سَمِعَ /94 ابْنَ شِهَابٍ L7272 /94 ، يَقُولُ : /27 \" كَانَتْ ضَوَالُّ الْإِبِلِ فِي زَمَانِ /93 عُمَرَ بْنِ الْخَطَّابِ L5913 /93 إِبِلًا مُؤَبَّلَةً تَنَاتَجُ لَا يَمَسُّهَا أَحَدٌ ، حَتَّى إِذَا كَانَ زَمَانُ /93 عُثْمَانَ بْنِ عَفَّانَ L5543 /93 /20 \" أَمَرَ بِتَعْرِيفِهَا ثُمَّ تُبَاعُ ، فَإِذَا جَاءَ صَاحِبُهَا أُعْطِيَ ثَمَنَهَا \" /27 *",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 according to some classifications)",
+          "impact": "However, Malik heard directly from him using the explicit term 'sami'a' (سَمِعَ), and al-Zuhri is widely considered extremely reliable despite his occasional tadlis. This does not significantly affect the reliability"
+        },
+        {
+          "issue": "This is a statement of Ibn Shihab al-Zuhri about historical practices, not a hadith from the Prophet ﷺ",
+          "impact": "This represents historical information about the different policies of Umar and Uthman regarding stray camels"
+        }
+      ],
+      "IISGrade": "N/A - Historical Report",
+      "Topics": ["Comparison of Umar and Uthman's Policies on Stray Camels", "Historical Practice Regarding Stray Animals in Early Islam"]
+    },
+    {
+      "hadith_id": 9502,
+      "collection": "Muwatta Malik",
+      "reference_number": 1798,
+      "english_translation": "Chapter: Charity Given by the Living on Behalf of the Deceased",
+      "arabicText": "بَابُ صَدَقَةِ الْحَيِّ عَنِ الْمَيِّتِ",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or content to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Legal Framework for Charity on Behalf of the Deceased"]
+    },
+    {
+      "hadith_id": 9503,
+      "collection": "Muwatta Malik",
+      "reference_number": 1799,
+      "english_translation": "Narrated by Sa'd ibn Ubadah's descendants: Sa'd ibn Ubadah went out with the Messenger of Allah ﷺ in one of his military expeditions, and his mother's death came upon her in Madinah. It was said to her: 'Make a will.' She said: 'In what shall I make a will? The wealth is only Sa'd's wealth.' So she died before Sa'd returned. When Sa'd ibn Ubadah returned, this was mentioned to him. Sa'd said: 'O Messenger of Allah, will it benefit her if I give charity on her behalf?' The Messenger of Allah ﷺ said: 'Yes.' So Sa'd said: 'Such and such garden is charity on her behalf' - for a garden he named.",
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 سَعِيدِ بْنِ عَمْرِو بْنِ شُرَحْبِيلَ بْنِ سَعِيدِ بْنِ سَعْدِ بْنِ عُبَادَةَ L3384 /94 ، عَنْ /26 أَبِيهِ L6143 /26 ، عَنْ /26 جَدِّهِ L3776 /26 ، أَنَّهُ قَالَ : /27 خَرَجَ سَعْدُ بْنُ عُبَادَةَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَعْضِ مَغَازِيهِ ، فَحَضَرَتْ أُمَّهُ الْوَفَاةُ /60 بِالْمَدِينَةِ /60 ، فَقِيلَ لَهَا : أَوْصِي . فَقَالَتْ : فِيمَ أُوصِي ؟ إِنَّمَا الْمَالُ مَالُ سَعْدٍ . فَتُوُفِّيَتْ قَبْلَ أَنْ يَقْدَمَ سَعْدٌ ، فَلَمَّا قَدِمَ سَعْدُ بْنُ عُبَادَةَ ذُكِرَ ذَلِكَ لَهُ ، فَقَالَ سَعْدٌ : يَا رَسُولَ اللَّهِ ، /20 \" هَلْ يَنْفَعُهَا أَنْ أَتَصَدَّقَ عَنْهَا ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : نَعَمْ \" . فَقَالَ سَعْدٌ : حَائِطُ كَذَا وَكَذَا صَدَقَةٌ عَنْهَا ، لِحَائِطٍ سَمَّاهُ /27 * \r\n$1427  1430 /2",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Amr ibn Shurahbil",
+              "full_name": "Sa'id ibn Amr ibn Shurahbil ibn Sa'id ibn Sa'd ibn Ubadah al-Ansari al-Khazraji",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Shurahbil",
+              "full_name": "Amr ibn Shurahbil ibn Sa'id ibn Sa'd ibn Ubadah al-Ansari al-Khazraji",
+              "grade": "Maqbul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Shurahbil ibn Sa'id",
+              "full_name": "Shurahbil ibn Sa'id ibn Sa'd ibn Ubadah al-Ansari al-Khazraji",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'd ibn Ubadah",
+              "full_name": "Sa'd ibn Ubadah ibn Dulaym al-Ansari al-Khazraji al-Sa'idi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "implied",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) in the chain from Malik through the descendants of Sa'd ibn Ubadah",
+            "The chain goes through father-son-grandfather relationships with ambiguous transmission terms",
+            "Some narrators in the middle of the chain (Amr ibn Shurahbil and Shurahbil ibn Sa'id) are classified as Maqbul (acceptable when supported)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Sa'id ibn Amr ibn Shurahbil -> Amr ibn Shurahbil -> Shurahbil ibn Sa'id -> (implicitly) Sa'd ibn Ubadah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) multiple times through narrators who are not all of the highest reliability grade",
+          "impact": "The middle narrators (Amr ibn Shurahbil and Shurahbil ibn Sa'id) are classified as Maqbul, meaning they are acceptable when supported by other narrations but not independently strong"
+        },
+        {
+          "issue": "This is a family chain (grandfather-father-son transmission) which can be problematic if not all links are well-established",
+          "impact": "While family chains are common and generally reliable for family-specific narrations, the Maqbul status of some links weakens the overall chain slightly"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": ["Incident of Sa'd ibn Ubadah's mother dying while he was on expedition", "Permissibility of Giving Charity on Behalf of the Deceased", "Sa'd's Garden Given as Charity for His Mother"]
+    },
+    {
+      "hadith_id": 9504,
+      "collection": "Muwatta Malik",
+      "reference_number": 1800,
+      "english_translation": "Narrated by Aisha, wife of the Prophet ﷺ: That a man said to the Messenger of Allah ﷺ: 'My mother's soul was taken suddenly, and I think if she had spoken she would have given charity. Shall I give charity on her behalf?' The Messenger of Allah ﷺ said: 'Yes.'",
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 هِشَامِ بْنِ عُرْوَةَ L8055 /94 ، عَنْ /26 أَبِيهِ L5594 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّ رَجُلًا ، قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّ /20 \" أُمِّي افْتُلِتَتْ نَفْسُهَا ، وَأُرَاهَا لَوْ تَكَلَّمَتْ تَصَدَّقَتْ ، أَفَأَتَصَدَّقُ عَنْهَا ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : نَعَمْ \" /27 * \r\n$1428  1431 /2",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Qurashi al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah al-Taymiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) in three places: Malik to Hisham, Hisham to Urwah, and Urwah to Aisha"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) in multiple places",
+          "impact": "However, all narrators in this chain are of the highest reliability (Thiqah Thabt), and none are known for tadlis. Hisham narrating from his father Urwah is one of the strongest chains in hadith literature (the golden chain when it includes Malik). This chain is considered extremely reliable despite the use of 'an"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": ["Incident of a Man's Mother Dying Suddenly", "Permissibility of Charity on Behalf of Deceased Who Did Not Leave a Will", "Giving Charity for Deceased Parents"]
+    },
+    {
+      "hadith_id": 9505,
+      "collection": "Muwatta Malik",
+      "reference_number": 1801,
+      "english_translation": "Narrated by Malik: It reached him that a man from the Ansar from Bani al-Harith ibn al-Khazraj gave charity to his two parents with a charitable gift, and they both perished, so their son inherited the wealth, which was palm trees. He asked about this to the Messenger of Allah ﷺ, who said: 'You have been rewarded for your charity, and take it as your inheritance.'",
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 أَنَّهُ بَلَغَهُ ، /27 أَنَّ رَجُلًا مِنْ الْأَنْصَارِ مِنْ بَنِي الْحَارِثِ بْنِ الْخَزْرَجِ تَصَدَّقَ عَلَى أَبَوَيْهِ بِصَدَقَةٍ ، فَهَلَكَا فَوَرِثَ ابْنُهُمَا الْمَالَ وَهُوَ نَخْلٌ ، فَسَأَلَ عَنْ ذَلِكَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : /20 \" قَدْ أُجِرْتَ فِي صَدَقَتِكَ ، وَخُذْهَا بِمِيرَاثِكَ \" /27 * \r\n-E394 /1 كِتَابِ الْوَصِيَّةِ /1",
+      "chains": [
+        {
+          "type": "mursal/balagh",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["balagh - disconnected chain"]
+            }
+          ],
+          "chainIssues": [
+            "This is a balagh narration - 'it reached him' (بَلَغَهُ) - indicating a disconnected chain",
+            "The intermediate narrators between Malik and the incident are completely omitted"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> [chain omitted] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal/balagh narration with 'balagha' (بَلَغَهُ) - 'it reached him'",
+          "impact": "The chain is disconnected as Malik does not name his source. This is a weak form of transmission as we don't know who informed Malik of this incident. Mursal reports from Malik are considered weak unless supported by other evidence"
+        },
+        {
+          "issue": "Multiple links in the chain are completely omitted",
+          "impact": "We cannot assess the reliability of the transmission path, making this significantly problematic from a chain perspective"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": ["Incident of an Ansari Man Giving Charity to His Parents Then Inheriting It", "Inheriting Property Previously Given as Charity", "Double Reward for Charity and Inheritance"]
+    },
+    {
+      "hadith_id": 9506,
+      "collection": "Muwatta Malik",
+      "reference_number": 1802,
+      "english_translation": "Chapter: The Command to Make a Will",
+      "arabicText": "بَابُ الْأَمْرِ بِالْوَصِيَّةِ",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or content to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Legal Framework for Making a Will"]
+    },
+    {
+      "hadith_id": 9507,
+      "collection": "Muwatta Malik",
+      "reference_number": 1803,
+      "english_translation": "Narrated by Abdullah ibn Umar: That the Messenger of Allah ﷺ said: 'It is not the right of any Muslim man who has something to bequeath to spend two nights except with his will written with him.' Malik said: The agreed upon matter among us is that the one making a will, when he makes a will in his health or his illness with a will containing the freeing of slaves from among his slaves or other than that, then he may change from that what appears to him and do from it what he wills until he dies. And if he wishes to discard that will and replace it, he may do so, except that he may make a slave mudbbar (to be freed upon death). If he does tadbir, then there is no way to change what he made tadbir, and that is because the Messenger of Allah ﷺ said: 'It is not the right of any Muslim man who has something to bequeath to spend two nights except with his will written with him.' Malik said: If the one making a will was not able to change his will, nor what was mentioned in it from the freeing, then every one making a will would have locked up his wealth that he bequeathed in from freeing and other than it, and a man may make a will in his health and at his travel. Malik said: The matter among us in which there is no disagreement is that he may change from that what he wills except the tadbir.",
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" مَا حَقُّ امْرِئٍ مُسْلِمٍ لَهُ شَيْءٌ يُوصَى فِيهِ يَبِيتُ لَيْلَتَيْنِ ، إِلَّا وَوَصِيَّتُهُ عِنْدَهُ مَكْتُوبَةٌ \" /27 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا ، أَنَّ الْمُوصِيَ إِذَا أَوْصَى فِي صِحَّتِهِ أَوْ مَرَضِهِ بِوَصِيَّةٍ ، فِيهَا عَتَاقَةُ رَقِيقٍ مِنْ رَقِيقِهِ أَوْ غَيْرُ ذَلِكَ ، فَإِنَّهُ يُغَيِّرُ مِنْ ذَلِكَ مَا بَدَا لَهُ ، وَيَصْنَعُ مِنْ ذَلِكَ مَا شَاءَ حَتَّى يَمُوتَ ، وَإِنْ أَحَبَّ أَنْ يَطْرَحَ تِلْكَ الْوَصِيَّةَ وَيُبْدِلَهَا فَعَلَ ، إِلَّا أَنْ يُدَبِّرَ مَمْلُوكًا ، فَإِنْ دَبَّرَ فَلَا سَبِيلَ إِلَى تَغْيِيرِ مَا دَبَّرَ ، وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَا حَقُّ امْرِئٍ مُسْلِمٍ لَهُ شَيْءٌ يُوصَى فِيهِ يَبِيتُ لَيْلَتَيْنِ ، إِلَّا وَوَصِيَّتُهُ عِنْدَهُ مَكْتُوبَةٌ \" /10 . قَالَ /12 مَالِك /12 : /10 فَلَوْ كَانَ الْمُوصِي لَا يَقْدِرُ عَلَى تَغْيِيرِ وَصِيَّتِهِ ، وَلَا مَا ذُكِرَ فِيهَا مِنَ الْعَتَاقَةِ ، كَانَ كُلُّ مُوصٍ قَدْ حَبَسَ مَالَهُ الَّذِي أَوْصَى فِيهِ مِنَ الْعَتَاقَةِ وَغَيْرِهَا ، وَقَدْ يُوصِي الرَّجُلُ فِي صِحَّتِهِ وَعِنْدَ سَفَرِهِ /10 . قَالَ /12 مَالِك /12 : /10 فَالْأَمْرُ عِنْدَنَا الَّذِي لَا اخْتِلَافَ فِيهِ ، أَنَّهُ يُغَيِّرُ مِنْ ذَلِكَ مَا شَاءَ غَيْرَ التَّدْبِيرِ /10 *",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) from Malik to Nafi' and from Nafi' to Ibn Umar"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) in two places",
+          "impact": "However, this is the famous 'Golden Chain' (al-Silsilah al-Dhahabiyyah) - Malik from Nafi' from Ibn Umar - which is considered one of the strongest and most authentic chains in all of hadith literature. Neither Malik nor Nafi' are known for tadlis, and both are of the highest reliability. This chain is accepted by all scholars despite the use of 'an"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": ["Obligation to Write a Will", "Revocability of Wills Except Tadbir", "Legal Status of Tadbir (Conditional Manumission)"]
+    },
+    {
+      "hadith_id": 9508,
+      "collection": "Muwatta Malik",
+      "reference_number": 1804,
+      "english_translation": "Chapter: Permissibility of the Will of the Young, the Weak, the Afflicted, and the Foolish",
+      "arabicText": "بَابُ جَوَازِ وَصِيَّةِ الصَّغِيرِ وَالضَّعِيفِ وَالْمُصَابِ وَالسَّفِيهِ",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or content to analyze"
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": ["Legal Framework for Wills of Minors and Mentally Impaired"]
+    },
+    {
+      "hadith_id": 9509,
+      "collection": "Muwatta Malik",
+      "reference_number": 1805,
+      "english_translation": "Narrated by Amr ibn Sulaym al-Zurqi: It was said to Umar ibn al-Khattab: 'There is here a youthful boy who has not reached puberty from Ghassan, and his heir is in al-Sham, and he has wealth, and he has nothing here except a cousin.' Umar ibn al-Khattab said: 'Let him make a will for her.' He said: So he made a will for her with property called Bi'r Jusham. Amr ibn Sulaym said: That property was sold for thirty thousand dirhams, and his cousin for whom he made the will is the mother of Amr ibn Sulaym al-Zurqi.",
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ حَزْمٍ L4632 /94 ، عَنْ /26 أَبِيهِ L133 /26 ، أَنَّ /26 عَمْرَو بْنَ سُلَيْمٍ الزُّرَقِيَّ L6139 /26 أَخْبَرَهُ ، أَنَّهُ /27 قِيلَ لِعُمَرَ بْنِ الْخَطَّابِ : إِنَّ هَاهُنَا غُلَامًا يَفَاعًا لَمْ يَحْتَلِمْ مِنْ غَسَّانَ وَوَارِثُهُ /60 بِالشَّامِ /60 ، وَهُوَ ذُو مَالٍ ، وَلَيْسَ لَهُ هَاهُنَا إِلَّا ابْنَةُ عَمٍّ لَهُ . قَالَ /93 عُمَرُ بْنُ الْخَطَّابِ L5913 /93 : /20 \" فَلْيُوصِ لَهَا \" . قَالَ : فَأَوْصَى لَهَا بِمَالٍ ، يُقَالُ لَهُ : بِئْرُ جُشَمٍ /27 . قَالَ عَمْرُو بْنُ سُلَيْمٍ : فَبِيعَ ذَلِكَ الْمَالُ بِثَلَاثِينَ أَلْفَ دِرْهَمٍ ، وَابْنَةُ عَمِّهِ الَّتِي أَوْصَى لَهَا هِيَ /64 أُمُّ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ /64 * \r\n$1431  1434 /3",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Hazm",
+              "full_name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Sulaym al-Zurqi",
+              "full_name": "Amr ibn Sulaym al-Ansari al-Zurqi",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّ...أَخْبَرَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) from Malik to Abdullah ibn Abi Bakr and from Abdullah to his father Abu Bakr",
+            "Uses 'anna (أَنَّ) followed by 'akhbarahu indicating indirect then direct transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abdullah ibn Abi Bakr ibn Hazm -> Abu Bakr ibn Hazm -> Amr ibn Sulaym al-Zurqi -> (reports about) Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) in two places",
+          "impact": "However, all narrators are reliable (Thiqah or higher), and none are known for tadlis. The father-son transmission (Abdullah from his father Abu Bakr) is particularly strong"
+        },
+        {
+          "issue": "This is mawquf (stopped at Umar), not marfu' to the Prophet ﷺ",
+          "impact": "This represents the juristic ruling of Umar ibn al-Khattab regarding the permissibility of a minor's will"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["Incident of a Young Ghassanid Boy Making a Will", "Umar's Ruling Allowing a Minor's Will", "Bi'r Jusham Property Bequest"]
+    },
+    {
+      "hadith_id": 9510,
+      "collection": "Muwatta Malik",
+      "reference_number": 1806,
+      "english_translation": "Narrated by Abu Bakr ibn Hazm: That a boy from Ghassan was approached by death in Madinah, and his heir was in al-Sham. This was mentioned to Umar ibn al-Khattab, and it was said to him: 'So-and-so is dying, shall he make a will?' He said: 'Let him make a will.' Yahya ibn Sa'id said: Abu Bakr said: The boy was ten years old or twelve years old. He said: So he made a will with Bi'r Jusham, and his family sold it for thirty thousand dirhams. Yahya said: I heard Malik saying: The agreed upon matter among us is that the weak in his mind, the foolish, and the afflicted who recovers sometimes - their wills are valid if they have enough of their minds that they know what they are bequeathing. As for the one who does not have enough of his mind to know what he bequeaths and was overcome in his mind, then there is no will for him.",
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ /94 ، عَنْ /26 أَبِي بَكْرِ بْنِ حَزْمٍ /26 ، /27 أَنَّ \" غُلَامًا مِنْ غَسَّانَ حَضَرَتْهُ الْوَفَاةُ /60 بِالْمَدِينَةِ /60 ، وَوَارِثُهُ /60 بِالشَّامِ /60 ، فَذُكِرَ ذَلِكَ لِعُمَرَ بْنِ الْخَطَّابِ ، فَقِيلَ لَهُ : إِنَّ فُلَانًا يَمُوتُ ، أَفَيُوصِي ؟ قَالَ : /20 \" فَلْيُوصِ \" /27 . قَالَ يَحْيَى بْنُ سَعِيدٍ : قَالَ أَبُو بَكْرٍ : وَكَانَ الْغُلَامُ ابْنَ عَشْرِ سِنِينَ أَوِ اثْنَتَيْ عَشَرَةَ سَنَةً . قَالَ : فَأَوْصَى بِبِئْرِ جُشَمٍ ، فَبَاعَهَا أَهْلُهَا بِثَلَاثِينَ أَلْفَ دِرْهَمٍ . قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا ، أَنَّ الضَّعِيفَ فِي عَقْلِهِ وَالسَّفِيهَ وَالْمُصَابَ الَّذِي يُفِيقُ ، أَحْيَانًا تَجُوزُ وَصَايَاهُمْ إِذَا كَانَ مَعَهُمْ مِنْ عُقُولِهِمْ مَا يَعْرِفُونَ مَا يُوصُونَ بِهِ ، فَأَمَّا مَنْ لَيْسَ مَعَهُ مِنْ عَقْلِهِ مَا يَعْرِفُ بِذَلِكَ مَا يُوصِي بِهِ وَكَانَ مَغْلُوبًا عَلَى عَقْلِهِ ، فَلَا وَصِيَّةَ لَهُ /10 * \r\n&E395",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Hazm",
+              "full_name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) from Malik to Yahya ibn Sa'id and from Yahya to Abu Bakr ibn Hazm",
+            "Uses 'anna (أَنَّ) indicating indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Sa'id -> Abu Bakr ibn Hazm -> (reports about) Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) in two places",
+          "impact": "However, both Yahya ibn Sa'id al-Ansari and Malik are of the highest reliability and are not known for tadlis"
+        },
+        {
+          "issue": "This is mawquf (stopped at Umar), not marfu' to the Prophet ﷺ",
+          "impact": "This represents the juristic ruling of Umar ibn al-Khattab, with additional commentary from Imam Malik"
+        },
+        {
+          "issue": "This is essentially a duplicate/parallel report to hadith 9509 with slightly different wording and additional Maliki juristic commentary",
+          "impact": "The parallel narration strengthens the report of the incident"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["Incident of a Young Ghassanid Boy Making a Will", "Umar's Ruling on Minor's Will", "Conditions for Validity of Wills of Mentally Impaired Persons", "Age of Legal Capacity for Making Wills"]
+    }
+  ]
+}

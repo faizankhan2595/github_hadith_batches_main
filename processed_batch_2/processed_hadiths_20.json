@@ -1,0 +1,564 @@
+{
+  "batch_number": 2,
+  "file_number": 20,
+  "processed_count": 9,
+  "hadiths": [
+    {
+      "hadith_id": 9287,
+      "book_id": 19,
+      "reference_number": 1583,
+      "collection": "Muwatta Malik",
+      "arabic_text": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ صَالِحِ بْنِ كَيْسَانَ ، عَنْ حَسَنِ بْنِ مُحَمَّدِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ ، أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ \" بَاعَ جَمَلًا لَهُ يُدْعَى عُصَيْفِيرًا بِعِشْرِينَ بَعِيرًا إِلَى أَجَلٍ \"",
+      "english_translation": "Yahya narrated to me from Malik, from Salih ibn Kaysan, from Hasan ibn Muhammad ibn Ali ibn Abi Talib, that Ali ibn Abi Talib sold a camel of his called Usayfir for twenty camels to be paid at a later date.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Salih ibn Kaysan",
+              "full_name": "Salih ibn Kaysan ibn Tahmaan al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hasan ibn Muhammad",
+              "full_name": "Al-Hasan ibn Muhammad ibn Ali ibn Abi Talib al-Hashimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses indirect transmission term 'أَنَّ' from Al-Hasan to Ali, indicating potential disconnection as Al-Hasan did not meet his grandfather Ali"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Salih ibn Kaysan -> Al-Hasan ibn Muhammad ibn Ali -> Ali ibn Abi Talib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnection in chain: Al-Hasan ibn Muhammad ibn Ali did not meet his grandfather Ali ibn Abi Talib (Ali died 40 AH, Al-Hasan was born after 60 AH). The transmission uses 'أَنَّ' which indicates indirect narration.",
+          "impact": "This is a munqati' (disconnected) chain. The narration is transmitted through intermediaries not mentioned in the chain."
+        },
+        {
+          "issue": "Malik is known to practice tadlis al-taswiyah in rare instances and uses 'عَنْ' here",
+          "impact": "Minimal impact as Malik is extremely reliable and his use of 'عَنْ' is generally acceptable, but technically should be noted"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Sale of Animals with Deferred Payment",
+        "Transaction of Ali ibn Abi Talib involving a camel named Usayfir"
+      ]
+    },
+    {
+      "hadith_id": 9288,
+      "book_id": 19,
+      "reference_number": 1584,
+      "collection": "Muwatta Malik",
+      "arabic_text": "وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنْ \" بَيْعِ الْحَيَوَانِ اثْنَيْنِ بِوَاحِدٍ إِلَى أَجَلٍ . فَقَالَ : لَا بَأْسَ بِذَلِكَ \"",
+      "english_translation": "Yahya narrated to me from Malik that he (Malik) asked Ibn Shihab about selling two animals for one with deferred payment, and he (Ibn Shihab) said: 'There is no harm in that.' [The text continues with Malik's own legal opinions on various animal trading scenarios]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّهُ سَأَلَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "فَقَالَ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 by some scholars)",
+          "impact": "However, this is Malik directly asking al-Zuhri, so there is no tadlis concern here. Al-Zuhri is also extremely reliable, so this has minimal impact"
+        },
+        {
+          "issue": "This is primarily a statement of legal opinion (fatwa) from al-Zuhri and Malik, not a hadith traced to the Prophet ﷺ",
+          "impact": "The narration is maqtu' (stopped at the level of Tabi'i), so it does not carry the same weight as a marfu' hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal Opinion on Trading Animals",
+        "Deferred Payment in Animal Sales",
+        "Juristic Views on Commercial Transactions"
+      ]
+    },
+    {
+      "hadith_id": 9290,
+      "book_id": 19,
+      "reference_number": 1586,
+      "collection": "Muwatta Malik",
+      "arabic_text": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنْ بَيْعِ حَبَلِ الْحَبَلَةِ \"",
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ forbade the sale of habal al-habalah. And it was a sale that the people of Jahiliyyah used to practice: a man would buy a slaughtered camel (payable) at the time when the she-camel gives birth, and then what is in her womb gives birth.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' Mawla ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'عَنْ' (indirect transmission term) from Malik and from Nafi'",
+          "impact": "However, this is the famous 'Golden Chain' (Silsilat al-Dhahab): Malik from Nafi' from Ibn Umar. All three narrators in this chain are of the highest reliability, and Malik's hearing from Nafi' and Nafi's hearing from Ibn Umar are well-established. The use of 'عَنْ' here does not affect authenticity."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Prohibited Sales in Pre-Islamic Times",
+        "Habal al-Habalah Transaction",
+        "Commercial Practices of Jahiliyyah"
+      ]
+    },
+    {
+      "hadith_id": 9291,
+      "book_id": 19,
+      "reference_number": 1587,
+      "collection": "Muwatta Malik",
+      "arabic_text": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ قَالَ : \" لَا رِبًا فِي الْحَيَوَانِ ، وَإِنَّمَا نُهِيَ مِنَ الْحَيَوَانِ عَنْ ثَلَاثَةٍ : عَنِ الْمَضَامِينِ ، وَالْمَلَاقِيحِ ، وَحَبَلِ الْحَبَلَةِ . وَالْمَضَامِينُ : بَيْعُ مَا فِي بُطُونِ إِنَاثِ الْإِبِلِ . وَالْمَلَاقِيحُ : بَيْعُ مَا فِي ظُهُورِ الْجِمَالِ \"",
+      "english_translation": "Yahya narrated to me from Malik, from Ibn Shihab, from Sa'id ibn al-Musayyab, that he said: 'There is no riba in animals, and what is forbidden from animals are three things: al-madamin, al-malaqih, and habal al-habalah. Al-madamin is the sale of what is in the wombs of female camels. Al-malaqih is the sale of what is in the loins of male camels.' [The text continues with Malik's legal opinions]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 by some scholars) and uses 'عَنْ' here",
+          "impact": "However, al-Zuhri is extremely reliable and his narrations from Sa'id ibn al-Musayyab are well-documented and accepted. The use of 'عَنْ' here is acceptable given his overall reliability and established connection with Sa'id"
+        },
+        {
+          "issue": "This is a statement of Sa'id ibn al-Musayyab (maqtu'), not traced to the Prophet ﷺ",
+          "impact": "As a maqtu' narration, it represents the opinion of a leading Tabi'i but does not carry the authority of a marfu' hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Riba in Animal Trading",
+        "Forbidden Sales: Al-Madamin and Al-Malaqih",
+        "Legal Definitions in Commercial Law"
+      ]
+    },
+    {
+      "hadith_id": 9293,
+      "book_id": 19,
+      "reference_number": 1589,
+      "collection": "Muwatta Malik",
+      "arabic_text": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنْ بَيْعِ الْحَيَوَانِ بِاللَّحْمِ \"",
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab: The Messenger of Allah ﷺ forbade selling animals for meat.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Umawi al-Adawi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mursal hadith - Sa'id ibn al-Musayyab reports directly from the Prophet ﷺ without mentioning the Companion who transmitted it. Sa'id was a young Tabi'i who only met a few Companions."]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Zayd ibn Aslam -> Sa'id ibn al-Musayyab -> (missing Companion) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain: Sa'id ibn al-Musayyab (a Tabi'i) reports directly from the Prophet ﷺ without naming the Companion intermediary",
+          "impact": "This is a mursal hadith, which is a form of weak narration due to the missing link. However, the mursal reports of Sa'id ibn al-Musayyab are considered among the strongest mursal narrations by many scholars due to his reliability and accuracy"
+        },
+        {
+          "issue": "All narrators up to Sa'id use indirect transmission terms ('عَنْ', 'أَنَّ')",
+          "impact": "Minimal impact as all the narrators are highly reliable and their connections are well-established"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Sale of Live Animals for Meat",
+        "Commercial Transactions involving Animals"
+      ]
+    },
+    {
+      "hadith_id": 9294,
+      "book_id": 19,
+      "reference_number": 1590,
+      "collection": "Muwatta Malik",
+      "arabic_text": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ دَاوُدَ بْنِ الْحُصَيْنِ ، أَنَّهُ سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ ، يَقُولُ : \" مِنْ مَيْسِرِ أَهْلِ الْجَاهِلِيَّةِ ، بَيْعُ الْحَيَوَانِ بِاللَّحْمِ بِالشَّاةِ وَالشَّاتَيْنِ \"",
+      "english_translation": "Yahya narrated to me from Malik, from Dawud ibn al-Husayn, that he heard Sa'id ibn al-Musayyab saying: 'Among the gambling practices of the people of Jahiliyyah was selling an animal for meat, for a sheep or two sheep.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dawud ibn al-Husayn",
+              "full_name": "Dawud ibn al-Husayn ibn Abdullah al-Umawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Dawud ibn al-Husayn -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Dawud ibn al-Husayn uses explicit hearing term 'سَمِعَ' from Sa'id, which strengthens the chain",
+          "impact": "This is positive - the explicit hearing term confirms direct transmission"
+        },
+        {
+          "issue": "This is a statement of Sa'id ibn al-Musayyab (maqtu'), not traced to the Prophet ﷺ",
+          "impact": "As a maqtu' narration explaining pre-Islamic practices, it carries weight as historical information from a reliable Tabi'i"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Gambling Practices of Jahiliyyah",
+        "Pre-Islamic Commercial Customs",
+        "Animal Trading in Pre-Islamic Arabia"
+      ]
+    },
+    {
+      "hadith_id": 9295,
+      "book_id": 19,
+      "reference_number": 1591,
+      "collection": "Muwatta Malik",
+      "arabic_text": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ كَانَ يَقُولُ : \" نُهِيَ عَنْ بَيْعِ الْحَيَوَانِ بِاللَّحْمِ \"",
+      "english_translation": "Yahya narrated to me from Malik, from Abu al-Zinad, from Sa'id ibn al-Musayyab, that he used to say: 'It was forbidden to sell an animal for meat.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّهُ كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Abu al-Zinad -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Zinad and Malik both use 'عَنْ' (indirect transmission term)",
+          "impact": "Minimal impact as both narrators are highly reliable and their connections are well-established. The hadith is about Sa'id's practice/opinion, making the indirect term less problematic"
+        },
+        {
+          "issue": "This is a statement of Sa'id ibn al-Musayyab (maqtu') using passive voice 'نُهِيَ' (it was forbidden), which may imply it goes back to the Prophet ﷺ but is not explicit",
+          "impact": "The passive construction suggests higher authority but without explicit attribution, it remains a maqtu' narration"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Sale of Animals for Meat",
+        "Commercial Regulations in Early Islam"
+      ]
+    },
+    {
+      "hadith_id": 9296,
+      "book_id": 19,
+      "reference_number": 1592,
+      "collection": "Muwatta Malik",
+      "arabic_text": "قَالَ أَبُو الزِّنَادِ : فَقُلْتُ لِسَعِيدِ بْنِ الْمُسَيَّبِ : أَرَأَيْتَ رَجُلًا اشْتَرَى شَارِفًا بِعَشَرَةِ شِيَاهٍ ؟ فَقَالَ سَعِيدٌ : \" إِنْ كَانَ اشْتَرَاهَا لِيَنْحَرَهَا ، فَلَا خَيْرَ فِي ذَلِكَ \"",
+      "english_translation": "Abu al-Zinad said: I asked Sa'id ibn al-Musayyab: 'What do you think about a man who bought an old she-camel for ten sheep?' Sa'id said: 'If he bought it to slaughter it, then there is no good in that.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "فَقَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu al-Zinad -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a dialogue between Abu al-Zinad and Sa'id ibn al-Musayyab, representing a fatwa (legal opinion) rather than a hadith",
+          "impact": "As a maqtu' narration, it represents the legal opinion of a senior Tabi'i but does not carry the authority of a marfu' hadith"
+        },
+        {
+          "issue": "The chain is very short and lacks connection to the Prophet ﷺ or any Companion",
+          "impact": "This is purely a juristic opinion (ijtihad) from Sa'id ibn al-Musayyab based on his understanding"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal Opinion on Animal Purchase for Slaughter",
+        "Exchange of Old Camel for Multiple Sheep",
+        "Juristic Dialogue on Commercial Transactions"
+      ]
+    },
+    {
+      "hadith_id": 9297,
+      "book_id": 19,
+      "reference_number": 1593,
+      "collection": "Muwatta Malik",
+      "arabic_text": "قَالَ أَبُو الزِّنَادِ : \" وَكُلُّ مَنْ أَدْرَكْتُ مِنَ النَّاسِ يَنْهَوْنَ عَنْ بَيْعِ الْحَيَوَانِ بِاللَّحْمِ \" ، قَالَ أَبُو الزِّنَادِ : \" وَكَانَ ذَلِكَ يُكْتَبُ فِي عُهُودِ الْعُمَّالِ فِي زَمَانِ أَبَانَ بْنِ عُثْمَانَ ، وَهِشَامِ بْنِ إِسْمَاعِيلَ يَنْهَوْنَ عَنْ ذَلِكَ \"",
+      "english_translation": "Abu al-Zinad said: 'All the people I met used to forbid selling animals for meat.' Abu al-Zinad said: 'And that used to be written in the covenants of the governors during the time of Aban ibn Uthman and Hisham ibn Isma'il, forbidding that.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu al-Zinad (statement only)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a purely historical statement from Abu al-Zinad about the practice of scholars during his time",
+          "impact": "This is not a hadith but rather a report of the scholarly consensus (ijma') and administrative practice during the Umayyad period. It provides historical context but has no chain to the Prophet ﷺ"
+        },
+        {
+          "issue": "No chain beyond Abu al-Zinad himself",
+          "impact": "This is testimony about what Abu al-Zinad witnessed regarding the practice of scholars and governors of his era"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Scholarly Consensus on Animal Sales",
+        "Administrative Regulations during Umayyad Period",
+        "Historical Practice of Governors: Aban ibn Uthman and Hisham ibn Isma'il",
+        "Documentation of Legal Prohibitions in Official Covenants"
+      ]
+    }
+  ]
+}

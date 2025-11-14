@@ -1,0 +1,512 @@
+{
+  "batch_number": 2,
+  "file_number": 94,
+  "record_count": 15,
+  "processed_date": "2025-11-14T11:28:09.178759",
+  "hadiths": [
+    {
+      "hadith_id": 10396,
+      "original_hadith_number": "319",
+      "collection": "كتاب رقم 20",
+      "arabicText": "سَحْنُونٌ، عن عَلِيِّ بْنِ زِيَادٍ، عن سُفْيَانَ، عن أَبِي إِسْحَاقَ، عن عَاصِمِ بْنِ ضَمْرَةَ، عن عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ: \"لَيْسَ الْوِتْرُ بِحَتْمٍ كَالْمَكْتُوبَةِ، وَلَكِنَّهَا سُنَّةٌ سَنَّهَا رَسُولُ اللَّهِ\"",
+      "english_translation": "Narrated by Ali ibn Abi Talib: Witr is not obligatory like the prescribed prayers, but it is a Sunnah that the Messenger of Allah ﷺ established.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سحنون",
+              "full_name": "عبد السلام بن سعيد بن حبيب التنوخي المعروف بسحنون",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "علي بن زياد",
+              "full_name": "علي بن زياد بن يزيد التونسي",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سفيان",
+              "full_name": "سفيان بن سعيد بن مسروق الثوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Known for minor tadlis but generally reliable"
+              ]
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "عمرو بن عبد الله بن عبيد السبيعي الهمداني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Experienced ikhtilat in later life"
+              ]
+            },
+            {
+              "name": "عاصم بن ضمرة",
+              "full_name": "عاصم بن ضمرة الحارثي السلولي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "علي بن أبي طالب",
+              "full_name": "علي بن أبي طالب بن عبد المطلب القرشي الهاشمي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قال",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an transmission terms",
+            "Abu Ishaq experienced ikhtilat though Sufyan al-Thawri was an early narrator from him"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سحنون -> علي بن زياد -> سفيان الثوري -> أبو إسحاق -> عاصم بن ضمرة -> علي بن أبي طالب"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Sabi'i experienced ikhtilat (memory confusion) in his later life",
+          "impact": "However, Sufyan al-Thawri was among the early narrators from Abu Ishaq, so this is likely from before the ikhtilat. Minor concern only."
+        },
+        {
+          "issue": "Sufyan al-Thawri is known for minor tadlis and uses 'an here",
+          "impact": "Minimal impact as Sufyan is highly reliable (Thiqah Thabt) and his tadlis is minor (category 2). His narrations from Abu Ishaq are particularly strong."
+        },
+        {
+          "issue": "Statement is mawquf (stopped at Ali), not marfu' to the Prophet ﷺ",
+          "impact": "This is Ali's statement attributing the Sunnah to the Prophet ﷺ indirectly, not a direct prophetic narration."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Witr Prayer Status",
+        "Distinction between Obligatory and Sunnah Prayers",
+        "Statement of Ali ibn Abi Talib about Witr"
+      ]
+    },
+    {
+      "hadith_id": 10397,
+      "original_hadith_number": "320",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ ابْنُ وَهْبٍ، عن ابْنِ لَهِيعَةَ، عن خَالِدِ بْنِ مَيْمُونَ الصَّفَدِيِّ، عن الْحَسَنِ أَنَّ رَجُلًا قَالَ: يَا رَسُولَ اللَّهِ، أَوِتْرٌ بَعْدَ الْفَجْرِ؟ فَقَالَ لَهُ فِي الثَّالِثَةِ: أَوْتِرْ",
+      "english_translation": "Narrated by al-Hasan: A man said: 'O Messenger of Allah, should I pray Witr after Fajr?' So he said to him on the third time: 'Pray Witr.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "ابن وهب",
+              "full_name": "عبد الله بن وهب بن مسلم القرشي الفهري المصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن لهيعة",
+              "full_name": "عبد الله بن لهيعة بن عقبة الحضرمي المصري",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Weak due to his books being burned",
+                "More reliable when narrating through Ibn Wahb"
+              ]
+            },
+            {
+              "name": "خالد بن ميمون الصفدي",
+              "full_name": "خالد بن ميمون الصفدي",
+              "grade": "Majhul al-Hal",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Unknown reliability"
+              ]
+            },
+            {
+              "name": "الحسن",
+              "full_name": "الحسن بن أبي الحسن البصري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أن",
+              "reliabilityIssues": [
+                "Known for weak mursal narrations"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ibn Lahi'ah is weak",
+            "Khalid ibn Maymun is unknown",
+            "Mursal from al-Hasan al-Basri who did not meet the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "ابن وهب -> ابن لهيعة -> خالد بن ميمون -> الحسن البصري -> Prophet ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Lahi'ah is a weak narrator whose books were burned",
+          "impact": "Significant weakness, though narrations through Ibn Wahb are slightly better."
+        },
+        {
+          "issue": "Khalid ibn Maymun al-Safadi is majhul al-hal",
+          "impact": "Major weakness - unknown reliability."
+        },
+        {
+          "issue": "Mursal from al-Hasan al-Basri",
+          "impact": "Critical weakness. Al-Hasan did not meet the Prophet ﷺ. His mursal reports are among the weakest."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Witr Prayer Timing",
+        "Question about Praying Witr after Fajr"
+      ]
+    },
+    {
+      "hadith_id": 10398,
+      "original_hadith_number": "321",
+      "collection": "كتاب رقم 20",
+      "arabicText": "مَا جَاءَ فِي قَضَاءِ الصَّلَاةِ إِذَا نَسِيَهَا",
+      "english_translation": "Chapter: What has come regarding making up a prayer when one forgets it",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading about Making Up Forgotten Prayers"
+      ]
+    },
+    {
+      "hadith_id": 10399,
+      "original_hadith_number": "322",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ: وَقَالَ مَالِكٌ: مَنْ ذَكَرَ صَلَاةً نَسِيَهَا وَهُوَ فِي صَلَاةِ الْمَكْتُوبَةِ، قَالَ: إِنْ كَانَ وَحْدَهُ فَذَكَرَهَا حِينَ افْتَتَحَ الصَّلَاةَ، فَلْيَقْطَعْ وَلْيُصَلِّ الَّتِي نَسِيَ، ثُمَّ يُصَلِّي هَذِهِ الَّتِي كَانَ فِيهَا",
+      "english_translation": "Malik said: Whoever remembers a prayer he forgot while he is in an obligatory prayer - if he is praying alone and he remembers it when he begins the prayer, then let him stop and pray the one he forgot, then pray this one he was in.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Fiqh Opinion",
+      "Topics": [
+        "Fiqh Ruling on Remembering Forgotten Prayer During Current Prayer",
+        "Malik's Legal Opinion on Prayer Order"
+      ]
+    },
+    {
+      "hadith_id": 10400,
+      "original_hadith_number": "323",
+      "collection": "كتاب رقم 20",
+      "arabicText": "فِيمَنْ نَسِيَ صَلَاةً، ثُمَّ ذَكَرَهَا فِي وَقْتِ صَلَاةٍ",
+      "english_translation": "Chapter: Regarding one who forgets a prayer, then remembers it during the time of another prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading about Remembering Forgotten Prayer During Another Prayer Time"
+      ]
+    },
+    {
+      "hadith_id": 10401,
+      "original_hadith_number": "324",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ: وَقَالَ مَالِكٌ: مَنْ نَسِيَ صَلَاةً أَوْ صَلَاتَيْنِ أَوْ ثَلَاثًا، ثُمَّ ذَكَرَهُنَّ قَبْلَ صَلَاةِ الصُّبْحِ، قَالَ: إِذَا كَانَتْ يَسِيرَةً صَلَّاهُنَّ قَبْلَ الصُّبْحِ، وَإِنْ فَاتَ وَقْتُ الصُّبْحِ، وَإِنْ كَانَتْ صَلَوَاتٍ كَثِيرَةً بَدَأَ بِالصُّبْحِ، ثُمَّ صَلَّى مَا كَانَ نَسِيَ",
+      "english_translation": "Malik said: Whoever forgets one, two, or three prayers, then remembers them before Subh prayer - if they are few, he should pray them before Subh, even if the time of Subh passes. But if they are many prayers, he should begin with Subh, then pray what he had forgotten.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Fiqh Opinion",
+      "Topics": [
+        "Fiqh Ruling on Multiple Forgotten Prayers",
+        "Priority of Current Prayer versus Missed Prayers"
+      ]
+    },
+    {
+      "hadith_id": 10402,
+      "original_hadith_number": "325",
+      "collection": "كتاب رقم 20",
+      "arabicText": "فِيمَنْ نَسِيَ صَلَاةً فَذَكَرَهَا فِي آخِرِ وَقْتِهَا",
+      "english_translation": "Chapter: Regarding one who forgets a prayer and remembers it at the end of its time",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading about Remembering Prayer at End of Its Time"
+      ]
+    },
+    {
+      "hadith_id": 10403,
+      "original_hadith_number": "326",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ: وَقَالَ مَالِكٌ فِي الرَّجُلِ يَنْسَى الصُّبْحَ وَالظُّهْرَ فَلَا يَذْكُرُهُمَا إِلَّا فِي آخِرِ وَقْتِ الظُّهْرِ، قَالَ: يَبْدَأُ بِالصُّبْحِ، وَإِنْ خَرَجَ وَقْتُ الظُّهْرِ",
+      "english_translation": "Malik said regarding a man who forgets Subh and Dhuhr and does not remember them except at the end of Dhuhr time: He should begin with Subh, even if the time of Dhuhr passes.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Fiqh Opinion",
+      "Topics": [
+        "Fiqh Ruling on Prayer Order",
+        "Priority of Earlier Missed Prayer"
+      ]
+    },
+    {
+      "hadith_id": 10404,
+      "original_hadith_number": "327",
+      "collection": "كتاب رقم 20",
+      "arabicText": "فِي إِمَامٍ ذَكَرَ صَلَاةً نَسِيَهَا فِي الصَّلَاةِ",
+      "english_translation": "Chapter: Regarding an imam who remembers a forgotten prayer while in prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading about Imam Remembering Forgotten Prayer"
+      ]
+    },
+    {
+      "hadith_id": 10405,
+      "original_hadith_number": "328",
+      "collection": "كتاب رقم 20",
+      "arabicText": "وَقَالَ فِي إِمَامٍ ذَكَرَ صَلَاةً نَسِيَهَا فِي الصَّلَاةِ. قَالَ ابْنُ الْقَاسِمِ قَالَ مَالِكٌ: أَرَى أَنْ يَقْطَعَ وَيُعْلِمُهُمْ وَيَقْطَعُوا",
+      "english_translation": "Ibn al-Qasim said: Malik said regarding an imam who remembers a forgotten prayer while in prayer: I see that he should stop and inform them, and they should stop.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Fiqh Opinion",
+      "Topics": [
+        "Fiqh Ruling on Imam Remembering Forgotten Prayer",
+        "Congregation Prayer Procedure"
+      ]
+    },
+    {
+      "hadith_id": 10406,
+      "original_hadith_number": "329",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ مَالِكُ بْنُ أَنَسٍ، عن زَيْدِ بْنِ أَسْلَمَ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: إِذَا رَقَدَ أَحَدُكُمْ عن الصَّلَاةِ أَوْ نَسِيَهَا، ثُمَّ فَزِعَ إِلَيْهَا فَلْيُصَلِّهَا كَمَا كَانَ يُصَلِّيهَا إِذَا صَلَّاهَا لِوَقْتِهَا",
+      "english_translation": "Narrated from Zayd ibn Aslam: The Messenger of Allah ﷺ said: 'When one of you oversleeps a prayer or forgets it, then rushes to it, let him pray it as he would pray it at its proper time.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "مالك بن أنس",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "زيد بن أسلم",
+              "full_name": "زيد بن أسلم العدوي العمري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أن",
+              "reliabilityIssues": [
+                "This is mursal - Zayd did not meet the Prophet ﷺ"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mursal - disconnected chain",
+            "Zayd ibn Aslam did not meet the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مالك بن أنس -> زيد بن أسلم -> Prophet ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Zayd ibn Aslam was from the Tabi'in and did not meet the Prophet ﷺ",
+          "impact": "Missing link in the chain. However, Malik's mursal reports from Zayd ibn Aslam are generally considered strong among mursal narrations, and Zayd is thiqah."
+        },
+        {
+          "issue": "Use of 'anna (أن) indicating indirect transmission",
+          "impact": "Confirms the mursal nature of the narration."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Method of Making Up Forgotten Prayers",
+        "Praying Missed Prayer Like Its Original Time"
+      ]
+    },
+    {
+      "hadith_id": 10407,
+      "original_hadith_number": "330",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ مَالِكٌ، عن ابْنِ شِهَابٍ، عن ابْنِ الْمُسَيِّبِ: أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: مَنْ نَسِيَ صَلَاةً فَلْيُصَلِّهَا إِذَا ذَكَرَهَا، فَإِنَّ اللَّهَ يَقُولُ: وَأَقِمُ الصَّلَاةَ لِذِكْرِي",
+      "english_translation": "Narrated from Ibn al-Musayyib: The Messenger of Allah ﷺ said: 'Whoever forgets a prayer, let him pray it when he remembers it, for indeed Allah says: And establish prayer for My remembrance.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن شهاب",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Classified as mudallis by some scholars though highly reliable"
+              ]
+            },
+            {
+              "name": "ابن المسيب",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أن",
+              "reliabilityIssues": [
+                "Mursal - did not meet the Prophet ﷺ except possibly as a very young child"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mursal from Sa'id ibn al-Musayyib",
+            "Multiple 'an terms",
+            "Ibn Shihab uses 'an and is classified as mudallis though reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مالك -> ابن شهاب الزهري -> سعيد بن المسيب -> Prophet ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal from Sa'id ibn al-Musayyib who was born during the caliphate of Umar and did not have extensive contact with the Prophet ﷺ",
+          "impact": "Missing link in the chain, though Ibn al-Musayyib's mursal reports are considered among the strongest mursal narrations."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an and is classified as mudallis (category 3) by some scholars",
+          "impact": "Minor concern as al-Zuhri is extremely reliable (Thiqah Thabt) and widely accepted. His narrations are generally accepted even with 'an."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Obligation to Make Up Forgotten Prayers",
+        "Quranic Evidence for Making Up Prayers",
+        "Time for Making Up Missed Prayer"
+      ]
+    },
+    {
+      "hadith_id": 10408,
+      "original_hadith_number": "331",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ ابْنُ وَهْبٍ، عن مَالِكٍ، عن نَافِعٍ، عن ابْنِ عُمَرَ، قَالَ: مَنْ نَسِيَ صَلَاةً فَلَمْ يَذْكُرْهَا إِلَّا وَهُوَ وَرَاءَ الْإِمَامِ، فَإِنْ سَلَّمَ الْإِمَامُ فَلْيُصَلِّ الصَّلَاةَ الَّتِي نَسِيَهَا، ثُمَّ لِيُصَلِّ بَعْدَهَا الصَّلَاةَ الَّتِي كَانَ فِيهَا مَعَ الْإِمَامِ",
+      "english_translation": "Narrated from Ibn Umar, he said: 'Whoever forgets a prayer and does not remember it except while behind the imam - when the imam gives salam, let him pray the prayer he forgot, then pray after it the prayer he was in with the imam.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابن وهب",
+              "full_name": "عبد الله بن وهب بن مسلم القرشي الفهري المصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "نافع مولى عبد الله بن عمر العدوي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عمر",
+              "full_name": "عبد الله بن عمر بن الخطاب القرشي العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قال",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابن وهب -> مالك -> نافع -> ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is the famous golden chain (Malik -> Nafi' -> Ibn Umar) which is considered one of the strongest chains in hadith literature",
+          "impact": "Extremely strong chain. However, this is mawquf (stopped at Ibn Umar) not marfu' (elevated to the Prophet ﷺ)."
+        },
+        {
+          "issue": "Multiple 'an terms used",
+          "impact": "Not a concern given the extremely high reliability of all narrators and their well-documented meetings."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Ibn Umar's Ruling on Remembering Forgotten Prayer Behind Imam",
+        "Procedure for Missed Prayer During Congregation"
+      ]
+    },
+    {
+      "hadith_id": 10409,
+      "original_hadith_number": "332",
+      "collection": "كتاب رقم 20",
+      "arabicText": "مَا جَاءَ فِي السَّهْوِ فِي الصَّلَاةِ",
+      "english_translation": "Chapter: What has come regarding forgetfulness in prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading about Forgetfulness in Prayer"
+      ]
+    },
+    {
+      "hadith_id": 10410,
+      "original_hadith_number": "333",
+      "collection": "كتاب رقم 20",
+      "arabicText": "قَالَ: وَقَالَ مَالِكٌ: لَوْ أَنَّ إِمَامًا صَلَّى بِقَوْمٍ رَكْعَتَيْنِ، فَسَلَّمَ فَسَبَّحُوا بِهِ فَلَمْ يَفْقَهْ، فَقَالَ لَهُ رَجُلٌ مِنْ خَلْفِهِ مِمَّنْ هُوَ مَعَهُ فِي الصَّلَاةِ إِنَّكَ لَمْ تُتِمَّ فَأَتِمَّ صَلَاتَكَ",
+      "english_translation": "Malik said: If an imam prays two rak'ahs with people and gives salam, and they glorify Allah to alert him but he does not understand, then a man from behind him who is with him in prayer says to him 'You have not completed, so complete your prayer'...",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Fiqh Opinion",
+      "Topics": [
+        "Fiqh Ruling on Imam Making Error in Prayer",
+        "Alerting Imam to Mistake",
+        "Speaking During Prayer to Correct Imam"
+      ]
+    }
+  ]
+}

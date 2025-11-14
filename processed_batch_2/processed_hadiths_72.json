@@ -1,0 +1,596 @@
+{
+  "batch_number": 2,
+  "file_number": 72,
+  "processed_count": 8,
+  "hadiths": [
+    {
+      "hadith_id": 10066,
+      "english_translation": "Narrated by a man from Bani Asad: I and my family stayed at Baqi' al-Gharqad, and my family said to me: Go to the Messenger of Allah ﷺ and ask him for something for us to eat, and they kept mentioning their need. So I went to the Messenger of Allah ﷺ and found a man asking him, and the Messenger of Allah ﷺ was saying: 'I do not find what to give you.' So the man turned away from him while he was angry, and he was saying: 'By my life, indeed you give to whomever you wish.' So the Messenger of Allah ﷺ said: 'Indeed he becomes angry with me that I do not find what to give him. Whoever among you asks while he has an uqiyyah or its equivalent, then he has asked importunately.' The man from Asad said: So I said: A milch-camel for us is better than an uqiyyah. Malik said: And the uqiyyah is forty dirhams. He said: So I returned and did not ask him. Then later, barley and raisins were brought to the Messenger of Allah ﷺ and he distributed from it to us, until Allah enriched us.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi or another narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 1-2, generally acceptable"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-'Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Ata' ibn Yasar",
+              "full_name": "'Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "A man from Bani Asad",
+              "full_name": "Unknown man from Bani Asad",
+              "grade": "Majhul",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": ["majhul - unknown narrator, identity not specified"]
+            }
+          ],
+          "chainIssues": ["The narrator from Bani Asad is not named, creating jahalah (unknown narrator) in the chain", "Use of عَنْ throughout the chain except the first narrator who used حَدَّثَنِي"]
+        }
+      ],
+      "plainChains": [
+        "Narrator -> Malik ibn Anas -> Zayd ibn Aslam -> 'Ata' ibn Yasar -> A man from Bani Asad -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The main narrator (the man from Bani Asad) is not identified by name, making him majhul (unknown)",
+          "impact": "This creates a significant weakness in the chain as the identity and reliability of the main narrator cannot be verified"
+        },
+        {
+          "issue": "Malik uses 'an (عَنْ) which is an ambiguous transmission term, though Malik is classified as category 1-2 mudallis by some scholars and is generally very reliable",
+          "impact": "Minimal impact given Malik's high reliability, but technically represents potential for indirect transmission"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain from reliable narrators",
+          "impact": "Minor concern as these narrators are all considered trustworthy, but represents ambiguity in transmission method"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of a Bedouin asking for charity when Prophet had nothing",
+        "Etiquette of asking for charity",
+        "Definition of importunate begging (having an uqiyyah)",
+        "Prophet's ﷺ poverty and simple living",
+        "Distribution of charity among needy Muslims"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ عَطَاءِ بْنِ يَسَارٍ ، عَنْ رَجُلٍ مِنْ بَنِي أَسَدٍ ، أَنَّهُ قَالَ : نَزَلْتُ أَنَا وَأَهْلِي بِبَقِيعِ الْغَرْقَدِ ، فَقَالَ لِي أَهْلِي : اذْهَبْ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَاسْأَلْهُ لَنَا شَيْئًا نَأْكُلُهُ وَجَعَلُوا يَذْكُرُونَ مِنْ حَاجَتِهِمْ ، فَذَهَبْتُ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَوَجَدْتُ عِنْدَهُ رَجُلًا يَسْأَلُهُ ، وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : \" لَا أَجِدُ مَا أُعْطِيكَ \" ، فَتَوَلَّى الرَّجُلُ عَنْهُ وَهُوَ مُغْضَبٌ ، وَهُوَ يَقُولُ : لَعَمْرِي إِنَّكَ لَتُعْطِي مَنْ شِئْتَ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّهُ لَيَغْضَبُ عَلَيَّ أَنْ لَا أَجِدَ مَا أُعْطِيهِ ، مَنْ سَأَلَ مِنْكُمْ وَلَهُ أُوقِيَّةٌ أَوْ عَدْلُهَا فَقَدْ سَأَلَ إِلْحَافًا \" . قَالَ الْأَسَدِيُّ : فَقُلْتُ : لَلَقْحَةٌ لَنَا خَيْرٌ مِنْ أُوقِيَّةٍ ، قَالَ مَالِك : وَالْأُوقِيَّةُ أَرْبَعُونَ دِرْهَمًا . قَالَ : فَرَجَعْتُ وَلَمْ أَسْأَلْهُ ، فَقُدِمَ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْدَ ذَلِكَ بِشَعِيرٍ وَزَبِيبٍ فَقَسَمَ لَنَا مِنْهُ ، حَتَّى أَغْنَانَا اللَّهُ عَزَّ وَجَلَّ",
+      "collection": "Muwatta Malik",
+      "reference_number": "2362",
+      "grade": "Da'if due to unknown narrator"
+    },
+    {
+      "hadith_id": 10067,
+      "english_translation": "Narrated from al-'Ala' ibn 'Abd al-Rahman that he heard him saying: 'Charity does not decrease wealth, and Allah does not increase a servant through pardon except in honor, and no servant humbles himself except that Allah raises him.' Malik said: I do not know whether this hadith is raised to the Prophet ﷺ or not.",
+      "chains": [
+        {
+          "type": "mawquf or marfu' (unclear)",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Unspecified narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 1-2, generally acceptable"]
+            },
+            {
+              "name": "al-'Ala' ibn 'Abd al-Rahman",
+              "full_name": "al-'Ala' ibn 'Abd al-Rahman ibn Ya'qub al-Harrqi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ سَمِعَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Malik explicitly states doubt about whether this is raised to the Prophet ﷺ or is merely al-'Ala's statement", "The chain ends with al-'Ala' saying these words without clear attribution to the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Narrator -> Malik ibn Anas -> al-'Ala' ibn 'Abd al-Rahman"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik himself expresses uncertainty about whether this hadith is marfu' (raised to the Prophet ﷺ) or mawquf (stopped at a lower level)",
+          "impact": "This creates fundamental doubt about the attribution of these words to the Prophet ﷺ, making it unreliable as prophetic hadith"
+        },
+        {
+          "issue": "The chain does not explicitly connect to the Prophet ﷺ - it may be al-'Ala's own statement or something he heard from others",
+          "impact": "Without clear connection to the Prophet ﷺ, this cannot be considered a reliable prophetic hadith"
+        },
+        {
+          "issue": "Use of 'an (عَنْ) for Malik and the narrator before him",
+          "impact": "Represents ambiguous transmission method, though both are reliable narrators"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtues of charity",
+        "Virtues of pardoning others",
+        "Virtues of humility"
+      ],
+      "arabicText": "وَعَنْ مَالِكُ ، عَنْ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ أَنَّهُ سَمِعَهُ ، يَقُولُ : \" مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ ، وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلَّا عِزًّا ، وَمَا تَوَاضَعَ عَبْدٌ إِلَّا رَفَعَهُ اللَّهُ \" . قَالَ مَالِك : لَا أَدْرِي أَيُرْفَعُ هَذَا الْحَدِيثُ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمْ لَا ؟",
+      "collection": "Muwatta Malik",
+      "reference_number": "2363",
+      "grade": "Problematic - uncertain attribution"
+    },
+    {
+      "hadith_id": 10069,
+      "english_translation": "It reached Malik that the Messenger of Allah ﷺ said: 'Charity is not lawful for the family of Muhammad ﷺ, it is only the filth of people.'",
+      "chains": [
+        {
+          "type": "marfu' mursal/mu'dal",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Unspecified narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Uses balagh (بَلَغَهُ) indicating he did not mention his source"]
+            }
+          ],
+          "chainIssues": ["Malik uses 'balaghahu' (it reached him) without naming his source, making this mu'dal or mursal", "Unknown number of narrators missing between Malik and the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Narrator -> Malik ibn Anas -> [missing narrators] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses balagh (بَلَغَهُ) which means 'it reached him' without specifying the chain of transmission",
+          "impact": "This makes the hadith mursal or mu'dal (with missing narrators), significantly weakening the chain as we cannot verify the intermediate narrators"
+        },
+        {
+          "issue": "Complete disconnection in the chain - Malik does not specify from whom he heard this",
+          "impact": "We cannot verify the reliability of the transmission path from Malik to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Charity not permissible for the Prophet's ﷺ family",
+        "Nature of charity as purification",
+        "Special status of the Prophet's ﷺ household"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا تَحِلُّ الصَّدَقَةُ لِآلِ مُحَمَّدٍ ، إِنَّمَا هِيَ أَوْسَاخُ النَّاسِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "2365",
+      "grade": "Mursal/Mu'dal - disconnected chain"
+    },
+    {
+      "hadith_id": 10070,
+      "english_translation": "Narrated from 'Abdullah ibn Abi Bakr, from his father, that the Messenger of Allah ﷺ appointed a man from Bani 'Abd al-Ashhal over the charity collection. When he returned, he asked him for camels from the charity. The Messenger of Allah ﷺ became angry until the anger was recognized in his face, and from what was recognized of anger in his face was that his eyes would become red. Then he said: 'Indeed the man asks me what is not proper for me nor for him. If I refuse him, I dislike the refusal, and if I give him, I give him what is not proper for me nor for him.' The man said: 'O Messenger of Allah, I will never ask you for anything from it ever again.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Unspecified narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 1-2, generally acceptable"]
+            },
+            {
+              "name": "'Abdullah ibn Abi Bakr",
+              "full_name": "'Abdullah ibn Abi Bakr ibn Muhammad ibn 'Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr",
+              "full_name": "Abu Bakr ibn Muhammad ibn 'Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنّ",
+              "reliabilityIssues": ["Did not meet the Prophet ﷺ - he is from the Tabi'in"]
+            }
+          ],
+          "chainIssues": ["Abu Bakr ibn Muhammad ibn 'Amr ibn Hazm is a Tabi'i who did not meet the Prophet ﷺ, making this chain mursal", "The transmission term 'anna' (أَنّ) is used which often indicates disconnection"]
+        }
+      ],
+      "plainChains": [
+        "Narrator -> Malik ibn Anas -> 'Abdullah ibn Abi Bakr -> Abu Bakr ibn Muhammad ibn Hazm -> [missing link] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Bakr ibn Muhammad ibn 'Amr ibn Hazm is a Tabi'i (died 120 AH) who never met the Prophet ﷺ, making this a mursal narration",
+          "impact": "The chain is disconnected as there is at least one missing narrator (Companion) between Abu Bakr and the Prophet ﷺ"
+        },
+        {
+          "issue": "The transmission term 'anna' (أَنّ) is used, which often indicates disconnection in the chain",
+          "impact": "This supports the identification of this as a mursal hadith with missing narrator(s)"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) from Malik and 'Abdullah ibn Abi Bakr",
+          "impact": "Ambiguous transmission terms, though from reliable narrators"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of charity collector requesting camels for himself",
+        "Prophet's ﷺ anger and its physical signs",
+        "Ethics of those appointed to collect charity",
+        "Impropriety of asking for charity funds when not entitled"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ ، عَنْ أَبِيهِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اسْتَعْمَلَ رَجُلًا مِنْ بَنِي عَبْدِ الْأَشْهَلِ عَلَى الصَّدَقَةِ ، فَلَمَّا قَدِمَ سَأَلَهُ إِبِلًا مِنَ الصَّدَقَةِ ، فَغَضِبَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَتَّى عُرِفَ الْغَضَبُ فِي وَجْهِهِ ، وَكَانَ مِمَّا يُعْرَفُ بِهِ الْغَضَبُ فِي وَجْهِهِ أَنْ تَحْمَرَّ عَيْنَاهُ ، ثُمَّ قَالَ : \" إِنَّ الرَّجُلَ لَيَسْأَلُنِي مَا لَا يَصْلُحُ لِي وَلَا لَهُ ، فَإِنْ مَنَعْتُهُ كَرِهْتُ الْمَنْعَ ، وَإِنْ أَعْطَيْتُهُ أَعْطَيْتُهُ مَا لَا يَصْلُحُ لِي وَلَا لَهُ \" ، فَقَالَ الرَّجُلُ : يَا رَسُولَ اللَّهِ ، لَا أَسْأَلُكَ مِنْهَا شَيْئًا أَبَدًا",
+      "collection": "Muwatta Malik",
+      "reference_number": "2366",
+      "grade": "Mursal - disconnected chain"
+    },
+    {
+      "hadith_id": 10071,
+      "english_translation": "Narrated from Zayd ibn Aslam, from his father, that he said: 'Abdullah ibn al-Arqam said: 'Point me to a camel from the riding animals so I may mount the Commander of the Believers upon it.' So I said: 'Yes, a camel from the charity.' 'Abdullah ibn al-Arqam said: 'Would you like that a fat man on a hot day washed for you what is under his loincloth and his groins, then gave it to you and you drank it?' He said: So I became angry and said: 'May Allah forgive you, do you say to me something like this?' So 'Abdullah ibn al-Arqam said: 'Indeed charity is only the filth of people which they wash off from themselves.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Unspecified narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 1-2, generally acceptable"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-'Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aslam",
+              "full_name": "Aslam ibn 'Umar ibn al-Khattab, mawla of 'Umar",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Abdullah ibn al-Arqam",
+              "full_name": "'Abdullah ibn al-Arqam ibn 'Abd Yaghuth al-Zuhri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Narrator -> Malik ibn Anas -> Zayd ibn Aslam -> Aslam -> 'Abdullah ibn al-Arqam"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration - it is the statement of the Companion 'Abdullah ibn al-Arqam, not a saying of the Prophet ﷺ",
+          "impact": "While it comes from a Companion, it represents his understanding rather than direct prophetic teaching, though Companions' views carry weight"
+        },
+        {
+          "issue": "Malik and Zayd ibn Aslam use 'an (عَنْ) as transmission term, which is ambiguous",
+          "impact": "Minor concern as both narrators are highly reliable and not known for problematic tadlis"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Nature of charity as purification from wealth",
+        "Companion's view on charity being the filth of people",
+        "Incident showing Companion's reluctance to benefit from charity",
+        "Dialogue between Aslam and 'Abdullah ibn al-Arqam about charity"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ أَبِيهِ ، أَنَّهُ قَالَ : قَالَ عَبْدُ اللَّهِ بْنُ الْأَرْقَمِ : \" ادْلُلْنِي عَلَى بَعِيرٍ مِنَ الْمَطَايَا أَسْتَحْمِلُ عَلَيْهِ أَمِيرَ الْمُؤْمِنِينَ \" ، فَقُلْتُ : نَعَمْ ، جَمَلًا مِنَ الصَّدَقَةِ ، فَقَالَ عَبْدُ اللَّهِ بْنُ الْأَرْقَمِ : \" أَتُحِبُّ أَنَّ رَجُلًا بَادِنًا فِي يَوْمٍ حَارٍّ غَسَلَ لَكَ مَا تَحْتَ إِزَارِهِ وَرُفْغَيْهِ ثُمَّ أَعْطَاكَهُ فَشَرِبْتَهُ ؟ \" قَالَ : فَغَضِبْتُ ، وَقُلْتُ : يَغْفِرُ اللَّهُ لَكَ ، أَتَقُولُ لِي مِثْلَ هَذَا ؟ فَقَالَ عَبْدُ اللَّهِ بْنُ الْأَرْقَمِ : \" إِنَّمَا الصَّدَقَةُ أَوْسَاخُ النَّاسِ يَغْسِلُونَهَا عَنْهُمْ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "2367",
+      "grade": "Sahih as mawquf"
+    },
+    {
+      "hadith_id": 10075,
+      "english_translation": "Narrated from Zayd ibn Aslam, from his father, that 'Umar ibn al-Khattab appointed a freed slave of his called Hunayy over the protected grazing land (al-Hima). He said: 'O Hunayy, restrain your wing from the people, and fear the supplication of the oppressed, for indeed the supplication of the oppressed is answered. And allow in the owner of the small flock and the owner of the small herd. And beware concerning the livestock of the son of 'Affan and the livestock of the son of 'Awf, for indeed if their livestock perish, they will return to crops and date-palms. But indeed the owner of the small flock and the owner of the small herd, if their livestock perish, will come to me with his children saying: O Commander of the Believers! O Commander of the Believers! Shall I have no father but you? So the water and pasture are easier for me than gold and silver. And by Allah, indeed they see that I have wronged them - it is their lands and their waters which they fought for in the Jahiliyyah and embraced Islam upon in Islam. By the One in Whose Hand is my soul, were it not for the wealth which I carry upon it in the way of Allah, I would not have protected from them a handspan of their lands.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Narrator",
+              "full_name": "Unspecified narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 1-2, generally acceptable"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-'Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aslam",
+              "full_name": "Aslam mawla 'Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Umar ibn al-Khattab",
+              "full_name": "'Umar ibn al-Khattab ibn Nufayl al-'Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Narrator -> Malik ibn Anas -> Zayd ibn Aslam -> Aslam -> 'Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration - it records the statement and action of 'Umar ibn al-Khattab, not the Prophet ﷺ",
+          "impact": "While it is a sound report from a Companion showing his practice and wisdom in governance, it is not a prophetic hadith"
+        },
+        {
+          "issue": "Malik and Zayd ibn Aslam use 'an (عَنْ) as transmission term",
+          "impact": "Minor concern as both are highly reliable narrators and 'an from them is generally acceptable"
+        },
+        {
+          "issue": "Anna (أَنَّ) is used for 'Umar's report which can indicate indirect transmission",
+          "impact": "Minimal as Aslam was 'Umar's freed slave and direct companion who would have witnessed this"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of 'Umar appointing Hunayy over protected grazing land",
+        "'Umar's advice on just governance",
+        "Warning about the supplication of the oppressed",
+        "Care for the poor and their livestock",
+        "'Umar's concern for social justice",
+        "Rights of people to their ancestral lands",
+        "Use of protected lands for jihad purposes"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ أَبِيهِ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ اسْتَعْمَلَ مَوْلًى لَهُ يُدْعَى هُنَيًّا عَلَى الْحِمَى ، فَقَالَ : يَا هُنَيُّ \" اضْمُمْ جَنَاحَكَ عَنِ النَّاسِ ، وَاتَّقِ دَعْوَةَ الْمَظْلُومِ ، فَإِنَّ دَعْوَةَ الْمَظْلُومِ مُجَابَةٌ ، وَأَدْخِلْ رَبَّ الصُّرَيْمَةِ وَرَبَّ الْغُنَيْمَةِ ، وَإِيَّايَ وَنَعَمَ ابْنِ عَفَّانَ ، وَنَعَمَ وَابْنِ عَوْفٍ فَإِنَّهُمَا إِنْ تَهْلِكْ مَاشِيَتُهُمَا يَرْجِعَا إِلَى زَرْعٍ وَنَخْلٍ ، وَإِنَّ رَبَّ الصُّرَيْمَةِ وَرب الْغُنَيْمَةِ إِنْ تَهْلِكْ مَاشِيَتُهُما يَأْتِنِي بِبَنِيهِ ، فَيَقُولُ : يَا أَمِيرَ الْمُؤْمِنِينَ ! يَا أَمِيرَ الْمُؤْمِنِينَ ! أَنَا لَا أَبَا لَكَ فَالْمَاءُ وَالْكَلَأُ أَيْسَرُ عَلَيَّ مِنَ الذَّهَبِ وَالْوَرِقِ ، وَايْمُ اللَّهِ إِنَّهُمْ لَيَرَوْنَ أَنِّي قَدْ ظَلَمْتُهُمْ إِنَّهَا لَبِلَادُهُمْ وَمِيَاهُهُمْ ، قَاتَلُوا عَلَيْهَا فِي الْجَاهِلِيَّةِ وَأَسْلَمُوا عَلَيْهَا فِي الْإِسْلَامِ ، وَالَّذِي نَفْسِي بِيَدِهِ لَوْلَا الْمَالُ الَّذِي أَحْمِلُ عَلَيْهِ فِي سَبِيلِ اللَّهِ ، مَا حَمَيْتُ عَلَيْهِمْ مِنْ بِلَادِهِمْ شِبْرًا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "2371",
+      "grade": "Sahih as mawquf"
+    },
+    {
+      "hadith_id": 10077,
+      "english_translation": "Narrated from Ibn Shihab (al-Zuhri), from Muhammad ibn Jubayr ibn Mut'im, that the Prophet ﷺ said: 'I have five names: I am Muhammad, and I am Ahmad, and I am al-Mahi (the Eraser) by whom Allah erases disbelief, and I am al-Hashir (the Gatherer) at whose feet people will be gathered, and I am al-'Aqib (the Last).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn 'Ubaydullah ibn 'Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 3 according to some scholars, though highly reliable and his 'an is generally accepted by majority"]
+            },
+            {
+              "name": "Muhammad ibn Jubayr ibn Mut'im",
+              "full_name": "Muhammad ibn Jubayr ibn Mut'im ibn 'Adiyy al-Nawfali al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Possible implied narrator - his father Jubayr ibn Mut'im (Companion) may be the implied source"]
+            },
+            {
+              "name": "Jubayr ibn Mut'im (implied)",
+              "full_name": "Jubayr ibn Mut'im ibn 'Adiyy ibn Nawfal al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "[implied]",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["The father Jubayr ibn Mut'im (the Companion) is implied but not explicitly mentioned in this wording", "Al-Zuhri uses 'an (عَنْ) and he is classified as a mudallis by some scholars"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Muhammad ibn Jubayr ibn Mut'im -> [implied: Jubayr ibn Mut'im] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri uses 'an (عَنْ) and is classified as category 3 mudallis by some scholars (particularly Ibn Hajar), though he is considered highly reliable by the vast majority",
+          "impact": "While al-Zuhri's 'an is generally accepted due to his extreme reliability, some scholars prefer explicit transmission terms from him. This is a minor technical concern."
+        },
+        {
+          "issue": "The Companion Jubayr ibn Mut'im (the father) is implied but not explicitly mentioned - the wording goes directly from Muhammad ibn Jubayr to the Prophet ﷺ",
+          "impact": "In well-known hadiths like this, the intermediate Companion is often understood, but the lack of explicit mention creates a technical ambiguity. In other narrations of this hadith, Jubayr ibn Mut'im is explicitly mentioned."
+        },
+        {
+          "issue": "Anna (أَنَّ) is used which can indicate indirect transmission",
+          "impact": "Minor concern as this is a common transmission form, though it's less explicit than 'sami'tu' or 'haddathana'"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Five names of the Prophet ﷺ",
+        "Meaning of the name Muhammad",
+        "Meaning of the name Ahmad",
+        "Prophet ﷺ as the eraser of disbelief (al-Mahi)",
+        "Prophet ﷺ as the gatherer of people (al-Hashir)",
+        "Prophet ﷺ as the last prophet (al-'Aqib)"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِكٌ ، عَنْ ابْنِ شِهَابٍ ، عَنْ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : لِي خَمْسَةُ أَسْمَاءٍ أَنَا مُحمّدُ ، وَأَنا أَحْمَدُ ، وَأَنَا الْمَاحِي الّذِي يَمْحُو اللَّهُ بِي الْكُفْرَ ، وَأَنَا الْحَاشِرُ الّذِي يُحْشَرُ النّاسُ عَلَى قَدَمَيَّ ، وَأَنَا الْعَاقِبُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "2373",
+      "grade": "Sahih (with minor chain ambiguity)"
+    },
+    {
+      "hadith_id": 10080,
+      "english_translation": "Ibn Wahb narrated from Malik ibn Anas, from 'Amr ibn Yahya ibn 'Umarah ibn Abi Hasan al-Mazini, from his father Yahya, that he heard his grandfather Abu Hasan asking 'Abdullah ibn Zayd ibn 'Asim - and he was from the Companions of the Messenger of Allah ﷺ and he was the grandfather of 'Amr ibn Yahya: Can you show me how the Messenger of Allah ﷺ used to perform wudu? 'Abdullah said: Yes. He said: 'So 'Abdullah called for wudu water, then he poured upon his hands and washed his hands twice, twice. Then he rinsed his mouth and sniffed water and blew it out thrice. Then he washed his face thrice. Then he washed his hands up to the elbows twice, twice. Then he wiped his head with his hands, going forward and backward with them. He began from the front of his head until he went with them to the nape of his neck, then he brought them back until he returned with them to the place from which he began. Then he washed his feet.' Malik said: And 'Abd al-'Aziz ibn Abi Salamah is the best that we have heard regarding this, and the most general with us concerning wiping the head - this.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "'Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": ["mudallis - category 1-2, generally acceptable"]
+            },
+            {
+              "name": "'Amr ibn Yahya al-Mazini",
+              "full_name": "'Amr ibn Yahya ibn 'Umarah ibn Abi Hasan al-Mazini al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn 'Umarah",
+              "full_name": "Yahya ibn 'Umarah ibn Abi Hasan al-Mazini al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hasan (grandfather)",
+              "full_name": "'Umarah ibn Abi Hasan al-Mazini al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Abdullah ibn Zayd ibn 'Asim",
+              "full_name": "'Abdullah ibn Zayd ibn 'Asim ibn Ka'b al-Mazini al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "يَسْأَلُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Malik ibn Anas -> 'Amr ibn Yahya al-Mazini -> Yahya ibn 'Umarah -> Abu Hasan ('Umarah) -> 'Abdullah ibn Zayd ibn 'Asim -> Prophet Muhammad ﷺ (by demonstration)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik and 'Amr ibn Yahya use 'an (عَنْ) as transmission term",
+          "impact": "Very minor concern as these are highly reliable narrators and Malik is only a category 1-2 mudallis whose 'an is generally accepted"
+        },
+        {
+          "issue": "The hadith describes a practical demonstration rather than verbal narration - Abdullah ibn Zayd showed how the Prophet ﷺ performed wudu",
+          "impact": "No negative impact - this is actually stronger as it's a practical demonstration, though technically different from verbal hadith transmission"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Description of the Prophet's ﷺ method for wudu",
+        "Incident where Companion demonstrated the Prophet's ﷺ wudu",
+        "Washing hands before wudu",
+        "Rinsing mouth and nose in wudu",
+        "Washing face in wudu",
+        "Washing arms to elbows in wudu",
+        "Method of wiping the head in wudu",
+        "Washing feet in wudu",
+        "Number of times to wash each body part in wudu"
+      ],
+      "arabicText": "قَالَ ابْنُ وَهْبٍ : عن مَالِكِ بْنِ أَنَسٍ ، عن عَمْرِو بْنِ يَحْيَى بْنِ عُمَارَةَ بْنِ أَبِي حَسَنٍ الْمَازِنِيِّ ، عن أَبِيهِ يَحْيَى ، أَنَّهُ سَمِعَ جَدَّهُ أَبَا حَسَنٍ يَسْأَلُ عَبْدَ اللَّهِ بْنَ زَيْدِ بْنِ عَاصِمٍ , وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ جَدُّ عَمْرِو بْنِ يَحْيَى : هَلْ تَسْتَطِيعُ أَنْ تُرِيَنِي كَيْفَ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَتَوَضَّأُ ؟ قَالَ عَبْدُ اللَّهِ : نَعَمْ , قَالَ : \" فَدَعَا عَبْدُ اللَّهِ بِوَضُوءٍ ، فَأَفْرَغَ عَلَى يَدَيْهِ ، فَغَسَلَ يَدَيْهِ مَرَّتَيْنِ مَرَّتَيْنِ ، ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ ثَلَاثًا ، ثُمَّ غَسَلَ وَجْهَهُ ثَلَاثًا ، ثُمَّ غَسَلَ يَدَيْهِ إِلَى الْمَرْفِقَيْنِ مَرَّتَيْنِ مَرَّتَيْنِ , ثُمَّ مَسَحَ رَأْسَهُ بِيَدَيْهِ ، فَأَقْبَلَ وَأَدْبَرَ بِهِمَا , بَدَأَ مِنْ مُقَدَّمِ رَأْسِهِ حَتَّى ذَهَبَ بِهِمَا إِلَى قَفَاهُ ، ثُمَّ رَدَّهُمَا حَتَّى رَجَعَ بِهِمَا إِلَى الْمَكَانِ الَّذِي مِنْهُ بَدَأَ , ثُمَّ غَسَلَ رِجْلَيْهِ \" , قَالَ مَالِكٌ : وَعَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ أَحْسَنُ مَا سَمِعنا فِي ذَلِكَ وَأَعَمُّهُ عندَنَا فِي مَسْحِ الرَّأْسِ هَذَا",
+      "collection": "Muwatta Malik",
+      "reference_number": "3",
+      "grade": "Sahih"
+    }
+  ]
+}

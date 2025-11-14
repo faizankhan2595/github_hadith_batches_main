@@ -1,0 +1,465 @@
+{
+  "batch_number": 2,
+  "file_number": 29,
+  "processed_count": 8,
+  "hadiths": [
+    {
+      "hadith_id": 9421,
+      "collection": "Muwatta Malik",
+      "reference_number": "1717",
+      "arabicText": "قَالَ /22 يَحْيَى /22 : حَدَّثَنَا /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" لَا يَغْلَقُ الرَّهْنُ \" /27 . قَالَ /12 مَالِك /12 : /10 وَتَفْسِيرُ ذَلِكَ فِيمَا نُرَى وَاللَّهُ أَعْلَمُ : أَنْ يَرْهَنَ الرَّجُلُ الرَّهْنَ عِنْدَ الرَّجُلِ بِالشَّيْءِ وَفِي الرَّهْنِ فَضْلٌ عَمَّا رُهِنَ بِهِ ، فَيَقُولُ الرَّاهِنُ لِلْمُرْتَهِنِ : إِنْ جِئْتُكَ بِحَقِّكَ إِلَى أَجَلٍ يُسَمِّيهِ لَهُ ، وَإِلَّا فَالرَّهْنُ لَكَ بِمَا رُهِنَ فِيهِ ، قَالَ : فَهَذَا لَا يَصْلُحُ وَلَا يَحِلُّ ، وَهَذَا الَّذِي نُهِيَ عَنْهُ ، وَإِنْ جَاءَ صَاحِبُهُ بِالَّذِي رَهَنَ بِهِ بَعْدَ الْأَجَلِ ، فَهُوَ لَهُ ، وَأُرَى هَذَا الشَّرْطَ مُنْفَسِخًا /10 *",
+      "english_translation": "Narrated that the Messenger of Allah ﷺ said: 'The pledge (collateral) cannot be forfeited.' Malik said: 'The interpretation of this, as we understand it - and Allah knows best - is that a man pledges something to another man, and in the pledge there is excess value beyond what it was pledged for. The pledger says to the pledge-holder: If I bring you your due by a deadline he names for him, otherwise the pledge is yours for what was pledged in it.' He said: 'This is not proper and not lawful, and this is what was forbidden. Even if the owner comes with what he pledged for after the deadline, it is his, and I see this condition as null and void.'",
+      "chains": [
+        {
+          "type": "mursal (disconnected)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 2-3 per Ibn Hajar, though highly reliable)"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "Tabi'i who did not meet the Prophet ﷺ - creates mursal"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mursal hadith - Sa'id ibn al-Musayyab is a Tabi'i (Second Generation) who did not meet the Prophet ﷺ",
+            "Missing companion intermediary between Sa'id and the Prophet",
+            "Al-Zuhri uses 'an (عَنْ) and is known for tadlis category 2-3",
+            "Sa'id uses 'anna (أَنَّ) indicating indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Muhammad ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab -> Prophet Muhammad ﷺ (disconnected/mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - Sa'id ibn al-Musayyab did not meet the Prophet ﷺ, missing companion intermediary",
+          "impact": "This is a fundamental disconnection in the chain. Mursal hadiths are classified as weak (da'if) according to the majority of hadith scholars, though Sa'id ibn al-Musayyab's mursal reports are among the strongest of mursal narrations according to some scholars. Nevertheless, the chain is technically broken."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis (category 2-3 according to Ibn Hajar) and uses 'an (عَنْ)",
+          "impact": "Al-Zuhri is known for tadlis, though his case is debated. He is extremely reliable overall and most scholars accept his narrations even with 'an. However, the use of an indirect transmission term adds slight ambiguity. Given his high status (Thiqah Thabt), this is a minor concern but should be noted."
+        },
+        {
+          "issue": "Sa'id ibn al-Musayyab uses 'anna (أَنَّ) - an indirect transmission indicator",
+          "impact": "The use of 'anna further confirms the mursal nature and indirect transmission, as it typically indicates the narrator did not hear the narration directly from the source mentioned."
+        },
+        {
+          "issue": "Malik adds extensive commentary/interpretation after the hadith text",
+          "impact": "This suggests the original hadith text was brief and required explanation. The inclusion of Malik's ijtihad indicates the statement may have been unclear or needed contextual understanding."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Pledge and Collateral in Financial Transactions",
+        "Prohibition of Forfeiture Conditions",
+        "Rights of the Pledger and Pledge-Holder"
+      ]
+    },
+    {
+      "hadith_id": 9423,
+      "collection": "Muwatta Malik",
+      "reference_number": "1719",
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِيمَنْ رَهَنَ حَائِطًا لَهُ إِلَى أَجَلٍ مُسَمًّى ، فَيَكُونُ ثَمَرُ ذَلِكَ الْحَائِطِ قَبْلَ ذَلِكَ الْأَجَلِ : إِنَّ الثَّمَرَ لَيْسَ بِرَهْنٍ مَعَ الْأَصْلِ ، إِلَّا أَنْ يَكُونَ اشْتَرَطَ ذَلِكَ الْمُرْتَهِنُ فِي رَهْنِهِ ، وَإِنَّ الرَّجُلَ إِذَا ارْتَهَنَ جَارِيَةً وَهِيَ حَامِلٌ أَوْ حَمَلَتْ بَعْدَ ارْتِهَانِهِ إِيَّاهَا إِنَّ وَلَدَهَا مَعَهَا . قَالَ /12 مَالِك /12 : /10 وَفُرِقَ بَيْنَ الثَّمَرِ وَبَيْنَ وَلَدِ الْجَارِيَةِ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَنْ بَاعَ نَخْلًا قَدْ أُبِّرَتْ ، فَثَمَرُهَا لِلْبَائِعِ ، إِلَّا أَنْ يَشْتَرِطَهُ الْمُبْتَاعُ \" . قَالَ : وَالْأَمْرُ الَّذِي لَا اخْتِلَافَ فِيهِ عِنْدَنَا ، أَنَّ مَنْ بَاعَ وَلِيدَةً أَوْ شَيْئًا مِنَ الْحَيَوَانِ وَفِي بَطْنِهَا جَنِينٌ ، أَنَّ ذَلِكَ الْجَنِينَ لِلْمُشْتَرِي اشْتَرَطَهُ الْمُشْتَرِي أَوْ لَمْ يَشْتَرِطْهُ ، فَلَيْسَتِ النَّخْلُ مِثْلَ الْحَيَوَانِ وَلَيْسَ الثَّمَرُ مِثْلَ الْجَنِينِ فِي بَطْنِ أُمِّهِ /10 . قَالَ /12 مَالِك /12 : /10 وَمِمَّا يُبَيِّنُ ذَلِكَ أَيْضًا ، أَنَّ مِنْ أَمْرِ النَّاسِ أَنْ يَرْهَنَ الرَّجُلُ ثَمَرَ النَّخْلِ ، وَلَا يَرْهَنُ النَّخْلَ ، وَلَيْسَ يَرْهَنُ أَحَدٌ مِنَ النَّاسِ جَنِينًا فِي بَطْنِ أُمِّهِ مِنَ الرَّقِيقِ وَلَا مِنَ الدَّوَابِّ /10 . #\"E377",
+      "english_translation": "Yahya said: I heard Malik saying about one who pledges his garden/orchard to a specified term, and the fruit of that garden comes before that term: 'The fruit is not part of the pledge with the original property, unless the pledge-holder stipulated that in his pledge. And when a man takes a slave-girl as pledge while she is pregnant, or she becomes pregnant after he takes her as pledge, her child is with her in the pledge, and he does not take it out from the pledge.'",
+      "chains": [
+        {
+          "type": "mawquf (stopped at Malik - legal opinion)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith from the Prophet ﷺ - it is Malik's legal opinion (fiqh)",
+            "Mawquf statement stopped at Imam Malik"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (legal opinion, not prophetic hadith)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Not a prophetic hadith - this is Malik's jurisprudential opinion (ra'y)",
+          "impact": "This statement does not trace back to the Prophet ﷺ or any companion. It represents Imam Malik's legal reasoning (ijtihad) on the matter of pledges. While valuable for understanding Maliki fiqh, it cannot be graded using hadith methodology as it is not a hadith."
+        }
+      ],
+      "IISGrade": "Not Applicable - Legal Opinion (Mawquf)",
+      "Topics": [
+        "Fruits and Produce of Pledged Property",
+        "Offspring of Pledged Slaves",
+        "Stipulations in Pledge Contracts"
+      ]
+    },
+    {
+      "hadith_id": 9425,
+      "collection": "Muwatta Malik",
+      "reference_number": "1721",
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ الَّذِي لَا اخْتِلَافَ فِيهِ عِنْدَنَا فِي الرَّهْنِ ، أَنَّ مَا كَانَ مِنْ أَمْرٍ يُعْرَفُ هَلَاكُهُ مِنْ أَرْضٍ أَوْ دَارٍ أَوْ حَيَوَانٍ ، فَهَلَكَ فِي يَدِ الْمُرْتَهِنِ وَعُلِمَ هَلَاكُهُ ، فَهُوَ مِنَ الرَّاهِنِ ، وَإِنَّ ذَلِكَ لَا يَنْقُصُ مِنْ حَقِّ الْمُرْتَهِنِ شَيْئًا ، وَمَا كَانَ مِنْ رَهْنٍ يَهْلِكُ فِي يَدِ الْمُرْتَهِنِ فَلَا يُعْلَمُ هَلَاكُهُ إِلَّا بِقَوْلِهِ ، فَهُوَ مِنَ الْمُرْتَهِنِ ، وَهُوَ لِقِيمَتِهِ ضَامِنٌ ، يُقَالُ لَهُ : صِفْهُ ، فَإِذَا وَصَفَهُ أُحْلِفَ عَلَى صِفَتِهِ وَتَسْمِيَةِ مَالِهِ فِيهِ ، ثُمَّ يُقَوِّمُهُ أَهْلُ الْبَصَرِ بِذَلِكَ ، فَإِنْ كَانَ فِيهِ فَضْلٌ عَمَّا سَمَّى فِيهِ الْمُرْتَهِنُ ، أَخَذَهُ الرَّاهِنُ ، وَإِنْ كَانَ أَقَلَّ مِمَّا سَمَّى أُحْلِفَ الرَّاهِنُ عَلَى مَا سَمَّى الْمُرْتَهِنُ ، وَبَطَلَ عَنْهُ الْفَضْلُ الَّذِي سَمَّى الْمُرْتَهِنُ فَوْقَ قِيمَةِ الرَّهْنِ ، وَإِنْ أَبَى الرَّاهِنُ أَنْ يَحْلِفَ ، أُعْطِيَ الْمُرْتَهِنُ مَا فَضَلَ بَعْدَ قِيمَةِ الرَّهْنِ ، فَإِنْ قَالَ الْمُرْتَهِنُ : لَا عِلْمَ لِي بِقِيمَةِ الرَّهْنِ ، حُلِّفَ الرَّاهِنُ عَلَى صِفَةِ الرَّهْنِ ، وَكَانَ ذَلِكَ لَهُ إِذَا جَاءَ بِالْأَمْرِ الَّذِي لَا يُسْتَنْكَرُ /10 . قَالَ /12 مَالِك /12 : /10 وَذَلِكَ إِذَا قَبَضَ الْمُرْتَهِنُ الرَّهْنَ ، وَلَمْ يَضَعْهُ عَلَى يَدَيْ غَيْرِهِ /10 . #",
+      "english_translation": "Yahya said: I heard Malik saying: 'The matter about which there is no disagreement among us regarding the pledge is that whatever can be known to have perished - whether land, house, or animal - and it perished in the hand of the pledge-holder and its destruction was known, then it is from (the loss of) the pledger, and this does not decrease anything from the right of the pledge-holder. And whatever pledge perishes in the hand of the pledge-holder and its destruction cannot be known - such as a gem, or a garment, or any goods like that - then the pledge-holder swears by Allah that it perished and he did not betray the trust, and its loss is from the pledger, and nothing of the pledge-holder's right is decreased.'",
+      "chains": [
+        {
+          "type": "mawquf (stopped at Malik - legal opinion)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith from the Prophet ﷺ - it is Malik's legal opinion representing Medinan consensus",
+            "Mawquf statement stopped at Imam Malik"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (legal opinion/ijma' report, not prophetic hadith)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Not a prophetic hadith - this is Malik's report of the consensus position in Medina",
+          "impact": "While Malik frames this as 'the matter about which there is no disagreement among us,' it is still jurisprudential opinion rather than prophetic hadith. It represents the Medinan school's position on pledges. Cannot be graded as a hadith."
+        }
+      ],
+      "IISGrade": "Not Applicable - Legal Opinion (Mawquf)",
+      "Topics": [
+        "Liability for Destruction of Pledged Property",
+        "Oath of the Pledge-Holder Regarding Lost Items",
+        "Distinguishing Between Verifiable and Unverifiable Loss"
+      ]
+    },
+    {
+      "hadith_id": 9427,
+      "collection": "Muwatta Malik",
+      "reference_number": "1723",
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِي الرَّجُلَيْنِ يَكُونُ لَهُمَا رَهْنٌ بَيْنَهُمَا ، فَيَقُومُ أَحَدُهُمَا بِبَيْعِ رَهْنِهِ وَقَدْ كَانَ الْآخَرُ أَنْظَرَهُ بِحَقِّهِ سَنَةً ، قَالَ : /10 إِنْ كَانَ يَقْدِرُ عَلَى أَنْ يُقْسَمَ الرَّهْنُ وَلَا يَنْقُصَ حَقُّ الَّذِي أَنْظَرَهُ بِحَقِّهِ ، بِيعَ لَهُ نِصْفُ الرَّهْنِ الَّذِي كَانَ بَيْنَهُمَا فَأُوفِيَ حَقَّهُ ، وَإِنْ خِيفَ أَنْ يَنْقُصَ حَقُّهُ بِيعَ الرَّهْنُ كُلُّهُ ، فَأُعْطِيَ الَّذِي قَامَ بِبَيْعِ رَهْنِهِ حَقَّهُ مِنْ ذَلِكَ ، فَإِنْ طَابَتْ نَفْسُ الَّذِي أَنْظَرَهُ بِحَقِّهِ أَنْ يَدْفَعَ نِصْفَ الثَّمَنِ إِلَى الرَّاهِنِ ، وَإِلَّا حُلِّفَ الْمُرْتَهِنُ أَنَّهُ مَا أَنْظَرَهُ إِلَّا لِيُوقِفَ لِي رَهْنِي عَلَى هَيْئَتِهِ ، ثُمَّ أُعْطِيَ حَقَّهُ عَاجِلًا /10 . قَالَ : وَسَمِعْتُ /22 مَالِكًا /22 يَقُولُ ، فِي الْعَبْدِ يَرْهَنُهُ سَيِّدُهُ وَلِلْعَبْدِ مَالٌ : /10 إِنَّ مَالَ الْعَبْدِ لَيْسَ بِرَهْنٍ ، إِلَّا أَنْ يَشْتَرِطَهُ الْمُرْتَهِنُ /10 . #1E378",
+      "english_translation": "Yahya said: I heard Malik saying about two men who have a pledge between them, then one of them seeks to sell his share of the pledge while the other had granted him respite for his due for a year. He said: 'If it is possible to divide the pledge and the right of the one who granted respite is not decreased, then half of the pledge that was between them is sold for him and his right is fulfilled. But if it is feared that the division would decrease the value of the pledge, then nothing is sold until the term of the one who granted respite arrives.'",
+      "chains": [
+        {
+          "type": "mawquf (stopped at Malik - legal opinion)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith from the Prophet ﷺ - it is Malik's legal opinion",
+            "Mawquf statement stopped at Imam Malik"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (legal opinion, not prophetic hadith)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Not a prophetic hadith - this is Malik's jurisprudential reasoning on a specific case",
+          "impact": "This represents Imam Malik's legal opinion (ra'y) on a complex matter involving joint pledges and different payment terms. It is valuable for understanding Maliki fiqh but cannot be evaluated as a hadith from the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Not Applicable - Legal Opinion (Mawquf)",
+      "Topics": [
+        "Joint Ownership of Pledged Property",
+        "Selling Shares of a Pledge",
+        "Rights of Creditors with Different Payment Terms"
+      ]
+    },
+    {
+      "hadith_id": 9429,
+      "collection": "Muwatta Malik",
+      "reference_number": "1725",
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِيمَنِ ارْتَهَنَ مَتَاعًا ، فَهَلَكَ الْمَتَاعُ عِنْدَ الْمُرْتَهِنِ وَأَقَرَّ الَّذِي عَلَيْهِ الْحَقُّ بِتَسْمِيَةِ الْحَقِّ وَاجْتَمَعَا عَلَى التَّسْمِيَةِ وَتَدَاعَيَا فِي الرَّهْنِ ، فَقَالَ الرَّاهِنُ : قِيمَتُهُ عِشْرُونَ دِينَارًا ، وَقَالَ الْمُرْتَهِنُ : قِيمَتُهُ عَشَرَةُ دَنَانِيرَ ، وَالْحَقُّ الَّذِي لِلرَّجُلِ فِيهِ عِشْرُونَ دِينَارًا ، قَالَ /12 مَالِك /12 : /10 يُقَالُ لِلَّذِي بِيَدِهِ الرَّهْنُ : صِفْهُ ، فَإِذَا وَصَفَهُ أُحْلِفَ عَلَيْهِ ، ثُمَّ أَقَامَ تِلْكَ الصِّفَةَ أَهْلُ الْمَعْرِفَةِ بِهَا ، فَإِنْ كَانَتِ الْقِيمَةُ أَكْثَرَ مِمَّا رُهِنَ بِهِ ، قِيلَ لِلْمُرْتَهِنِ ارْدُدْ إِلَى الرَّاهِنِ بَقِيَّةَ حَقِّهِ ، وَإِنْ كَانَتِ الْقِيمَةُ أَقَلَّ مِمَّا رُهِنَ بِهِ ، أَخَذَ الْمُرْتَهِنُ بَقِيَّةَ حَقِّهِ مِنَ الرَّاهِنِ ، وَإِنْ كَانَتِ الْقِيمَةُ بِقَدْرِ حَقِّهِ ، فَالرَّهْنُ بِمَا فِيهِ /10 . # @ قَالَ /22 يَحْيَى /22 : وَسَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ عِنْدَنَا فِي الرَّجُلَيْنِ يَخْتَلِفَانِ فِي الرَّهْنِ ، يَرْهَنُهُ أَحَدُهُمَا صَاحِبَهُ ، فَيَقُولُ الرَّاهِنُ : أَرْهَنْتُكَهُ بِعَشَرَةِ دَنَانِيرَ ، وَيَقُولُ الْمُرْتَهِنُ : ارْتَهَنْتُهُ مِنْكَ بِعِشْرِينَ دِينَارًا ، وَالرَّهْنُ ظَاهِرٌ بِيَدِ الْمُرْتَهِنِ ، قَالَ : يُحَلَّفُ الْمُرْتَهِنُ حَتَّى يُحِيطَ بِقِيمَةِ الرَّهْنِ ، فَإِنْ كَانَ ذَلِكَ لَا زِيَادَةَ فِيهِ وَلَا نُقْصَانَ عَمَّا حُلِّفَ أَنَّ لَهُ فِيهِ أَخَذَهُ الْمُرْتَهِنُ بِحَقِّهِ وَكَانَ أَوْلَى بِالتَّبْدِئَةِ بِالْيَمِينِ لِقَبْضِهِ الرَّهْنَ وَحِيَازَتِهِ إِيَّاهُ ، إِلَّا أَنْ يَشَاءَ رَبُّ الرَّهْنِ أَنْ يُعْطِيَهُ حَقَّهُ الَّذِي حُلِّفَ عَلَيْهِ وَيَأْخُذَ رَهْنَهُ ، قَالَ : وَإِنْ كَانَ الرَّهْنُ أَقَلَّ مِنَ الْعِشْرِينَ الَّتِي سَمَّى ، أُحْلِفَ الْمُرْتَهِنُ عَلَى الْعِشْرِينَ   الَّتِي سَمَّى ، ثُمَّ يُقَالُ لِلرَّاهِنِ : إِمَّا أَنْ تُعْطِيَهُ الَّذِي حَلَفَ عَلَيْهِ وَتَأْخُذَ رَهْنَكَ ، وَإِمَّا أَنْ تَحْلِفَ عَلَى الَّذِي قُلْتَ أَنَّكَ رَهَنْتَهُ بِهِ ، وَيَبْطُلُ عَنْكَ مَا زَادَ الْمُرْتَهِنُ عَلَى قِيمَةِ الرَّهْنِ ، فَإِنْ حَلَفَ الرَّاهِنُ بَطَلَ ذَلِكَ عَنْهُ ، وَإِنْ لَمْ يَحْلِفْ لَزِمَهُ غُرْمُ مَا حَلَفَ عَلَيْهِ الْمُرْتَهِنُ /10 . قَالَ /12 مَالِك /12 : /10 فَإِنْ هَلَكَ الرَّهْنُ وَتَنَاكَرَا الْحَقَّ ، فَقَالَ الَّذِي لَهُ الْحَقُّ : كَانَتْ لِي فِيهِ عِشْرُونَ دِينَارًا ، وَقَالَ الَّذِي عَلَيْهِ الْحَقُّ : لَمْ يَكُنْ لَكَ فِيهِ إِلَّا عَشَرَةُ دَنَانِيرَ ، وَقَالَ الَّذِي لَهُ الْحَقُّ : قِيمَةُ الرَّهْنِ عَشَرَةُ دَنَانِيرَ ، وَقَالَ الَّذِي عَلَيْهِ الْحَقُّ : قِيمَتُهُ عِشْرُونَ دِينَارًا ، قِيلَ لِلَّذِي لَهُ الْحَقُّ : صِفْهُ ، فَإِذَا وَصَفَهُ أُحْلِفَ عَلَى صِفَتِهِ ، ثُمَّ أَقَامَ تِلْكَ الصِّفَةَ أَهْلُ الْمَعْرِفَةِ بِهَا ، فَإِنْ كَانَتْ قِيمَةُ الرَّهْنِ أَكْثَرَ مِمَّا ادَّعَى فِيهِ الْمُرْتَهِنُ أُحْلِفَ عَلَى مَا ادَّعَى ثُمَّ يُعْطَى الرَّاهِنُ مَا فَضَلَ مِنْ قِيمَةِ الرَّهْنِ ، وَإِنْ كَانَتْ قِيمَتُهُ أَقَلَّ مِمَّا يَدَّعِي فِيهِ الْمُرْتَهِنُ ، أُحْلِفَ عَلَى الَّذِي زَعَمَ أَنَّهُ لَهُ فِيهِ ، ثُمَّ قَاصَّهُ بِمَا بَلَغَ الرَّهْنُ ، ثُمَّ أُحْلِفَ الَّذِي عَلَيْهِ الْحَقُّ عَلَى الْفَضْلِ الَّذِي بَقِيَ لِلْمُدَّعَى عَلَيْهِ بَعْدَ مَبْلَغِ ثَمَنِ الرَّهْنِ ، وَذَلِكَ أَنَّ الَّذِي بِيَدِهِ الرَّهْنُ صَارَ مُدَّعِيًا عَلَى الرَّاهِنِ ، فَإِنْ حَلَفَ بَطَلَ عَنْهُ بَقِيَّةُ مَا حَلَفَ عَلَيْهِ الْمُرْتَهِنُ مِمَّا ادَّعَى فَوْقَ قِيمَةِ الرَّهْنِ ، وَإِنْ نَكَلَ لَزِمَهُ مَا بَقِيَ مِنْ حَقِّ الْمُرْتَهِنِ بَعْدَ قِيمَةِ   الرَّهْنِ /10 . #\"E379",
+      "english_translation": "Yahya said: I heard Malik saying about one who takes goods as a pledge, then the goods perish with the pledge-holder, and the one upon whom is the debt acknowledges the specification of the debt, and they agree on the specification but dispute about the pledge. The pledger says: 'Its value is twenty dinars,' and the pledge-holder says: 'Its value is ten dinars,' while the debt owed to the man is twenty dinars. He said: 'The pledger swears by Allah that its value was twenty dinars, then he has the choice: if he wishes, he gives ten dinars and takes his pledge for what remains of its value - and that is ten dinars. If he refuses, then it becomes the responsibility of the pledge-holder to swear by Allah that its value was not more than ten dinars, and it is deducted from what is upon the pledger.'",
+      "chains": [
+        {
+          "type": "mawquf (stopped at Malik - legal opinion)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith from the Prophet ﷺ - it is Malik's legal opinion on a dispute resolution",
+            "Mawquf statement stopped at Imam Malik"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (legal opinion, not prophetic hadith)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Not a prophetic hadith - this is Malik's jurisprudential ruling on a dispute scenario",
+          "impact": "This represents Imam Malik's legal reasoning on how to resolve a dispute about the value of lost pledged property. It demonstrates principles of oath-taking and burden of proof in Maliki fiqh but is not a hadith from the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Not Applicable - Legal Opinion (Mawquf)",
+      "Topics": [
+        "Dispute Resolution Regarding Value of Lost Pledges",
+        "Oath-Taking in Financial Disputes",
+        "Burden of Proof Between Pledger and Pledge-Holder"
+      ]
+    },
+    {
+      "hadith_id": 9431,
+      "collection": "Muwatta Malik",
+      "reference_number": "1727",
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ عِنْدَنَا فِي الرَّجُلِ يَسْتَكْرِي الدَّابَّةَ إِلَى الْمَكَانِ الْمُسَمَّى ثُمَّ يَتَعَدَّى ذَلِكَ الْمَكَانَ وَيَتَقَدَّمُ ، إِنَّ رَبَّ الدَّابَّةِ يُخَيَّرُ ، فَإِنْ أَحَبَّ أَنْ يَأْخُذَ كِرَاءَ دَابَّتِهِ إِلَى الْمَكَانِ الَّذِي تُعُدِّيَ بِهَا إِلَيْهِ ، أُعْطِيَ ذَلِكَ وَيَقْبِضُ دَابَّتَهُ وَلَهُ الْكِرَاءُ الْأَوَّلُ ، وَإِنْ أَحَبَّ رَبُّ الدَّابَّةِ فَلَهُ قِيمَةُ دَابَّتِهِ مِنَ الْمَكَانِ الَّذِي تَعَدَّى مِنْهُ الْمُسْتَكْرِي ، وَلَهُ الْكِرَاءُ الْأَوَّلُ إِنْ كَانَ اسْتَكْرَى الدَّابَّةَ الْبَدْأَةَ ، فَإِنْ كَانَ اسْتَكْرَاهَا ذَاهِبًا وَرَاجِعًا ثُمَّ تَعَدَّى حِينَ بَلَغَ الْبَلَدَ الَّذِي اسْتَكْرَى إِلَيْهِ ، فَإِنَّمَا لِرَبِّ الدَّابَّةِ نِصْفُ الْكِرَاءِ الْأَوَّلِ ، وَذَلِكَ أَنَّ الْكِرَاءَ نِصْفُهُ فِي الْبَدْأَةِ وَنِصْفُهُ فِي الرَّجْعَةِ ، فَتَعَدَّى الْمُتَعَدِّي بِالدَّابَّةِ وَلَمْ يَجِبْ عَلَيْهِ إِلَّا نِصْفُ الْكِرَاءِ الْأَوَّلِ ، وَلَوْ أَنَّ الدَّابَّةَ هَلَكَتْ حِينَ بَلَغَ بِهَا الْبَلَدَ الَّذِي اسْتَكْرَى إِلَيْهِ ، لَمْ يَكُنْ عَلَى الْمُسْتَكْرِي ضَمَانٌ ، وَلَمْ يَكُنْ لِلْمُكْرِي إِلَّا نِصْفُ الْكِرَاءِ ، قَالَ : وَعَلَى ذَلِكَ أَمْرُ أَهْلِ التَّعَدِّي وَالْخِلَافِ لِمَا أَخَذُوا الدَّابَّةَ عَلَيْهِ ، قَالَ : وَكَذَلِكَ أَيْضًا مَنْ أَخَذَ مَالًا قِرَاضًا مِنْ صَاحِبِهِ ، فَقَالَ لَهُ رَبُّ الْمَالِ : لَا تَشْتَرِ بِهِ حَيَوَانًا وَلَا سِلَعًا كَذَا وَكَذَا لِسِلَعٍ يُسَمِّيهَا وَيَنْهَاهُ عَنْهَا وَيَكْرَهُ أَنْ يَضَعَ مَالَهُ فِيهَا فَيَشْتَرِي الَّذِي أَخَذَ الْمَالَ الَّذِي نُهِيَ عَنْهُ ، يُرِيدُ بِذَلِكَ أَنْ يَضْمَنَ الْمَالَ وَيَذْهَبَ بِرِبْحِ صَاحِبِهِ ، فَإِذَا صَنَعَ ذَلِكَ فَرَبُّ الْمَالِ بِالْخِيَارِ ، إِنْ أَحَبَّ أَنْ يَدْخُلَ   مَعَهُ فِي السِّلْعَةِ عَلَى مَا شَرَطَا بَيْنَهُمَا مِنَ الرِّبْحِ فَعَلَ ، وَإِنْ أَحَبَّ فَلَهُ رَأْسُ مَالِهِ ضَامِنًا عَلَى الَّذِي أَخَذَ الْمَالَ وَتَعَدَّى . قَالَ : وَكَذَلِكَ أَيْضًا الرَّجُلُ يُبْضِعُ مَعَهُ الرَّجُلُ بِضَاعَةً ، فَيَأْمُرُهُ صَاحِبُ الْمَالِ أَنْ يَشْتَرِيَ لَهُ سِلْعَةً بِاسْمِهَا ، فَيُخَالِفُ فَيَشْتَرِي بِبِضَاعَتِهِ غَيْرَ مَا أَمَرَهُ بِهِ وَيَتَعَدَّى ذَلِكَ ، فَإِنَّ صَاحِبَ الْبِضَاعَةِ عَلَيْهِ بِالْخِيَارِ ، إِنْ أَحَبَّ أَنْ يَأْخُذَ مَا اشْتُرِيَ بِمَالِهِ أَخَذَهُ ، وَإِنْ أَحَبَّ أَنْ يَكُونَ الْمُبْضِعُ مَعَهُ ضَامِنًا لِرَأْسِ مَالِهِ ، فَذَلِكَ لَهُ /10 . #\u001dE380",
+      "english_translation": "Yahya said: I heard Malik saying: 'The practice among us regarding a man who rents an animal to a specified place, then exceeds that place and goes further, is that the owner of the animal has a choice: if he wishes to take the rent for his animal to the place it was exceeded to, he is given that and takes back his animal and has the original rent. And if he wishes, he may take from the one who exceeded with it what is decreased from the price of his animal by the excessive use and additional distance.'",
+      "chains": [
+        {
+          "type": "mawquf (stopped at Malik - legal opinion)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith from the Prophet ﷺ - it is Malik's legal opinion on rental contracts",
+            "Mawquf statement stopped at Imam Malik"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (legal opinion, not prophetic hadith)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Not a prophetic hadith - this is Malik's report of Medinan practice on rental violations",
+          "impact": "This represents the customary practice (amal ahl al-Madinah) as reported by Malik regarding breach of rental contracts. While it may be based on established precedents, it is not a direct hadith from the Prophet ﷺ but rather jurisprudential principle."
+        }
+      ],
+      "IISGrade": "Not Applicable - Legal Opinion (Mawquf)",
+      "Topics": [
+        "Rental Contracts for Animals",
+        "Breach of Rental Agreement Terms",
+        "Remedies for Excessive Use of Rented Property"
+      ]
+    },
+    {
+      "hadith_id": 9433,
+      "collection": "Muwatta Malik",
+      "reference_number": "1729",
+      "arabicText": "حَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، /27 أَنَّ /26 عَبْدَ الْمَلِكِ بْنَ مَرْوَانَ L5243 /26 /20 \" قَضَى فِي امْرَأَةٍ أُصِيبَتْ مُسْتَكْرَهَةً بِصَدَاقِهَا عَلَى مَنْ فَعَلَ ذَلِكَ بِهَا \" /27 . قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ عِنْدَنَا فِي الرَّجُلِ يَغْتَصِبُ الْمَرْأَةَ بِكْرًا كَانَتْ أَوْ ثَيِّبًا ، إِنَّهَا إِنْ كَانَتْ حُرَّةً فَعَلَيْهِ صَدَاقُ مِثْلِهَا ، وَإِنْ كَانَتْ أَمَةً فَعَلَيْهِ مَا نَقَصَ مِنْ ثَمَنِهَا ، وَالْعُقُوبَةُ فِي ذَلِكَ عَلَى الْمُغْتَصِبِ وَلَا عُقُوبَةَ عَلَى الْمُغْتَصَبَةِ فِي ذَلِكَ كُلِّهِ ، وَإِنْ كَانَ الْمُغْتَصِبُ عَبْدًا فَذَلِكَ عَلَى سَيِّدِهِ إِلَّا أَنْ يَشَاءَ أَنْ يُسَلِّمَهُ /10 *",
+      "english_translation": "Malik narrated to me, from Ibn Shihab, that Abd al-Malik ibn Marwan judged regarding a woman who was violated by force that her dowry (mahr) is upon the one who did that to her. Yahya said: I heard Malik saying: 'The practice among us regarding a man who violates a woman by force, whether she was a virgin or previously married, is that if she was free, then upon him is a dowry equivalent to her peers (mahr al-mithl). And if she was a slave, then upon him is her value. If he injured her, then upon him is the injury in addition to the dowry or the value if she was a slave.'",
+      "chains": [
+        {
+          "type": "mawquf (stopped at Abd al-Malik ibn Marwan - Umayyad Caliph's judgment)",
+          "narrators": [
+            {
+              "name": "Yahya (for second part)",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ/سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي/يَقُولُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "mudallis (category 2-3 per Ibn Hajar, though highly reliable)"
+              ]
+            },
+            {
+              "name": "Abd al-Malik ibn Marwan",
+              "full_name": "Abd al-Malik ibn Marwan ibn al-Hakam al-Umawi",
+              "grade": "Tabi'i/Ruler",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَضَى",
+              "reliabilityIssues": [
+                "Umayyad Caliph (ruled 685-705 CE), not a narrator but a judge whose ruling is reported"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith from the Prophet ﷺ - it is a judicial ruling (qada') by the Umayyad Caliph Abd al-Malik ibn Marwan",
+            "Al-Zuhri uses 'anna (أَنَّ) - indirect transmission",
+            "The report is about a caliph's legal judgment, not prophetic hadith",
+            "Second part is Malik's own legal opinion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "First part: Malik ibn Anas -> Ibn Shihab al-Zuhri -> Abd al-Malik ibn Marwan's judgment (athar)",
+        "Second part: Yahya ibn Yahya al-Laythi -> Malik ibn Anas (legal opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Not a prophetic hadith - this reports the judicial decision of Abd al-Malik ibn Marwan",
+          "impact": "This is an athar (report from a later authority), not a hadith. Abd al-Malik ibn Marwan was the Umayyad Caliph (685-705 CE), and this records his judicial ruling. While it may reflect earlier practice or precedent, it does not trace to the Prophet ﷺ."
+        },
+        {
+          "issue": "Al-Zuhri uses 'anna (أَنَّ) indicating indirect transmission",
+          "impact": "The use of 'anna suggests al-Zuhri did not hear this directly from Abd al-Malik ibn Marwan, adding another layer of indirection to an already non-prophetic report."
+        },
+        {
+          "issue": "Second half is explicitly Malik's legal opinion, not a narration",
+          "impact": "The latter portion beginning with 'The practice among us' is clearly Imam Malik's jurisprudential position rather than transmitted narration."
+        }
+      ],
+      "IISGrade": "Not Applicable - Athar (Caliph's Ruling) + Legal Opinion",
+      "Topics": [
+        "Incident of a Woman Violated by Force",
+        "Financial Compensation for Rape Victims",
+        "Dowry Obligation Upon the Perpetrator",
+        "Distinction Between Free and Enslaved Victims"
+      ]
+    },
+    {
+      "hadith_id": 9435,
+      "collection": "Muwatta Malik",
+      "reference_number": "1731",
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الْأَمْرُ عِنْدَنَا فِيمَنِ اسْتَهْلَكَ شَيْئًا مِنَ الْحَيَوَانِ بِغَيْرِ إِذْنِ صَاحِبِهِ ، أَنَّ عَلَيْهِ قِيمَتَهُ يَوْمَ اسْتَهْلَكَهُ ، لَيْسَ عَلَيْهِ أَنْ يُؤْخَذَ بِمِثْلِهِ مِنَ الْحَيَوَانِ ، وَلَا يَكُونُ لَهُ أَنْ يُعْطِيَ صَاحِبَهُ فِيمَا اسْتَهْلَكَ شَيْئًا مِنَ الْحَيَوَانِ ، وَلَكِنْ عَلَيْهِ قِيمَتُهُ يَوْمَ اسْتَهْلَكَهُ الْقِيمَةُ أَعْدَلُ ذَلِكَ فِيمَا بَيْنَهُمَا فِي الْحَيَوَانِ وَالْعُرُوضِ /10 . قَالَ : وَسَمِعْتُ /12 مَالِكًا /12 يَقُولُ ، فِيمَنِ اسْتَهْلَكَ شَيْئًا مِنَ الطَّعَامِ بِغَيْرِ إِذْنِ صَاحِبِهِ : /10 فَإِنَّمَا يَرُدُّ عَلَى صَاحِبِهِ مِثْلَ طَعَامِهِ بِمَكِيلَتِهِ مِنْ صِنْفِهِ ، وَإِنَّمَا الطَّعَامُ بِمَنْزِلَةِ الذَّهَبِ وَالْفِضَّةِ : إِنَّمَا يَرُدُّ مِنَ الذَّهَبِ الذَّهَبَ وَمِنَ الْفِضَّةِ الْفِضَّةَ ، وَلَيْسَ الْحَيَوَانُ بِمَنْزِلَةِ الذَّهَبِ فِي ذَلِكَ ، فَرَقَ بَيْنَ ذَلِكَ السُّنَّةُ وَالْعَمَلُ الْمَعْمُولُ بِهِ /10 . # @ قَالَ /22 يَحْيَى /22 : وَسَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 إِذَا اسْتُودِعَ الرَّجُلُ مَالًا فَابْتَاعَ بِهِ لِنَفْسِهِ وَرَبِحَ فِيهِ ، فَإِنَّ ذَلِكَ الرِّبْحَ لَهُ لِأَنَّهُ ضَامِنٌ لِلْمَالِ حَتَّى يُؤَدِّيَهُ إِلَى صَاحِبِهِ /10 . # E381",
+      "english_translation": "Yahya said: I heard Malik saying: 'The practice among us regarding one who destroys something from animals without the permission of its owner is that upon him is its value on the day he destroyed it. He is not required to provide its equivalent from animals, nor is it permissible for him to give the owner anything from animals for what he destroyed. Rather, upon him is its value on the day he destroyed it - the value in gold or silver - or the decrease in value if the animal did not die but only decreased in value from what was done to it or from something that happened to it.'",
+      "chains": [
+        {
+          "type": "mawquf (stopped at Malik - legal opinion)",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Masmudi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith from the Prophet ﷺ - it is Malik's legal opinion on compensation",
+            "Mawquf statement stopped at Imam Malik"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas (legal opinion, not prophetic hadith)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Not a prophetic hadith - this is Malik's jurisprudential position on property damage",
+          "impact": "This represents Imam Malik's legal reasoning on the principle of compensation for destroyed or damaged animals. While it may be based on general Islamic principles of justice, it is not a direct hadith from the Prophet ﷺ but rather ijtihad."
+        }
+      ],
+      "IISGrade": "Not Applicable - Legal Opinion (Mawquf)",
+      "Topics": [
+        "Compensation for Unlawfully Destroyed Animals",
+        "Monetary Value Versus Replacement in Kind",
+        "Assessment of Damages to Property"
+      ]
+    }
+  ]
+}

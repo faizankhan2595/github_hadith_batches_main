@@ -1,0 +1,845 @@
+{
+  "batch_number": 2,
+  "file_number": 90,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 10336,
+      "hadith_number": 259,
+      "english_translation": "Ibn Wahb informed me, from Yunus, from Ibn Shihab, that the Messenger of Allah ﷺ was leading the people in prayer, and there was a pit in front of them. Then a man approached who had something ugly in his eyes (visually impaired), and the people kept looking at him as he came toward them, until he reached the pit and fell into it. When the Messenger of Allah ﷺ finished (the prayer), he said: 'Whoever among you laughed, let him repeat the prayer.' And al-Layth ibn Sa'd said this (as well).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus",
+              "full_name": "Yunus ibn Yazid ibn Abi al-Najjad al-Ayli al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaidullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": [
+            "The chain ends with 'anna' (أَنَّ) suggesting indirect transmission from the Prophet",
+            "Al-Zuhri uses 'anna' which could indicate he did not directly hear this from a Companion",
+            "The chain appears disconnected (mu'allaq) as there is no explicit Companion narrator mentioned between al-Zuhri and the Prophet"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Yunus -> Ibn Shihab -> (missing link) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as a mudallis (category 3 by some scholars), and he uses 'anna' (أَنَّ) which suggests indirect transmission",
+          "impact": "While al-Zuhri is extremely reliable and his tadlis is generally not problematic, the use of 'anna' here without naming the Companion creates uncertainty in the chain"
+        },
+        {
+          "issue": "Missing link between al-Zuhri and the Prophet - no Companion is explicitly named",
+          "impact": "This makes the chain appear disconnected (munqati') or suspended (mu'allaq), significantly affecting authenticity"
+        },
+        {
+          "issue": "Yunus narrates from al-Zuhri with 'an (عَنْ), which is generally acceptable, but adds slight ambiguity",
+          "impact": "Minor impact as both narrators are reliable"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of a man falling into a pit during prayer",
+        "Laughing during prayer",
+        "Repeating prayer due to laughter",
+        "Behavior during congregational prayer"
+      ],
+      "arabicText": "/11 قَالَ : وَأَخْبَرَنِي /22 ابْنُ وَهْبٍ /22 ، عن /94 يُونُسَ L8621 /94 ، عن /26 ابْنِ شِهَابٍ L7272 /26 , /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُصَلِّي بِالنَّاسِ وَبَيْنَ أَيْدِيهِمْ حُفْرَةٌ ، فَأَقْبَلَ رَجُلٌ وَفِي عَيْنَيْهِ شَيْءٌ قَبِيحُ الْبَصَرِ ، فَطَفِقَ الْقَوْمُ يَرْمُقُونَهُ وَهُوَ مُقْبِلٌ نَحْوَهُمْ حَتَّى إِذَا بَلَغَ الْحُفْرَةَ سَقَطَ ، فَلَمَّا انْصَرَفَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" مَنْ ضَحِكَ مِنْكُمْ فَلْيُعِدِ الصَّلَاةَ \" /27 ، وَقَالَهُ اللَّيْثُ بْنُ سَعْدٍ *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 259,
+      "grade": "Problematic"
+    },
+    {
+      "hadith_id": 10337,
+      "hadith_number": 260,
+      "english_translation": "Chapter heading: Spitting in the Mosque",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter heading on mosque etiquette"
+      ],
+      "arabicText": "الْبُصَاقُ فِي الْمَسْجِدِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 260,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 10338,
+      "hadith_number": 261,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ saw mucus or phlegm in the qiblah (direction) of the mosque, so he scraped it off - Shu'bah said: once or twice, or he commanded me and I scraped it off - then he said: 'Would any of you like to have mucus or spit in his face? When one of you prays, let him not spit in the qiblah in front of him, nor to his right, but to his left. If he does not find (a place), then let him spit like this,' and Shu'bah rubbed it with his hand on his garment. Narrated by Anas ibn Malik: The Messenger of Allah ﷺ said: 'Spitting in the mosque is a sin, and its expiation is to bury it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih al-Ru'asi al-Kufi",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Mihran",
+              "full_name": "al-Qasim ibn Mihran al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Rafi'",
+              "full_name": "Salim Abu Rafi' al-Basri",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) throughout the chain",
+            "Abu Rafi' is only Saduq level, not reaching Thiqah"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih al-Ru'asi al-Kufi",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham al-Dustuwa'i",
+              "full_name": "Hisham ibn Abi Abdullah al-Dustuwa'i al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Qatadah uses 'an (عَنْ) when narrating from Anas, and he is known as a mudallis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Waki' -> Shu'bah -> al-Qasim ibn Mihran -> Abu Rafi' -> Abu Hurayrah -> Prophet Muhammad ﷺ",
+        "Waki' -> Hisham al-Dustuwa'i -> Qatadah -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "In the first chain, Abu Rafi' is graded as Saduq rather than Thiqah, indicating acceptable but not highest reliability",
+          "impact": "This slightly lowers the overall reliability of the first chain, though the other narrators are strong"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout both chains create ambiguity about direct transmission",
+          "impact": "While most narrators are reliable, the cumulative effect of multiple 'an terms adds some uncertainty"
+        },
+        {
+          "issue": "Qatadah is classified as a mudallis (category 3), and uses 'an (عَنْ) when narrating from Anas ibn Malik",
+          "impact": "This is a known issue with Qatadah's narrations from Anas. However, some scholars accept his reports from Anas despite this, given their extensive contact. Still requires caution."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ seeing mucus on mosque wall",
+        "Etiquette of spitting during prayer",
+        "Direction for spitting while praying",
+        "Mosque cleanliness and respect",
+        "Expiation for spitting in mosque"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَا أَرَى أَنْ يَبْصُقَ الرَّجُلُ عَلَى حَصِيرِ الْمَسْجِدِ ، وَيُدَلِّكَهُ بِرِجْلِهِ ، وَلَا بَأْسَ أَنْ يَبْصُقَ تَحْتَ الْحَصِيرِ , وَإِنْ كَانَ الْمَسْجِدُ مَحْصَبًا ، فَلَا بَأْسَ أَنْ يَحْفِرَ الْحَصْبَاءَ ، فَيَبْصُقَ فِيهِ وَيَدْفِنَهُ ، وَلَا بَأْسَ أَنْ يَبْصُقَ تَحْتَ قَدَمَيْهِ ، أَوْ أَمَامَهُ ، أَوْ عن يَسَارِهِ ، أَوْ عن يَمِينِهِ , وَيُكْرَهُ أَنْ يَبْصُقَ أَمَامَهُ فِي حَائِطِ الْقِبْلَةِ ، وَلَكِنْ يَبْصُقُ أَمَامَهُ فِي الْحَصْبَاءِ وَيَدْفِنَهُ . قَالَ : وَقَالَ مَالِكٌ : إِذَا كَانَ عن يَمِينِهِ رَجُلٌ ، وَعن يَسَارِهِ رَجُلٌ فِي الصَّلَاةِ ، فَلْيَبْصُقْ أَمَامَهُ وَيَدْفِنْهُ . قَالَ وَكِيعٌ ، عن /94 شُعْبَةَ /94 ، عن /26 الْقَاسِمِ بْنِ مِهْرَانَ /26 ، عن /26 أَبِي رَافِعٍ /26 ، عن /93 أَبِي هُرَيْرَةَ /93 ، قَالَ : رَأَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /23 قَالَ شُعْبَةُ /23 : نُخَاعَةً أَوْ نُخَامَةً فِي قِبْلَةِ الْمَسْجِدِ ، فَحَكَّهَا ، قَالَ شُعْبَةُ : مَرَّةً ، أَوْ مَرَّتَيْنِ ، أَوْ أَمَرَنِي فَحَتَّتْهَا , ثُمَّ قَالَ : \" أَيُحِبُّ أَحَدُكُمْ أَنْ يُتَنَخَّمَ أَوْ يُبْصَقَ فِي وَجْهِهِ ؟ إِذَا صَلَّى أَحَدُكُمْ فَلَا يَبْصُقُ فِي الْقِبْلَةِ بَيْنَ يَدَيْهِ ، وَلَا عن يَمِينِهِ ، وَلَكِنْ عن يَسَارِهِ ، فَإِنْ لَمْ يَجِدْ فَلْيَتْفُلْ هَكَذَا \" ، وَعَرَكَهُ شُعْبَةُ بِيَدِهِ فِي ثَوْبِهِ قَالَ وَكِيعٌ ، عن /94 هِشَامٍ الدَّسْتُوَائِيِّ /94 ، عن /93 قَتَادَةَ /93 ، عن /93 أَنَسِ بْنِ مَالِكٍ /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" التَّفْلُ فِي الْمَسْجِدِ خَطِيئَةٌ ، وَكَفَّارَتُهُ أَنْ يُوَارِيَهُ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 261,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 10339,
+      "hadith_number": 262,
+      "english_translation": "Narrated by Abu Hurayrah and Abu Sa'id al-Khudri: The Messenger of Allah ﷺ said: 'None of you should spit in the qiblah direction, nor to his right, but let him spit to his left or under his left foot.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus",
+              "full_name": "Yunus ibn Yazid ibn Abi al-Najjad al-Ayli al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaidullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Humayd ibn Abd al-Rahman ibn Awf",
+              "full_name": "Humayd ibn Abd al-Rahman ibn Awf ibn Abd Awf al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "يَقُولَانِ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Ansari al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "يَقُولَانِ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Yunus -> Ibn Shihab -> Humayd ibn Abd al-Rahman -> Abu Hurayrah & Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis by some scholars, though this hadith uses 'akhbarani' (أَخْبَرَنِي) which is a strong transmission term",
+          "impact": "The use of 'akhbarani' by al-Zuhri mitigates concerns about his tadlis. This is a direct transmission term."
+        },
+        {
+          "issue": "Yunus narrates from Ibn Shihab with 'an (عَنْ), adding slight ambiguity",
+          "impact": "Minor impact as both narrators are highly reliable and well-known to have extensive contact"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Direction for spitting during prayer",
+        "Prayer etiquette",
+        "Respect for the qiblah direction"
+      ],
+      "arabicText": "/11 وَقَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 يُونُسَ L8621 /94 ، عن /26 ابْنِ شِهَابٍ L7272 /26 ، قَالَ : أَخْبَرَنِي /26 حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ L2542 /26 ، /27 سَمِعَ /93 أَبَا هُرَيْرَةَ L4396 /93 ، /15 /93 وَأَبَا سَعِيدٍ الْخُدْرِيَّ L3260 /93 /15 ، يَقُولَانِ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" لَا يَتَنَخَّمُ أَحَدُكُمْ فِي الْقِبْلَةِ ، وَلَا عن يَمِينِهِ ، وَلْيَبْصُقْ عن يَسَارِهِ ، أَوْ تَحْتَ رِجْلِهِ الْيُسْرَى \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 262,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 10340,
+      "hadith_number": 263,
+      "english_translation": "Chapter heading: On the Prayer of Children",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter heading on children's prayer"
+      ],
+      "arabicText": "فِي صَلَاةِ الصِّبْيَانِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 263,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 10341,
+      "hadith_number": 264,
+      "english_translation": "Narrated by Abdullah ibn Amr ibn al-'As and Sabrah al-Juhani, Companion of the Prophet ﷺ: The Messenger of Allah ﷺ said: 'Command the children to pray at seven years, and discipline them for it at ten years, and separate them in their sleeping places.' (This is in the hadith of Abdullah ibn Amr ibn al-'As)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ghayr Wahid (more than one narrator)",
+              "full_name": "Multiple unspecified narrators",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["majhul - unspecified narrators"]
+            },
+            {
+              "name": "Abdullah ibn Amr ibn al-'As",
+              "full_name": "Abdullah ibn Amr ibn al-'As ibn Wa'il al-Sahmi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sabrah al-Juhani",
+              "full_name": "Sabrah ibn Ma'bad al-Juhani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "(mentioned jointly)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The phrase 'ghayr wahid' (more than one) indicates unspecified narrators, creating uncertainty in the chain",
+            "Multiple uses of 'an (عَنْ) throughout the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn Wahb -> Multiple unspecified narrators -> Abdullah ibn Amr & Sabrah al-Juhani -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain contains 'ghayr wahid' (more than one narrator) which creates ambiguity - the specific narrators between Ibn Wahb and the Companions are not identified",
+          "impact": "This significantly weakens the chain as we cannot verify the reliability of the unnamed narrators. This is a form of jahala (ignorance of narrators)."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain add layers of potential indirect transmission",
+          "impact": "Combined with the unspecified narrators, this further weakens the chain's reliability"
+        },
+        {
+          "issue": "The use of 'anna' (أَنَّ) when reaching the Companions suggests possible indirect transmission",
+          "impact": "This adds to the uncertainty about whether there are additional missing links"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Age for commanding children to pray",
+        "Disciplining children regarding prayer",
+        "Separating children in sleeping arrangements",
+        "Children's religious education"
+      ],
+      "arabicText": "قَالَ : وَقَالَ /12 مَالِكٌ /12 : /10 تُؤْمَرُ الصِّبْيَانُ بِالصَّلَاةِ إِذَا أَثْغَرُوا /10 . قَالَ /22 سَحْنُونٌ /22 ، عن /26 ابْنِ وَهْبٍ L5147 /26 , عن /26 غَيْرِ وَاحِدٍ L1131 /26 ، /27 عن /93 عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ L4980 /93 ، /15 /93 وَسَبْرَةَ الْجُهَنِيِّ L3209 /93 /15 صَاحِبُ النَّبِيِّ عَلَيْهِ السَّلامُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" مُرُوا الصِّبْيَانَ بِالصَّلَاةِ لِسَبْعِ سِنِينَ ، وَاضْرِبُوهُمْ عَلَيْهَا لِعَشْرِ سِنِينَ ، وَفَرِّقُوا بَيْنَهُمْ فِي الْمَضَاجِعِ \" /27 , فِي حَدِيثِ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 264,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 10342,
+      "hadith_number": 265,
+      "english_translation": "Chapter heading: On Killing Fleas and Lice During Prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter heading on prayer matters"
+      ],
+      "arabicText": "فِي قَتْلِ الْبُرْغُوثِ وَالْقَمْلَةِ فِي الصَّلَاةِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 265,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 10343,
+      "hadith_number": 266,
+      "english_translation": "Statement of Malik: I dislike killing fleas and lice in the mosque. And Malik said: Whoever finds a louse while in prayer should not kill it in the mosque, nor throw it there, whether in prayer or not. If he is outside the mosque, there is no harm in discarding it. Narrated by 'Amir regarding a man who has a louse crawling on him during prayer, he said: 'Let him leave it alone.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Waki'",
+              "full_name": "Waki' ibn al-Jarrah ibn Malih al-Ru'asi al-Kufi",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Isra'il",
+              "full_name": "Isra'il ibn Yunus ibn Abi Ishaq al-Sabil al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir",
+              "full_name": "Jabir ibn Yazid ibn al-Harith al-Ju'fi al-Kufi",
+              "grade": "Da'if",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["da'if - considered weak by many scholars"]
+            },
+            {
+              "name": "'Amir",
+              "full_name": "'Amir ibn Sharahil al-Sha'bi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "فِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir al-Ju'fi is considered Da'if (weak) by the majority of hadith scholars",
+            "Multiple uses of 'an (عَنْ) throughout the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Waki' -> Isra'il -> Jabir al-Ju'fi -> 'Amir al-Sha'bi"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jabir ibn Yazid al-Ju'fi is graded as Da'if (weak) by the majority of hadith scholars due to reliability concerns",
+          "impact": "This significantly weakens the chain. Jabir al-Ju'fi is known for narrating problematic reports and was criticized by many scholars including Shu'bah, Sufyan al-Thawri, and others."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain create potential for indirect transmission",
+          "impact": "Combined with the weak narrator, this makes the chain problematic overall"
+        },
+        {
+          "issue": "This is a mawquf statement (stops at 'Amir al-Sha'bi, a Tabi'i), not from the Prophet ﷺ",
+          "impact": "This is only the opinion of a scholar, not a prophetic teaching, which limits its authority"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Statement of Malik on mosque etiquette",
+        "Opinion of 'Amir al-Sha'bi on handling lice during prayer",
+        "Killing insects in the mosque",
+        "Actions during prayer"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : أَكْرَهُ قَتْلَ الْبُرْغُوثِ ، وَالْقَمْلَةِ فِي الْمَسْجِدِ . قَالَ : وَقَالَ مَالِكٌ : مَنْ أَصَابَ قَمْلَةً وَهُوَ فِي الصَّلَاةِ ، فَلَا يَقْتُلْهَا فِي الْمَسْجِدِ ، وَلَا يُلْقِهَا فِيهِ ، وَلَا وَهُوَ فِي غَيْرِ الصَّلَاةِ , فَإِنْ كَانَ فِي غَيْرِ الْمَسْجِدِ ، فَلَا بَأْسَ أَنْ يَطْرَحَهَا . قَالَ /22 سَحْنُونٌ /22 ، عن وَكِيعٍ ، عن إِسْرَائِيلَ ، عن جَابِرٍ ، عن عَامِرٍ فِي الرَّجُلِ تَدِبُّ عَلَيْهِ الْقَمْلَةُ فِي الصَّلَاةِ , قَالَ : \" لِيَدَعْهَا \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 266,
+      "grade": "Problematic"
+    },
+    {
+      "hadith_id": 10344,
+      "hadith_number": 267,
+      "english_translation": "Chapter heading: Qunut in Fajr Prayer and Supplication During Prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter heading on qunut and supplication"
+      ],
+      "arabicText": "الْقُنُوتُ فِي الصُّبْحِ وَالدُّعَاءُ فِي الصَّلَاةِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 267,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 10345,
+      "hadith_number": 268,
+      "english_translation": "Statement of Malik on qunut in Fajr prayer and supplication during prayer. Malik said through 'Urwah ibn al-Zubayr: It reached me from him that he said: 'I indeed supplicate to Allah for all my needs during prayer, even for salt.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Urwah ibn al-Zubayr",
+              "full_name": "'Urwah ibn al-Zubayr ibn al-'Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["balagha - indicates broken chain"]
+            }
+          ],
+          "chainIssues": [
+            "The term 'balaghani' (بَلَغَنِي - it reached me) indicates an incomplete chain with missing narrators"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (missing link) -> 'Urwah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The use of 'balaghani' (بَلَغَنِي) by Malik indicates this is a mursal or munqati' report with missing narrators between him and 'Urwah",
+          "impact": "This creates a clear disconnection in the chain. We don't know who transmitted this from 'Urwah to Malik, making the authenticity questionable."
+        },
+        {
+          "issue": "This is a mawquf statement (stops at 'Urwah, a Tabi'i), not from the Prophet ﷺ",
+          "impact": "This is the opinion of a scholar, not a prophetic teaching, limiting its authority as evidence"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Statement of Malik on qunut timing",
+        "Opinion of 'Urwah on supplicating during prayer",
+        "Supplication for worldly needs during prayer",
+        "Qunut in Fajr prayer"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي الرَّجُلِ يَقْنُتُ فِي الصُّبْحِ قَبْلَ الرُّكُوعِ وَلَا يُكَبِّرُ لِلْقُنُوتِ . قَالَ : وَقَالَ مَالِكٌ فِي الْقُنُوتِ فِي الصُّبْحِ : كُلُّ ذَلِكَ وَاسِعٌ قَبْلَ الرُّكُوعِ وَبَعْدَ الرُّكُوعِ , قَالَ مَالِكٌ : وَالَّذِي آخُذُ بِهِ فِي خَاصَّةِ نَفْسِي قَبْلَ الرُّكُوعِ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ نَسِيَ الْقُنُوتَ فِي صَلَاةِ الصُّبْحِ , قَالَ : لَا سَهْوَ عَلَيْهِ . قَالَ مَالِكٌ : وَلَيْسَ فِي الْقُنُوتِ دُعَاءٌ مَعْرُوفٌ ، وَلَا وُقُوفٌ مُوَقَّتٌ , قَالَ مَالِكٌ : وَلَا بَأْسَ أَنْ يَدْعُوَ الرَّجُلُ بِجَمِيعِ حَوَائِجِهِ فِي الْمَكْتُوبَةِ حَوَائِجِ دُنْيَاهُ وَآخِرَتِهِ فِي الْقِيَامِ وَالْجُلُوسِ وَالسُّجُودِ , قَالَ : وَكَانَ يَكْرَهُ فِي الرُّكُوعِ . قَالَ : وَأَخْبَرَنِي مَالِكٌ ، عن عُرْوَةَ بْنِ الزُّبَيْرِ ، قَالَ : بَلَغَنِي عنهُ ، أَنَّهُ قَالَ : \" إِنِّي لَأَدْعُو اللَّهَ فِي حَوَائِجِي كُلِّهَا فِي الصَّلَاةِ حَتَّى فِي الْمِلْحِ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 268,
+      "grade": "Problematic"
+    },
+    {
+      "hadith_id": 10346,
+      "hadith_number": 269,
+      "english_translation": "Narrated by Abu Rafi': The Messenger of Allah ﷺ said: 'Ask Allah for your needs absolutely in the Fajr prayer.' Malik said: There is no harm in supplicating to Allah during prayer against the oppressor and supplicating for others, and the Messenger of Allah ﷺ supplicated in prayer for some people and against others. Another chain: While the Messenger of Allah ﷺ was supplicating against Mudar, Jibril came to him and gestured to him to be silent, so he became silent. Then he said: 'O Muhammad, Allah did not send you as one who curses and reviles, but rather sent you as a mercy and did not send you as a punishment. [Quran verse:] It is not for you [O Muhammad] of the matter at all - whether He should [cut short their lives and] forgive them or punish them, for indeed, they are wrongdoers.' Then he taught him this qunut: 'O Allah, we seek Your help, and Your forgiveness, and we believe in You, and we submit to You, and we abandon and forsake whoever disbelieves in You. O Allah, You alone we worship, and to You we pray and prostrate, and to You we hasten and compete, we hope for Your mercy and fear Your severe punishment, indeed Your severe punishment will overtake the disbelievers.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Abi Ayyub",
+              "full_name": "Sa'id ibn Abi Ayyub al-Khuza'i al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Khalid ibn Yazid",
+              "full_name": "Khalid ibn Yazid al-Iskandarani al-Misri",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Rafi'",
+              "full_name": "Aslam Abu Rafi' mawla Rasul Allah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Khalid ibn Yazid is only Saduq level, not reaching Thiqah",
+            "Multiple uses of 'an (عَنْ) throughout the chain",
+            "The use of 'anna' (أَنَّ) suggests indirect transmission"
+          ]
+        },
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Misri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mu'awiyah ibn Salih",
+              "full_name": "Mu'awiyah ibn Salih ibn Hudayr al-Hadrami al-Himsi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Qahir",
+              "full_name": "Abd al-Qahir (identity uncertain)",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["majhul - unknown narrator"]
+            },
+            {
+              "name": "Khalid ibn Abi 'Imran",
+              "full_name": "Khalid ibn Abi 'Imran al-Taji'i",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal chain - Khalid ibn Abi 'Imran is a Tabi'i and did not meet the Prophet",
+            "Abd al-Qahir is Majhul (unknown)",
+            "Multiple narrators at Saduq level rather than Thiqah",
+            "No Companion mentioned in the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Sa'id ibn Abi Ayyub -> Khalid ibn Yazid -> Abu Rafi' -> Prophet Muhammad ﷺ",
+        "Ibn Wahb -> Mu'awiyah ibn Salih -> Abd al-Qahir -> Khalid ibn Abi 'Imran -> (missing link) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "In the first chain, Khalid ibn Yazid is graded as Saduq rather than Thiqah, indicating acceptable but not highest reliability",
+          "impact": "This lowers the overall strength of the first chain, though other narrators are strong"
+        },
+        {
+          "issue": "The second chain is mursal - Khalid ibn Abi 'Imran is a Tabi'i who never met the Prophet ﷺ",
+          "impact": "This makes the second chain clearly disconnected and significantly problematic"
+        },
+        {
+          "issue": "The second chain contains Abd al-Qahir who is Majhul (unknown)",
+          "impact": "An unknown narrator in the chain makes it impossible to verify reliability"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) and 'anna' (أَنَّ) in both chains suggest potential indirect transmission",
+          "impact": "Combined with other issues, this adds uncertainty about the exact transmission path"
+        },
+        {
+          "issue": "The second chain has Mu'awiyah ibn Salih at Saduq level",
+          "impact": "Another narrator below Thiqah level further weakens the second chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Supplication during Fajr prayer",
+        "Incident of Prophet ﷺ supplicating against Mudar tribe",
+        "Jibril teaching the Prophet ﷺ",
+        "Qunut supplication wording",
+        "Allah's mercy in the Prophet's mission",
+        "Permissibility of supplicating against oppressors in prayer"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 سَعِيدِ بْنِ أَبِي أَيُّوبَ L3400 /94 ، عن /26 خَالِدِ بْنِ يَزِيدَ L2688 /26 ، /27 عن /93 أَبِي رَافِعٍ L548 /93 , أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" سَلُوا اللَّهَ حَوَائِجَكُمُ الْبَتَّةَ فِي صَلَاةِ الصُّبْحِ \" /27 , قَالَ /22 ابْنُ وَهْبٍ /22 ، قَالَ لِي /12 مَالِكٌ /12 : /10 لَا بَأْسَ بِأَنْ يَدْعُوَ اللَّهَ فِي الصَّلَاةِ عَلَى الظَّالِمِ وَيَدْعُوَ لِآخَرِينَ , وَقَدْ دَعَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الصَّلَاةِ لِأُنَاسٍ ، وَدَعَا عَلَى آخَرِينَ /10 * \r\n#E101 \r\n$106  107 /2 /143 /11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 مُعَاوِيَةَ بْنِ صَالِحٍ L7584 /94 ، عن /26 عَبْدِ الْقَاهِرِ L40058 /26 ، عن /26 خَالِدِ بْنِ أَبِي عِمْرَانَ L2619 /26 ، قَالَ : /27 \" بَيْنَمَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَدْعُو عَلَى مُضَرَ إِذْ جَاءَهُ /57 جِبْرِيلُ /57 ، فَأَوْمَأَ إِلَيْهِ أَنِ اسْكُتْ فَسَكَتَ , فَقَالَ : يَا /55 مُحَمَّدُ /55 , إِنَّ /20 اللَّهَ لَمْ يَبْعَثْكَ سَبَّابًا وَلَا لَعَّانًا ، وَإِنَّمَا بَعَثَكَ رَحْمَةً وَلَمْ يَبْعَثْكَ عَذَابًا /4 لَيْسَ لَكَ مِنَ الْأَمْرِ شَيْءٌ أَوْ يَتُوبَ عَلَيْهِمْ أَوْ يُعَذِّبَهُمْ فَإِنَّهُمْ ظَالِمُونَ /4 ، قَالَ : ثُمَّ عَلَّمَهُ هَذَا الْقُنُوتَ : \" اللَّهُمَّ إِنَّا نَسْتَعِينُكَ ، وَنَسْتَغْفِرُكَ ، وَنُؤْمِنُ بِكَ ، وَنَخْنَعُ لَكَ ، وَنَخْلَعُ وَنَتْرُكُ مَنْ يَكْفُرُكَ , اللَّهُمَّ إِيَّاكَ نَعْبُدُ ، وَلَكَ نُصَلِّي وَنَسْجُدُ ، وَإِلَيْكَ نَسْعَى وَنَحْفِدُ ، نَرْجُو رَحْمَتَكَ وَنَخَافُ عَذَابَكَ الْجِدَّ ، إِنَّ عَذَابَكَ الْجِدَّ بِالْكَافِرِينَ مُلْحِقٌ \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 269,
+      "grade": "Questionable But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 10347,
+      "hadith_number": 270,
+      "english_translation": "Chapter heading: On Repeating Prayer from the Beginning, and on Blowing (in prayer), and on Hadath (Breaking wudu), when one leaves and then realizes he did not have hadath",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter heading on prayer matters"
+      ],
+      "arabicText": "فِي إِعَادَةِ الصَّلَاةِ مِنْ أَوَّلِهَا وَمِنَ النَّفْخِ وَمِنَ الْحَدَثِ إِذَا انْصَرَفَ ، ثُمَّ تَبَيَّنَ لَهُ أَنَّهُ لَمْ يُحْدِثْ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 270,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 10348,
+      "hadith_number": 271,
+      "english_translation": "Statement of Ibn al-Qasim: We asked Malik about a man who is in prayer and thinks he has had hadath (broken wudu) or had a nosebleed, so he leaves to wash the blood or to make wudu, then it becomes clear to him after that he was not affected by any of that. He said: He returns and begins the prayer anew and does not build upon it. Malik said: Whoever has hadath after the tashahhud but before making salam must repeat the prayer.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement (stops at Malik, a scholar), not from the Prophet ﷺ",
+          "impact": "This is the legal opinion of Imam Malik, not a prophetic teaching. It has authority as scholarly opinion but not as hadith."
+        }
+      ],
+      "IISGrade": "N/A - Scholarly Opinion",
+      "Topics": [
+        "Statement of Malik on leaving prayer due to suspected wudu loss",
+        "Repeating prayer when mistake is discovered",
+        "Hadath during tashahhud",
+        "Imam breaking his prayer and its effect on followers"
+      ],
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : قُلْنَا لِمَالِكٍ فِي الرَّجُلِ يَكُونُ فِي الصَّلَاةِ ، فَيَظُنُّ أَنَّهُ قَدْ أَحْدَثَ أَوْ رَعَفَ ، فَيَنْصَرِفُ لِيَغْسِلَ الدَّمَ عنهُ أَوْ لِيَتَوَضَّأَ ، ثُمَّ تَبَيَّنَ لَهُ بَعْدَ ذَلِكَ أَنَّهُ لَمْ يُصِبْهُ مِنْ ذَلِكَ شَيْءٌ ؟ قَالَ : يَرْجِعُ فَيَسْتَأْنِفُ الصَّلَاةَ وَلَا يَبْنِي . قَالَ : فَإِنَّ قَوْلَ مَالِكٍ عندَنَا : إِنَّ الْإِمَامَ إِذَا قَطَعَ صَلَاتَهُ مُتَعَمِّدًا أَفْسَدَ عَلَى مَنْ خَلْفَهُ الصَّلَاةَ ، أَوْ كَانَ عَلَى طُهْرٍ فَصَلَّى بِهِمَا ، فَأَحْدَثَ فَتَمَادَى وَصَلَّى بِهِمْ ، فَإِنَّهُ يُفْسِدُ عَلَيْهِمْ . قَالَ : وَقَالَ مَالِكٌ : مَنْ أَحْدَثَ بَعْدَمَا تَشَهَّدَ قَبْلَ أَنْ يُسَلِّمَ أَعَادَ الصَّلَاةَ .",
+      "collection": "كتاب رقم 20",
+      "reference_number": 271,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 10349,
+      "hadith_number": 272,
+      "english_translation": "Chapter heading: Concerning one who prayed Dhuhr thinking it was Asr, or on Thursday thinking it was Friday",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter heading on prayer intention"
+      ],
+      "arabicText": "فِيمَنْ صَلَّى الظُّهْرَ ، وَظَنَّ أَنَّهُ الْعَصْرُ ، أَوْ يَوْمَ الْخَمِيسِ ، وَظَنَّ أَنَّهُ الْجُمُعَةُ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 272,
+      "grade": "N/A"
+    },
+    {
+      "hadith_id": 10350,
+      "hadith_number": 273,
+      "english_translation": "Statement of Malik: If a man came to the mosque while people were in Dhuhr prayer, but he thought they were in Asr, so he prayed intending Asr, then his prayer is invalid and he must repeat Asr. Ibn al-Qasim said, Malik said: If an imam came to the mosque thinking that people had not prayed Dhuhr, so the prayer was established and he led them in Dhuhr while they intended Asr, the prayer would be Dhuhr for the imam, and they should establish the prayer and he should lead them in Asr. He said: It reached me from Malik that he said regarding a man who came to the mosque on Thursday thinking it was Friday, and entered the mosque while the imam was in Dhuhr prayer, so he commenced prayer with him intending Jumu'ah, and the imam prayed Dhuhr four rak'ahs: I see it as sufficient for him because Jumu'ah is Dhuhr. But if he came to the mosque on Friday thinking it was Thursday, and found the imam in prayer, so he entered with him in prayer intending Dhuhr while the imam prayed Jumu'ah: He said: He must repeat his prayer, and this is my opinion.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["balagha - indicates incomplete chain in one part"]
+            }
+          ],
+          "chainIssues": [
+            "Part of this uses 'balaghani' (بَلَغَنِي) indicating an incomplete transmission path"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik (direct statement)",
+        "Ibn al-Qasim -> (missing link) -> Malik (for the balagha portion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Part of this text uses 'balaghani' (بَلَغَنِي) which indicates Ibn al-Qasim did not hear this directly from Malik",
+          "impact": "Creates some uncertainty about the accuracy of transmission for that portion"
+        },
+        {
+          "issue": "This is a mawquf statement (stops at Malik, a scholar), not from the Prophet ﷺ",
+          "impact": "This is legal opinion (fiqh) from Imam Malik, not a prophetic teaching"
+        },
+        {
+          "issue": "Ibn al-Qasim adds 'wa dhalika ra'yi' (and this is my opinion), indicating personal ijtihad",
+          "impact": "Shows that even the student's transmission includes his own reasoning"
+        }
+      ],
+      "IISGrade": "N/A - Scholarly Opinion",
+      "Topics": [
+        "Statement of Malik on prayer intention",
+        "Praying with wrong intention about prayer time",
+        "Jumu'ah and Dhuhr relationship",
+        "Validity of prayer when mistaken about the day"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَوْ أَنَّ رَجُلًا أَتَى الْمَسْجِدَ وَالْقَوْمُ فِي الظُّهْرِ ، فَظَنَّ أَنَّهُمْ فِي الْعَصْرِ ، فَصَلَّى يَنْوِي الْعَصْرَ إِنَّ صَلَاتَهُ فَاسِدَةٌ ، وَعَلَيْهِ الْإِعَادَةُ لِلْعَصْرِ . قَالَ ابْنُ الْقَاسِمِ ، قَالَ مَالِكٌ : وَلَوْ أَنَّ إِمَامًا أَتَى الْمَسْجِدَ ، فَظَنَّ أَنَّ النَّاسَ لَمْ يُصَلُّوا الظُّهْرَ ، فَأُقِيمَتِ الصَّلَاةُ ، فَصَلَّى بِهِمُ الظُّهْرَ ، وَهُمْ يُرِيدُونَ الْعَصْرَ كَانَتِ الصَّلَاةُ لِلْإِمَامِ الظُّهْرَ ، وَيُقِيمُونَ الصَّلَاةَ ، فَيُصَلِّي بِهِمُ الْعَصْرَ . قَالَ : وَبَلَغَنِي عن مَالِكٍ أَنَّهُ قَالَ فِي رَجُلٍ أَتَى الْمَسْجِدَ يَوْمَ الْخَمِيسِ وَهُوَ يَظُنُّ أَنَّهُ يَوْمُ الْجُمُعَةِ فَدَخَلَ الْمَسْجِدَ وَالْإِمَامُ فِي الظُّهْرِ فَافْتَتَحَ مَعَهُ الصَّلَاةَ يَنْوِي الْجُمُعَةَ , فَصَلَّى الْإِمَامُ الظُّهْرَ أَرْبَعًا قَالَ : أَرَاهَا مُجْزِئَةً عنهُ لِأَنَّ الْجُمُعَةَ ظُهْرٌ , وَإِنْ أَتَى الْمَسْجِدَ يَوْمَ الْجُمُعَةِ وَهُوَ يَظُنُّ أَنَّهُ يَوْمُ الْخَمِيسِ ، فَأَصَابَ الْإِمَامَ فِي الصَّلَاةِ ، فَدَخَلَ مَعَهُ فِي الصَّلَاةِ وَهُوَ يَنْوِي الظُّهْرَ صَلَّى الْإِمَامُ الْجُمُعَةَ , قَالَ : يُعِيدُ صَلَاتَهُ وَذَلِكَ رَأْيِي .",
+      "collection": "كتاب رقم 20",
+      "reference_number": 273,
+      "grade": "N/A"
+    }
+  ]
+}

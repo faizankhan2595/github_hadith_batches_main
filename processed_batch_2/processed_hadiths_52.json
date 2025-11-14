@@ -1,0 +1,1003 @@
+{
+  "batch_number": 2,
+  "file_number": 52,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9766,
+      "collection": "Muwatta Malik",
+      "reference_number": "2062",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّهُ كَانَ يَقُولُ : لَوْ رَأَيْتُ الظِّبَاءَ بِالْمَدِينَةِ تَرْتَعُ مَا ذَعَرْتُهَا ، قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَا بَيْنَ لَابَتَيْهَا حَرَامٌ \" *",
+      "english_translation": "Narrated by Abu Hurayrah: He used to say: 'If I saw gazelles grazing in Madinah, I would not startle them.' The Messenger of Allah ﷺ said: 'What is between its two lava plains is sacred.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Classified as mudallis by some scholars (category 2-3 per Ibn Hajar)"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) transmission term",
+            "Ibn Shihab al-Zuhri using 'an while classified as mudallis by some"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyib -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis (category 2-3 per Ibn Hajar) and uses 'an (عَنْ) transmission",
+          "impact": "Minor concern, but al-Zuhri is considered extremely reliable by the vast majority of scholars despite occasional tadlis. His narrations are generally accepted even with 'an."
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout the chain",
+          "impact": "Creates potential for concealed gaps, though all narrators are highly reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Sanctity of Madinah",
+        "Prohibition of hunting in Madinah's sacred precincts",
+        "Statement of Abu Hurayrah about respecting wildlife in Madinah",
+        "Boundaries of Madinah's sacred area (two lava plains)"
+      ]
+    },
+    {
+      "hadith_id": 9767,
+      "collection": "Muwatta Malik",
+      "reference_number": "2063",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ يُونُسَ بْنِ يُوسُفَ ، عَنْ عَطَاءِ بْنِ يَسَارٍ ، عَنْ أَبِي أَيُّوبَ الْأَنْصَارِيِّ ، أَنَّهُ وَجَدَ غِلْمَانًا قَدْ أَلْجَئُوا ثَعْلَبًا إِلَى زَاوِيَةٍ فَطَرَدَهُمْ عَنْهُ ، قَالَ مَالِك : لَا أَعْلَمُ إِلَّا أَنَّهُ قَالَ : \" أَفِي حَرَمِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصْنَعُ هَذَا ؟ \" * وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ رَجُلٍ ، قَالَ : دَخَلَ عَلَيَّ زَيْدُ بْنُ ثَابِتٍ وَأَنَا بِالْأَسْوَافِ \" قَدْ اصْطَدْتُ نُهَسًا ، فَأَخَذَهُ مِنْ يَدِي فَأَرْسَلَهُ \" *",
+      "english_translation": "Narrated by Abu Ayyub al-Ansari: He found some boys who had cornered a fox into a corner, so he drove them away from it, and Malik said: 'I only know that he said: Is this done in the sacred precinct of the Messenger of Allah ﷺ?' Also narrated that Zayd ibn Thabit entered upon a man at al-Aswaf who had caught a fox, and he took it from his hand and released it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus ibn Yusuf",
+              "full_name": "Yunus ibn Yusuf al-Ayli",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered truthful (saduq) but not of the highest reliability tier",
+                "May have occasional errors"
+              ]
+            },
+            {
+              "name": "Ata ibn Yasar",
+              "full_name": "Ata ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ayyub al-Ansari",
+              "full_name": "Khalid ibn Zayd ibn Kulayb al-Khazraji al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms",
+            "Yunus ibn Yusuf is Saduq level, not highest tier",
+            "Contains uncertainty marker (لَا أَعْلَمُ إِلَّا) from Malik about exact wording"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rajul (Unknown man)",
+              "full_name": "Rajul (unnamed narrator)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Completely unknown narrator (majhul al-'ayn)",
+                "Identity not specified"
+              ]
+            },
+            {
+              "name": "Zayd ibn Thabit",
+              "full_name": "Zayd ibn Thabit ibn al-Dahhak al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "دَخَلَ عَلَيَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains unknown narrator (rajul)",
+            "Broken chain due to majhul narrator",
+            "Critical weakness in chain integrity"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Yunus ibn Yusuf -> Ata ibn Yasar -> Abu Ayyub al-Ansari",
+        "Yahya -> Malik -> Unknown man -> Zayd ibn Thabit"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain: Yunus ibn Yusuf is Saduq level, not highest tier of reliability",
+          "impact": "Minor impact as he is still considered truthful, but occasional errors are possible"
+        },
+        {
+          "issue": "First chain: Malik's uncertainty about exact wording (لَا أَعْلَمُ إِلَّا أَنَّهُ قَالَ)",
+          "impact": "Minor concern about precision of the statement attributed to Abu Ayyub"
+        },
+        {
+          "issue": "Second chain contains 'rajul' (unknown man) - majhul al-'ayn",
+          "impact": "Severe impact - completely unknown narrator makes this chain weak and unreliable. This is a critical defect."
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms in both chains",
+          "impact": "Potential for concealed gaps in transmission"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Abu Ayyub stopping boys from harming a fox in Madinah",
+        "Incident of Zayd ibn Thabit releasing a captured fox",
+        "Sanctity of Madinah's precinct",
+        "Protection of wildlife in sacred areas",
+        "Actions of Companions enforcing Madinah's sanctity"
+      ]
+    },
+    {
+      "hadith_id": 9768,
+      "collection": "Muwatta Malik",
+      "reference_number": "2064",
+      "grade": null,
+      "arabicText": "بَابُ مَا جَاءَ فِي وَبَاءِ الْمَدِينَةِ",
+      "english_translation": "Chapter: What has come regarding the epidemic in Madinah. Narrated by Aishah, Mother of the Believers: She said: When the Messenger of Allah ﷺ came to Madinah, Abu Bakr and Bilal fell ill. She said: So I entered upon them and said: 'O my father, how do you find yourself? And O Bilal, how do you find yourself?' She said: When fever seized Abu Bakr, he would say: 'Every man is greeted by his family in his morning while death is closer to him than his shoelace.' And when the fever left Bilal, he would raise his voice and say: 'Would that I knew if I shall spend a night in the valley of Makkah with fragrant herbs and rushes around me? And will I one day come to the waters of Majannah? And will Shamah and Tafil appear to me?' She said: Then I came to the Messenger of Allah ﷺ and informed him, and he said: 'O Allah, make us love Madinah as we love Makkah or more. O Allah, bless us in our sa' and our mudd, and make it healthy for us, and transfer its fever to al-Juhfah.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Some scholars noted he had ikhtilat (memory confusion) later in life",
+                "Narrations from him in Iraq are sometimes questioned compared to his Hijazi narrations"
+              ]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aishah",
+              "full_name": "Aishah bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms",
+            "Hisham ibn Urwah narrating through Malik (Malik heard from Hisham in Madinah, which is considered reliable)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Aishah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hisham ibn Urwah had ikhtilat (memory confusion) later in life, particularly in his Iraqi narrations",
+          "impact": "Minor concern here since Malik heard from Hisham in Madinah before Hisham went to Iraq. Hijazi narrations from Hisham are considered reliable."
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms in the chain",
+          "impact": "Potential for concealed gaps, though all narrators are well-established to have met"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of the epidemic when the Prophet ﷺ first arrived in Madinah",
+        "Illness of Abu Bakr and Bilal",
+        "Bilal's longing for Makkah while sick",
+        "Supplication of the Prophet ﷺ for Madinah's health",
+        "Transfer of fever from Madinah to al-Juhfah",
+        "Comparison of love for Madinah and Makkah"
+      ]
+    },
+    {
+      "hadith_id": 9769,
+      "collection": "Muwatta Malik",
+      "reference_number": "2065",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ ، أَنَّهَا قَالَتْ : لَمَّا قَدِمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَدِينَةَ وُعِكَ أَبُو بَكْرٍ ، وَبِلَالٌ ، قَالَتْ : فَدَخَلْتُ عَلَيْهِمَا ، فَقُلْتُ : يَا أَبَتِ كَيْفَ تَجِدُكَ ؟ وَيَا بِلَالُ كَيْفَ تَجِدُكَ ؟ قَالَتْ : فَكَانَ أَبُو بَكْرٍ إِذَا أَخَذَتْهُ الْحُمَّى ، يَقُولُ : كُلُّ امْرِئٍ مُصَبَّحٌ فِي أَهْلِهِ وَالْمَوْتُ أَدْنَى مِنْ شِرَاكِ نَعْلِهِ وَكَانَ بِلَالٌ إِذَا أُقْلِعَ عَنْهُ يَرْفَعُ عَقِيرَتَهُ ، فَيَقُولُ : أَلَا لَيْتَ شِعْرِي هَلْ أَبِيتَنَّ لَيْلَةً بِوَادٍ وَحَوْلِي إِذْخِرٌ وَجَلِيلُ ؟ وَهَلْ أَرِدَنْ يَوْمًا مِيَاهَ مَجِنَّةٍ ؟ وَهَلْ يَبْدُوَنْ لِي شَامَةٌ وَطَفِيلُ قَالَتْ عَائِشَةُ : فَجِئْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخْبَرْتُهُ ، فَقَالَ : \" اللَّهُمَّ حَبِّبْ إِلَيْنَا الْمَدِينَةَ كَحُبِّنَا مَكَّةَ أَوْ أَشَدَّ ، وَصَحِّحْهَا وَبَارِكْ لَنَا فِي صَاعِهَا وَمُدِّهَا ، وَانْقُلْ حُمَّاهَا فَاجْعَلْهَا بِالْجُحْفَةِ \" . قَالَ مَالِك : وَحَدَّثَنِي يَحْيَى بْنُ سَعِيدٍ ، أَنَّ عَائِشَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَتْ : وَكَانَ عَامِرُ بْنُ فُهَيْرَةَ ، يَقُولُ : قَدْ رَأَيْتُ الْمَوْتَ قَبْلَ ذَوْقِهِ إِنَّ الْجَبَانَ حَتْفُهُ مِنْ فَوْقِهِ *",
+      "english_translation": "Narrated by Ibn Umar: The Prophet ﷺ said: 'Whoever is able to die in Madinah, let him do so, for I will intercede for whoever dies in it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi",
+              "full_name": "Nafi mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) terms but all narrators highly reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi -> Ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Two 'an (عَنْ) terms in short chain",
+          "impact": "Minimal - this is the famous 'Golden Chain' (Malik -> Nafi -> Ibn Umar) considered one of the most authentic chains in hadith literature"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Virtue of dying in Madinah",
+        "Intercession of the Prophet ﷺ for those who die in Madinah",
+        "Encouragement to die in Madinah if able"
+      ]
+    },
+    {
+      "hadith_id": 9770,
+      "collection": "Muwatta Malik",
+      "reference_number": "2066",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نُعَيْمِ بْنِ عَبْدِ اللَّهِ الْمُجْمِرِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّهُ قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" عَلَى أَنْقَابِ الْمَدِينَةِ مَلَائِكَةٌ لَا يَدْخُلُهَا الطَّاعُونُ وَلَا الدَّجَّالُ \" * ,E468",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'I was commanded (to migrate to) a town that will consume (other) towns. They say: Yathrib, but it is Madinah. It expels people as the bellows expels impurities from iron.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Suhayl ibn Abi Salih",
+              "full_name": "Suhayl ibn Abi Salih Dhakwan al-Samman",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq (truthful) with some weakness in precision",
+                "Yahya ibn Ma'in and others considered him acceptable but not of highest tier"
+              ]
+            },
+            {
+              "name": "Abu Salih al-Samman",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayyat",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms",
+            "Suhayl ibn Abi Salih is Saduq level, not highest tier"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Suhayl ibn Abi Salih -> Abu Salih al-Samman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suhayl ibn Abi Salih is graded Saduq, indicating truthfulness but with occasional errors in precision",
+          "impact": "Minor concern - he is still considered acceptable, but not of the highest reliability tier"
+        },
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout chain",
+          "impact": "Potential for concealed gaps, though meetings between these narrators are well-established"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Virtue of Madinah",
+        "Madinah expelling unworthy residents",
+        "Divine command for migration to Madinah",
+        "Madinah purifying its residents like bellows purify iron",
+        "Correction of the name Yathrib to Madinah"
+      ]
+    },
+    {
+      "hadith_id": 9771,
+      "collection": "Muwatta Malik",
+      "reference_number": "2067",
+      "grade": null,
+      "arabicText": "بَابُ مَا جَاءَ فِي إِجْلَاءِ الْيَهُودِ مِنَ الْمَدِينَةِ",
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ said: 'Yemen will be conquered, so some people will migrate (from Madinah) and drive their families and those who obey them, while Madinah is better for them if they only knew. Then Sham (Syria) will be conquered, so some people will migrate and drive their families and those who obey them, while Madinah is better for them if they only knew. Then Iraq will be conquered, so some people will migrate and drive their families and those who obey them, while Madinah is better for them if they only knew.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Ala ibn Abd al-Rahman",
+              "full_name": "Al-Ala ibn Abd al-Rahman ibn Ya'qub al-Haraqi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Abd al-Rahman ibn Ya'qub)",
+              "full_name": "Abd al-Rahman ibn Ya'qub al-Haraqi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khazraji al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms but all narrators are reliable and connections established"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Al-Ala ibn Abd al-Rahman -> Abd al-Rahman ibn Ya'qub -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple 'an (عَنْ) terms throughout the chain",
+          "impact": "Minimal - all narrators are well-established as having met their teachers, and all are considered reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prophecy about the conquest of Yemen, Syria, and Iraq",
+        "Migration from Madinah after conquests",
+        "Virtue of remaining in Madinah over migrating to conquered lands",
+        "Superiority of Madinah over other cities"
+      ]
+    },
+    {
+      "hadith_id": 9772,
+      "collection": "Muwatta Malik",
+      "reference_number": "2068",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ إِسْمَاعِيل بْنِ أَبِي حَكِيمٍ ، أَنَّهُ سَمِعَ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ ، يَقُولُ : كَانَ مِنْ آخِرِ مَا تَكَلَّمَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنْ قَالَ : \" قَاتَلَ اللَّهُ الْيَهُودَ ، وَالنَّصَارَى اتَّخَذُوا قُبُورَ أَنْبِيَائِهِمْ مَسَاجِدَ ، لَا يَبْقَيَنَّ دِينَانِ بِأَرْضِ الْعَرَبِ \" *",
+      "english_translation": "Narrated by Jabir ibn Abdullah: A bedouin came to the Prophet ﷺ and pledged allegiance to him for Islam. The next day he came with a fever and said: 'Cancel my pledge.' The Prophet ﷺ refused. This happened three times. The Prophet ﷺ said: 'Madinah is like the bellows - it expels its impurities and purifies what is good.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn al-Munkadir",
+              "full_name": "Muhammad ibn al-Munkadir ibn Abdullah al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains 'an and 'anna terms which can indicate potential indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Muhammad ibn al-Munkadir -> Jabir ibn Abdullah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) and 'anna (أَنَّ) transmission terms",
+          "impact": "Minimal concern - Muhammad ibn al-Munkadir is well-established to have heard from Jabir, and both are highly reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a bedouin pledging allegiance then seeking to cancel due to fever",
+        "Madinah expelling unworthy residents",
+        "Madinah purifying the sincere believers",
+        "The Prophet's ﷺ refusal to release the bedouin from his pledge"
+      ]
+    },
+    {
+      "hadith_id": 9773,
+      "collection": "Muwatta Malik",
+      "reference_number": "2069",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا يَجْتَمِعُ دِينَانِ فِي جَزِيرَةِ الْعَرَبِ \" . قَالَ مَالِك : قَالَ ابْنُ شِهَابٍ : فَفَحَصَ عَنْ ذَلِكَ عُمَرُ بْنُ الْخَطَّابِ حَتَّى أَتَاهُ الثَّلْجُ وَالْيَقِينُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا يَجْتَمِعُ دِينَانِ فِي جَزِيرَةِ الْعَرَبِ \" ، فَأَجْلَى يَهُودَ خَيْبَرَ . قَالَ مَالِك : وَقَدْ أَجْلَى عُمَرُ بْنُ الْخَطَّابِ يَهُودَ نَجْرَانَ وَفَدَكَ ، فَأَمَّا يَهُودُ خَيْبَرَ فَخَرَجُوا مِنْهَا لَيْسَ لَهُمْ مِنَ الثَّمَرِ وَلَا مِنَ الْأَرْضِ شَيْءٌ ، وَأَمَّا يَهُودُ فَدَكَ فَكَانَ لَهُمْ نِصْفُ الثَّمَرِ وَنِصْفُ الْأَرْضِ ، لِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ صَالَحَهُمْ عَلَى نِصْفِ الثَّمَرِ وَنِصْفِ الْأَرْضِ ، فَأَقَامَ لَهُمْ عُمَرُ نِصْفَ الثَّمَرِ وَنِصْفَ الْأَرْضِ قِيمَةً مِنْ ذَهَبٍ وَوَرِقٍ وَإِبِلٍ وَحِبَالٍ وَأَقْتَابٍ ، ثُمَّ أَعْطَاهُمُ الْقِيمَةَ وَأَجْلَاهُمْ مِنْهَا *",
+      "english_translation": "Malik said: It has reached me that Zayd ibn Thabit, when he wanted to travel, would say: 'I do not know, perhaps I will not return.' And he was reluctant to leave Madinah due to what has been narrated about the virtue of dying in it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "Uses balagha (بَلَغَنِي) indicating he did not hear directly",
+                "This is a mursal/munqati form"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Balagh (بَلَغَنِي) form - disconnected chain",
+            "Malik does not specify his source",
+            "This is a statement of Zaid ibn Thabit, not reaching the Prophet"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (unknown intermediaries) -> Zayd ibn Thabit"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain using balagha form (بَلَغَنِي)",
+          "impact": "Significant - the chain is disconnected and we don't know Malik's sources. However, this is a statement about a Companion's practice, not a prophetic hadith."
+        },
+        {
+          "issue": "Unknown intermediaries between Malik and Zaid ibn Thabit",
+          "impact": "Cannot assess full chain reliability due to missing links"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Practice of Zayd ibn Thabit regarding travel from Madinah",
+        "Reluctance to leave Madinah due to virtue of dying there",
+        "Statement of Zayd ibn Thabit about uncertainty of return when traveling"
+      ]
+    },
+    {
+      "hadith_id": 9774,
+      "collection": "Muwatta Malik",
+      "reference_number": "2070",
+      "grade": null,
+      "arabicText": "بَابُ جَامِعِ مَا جَاءَ فِي أَمْرِ الْمَدِينَةِ",
+      "english_translation": "Chapter: The Excellence of Madinah. Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'There are angels at the mountain passes of Madinah. Neither plague nor the Dajjal will enter it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nuaym ibn Abdullah al-Mujmir",
+              "full_name": "Nuaym ibn Abdullah ibn Asid al-Adawi al-Mujmir",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains 'an (عَنْ) terms but all narrators well-established and reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nuaym ibn Abdullah al-Mujmir -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Two 'an (عَنْ) terms in the chain",
+          "impact": "Minimal - all narrators are reliable and well-known to have met their teachers"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Angels guarding the mountain passes of Madinah",
+        "Protection of Madinah from plague",
+        "Protection of Madinah from the Dajjal (Antichrist)",
+        "Excellence and special status of Madinah"
+      ]
+    },
+    {
+      "hadith_id": 9775,
+      "collection": "Muwatta Malik",
+      "reference_number": "2071",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَلَعَ لَهُ أُحُدٌ ، فَقَالَ : \" هَذَا جَبَلٌ يُحِبُّنَا وَنُحِبُّهُ \" *",
+      "english_translation": "Narrated by Abu Hamid al-Saidi: When the Prophet ﷺ returned from a journey and saw the walls of Madinah, he would make his mount move faster. And if he was on an animal, he would urge it on due to his love for Madinah.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn Abdullah ibn Abd al-Rahman ibn Abi Sasaa",
+              "full_name": "Abd al-Rahman ibn Abdullah ibn Abd al-Rahman ibn Abi Sasaa al-Ansari al-Mazini",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Abdullah ibn Abd al-Rahman)",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Abi Sasaa al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hamid al-Saidi",
+              "full_name": "Abu Hamid al-Saidi al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) and 'anna (أَنَّ) terms but all narrators reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abd al-Rahman ibn Abdullah -> Abdullah ibn Abd al-Rahman -> Abu Hamid al-Saidi (describing Prophet's ﷺ action)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple 'an (عَنْ) and 'anna (أَنَّ) terms in the chain",
+          "impact": "Minimal - all narrators are reliable and connections well-established"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "The Prophet's ﷺ love for Madinah",
+        "The Prophet's ﷺ practice when returning to Madinah",
+        "Expression of love through hastening one's mount upon seeing Madinah"
+      ]
+    },
+    {
+      "hadith_id": 9776,
+      "collection": "Muwatta Malik",
+      "reference_number": "2072",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ ، أَنَّ أَسْلَمَ مَوْلَى عُمَرَ بْنِ الْخَطَّابِ أَخْبَرَهُ ، أَنَّهُ زَارَ عَبْدَ اللَّهِ بْنَ عَيَّاشٍ الْمَخْزُومِيَّ فَرَأَى عِنْدَهُ نَبِيذًا وَهُوَ بِطَرِيقِ مَكَّةَ ، فَقَالَ لَهُ أَسْلَمُ : إِنَّ هَذَا الشَّرَابَ يُحِبُّهُ عُمَرُ بْنُ الْخَطَّابِ ، فَحَمَلَ عَبْدُ اللَّهِ بْنُ عَيَّاشٍ قَدَحًا عَظِيمًا فَجَاءَ بِهِ إِلَى عُمَرَ بْنِ الْخَطَّابِ ، فَوَضَعَهُ فِي يَدَيْهِ فَقَرَّبَهُ عُمَرُ إِلَى فِيهِ ثُمَّ رَفَعَ رَأْسَهُ ، فَقَالَ عُمَرُ : \" إِنَّ هَذَا لَشَرَابٌ طَيِّبٌ \" ، فَشَرِبَ مِنْهُ ثُمَّ نَاوَلَهُ رَجُلًا عَنْ يَمِينِهِ ، فَلَمَّا أَدْبَرَ عَبْدُ اللَّهِ نَادَاهُ عُمَرُ بْنُ الْخَطَّابِ ، فَقَالَ : \" أَأَنْتَ الْقَائِلُ لَمَكَّةُ خَيْرٌ مِنْ الْمَدِينَةِ ؟ \" فَقَالَ عَبْدُ اللَّهِ : فَقُلْتُ : هِيَ حَرَمُ اللَّهِ وَأَمْنُهُ وَفِيهَا بَيْتُهُ ، فَقَالَ عُمَرُ : \" لَا أَقُولُ فِي بَيْتِ اللَّهِ وَلَا فِي حَرَمِهِ شَيْئًا \" ، ثُمَّ قَالَ عُمَرُ : \" أَأَنْتَ الْقَائِلُ لَمَكَّةُ خَيْرٌ مِنْ الْمَدِينَةِ ؟ \" قَالَ : فَقُلْتُ : هِيَ حَرَمُ اللَّهِ وَأَمْنُهُ وَفِيهَا بَيْتُهُ ، فَقَالَ عُمَرُ : \" لَا أَقُولُ فِي حَرَمِ اللَّهِ وَلَا فِي بَيْتِهِ شَيْئًا \" ، ثُمَّ انْصَرَفَ * \"E469",
+      "english_translation": "Narrated by Anas ibn Malik: When the Messenger of Allah ﷺ came from a journey, when he saw the walls of Madinah, he would make his mount move faster, and if he was on a riding animal, he would make it move due to his love for it (Madinah).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd al-Tawil",
+              "full_name": "Humayd ibn Abi Humayd al-Tawil al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Two 'an (عَنْ) terms but chain is sound"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Humayd al-Tawil -> Anas ibn Malik (describing Prophet's ﷺ action)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Two 'an (عَنْ) terms in the chain",
+          "impact": "Minimal - Humayd al-Tawil is famous for his narrations from Anas, and both are highly reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "The Prophet's ﷺ love for Madinah",
+        "The Prophet's ﷺ practice when seeing Madinah's walls",
+        "Hastening one's mount out of love for Madinah"
+      ]
+    },
+    {
+      "hadith_id": 9777,
+      "collection": "Muwatta Malik",
+      "reference_number": "2073",
+      "grade": null,
+      "arabicText": "بَابُ مَا جَاءَ فِي الطَّاعُونِ",
+      "english_translation": "Chapter: Residing in Madinah. Malik said: It has reached him that the Messenger of Allah ﷺ said: 'Whoever can die in Madinah, let him die there, for I will bear witness for whoever dies in it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Uses balagha form (بَلَغَهُ) indicating disconnected chain"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Balagh (بَلَغَهُ) form - completely disconnected",
+            "No chain of narrators provided",
+            "Mursal/Munqati'"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (unknown chain) -> Umar ibn al-Khattab -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' using balagha form (بَلَغَهُ) with no specified chain",
+          "impact": "Severe - completely disconnected chain makes this weak. We cannot assess the reliability of the transmission path."
+        },
+        {
+          "issue": "Unknown intermediaries between Malik and the prophetic statement",
+          "impact": "Cannot verify the authenticity due to missing links"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtue of dying in Madinah",
+        "The Prophet's ﷺ testimony for those who die in Madinah",
+        "Encouragement to die in Madinah if able"
+      ]
+    },
+    {
+      "hadith_id": 9778,
+      "collection": "Muwatta Malik",
+      "reference_number": "2074",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ الْحَارِثِ بْنِ نَوْفَلٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ خَرَجَ إِلَى الشَّامِ ، حَتَّى إِذَا كَانَ بِسَرْغَ لَقِيَهُ أُمَرَاءُ الْأَجْنَادِ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ وَأَصْحَابُهُ ، فَأَخْبَرُوهُ أَنَّ الْوَبَأَ قَدْ وَقَعَ بِأَرْضِ الشَّامِ ، قَالَ ابْنُ عَبَّاسٍ : فَقَالَ عُمَرُ بْنُ الْخَطَّابِ : ادْعُ لِي الْمُهَاجِرِينَ الْأَوَّلِينَ ، فَدَعَاهُمْ فَاسْتَشَارَهُمْ وَأَخْبَرَهُمْ أَنَّ الْوَبَأَ قَدْ وَقَعَ بِالشَّامِ فَاخْتَلَفُوا ، فَقَالَ بَعْضُهُمْ : قَدْ خَرَجْتَ لِأَمْرٍ وَلَا نَرَى أَنْ تَرْجِعَ عَنْهُ ، وَقَالَ بَعْضُهُمْ : مَعَكَ بَقِيَّةُ النَّاسِ وَأَصْحَابُ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَلَا نَرَى أَنْ تُقْدِمَهُمْ عَلَى هَذَا الْوَبَإِ ، فَقَالَ عُمَرُ : ارْتَفِعُوا عَنِّي ، ثُمَّ قَالَ : ادْعُ لِي الْأَنْصَارَ ، فَدَعَوْتُهُمْ فَاسْتَشَارَهُمْ فَسَلَكُوا سَبِيلَ الْمُهَاجِرِينَ وَاخْتَلَفُوا كَاخْتِلَافِهِمْ ، فَقَالَ : ارْتَفِعُوا عَنِّي ، ثُمَّ قَالَ : ادْعُ لِي مَنْ كَانَ هَاهُنَا مِنْ مَشْيَخَةِ قُرَيْشٍ مِنْ مُهَاجِرَةِ الْفَتْحِ ، فَدَعَوْتُهُمْ فَلَمْ يَخْتَلِفْ عَلَيْهِ مِنْهُمُ رَجُلَانِ ، فَقَالُوا : نَرَى أَنْ تَرْجِعَ بِالنَّاسِ وَلَا تُقْدِمَهُمْ عَلَى هَذَا الْوَبَإِ ، فَنَادَى عُمَرُ فِي النَّاسِ : إِنِّي مُصْبِحٌ عَلَى ظَهْرٍ فَأَصْبِحُوا عَلَيْهِ ، فَقَالَ أَبُو عُبَيْدَةَ : أَفِرَارًا مِنْ قَدَرِ اللَّهِ ؟ فَقَالَ عُمَرُ : لَوْ غَيْرُكَ قَالَهَا يَا أَبَا عُبَيْدَةَ ، نَعَمْ نَفِرُّ مِنْ قَدَرِ اللَّهِ إِلَى قَدَرِ اللَّهِ ، أَرَأَيْتَ لَوْ كَانَ لَكَ إِبِلٌ فَهَبَطَتْ وَادِيًا لَهُ عُدْوَتَانِ إِحْدَاهُمَا خَصِبَةٌ وَالْأُخْرَى جَدْبَةٌ ، أَلَيْسَ إِنْ رَعَيْتَ الْخَصِبَةَ رَعَيْتَهَا بِقَدَرِ اللَّهِ ، وَإِنْ رَعَيْتَ الْجَدْبَةَ رَعَيْتَهَا بِقَدَرِ اللَّهِ ؟ فَجَاءَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ وَكَانَ غَائِبًا فِي بَعْضِ حَاجَتِهِ ، فَقَالَ : إِنَّ عِنْدِي مِنْ هَذَا عِلْمًا : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : \" إِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلَا تَقْدَمُوا عَلَيْهِ ، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا فِرَارًا مِنْهُ \" ، قَالَ : فَحَمِدَ اللَّهَ عُمَرُ ثُمَّ انْصَرَفَ * \u001bE470",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Faith will retreat to Madinah just as the snake retreats to its hole.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Araj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-Araj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms but all narrators highly reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> al-Araj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple 'an (عَنْ) terms in the chain",
+          "impact": "Minimal - this chain (Malik -> Abu al-Zinad -> al-Araj -> Abu Hurayrah) is considered one of the strong authentic chains"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Faith retreating to Madinah in end times",
+        "Madinah as a refuge for faith",
+        "Metaphor of snake retreating to its hole"
+      ]
+    },
+    {
+      "hadith_id": 9779,
+      "collection": "Muwatta Malik",
+      "reference_number": "2075",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ ، وَعَنْ سَالِمٍ أَبِي النَّضْرِ مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ ، عَنْ أَبِيهِ ، أَنَّهُ سَمِعَهُ يَسْأَلُ أُسَامَةَ بْنَ زَيْدٍ ، مَا سَمِعْتَ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الطَّاعُونِ ؟ فَقَالَ أُسَامَةُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الطَّاعُونُ رِجْزٌ أُرْسِلَ عَلَى طَائِفَةٍ مِنْ بَنِي إِسْرَائِيلَ أَوْ عَلَى مَنْ كَانَ قَبْلَكُمْ ، فَإِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلَا تَدْخُلُوا عَلَيْهِ ، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا فِرَارًا مِنْهُ \" . قَالَ مَالِك : قَالَ أَبُو النَّضْرِ : لَا يُخْرِجُكُمْ إِلَّا فِرَارٌ مِنْهُ *",
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'People will leave Madinah despite it being in the best condition, and none will inhabit it except wild beasts and birds. The last people to be gathered will be two shepherds from (the tribe of) Muzaynah, driving their sheep towards Madinah and finding it inhabited only by wild beasts, until when they reach the mountain pass of Thaniyyat al-Wada, they will fall on their faces.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Araj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-Araj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms but all narrators highly reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> al-Araj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple 'an (عَنْ) terms in the chain",
+          "impact": "Minimal - this chain (Malik -> Abu al-Zinad -> al-Araj -> Abu Hurayrah) is considered one of the strong authentic chains"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prophecy about abandonment of Madinah in end times",
+        "Signs of the Hour",
+        "Last people to leave Madinah being two shepherds from Muzaynah",
+        "Madinah inhabited by wild beasts and birds before the Hour",
+        "Incident at Thaniyyat al-Wada"
+      ]
+    },
+    {
+      "hadith_id": 9780,
+      "collection": "Muwatta Malik",
+      "reference_number": "2076",
+      "grade": null,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ خَرَجَ إِلَى الشَّامِ فَلَمَّا جَاءَ سَرْغَ بَلَغَهُ أَنَّ الْوَبَأَ قَدْ وَقَعَ بِالشَّامِ ، فَأَخْبَرَهُ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِذَا سَمِعْتُمْ بِهِ بِأَرْضٍ فَلَا تَقْدَمُوا عَلَيْهِ ، وَإِذَا وَقَعَ بِأَرْضٍ وَأَنْتُمْ بِهَا فَلَا تَخْرُجُوا فِرَارًا مِنْهُ \" ، فَرَجَعَ عُمَرُ بْنُ الْخَطَّابِ مِنْ سَرْغَ . وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ إِنَّمَا رَجَعَ بِالنَّاسِ مِنْ سَرْغَ ، عَنْ حَدِيثِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ *",
+      "english_translation": "Malik said: Abdullah ibn Umar used to say: 'Whoever has property, let him acquire property in Madinah. And whoever has sheep, let him graze them in Madinah. And whoever has camels, let him graze them in Madinah. Indeed, the Prophet ﷺ said: There is no place where one stays whether in town or countryside except that there are two angels who say: O Allah, bless them in this. And the angels of Madinah say: O Allah, bless them in their sa' and their mudd (measures of capacity).'",
+      "chains": [
+        {
+          "type": "mawquf/marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Malik narrating a statement of Ibn Umar without a complete chain"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain - Malik states what Ibn Umar used to say without providing intermediaries",
+            "The marfu' portion (prophetic statement) is quoted within Ibn Umar's statement without direct chain to the Prophet"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (unknown intermediaries) -> Abdullah ibn Umar -> Prophet Muhammad ﷺ (quoted portion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete chain from Malik to Ibn Umar without specified intermediaries",
+          "impact": "Moderate - we don't know who transmitted this to Malik from Ibn Umar"
+        },
+        {
+          "issue": "The prophetic statement is quoted within Ibn Umar's statement without direct chain",
+          "impact": "The marfu' portion lacks clear chain making it weaker than the mawquf portion"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Statement of Ibn Umar encouraging property ownership in Madinah",
+        "Virtue of grazing livestock in Madinah",
+        "Angels' supplication for blessings at every location",
+        "Special supplication of Madinah's angels for the city's measures",
+        "Preference for Madinah over other locations"
+      ]
+    }
+  ]
+}

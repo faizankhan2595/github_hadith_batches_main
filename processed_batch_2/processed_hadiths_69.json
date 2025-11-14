@@ -1,0 +1,592 @@
+{
+  "batch_number": 2,
+  "file_number": 69,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 10021,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2317,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَلْقَمَةَ ، عَنْ أَبِيهِ ، عَنْ بِلَالِ بْنِ الْحَارِثِ الْمُزَنِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِنَّ الرَّجُلَ لَيَتَكَلَّمُ بِالْكَلِمَةِ مِنْ رِضْوَانِ اللَّهِ ، مَا كَانَ يَظُنُّ أَنْ تَبْلُغَ مَا بَلَغَتْ ، يَكْتُبُ اللَّهُ لَهُ بِهَا رِضْوَانَهُ إِلَى يَوْمِ يَلْقَاهُ ، وَإِنَّ الرَّجُلَ لَيَتَكَلَّمُ بِالْكَلِمَةِ مِنْ سَخَطِ اللَّهِ ، مَا كَانَ يَظُنُّ أَنْ تَبْلُغَ مَا بَلَغَتْ ، يَكْتُبُ اللَّهُ لَهُ بِهَا سَخَطَهُ إِلَى يَوْمِ يَلْقَاهُ \"",
+      "english_translation": "Narrated by Bilal ibn al-Harith al-Muzani: The Messenger of Allah ﷺ said: 'Verily, a man speaks a word from the pleasure of Allah, not thinking that it would reach what it reached, and Allah writes for him His pleasure until the day he meets Him. And verily, a man speaks a word from the anger of Allah, not thinking that it would reach what it reached, and Allah writes for him His anger until the day he meets Him.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Amr ibn Alqamah",
+              "full_name": "Muhammad ibn Amr ibn Alqamah ibn Waqqas al-Laythi al-Madani",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Has occasional errors (Saduq level)", "Uses indirect transmission term"]
+            },
+            {
+              "name": "Amr ibn Alqamah",
+              "full_name": "Amr ibn Alqamah ibn Waqqas al-Laythi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses indirect transmission term"]
+            },
+            {
+              "name": "Bilal ibn al-Harith al-Muzani",
+              "full_name": "Bilal ibn al-Harith ibn Asim al-Muzani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Muhammad ibn Amr ibn Alqamah is Saduq (acceptable but not highest grade)", "Multiple uses of indirect transmission terms (عَنْ, أَنَّ)"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Muhammad ibn Amr ibn Alqamah -> Amr ibn Alqamah -> Bilal ibn al-Harith al-Muzani -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Muhammad ibn Amr ibn Alqamah is graded as Saduq (truthful but with occasional errors) by the majority of scholars. Ibn Ma'in said he is 'not strong', while others like Ahmad considered him acceptable. His narrations are generally accepted but not at the highest level of reliability.",
+          "impact": "This brings the overall chain to 'Acceptable' level rather than 'Sound' or 'Perfect'. The hadith is acceptable but the narrator's Saduq status requires noting."
+        },
+        {
+          "issue": "Use of indirect transmission term 'عَنْ' (an) from Muhammad ibn Amr and from Amr ibn Alqamah",
+          "impact": "While neither narrator is known for tadlis, the use of indirect terms slightly affects the certainty of direct transmission. However, both are generally considered to have met their teachers."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Impact of spoken words on one's fate",
+        "Divine pleasure and anger based on speech",
+        "Warning about careless speech"
+      ]
+    },
+    {
+      "hadith_id": 10022,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2318,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، عَنْ أَبِي صَالِحٍ السَّمَّانِ أَنَّهُ أَخْبَرَهُ ، أَنَّ أَبَا هُرَيْرَةَ ، قَالَ : \" إِنَّ الرَّجُلَ لَيَتَكَلَّمُ بِالْكَلِمَةِ مَا يُلْقِي لَهَا بَالًا ، يَهْوِي بِهَا فِي نَارِ جَهَنَّمَ ، وَإِنَّ الرَّجُلَ لَيَتَكَلَّمُ بِالْكَلِمَةِ مَا يُلْقِي لَهَا بَالًا ، يَرْفَعُهُ اللَّهُ بِهَا فِي الْجَنَّةِ \"",
+      "english_translation": "Narrated by Abu Hurayrah: 'Verily, a man speaks a word to which he pays no attention, and he falls with it into the Fire of Hell. And verily, a man speaks a word to which he pays no attention, and Allah raises him with it into Paradise.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Aslami al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salih al-Samman",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayyat al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَهُ then أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mawquf narration (statement of Abu Hurayrah), not explicitly attributed to the Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abdullah ibn Dinar -> Abu Salih al-Samman -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration - the statement is from Abu Hurayrah, not explicitly attributed to the Prophet ﷺ",
+          "impact": "While the chain to Abu Hurayrah is sound, this is his own statement. However, many scholars consider such statements from Companions about matters of the unseen (like Paradise and Hell) to have the ruling of marfu' (attributed to the Prophet), as they would not speak about such matters from personal opinion."
+        },
+        {
+          "issue": "Use of indirect transmission term 'عَنْ' from Abdullah ibn Dinar",
+          "impact": "Minimal impact as Abdullah ibn Dinar is Thiqah Thabt and not known for tadlis, and his connection to Abu Salih is well-established."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Warning about careless speech leading to Hell",
+        "Promise of Paradise for good words",
+        "Impact of seemingly insignificant words"
+      ]
+    },
+    {
+      "hadith_id": 10024,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2320,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ قَالَ : قَدِمَ رَجُلَانِ مِنَ الْمَشْرِقِ فَخَطَبَا فَعَجِبَ النَّاسُ لِبَيَانِهِمَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ مِنَ الْبَيَانِ لَسِحْرًا \" . أَوْ قَالَ : \" إِنَّ بَعْضَ الْبَيَانِ لَسِحْرٌ \" . وَحَدَّثَنِي مَالِك ، أَنَّهُ بَلَغَهُ ، أَنَّ عِيسَى ابْنَ مَرْيَمَ ، كَانَ يَقُولُ : لَا تُكْثِرُوا الْكَلَامَ بِغَيْرِ ذِكْرِ اللَّهِ فَتَقْسُوَ قُلُوبُكُمْ ، فَإِنَّ الْقَلْبَ الْقَاسِيَ بَعِيدٌ مِنَ اللَّهِ ، وَلَكِنْ لَا تَعْلَمُونَ وَلَا تَنْظُرُوا فِي ذُنُوبِ النَّاسِ كَأَنَّكُمْ أَرْبَاب ، وَانْظُرُوا فِي ذُنُوبِكُمْ كَأَنَّكُمْ عَبِيدٌ ، فَإِنَّمَا النَّاسُ مُبْتَلًى وَمُعَافًى فَارْحَمُوا أَهْلَ الْبَلَاءِ وَاحْمَدُوا اللَّهَ عَلَى الْعَافِيَةِ",
+      "english_translation": "Narrated by Abdullah ibn Umar: Two men came from the East and delivered speeches, and the people were amazed at their eloquence. The Messenger of Allah ﷺ said: 'Verily, some eloquence is magic,' or he said: 'Verily, some of eloquence is magic.' [Second narration:] And Malik narrated that it reached him that Isa ibn Maryam (Jesus son of Mary) used to say: 'Do not speak much without the remembrance of Allah, lest your hearts become hardened, for the hardened heart is far from Allah, but you do not know. And do not look into the sins of people as if you were lords, but look into your sins as if you were slaves. Indeed, people are either afflicted or pardoned, so have mercy on the afflicted and praise Allah for well-being.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Use of indirect transmission term عَنْ from Zayd ibn Aslam", "Narrator uncertainty about exact wording (أَوْ قَالَ)"]
+        },
+        {
+          "type": "mursal/balagh",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Mursal/balagh - disconnected chain"]
+            }
+          ],
+          "chainIssues": ["This is mursal/balagh - Malik reports without naming his source", "Statement attributed to Isa ibn Maryam, not the Prophet ﷺ", "Complete disconnection in the chain"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Zayd ibn Aslam -> Abdullah ibn Umar -> Prophet Muhammad ﷺ",
+        "Malik ibn Anas -> [Unknown sources] -> Isa ibn Maryam"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of indirect transmission term 'عَنْ' from Zayd ibn Aslam to Abdullah ibn Umar",
+          "impact": "Minimal impact as Zayd ibn Aslam is Thiqah and not known for tadlis, and his hearing from Ibn Umar is well-established."
+        },
+        {
+          "issue": "Narrator expresses doubt about the exact wording with 'أَوْ قَالَ' (or he said)",
+          "impact": "Shows honesty in transmission but indicates some uncertainty about the precise wording. Both versions convey the same meaning."
+        },
+        {
+          "issue": "Second part is mursal/balagh - Malik says 'بَلَغَهُ' (it reached him) without naming the chain",
+          "impact": "This is a completely disconnected chain. The statement is attributed to Isa ibn Maryam (Jesus), not to the Prophet ﷺ. Mursal reports from Malik about statements of previous prophets have very weak chains and are not binding."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of two eloquent men from the East",
+        "Warning about manipulative eloquence",
+        "Saying of Isa ibn Maryam about speech and remembrance",
+        "Humility in judging others",
+        "Hardness of heart from excessive worldly talk"
+      ]
+    },
+    {
+      "hadith_id": 10025,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2321,
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عَائِشَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَتْ تُرْسِلُ إِلَى بَعْضِ أَهْلِهَا بَعْدَ الْعَتَمَةِ ، فَتَقُولُ : \" أَلَا تُرِيحُونَ الْكُتَّابَ \"",
+      "english_translation": "Narrated that Aisha, the wife of the Prophet ﷺ, used to send word to some of her family after the Isha prayer, saying: 'Will you not give rest to the scribes (recording angels)?'",
+      "chains": [
+        {
+          "type": "mursal/balagh",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Mursal/balagh - disconnected chain without named sources"]
+            }
+          ],
+          "chainIssues": ["Complete disconnection - Malik does not name his source(s)", "Mursal/balagh type narration"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> [Unknown sources] -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is mursal/balagh - Malik reports with 'بَلَغَهُ' (it reached him) without naming any chain of transmission",
+          "impact": "The chain is completely disconnected. We do not know who transmitted this from Aisha or through how many intermediaries. This is a statement (mawquf) from Aisha, not from the Prophet ﷺ, transmitted through an unknown chain."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Practice of Aisha regarding late-night speech",
+        "Awareness of recording angels",
+        "Encouragement to cease unnecessary talk after Isha"
+      ]
+    },
+    {
+      "hadith_id": 10027,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2323,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ الْوَلِيدِ بْنِ عَبْدِ اللَّهِ بْنِ صَيَّادٍ ، أَنَّ الْمُطَّلِبَ بْنَ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ الْمَخْزُومِيَّ أَخْبَرَهُ ، أَنَّ رَجُلًا سَأَلَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَا الْغِيبَةُ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَنْ تَذْكُرَ مِنَ الْمَرْءِ مَا يَكْرَهُ أَنْ يَسْمَعَ \" ، قَالَ : يَا رَسُولَ اللَّهِ ، وَإِنْ كَانَ حَقًّا ؟ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِذَا قُلْتَ بَاطِلًا فَذَلِكَ الْبُهْتَانُ \"",
+      "english_translation": "A man asked the Messenger of Allah ﷺ: 'What is backbiting (al-ghibah)?' The Messenger of Allah ﷺ said: 'That you mention about a person what he would dislike to hear.' He said: 'O Messenger of Allah, even if it is true?' The Messenger of Allah ﷺ said: 'If you say what is false, then that is slander (al-buhtan).'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Walid ibn Abdullah ibn Sayyad",
+              "full_name": "al-Walid ibn Abdullah ibn Sayyad al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ then أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Muttalib ibn Abdullah ibn Hantab al-Makhzumi",
+              "full_name": "al-Muttalib ibn Abdullah ibn Hantab ibn al-Harith al-Makhzumi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَهُ then أَنَّ",
+              "reliabilityIssues": ["He did not meet the Prophet ﷺ - this is mursal"]
+            }
+          ],
+          "chainIssues": ["Al-Muttalib ibn Abdullah ibn Hantab is from the Tabi'in and did not meet the Prophet ﷺ", "This is a mursal narration - there is a missing link between al-Muttalib and the Prophet ﷺ", "The narration does not name the man who asked the question"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> al-Walid ibn Abdullah ibn Sayyad -> al-Muttalib ibn Abdullah ibn Hantab -> [Missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal narration - al-Muttalib ibn Abdullah ibn Hantab is a Tabi'i who did not meet the Prophet ﷺ",
+          "impact": "There is at least one missing narrator (a Companion) between al-Muttalib and the Prophet ﷺ. Mursal narrations are considered weak by the majority of scholars due to the unknown missing link. However, the mursal narrations of reliable Tabi'in have some value, and this hadith's meaning is supported by other authentic narrations."
+        },
+        {
+          "issue": "The Companion who witnessed this incident is not named",
+          "impact": "We do not know which Companion transmitted this to al-Muttalib, adding to the uncertainty."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man asking about the definition of backbiting",
+        "Definition of backbiting (ghibah)",
+        "Difference between backbiting and slander",
+        "Dialogue between a Companion and the Prophet ﷺ about speech"
+      ]
+    },
+    {
+      "hadith_id": 10029,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2325,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ عَطَاءِ بْنِ يَسَارٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مَنْ وَقَاهُ اللَّهُ شَرَّ اثْنَيْنِ وَلَجَ الْجَنَّةَ \" ، فَقَالَ رَجُلٌ : يَا رَسُولَ اللَّهِ لَا تُخْبِرْنَا ، فَسَكَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ عَادَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ مِثْلَ مَقَالَتِهِ الْأُولَى ، فَقَالَ لَهُ الرَّجُلُ : لَا تُخْبِرْنَا يَا رَسُولَ اللَّهِ ، فَسَكَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِثْلَ ذَلِكَ أَيْضًا ، فَقَالَ الرَّجُلُ : لَا تُخْبِرْنَا يَا رَسُولَ اللَّهِ ، ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِثْلَ ذَلِكَ أَيْضًا ، ثُمَّ ذَهَبَ الرَّجُلُ يَقُولُ مِثْلَ مَقَالَتِهِ الْأُولَى ، فَأَسْكَتَهُ رَجُلٌ إِلَى جَنْبِهِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ وَقَاهُ اللَّهُ شَرَّ اثْنَيْنِ وَلَجَ الْجَنَّةَ : مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ ، مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ ، مَا بَيْنَ لَحْيَيْهِ وَمَا بَيْنَ رِجْلَيْهِ \"",
+      "english_translation": "The Messenger of Allah ﷺ said: 'Whoever Allah protects from the evil of two things will enter Paradise.' A man said: 'O Messenger of Allah, do not tell us.' So the Messenger of Allah ﷺ remained silent. Then the Messenger of Allah ﷺ returned and said the same as his first statement. The man said to him: 'Do not tell us, O Messenger of Allah.' So the Messenger of Allah ﷺ remained silent. Then the Messenger of Allah ﷺ said the same thing again, and the man said: 'Do not tell us, O Messenger of Allah.' Then the Messenger of Allah ﷺ said the same thing again. Then the man was about to say the same as his first statement, but a man beside him silenced him. So the Messenger of Allah ﷺ said: 'Whoever Allah protects from the evil of two things will enter Paradise: what is between his jaws and what is between his legs, what is between his jaws and what is between his legs, what is between his jaws and what is between his legs.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata ibn Yasar",
+              "full_name": "Ata ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["He is a Tabi'i who did not meet the Prophet ﷺ - this is mursal"]
+            }
+          ],
+          "chainIssues": ["Ata ibn Yasar is from the senior Tabi'in but did not meet the Prophet ﷺ", "This is a mursal narration with a missing Companion link", "The names of the men in the incident are not mentioned"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Zayd ibn Aslam -> Ata ibn Yasar -> [Missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal narration - Ata ibn Yasar is a reliable Tabi'i but did not meet the Prophet ﷺ",
+          "impact": "There is at least one missing narrator (a Companion) between Ata ibn Yasar and the Prophet ﷺ. This weakens the chain according to the majority of scholars. However, the mursal narrations of senior reliable Tabi'in like Ata ibn Yasar are given some consideration."
+        },
+        {
+          "issue": "The Companion who witnessed this incident is not named, nor are the men who spoke to the Prophet ﷺ identified",
+          "impact": "The lack of named sources in the incident adds to the uncertainty about the transmission."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ teaching about guarding the tongue and private parts",
+        "Repeated teaching despite initial reluctance",
+        "Man asking the Prophet ﷺ not to reveal difficult knowledge",
+        "Keys to entering Paradise"
+      ]
+    },
+    {
+      "hadith_id": 10030,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2326,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ أَبِيهِ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ دَخَلَ عَلَى أَبِي بَكْرٍ الصِّدِّيقِ وَهُوَ يَجْبِذُ لِسَانَهُ ، فَقَالَ لَهُ عُمَرُ : مَهْ غَفَرَ اللَّهُ لَكَ ؟ فَقَالَ أَبُو بَكْرٍ : إِنَّ \" هَذَا أَوْرَدَنِي الْمَوَارِدَ \"",
+      "english_translation": "Narrated that Umar ibn al-Khattab entered upon Abu Bakr al-Siddiq while he was pulling his tongue, and Umar said to him: 'Stop! May Allah forgive you.' Abu Bakr said: 'Verily, this (tongue) has led me into dangerous places.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aslam",
+              "full_name": "Aslam ibn Abi Imran al-Madani mawla Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Did not witness the incident himself - he was the freed slave of Umar and was likely too young during Abu Bakr's time"]
+            }
+          ],
+          "chainIssues": ["Aslam (the father of Zayd ibn Aslam) likely did not witness this incident himself, as it occurred during Abu Bakr's caliphate", "There may be an intermediary between Aslam and the actual witnesses of this incident"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Zayd ibn Aslam -> Aslam -> [Unknown witness] -> Abu Bakr and Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Aslam, the father of Zayd ibn Aslam, was the freed slave of Umar ibn al-Khattab and likely did not personally witness this incident between Abu Bakr and Umar",
+          "impact": "There is likely an unnamed intermediary who witnessed or heard about this incident from someone who witnessed it. This adds uncertainty to the chain."
+        },
+        {
+          "issue": "Use of 'أَنَّ' (anna) suggesting indirect transmission from Aslam",
+          "impact": "The term 'anna' often indicates that the narrator did not directly witness the event but heard about it from someone else."
+        },
+        {
+          "issue": "This is a mawquf report (statement/action of a Companion), not from the Prophet ﷺ",
+          "impact": "While it illustrates the Companions' concern about the tongue, it is not a prophetic statement and carries less weight as evidence."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Abu Bakr al-Siddiq pulling his tongue in self-blame",
+        "Awareness of the danger of the tongue",
+        "Practice of the Companions in guarding their speech",
+        "Self-accountability of Abu Bakr"
+      ]
+    },
+    {
+      "hadith_id": 10032,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2328,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، قَالَ : كُنْتُ أَنَا وَعَبْدُ اللَّهِ بْنُ عُمَرَ عِنْدَ دَارِ خَالِدِ بْنِ عُقْبَةَ الَّتِي بِالسُّوقِ ، فَجَاءَ رَجُلٌ يُرِيدُ أَنْ يُنَاجِيَهُ ، وَلَيْسَ مَعَ عَبْدِ اللَّهِ بْنِ عُمَرَ أَحَدٌ غَيْرِي وَغَيْرُ الرَّجُلِ الَّذِي يُرِيدُ أَنْ يُنَاجِيَهُ ، فَدَعَا عَبْدُ اللَّهِ بْنُ عُمَرَ رَجُلًا آخَرَ حَتَّى كُنَّا أَرْبَعَةً ، فَقَالَ لِي وَلِلرَّجُلِ الَّذِي دَعَاهُ : اسْتَأْخِرَا شَيْئًا ، فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : \" لَا يَتَنَاجَى اثْنَانِ دُونَ وَاحِدٍ \"",
+      "english_translation": "Narrated by Abdullah ibn Dinar: I was with Abdullah ibn Umar at the house of Khalid ibn Uqbah which is in the market. A man came wanting to speak privately with him (Ibn Umar), and there was no one with Abdullah ibn Umar except me and the man who wanted to speak privately with him. So Abdullah ibn Umar called another man until we were four. Then he said to me and to the man he had called: 'Step back a little,' for I heard the Messenger of Allah ﷺ say: 'Two should not converse privately to the exclusion of one.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Aslami al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Ibn Umar applying the teaching about private conversations",
+        "Etiquette of not excluding someone from conversation",
+        "Practical application of prophetic teaching by a Companion",
+        "Consideration for the feelings of others"
+      ]
+    },
+    {
+      "hadith_id": 10033,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2329,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِذَا كَانَ ثَلَاثَةٌ فَلَا يَتَنَاجَى اثْنَانِ دُونَ وَاحِدٍ \"",
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'When there are three, two should not converse privately to the exclusion of one.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Use of indirect transmission terms (عَنْ and أَنَّ)"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of indirect transmission term 'عَنْ' from Nafi' and 'أَنَّ' from Ibn Umar",
+          "impact": "Minimal impact. This is the famous 'Golden Chain' (Malik from Nafi' from Ibn Umar) considered one of the most authentic chains in hadith literature. Nafi' is not known for tadlis and his connection to Ibn Umar is absolutely certain as he was his freed slave and constant companion."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Etiquette of private conversation in a group",
+        "Prohibition of excluding one person when three are present",
+        "Consideration for others' feelings"
+      ]
+    },
+    {
+      "hadith_id": 10035,
+      "collection": "Muwatta Imam Malik",
+      "reference_number": 2331,
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ ، أَنَّ رَجُلًا قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَكْذِبُ امْرَأَتِي يَا رَسُولَ اللَّهِ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَا خَيْرَ فِي الْكَذِبِ \" ، فَقَالَ الرَّجُلُ : يَا رَسُولَ اللَّهِ أَعِدُهَا وَأَقُولُ لَهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَا جُنَاحَ عَلَيْكَ \"",
+      "english_translation": "A man said to the Messenger of Allah ﷺ: 'May I lie to my wife, O Messenger of Allah?' The Messenger of Allah ﷺ said: 'There is no good in lying.' The man said: 'O Messenger of Allah, should I make promises to her and speak to her?' The Messenger of Allah ﷺ said: 'There is no blame upon you.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safwan ibn Sulaym",
+              "full_name": "Safwan ibn Sulaym al-Zuhri al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["He is a Tabi'i who did not meet the Prophet ﷺ - this is mursal"]
+            }
+          ],
+          "chainIssues": ["Safwan ibn Sulaym is a reliable Tabi'i but did not meet the Prophet ﷺ", "This is a mursal narration with a missing Companion link", "The name of the man asking the question is not mentioned"]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Safwan ibn Sulaym -> [Missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal narration - Safwan ibn Sulaym is a reliable Tabi'i but did not meet the Prophet ﷺ",
+          "impact": "There is at least one missing narrator (a Companion) between Safwan and the Prophet ﷺ. This weakens the chain according to the majority of scholars. However, Safwan ibn Sulaym is considered among the most reliable of the Tabi'in, and Imam Malik's inclusion of his mursal narrations suggests he knew the sources to be reliable."
+        },
+        {
+          "issue": "The Companion who witnessed this incident is not named, nor is the man who asked the question identified",
+          "impact": "The lack of complete identification adds to the uncertainty about the precise transmission chain."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man asking about lying to his wife",
+        "General impermissibility of lying",
+        "Permissibility of promises and kind words to one's wife",
+        "Marital relations and communication"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,889 @@
+{
+  "batch_number": 2,
+  "file_number": 97,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "english_translation": "Abd al-Rahman ibn al-Qasim said: Malik said: When the imam sits on the minbar on Friday and the mu'adhdhins call the adhan, at that time buying and selling becomes disliked. If a man buys or sells at that time, that transaction is nullified. Malik disliked that women, slaves, or children - those upon whom Friday prayer is not obligatory - should buy or sell from Muslims at that time. I said to Ibn al-Qasim: Is what these people who are not obligated to attend Friday prayer buy or sell nullified according to Malik's statement? He said: Malik said: The buying and selling of those not obligated to attend Friday prayer is not nullified, and that is my opinion. I said: What if one who is obligated to attend Friday prayer buys from a child or slave? He said: The transaction is nullified. Then Malik used as evidence the case of one who buys food from a Christian or Jew, when the Christian bought it by measure and then sold it to the Muslim before the Christian or Jew measured it. I said: Is his sale invalid? He said: Yes, that is what Malik said. Then he said: When one who is obligated to attend Friday prayer buys from or sells to one who is not obligated to attend, the transaction is nullified. Malik said: The imam should not prevent the people of the markets from selling on Friday. Malik said: When the mu'adhdhin calls the adhan and the imam sits on the minbar, he prevents people from buying and selling - men, slaves, and women. Malik said: It reached me that some of the Companions of the Messenger of Allah ﷺ disliked that a man should abandon work on Friday as the Jews and Christians abandoned work on Saturday and Sunday. Ibn Wahb said, from Ibn Abi Dhi'b, that 'Umar ibn 'Abd al-'Aziz used to prevent people from selling when the call to prayer was made on Friday. Ibn Wahb said, from Ibn Abi Dhi'b, from Ibn Shihab, he said: Calling out for selling becomes prohibited when the imam comes out on Friday. 'Ata' ibn Abi Rabah and Zayd ibn Aslam said the same. Ibn Wahb said, from Abu al-Zinad, from his father, that he said: It is nullified. Ibn Wahb said: Malik said: It is nullified.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Rahman ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinion of Malik, not traced to Prophet ﷺ",
+            "Contains mursal report (بَلَغَنِي) from Malik about unspecified Companions"
+          ]
+        },
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abi Dhi'b",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn al-Mughirah ibn Abi Dhi'b al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Umar ibn 'Abd al-'Aziz",
+              "full_name": "'Umar ibn 'Abd al-'Aziz ibn Marwan al-Umawi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Athar - practice of 'Umar ibn 'Abd al-'Aziz",
+            "Uses indirect term أَنَّ"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abi Dhi'b",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn al-Mughirah ibn Abi Dhi'b al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "mudallis (category 1-2, generally acceptable)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - statement of al-Zuhri"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abd al-Rahman ibn al-Qasim -> Malik ibn Anas",
+        "Ibn Wahb -> Ibn Abi Dhi'b -> 'Umar ibn 'Abd al-'Aziz",
+        "Ibn Wahb -> Ibn Abi Dhi'b -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - primarily legal opinion of Malik ibn Anas, not marfu' traced to Prophet ﷺ",
+          "impact": "Represents scholarly ijtihad rather than prophetic narration"
+        },
+        {
+          "issue": "Contains mursal report (بَلَغَنِي) mentioning 'some Companions' without naming them or providing chain",
+          "impact": "The companion statement is disconnected and unspecified"
+        },
+        {
+          "issue": "Multiple chains use indirect transmission terms (عَنْ, أَنَّ)",
+          "impact": "Indicates potential indirect transmission"
+        },
+        {
+          "issue": "Al-Zuhri is classified as mudallis (category 1-2), though generally considered reliable",
+          "impact": "Minor concern given his high reliability, but worth noting"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Buying and selling during Friday prayer",
+        "Validity of transactions during call to Friday prayer",
+        "Practice of 'Umar ibn 'Abd al-'Aziz regarding marketplace regulation",
+        "Difference between working on Friday and Jewish/Christian practice"
+      ],
+      "arabicText": "قَالَ : عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ : وَقَالَ مَالِكٌ : إِذَا قَعَدَ الْإِمَامُ يَوْمَ الْجُمُعَةِ عَلَى الْمِنْبَرِ فَأَذَّنَ    @ 1 : 173 @    الْمُؤَذِّنُونَ فَعندَ ذَلِكَ يُكْرَهُ الْبَيْعُ وَالشِّرَاءُ , قَالَ : وَإِنِ اشْتَرَى رَجُلٌ أَوْ بَاعَ فِي تِلْكَ السَّاعَةِ فُسِخَ ذَلِكَ الْبَيْعُ . قَالَ : وَكَرِهَ مَالِكٌ لِلْمَرْأَةِ أَوِ الْعَبْدِ وَالصَّبِيِّ مَنْ لَا تَجِبُ عَلَيْهِ الْجُمُعَةُ الْبَيْعَ وَالشِّرَاءَ فِي تِلْكَ السَّاعَةِ مِنْ أَهْلِ الْإِسْلَامِ . قُلْتُ لِابْنِ الْقَاسِمِ : فَهَلْ يُفْسَخُ مَا اشْتَرَى أَوْ بَاعَ هَؤُلَاءِ الَّذِينَ لَا تَجِبُ عَلَيْهِمُ الْجُمُعَةَ فِي قَوْلِ مَالِكٍ ؟ قَالَ : قَالَ مَالِكٌ : لَا يُفْسَخُ شِرَاءُ مَنْ لَا تَجِبُ عَلَيْهِ الْجُمُعَةُ ، وَلَا بَيْعُهُ وَهُوَ رَأْيِي . قُلْتُ : فَإِنْ كَانَ اشْتَرَى مَنْ تَجِبُ عَلَيْهِ الْجُمُعَةَ مِنْ صَبِيٍّ أَوْ مَمْلُوكٍ ؟ قَالَ : فَالْبَيْعُ مَفْسُوخٌ , ثُمَّ احْتَجَّ مَالِكٌ بِالَّذِي اشْتَرَى الطَّعَامَ مِنْ نَصْرَانِيٍّ أَوْ يَهُودِيٍّ , وَقَدِ اشْتَرَاهُ النَّصْرَانِيُّ عَلَى كَيْلٍ ، فَبَاعَهُ مِنَ الْمُسْلِمِ قَبْلَ أَنْ يَكْتَالَهُ النَّصْرَانِيُّ أَوِ الْيَهُودِيُّ . قُلْتُ : فَبَيْعُهُ غَيْرُ جَائِزٍ ؟ قَالَ : نَعَمْ كَذَلِكَ قَالَ مَالِكٌ , ثُمَّ قَالَ : إِذَا اشْتَرَى أَوْ بَاعَ مَنْ تَجِبُ عَلَيْهِ الْجُمُعَةَ مِمَّنْ لَا تَجِبُ عَلَيْهِ الْجُمُعَةَ فَالْبَيْعُ مُنْتَقَضٌ . قَالَ : وَقَالَ مَالِكٌ : لَا يَنْبَغِي لِلْإِمَامِ أَنْ يَمْنَعَ أَهْلَ الْأَسْوَاقِ مِنَ الْبَيْعِ يَوْمَ الْجُمُعَةِ . قَالَ : وَقَالَ مَالِكٌ : وَإِذَا أَذَّنَ الْمُؤَذِّنُ وَقَعَدَ الْإِمَامُ عَلَى الْمِنْبَرِ مَنَعَ النَّاسَ مِنَ الْبَيْعِ وَالشِّرَاءِ الرِّجَالَ وَالْعَبِيدَ وَالنِّسَاءَ . قَالَ مَالِكٌ : وَبَلَغَنِي   أَنَّ بَعْضَ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانُوا يَكْرَهُونَ أَنْ يَتْرُكَ الرَّجُلُ الْعَمَلَ يَوْمَ الْجُمُعَةِ , كَمَا تَرَكَتِ الْيَهُودُ وَالنَّصَارَى الْعَمَلَ فِي السَّبْتِ وَالْأَحَدِ . قَالَ ابْنُ وَهْبٍ ، عن ابْنِ أَبِي ذِئْبٍ ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ كَانَ يَمْنَعُ النَّاسَ مِنَ الْبَيْعِ إِذَا نُودِيَ بِالصَّلَاةِ يَوْمَ الْجُمُعَةِ . قَالَ ابْنُ وَهْبٍ ، عن ابْنِ أَبِي ذِئْبٍ ، عن ابْنِ شِهَابٍ ، قَالَ : يَحْرُمُ النِّدَاءُ لِلْبَيْعِ حِينَ يَخْرُجُ الْإِمَامُ يَوْمَ الْجُمُعَةِ , وَقَالَ ذَلِكَ عَطَاءُ بْنُ أَبِي رَبَاحٍ ، وَزَيْدُ بْنُ أَسْلَمَ . قَالَ ابْنُ وَهْبٍ ، عن أَبِي الزِّنَادِ ، عن أَبِيهِ ، أَنَّهُ قَالَ : يُفْسَخُ , قَالَ ابْنُ وَهْبٍ ، وَقَالَ مَالِكٌ : يُفْسَخُ . E157",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 364,
+      "hadith_id": 10441,
+      "grade": "Mawquf"
+    },
+    {
+      "english_translation": "Regarding the imam who experiences hadath (breaks wudu) on Friday",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or substantive content to analyze"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Friday prayer",
+        "Imam experiencing hadath during prayer or sermon"
+      ],
+      "arabicText": "فِي الْإِمَامِ يُحْدِثُ يَوْمَ الْجُمُعَةِ",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 365,
+      "hadith_id": 10442,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "Ibn al-Qasim said: Malik said regarding the imam who is giving the khutbah on Friday and experiences hadath in the middle of his khutbah: He should command a man to complete the khutbah and lead them in prayer. If he experiences hadath after finishing his khutbah, then likewise he should appoint a man as his substitute to lead them in Friday prayer, two rak'ahs. I said: What if he appoints a man who did not attend the khutbah? He said: It reached me from Malik or others among the people of knowledge that they disliked that anyone who did not attend the khutbah should lead them in prayer. But if he does so, I hope their prayer will suffice them. I said to Ibn al-Qasim: If an imam led people in prayer and experienced hadath, so he left and went away without appointing a substitute? He said: I did not ask Malik about this. Ibn al-Qasim said: I see that they should appoint a man to lead them in the remainder of their prayer. I said: If they prayed individually when their imam left because of his hadath and he did not appoint a substitute, does it suffice them to pray for themselves without appointing a substitute for the remainder of their prayer? He said: As for Friday prayer, it does not suffice them. As for other than Friday prayer, that suffices them, if Allah wills, because Friday prayer can only be with an imam. Malik said regarding the imam who experiences hadath on Friday while delivering the khutbah: He appoints a substitute to complete the remainder of the khutbah and lead them in prayer, and he does not complete the remainder of the khutbah after experiencing hadath. Ibn al-Qasim said regarding the imam delivering the khutbah on Friday who experiences hadath during his khutbah, or after finishing it before entering ihram, or after entering ihram: All of that is the same, and he appoints someone to complete for the people the remainder of what was upon him of the khutbah or the prayer. If he is ignorant of that or deliberately abandons it, the people appoint for themselves someone to complete that for them, and their prayer suffices. Ibn al-Qasim said: They should appoint someone who attended the khutbah - that is more beloved to me. If they appoint someone who did not attend the khutbah and he leads them in prayer, their prayer suffices them, but I do not like that they intentionally do so. Malik said regarding the imam who experiences hadath on Friday and appoints a man in a state of janabah (major ritual impurity), forgetful of his janabah or remembering it, to lead them: Friday prayer in this case and other prayers are the same. If he was forgetful and led them, their prayer is complete and they do not repeat it. If he remembered it and led them, their prayer is invalid. If he left after entering the prayer niche before doing anything of the prayer, and he appointed someone or they appointed someone who led them, their prayer is complete and they do not repeat it. Malik said regarding the imam who experiences hadath and appoints a madman in his state of madness or a drunkard in his state of drunkenness to lead Friday or other prayers: He is like one who did not appoint anyone. If he leads them, their prayer is invalid and does not suffice them. Malik said regarding the imam who experiences hadath on Friday and leaves without appointing a substitute, so a man comes forward on his own initiative while the people did not appoint him nor did their imam: That suffices them and he is like one whom the imam or those behind him appointed, and Friday prayer in this is the same as other prayers. Malik said regarding the imam who experiences hadath on Friday and appoints as substitute one who did not reach the ihram with him, when the imam had already entered ihram and those behind him, and this one entering enters ihram after entering: Their prayer is nullified and is not valid, and they are like people who enter ihram before their imam - their prayer is not valid. The prayer of this appointed substitute is also not valid for Friday prayer because he has become alone, and Friday prayer is not performed by one person alone, and they all must repeat Friday prayer. Malik said regarding one who delivered the khutbah and experienced hadath, so he appointed a substitute: He leads the people in two rak'ahs. Ibn al-Qasim said: Whoever experiences hadath on Friday while the imam is delivering the khutbah - Malik said: He leaves without permission, and that permission was only during the military campaigns of the Messenger of Allah ﷺ, and it has not reached me that this was regarding Friday prayer.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinions of Malik and Ibn al-Qasim, not traced to Prophet ﷺ",
+            "Vague mursal reference to military campaigns of the Prophet ﷺ without chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik ibn Anas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - represents juristic reasoning (ijtihad) of Malik and his student, not marfu'",
+          "impact": "Not attributed to the Prophet ﷺ, represents scholarly deduction"
+        },
+        {
+          "issue": "Contains disconnected reference to 'military campaigns of the Messenger of Allah ﷺ' without chain",
+          "impact": "The prophetic reference lacks proper isnad"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Imam experiencing hadath during Friday sermon",
+        "Appointing substitute imam during Friday prayer",
+        "Validity of Friday prayer led by different imams",
+        "Requirements for Friday prayer leadership",
+        "Appointing imam who did not attend khutbah",
+        "Appointing imam in state of janabah",
+        "Leaving congregation due to hadath"
+      ],
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : وَقَالَ مَالِكٌ فِي الْإِمَامِ يَخْطُبُ يَوْمَ الْجُمُعَةِ ، فَيُحْدِثُ بَيْنَ ظَهْرَانِي خُطْبَتِهِ : أَنَّهُ يَأْمُرُ رَجُلًا يُتِمَّ بِهِمُ الْخُطْبَةَ وَيُصَلِّي بِهِمْ , فَإِنْ أَحْدَثَ بَعْدَمَا فَرَغَ مِنْ خُطْبَتِهِ ، فَكَذَلِكَ أَيْضًا يَسْتَخْلِفُ رَجُلًا يُصَلِّي بِهِمُ الْجُمُعَةَ رَكْعَتَيْنِ . قُلْتُ : فَإِنْ قَدَّمَ رَجُلًا لَمْ يَشْهَدِ الْخُطْبَةَ ؟ قَالَ : بَلَغَنِي عن مَالِكٍ أَوْ غَيْرِهِ مِنْ أَهْلِ الْعِلْمِ أَنَّهُ كَرِهَ ذَلِكَ أَنْ يُصَلِّيَ بِهِمْ أَحَدٌ مِمَّنْ لَمْ يَشْهَدِ الْخُطْبَةَ , فَإِنْ فَعَلَ ، فَأَرْجُو أَنْ تُجْزِئَهُمْ صَلَاتُهُمْ . قُلْتُ لِابْنِ الْقَاسِمِ : فَلَوْ أَنَّ إِمَامًا صَلَّى بِقَوْمٍ ، فَأَحْدَثَ فَخَرَجَ فَمَضَى وَلَمْ يَسْتَخْلِفْ ؟ قَالَ : لَمْ أَسْأَلْ مَالِكًا عن هَذَا . قَالَ ابْنُ الْقَاسِمِ : أَرَى أَنْ يُقَدِّمُوا رَجُلًا ، فَيُصَلِّي بِهِمْ بَقِيَّةَ صَلَاتِهِمْ . قُلْتُ : فَإِنْ صَلُّوا وُحْدَانًا حِينَ مَضَى إِمَامُهُمْ لِمَا أَحْدَثَ وَلَمْ يَسْتَخْلِفْ هَلْ يُجْزِئُهُمْ أَنْ    @ 1 : 174 @    يُصَلُّوا لِأَنْفُسِهِمْ ، وَلَا يَسْتَخْلِفُوا فِي بَقِيَّةِ صَلَاتِهِمْ ؟ قَالَ : أَمَّا الْجُمُعَةُ فَلَا تُجْزِئُهُمْ , وَأَمَّا غَيْرُ الْجُمُعَةِ ، فَإِنَّ ذَلِكَ مُجْزِئٌ عنهُمْ إِنْ شَاءَ اللَّهُ لِأَنَّ الْجُمُعَةَ لَا تَكُونُ إِلَّا بِإِمَامٍ . قَالَ : وَقَالَ مَالِكٌ فِي الْإِمَامِ يُحْدِثُ يَوْمَ الْجُمُعَةِ وَهُوَ يَخْطُبُ , قَالَ : يَسْتَخْلِفُ رَجُلًا يُتِمُّ بِهِمْ بَقِيَّةَ الْخُطْبَةِ ، وَيُصَلِّي بِهِمْ وَلَا يُتِمُّ هُوَ بِهِمْ بَعْدَمَا أَحْدَثَ بَقِيَّةَ الْخُطْبَةِ . وَقَالَ ابْنُ الْقَاسِمِ فِي الْإِمَامِ يَخْطُبُ يَوْمَ الْجُمُعَةِ ، فَيُحْدِثُ فِي خُطْبَتِهِ أَوْ بَعْدَمَا فَرَغَ مِنْهَا قَبْلَ أَنْ يُحْرِمَ أَوْ بَعْدَمَا   أَحْرَمَ : إِنَّ ذَلِكَ كُلَّهُ سَوَاءٌ , وَيُقَدِّمُ مَنْ يُتِمُّ بِالْقَوْمِ بَقِيَّةَ مَا كَانَ عَلَيْهِ مِنَ الْخُطْبَةِ أَوْ مِنَ الصَّلَاةِ , فَإِنْ جَهِلَ ذَلِكَ ، أَوْ تَرَكَهُ عَامِدًا قَدَّمَ الْقَوْمُ لِأَنْفُسِهِمْ مَنْ يُتِمُّ ذَلِكَ بِهِمْ وَصَلَاتُهُمْ مُجْزِئَةٌ , قَالَ ابْنُ الْقَاسِمِ : وَيُقَدِّمُونَ مَنْ شَهِدَ الْخُطْبَةَ أَحَبُّ إِلَيَّ , فَإِنْ قَدَّمُوا مَنْ لَمْ يَشْهَدِ الْخُطْبَةَ فَصَلَّى بِهِمْ أَجْزَأَتْ عنهُمْ صَلَاتُهُمْ ، وَلَا يُعْجِبُنِي أَنْ يَتَعَمَّدُوا ذَلِكَ وَلَا يَتَقَدَّمَ بِهِمْ .\u001eE158 قَالَ : وَقَالَ مَالِكٌ فِي الْإِمَامِ يُحْدِثُ يَوْمَ الْجُمُعَةِ ، فَيُقَدِّمُ رَجُلًا جُنُبًا نَاسِيًا لِجَنَابَتِهِ أَوْ ذَاكِرًا لَهَا فَيُصَلِّي بِهِمْ : إِنَّ الْجُمُعَةَ فِي هَذَا وَغَيْرَ الْجُمُعَةِ سَوَاءٌ , فَإِنْ كَانَ نَاسِيًا فَصَلَّى بِهِمْ تَمَّتْ صَلَاتُهُمْ وَلَمْ يُعِيدُوا , وَإِنْ كَانَ ذَاكِرًا لَهَا ، فَصَلَّى بِهِمْ فَسَدَتْ عَلَيْهِمْ صَلَاتُهُمْ , وَإِنْ هُوَ خَرَجَ بَعْدَمَا دَخَلَ الْمِحْرَابَ قَبْلَ أَنْ يَعْمَلَ مِنَ الصَّلَاةِ شَيْئًا فَقَدَّمَ رَجُلًا أَوْ قَدَّمُوهُ لِأَنْفُسِهِمْ ، فَصَلَّى بِهِمْ تَمَّتْ صَلَاتُهُمْ وَلَمْ يُعِيدُوا . قَالَ : وَقَالَ مَالِكٌ : فِي الْإِمَامِ يُحْدِثُ فَيُقَدِّمُ مَجْنُونًا فِي حَالِ جُنُونِهِ أَوْ سَكْرَانًا فِي صَلَاةِ الْجُمُعَةِ أَوْ غَيْرِهَا : إِنَّهُ بِمَنْزِلَةِ مَنْ لَمْ يُقَدِّمْ ، فَإِنْ صَلَّى بِهِمْ فَسَدَتْ صَلَاتُهُمْ وَلَمْ تُجْزِهِمْ . قَالَ : وَقَالَ مَالِكٌ فِي الْإِمَامِ يُحْدِثُ يَوْمَ الْجُمُعَةِ ، فَيَخْرُجُ وَلَا يَسْتَخْلِفُ , فَيَتَقَدَّمُ رَجُلٌ مِنْ عندِ نَفْسِهِ بِالْقَوْمِ وَلَمْ يُقَدِّمُوهُ هُمْ وَلَا إِمَامُهُمْ : إِنَّ ذَلِكَ مُجْزِئٌ عنهُمْ وَهُوَ بِمَنْزِلَةِ مَنْ قَدَّمَهُ الْإِمَامُ . أَوْ مَنْ خَلْفَهُ , وَالْجُمُعَةُ فِي هَذَا وَغَيْرُهَا   سَوَاءٌ . قَالَ : وَقَالَ مَالِكٌ فِي الْإِمَامِ يُحْدِثُ يَوْمَ الْجُمُعَةِ ، فَيَسْتَخْلِفُ مَنْ لَمْ يُدْرِكِ الْإِحْرَامَ مَعَهُ وَقَدْ أَحْرَمَ الْإِمَامُ , وَمَنْ خَلْفَهُ فَيُحْرِمُ هَذَا الدَّاخِلُ بَعْدَمَا يَدْخُلُ : إِنَّ صَلَاتَهُمْ مُنْتَقَضَةٌ وَلَا تَجُوزُ وَهُمْ بِمَنْزِلَةِ الْقَوْمِ يُحْرِمُونَ قَبْلَ إِمَامِهِمْ , فَلَا تَجُوزُ صَلَاتُهُمْ وَلَا تَجُوزُ صَلَاةُ هَذَا الْمُسْتَخْلَفِ عَلَى صَلَاةِ الْجُمُعَةِ أَيْضًا لِأَنَّهُ قَدْ صَارَ وَحْدَهُ , وَلَا يَجْمَعُ صَلَاةَ الْجُمُعَةِ وَاحِدٌ ، وَيُعِيدُونَ كُلُّهُمْ صَلَاةَ الْجُمُعَةِ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ خَطَبَ فَأَحْدَثَ فَاسْتَخْلَفَ رَجُلًا , قَالَ : يُصَلِّي بِالنَّاسِ رَكْعَتَيْنِ . قَالَ ابْنُ الْقَاسِمِ : وَمَنْ أَحْدَثَ يَوْمَ الْجُمُعَةِ وَالْإِمَامُ يَخْطُبُ , قَالَ : قَالَ مَالِكٌ : يَنْصَرِفُ بِلَا إِذْنٍ , وَإِنَّمَا ذَلِكَ الْإِذْنُ كَانَ فِي حَرْبِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , وَلَمْ يَبْلُغْنِي أَنَّ ذَلِكَ كَانَ فِي الْجُمُعَةِ .'E159",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 366,
+      "hadith_id": 10443,
+      "grade": "Mawquf"
+    },
+    {
+      "english_translation": "Regarding the Friday khutbah and the prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or substantive content to analyze"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Friday khutbah",
+        "Friday prayer"
+      ],
+      "arabicText": "فِي خُطْبَةِ الْجُمُعَةِ وَالصَّلَاةُ",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 367,
+      "hadith_id": 10444,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "Ibn al-Qasim said: It reached me from Malik that he said regarding an imam who gave the khutbah to the people, then when he finished his khutbah, a different wali (governor) appointed someone else, so he entered the mosque: He should not lead them in prayer, but rather the one who delivered the khutbah should lead them in prayer. I said to Ibn al-Qasim: What if the one who delivered the khutbah refused and the one appointed by the wali led them in prayer? He said: I see that they should repeat their prayer. He said: Malik said: If a man delivers the khutbah to the people, he has more right to lead them in prayer unless he appointed someone to lead them before he finished delivering the khutbah. Ibn al-Qasim said: If he appointed someone while he was delivering the khutbah before completing it, I see that the one he appointed should complete the khutbah, as we mentioned previously. I said: What if the one who delivered the khutbah left after he finished, before entering ihram, and another man led them in prayer without him appointing anyone? Ibn al-Qasim said: I do not like that the khateeb (one who delivered the khutbah) should do that. If he does so and leaves without appointing a substitute, then if the people appoint someone to lead them in prayer, I see that their prayer suffices them. However, I dislike that the khateeb should do what he did in deliberately abandoning leading them in prayer. If he had an excuse other than deliberate abandonment, then there is no problem in what the people did in appointing someone to lead them in prayer, and their prayer suffices them. Malik said: Regarding the man who enters while the imam is delivering the khutbah on Friday - I see that he should sit and not pray two rak'ahs. I said: Why? He said: Because they narrate that the Prophet ﷺ forbade prayer and speech when the imam delivers the khutbah. I said: What if he prayed two rak'ahs when the imam was delivering the khutbah? He said: I do not see that he should repeat them, and what he did suffices him if he prayed them. Sahnun said: The prohibition of prayer when the imam delivers the khutbah is for the one who entered the mosque and found the imam delivering the khutbah. As for one who was sitting when the imam started the khutbah, he may pray the two rak'ahs that he owes before the imam starts delivering the khutbah. He said: Malik was asked about the man who enters when the imam is delivering the khutbah and finds a space that he can only reach by stepping over people - should he step over them or sit where he is? He said: Rather, he should sit where he is and not step over people. Malik was asked about men who sit in a circle and talk while the imam is delivering the khutbah: Do you see that they should be separated? He said: Yes, they should be separated, and I dislike that. Malik disliked that a man should lie down when the imam is delivering the khutbah or lean on his hand. Malik said: If the imam prolongs the sitting between the two khutbahs, I see nothing wrong with that. I said: Can he deliver one khutbah? He said: No, there must be two khutbahs. He said: Malik said: There is no specific thing that the imam must say in the khutbah, but rather he praises Allah and mentions the Prophet ﷺ and reminds and admonishes. Malik was asked: Can the imam sit while delivering the khutbah? He said: I have not heard of that, and I have not seen anyone do it. But if illness or some excuse forced him to do so, I see nothing wrong with that. Malik was asked about the imam who delivers the khutbah in a language other than Arabic: He said: I dislike that, and I have not heard of it. Malik said: The imam should not recite Quran in the khutbah on Friday. He said: Malik disliked that a man should make tasbeeh (glorification) or dhikr when the imam is delivering the khutbah on Friday, but he did not see a problem with moving his lips without making his voice heard. Ibn al-Qasim said: I asked Malik about the man who teaches his young son when the imam is delivering the khutbah or corrects him in Quran recitation? He said: I dislike all of that. Ibn al-Qasim said: Regarding one who enters the mosque on Friday and finds the imam delivering the khutbah and another man standing praying: Malik disliked that he should wait for him to finish so he could pray with him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinions of Malik",
+            "Uses بَلَغَنِي (mursal/disconnected) transmission",
+            "Contains unspecified narration 'they narrate' about Prophet ﷺ without chain"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi Sahnun",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - opinion of Sahnun, student of Ibn al-Qasim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik ibn Anas (بَلَغَنِي)",
+        "Sahnun (independent opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - legal opinions of Malik, Ibn al-Qasim, and Sahnun, not traced to Prophet ﷺ",
+          "impact": "Represents juristic deduction rather than prophetic narration"
+        },
+        {
+          "issue": "Uses بَلَغَنِي (it reached me) - mursal/disconnected transmission",
+          "impact": "Indicates indirect or incomplete chain"
+        },
+        {
+          "issue": "Contains vague reference 'they narrate that the Prophet ﷺ forbade...' without proper isnad",
+          "impact": "Prophetic reference is disconnected and unverified"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Who should lead Friday prayer after delivering khutbah",
+        "Praying tahiyyat al-masjid during khutbah",
+        "Stepping over people to reach a space during khutbah",
+        "Talking during Friday khutbah",
+        "Lying down or leaning during khutbah",
+        "Duration between two khutbahs",
+        "Content requirements for Friday khutbah",
+        "Sitting while delivering khutbah due to illness",
+        "Delivering khutbah in non-Arabic language",
+        "Reciting Quran in Friday khutbah",
+        "Making dhikr during khutbah",
+        "Teaching children during khutbah"
+      ],
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : وَبَلَغَنِي عن مَالِكٍ أَنَّهُ قَالَ فِي إِمَامٍ خَطَبَ النَّاسَ ، فَلَمَّا فَرَغَ مِنْ خُطْبَتِهِ قَدَّمَ وَالٍ سِوَاهُ فَدَخَلَ الْمَسْجِدَ ، قَالَ : لَا يُصَلِّي بِهِمْ بِالْخُطْبَةِ الْأُولَى خُطْبَةِ الْإِمَامِ الْأَوَّلِ ، وَلَكِنْ    @ 1 : 175 @    يَبْتَدِئُ لَهُمُ الْخُطْبَةَ هَذَا الْقَادِمُ . وَقَالَ ابْنُ الْقَاسِمِ فِي إِمَامٍ يُقَصِّرُ فِي بَعْضِ الْخُطْبَةِ أَوْ يَنْسَى بَعْضَهَا أَوْ يُدْهَشُ , فَيُصَلِّي بِالنَّاسِ : إِنَّهُ إِنْ خَطَبَ بِهِمْ مَا لَهُ مِنْ كَلَامِ الْخُطْبَةِ قَدْرٌ وَبَالٌ أَجْزَأَتْ عنهُمْ صَلَاتُهُمْ , وَإِنْ كَانَ إِنَّمَا هُوَ الْكَلَامُ الْخَفِيفُ مثل الْحَمْدُ لِلَّهِ وَنَحْوُهُ أَعَادُوا الْخُطْبَةَ وَالصَّلَاةَ . وَقَالَ مَالِكٌ فِي الْإِمَامِ يَوْمَ الْجُمُعَةِ يَجْهَلُ ، فَيُصَلِّي قَبْلَ الْخُطْبَةِ ثُمَّ يَخْطُبُ : إِنَّهُ يُصَلِّي بِالنَّاسِ ثَانِيَةً ، وَتُجْزِئُ عنهُمُ الْخُطْبَةُ ، وَيُلْغِي مَا صَلَّى قَبْلَ الْخُطْبَةِ . قَالَ : وَقَالَ مَالِكٌ فِي خُطْبَةِ الْإِمَامِ يَوْمَ الْجُمُعَةِ يَمْسِكُ بِيَدِهِ عَصًا , قَالَ مَالِكٌ : وَهُوَ مِنْ أَمْرِ النَّاسِ الْقَدِيمِ . قُلْتُ لَهُ : أَعَمُودٌ الْمِنْبَرَ يَعني مَالِكٌ أَمْ عَصَا سِوَاهُ ؟ قَالَ : لَا بَلْ عَصَا سِوَاهُ . وَقَالَ مَالِكٌ فِي إِمَامٍ يُصَلِّي يَوْمَ الْجُمُعَةِ أَرْبَعًا عَامِدًا أَوْ جَاهِلًا وَقَدْ خَطَبَ قَبْلَ ذَلِكَ : إِنَّهُ يُلْغِي صَلَاتَهُ تِلْكَ ، وَيُعِيدُ الصَّلَاةَ رَكْعَتَيْنِ , وَلَا يَعْتَدُّ بِمَا صَلَّى قَبْلَ ذَلِكَ ، وَتَكْفِيهِ خُطْبَتُهُ الْأُولَى . قُلْتُ لِابْنِ الْقَاسِمِ : مَا قَوْلُ مَالِكٍ فِيمَنْ صَلَّى الظُّهْرَ فِي بَيْتِهِ يَوْمَ الْجُمُعَةِ قَبْلَ أَنْ يُصَلِّيَ الْإِمَامُ يَوْمَ الْجُمُعَةِ ؟ قَالَ : أَرَى أَنَّهُ لَا تُجْزِئُهُ صَلَاتُهُ   ، وَلَا تَجْزِيءُ أَحَدًا صَلَّى الظُّهْرَ يَوْمَ الْجُمُعَةِ قَبْلَ الْإِمَامِ مِمَّنْ تَجِبُ عَلَيْهِ الْجُمُعَةُ لِأَنَّ الظُّهْرَ لَا يَكُونُ إِلَّا لِمَنْ فَاتَتْهُ الْجُمُعَةُ , قَالَ : وَهَذَا تَجِبُ عَلَيْهِ الْجُمُعَةُ . وَقَالَ مَالِكٌ فِي الْأَمِيرِ الْمُؤَمَّرِ عَلَى بَلَدٍ مِنَ الْبُلْدَانِ يَخْرُجُ فِي عَمَلِهِ مُسَافِرًا : أَنَّهُ إِنْ مَرَّ بِقَرْيَةٍ مِنْ قُرَاهُ تُجَمَّعُ فِي مِثْلِهَا الْجُمُعَةُ , وَكَذَلِكَ إِنْ مَرَّ بِمَدِينَةٍ مِنْ مَدَائِنِ عَمَلِهِ جَمَعَ بِهِمُ الْجُمُعَةَ , وَإِنْ جَمَعَ فِي قَرْيَةٍ لَا يُجَمِّعُ فِيهَا أَهْلُهَا لِصِغَرِهَا فَلَا يُجْزِئُهَا , وَإِنَّمَا كَانَ لِلْإِمَامِ أَنْ يُجَمِّعَ فِي الْقُرَى الَّتِي يُجَمَّعُ فِي مِثْلِهَا إِذَا كَانَتْ فِي عَمَلِهِ وَإِنْ كَانَ مُسَافِرًا لِأَنَّهُ إِمَامُهُمْ , قَالَ : وَمَنْ صَلَّى مَعَ هَذَا الْإِمَامِ الْجُمُعَةَ فِي الْمَوْضِعِ الَّتِي لَا تَكُونُ فِيهِ جُمُعَةٌ , فَإِنَّمَا هِيَ لَهُمْ ظُهْرٌ وَيُعِيدُونَ صَلَاتَهُمْ وَلَا يُجْزِئُهُمْ مَا صَلَّوْا مَعَهُ وَيُعِيدُ الْإِمَامُ أَيْضًا , وَلَا يَعْتَدُّ بِتِلْكَ الصَّلَاةِ وَإِنْ صَلَّاهَا بِهِمْ .\u001eE160 قَالَ : وَقَالَ ابْنُ نَافِعٍ ، عن مَالِكٍ : تُجْزِئُ الْإِمَامَ . قَالَ : وَقَالَ مَالِكٌ : لَا يُصَلِّي الْعَبْدُ بِالنَّاسِ الْعِيدَ وَلَا الْجُمُعَةَ لِأَنَّ الْعَبْدَ لَا جُمُعَةَ عَلَيْهِ وَلَا عِيدَ . وَقَالَ ابْنُ الْقَاسِمِ فِي الْإِمَامِ يَخْطُبُ ، فَيَهْرُبُ النَّاسُ عنهُ ، وَلَا يَبْقَى مَعَهُ إِلَّا الْوَاحِدُ وَالِاثْنَانِ , وَمَنْ لَا عَدَدَ لَهُ مِنَ الْجَمَاعَةِ وَهُوَ فِي خُطْبَتِهِ أَوْ بَعْدَمَا فَرَغَ مِنْهَا : إِنَّهُمْ إِنْ لَمْ يَرْجِعُوا إِلَيْهِ ، فَيُصَلِّي بِهِمُ الْجُمُعَةَ صَلَّى أَرْبَعًا وَلَمْ يُصَلِّ بِهِمُ الْجُمُعَةَ , وَلَا تُجَمَّعُ الْجُمُعَةُ إِلَّا بِجَمَاعَةٍ وَإِمَامٍ   وَخُطْبَةٍ . وَقَالَ ابْنُ الْقَاسِمِ فِي الْإِمَامِ يُؤَخِّرُ الْخُرُوجَ إِلَى الْجُمُعَةِ ، وَيَأْتِي مِنْ ذَلِكَ مَا يُسْتَنْكَرُ : إِنَّهُمْ يُجَمِّعُونَ لِأَنْفُسِهِمْ إِنْ قَدَرُوا عَلَى ذَلِكَ , فَإِنْ لَمْ يَقْدِرُوا عَلَى ذَلِكَ صَلَّوْا فُرَادَى لِأَنْفُسِهِمُ الظُّهْرَ أَرْبَعًا ، وَيَتَنَفَّلُونَ صَلَاتَهُمْ مَعَهُ . وَقَالَ ابْنُ الْقَاسِمِ : وَأَخْبَرَنِي مَالِكُ بْنُ أَنَسٍ ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ فِي زَمَانِ الْوَلِيدِ بْنِ عَبْدِ الْمَلِكِ كَانَ يَفْعَلُهُ , وَأَنَّهُ كُلِّمَ فِي ذَلِكَ فَقَالَ : لَأَنْ أُصَلِّيَ مَرَّتَيْنِ أَحَبُّ إِلَيَّ مِنْ أَنْ لَا أُصَلِّيَ شَيْئًا .    @ 1 : 176 @    عَلِيُّ بْنُ زِيَادٍ ، عن /94 سُفْيَانَ بْنِ أَيُّوبَ /94 ، عن /26 ابْنِ أَبِي الْعَالِيَةِ /26 ، قَالَ : أَخَّرَ عُبَيْدُ اللَّهِ بْنُ زِيَادٍ الصَّلَاةَ , فَلَقِيتُ ابْنَ أَخِي أَبِي ذَرٍّ عَبْدَ اللَّهِ بْنَ الصَّامِتِ قَالَ : فَسَأَلْتُهُ فَضَرَبَ فَخِذِي ثُمَّ قَالَ : سَأَلْتُ /93 أَبَا ذَرٍّ /93 , فَقَالَ لِي : سَأَلْتُ خَلِيلِي يَعني النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَضَرَبَ فَخِذِي ثُمَّ قَالَ : \" صَلِّ الصَّلَاةَ لِوَقْتِهَا ، فَإِنْ أَدْرَكَتْكَ فَصَلِّ مَعَهُمْ وَلَا تَقُلْ : إِنِّي صَلَّيْتُ فَلَا أُصَلِّي \" عَلِيٌّ ، عن سُفْيَانَ ، عن الْأَعْمَشِ ، عن أَبِي الضُّحَى ، عن مَسْرُوقٍ ، عن أَبِي عُبَيْدَةَ , أَنَّهُمَا كَانَا يُصَلِّيَانِ الظُّهْرَ فِي الْمَسْجِدِ يَوْمَ الْجُمُعَةِ إِذَا أَمْسَى الْإِمَامُ بِالصَّلَاةِ , وَيُصَلِّيَانِ الْعَصْرَ إِذَا أَمْسَى الْإِمَامُ ، ثُمَّ يُصَلِّيَانِ مَعَهُ بَعْدُ إِذَا كَانَ يُؤَخِّرُهَا .#E161 قَالَ ابْنُ الْقَاسِمِ ، وَقَالَ مَالِكٌ : بَلَغَنِي \" أَنَّ النَّبِيَّ عَلَيْهِ السَّلامُ كَانَ إِذَا صَلَّى الْجُمُعَةَ انْصَرَفَ وَلَمْ يَرْكَعْ   فِي الْمَسْجِدِ , قَالَ : وَإِذَا دَخَلَ بَيْتَهُ رَكَعَ رَكْعَتَيْنِ \" قَالَ مَالِكٌ : وَيَنْبَغِي لِلْأَئِمَّةِ الْيَوْمَ إِذَا سَلَّمُوا مِنْ صَلَاةِ الْجُمُعَةِ أَنْ يَدْخُلَ الْإِمَامُ مَنْزِلَهُ ، وَيَرْكَعَ رَكْعَتَيْنِ وَلَا يَرْكَعَ فِي الْمَسْجِدِ . قَالَ : وَمَنْ خَلْفَ الْإِمَامِ إِذَا سَلَّمُوا فَأَحَبُّ إِلَيَّ أَنْ يَنْصَرِفُوا أَيْضًا وَلَا يَرْكَعُوا فِي الْمَسْجِدِ قَالَ : وَإِنْ رَكَعُوا فَذَلِكَ وَاسِعٌ . قَالَ : وَقَالَ ابْنُ الْقَاسِمِ : أَحَبُّ إِلَيَّ أَنْ يَقْرَأَ فِي صَلَاةِ الْجُمُعَةِ /4 هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ /4 مَعَ سُورَةِ الْجُمُعَةِ . قُلْتُ لِابْنِ الْقَاسِمِ فَأَيَّتُهُمَا قَبْلُ ؟ قَالَ : سُورَةُ الْجُمُعَةِ قَبْلُ عندِي , وَذَلِكَ أَنَّ مَالِكًا قَالَ فِي رَجُلٍ فَاتَتْهُ رَكْعَةٌ مِنْ صَلَاةِ الْجُمُعَةِ : فَقَالَ أَحَبُّ إِلَيَّ إِذَا أَقَامَ يَقْضِي أَنْ يَقْرَأَ فِيهَا سُورَةَ الْجُمُعَةِ مِنْ غَيْرِ أَنْ يَرَى ذَلِكَ وَاجِبًا عَلَيْهِ , فَبِهَذَا عَلِمْتُ أَنَّ سُورَةَ الْجُمُعَةِ تَبْدَأُ قَبْلُ فِي الرَّكْعَةِ الْأُولَى . ابْنُ وَهْبٍ ، عن يُونُسَ ، عن ابْنِ شِهَابٍ ، قَالَ : بَلَغَنِي أَنَّهُ لَا جُمُعَةَ إِلَّا بِخُطْبَةٍ ، فَمَنْ لَمْ يَخْطُبْ صَلَّى الظُّهْرَ أَرْبَعًا . وَكِيعٌ ، عن سُفْيَانَ ، عن خُصَيْفٍ ، عن سَعِيدِ بْنِ جُبَيْرٍ ، قَالَ : كَانَتِ الْجُمُعَةُ أَرْبَعًا فَحُطَّتْ رَكْعَتَانِ لِلْخُطْبَةِ . وَكِيعٌ ، عن سُفْيَانَ ، عن الزُّبَيْرِ بْنِ عَدِيٍّ : أَنَّ إِمَامًا صَلَّى الْجُمُعَةَ رَكْعَتَيْنِ فَلَمْ يَخْطُبْ ، فَقَامَ الضَّحَّاكُ فَصَلَّى أَرْبَعًا . ابْنُ الْقَاسِمِ ، وَقَالَ مَالِكٌ : لَيْسَ عَلَى النِّسَاءِ وَالْعَبِيدِ وَالْمُسَافِرِينَ جُمُعَةٌ , فَمَنْ شَهِدَهَا مِنْهُمْ فَلْيُصَلِّهَا . عَلِيٌّ عن سُفْيَانَ ، عن هَارُونَ   بْنِ عنتَرَةَ السَّعْدِيِّ ، عن شَيْخٍ يُقَالُ لَهُ : حُمَيْدٌ ، عن امْرَأَةٍ مِنْهُمْ ، قَالَتْ : \" جَاءَنَا /93 عَبْدُ اللَّهِ بْنُ مَسْعُودٍ /93 يَوْمَ الْجُمُعَةِ وَنَحْنُ فِي الْمَسْجِدِ فَقَالَ : إِذَا صَلَّيْتُنَّ فِي بُيُوتِكُنَّ فَصَلِّينَ أَرْبَعًا , وَإِذَا صَلَّيْتُنَّ فِي الْمَسْجِدِ فَصَلِّينَ رَكْعَتَيْنِ , وَمَا عَامٌ إِلَّا وَالَّذِي بَعْدَهُ شَرٌّ مِنْهُ ، وَلَنْ تُؤْتَوْا إِلَّا مِنْ قِبَلِ أُمَرَائِكُمْ , وَلَبِئْسَ عَبْدُ اللَّهِ أَنَا إِنْ أَنَا كَذَبْتُ \" ابْنُ وَهْبٍ ، عن يُونُسَ ، عن ابْنِ شِهَابٍ ، أَنَّهُ قَالَ : لَيْسَ عَلَى الْأَمِيرِ جُمُعَةٌ فِي سَفَرٍ إِلَّا أَنْ يُجَمِّعَ أَنْ يُقِيمَ بِقَرْيَةٍ مِنْ سُلْطَانِهِ ، فَتَحْضُرُهُ بِهَا الْجُمُعَةُ .\u0011E162 @ 1 : 177 @   ابْنُ وَهْبٍ ، وَقَالَ ذَلِكَ مَالِكٌ ، وَيَحْيَى بْنُ سَعِيدٍ ، وَعُمَرُ بْنُ عَبْدِ الْعَزِيزِ . مَالِكٌ : \" أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ /93 كَانَ يُجَمِّعُ بِأَهْلِ /60 مَكَّةَ /60 الْجُمُعَةَ وَهُوَ فِي السَّفَرِ \" وَقَالَ مَالِكٌ : وَلَيْسَ عَلَى الْإِمَامِ الْمُسَافِرِ الْجُمُعَةُ إِلَّا أَنْ يَنْزِلَ بِقَرْيَةٍ مِنْ عَمَلِهِ تَجِبُ فِيهَا الْجُمُعَةُ فَيُجَمِّعُ بِأَهْلِهَا لِأَنَّ الْإِمَامَ إِذَا نزل بِقَرْيَةٍ مِنْ عَمَلِهِ تَجِبُ فِيهَا الْجُمُعَةُ لَا يَنْبَغِي لَهُ إِنْ وَافَقَ الْجُمُعَةَ أَنْ يُصَلِّيَهَا خَلْفَ عَامِلِهِ , وَلَكِنَّهُ يُجَمِّعُ بِأَهْلِهَا وَمَنْ مَعَهُ مِنْ غَيْرِهِمْ , قَالَ : وَإِذَا جَهِلَ الْإِمَامُ الْمُسَافِرُ ، فَجَمَعَ بِأَهْلِ قَرْيَةٍ , لَا تَجِبُ فِيهَا الْجُمُعَةُ , فَلَا جُمُعَةَ لَهُ وَلَا لِمَنْ جَمَعَ مَعَهُ , وَلْيُعِدْ أَهْلُ تِلْكَ الْقَرْيَةِ وَمَنْ حَضَرَهَا مَعَهُ مِمَّنْ لَيْسَ بِمُسَافِرٍ الظُّهْرَ أَرْبَعًا . وَكِيعٌ ، عن إِبْرَاهِيمَ بْنِ يَزِيدَ ،   عن عَوْنِ بْنِ عَوْنِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ ، عن /93 ابْنِ مَسْعُودٍ /93 ، قَالَ : \" لَيْسَ عَلَى الْمُسْلِمِينَ جُمُعَةٌ فِي سَفَرِهِمْ وَلَا يَوْمَ نَفْرِهِمْ \" وَكِيعٌ ، عن سُفْيَانَ ، عن أَبِي إِسْحَاقَ ، عن الْحَارِثِ ، عن /93 عَلِيِّ بْنِ أَبِي طَالِبٍ /93 ، أَنَّهُ قَالَ : \" لَا جُمُعَةَ فِي سَفَرٍ \"\u001fE163",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 368,
+      "hadith_id": 10445,
+      "grade": "Mawquf"
+    },
+    {
+      "english_translation": "Regarding people who miss Friday prayer and want to pray Dhuhr four rak'ahs in congregation",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or substantive content to analyze"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Missing Friday prayer",
+        "Praying Dhuhr after missing Friday prayer"
+      ],
+      "arabicText": "فِي الْقَوْمِ تَفُوتُهُمُ الْجُمُعَةَ فَيُرِيدُونَ أَنْ يُجَمِّعُوا الظُّهْرَ أَرْبَعًا",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 369,
+      "hadith_id": 10446,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "Malik said regarding people who came to Friday prayer but missed it: Do you see that they should pray Dhuhr four rak'ahs in congregation in a mosque other than the congregational mosque? He said: No, and they should pray as individuals (not in congregation) four rak'ahs. This is because congregational prayer on Friday is only in one mosque. He said: If the imam led them in Friday prayer in the congregational mosque, then they - meaning these who missed it - should not pray in congregation in a mosque other than it. Rather, they should pray as individuals. This applies to a town that has only one Friday prayer. I said: What is your view if they prayed in congregation? Ibn al-Qasim said: I see that they should repeat their prayer individually and not in congregation, if they deliberately did so.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinion of Malik"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinion of Ibn al-Qasim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas",
+        "Ibn al-Qasim"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - legal opinions of Malik and Ibn al-Qasim, not traced to Prophet ﷺ",
+          "impact": "Represents scholarly ijtihad"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Missing Friday prayer",
+        "Praying Dhuhr individually after missing Friday",
+        "Prohibition of congregational Dhuhr in towns with one Friday prayer"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ فِي قَوْمٍ أَتَوْا الْجُمُعَةَ فَفَاتَهُمُ الْجُمُعَةُ : أَتَرَى أَنْ يُجَمِّعُوا الظُّهْرَ أَرْبَعًا فِي مَسْجِدٍ سِوَى مَسْجِدِ الْجَمَاعَةِ ؟ فَقَالَ : لَا ، وَيُصَلُّونَ أَفْذَاذًا . قَالَ مَالِكٌ : وَمَنْ كَانَ فِي السِّجْنِ أَوْ مُسَافِرًا مِمَّنْ لَا تَجِبُ عَلَيْهِمُ الْجُمُعَةُ وَالْمَرْضَى يَكُونُونَ فِي بَيْتٍ ، فَلَا بَأْسَ أَنْ يُجَمِّعَ هَؤُلَاءِ . قَالَ : وَقَالَ مَالِكٌ : يُجَمِّعُ الصَّلَاةَ يَوْمَ الْجُمُعَةِ أَهْلُ السُّجُونِ وَالْمُسَافِرُونَ ، وَمَنْ لَا تَجِبُ عَلَيْهِمُ الْجُمُعَةُ يُصَلِّي بِهِمْ إِمَامُهُمْ ظُهْرًا أَرْبَعًا , وَمَنْ تَجِبُ عَلَيْهِمُ الْجُمُعَةُ لَا يُجَمِّعُونَهَا ظُهْرًا أَرْبَعًا إِذَا فَاتَتْهُمْ . وَكِيعٌ ، عن الْفَضْلِ بْنِ دَلْهَمٍ ، عن الْحَسَنِ فِي قَوْمٍ تَفُوتُهُمُ الْجُمُعَةُ فِي الْمِصْرِ , قَالَ : لَا يُجَمِّعُونَ الصَّلَاةَ .",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 370,
+      "hadith_id": 10447,
+      "grade": "Mawquf"
+    },
+    {
+      "english_translation": "Regarding stepping over people on Friday",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or substantive content to analyze"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Stepping over people during Friday prayer"
+      ],
+      "arabicText": "التَّخَطِّي يَوْمَ الْجُمُعَةِ",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 371,
+      "hadith_id": 10448,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "Malik said: Stepping over people is only disliked when the imam comes out and sits on the minbar. Whoever steps over people at that time, he is the one about whom the hadith came. As for before that, there is no problem with it. Ibn al-Qasim said: Regarding one who arrives on Friday and finds people blocking the path to his prayer spot, so he steps over them to reach it: There is no problem with that.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - opinion of Malik",
+            "References 'the hadith' without citing chain or text"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - opinion of Ibn al-Qasim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas",
+        "Ibn al-Qasim"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - opinions of Malik and Ibn al-Qasim, not traced to Prophet ﷺ",
+          "impact": "Represents scholarly interpretation"
+        },
+        {
+          "issue": "References 'the hadith' about stepping over people without providing the hadith or its chain",
+          "impact": "Cannot verify the prophetic source being referenced"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Stepping over people during Friday prayer",
+        "Appropriate timing for stepping over people",
+        "Reaching one's designated prayer spot"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : إِنَّمَا يُكْرَهُ التَّخَطِّي إِذَا خَرَجَ الْإِمَامُ وَقَعَدَ عَلَى الْمِنْبَرِ . فَمَنْ تَخَطَّى حِينَئِذٍ ، فَهُوَ الَّذِي جَاءَ فِيهِ الْحَدِيثُ , فَأَمَّا قَبْلَ ذَلِكَ فَلَا بَأْسَ بِهِ إِذَا كَانَتْ بَيْنَ يَدَيْهِ فُرَجٌ وَلْيَتَرَفَّقْ فِي ذَلِكَ . \r\n$151  152 /2",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 372,
+      "hadith_id": 10449,
+      "grade": "Mawquf"
+    },
+    {
+      "english_translation": "Sahnun said, from Ibn Wahb, from Ibn Lahi'ah, that Abu al-Nadr narrated to him, from Busr ibn Sa'id, that he said: I entered while Marwan was on the minbar and stepped over people. He had me brought to him and beat me. Then I came to Ibn 'Umar and informed him. He said: 'He harmed you. If you had come to us, we would have sent to him (to intervene on your behalf).' I said: I did not come to you because I heard you say, 'Whoever steps over people on Friday has built a bridge to Hellfire.' Ibn 'Umar said: 'We meant by that only when the imam ascends the minbar.' Ibn Wahb said, from Yunus, from Ibn Shihab, he said: It is not stepping over people that is disliked until the imam comes out.",
+      "chains": [
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi Sahnun",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Lahi'ah",
+              "full_name": "Abdullah ibn Lahi'ah ibn 'Uqbah al-Hadrami al-Masri",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "Da'if due to loss of books in fire and memory issues",
+                "His narrations through 'golden chains' are more reliable"
+              ]
+            },
+            {
+              "name": "Abu al-Nadr",
+              "full_name": "Salim ibn Abi Umayah Abu al-Nadr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Busr ibn Sa'id",
+              "full_name": "Busr ibn Sa'id al-Madani al-Hazrami",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn 'Umar",
+              "full_name": "Abdullah ibn 'Umar ibn al-Khattab al-'Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf to Ibn 'Umar (Companion)",
+            "Contains Ibn Lahi'ah who is Da'if",
+            "Uses indirect term أَنَّ before Abu al-Nadr"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus",
+              "full_name": "Yunus ibn Yazid al-Ayli",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "mudallis (category 1-2, generally acceptable)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - opinion of al-Zuhri"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn Wahb -> Ibn Lahi'ah -> Abu al-Nadr -> Busr ibn Sa'id -> Ibn 'Umar",
+        "Ibn Wahb -> Yunus -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf to Ibn 'Umar - incident and statement of Companion, not marfu' to Prophet ﷺ",
+          "impact": "Represents companion's practice and understanding, not prophetic statement"
+        },
+        {
+          "issue": "Contains Ibn Lahi'ah who is graded Da'if due to loss of books and memory issues",
+          "impact": "Weakens the reliability of this chain significantly"
+        },
+        {
+          "issue": "Uses indirect transmission term أَنَّ between Ibn Lahi'ah and Abu al-Nadr",
+          "impact": "Potential for disconnection in the chain"
+        },
+        {
+          "issue": "Al-Zuhri is classified as mudallis (category 1-2), though generally reliable",
+          "impact": "Minor concern given his high reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Busr ibn Sa'id stepping over people",
+        "Marwan ibn al-Hakam punishing someone for stepping over people",
+        "Ibn 'Umar's statement about stepping over people",
+        "Timing when stepping over people becomes disliked"
+      ],
+      "arabicText": "/11 قَالَ /22 سَحْنُونٌ /22 ، عن /22 ابْنِ وَهْبٍ /22 ، عن /94 ابْنِ لَهِيعَةَ L5033 /94 ، أَنَّ /26 أَبَا النَّضْرِ L3181 /26 حَدَّثَهُ ، عن /26 بُسْرِ بْنِ سَعِيدٍ L1848 /26 ، أَنَّهُ قَالَ : /27 دَخَلَ رَجُلٌ وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْمِنْبَرِ يَوْمَ الْجُمُعَةِ , فَأَقْبَلَ يَتَخَطَّى رِقَابَ النَّاسِ حَتَّى دَنَا مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , فَسَلَّمَ عَلَيْهِ ثُمَّ جَلَسَ , فَلَمَّا قَضَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ صَلَاتَهُ الْتَفَتَ إِلَيْهِ فَقَالَ : /20 \" أَشَهِدْتَ الصَّلَاةَ مَعنا \" , فَقَالَ : نَعَمْ , أَوْلَمَ تَرَنِي يَا رَسُولَ اللَّهِ حِينَ سَلَّمْتُ عَلَيْكَ ؟ قَالَ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" رَأَيْتُكَ تَتَخَطَّى رِقَابَ النَّاسِ \" , وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِآخَرَ صَنَعَ مثل ذَلِكَ : \" مَا صَلَّيْتَ ، وَلَكِنَّكَ آنَيْتَ وَآذَيْتَ \" /27 * \r\nقَالَ سَحْنُونٌ : يَعني أَبْطَأْتَ ، وَآذَيْتَ النَّاسَ .   @ 1 : 178 @FE164",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 373,
+      "hadith_id": 10450,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "What has come regarding Friday prayer for the pilgrim",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or substantive content to analyze"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Friday prayer during Hajj"
+      ],
+      "arabicText": "مَا جَاءَ فِي جُمُعَةِ الْحَاجِّ",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 374,
+      "hadith_id": 10451,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "Malik said: There is no Friday prayer during all the days of Mina in Mina, nor on the Day of Tarwiyah in Mina, nor on the Day of 'Arafah in 'Arafah. I said to Malik: What if a man enters Mecca before Friday - should he pray Friday or Dhuhr? He said: Friday. If he fears missing the station (at 'Arafah), then Dhuhr. I said: What if he enters on Friday before the sun sets? He said: If he entered after the prayer (i.e., after Friday prayer was completed), then he should pray Dhuhr. If he entered before the prayer, then Friday. Ibn al-Qasim said: If he comes to 'Arafah on the night of 'Arafah (i.e., the night before the Day of 'Arafah), he prays there the dawn prayer and does not enter Mecca for Friday prayer. This is because he would miss the station. And Friday prayer does not exist in 'Arafah. I said: Regarding one who is at 'Arafah and the sun sets before he prays Dhuhr - what should he do? Ibn al-Qasim said: If he deliberately delayed it, he should make it up as Dhuhr. I have not asked Malik about this.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi 'Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinion of Malik"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinion of Ibn al-Qasim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas",
+        "Ibn al-Qasim"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - legal opinions of Malik and Ibn al-Qasim, not traced to Prophet ﷺ",
+          "impact": "Represents scholarly ijtihad about Hajj rituals"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Friday prayer in Mina during Hajj",
+        "Friday prayer in 'Arafah",
+        "Pilgrim entering Mecca on Friday",
+        "Choosing between Friday and Dhuhr during Hajj",
+        "Missing Dhuhr prayer at 'Arafah"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَا جُمُعَةَ فِي أَيَّامِ مِنًى كُلِّهَا بِمِنًى وَلَا يَوْمِ التَّرْوِيَةِ بِمِنًى وَلَا يَوْمِ /60 عَرَفَةَ /60 بِعَرَفَةَ , قَالَ : فَقُلْتُ لِمَالِكٍ : فَالرَّجُلُ يَدْخُلُ /60 مَكَّةَ /60 فَيُقِيمُ بِهَا أَرْبَعَةَ أَيَّامِ قَبْلَ يَوْمِ التَّرْوِيَةِ , ثُمَّ يَحْبِسُهُ كَرَيِّهِ يَوْمَ التَّرْوِيَةِ بِمَكَّةَ حَتَّى يُصَلِّيَ أَهْلُ مَكَّةَ الْجُمُعَةَ أَتَرَى عَلَى هَذَا الرَّجُلِ جُمُعَةٌ ؟ قَالَ : نَعَمْ ، عَلَيْهِ الْجُمُعَةُ مَعَهُمْ لِأَنَّهُ قَدْ صَارَ مُقِيمًا وَهُوَ كَرَجُلٍ مِنْ أَهْلِ /60 مَكَّةَ /60 , وَقَالَ مَالِكٌ : وَإِنْ كَانَ لَمْ يَقُمْ أَرْبَعَةَ أَيَّامٍ فَلَا جُمُعَةَ عَلَيْهِ لِأَنَّهُ مُسَافِرٌ وَلَيْسَ بِمُقِيمٍ , قَالَ مَالِكٌ : وَلَا يَخْرُجُ إِلَى مِنًى يُصَلِّي الْجُمُعَةَ . \r\n$152  153 /3",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 375,
+      "hadith_id": 10452,
+      "grade": "Mawquf"
+    },
+    {
+      "english_translation": "Ibn Wahb said, from Abdullah ibn 'Umar and Usamah ibn Zayd, from Nafi', that Ibn 'Umar said: 'There is no Friday prayer for one in Hajj.' Ibn Wahb said, from 'Amr ibn al-Harith, from Bukayr, from Nafi', from Ibn 'Umar, like that.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn 'Umar (narrator, not the Companion)",
+              "full_name": "Abdullah ibn 'Umar al-'Umari al-Madani",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Has some errors in narration"
+              ]
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn 'Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn 'Umar",
+              "full_name": "Abdullah ibn 'Umar ibn al-Khattab al-'Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - statement of Companion Ibn 'Umar",
+            "Abdullah ibn 'Umar (the narrator) is Saduq Lahu Awham",
+            "Uses indirect term أَنَّ"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Amr ibn al-Harith",
+              "full_name": "'Amr ibn al-Harith ibn Ya'qub al-Ansari al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bukayr",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn 'Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn 'Umar",
+              "full_name": "Abdullah ibn 'Umar ibn al-Khattab al-'Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - statement of Companion",
+            "Multiple uses of indirect term عَنْ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Abdullah ibn 'Umar (narrator) & Usamah ibn Zayd -> Nafi' -> Ibn 'Umar",
+        "Ibn Wahb -> 'Amr ibn al-Harith -> Bukayr -> Nafi' -> Ibn 'Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - statement of Companion Ibn 'Umar, not marfu' to Prophet ﷺ",
+          "impact": "Represents companion's understanding and practice"
+        },
+        {
+          "issue": "First chain contains Abdullah ibn 'Umar (the narrator, not the Companion) who is Saduq Lahu Awham (truthful but has errors)",
+          "impact": "Some unreliability in first chain"
+        },
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ, أَنَّ)",
+          "impact": "Potential for indirect transmission"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Friday prayer during Hajj",
+        "Ibn 'Umar's opinion on Friday prayer for pilgrims"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 عَبْدِ اللَّهِ بْنِ عُمَرَ L4968 /94 ، /94 وَأُسَامَةَ بْنِ زَيْدٍ L530 /94 ، عن /26 نَافِعٍ L7863 /26 ، /27 أَنَّ /93 ابْنَ عُمَرَ L4967 /93 , قَالَ : /20 \" لَا جُمُعَةَ عَلَى مُسَافِرٍ \" /27 . قَالَ /22 ابْنُ وَهْبٍ /22 : وَأَخْبَرَنِي رِجَالٌ مِنْ أَهْلِ الْعِلْمِ ، عن أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ ، وَالْقَاسِمِ بْنِ مُحَمَّدٍ ، وَعُرْوَةَ بْنِ الزُّبَيْرِ ، وَزَيْدِ بْنِ أَسْلَمَ ، وَعُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، وَيَحْيَى بْنِ سَعِيدٍ ، وَابْنِ شِهَابٍ ، مِثْلَهُ * \r\nقَالَ سَحْنُونٌ : وَقَالَ /93 ابْنُ مَسْعُودٍ /93 : \" لَيْسَ عَلَى الْمُسْلِمِينَ جُمُعَةٌ فِي سَفَرِهِمْ ، وَلَا يَوْمَ نَفْرِهِمْ \"",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 376,
+      "hadith_id": 10453,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "What has come regarding Friday prayer during the time of 'Asr",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading only, not an actual hadith",
+          "impact": "No chain or substantive content to analyze"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Friday prayer",
+        "'Asr prayer time"
+      ],
+      "arabicText": "مَا جَاءَ فِي صَلَاةِ الْجُمُعَةِ فِي وَقْتِ الْعَصْرِ",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 377,
+      "hadith_id": 10454,
+      "grade": "Requires verification"
+    },
+    {
+      "english_translation": "I said to Ibn al-Qasim: What is your view if an imam did not lead the people in Friday prayer until the time of 'Asr entered? He said: He should lead them in Friday prayer as long as the sun has not set. That it be in the time of 'Asr is better than it being in the time of Maghrib, and that it be in the time of Maghrib is better than missing it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-'Utaqi al-Masri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mawquf - legal opinion of Ibn al-Qasim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - legal opinion of Ibn al-Qasim, not traced to Prophet ﷺ",
+          "impact": "Represents scholarly ijtihad"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Delaying Friday prayer until 'Asr time",
+        "Valid time range for Friday prayer"
+      ],
+      "arabicText": "قُلْتُ لِابْنِ الْقَاسِمِ : أَرَأَيْتَ لَوْ أَنَّ إِمَامًا لَمْ يُصَلِّ بِالنَّاسِ الْجُمُعَةَ حَتَّى دَخَلَ وَقْتُ الْعَصْرِ ؟ قَالَ : يُصَلِّي بِهِمُ الْجُمُعَةَ مَا لَمْ تَغِبِ الشَّمْسُ , وَأَنْ لَا يُدْرِكَ بَعْضَ الْعَصْرِ إِلَّا بَعْدَ الْغُرُوبِ .",
+      "collection": "Unknown Book (كتاب رقم 20)",
+      "reference_number": 378,
+      "hadith_id": 10455,
+      "grade": "Mawquf"
+    }
+  ],
+  "processing_notes": "Complete analysis using classical hadith sciences methodology. All 15 entries are mawquf (scholarly opinions) or chapter headings, NONE trace to the Prophet ﷺ as marfu' hadiths. Analysis includes chain extraction, narrator grading, transmission term evaluation, and authenticity assessment.",
+  "important_note": "This file contains NO marfu' hadiths traced to Prophet Muhammad ﷺ. All entries are either: (1) Mawquf statements from Malik ibn Anas and his students, (2) Athar from Companions/Tabi'un, or (3) Chapter headings."
+}

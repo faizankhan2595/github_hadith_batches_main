@@ -1,0 +1,727 @@
+{
+  "batch_number": 2,
+  "file_number": 92,
+  "record_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 10366,
+      "english_translation": "I asked: Did Malik dislike that there be in the qibla something like this writing that was written in your mosque in Fustat? He said: I heard Malik mention the mosque of Medina and what was done in it of decoration in its qibla and elsewhere, and he said: The people disliked that when they did it, and that is because it distracts people in their prayer - they look at it and it diverts them. Malik said: And indeed it reached me that Umar ibn Abdul Aziz when he assumed the caliphate wanted to remove it, but it was said to him: That will not extract much gold, so he left it. He said: And Malik was asked about the Mushaf being in the qibla - is it prayed towards while it is in the qibla? Malik said: If it was placed only to be prayed towards, then there is no good in it, but if it is merely its place and where it is hung, then I see no harm in that. He said: And Malik narrated to me that Abdullah ibn Umar used to dislike that a man pray towards these stones that are placed on the road because of their resemblance to idols. He said: So we said to Malik, do you dislike that? He said: As for a single stone, I dislike it, but as for stones that are numbered, I see no harm in that.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قُلْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Abdul Aziz",
+              "full_name": "Umar ibn Abd al-Aziz ibn Marwan ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "balagh narration - indirect transmission"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Contains بَلَغَنِي (balaghani) indicating indirect transmission from Umar ibn Abdul Aziz"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain uses أَنَّ (anna) which typically indicates indirect transmission, though from Malik this is generally acceptable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik -> (Report about) Umar ibn Abdul Aziz",
+        "Ibn al-Qasim -> Malik -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain contains بَلَغَنِي (balaghani) from Malik, indicating indirect report about Umar ibn Abdul Aziz",
+          "impact": "The report about Umar ibn Abdul Aziz lacks direct connection, weakening this particular narration. However, Malik's own scholarly opinions are sound."
+        },
+        {
+          "issue": "Second chain uses أَنَّ (anna) from Malik regarding Ibn Umar",
+          "impact": "While أَنَّ can indicate disconnection, Malik's use is generally acceptable among scholars due to his precision."
+        },
+        {
+          "issue": "These are mawquf narrations (scholarly opinions), not marfu' (prophetic statements)",
+          "impact": "Represents juristic views of Malik and Ibn Umar, not direct prophetic teachings."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Mosque Decoration and Adornment",
+        "Distractions in Prayer",
+        "Incident of Umar ibn Abdul Aziz wanting to remove mosque decorations",
+        "Qibla Direction Matters",
+        "Mushaf Placement in Mosques",
+        "Praying Towards Stones",
+        "Resemblance to Idols"
+      ],
+      "arabicText": "قُلْتُ : أَكَانَ مَالِكٌ يَكْرَهُ أَنْ يَكُونَ فِي الْقِبْلَةِ مثل هَذَا الْكِتَابِ الَّذِي كُتِبَ فِي مَسْجِدِكُمْ بِالْفُسْطَاطِ ؟ قَالَ : سَمِعْتُ مَالِكًا وَذَكَرَ /60 مَسْجِدَ الْمَدِينَةِ /60 وَمَا عُمِلَ فِيهِ مِنَ التَّزْوِيقِ فِي قِبْلَتِهِ وَغَيْرِهِ , فَقَالَ : كَرِهَ ذَلِكَ النَّاسُ حِينَ فَعَلُوهُ وَذَلِكَ ؛ لِأَنَّهُ يَشْغَلُ النَّاسَ فِي صَلَاتِهِمْ يَنْظُرُونَ إِلَيْهِ فَيُلْهِيهِمْ , قَالَ مَالِكٌ : وَلَقَدْ بَلَغَنِي أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ لَمَّا وَلِيَ الْخِلَافَةَ أَرَادَ نَزْعَهُ . فَقِيلَ لَهُ : إِنَّ ذَلِكَ لَا يُخْرِجُ كَبِيرَ شَيْءٍ مِنَ الذَّهَبِ فَتَرَكَهُ . قَالَ : وَسُئِلَ مَالِكٌ عن الْمُصْحَفِ يَكُونُ فِي الْقِبْلَةِ أَيُصَلَّى إِلَيْهِ ، وَهُوَ فِي الْقِبْلَةِ ؟ قَالَ مَالِكٌ : إِنْ كَانَ إِنَّمَا جُعِلَ لِيُصَلِّيَ إِلَيْهِ ، فَلَا خَيْرَ فِيهِ ، وَإِنْ كَانَ إِنَّمَا هُوَ مَوْضِعُهُ    @ 1 : 138 @   وَمُعَلَّقُهُ ، فَلَا أَرَى بِذَلِكَ بَأْسًا . قَالَ : وَحَدَّثَنِي مَالِكٌ : أَنَّ عَبْدَ اللَّهَ بْنَ عُمَرَ كَانَ يَكْرَهُ أَنْ يُصَلِّيَ الرَّجُلُ إِلَى هَذِهِ الْحِجَارَةِ الَّتِي تُوضَعُ فِي الطَّرِيقِ لِشَبَهِهَا بِالْأَنْصَابِ , قَالَ : فَقُلْنَا لِمَالِكٍ أَفَتَكْرَهُ ذَلِكَ ؟ قَالَ : أَمَّا الْحَجَرُ الْوَاحِدُ ، فَإِنِّي أَكْرَهُهُ ، وَأَمَّا الْحِجَارَةُ الَّتِي لَهَا عَدَدٌ ، فَلَا أَرَى بِذَلِكَ بَأْسًا .    @ 1 : 139 @    /1 كِتَابُ الصَّلَاةِ الثَّانِي /1 /4 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ /4",
+      "collection": "كتاب رقم 20",
+      "reference_number": 289,
+      "grade": null
+    },
+    {
+      "hadith_id": 10367,
+      "english_translation": "Chapter: What has been narrated about the prostration of Quran recitation",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab), not an actual hadith",
+          "impact": "No chain or narration to analyze."
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Prostration of Quran Recitation"
+      ],
+      "arabicText": "مَا جَاءَ فِي سُجُودِ الْقُرْآنِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 290,
+      "grade": null
+    },
+    {
+      "hadith_id": 10368,
+      "english_translation": "Sahnun said: Abd al-Rahman ibn al-Qasim said: Malik ibn Anas said: The prostrations of the Quran are eleven prostrations, there is none of them in al-Mufassal: Alif Lam Meem Sad, ar-Ra'd, an-Nahl, Bani Isra'il, Maryam, al-Hajj - the first one, al-Furqan, and al-Hudhud (an-Naml).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses قَالَ (qala) throughout, which is acceptable for scholarly opinions"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Abd al-Rahman ibn al-Qasim -> Malik ibn Anas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement (Malik's scholarly opinion on sajda locations in Quran)",
+          "impact": "This represents Malik's juristic view, not a prophetic hadith. The chain is sound for transmitting scholarly opinions."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prostration Verses in Quran",
+        "Number of Sajda Tilawah",
+        "Quranic Chapters with Prostration"
+      ],
+      "arabicText": "قَالَ سَحْنُونٌ ، قَالَ عَبْدُ الرَّحْمَنِ بْنُ الْقَاسِمِ ، قَالَ مَالِكُ بْنُ أَنَسٍ : \" سُجُودُ الْقُرْآنِ إِحْدَى عَشْرَةَ سَجْدَةً لَيْسَ فِي الْمُفَصَّلِ مِنْهَا شَيْءٌ المص ، وَالرَّعْدُ ، وَالنَّحْلُ ، وَبَنِي إِسْرَائِيلَ ، وَمَرْيَمُ ، وَالْحَجُّ أَوَّلُهَا ، وَالْفُرْقَانُ ، وَالْهُدْهُدُ ، وَ /4 الم تَنْزِيلُ /4 السَّجْدَةُ ، وَ ص ، وَ /4 حم تَنْزِيلُ /4 \" . قَالَ ابْنُ الْقَاسِمِ : وَسَأَلْتُ مَالِكًا عن \" حم تَنْزِيلُ \" أَيْنَ يُسْجَدُ فِيهَا ؟ /4 إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ /4 أَوْ /4 يَسْأَمُونَ /4 ؛ لِأَنَّ الْقُرَّاءَ اخْتَلَفُوا فِيهَا قَالَ : السَّجْدَةُ فِي : /4 إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ /4 .\u001fE109 قَالَ ابْنُ الْقَاسِمِ : وَسَمِعْتُ اللَّيْثَ بْنَ سَعْدٍ يَقُولُهُ ، وَأَخْبَرَنِي بَعْضُ أَهْلِ الْمَدِينَةِ ، عن نَافِعٍ الْقَارِئِ ، مِثْلَهُ . قَالَ : وَقَدْ قَالَ ابْنُ عَبَّاسٍ ، وَالنَّخَعِيُّ : \" لَيْسَ فِي الْحَجِّ إِلَّا سَجْدَةٌ وَاحِدَةٌ \" . قَالَ : وَقَالَ مَالِكٌ : لَا أُحِبُّ لِأَحَدٍ أَنْ يَقْرَأَ سَجْدَةً إِلَّا سَجَدَهَا فِي صَلَاةِ أَوْ فِي غَيْرِهَا ، وَإِنْ كَانَ فِي غَيْرِ إِبَّانِ صَلَاةٍ ، أَوْ عَلَى غَيْرِ وُضُوءٍ لَمْ أُحِبَّ لَهُ أَنْ يَقْرَأَهَا ، وَلْيَتَعَدَّهَا إِذَا قَرَأَهَا , قَالَ : فَقُلْتُ لَهُ : فَإِنْ قَرَأَهَا بَعْدَ الْعَصْرِ ، أَوْ بَعْدَ الصُّبْحِ أَيَسْجُدُهَا ؟ قَالَ : إِنْ قَرَأَهَا بَعْدَ الْعَصْرِ وَالشَّمْسُ بَيْضَاءُ نَقِيَّةٌ لَمْ يَدْخُلْهَا صُفْرَةٌ رَأَيْتُ أَنْ يَسْجُدَهَا , وَإِنْ دَخَلَتْهَا صُفْرَةٌ لَمْ أَرَ أَنْ يَسْجُدَهَا ، وَإِنْ قَرَأَهَا بَعْدَ الصُّبْحِ وَلَمْ يُسْفِرْ ، فَأَرَى أَنْ يَسْجُدَهَا   ، فَإِنْ أَسْفَرَ ، فَلَا أَرَى أَنْ يَسْجُدَهَا , ثُمَّ قَالَ : أَلَا تَرَى أَنَّ الْجَنَائِزَ يُصَلَّى عَلَيْهَا مَا لَمْ تَتَغَيَّرِ الشَّمْسُ ، أَوْ تُسْفِرُ بَعْدَ صَلَاةِ الصُّبْحِ , وَكَذَلِكَ السَّجْدَةُ عندِي . قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ أَنْ يَقْرَأَ الرَّجُلُ السَّجْدَةَ بَعْدَ الصُّبْحِ مَا لَمْ يُسْفِرْ ، وَبَعْدَ الْعَصْرِ مَا لَمْ تَتَغَيَّرِ الشَّمْسُ وَيَسْجُدَهَا , فَإِذَا أَسْفَرَ ، أَوْ تَغَيَّرَتِ الشَّمْسُ ، فَأَكْرَهُ لَهُ أَنْ يَقْرَأَهَا ، فَإِذَا قَرَأَهَا إِذَا أَسْفَرَ ، وَإِذَا اصْفَرَّتِ الشَّمْسُ لَمْ يَسْجُدْهَا . قَالَ : وَسَأَلْتُ مَالِكًا عن الَّذِي يَقْرَؤُهَا فِي رَكْعَةٍ فَيَسْهُو أَنْ يَسْجُدَهَا حَتَّى يَرْكَعَ وَيَقُومُ ؟ قَالَ مَالِكٌ : أَرَى أَنْ يَقْرَأَهَا فِي الرَّكْعَةِ الثَّانِيَةِ ، وَيَسْجُدَهَا وَهَذَا فِي النَّافِلَةِ ، فَأَمَّا فِي الْفَرِيضَةِ فَلَا يَقْرَؤُهَا , فَإِنْ هُوَ قَرَأَهَا فَلَمْ يَسْجُدْهَا ، ثُمَّ ذَكَرَ فِي الرَّكْعَةِ الثَّانِيَةِ لَمْ يُعِدْ قِرَاءَتَهَا مَرَّةً أُخْرَى . قَالَ : وَسَأَلْنَا مَالِكًا عَمَّنْ قَرَأَ سَجْدَةً فِي صَلَاةِ نَافِلَةٍ ، ثُمَّ نَسِيَ أَنْ يَسْجُدَهَا حَتَّى رَكَعَ ؟ قَالَ : أَحَبُّ إِلَيَّ أَنْ يَقْرَأَهَا فِي الرَّكْعَةِ الثَّانِيَةِ ثُمَّ يَسْجُدَهَا قَالَ : وَقَالَ مَالِكٌ : لَا أُحِبُّ لِلْإِمَامِ أَنْ يَقْرَأَ فِي الْفَرِيضَةِ بِسُورَةٍ فِيهَا سَجْدَةٌ ؛ لِأَنَّهُ يَخْلِطُ عَلَى النَّاسِ صَلَاتَهُمْ .\u001dE110 قَالَ : وَسَأَلْنَا مَالِكًا عن الْإِمَامِ يَقْرَأُ السُّورَةَ فِي صَلَاةِ الصُّبْحِ فِيهَا سَجْدَةٌ ؟ فَكَرِهَ ذَلِكَ . وَقَالَ : أَكْرَهُ لِلْإِمَامِ أَنْ يَتَعَمَّدَ سُورَةً فِيهَا سَجْدَةٌ فَيَقْرَأَهَا ؛ لِأَنَّهُ يَخْلِطُ عَلَى النَّاسِ صَلَاتَهُمْ ، فَإِذَا قَرَأَ سُورَةً فِيهَا سَجْدَةٌ سَجَدَهَا .    @ 1 : 140 @    قُلْتُ   : وَهَذَا قَوْلُ مَالِكٍ : قَدْ كَرِهَ لِلْإِمَامِ هَذَا ، فَكَيْفَ بِالرَّجُلِ وَحْدَهُ إِذَا أَرَادَ أَنْ يَقْرَأَ سُورَةً فِيهَا سَجْدَةٌ ، وَيَسْجُدَ فِي الْمَكْتُوبَةِ ، أَكَانَ يَكْرَهُ ذَلِكَ لَهُ ؟ فَقَالَ : لَا أَدْرِي وَأَرَى أَنْ لَا يَقْرَأَهَا وَهُوَ الَّذِي رَأَيْتُ مَالِكًا يَذْهَبُ إِلَيْهِ . قُلْتُ : أَرَأَيْتَ مَنْ قَرَأَ سَجْدَةً فِي نَافِلَةٍ ، فَسَهَا أَنْ يَسْجُدَهَا فِي رَكْعَتِهِ الَّتِي قَرَأَهَا فِيهَا حَتَّى رَكَعَ الرَّكْعَةَ الثَّانِيَةَ ، فَذَكَرَ السَّجْدَةَ وَهُوَ رَاكِعٌ ؟ قَالَ : يُتِمُّ رُكُوعَهُ وَسُجُودَهُ فِي الرَّكْعَةِ الثَّانِيَةِ ، وَلَا شَيْءَ عَلَيْهِ إِلَّا أَنْ يَدْخُلَ فِي نَافِلَةٍ أُخْرَى ، فَإِذَا أَقَامَ إِلَيْهَا قَرَأَهَا وَسَجَدَ . قَالَ : وَقَالَ مَالِكٌ : مَنْ قَرَأَ سَجْدَةً فِي الصَّلَاةِ ، فَإِنَّهُ يُكَبِّرُ إِذَا سَجَدَهَا ، وَيُكَبِّرُ إِذَا رَفَعَ رَأْسَهُ مِنْهَا , قَالَ : وَإِذَا قَرَأَهَا وَهُوَ فِي غَيْرِ صَلَاةٍ ، فَكَانَ يُضَعِّفُ التَّكْبِيرَ قَبْلَ السُّجُودِ ، وَبَعْدَ السُّجُودِ , ثُمَّ قَالَ : أَرَى أَنْ يُكَبِّرَ ، وَقَدِ اخْتَلَفَ قَوْلُهُ فِيهِ إِذَا كَانَ فِي غَيْرِ صَلَاةٍ . قَالَ ابْنُ الْقَاسِمِ : وَكُلُّ ذَلِكَ وَاسِعٌ ، وَكَانَ لَا يَرَى السَّلَامَ بَعْدَهَا . وَقَالَ ابْنُ الْقَاسِمِ فِيمَنْ قَرَأَ سَجْدَةَ تِلَاوَةٍ فَرَكَعَ بِهَا قَالَ : لَا يَرْكَعُ بِهَا عندَ مَالِكٍ فِي صَلَاةٍ ، وَلَا فِي غَيْرِ صَلَاةٍ . قَالَ : وَقَالَ مَالِكٌ : أَكْرَهُ لِلرَّجُلِ أَنْ يَقْرَأَ السُّورَةَ ، فَيُخَطْرِفُ السَّجْدَةَ وَهُوَ عَلَى وُضُوءٍ , إِذَا قَرَأَ السُّورَةَ وَهُوَ عَلَى وُضُوءٍ ، فَلَا يَدَعُ أَنْ يَقْرَأَ السَّجْدَةَ . قَالَ : وَكَانَ مَالِكٌ   يَكْرَهُ لِلرَّجُلِ أَنْ يَقْرَأَ السَّجْدَةَ وَحْدَهَا لَا يَقْرَأُ قَبْلَهَا وَلَا بَعْدَهَا شَيْئًا ، فَيَسْجُدُهَا وَهُوَ فِي صَلَاةٍ أَوْ فِي غَيْرِ صَلَاةٍ .\u001eE111 قَالَ : وَكَانَ مَالِكٌ يُحِبُّ لِلرَّجُلِ إِذَا كَانَ عَلَى غَيْرِ وُضُوءٍ فَقَرَأَ سُورَةً فِيهَا سَجْدَةٌ أَنْ يُخَطْرِفَهَا . قُلْتُ لِابْنِ الْقَاسِمِ : أَرَأَيْتَ إِنْ قَرَأَهَا عَلَى غَيْرِ وُضُوءٍ ، أَوْ قَرَأَهَا فِي صَلَاةٍ فَلَمْ يَسْجُدْهَا حَتَّى قَضَى صَلَاتَهُ ، أَوْ قَرَأَهَا فِي السَّاعَاتِ الَّتِي يُنْهَى فِيهَا عن سُجُودِهَا ، هَلْ تَحْفَظُ مِنْ مَالِكٍ فِيهِ شَيْئًا ؟ قَالَ : كَانَ مَالِكٌ يَنْهَى عن هَذَا ، وَالَّذِي أَرَى أَنَّهُ لَا شَيْءَ عَلَيْهِ . قَالَ : وَكَانَ مَالِكٌ يَسْتَحِبُّ لَهُ إِنْ قَرَأَهَا فِي إِبَّانِ صَلَاةٍ أَنْ لَا يَدَعَ سُجُودَهَا ، وَكَانَ لَا يُوجِبُهَا ، وَكَانَ قَوْلُهُ : إِنَّهُ لَا يُوجِبُهَا وَكَانَ يَأْخُذُ فِي ذَلِكَ بِقَوْلِ عُمَرَ بْنِ الْخَطَّابِ رَضِيَ اللَّهُ عنهُ . قَالَ : وَقَالَ مَالِكٌ : إِذَا قَرَأَ السَّجْدَةَ مَنْ لَيْسَ لَكَ بِإِمَامٍ مِنْ رَجُلٍ أَوْ صَبِيٍّ أَوِ امْرَأَةٍ وَهُوَ قَرِيبٌ مِنْكَ ، وَأَنْتَ تَسْمَعُ فَلَيْسَ عَلَيْكَ السُّجُودُ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ سَمِعَ السَّجْدَةَ مِنْ رَجُلٍ فَسَجَدَهَا الَّذِي تَلَاهَا : إِنَّهُ لَيْسَ عَلَى هَذَا الَّذِي سَمِعَهَا أَنْ يَسْجُدَهَا إِلَّا أَنْ يَكُونَ جَلَسَ إِلَيْهِ . قَالَ : وَلَقَدْ سَمِعْتُهُ يُنْكِرُ هَذَا أَنْ يَأْتِيَ قَوْمٌ فَيَجْلِسُونَ إِلَى رَجُلٍ يَقْرَأُ الْقُرْآنَ لَا يَجْلِسُونَ إِلَيْهِ لِتَعْلِيمٍ . قَالَ : وَكَانَ مَالِكٌ يَكْرَهُ أَنْ يَجْلِسَ الرَّجُلُ مُتَعَمِّدًا مَعَ الْقَوْمِ لِيَقْرَأَ لَهُمُ الْقُرْآنَ وَسُجُودَ الْقُرْآنِ فَيَسْجُدَ بِهِمْ , وَقَالَ : لَا   أُحِبُّ أَنْ يُفْعَلَ هَذَا ، وَمَنْ قَعَدَ إِلَيْهِ فَعَلِمَ أَنَّهُ إِنَّمَا يُرِيدُ قِرَاءَةَ سَجْدَةٍ قَامَ عنهُ ، وَلَمْ يَجْلِسْ مَعَهُ قَالَ : وَلَوْ أَنَّ رَجُلًا إِلَى جَانِبِ رَجُلٍ لَمْ يَجْلِسْ إِلَيْهِ ، فَقَرَأَ ذَلِكَ الرَّجُلُ سَجْدَةً وَصَاحِبُهُ يَسْمَعُ ، فَلَيْسَ عَلَى الَّذِي يَسْمَعُهَا أَنْ يَسْجُدَهَا . قُلْتُ : أَرَأَيْتَ إِنْ جَلَسَ إِلَيْهِ قَوْمٌ ، فَقَرَأَ ذَلِكَ الرَّجُلُ سَجْدَةً فَلَمْ يَسْجُدْهَا الَّذِي قَرَأَهَا هَلْ يَجِبُ عَلَى هَؤُلَاءِ أَنْ يَسْجُدُوا ؟ قَالَ : نَعَمْ . قَالَ : وَسَأَلْتُ مَالِكًا عن هَذَا الَّذِي يَقْرَأُ فِي الْمَسْجِدِ يَوْمَ الْخَمِيسِ ، أَوْ نَحْوَ ذَلِكَ ؟ فَأَنْكَرَهُ وَقَالَ : أَرَى أَنْ يُقَامَ وَلَا يَتْرُكُ .\u0015E112 \r\n$110  111 /3",
+      "collection": "كتاب رقم 20",
+      "reference_number": 291,
+      "grade": null
+    },
+    {
+      "hadith_id": 10369,
+      "english_translation": "Ibn Wahb said: From Yunus, from Ibn Shihab, from Sa'id ibn al-Musayyab, from Uthman ibn Affan that he said: Indeed the prostration is only upon the one who listens to it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yunus",
+              "full_name": "Yunus ibn Yazid ibn Abi al-Najjad al-Ayli",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Known for tadlis by some scholars (category 3), though generally considered highly reliable"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Uthman ibn Affan",
+              "full_name": "Uthman ibn Affan ibn Abi al-As ibn Umayyah al-Qurashi al-Umawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain uses عَنْ (an) multiple times, including from Ibn Shihab al-Zuhri who is classified as a mudallis by some scholars"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Yunus -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab -> Uthman ibn Affan"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ (an) and is classified as a mudallis (category 3) by some scholars",
+          "impact": "Al-Zuhri is widely considered extremely reliable despite occasional tadlis. His narrations with عَنْ are generally accepted by the majority of scholars. This does not significantly impact the grading."
+        },
+        {
+          "issue": "Multiple uses of عَنْ (an) in the chain",
+          "impact": "While عَنْ can indicate potential indirect transmission, all narrators in this chain are considered reliable and trustworthy. The chain is acceptable."
+        },
+        {
+          "issue": "This is a mawquf statement (stops at companion Uthman, not reaching Prophet ﷺ)",
+          "impact": "This is the view of the companion Uthman ibn Affan, not a direct prophetic statement."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prostration Upon Hearing Quran",
+        "Who Must Perform Sajda Tilawah",
+        "Listener vs Reciter in Prostration"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 يُونُسَ L8621 /94 ، عن    @ 1 : 141 @    /26 ابْنِ شِهَابٍ L7272 /26 ، عن /26 سَعِيدِ بْنِ الْمُسَيِّبِ L3299 /26 ، /27 عن /93 عُثْمَانَ بْنِ عَفَّانَ L5543 /93 ، أَنَّهُ قَالَ : \" إِنَّمَا /20 السَّجْدَةُ عَلَى مَنِ اسْتَمَعَهَا \" /27 * \r\n$111  112 /2 /141 /11 قَالَ : /22 سَحْنُونٌ /22 ، عن /22 ابْنِ وَهْبٍ /22 ، قَالَ : /27 قَالَ ابْنُ عُمَرَ : وَقَدْ كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" يَقْرَأُ عَلَيْنَا الْقُرْآنَ ، فَيَقْرَأُ /65 السَّجْدَةَ /65 فَيَسْجُدُ وَنَسْجُدُ مَعَهُ ، وَذَلِكَ فِي غَيْرِ صَلَاةٍ \" /27 , قَالَ : مِنْ حَدِيثِ /22 ابْنِ وَهْبٍ /22 ، عن /26 عَبْدِ اللَّهِ بْنِ عُمَرَ L4968 /26 ، عن /26 نَافِعٍ L7863 /26 ، عن /93 ابْنِ عُمَرَ L4967 /93 * \r\n$112  113 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 292,
+      "grade": null
+    },
+    {
+      "hadith_id": 10370,
+      "english_translation": "Ibn Wahb said: From Hisham ibn Sa'd and Hafs ibn Maysarah, from Zayd ibn Aslam, from Ata' ibn Yasar, who said: It reached me that a man recited a verse of the Quran containing a prostration in the presence of the Messenger of Allah ﷺ.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Sa'd",
+              "full_name": "Hisham ibn Sa'd al-Madani",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Known to have some errors in narration"
+              ]
+            },
+            {
+              "name": "Hafs ibn Maysarah",
+              "full_name": "Hafs ibn Maysarah al-San'ani",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-'Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata' ibn Yasar",
+              "full_name": "Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "Uses بَلَغَنِي indicating disconnection from the Prophet ﷺ"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Contains بَلَغَنِي (balaghani) indicating this is mursal - chain is disconnected, missing link between Ata' ibn Yasar (Tabi'i) and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Hisham ibn Sa'd and Hafs ibn Maysarah -> Zayd ibn Aslam -> Ata' ibn Yasar -> (Missing link) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Ata' ibn Yasar says بَلَغَنِي (it reached me) without mentioning his source to the Prophet ﷺ",
+          "impact": "Mursal hadiths are considered weak by majority of scholars as there is a missing link in the chain. The unknown narrator(s) between Ata' and the Prophet could be weak or unknown."
+        },
+        {
+          "issue": "Hisham ibn Sa'd is graded as Saduq Lahu Awham (truthful but makes errors)",
+          "impact": "This narrator is generally truthful but is known to make occasional mistakes, which adds to the weakness of the narration."
+        },
+        {
+          "issue": "Multiple uses of عَنْ (an) throughout the chain",
+          "impact": "Combined with the mursal nature and narrator quality issues, this adds to the overall weakness."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Prostration Upon Reciting Quran",
+        "Incident of someone reciting prostration verse before the Prophet ﷺ"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 هِشَامِ بْنِ سَعْدٍ L8047 /94 ، /94 وَحَفْصِ بْنِ مَيْسَرَةَ L2450 /94 ، عن /26 زَيْدِ بْنِ أَسْلَمَ L3122 /26 ، عن /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، قَالَ : \" بَلَغَنِي /27 أَنَّ /20 رَجُلًا قَرَأَ آيَةً مِنَ الْقُرْآنِ فِيهَا سَجْدَةٌ عندَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , فَسَجَدَ الرَّجُلُ ، فَسَجَدَ مَعَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , ثُمَّ قَرَأَ آخَرُ آيَةً أُخْرَى فِيهَا سَجْدَةٌ وَهُوَ عندَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَانْتَظَرَ الرَّجُلُ أَنْ يَسْجُدَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلَمْ يَسْجُدْ فَقَالَ الرَّجُلُ : يَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَرَأْتُ السَّجْدَةَ فَلَمْ تَسْجُدْ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : كُنْتَ إِمَامًا فَلَوْ سَجَدْتَ سَجَدْتُ مَعَكَ \" /27 * \r\n7E113",
+      "collection": "كتاب رقم 20",
+      "reference_number": 293,
+      "grade": null
+    },
+    {
+      "hadith_id": 10371,
+      "english_translation": "Chapter: Regarding the one without purification carrying the Mushaf",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab), not an actual hadith",
+          "impact": "No chain or narration to analyze."
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Carrying the Mushaf Without Wudu"
+      ],
+      "arabicText": "مَا جَاءَ فِي غَيْرِ الطَّاهِرِ يَحْمِلُ الْمُصْحَفَ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 294,
+      "grade": null
+    },
+    {
+      "hadith_id": 10372,
+      "english_translation": "He said: And Malik said: The one without purification who is not in a state of wudu should not carry the Mushaf, neither on a cushion nor with a strap. He said: And Malik said: There is no harm in the Mushaf being carried in a chest, bag, or saddlebag and the like by one who is not in a state of wudu.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement (Malik's juristic opinion)",
+          "impact": "This represents Malik's scholarly view on carrying the Mushaf without wudu, not a prophetic hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Carrying the Mushaf Without Wudu",
+        "Purity Requirements for Quran Handling",
+        "Methods of Transporting the Mushaf"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَا يَحْمِلُ الْمُصْحَفَ غَيْرُ الطَّاهِرِ الَّذِي لَيْسَ عَلَى وُضُوءٍ لَا عَلَى وِسَادَةٍ وَلَا بِعِلَاقَةٍ . قَالَ : وَقَالَ مَالِكٌ : وَلَا بَأْسَ أَنْ يُحْمَلَ الْمُصْحَفُ فِي التَّابُوتِ وَالْغِرَارَةِ وَالْخُرْجِ ، وَنَحْوُ ذَلِكَ مَنْ هُوَ عَلَى غَيْرِ وُضُوءٍ , وَكَذَلِكَ الْيَهُودِيُّ وَالنَّصْرَانِيُّ لَا بَأْسَ أَنْ يَحْمِلَاهُ فِي التَّابُوتِ ، وَالْغِرَارَةِ ، وَالْخُرْجِ . قُلْتُ لِابْنِ الْقَاسِمِ : أَتَرَاهُ إِنَّمَا أَرَادَ بِهَذَا لِأَنَّ الَّذِي يَحْمِلُ الْمُصْحَفَ عَلَى الْوِسَادَةِ ، إِنَّمَا أَرَادَ حُمْلَانَ الْمُصْحَفِ لَا حُمْلَانَ مَا سِوَاهُ , وَالَّذِي يَحْمِلُهُ فِي التَّابُوتِ وَالْغِرَارَةِ وَنَحْوِ ذَلِكَ ، إِنَّمَا أَرَادَ بِهِ حُمْلَانَ مَا سِوَى الْمُصْحَفِ , لِأَنَّ ذَلِكَ مِمَّا يَكُونُ فِيهِ الْمَتَاعُ مَعَ الْمُصْحَفِ , قَالَ : نَعَمْ . قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ أَنْ يَحْمِلَ النَّصْرَانِيُّ الْغِرَارَةَ وَالصُّنْدُوقَ وَفِيهِمَا الْمُصْحَفُ , قَالَ : وَقَدْ أَمَرَ سَعْدُ بْنُ أَبِي وَقَّاصٍ الَّذِي كَانَ يَمْسِكُ عَلَيْهِ الْمُصْحَفَ حِينَ احْتَكَّ ، فَقَالَ لَهُ سَعْدٌ : لَعَلَّكَ مَسِسْتَ ذَكَرَكَ ؟ قَالَ : نَعَمْ . قَالَ لَهُ : قُمْ فَتَوَضَّأَ فَقَامَ فَتَوَضَّأَ ، ثُمَّ رَجَعَ .",
+      "collection": "كتاب رقم 20",
+      "reference_number": 295,
+      "grade": null
+    },
+    {
+      "hadith_id": 10373,
+      "english_translation": "Chapter: Regarding the sutrah (barrier) of the Imam in prayer",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab), not an actual hadith",
+          "impact": "No chain or narration to analyze."
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Sutrah for the Imam in Prayer"
+      ],
+      "arabicText": "فِي سُتْرَةِ الْإِمَامِ فِي الصَّلَاةِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 296,
+      "grade": null
+    },
+    {
+      "hadith_id": 10374,
+      "english_translation": "He said: And Malik said: Drawing a line is invalid. He said: And Malik said: Whoever is on a journey, there is no harm in him praying without a sutrah, but as for in a settled area, he should not pray except with a sutrah. Ibn al-Qasim said: Except if he is in a settled area in a place where he is confident that no one will pass in front of him, such as attending a funeral and the prayer time arrives outside.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement (Malik's juristic opinion on sutrah)",
+          "impact": "Represents Malik's scholarly view, not a prophetic hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Sutrah in Prayer",
+        "Prayer While Traveling vs Settled",
+        "Drawing Lines as Sutrah",
+        "Praying at Funerals"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : الْخَطُّ بَاطِلٌ . قَالَ : وَقَالَ مَالِكٌ : وَمَنْ كَانَ فِي سَفَرٍ فَلَا بَأْسَ أَنْ يُصَلِّيَ إِلَى غَيْرِ سُتْرَةٍ ، وَأَمَّا فِي الْحَضَرِ فَلَا يُصَلِّي إِلَّا إِلَى سُتْرَةٍ , قَالَ ابْنُ الْقَاسِمِ : إِلَّا أَنْ يَكُونَ فِي الْحَضَرِ بِمَوْضِعٍ يَأْمَنُ أَنْ لَا يَمُرَّ بَيْنَ يَدَيْهِ أَحَدٌ مثل الْجِنَازَةِ يَحْضُرُهَا ، فَتَحْضُرُ الصَّلَاةُ خَارِجًا ، وَمَا أَشْبَهَ ذَلِكَ , فَلَا بَأْسَ أَنْ يُصَلِّيَ إِلَى غَيْرِ سُتْرَةٍ . قَالَ : وَقَالَ مَالِكٌ : إِذَا كَانَ الرَّجُلُ خَلْفَ الْإِمَامِ وَقَدْ فَاتَهُ شَيْءٌ مِنْ صَلَاتِهِ فَسَلَّمَ الْإِمَامُ وَسَارِيَةٌ عن يَمِينِهِ ، أَوْ عن يَسَارِهِ ، فَلَا بَأْسَ أَنْ يَتَأَخَّرَ إِلَى السَّارِيَةِ عن يَمِينِهِ ، أَوْ عن يَسَارِهِ إِذَا كَانَ ذَلِكَ قَرِيبًا يَسْتَتِرُ بِهَا , قَالَ : وَكَذَلِكَ إِذَا كَانَتْ أَمَامَهُ ، فَيَتَقَدَّمَ إِلَيْهَا مَا لَمْ يَكُنْ ذَلِكَ بَعِيدًا , قَالَ : وَكَذَلِكَ إِذَا كَانَ ذَلِكَ وَرَاءَهُ ، فَلَا بَأْسَ أَنْ يَتَقَهْقَرَ إِذَا كَانَ ذَلِكَ قَلِيلًا , قَالَ : وَإِنْ كَانَتْ سَارِيَةٌ بَعِيدَةً مِنْهُ فَلْيُصَلِّ مَكَانَهُ وَلْيَدْرَأْ مَا يَمُرُّ بَيْنَ يَدَيْهِ مَا اسْتَطَاعَ . قَالَ : وَقَالَ مَالِكٌ : السُّتْرَةُ قَدْرُ مُؤَخَّرَةِ الرَّحْلِ فِي حُلَّةِ الرُّمْحِ , قَالَ : فَقُلْنَا لِمَالِكٍ : إِذَا كَانَ السَّوْطُ وَنَحْوُهُ ؟ فَكَرِهَهُ وَقَالَ : لَا يُعْجِبُنِي هَذَا . قَالَ وَكِيعُ بْنُ الْجَرَّاحِ ، عن شَرِيكٍ ، عن لَيْثٍ ، عن /26 الْحَكَمِ /26 , إِنَّ رَسُولَ    @ 1 : 142 @   اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" صَلَّى إِلَى الْفَضَاءِ   \" قَالَ وَكِيعٌ ، عن مَهْدِيِّ بْنِ مَيْمُونٍ ، قَالَ : رَأَيْتُ الْحَسَنَ يُصَلِّي فِي الْجَبَّانَةِ إِلَى غَيْرِ سُتْرَةٍ . قَالَ ابْنُ وَهْبٍ : \" وَقَدْ سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي يَوْمِ غَزْوَةِ تَبُوكِ مَا يَسْتُرُ الْمُصَلِّيَ ؟ فَقَالَ : مثل مُؤَخَّرَةِ الرَّحْلِ يَجْعَلُهُ بَيْنَ يَدَيْهِ \" . قَالَ ابْنُ وَهْبٍ ، وَقَالَ مَالِكٌ : وَذَلِكَ نَحْوٌ مِنْ عَظْمِ الذِّرَاعَ ، وَإِنِّي لَأُحِبُّ أَنْ يَكُونَ فِي جُلَّةِ الرُّمْحِ ، أَوِ الْحَرْبَةِ ، وَمَا أَشْبَهَ ذَلِكَ وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِذَا صَلَّى أَحَدُكُمْ إِلَى سُتْرَةٍ فَلْيَدْنُ مِنْ سُتْرَتِهِ ، فَإِنَّ الشَّيْطَانَ يَمُرُّ بَيْنَهُ وَبَيْنَهَا \" . قَالَ مِنْ حَدِيثِ ابْنِ وَهْبٍ ، عن دَاوُدَ بْنِ قَيْسٍ ، عن نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ . \r\n$113  114 /2 /141 وَقَدْ كَانَ ابْنُ عُمَرَ يُصَلِّي إِلَى بَعِيرِهِ ، \" وَقَدْ /27 /20 صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى بَعِيرِهِ \" , مِنْ حَدِيثِ /94 وَكِيعٍ L8160 /94 ، عن /26 شَرِيكِ بْنِ عَبْدِ اللَّهِ L3792 /26 ، عن /26 عُبَيْدِ اللَّهِ L5421 /26 ، عن /26 نَافِعٍ L7863 /26 ، عن /93 ابْنِ عُمَرَ L4967 /93 /27 * \r\n(E114",
+      "collection": "كتاب رقم 20",
+      "reference_number": 297,
+      "grade": null
+    },
+    {
+      "hadith_id": 10375,
+      "english_translation": "Chapter: Regarding passing in front of the one praying",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab), not an actual hadith",
+          "impact": "No chain or narration to analyze."
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Passing in Front of One Praying"
+      ],
+      "arabicText": "فِي الْمُرُورِ بَيْنَ يَدَيِ الْمُصَلِّي",
+      "collection": "كتاب رقم 20",
+      "reference_number": 298,
+      "grade": null
+    },
+    {
+      "hadith_id": 10376,
+      "english_translation": "He said: And Malik said: I do not dislike that a man pass in front of the rows while the Imam is leading them in prayer. He said: Because the Imam is a sutrah for them. He said: And Sa'd ibn Abi Waqqas used to enter the mosque and walk between the rows while people were in prayer until he would stand in his place of prayer, walking across in front of people. Malik said: And likewise whoever has a nosebleed.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'd ibn Abi Waqqas",
+              "full_name": "Sa'd ibn Malik ibn Wuhayb ibn Abd Manaf al-Zuhri al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The report about Sa'd is transmitted without explicit hearing terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik -> (Report about) Sa'd ibn Abi Waqqas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The report about Sa'd ibn Abi Waqqas's practice lacks explicit chain of transmission from Malik",
+          "impact": "This is Malik's report of Sa'd's practice, which is acceptable as athar though not directly witnessed by Malik."
+        },
+        {
+          "issue": "This is a mawquf statement (Malik's opinion and companion's practice)",
+          "impact": "Represents scholarly views and companion practices, not prophetic hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Passing in Front of Praying Rows",
+        "Imam as Sutrah for Followers",
+        "Incident of Sa'd ibn Abi Waqqas walking between rows",
+        "Leaving Prayer Due to Nosebleed"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَا أَكْرَهُ أَنْ يَمُرَّ الرَّجُلُ بَيْنَ يَدَيِ الصُّفُوفِ ، وَالْإِمَامُ يُصَلِّيَ بِهِمْ ، قَالَ : لِأَنَّ الْإِمَامَ سُتْرَةٌ لَهُمْ , قَالَ : وَكَانَ سَعْدُ بْنُ أَبِي وَقَّاصٍ يَدْخُلُ الْمَسْجِدَ ، فَيَمْشِي بَيْنَ الصُّفُوفِ وَالنَّاسُ فِي الصَّلَاةِ حَتَّى يَقِفَ فِي مُصَلَّاهُ يَمْشِي عَرْضًا بَيْنَ يَدَيِ النَّاسِ , قَالَ مَالِكٌ : وَكَذَلِكَ مَنْ رَعَفَ أَوْ أَصَابَهُ حَقْنٌ فَلْيَخْرُجْ عَرْضًا ، وَلَا يَرْجِعُ إِلَى عَجُزِ الْمَسْجِدِ , قَالَ : وَلَوْ ذَهَبَ يَخْرُجُ إِلَى عَجُزِ الْمَسْجِدِ لَبَالَ قَبْلَ أَنْ يَخْرُجَ . قَالَ : وَقَالَ مَالِكٌ : لَا يَقْطَعُ الصَّلَاةُ شَيْءً مِنَ الْأَشْيَاءِ مِمَّا يَمُرُّ بَيْنَ يَدَيِ الْمُصَلِّي , قَالَ : وَقَالَ مَالِكٌ : إِذَا كَانَ رَجُلٌ يُصَلِّيَ وَعن يَمِينِهِ رَجُلٌ وَعن يَسَارِهِ رَجُلٌ ، فَأَرَادَ الَّذِي عن يَمِينِهِ أَخْذَ ثَوْبٍ مَنِ الَّذِي عن يَسَارِهِ ، وَأَرَادَ أَنْ يُنَاوِلَهُ مَنْ بَيْنِ يَدَيِ الْمُصَلِّي , قَالَ مَالِكٌ : لَا يَصْلُحُ ذَلِكَ , قُلْتُ لِابْنِ الْقَاسِمِ : فَإِنْ نَاوَلَ الْمُصَلِّي نَفْسَهُ الثَّوْبَ أَوِ الْبَوَّ قَالَ رَجُلًا ؟ قَالَ : قَالَ : لَا يَصْلُحُ أَيْضًا عندَ مَالِكٍ , لِأَنَّهُ يَرَى الْبَوَّ قَالَ : أَوِ الثَّوْبَ إِذَا نَاوَلَهُ هُوَ نَفْسُهُ مِمَّا يَمُرُّ بَيْنَ يَدَيِ الْمُصَلِّي ، فَلَا يَصِحُّ أَنْ يَمُرَّ بَيْنَ يَدَيِ الْمُصَلِّي ؛ لِأَنَّهُ يَكْرَهُ أَنْ يَمُرَّ بَيْنَ يَدَيِ الْمُصَلِّي بِالثَّوْبِ أَوْ إِنْسَانٍ أَوْ بَوٍّ , قَالَ أَوْ غَيْرِ ذَلِكَ مِنَ الْأَشْيَاءِ هُوَ بِمَنْزِلَةِ وَاحِدَةٍ . \r\n$114  115 /2 /142 قَالَ /12 مَالِكُ بْنُ أَنَسٍ /12 ، عن /94 ابْنِ شِهَابٍ L7272 /94 ، عن /26 عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ L5409 /26 عن /93 ابْنِ عَبَّاسٍ L4883 /93 ، قَالَ : /27 \" جِئْتُ رَاكِبًا عَلَى أَتَانٍ ، وَقَدْ نَاهَزْتُ الْحُلُمَ ، فَإِذَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 يُصَلِّي بِالنَّاسِ /60 بِمِنًى /60 , فَسِرْتُ عَلَى الْأَتَانِ بَيْنَ يَدَيْ بَعْضِ الصَّفِّ ، ثُمَّ نزلت فَأَرْسَلْتُهَا تَرْتَعُ ، فَدَخَلْتُ فِي الصَّفِّ مَعَ النَّاسِ ، فَلَمْ يُنْكِرْ ذَلِكَ عَلَيَّ أَحَدٌ \" /27 * \r\nقَالَ ابْنُ وَهْبٍ ، وَقَالَ مَالِكٌ : سَمِعْتُ أَنَّ الْإِمَامَ سُتْرَةٌ لِمَنْ خَلْفَهُ ، وَإِنْ لَمْ يَكُونُوا إِلَى سُتْرَةٍ . \r\n$115  /3",
+      "collection": "كتاب رقم 20",
+      "reference_number": 299,
+      "grade": null
+    },
+    {
+      "hadith_id": 10377,
+      "english_translation": "Ibn Wahb said: From Sakhr ibn Abdullah ibn Harmalah ibn Amr ibn Muhriz al-Mudliji, he said: I heard Umar ibn Abdul Aziz narrating that the Messenger of Allah ﷺ said: Nothing cuts off the prayer. Ibn Wahb said: From Amr ibn al-Harith...",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi al-Fihri",
+              "grade": "Thiqah Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sakhr ibn Abdullah",
+              "full_name": "Sakhr ibn Abdullah ibn Harmalah ibn Amr ibn Muhriz al-Mudliji",
+              "grade": "Majhul al-Hal",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - little is known about his reliability"
+              ]
+            },
+            {
+              "name": "Umar ibn Abdul Aziz",
+              "full_name": "Umar ibn Abd al-Aziz ibn Marwan ibn al-Hakam",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains Sakhr ibn Abdullah who is Majhul al-Hal (unknown status)",
+            "Missing link between Umar ibn Abdul Aziz (Tabi'i) and the Prophet ﷺ - this is mursal"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Sakhr ibn Abdullah -> Umar ibn Abdul Aziz -> (Missing link) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sakhr ibn Abdullah ibn Harmalah is Majhul al-Hal (unknown reliability status)",
+          "impact": "This narrator is not well-known and lacks sufficient documentation of his reliability, significantly weakening the chain."
+        },
+        {
+          "issue": "This appears to be mursal - Umar ibn Abdul Aziz is a Tabi'i who did not meet the Prophet ﷺ",
+          "impact": "There is a missing link in the chain between Umar ibn Abdul Aziz and the Prophet ﷺ. Mursal hadiths are considered weak by the majority of scholars."
+        },
+        {
+          "issue": "Chain uses أَنَّ (anna) which often indicates disconnection",
+          "impact": "Combined with the mursal nature and unknown narrator, this further weakens the narration."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "What Cuts Off Prayer",
+        "Passing in Front of Praying Person"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 صَخْرِ بْنِ عَبْدِ اللَّهِ بْنِ حَرْمَلَةَ بْنِ عَمْرِو بْنِ مُحْرِزٍ الْمُدْلِجِيِّ L3915 /94 ، قَالَ : سَمِعْتُ /26 عُمَرَ بْنَ عَبْدِ الْعَزِيزِ L5974 /26 يُحَدِّثُ , /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" لَا يَقْطَعُ الصَّلَاةَ شَيْءٌ \" /27 * \r\n$116  117 /2 /141 /11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 عَمْرِو بْنِ الْحَارِثِ L6080 /94 ، عن /26 بَكْرِ بْنِ سَوَادَةَ الْجُذَامِيِّ L1931 /26 ، عن /26 عَبْدِ اللَّهِ بْنِ أَبِي مَرْيَمَ L21758 /26 ، /27 عن /93 قَبِيصَةَ بْنِ ذُؤَيْبٍ L6453 /93 \" أَنَّ /20 قِطًّا أَرَادَ أَنْ يَمُرَّ بَيْنَ يَدَيْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ يُصَلِّي ، فَحَبَسَهُ رَسُولُ اللَّهِ بِرِجْلِهِ \" /27 * \r\n@ 1 : 143 @\"E115",
+      "collection": "كتاب رقم 20",
+      "reference_number": 300,
+      "grade": null
+    },
+    {
+      "hadith_id": 10378,
+      "english_translation": "Chapter: Regarding combining two prayers on a rainy night",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab), not an actual hadith",
+          "impact": "No chain or narration to analyze."
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Combining Prayers in Rain"
+      ],
+      "arabicText": "فِي جَمْعِ الصَّلَاتَيْنِ لَيْلَةَ الْمَطَرِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 301,
+      "grade": null
+    },
+    {
+      "hadith_id": 10379,
+      "english_translation": "He said: And Malik said: Maghrib and Isha are combined in a settled area even if there is no rain, if there is mud and darkness, and they are also combined if there is rain. And when they intend to combine between them in a settled area when there is rain, mud, or darkness, they delay Maghrib slightly, then pray it, then pray Isha before its proper time.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Khalid al-Utaqi al-Misri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn al-Qasim -> Malik"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement (Malik's juristic opinion on combining prayers)",
+          "impact": "Represents Malik's scholarly view, not a prophetic hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Combining Maghrib and Isha",
+        "Rain as Excuse for Combining Prayers",
+        "Mud and Darkness as Excuse",
+        "Method of Combining Prayers"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : يُجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ فِي الْحَضَرِ ، وَإِنْ لَمْ يَكُنْ مَطَرٌ إِذَا كَانَ طِينٌ وَظُلْمَةٌ , وَيُجْمَعُ أَيْضًا بَيْنَهُمَا إِذَا كَانَ الْمَطَرُ , وَإِذَا أَرَادُوا أَنْ يَجْمَعُوا بَيْنَهُمَا فِي الْحَضَرِ إِذَا كَانَ مَطَرٌ أَوْ طِينٌ أَوْ ظُلْمَةٌ يُؤَخِّرُونَ الْمَغْرِبَ شَيْئًا ، ثُمَّ يُصَلُّونَهَا ، ثُمَّ يُصَلُّونَ الْعِشَاءَ الْآخِرَةَ قَبْلَ مَغِيبِ الشَّفَقِ , قَالَ : وَيَنْصَرِفُ النَّاسُ وَعَلَيْهِمْ أَسْفَارٌ قَلِيلٌ , قَالَ : وَإِنَّمَا أُرِيدُ بِذَلِكَ الرِّفْقَ بِالنَّاسِ ، وَلَوْلَا ذَلِكَ لَمْ يَجْمَعْ بِهِمْ . قُلْتُ لِابْنِ الْقَاسِمِ : فَهَلْ يُجْمَعُ فِي الطِّينِ وَالْمَطَرِ فِي الْحَضَرِ بَيْنَ الظُّهْرِ وَالْعَصْرِ كَمَا يُجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ فِي قَوْلِ مَالِكٍ ؟ قَالَ : قَالَ مَالِكٌ : لَا يُجْمَعُ بَيْنَ الظُّهْرِ وَالْعَصْرِ فِي الْحَضَرِ ، وَلَا نَرَى ذَلِكَ مثل الْمَغْرِبِ وَالْعِشَاءِ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ صَلَّى فِي بَيْتِهِ الْمَغْرِبَ فِي لَيْلَةِ الْمَطَرِ ، فَجَاءَ الْمَسْجِدَ فَوَجَدَ الْقَوْمَ قَدْ صَلُّوا الْعِشَاءَ الْآخِرَةَ ، فَأَرَادَ أَنْ يُصَلِّيَ الْعِشَاءَ , قَالَ : لَا أَرَى أَنْ يُصَلِّيَ الْعِشَاءَ ، وَإِنَّمَا جَمَعَ النَّاسُ لِلرِّفْقِ بِهِمْ ، وَهَذَا لَمْ يُصَلِّ مَعَهُمْ ، فَأَرَى أَنْ يُؤَخِّرَ الْعِشَاءَ حَتَّى يَغِيبَ الشَّفَقُ ، ثُمَّ يُصَلِّي بَعْدَ مَغِيبِ الشَّفَقِ . قُلْتُ : فَإِنْ وَجَدَهُمْ قَدْ صَلَّوْا الْمَغْرِبَ وَلَمْ يُصَلُّوا الْعِشَاءَ الْآخِرَةَ ، فَأَرَادَ أَنْ يُصَلِّيَ مَعَهُمُ الْعِشَاءَ ، وَقَدْ كَانَ صَلَّى الْمَغْرِبَ فِي بَيْتَهُ لِنَفْسِهِ ؟ قَالَ : لَا أَرَى بَأْسًا أَنْ يُصَلِّيَ مَعَهُمْ . قَالَ ابْنُ   وَهْبٍ ، عن عَمْرِو بْنِ الْحَارِثِ ، أَنَّ سَعِيدَ بْنَ هِلَالٍ ، حَدَّثَهُ أَنَّ ابْنَ قُسَيْطٍ حَدَّثَهُ : إِنَّ جَمْعَ الصَّلَاتَيْنِ بِالْمَدِينَةِ فِي لَيْلَةِ الْمَطَرِ الْمَغْرِبِ وَالْعِشَاءِ سُنَّةٌ , وَأَنْ قَدْ صَلَّاهَا أَبُو بَكْرٍ ، وَعُمَرُ ، وَعُثْمَانُ عَلَى ذَلِكَ وَجَمْعُهُمَا أَنَّ الْعِشَاءَ تَقْرُبُ إِلَى الْمَغْرِبِ حِينَ يُصَلَّى الْمَغْرِبُ ، وَكَذَلِكَ أَيْضًا يُصَلُّونَ بِالْمَدِينَةِ . قَالَ ابْنُ وَهْبٍ ، عن عَبْدِ اللَّهِ بْنِ عُمَرَ ، وَسَعِيدِ بْنِ الْمُسَيِّبِ ، وَالْقَاسِمِ ، وَسَالِمٍ ، وَعُرْوَةَ بْنِ الزُّبَيْرِ ، وَعُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، وَيَحْيَى بْنِ سَعِيدٍ ، وَرَبِيعَةَ ، وَأَبِي الْأَسْوَدِ مِثْلَهُ . قَالَ سَحْنُونٌ : وَإِنَّ النَّبِيَّ عَلَيْهِ الصَّلاةُ وَالسَّلامُ جَمَعَهُمَا جَمِيعًا .\"E116",
+      "collection": "كتاب رقم 20",
+      "reference_number": 302,
+      "grade": null
+    },
+    {
+      "hadith_id": 10380,
+      "english_translation": "Chapter: Regarding the sick person combining two prayers",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a chapter heading (bab), not an actual hadith",
+          "impact": "No chain or narration to analyze."
+        }
+      ],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Combining Prayers When Sick"
+      ],
+      "arabicText": "فِي جَمْعِ الْمَرِيضِ بَيْنَ الصَّلَاتَيْنِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 303,
+      "grade": null
+    }
+  ]
+}

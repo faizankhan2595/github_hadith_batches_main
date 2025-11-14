@@ -1,0 +1,815 @@
+{
+  "batch_number": 2,
+  "file_number": 42,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 9616,
+      "english_translation": "Malik said: Yahya ibn Sa'id said: Sa'id ibn al-Musayyab said: 'Before the month of Dhul-Hijjah ended, Umar (may Allah have mercy on him) was killed.' Yahya said: I heard Malik saying: His statement 'The sheikh and the sheikhah' means the non-virgin man and the non-virgin woman, 'stone them completely.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report about Umar's assassination, not a marfu' prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab (about Umar's assassination)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a historical mawquf report about Umar's death, not a prophetic hadith",
+          "impact": "This is a statement of Companion and Tabi'i, not from the Prophet ﷺ"
+        },
+        {
+          "issue": "The second part is Malik's own interpretation (ra'y) of a Quranic verse about stoning",
+          "impact": "This is scholarly opinion, not narration"
+        },
+        {
+          "issue": "Multiple uses of indirect transmission term 'qala' throughout the chain",
+          "impact": "Though the narrators are highly reliable, the indirect terms indicate this is not direct hearing. However, given the reliability of all narrators (all Thiqah/Thabt), this doesn't significantly impact the soundness for a mawquf report."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Historical Event of Umar ibn al-Khattab's Assassination",
+        "Timing of Umar's Death in Dhul-Hijjah",
+        "Malik's Scholarly Interpretation of Stoning Verse"
+      ],
+      "arabicText": "قَالَ مَالِك : قَالَ يَحْيَى بْنُ سَعِيدٍ : قَالَ سَعِيدُ بْنُ الْمُسَيَّبِ : \" فَمَا انْسَلَخَ ذُو الْحِجَّةِ ، حَتَّى قُتِلَ عُمَرُ رَحِمَهُ اللَّهُ \" . قَالَ يَحْيَى : سَمِعْتُ مَالِكًا ، يَقُولُ : قَوْلُهُ الشَّيْخُ وَالشَّيْخَةُ ، يَعْنِي الثَّيِّبَ وَالثَّيِّبَةَ ، فَارْجُمُوهُمَا الْبَتَّةَ *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1912,
+      "grade": null
+    },
+    {
+      "hadith_id": 9617,
+      "english_translation": "Narrated from Malik that it reached him: That Uthman ibn Affan was brought a woman who had given birth after six months, so he ordered that she be stoned. Ali ibn Abi Talib said to him: 'That is not upon her. Indeed Allah the Blessed and Exalted says in His Book: And his bearing and weaning is thirty months (Quran 46:15), and He said: Mothers shall suckle their children for two complete years for whoever wishes to complete the suckling (Quran 2:233). So the pregnancy can be six months, so there is no stoning upon her.' Then Uthman ibn Affan sent after her, but found that she had already been stoned.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal/balagh - disconnected chain, intermediaries unknown"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a balagh (بَلَغَهُ) report - Malik did not specify his source",
+            "The chain is completely disconnected (munqati') from Malik to the incident",
+            "Unknown intermediaries between Malik and the events involving Uthman and Ali"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> [Unknown intermediaries] -> Incident with Uthman and Ali"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a balagh/mursal report using 'balaghahu' (it reached him) without specifying any chain",
+          "impact": "The chain is completely disconnected. We don't know the intermediaries between Malik (d. 179H) and the incident that occurred in the time of the Companions (pre-40H). This is a major weakness of approximately 140+ years gap."
+        },
+        {
+          "issue": "This is a historical incident about companions (Uthman and Ali), not a prophetic hadith",
+          "impact": "While this reports actions of companions, it is mawquf and the disconnected chain makes it unreliable as a historical report"
+        },
+        {
+          "issue": "Malik's balagh reports in Muwatta vary in acceptance among scholars",
+          "impact": "Classical scholars debated the acceptance of Malik's balagh reports. Some accept them due to Malik's high status, others require supporting chains."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Woman Who Gave Birth After Six Months",
+        "Ali's Intervention to Save Woman from Stoning",
+        "Quranic Evidence for Minimum Pregnancy Duration",
+        "Disagreement Between Uthman and Ali on Legal Judgment"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عُثْمَانَ بْنَ عَفَّانَ أُتِيَ بِامْرَأَةٍ قَدْ وَلَدَتْ فِي سِتَّةِ أَشْهُرٍ ، فَأَمَرَ بِهَا أَنْ تُرْجَمَ ، فَقَالَ لَهُ عَلِيُّ بْنُ أَبِي طَالِبٍ : \" لَيْسَ ذَلِكَ عَلَيْهَا ، إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى ، يَقُولُ فِي كِتَابِهِ : وَحَمْلُهُ وَفِصَالُهُ ثَلاثُونَ شَهْرًا سورة الأحقاف آية 15 ، وَقَالَ : وَالْوَالِدَاتُ يُرْضِعْنَ أَوْلادَهُنَّ حَوْلَيْنِ كَامِلَيْنِ لِمَنْ أَرَادَ أَنْ يُتِمَّ الرَّضَاعَةَ سورة البقرة آية 233 ، فَالْحَمْلُ يَكُونُ سِتَّةَ أَشْهُرٍ ، فَلَا رَجْمَ عَلَيْهَا \" . فَبَعَثَ عُثْمَانُ بْنُ عَفَّانَ فِي أَثَرِهَا ، فَوَجَدَهَا قَدْ رُجِمَتْ *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1913,
+      "grade": null
+    },
+    {
+      "hadith_id": 9618,
+      "english_translation": "Narrated from Malik: That he asked Ibn Shihab about the one who does the deed of the people of Lut (sodomy). Ibn Shihab said: 'Stoning is upon him, whether married or unmarried.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydillah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ سَأَلَ",
+              "reliabilityIssues": [
+                "Known mudallis (category 3 per Ibn Hajar), but generally accepted as reliable"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is not a narration but a direct question-answer between Malik and his teacher Ibn Shihab"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab al-Zuhri (personal fatwa/opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Malik reporting Ibn Shihab al-Zuhri's personal legal opinion (fatwa), not a hadith",
+          "impact": "This is a statement of scholarly opinion from a Tabi'i, not a prophetic narration or even a companion's statement"
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3), though he's reporting his own opinion here, not narrating",
+          "impact": "Since this is his own fatwa being asked directly by Malik, the tadlis issue doesn't apply here. However, it's important to note that this is just his scholarly opinion."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Ibn Shihab al-Zuhri's Legal Opinion on Sodomy Punishment",
+        "Scholarly Views on Punishment for Homosexual Acts"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنِ الَّذِي يَعْمَلُ عَمَلَ قَوْمِ لُوطٍ ؟ فَقَالَ ابْنُ شِهَابٍ : \" عَلَيْهِ الرَّجْمُ أَحْصَنَ أَوْ لَمْ يُحْصِنْ \" * /",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1914,
+      "grade": null
+    },
+    {
+      "hadith_id": 9619,
+      "english_translation": "Chapter: What has come regarding the one who confesses to adultery upon himself",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ مَا جَاءَ فِيمَنِ اعْتَرَفَ عَلَى نَفْسِهِ بِالزِّنَا",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1915,
+      "grade": null
+    },
+    {
+      "hadith_id": 9620,
+      "english_translation": "Narrated from Malik, from Zayd ibn Aslam: That a man confessed to adultery upon himself during the time of the Messenger of Allah ﷺ, so the Messenger of Allah ﷺ called for a whip for him. He was brought a broken whip, so he said: 'More than this.' Then he was brought a new whip whose thorns had not been cut, so he said: 'Less than this.' Then he was brought a whip that had been used and softened, so the Messenger of Allah ﷺ ordered with it and he was flogged. Then he said: 'O people, it is time for you to refrain from transgressing the limits of Allah. Whoever commits any of these filthy acts, let him conceal himself with the concealment of Allah. For indeed, whoever exposes to us his matter, we will establish upon him the Book of Allah.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Reporting from Prophet ﷺ without mentioning companion - this is mursal"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - Zayd ibn Aslam (a Tabi'i) reports directly from the Prophet ﷺ without mentioning the Companion",
+            "The chain is disconnected between Zayd and the Prophet ﷺ",
+            "Use of indirect term 'an (عَنْ) adds to the ambiguity"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Zayd ibn Aslam -> [Missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Zayd ibn Aslam reports from the Prophet ﷺ without mentioning the intermediary Companion",
+          "impact": "Mursal hadiths are weak according to the majority of hadith scholars because we don't know which Companion transmitted it. This is a significant weakness as the missing link could be problematic."
+        },
+        {
+          "issue": "Use of indirect transmission term 'an (عَنْ) from Zayd ibn Aslam",
+          "impact": "The indirect term adds ambiguity. We don't know if Zayd heard this from one companion or multiple intermediaries."
+        },
+        {
+          "issue": "Malik's mursal reports are treated specially by some scholars, particularly Malikis",
+          "impact": "Some Maliki scholars accept Malik's mursal reports more readily than others, but the majority of hadith critics still consider them weak unless supported by other chains."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Man Confessing to Adultery",
+        "Prophet's ﷺ Method of Choosing Appropriate Whip for Punishment",
+        "Prophet's ﷺ Advice to Conceal Sins",
+        "Encouragement to Seek Allah's Concealment Rather Than Public Confession"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنّ رَجُلًا اعْتَرَفَ عَلَى نَفْسِهِ بِالزِّنَا عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَدَعَا لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِسَوْطٍ ، فَأُتِيَ بِسَوْطٍ مَكْسُورٍ ، فَقَالَ : \" فَوْقَ هَذَا \" . فَأُتِيَ بِسَوْطٍ جَدِيدٍ لَمْ تُقْطَعْ ثَمَرَتُهُ ، فَقَالَ : \" دُونَ هَذَا \" . فَأُتِيَ بِسَوْطٍ قَدْ رُكِبَ بِهِ وَلَانَ ، فَأَمَرَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَجُلِدَ ، ثُمَّ قَالَ : \" أَيُّهَا النَّاسُ ، قَدْ آنَ لَكُمْ أَنْ تَنْتَهُوا عَنْ حُدُودِ اللَّهِ ، مَنْ أَصَابَ مِنْ هَذِهِ الْقَاذُورَاتِ شَيْئًا ، فَلْيَسْتَتِرْ بِسِتْرِ اللَّهِ ، فَإِنَّهُ مَنْ يُبْدِي لَنَا صَفْحَتَهُ ، نُقِمْ عَلَيْهِ كِتَابَ اللَّهِ \" *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1916,
+      "grade": null
+    },
+    {
+      "hadith_id": 9621,
+      "english_translation": "Narrated from Malik, from Nafi', that Safiyyah bint Abi Ubayd informed him: That Abu Bakr al-Siddiq was brought a man who had sexual relations with a virgin slave girl and impregnated her, then confessed to adultery upon himself, and he had not been married. So Abu Bakr ordered that he be flogged with the prescribed punishment, then exiled to Fadak. Malik said regarding the one who confesses to adultery upon himself then retracts from that and says: 'I did not do it, and that was only from me in such and such manner' for something he mentions: That is accepted from him, and the punishment is not established upon him. That is because the punishment which is for Allah is not taken except by one of two ways: either by just testimony that establishes it upon its doer, or by confession which he maintains until the punishment is established upon him. So if he maintains his confession, the punishment is established upon him. Malik said: What I have found the people of knowledge upon is that there is no exile upon slaves when they commit adultery.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' al-Madani mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safiyyah bint Abi Ubayd",
+              "full_name": "Safiyyah bint Abi Ubayd ibn Mas'ud al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَتْهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr al-Siddiq",
+              "full_name": "Abdullah ibn Abi Quhafah Uthman ibn Amir al-Qurashi al-Taymi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of indirect term 'anna' when reporting Abu Bakr's action",
+            "Use of 'an with Nafi' who is generally reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Safiyyah bint Abi Ubayd -> Abu Bakr al-Siddiq's action"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of indirect transmission term 'an (عَنْ) from Nafi'",
+          "impact": "Nafi' is one of the most reliable narrators and the freed slave of Ibn Umar. The term 'an from him is generally acceptable. This is the famous golden chain when combined with Malik and Ibn Umar, though here it's via Safiyyah."
+        },
+        {
+          "issue": "Use of 'anna' (أَنَّ) when reporting Abu Bakr's action suggests possible indirect transmission",
+          "impact": "The use of 'anna' could indicate Safiyyah did not witness this directly but heard about it. However, she's a reliable Tabi'iyyah and wife of Abdullah ibn Umar, with good access to such reports."
+        },
+        {
+          "issue": "The latter part includes Malik's personal legal opinions (ra'y) about retraction and slave punishment",
+          "impact": "These are Malik's own scholarly opinions, not narrations. They represent juristic reasoning rather than transmitted prophetic guidance."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Man Who Impregnated Slave Girl Through Adultery",
+        "Abu Bakr's Ruling on Unmarried Person Committing Adultery",
+        "Exile as Part of Adultery Punishment",
+        "Retraction from Confession of Adultery",
+        "Malik's View on Conditions for Establishing Hudud Punishments",
+        "Difference in Punishment Between Free and Enslaved Persons"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، أَنَّ صَفِيَّةَ بِنْتَ أَبِي عُبَيْدٍ أَخْبَرَتْهُ ، أَنَّ أَبَا بَكْرٍ الصِّدِّيقَ \" أُتِيَ بِرَجُلٍ قَدْ وَقَعَ عَلَى جَارِيَةٍ بِكْرٍ فَأَحْبَلَهَا ، ثُمَّ اعْتَرَفَ عَلَى نَفْسِهِ بِالزِّنَا وَلَمْ يَكُنْ أَحْصَنَ ، \" فَأَمَرَ بِهِ أَبُو بَكْرٍ فَجُلِدَ الْحَدَّ ، ثُمَّ نُفِيَ إِلَى فَدَكَ \" . قَالَ مَالِك ، فِي الَّذِي يَعْتَرِفُ عَلَى نَفْسِهِ بِالزِّنَا ، ثُمَّ يَرْجِعُ عَنْ ذَلِكَ ، وَيَقُولُ : لَمْ أَفْعَلْ ، وَإِنَّمَا كَانَ ذَلِكَ مِنِّي عَلَى وَجْهِ كَذَا وَكَذَا لِشَيْءٍ يَذْكُرُهُ : إِنَّ ذَلِكَ يُقْبَلُ مِنْهُ ، وَلَا يُقَامُ عَلَيْهِ الْحَدُّ ، وَذَلِكَ أَنَّ الْحَدَّ الَّذِي هُوَ لِلَّهِ لَا يُؤْخَذُ إِلَّا بِأَحَدِ وَجْهَيْنِ ، إِمَّا بِبَيِّنَةٍ عَادِلَةٍ تُثْبِتُ عَلَى صَاحِبِهَا ، وَإِمَّا بِاعْتِرَافٍ يُقِيمُ عَلَيْهِ حَتَّى يُقَامَ عَلَيْهِ الْحَدُّ ، فَإِنْ أَقَامَ عَلَى اعْتِرَافِهِ أُقِيمَ عَلَيْهِ الْحَدُّ . قَالَ مَالِك : الَّذِي أَدْرَكْتُ عَلَيْهِ أَهْلَ الْعِلْمِ ، أَنَّهُ لَا نَفْيَ عَلَى الْعَبِيدِ إِذَا زَنَوْا *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1917,
+      "grade": null
+    },
+    {
+      "hadith_id": 9622,
+      "english_translation": "Chapter: Comprehensive matters regarding the punishment for adultery",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ جَامِعِ مَا جَاءَ فِي حَدِّ الزِّنَا",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1918,
+      "grade": null
+    },
+    {
+      "hadith_id": 9623,
+      "english_translation": "Narrated from Malik, from Ibn Shihab, from Ubaydullah ibn Abdullah ibn Utbah ibn Mas'ud, from Abu Hurayrah and Zayd ibn Khalid al-Juhani: That the Messenger of Allah ﷺ was asked about the slave girl when she commits adultery and is not married. He said: 'If she commits adultery, flog her. Then if she commits adultery, flog her. Then if she commits adultery, flog her. Then sell her even if for a rope.' Ibn Shihab said: I do not know whether it was after the third or the fourth time. Yahya said: I heard Malik saying: 'The dafir is the rope.' [Second narration:] Narrated from Malik, from Nafi': That a slave who was in charge of the slaves of the khums (one-fifth), and he forced himself upon a slave girl from those slaves and had relations with her. So Umar ibn al-Khattab flogged him and exiled him, and he did not flog the slave girl because he had forced her.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydillah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Known mudallis (category 3), but extremely reliable and his 'an is generally accepted"
+              ]
+            },
+            {
+              "name": "Ubaydullah ibn Abdullah ibn Utbah",
+              "full_name": "Ubaydullah ibn Abdullah ibn Utbah ibn Mas'ud al-Hudhali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Khalid al-Juhani",
+              "full_name": "Zayd ibn Khalid ibn Abd Rabbih al-Juhani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) throughout the chain",
+            "Ibn Shihab al-Zuhri using 'an - he is a known mudallis"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' al-Madani mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Report about Umar's action, narrated via Nafi' with 'anna' indicating indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab al-Zuhri -> Ubaydullah ibn Abdullah -> Abu Hurayrah and Zayd ibn Khalid -> Prophet Muhammad ﷺ",
+        "Malik -> Nafi' -> Umar's action"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is using 'an (عَنْ) and he is classified as a mudallis (category 3 per Ibn Hajar)",
+          "impact": "Al-Zuhri is classified as a mudallis by some scholars. However, he is considered extremely reliable (Thiqah Thabt) by the vast majority of scholars, and his narrations using 'an are generally accepted even by strict critics. His tadlis is of the lighter type and doesn't significantly affect the grade when all other narrators are reliable."
+        },
+        {
+          "issue": "Multiple uses of 'an throughout the chain creates cumulative ambiguity",
+          "impact": "While each individual narrator using 'an is reliable, the cumulative use of indirect terms could theoretically introduce ambiguity. However, all narrators in this chain are of the highest caliber of reliability."
+        },
+        {
+          "issue": "Ibn Shihab expresses doubt about whether it was the third or fourth time",
+          "impact": "This is actually a sign of precision and honesty in narration. Al-Zuhri is clearly distinguishing what he knows with certainty from what he's uncertain about. This increases trust in the narration."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Punishment for Slave Girl Who Commits Adultery",
+        "Repeated Offenses and Escalating Consequences",
+        "Incident of Slave Who Forced Himself on Slave Girl",
+        "Umar's Ruling on Rape Victim Not Being Punished",
+        "Difference in Punishment Between Coercion and Consent"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ ، عَنْ أَبِي هُرَيْرَةَ ، وَزَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنِ الْأَمَةِ إِذَا زَنَتْ وَلَمْ تُحْصِنْ ؟ فَقَالَ : \" إِنْ زَنَتْ فَاجْلِدُوهَا ، ثُمَّ إِنْ زَنَتْ فَاجْلِدُوهَا ، ثُمَّ إِنْ زَنَتْ فَاجْلِدُوهَا ، ثُمَّ بِيعُوهَا وَلَوْ بِضَفِيرٍ \" . قَالَ ابْنُ شِهَابٍ : لَا أَدْرِي أَبَعْدَ الثَّالِثَةِ أَوِ الرَّابِعَةِ ؟ قَالَ يَحْيَى : سَمِعْتُ مَالِكًا ، يَقُولُ : وَالضَّفِيرُ : الْحَبْلُ * حَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، أَنّ عَبْدًا كَانَ يَقُومُ عَلَى رَقِيقِ الْخُمُسِ ، وَأَنَّهُ اسْتَكْرَهَ جَارِيَةً مِنْ ذَلِكَ الرَّقِيقِ ، فَوَقَعَ بِهَا ، \" فَجَلَدَهُ عُمَرُ بْنُ الْخَطَّابِ وَنَفَاهُ ، وَلَمْ يَجْلِدِ الْوَلِيدَةَ لِأَنَّهُ اسْتَكْرَهَهَا \" *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1919,
+      "grade": null
+    },
+    {
+      "hadith_id": 9624,
+      "english_translation": "Narrated from Malik, from Yahya ibn Sa'id, that Sulayman ibn Yasar informed him, that Abdullah ibn Ayyash ibn Abi Rabi'ah al-Makhzumi said: 'Umar ibn al-Khattab ordered me among young men from Quraysh, so we flogged slave girls from the slave girls of the ruling authority fifty each for adultery.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Ayyash ibn Abi Rabi'ah",
+              "full_name": "Abdullah ibn Ayyash ibn Abi Rabi'ah Amr ibn al-Mughirah al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'an from Yahya and 'anna' from the final narrator"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Yahya ibn Sa'id -> Sulayman ibn Yasar -> Abdullah ibn Ayyash -> Umar's command"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report about Umar's legal practice, not a prophetic hadith",
+          "impact": "This is a report of Companion's action, which has juristic value but is not a marfu' hadith"
+        },
+        {
+          "issue": "Use of indirect terms 'an and 'anna in the chain",
+          "impact": "Though indirect terms are used, all narrators are highly reliable (Thiqah/Thabt), making the chain sound for a mawquf report"
+        },
+        {
+          "issue": "Abdullah ibn Ayyash is reporting his own participation in executing Umar's order",
+          "impact": "This is direct testimony from the person who participated, which strengthens the report"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Umar's Application of Punishment on Slave Girls",
+        "Fifty Lashes as Punishment for Enslaved Women",
+        "Historical Practice During Umar's Caliphate"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّ سُلَيْمَانَ بْنَ يَسَارٍ أَخْبَرَهُ ، أَنَّ عَبْدَ اللَّهِ بْنَ عَيَّاشِ بْنِ أَبِي رَبِيعَةَ الْمَخْزُومِيَّ ، قَالَ : \" أَمَرَنِي عُمَرُ بْنُ الْخَطَّابِ فِي فِتْيَةٍ مِنْ قُرَيْشٍ ، فَجَلَدْنَا وَلَائِدَ مِنْ وَلَائِدِ الْإِمَارَةِ خَمْسِينَ خَمْسِينَ فِي الزِّنَا \" * '",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1920,
+      "grade": null
+    },
+    {
+      "hadith_id": 9625,
+      "english_translation": "Chapter: What has come regarding the woman who is raped",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ مَا جَاءَ فِي الْمُغْتَصَبَةِ",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1921,
+      "grade": null
+    },
+    {
+      "hadith_id": 9626,
+      "english_translation": "Malik said: The practice among us regarding a woman who is found pregnant and has no husband, and she says: 'I was forced,' or she says: 'I was married,' is that this is not accepted from her, and the punishment is established upon her, unless she has evidence for what she claimed of marriage, or that she was forced, or she came bleeding if she was a virgin, or she called for help until she was reached while in that state, or something similar to this from matters that reach the point of exposing herself to disgrace. He said: If she does not bring anything of this, the punishment is established upon her, and what she claimed of that is not accepted from her. Malik said: The raped woman does not marry until she performs istibra' (waiting period to ensure no pregnancy) for herself with three menstrual cycles. He said: If she has doubt about her menstruation, then she does not marry until she performs istibra' from that doubt.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is entirely Malik's personal legal opinion and juristic reasoning, not a hadith narration",
+          "impact": "This represents Maliki fiqh positions, not transmitted prophetic guidance. It has value as scholarly opinion but is not hadith."
+        }
+      ],
+      "IISGrade": "N/A - Legal Opinion",
+      "Topics": [
+        "Maliki Legal Position on Pregnant Unmarried Woman's Claims",
+        "Evidence Required for Rape Claims",
+        "Waiting Period for Raped Women Before Marriage"
+      ],
+      "arabicText": "قَالَ مَالِك : الْأَمْرُ عِنْدَنَا فِي الْمَرْأَةِ تُوجَدُ حَامِلًا وَلَا زَوْجَ لَهَا ، فَتَقُولُ : قَدِ اسْتُكْرِهْتُ ، أَوْ تَقُولُ : تَزَوَّجْتُ ، إِنَّ ذَلِكَ لَا يُقْبَلُ مِنْهَا ، وَإِنَّهَا يُقَامُ عَلَيْهَا الْحَدُّ ، إِلَّا أَنْ يَكُونَ لَهَا عَلَى مَا ادَّعَتْ مِنَ النِّكَاحِ بَيِّنَةٌ ، أَوْ عَلَى أَنَّهَا اسْتُكْرِهَتْ ، أَوْ جَاءَتْ تَدْمَى إِنْ كَانَتْ بِكْرًا ، أَوِ اسْتَغَاثَتْ حَتَّى أُتِيَتْ وَهِيَ عَلَى ذَلِكَ الْحَالِ ، أَوْ مَا أَشْبَهَ هَذَا مِنَ الْأَمْرِ الَّذِي تَبْلُغُ فِيهِ فَضِيحَةَ نَفْسِهَا ، قَالَ : فَإِنْ لَمْ تَأْتِ بِشَيْءٍ مِنْ هَذَا ، أُقِيمَ عَلَيْهَا الْحَدُّ ، وَلَمْ يُقْبَلْ مِنْهَا مَا ادَّعَتْ مِنْ ذَلِكَ . قَالَ مَالِك : وَالْمُغْتَصَبَةُ لَا تَنْكِحُ حَتَّى تَسْتَبْرِئَ نَفْسَهَا بِثَلَاثِ حِيَضٍ ، قَالَ : فَإِنِ ارْتَابَتْ مِنْ حَيْضَتِهَا ، فَلَا تَنْكِحُ حَتَّى تَسْتَبْرِئَ نَفْسَهَا مِنْ تِلْكَ الرِّيبَةِ .",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1922,
+      "grade": null
+    },
+    {
+      "hadith_id": 9627,
+      "english_translation": "Chapter: The punishment for slander, denial of lineage, and indirect accusation",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Heading",
+      "Topics": [
+        "Chapter Heading"
+      ],
+      "arabicText": "بَابُ الْحَدِّ فِي الْقَذْفِ وَالنَّفْيِ وَالتَّعْرِيضِ",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1923,
+      "grade": null
+    },
+    {
+      "hadith_id": 9628,
+      "english_translation": "Narrated from Malik, from Abu al-Zinad: That he said: 'Umar ibn Abdul Aziz flogged a slave for slander eighty times.' Abu al-Zinad said: So I asked Abdullah ibn Amir ibn Rabi'ah about that, and he said: 'I witnessed Umar ibn al-Khattab, and Uthman ibn Affan, and the caliphs successively, and I never saw anyone flog a slave for slander more than forty.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Amir ibn Rabi'ah",
+              "full_name": "Abdullah ibn Amir ibn Rabi'ah ibn Ka'b al-Anzi al-Adawi",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Two separate reports: one about Umar ibn Abdul Aziz, another containing Abdullah ibn Amir's testimony about early caliphs"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> Report about Umar ibn Abdul Aziz",
+        "Malik -> Abu al-Zinad -> Abdullah ibn Amir ibn Rabi'ah -> Testimony about Umar and Uthman's practice"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are historical reports about legal practices, not prophetic hadiths",
+          "impact": "These represent different juristic practices among caliphs and scholars regarding slave punishment for slander"
+        },
+        {
+          "issue": "The two reports appear to contradict: Umar ibn Abdul Aziz gave 80 lashes while earlier caliphs gave maximum 40",
+          "impact": "This shows difference of opinion among scholars. Abdullah ibn Amir's testimony suggests the earlier practice was 40, while Umar ibn Abdul Aziz increased it to 80."
+        },
+        {
+          "issue": "Use of indirect term 'an from Abu al-Zinad",
+          "impact": "Abu al-Zinad is highly reliable (Thiqah), so this doesn't significantly impact the authenticity"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Different Scholarly Practices on Punishing Slaves for Slander",
+        "Umar ibn Abdul Aziz's Legal Ruling on Slave Punishment",
+        "Historical Practice During Early Caliphates",
+        "Difference in Punishment Levels Between Free and Enslaved Persons"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ أَبِي الزِّنَادِ ، أَنَّهُ قَالَ : \" جَلَدَ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ عَبْدًا فِي فِرْيَةٍ ثَمَانِينَ \" * قَالَ أَبُو الزِّنَادِ : فَسَأَلْتُ عَبْدَ اللَّهِ بْنَ عَامِرِ بْنِ رَبِيعَةَ عَنْ ذَلِكَ ، فَقَالَ : \" أَدْرَكْتُ عُمَرَ بْنَ الْخَطَّابِ ، وَعُثْمَانَ بْنَ عَفَّانَ وَالْخُلَفَاءَ هَلُمَّ جَرًّا ، فَمَا رَأَيْتُ أَحَدًا جَلَدَ عَبْدًا فِي فِرْيَةٍ أَكْثَرَ مِنْ أَرْبَعِينَ \" *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1924,
+      "grade": null
+    },
+    {
+      "hadith_id": 9629,
+      "english_translation": "Narrated from Malik, from Zurayq ibn Hakim al-Ayli: That a man called Misbah asked his son for help, and it seemed he was taking too long. When he came to him, he said to him: 'O adulterer.' Zurayq said: So he sought my judgment against him. When I wanted to flog him, his son said: 'By Allah, if you flog him, I will certainly confess adultery upon myself.' When he said that, the matter became problematic for me, so I wrote about it to Umar ibn Abdul Aziz, who was the governor at that time, mentioning that to him. Umar wrote to me: 'Execute his pardon.' Zurayq said: And I wrote to Umar ibn Abdul Aziz also: 'What do you see about a man who was slandered, or his parents while they had died, or one of them?' So Umar wrote to me: 'If he pardons, execute his pardon regarding himself. And if slander was made against his parents and they had died or one of them, then take for him according to the Book of Allah, unless he wants concealment.' Yahya said: I heard Malik saying: 'That is when the man who was slandered fears that if that is exposed from him, evidence might be established against him. So when it is as I described and he pardons, his pardon is valid.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zurayq ibn Hakim al-Ayli",
+              "full_name": "Zurayq ibn Hakim ibn Muawiyah al-Ayli",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is Zurayq's direct testimony as a judge about a case he handled"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Zurayq ibn Hakim al-Ayli -> His own judicial case and correspondence with Umar ibn Abdul Aziz"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a report of a judicial case and legal ruling from Umar ibn Abdul Aziz (a Tabi'i), not a prophetic hadith",
+          "impact": "This represents Tabi'i-era jurisprudence and legal practice, not direct prophetic guidance"
+        },
+        {
+          "issue": "Zurayq ibn Hakim is reporting his own experience as a judge",
+          "impact": "This is direct testimony which strengthens the reliability of the report as a historical account of legal practice"
+        },
+        {
+          "issue": "The report includes Malik's interpretation at the end",
+          "impact": "Malik's explanation provides juristic context but is his own scholarly opinion"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Father Calling His Son Adulterer",
+        "Son's Willingness to Confess to Save Father from Punishment",
+        "Umar ibn Abdul Aziz's Ruling on Pardoning Slander",
+        "Victim's Right to Pardon in Slander Cases",
+        "Legal Implications of Pardoning vs Pursuing Justice"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ زُرَيْقِ بْنِ حَكِيمٍ الْأَيْلِيِّ ، أَنَّ رَجُلًا ، يُقَالُ لَهُ مِصْبَاحٌ ، اسْتَعَانَ ابْنًا لَهُ ، فَكَأَنَّهُ اسْتَبْطَأَهُ ، فَلَمَّا جَاءَهُ ، قَالَ لَهُ : يَا زَانٍ . قَالَ زُرَيْقٌ : فَاسْتَعْدَانِي عَلَيْهِ ، فَلَمَّا أَرَدْتُ أَنْ أَجْلِدَهُ ، قَالَ ابْنُهُ : وَاللَّهِ لَئِنْ جَلَدْتَهُ ، لَأَبُوءَنَّ عَلَى نَفْسِي بِالزِّنَا . فَلَمَّا قَالَ ذَلِكَ ، أَشْكَلَ عَلَيَّ أَمْرُهُ ، فَكَتَبْتُ فِيهِ إِلَى عُمَرَ بْنِ عَبْدِ الْعَزِيزِ وَهُوَ الْوَالِي يَوْمَئِذٍ أَذْكُرُ لَهُ ذَلِكَ ، فَكَتَبَ إِلَيَّ عُمَرُ : أَنْ \" أَجِزْ عَفْوَهُ \" . قَالَ زُرَيْقٌ : وَكَتَبْتُ إِلَى عُمَرَ بْنِ عَبْدِ الْعَزِيزِ أَيْضًا : أَرَأَيْتَ رَجُلًا افْتُرِيَ عَلَيْهِ أَوْ عَلَى أَبَوَيْهِ وَقَدْ هَلَكَا أَوْ أَحَدُهُمَا ؟ قَالَ : فَكَتَبَ إِلَيَّ عُمَرُ : \" إِنْ عَفَا فَأَجِزْ عَفْوَهُ فِي نَفْسِهِ ، وَإِنِ افْتُرِيَ عَلَى أَبَوَيْهِ وَقَدْ هَلَكَا أَوْ أَحَدُهُمَا فَخُذْ لَهُ بِكِتَابِ اللَّهِ إِلَّا أَنْ يُرِيدَ سِتْرًا \" . قَالَ يَحْيَى : سَمِعْتُ مَالِكًا ، يَقُولُ : وَذَلِكَ أَنْ يَكُونَ الرَّجُلُ الْمُفْتَرَى عَلَيْهِ يَخَافُ إِنْ كُشِفَ ذَلِكَ مِنْهُ أَنْ تَقُومَ عَلَيْهِ بَيِّنَةٌ ، فَإِذَا كَانَ عَلَى مَا وَصَفْتُ فَعَفَا ، جَازَ عَفْوُهُ * \u0013",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1925,
+      "grade": null
+    },
+    {
+      "hadith_id": 9630,
+      "english_translation": "Narrated from Malik, from Hisham ibn Urwah, from his father: That he said regarding a man who slandered a group of people: 'There is only one punishment upon him.' Malik said: 'Even if they were separated, there is only one punishment upon him.' [Second narration:] Narrated from Malik, from Abu al-Rijal Muhammad ibn Abd al-Rahman ibn Harithah ibn al-Nu'man al-Ansari, then from Bani al-Najjar, from his mother Amrah bint Abd al-Rahman: That two men insulted each other during the time of Umar ibn al-Khattab, and one of them said to the other: 'By Allah, my father is not an adulterer nor is my mother an adulteress.' Umar ibn al-Khattab sought consultation about that. Some said: 'He praised his father and mother.' Others said: 'There was praise for his father and mother other than this. We see that you should flog him with the punishment.' So Umar flogged him the punishment of eighty. Malik said: 'There is no punishment with us except for denial of lineage, or slander, or indirect accusation that is seen that the one who said it only intended denial or slander. So upon the one who said that is the full punishment.' Malik said: 'The practice among us is that when a man denies another man from his father, then upon him is the punishment, even if the mother of the one who was denied was a slave woman, then upon him is the punishment.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "First report is Urwah's legal opinion, not a narration"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Rijal Muhammad ibn Abd al-Rahman",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Harithah ibn al-Nu'man al-Ansari al-Najjari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amrah bint Abd al-Rahman",
+              "full_name": "Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'an throughout, but from highly reliable narrators"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Hisham ibn Urwah -> Urwah's opinion",
+        "Malik -> Abu al-Rijal -> Amrah bint Abd al-Rahman -> Incident during Umar's time"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First report is Urwah ibn al-Zubayr's legal opinion (fatwa), not a narration",
+          "impact": "This is scholarly opinion from a major Tabi'i, not transmitted hadith"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout both chains",
+          "impact": "While indirect terms are used, all narrators are highly reliable (Thiqah). For mawquf reports about Companion actions, this level of transmission is acceptable."
+        },
+        {
+          "issue": "The second narration shows scholarly debate during Umar's time about whether the statement was praise or slander",
+          "impact": "This demonstrates the juristic reasoning process and that Umar consulted others before making his ruling. It shows the incident is well-documented."
+        },
+        {
+          "issue": "Amrah bint Abd al-Rahman is a female Tabi'iyyah narrator",
+          "impact": "She is highly respected and reliable, known for narrating from Aisha. Her narration is strong."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Punishment for Slandering Multiple People in Single Statement",
+        "Incident During Umar's Time About Ambiguous Praise or Slander",
+        "Scholarly Consultation on Determining Intent Behind Words",
+        "Umar's Ruling to Punish for Indirect Slander",
+        "Legal Principle of One Punishment for Multiple Victims in Same Statement"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، أَنَّهُ قَالَ فِي رَجُلٍ قَذَفَ قَوْمًا جَمَاعَةً : \" أَنَّهُ لَيْسَ عَلَيْهِ إِلَّا حَدٌّ وَاحِدٌ \" . قَالَ مَالِك : وَإِنْ تَفَرَّقُوا ، فَلَيْسَ عَلَيْهِ إِلَّا حَدٌّ وَاحِدٌ * حَدَّثَنِي مَالِك ، عَنْ أَبِي الرِّجَالِ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ حَارِثَةَ بْنِ النُّعْمَانِ الْأَنْصَارِيِّ ثُمَّ مِنْ بَنِي النَّجَّارِ ، عَنْ أُمِّهِ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ ، أَنَّ رَجُلَيْنِ اسْتَبَّا فِي زَمَانِ عُمَرَ بْنِ الْخَطَّابِ ، فَقَالَ أَحَدُهُمَا لِلْآخَرِ : وَاللَّهِ مَا أَبِي بِزَانٍ وَلَا أُمِّي بِزَانِيَةٍ . فَاسْتَشَارَ فِي ذَلِكَ عُمَرُ بْنُ الْخَطَّابِ ، فَقَالَ قَائِلٌ : مَدَحَ أَبَاهُ وَأُمَّهُ ، وَقَالَ آخَرُونَ : قَدْ كَانَ لِأَبِيهِ وَأُمِّهِ مَدْحٌ غَيْرُ هَذَا ، نَرَى أَنْ تَجْلِدَهُ الْحَدَّ ، \" فَجَلَدَهُ عُمَرُ الْحَدَّ ثَمَانِينَ \" . قَالَ مَالِك : لَا حَدَّ عِنْدَنَا إِلَّا فِي نَفْيٍ أَوْ قَذْفٍ أَوْ تَعْرِيضٍ ، يُرَى أَنَّ قَائِلَهُ إِنَّمَا أَرَادَ بِذَلِكَ نَفْيًا أَوْ قَذْفًا ، فَعَلَى مَنْ قَالَ ذَلِكَ الْحَدُّ تَامًّا . قَالَ مَالِك : الْأَمْرُ عِنْدَنَا ، أَنَّهُ إِذَا نَفَى رَجُلٌ رَجُلًا مِنْ أَبِيهِ ، فَإِنَّ عَلَيْهِ الْحَدَّ ، وَإِنْ كَانَتْ أُمُّ الَّذِي نُفِيَ مَمْلُوكَةً ، فَإِنَّ عَلَيْهِ الْحَدَّ * \u001b",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1926,
+      "grade": null
+    }
+  ]
+}

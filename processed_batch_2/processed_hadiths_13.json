@@ -1,0 +1,792 @@
+{
+  "batch_number": 2,
+  "file_number": 13,
+  "record_count": 13,
+  "hadiths": [
+    {
+      "hadith_id": 9181,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Salim ibn Abdullah and Sulayman ibn Yasar that they used to say concerning a woman whose husband dies: 'If she fears for her eyesight due to ophthalmia or a complaint that has afflicted her, she may apply kohl and treat herself with medicine or kohl, even if it contains perfume.' Malik said: 'When there is necessity, the religion of Allah is ease.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balagh narration - disconnected chain"
+              ]
+            },
+            {
+              "name": "Salim ibn Abdullah",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain with 'balaghahu' - Malik did not specify his source",
+            "This is a mawquf statement from Salim and Sulayman, not raised to the Prophet"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (via balagh) -> Salim ibn Abdullah and Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagh (بَلَغَهُ) narration indicates disconnection - Malik did not specify his source",
+          "impact": "This creates a break in the chain (inqita') making it mursal or munqati'"
+        },
+        {
+          "issue": "This is a mawquf statement from Salim and Sulayman (their opinion), not marfu' to the Prophet",
+          "impact": "This is not a prophetic statement but the opinion of two tabi'un scholars"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Widow applying kohl during waiting period for medical necessity",
+        "Use of medicine during mourning period",
+        "Ease in religion regarding medical treatment"
+      ]
+    },
+    {
+      "hadith_id": 9182,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "It reached Malik that the Messenger of Allah ﷺ entered upon Umm Salamah while she was in mourning for Abu Salamah, and she had put aloe on her eyes. He said: 'What is this, O Umm Salamah?' She said: 'It is only aloe, O Messenger of Allah.' He said: 'Apply it at night and wipe it off during the day.' Malik said: 'Mourning for a young girl who has not yet reached menstruation is the same as for one who has reached menstruation. She avoids what a mature woman avoids when her husband dies.' Malik said: 'A slave woman mourns when her husband dies for two months and five nights, the same as her waiting period.' Malik said: 'There is no mourning for an umm walad when her master dies, nor for a slave woman when her master dies. Mourning is only for married women.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balagh narration - disconnected chain"
+              ]
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Umm Salamah Hind bint Abi Umayyah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain with 'balaghahu' - Malik did not specify the chain between him and Umm Salamah",
+            "Multiple missing narrators between Malik (5th generation) and Umm Salamah (Companion)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (via balagh) -> [missing narrators] -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagh (بَلَغَهُ) narration with complete disconnection from the Companion",
+          "impact": "This is a mursal narration with missing links. The chain between Malik (died 179 AH) and Umm Salamah (Companion, died around 60 AH) has at least 2-3 missing generations"
+        },
+        {
+          "issue": "No explicit chain of transmission provided",
+          "impact": "Cannot verify the reliability of the intermediary narrators between Malik and Umm Salamah"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ visiting Umm Salamah during her mourning",
+        "Application of aloe for eye treatment during mourning",
+        "Mourning requirements for different categories of women",
+        "Duration of mourning for slave women"
+      ]
+    },
+    {
+      "hadith_id": 9183,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "It reached Malik that Umar ibn al-Khattab said: 'A woman should not wear mourning for anyone dead except her husband.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balagh narration - disconnected chain"
+              ]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain with 'balaghahu' - Malik did not specify the chain between him and Umar",
+            "Multiple missing generations between Malik and Umar ibn al-Khattab"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (via balagh) -> [missing narrators] -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagh (بَلَغَهُ) narration with complete disconnection",
+          "impact": "This is a munqati' narration. Umar ibn al-Khattab died in 23 AH and Malik was born around 93 AH, creating a gap of about 70 years requiring at least 2-3 narrators"
+        },
+        {
+          "issue": "This is a mawquf statement from Umar, not marfu' to the Prophet",
+          "impact": "This represents the opinion of the Companion Umar, not a direct prophetic statement"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Mourning restrictions for women",
+        "Statement of Umar ibn al-Khattab about mourning"
+      ]
+    },
+    {
+      "hadith_id": 9184,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Zaynab bint Abi Salamah, from Umm Habibah bint Abi Sufyan, that she said: 'I heard the Messenger of Allah ﷺ say: \"It is not lawful for a woman who believes in Allah and the Last Day to mourn for anyone dead for more than three days, except for a husband - four months and ten days.\"'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zaynab bint Abi Salamah",
+              "full_name": "Zaynab bint Abi Salamah ibn Abd al-Asad al-Makhzumiyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Habibah",
+              "full_name": "Umm Habibah Ramlah bint Abi Sufyan Sakhr ibn Harb",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Zaynab bint Abi Salamah -> Umm Habibah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain from Malik to Zaynab",
+          "impact": "While all narrators are reliable and not known mudallisun, the 'an terms are less explicit than haddathana or akhbarana. However, this does not significantly impact the grade given the high reliability of all narrators"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Duration of mourning period for women",
+        "Mourning for deceased relatives versus husband",
+        "Statement about belief in Allah and the Last Day"
+      ]
+    },
+    {
+      "hadith_id": 9185,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Safiyyah bint Abi Ubayd, that the wife of Abdullah ibn Umar died. Abdullah ibn Umar came and stood at the door, and Ibn Umar sent to Hafsah to ask her to send him a garment to shroud his wife in. So Hafsah sent him a garment and he shrouded his wife in it.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safiyyah bint Abi Ubayd",
+              "full_name": "Safiyyah bint Abi Ubayd ibn Mas'ud al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Safiyyah bint Abi Ubayd (about Ibn Umar)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration - a report about actions of a tabi'i (those after companions)",
+          "impact": "This is historical narration about Ibn Umar's actions, not a prophetic statement"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) from reliable narrators",
+          "impact": "Minor impact as all narrators are highly reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Abdullah ibn Umar's wife dying",
+        "Requesting shroud garment from family members",
+        "Practices related to shrouding the deceased"
+      ]
+    },
+    {
+      "hadith_id": 9187,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Abdullah ibn Umar that he used to say: 'When a man dies, his wife does not wear saffron, nor red dye (wars), nor henna (except what is on the tips of her fingers), and she does not oil her hair except when she purifies herself from menstruation with a little costus or sandalwood.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement - the opinion/practice of Abdullah ibn Umar, not raised to the Prophet",
+          "impact": "This represents the understanding of the Companion Ibn Umar, not a direct prophetic statement"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) from reliable narrators",
+          "impact": "Minor impact as Malik and Nafi' are both highly reliable and not problematic mudallisun"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Items avoided during mourning period",
+        "Use of perfumes and dyes during widow's waiting period",
+        "Purification after menstruation during mourning"
+      ]
+    },
+    {
+      "hadith_id": 9188,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "It reached Malik that when the wife of Abu Sufyan ibn al-Harith ibn Abd al-Muttalib died, Aisha, the Mother of the Believers, sent her a yellow veil to use as covering.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balagh narration - disconnected chain"
+              ]
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain with 'balaghahu' - Malik did not specify his source",
+            "Missing narrators between Malik and Aisha"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (via balagh) -> [missing narrators] -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagh (بَلَغَهُ) narration with disconnection",
+          "impact": "This is a munqati' narration with missing links between Malik and Aisha (gap of about 60-70 years)"
+        },
+        {
+          "issue": "This is a maqtu' report about Aisha's action, not a marfu' statement",
+          "impact": "Historical report of the Companion's practice, not a direct prophetic narration"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Aisha sending yellow veil for mourning woman",
+        "Permissibility of colored clothing during mourning",
+        "Practice of the Mother of the Believers regarding mourning attire"
+      ]
+    },
+    {
+      "hadith_id": 9190,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Amrah bint Abd al-Rahman, from Aisha, the wife of the Prophet ﷺ, that the Messenger of Allah ﷺ said: 'It is not lawful for a woman who believes in Allah and the Last Day to mourn for anyone dead for more than three nights, except for a husband - four months and ten days.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amrah bint Abd al-Rahman",
+              "full_name": "Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Yahya ibn Sa'id -> Amrah bint Abd al-Rahman -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "While all narrators are highly reliable and not problematic mudallisun, the 'an terms are less explicit than direct hearing terms. However, this chain is well-known and authenticated through this route"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Duration of mourning period for women",
+        "Mourning for deceased relatives versus husband",
+        "Statement about belief in Allah and the Last Day"
+      ]
+    },
+    {
+      "hadith_id": 9191,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Al-Qasim ibn Muhammad, from Aisha, the wife of the Prophet ﷺ, that a woman asked the Messenger of Allah ﷺ about washing from menstruation. The Messenger of Allah ﷺ instructed her how to wash, then said: 'Take a piece of cloth scented with musk and purify yourself with it.' She said: 'How should I purify myself with it, O Messenger of Allah?' He said: 'Purify yourself with it.' She said: 'How, O Messenger of Allah?' He said: 'Glory be to Allah! Purify yourself with it.' Aisha said: 'So I pulled her aside and said: Follow the traces of blood with it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Qasim ibn Muhammad",
+              "full_name": "Al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abd al-Rahman ibn al-Qasim -> Al-Qasim ibn Muhammad -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "While all narrators are highly reliable, the 'an terms are less explicit. However, this chain is well-established as Al-Qasim was Aisha's grandson (sister's son) and Abd al-Rahman was his son, making their narration from each other very strong"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a woman asking about purification after menstruation",
+        "Method of purification after menstruation",
+        "Use of musk in purification",
+        "Dialogue between the Prophet ﷺ and a woman about ritual purity"
+      ]
+    },
+    {
+      "hadith_id": 9192,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Urwah ibn al-Zubayr, from Aisha, the wife of the Prophet ﷺ, that Fatimah bint Abi Hubaysh came to the Messenger of Allah ﷺ and said: 'O Messenger of Allah, I am a woman who has chronic bleeding (istihadah) and I do not become pure. Should I abandon the prayer?' The Messenger of Allah ﷺ said: 'No, that is only a vein, it is not menstruation. So when your menstruation comes, abandon the prayer, and when it goes, wash the blood from yourself and pray.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Some criticized his later narrations in Iraq"
+              ]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hisham ibn Urwah narrating through Malik - this is from his earlier, more reliable period",
+          "impact": "Hisham's narrations through Malik (in Madinah) are considered more reliable than his later Iraqi narrations. This does not significantly impact the grade"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "While all narrators are highly reliable, the 'an terms are less explicit. However, Hisham from his father Urwah is well-established, and Urwah from his aunt Aisha is also well-known"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Fatimah bint Abi Hubaysh asking about chronic bleeding",
+        "Distinction between menstruation and istihadah (chronic bleeding)",
+        "Prayer during chronic bleeding",
+        "Purification after menstruation"
+      ]
+    },
+    {
+      "hadith_id": 9193,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Urwah ibn al-Zubayr, from Aisha, the wife of the Prophet ﷺ, that she said: 'One of us, when she was menstruating during the time of the Messenger of Allah ﷺ, and she became pure, she was commanded to undo her braids and wash.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Some criticized his later narrations in Iraq"
+              ]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Zubayr ibn al-Awwam al-Asadi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hisham ibn Urwah narrating through Malik - from his earlier, more reliable period",
+          "impact": "Minimal impact as this is from Malik's narration from Hisham in Madinah"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) and the passive voice 'she was commanded'",
+          "impact": "The passive construction suggests this is marfu' (attributed to the Prophet's command), though indirectly stated. All narrators are reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Method of washing after menstruation",
+        "Undoing braids for ritual bath after menstruation",
+        "Practice during the Prophet's ﷺ time regarding purification"
+      ]
+    },
+    {
+      "hadith_id": 9194,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Sulayman ibn Yasar, from Umm Salamah, the wife of the Prophet ﷺ, that she said: 'When I was with the Messenger of Allah ﷺ, I was lying down with him under a single covering when I got my menstruation. So I slipped away and took my menstrual clothes.' The Messenger of Allah ﷺ said to me: 'Have you gotten your menstruation (nufist)?' I said: 'Yes.' So he called me and I lay down with him under the covering.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Umm Salamah Hind bint Abi Umayyah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Sulayman ibn Yasar -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "All narrators are highly reliable and not problematic mudallisun. This chain is sound despite the 'an terms"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Umm Salamah getting her menstruation while with the Prophet ﷺ",
+        "Interaction between husband and wife during menstruation",
+        "Permissibility of physical closeness during menstruation with proper covering"
+      ]
+    },
+    {
+      "hadith_id": 9195,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Fatimah bint al-Mundhir ibn al-Zubayr, that Asma' bint Abi Bakr al-Siddiq said: 'A woman asked the Messenger of Allah ﷺ: \"What do you think about one of us, if blood falls on her garment from menstruation, what should she do with it?\" The Messenger of Allah ﷺ said: \"If blood from menstruation falls on the garment of one of you, she should scrape it, then rub it with water, then sprinkle water on it, then she may pray in it.\"'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Some criticized his later narrations in Iraq"
+              ]
+            },
+            {
+              "name": "Fatimah bint al-Mundhir",
+              "full_name": "Fatimah bint al-Mundhir ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Asma' bint Abi Bakr",
+              "full_name": "Asma' bint Abi Bakr al-Siddiq Abdullah ibn Uthman al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Hisham ibn Urwah -> Fatimah bint al-Mundhir -> Asma' bint Abi Bakr -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hisham ibn Urwah narrating through Malik - from his earlier, more reliable period",
+          "impact": "Minimal impact as this is from Hisham's Madinan period through Malik"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "All narrators are reliable. Fatimah bint al-Mundhir was the granddaughter of al-Zubayr and wife of Hisham, making this a family chain with strong connections"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a woman asking about menstrual blood on clothing",
+        "Method of purifying garments from menstrual blood",
+        "Prayer in garments after removing impurity"
+      ]
+    }
+  ]
+}

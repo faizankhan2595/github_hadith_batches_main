@@ -1,0 +1,698 @@
+{
+  "batch_number": 2,
+  "file_number": 61,
+  "processed_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 9901,
+      "collection": "Muwatta Malik",
+      "reference_number": 2197,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ ، عَنْ عَائِشَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا اشْتَكَى يَقْرَأُ عَلَى نَفْسِهِ بِالْمُعَوِّذَاتِ وَيَنْفِثُ ، قَالَتْ : فَلَمَّا اشْتَدَّ وَجَعُهُ كُنْتُ أَنَا أَقْرَأُ عَلَيْهِ وَأَمْسَحُ عَلَيْهِ بِيَمِينِهِ رَجَاءَ بَرَكَتِهَا",
+      "english_translation": "Narrated by Aisha: When the Messenger of Allah ﷺ would complain of illness, he would recite upon himself with the Mu'awwidhat (the protective surahs) and blow. She said: When his pain intensified, I would recite upon him and wipe over him with his right hand, hoping for its blessing.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis (category 3) by some scholars, though generally considered highly reliable"]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Muhammad ibn Muslim al-Zuhri → Urwah ibn al-Zubayr → Aisha → Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis (category 3 in Ibn Hajar's classification) and uses the term 'عَنْ' (an) in this chain",
+          "impact": "Al-Zuhri is widely considered extremely reliable and trustworthy by the vast majority of scholars despite his tadlis. His narrations are generally accepted even with 'an. This does not significantly affect the reliability of this hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of the Prophet ﷺ reciting Mu'awwidhat when ill",
+        "Incident of Aisha caring for the sick Prophet ﷺ",
+        "Seeking healing through Quranic recitation",
+        "Blowing (nafth) after recitation"
+      ]
+    },
+    {
+      "hadith_id": 9902,
+      "collection": "Muwatta Malik",
+      "reference_number": 2198,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ ، أَنَّ أَبَا بَكْرٍ الصِّدِّيقَ دَخَلَ عَلَى عَائِشَةَ وَهِيَ تَشْتَكِي وَيَهُودِيَّةٌ تَرْقِيهَا ، فَقَالَ أَبُو بَكْرٍ : ارْقِيهَا بِكِتَابِ اللَّهِ",
+      "english_translation": "Narrated from Amrah bint Abd al-Rahman: Abu Bakr al-Siddiq entered upon Aisha while she was complaining of illness and a Jewish woman was performing ruqyah (spiritual healing) upon her. Abu Bakr said: 'Perform ruqyah upon her with the Book of Allah.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amrah bint Abd al-Rahman",
+              "full_name": "Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr al-Siddiq",
+              "full_name": "Abdullah ibn Abi Quhafah Uthman ibn Amir al-Taymi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Yahya ibn Sa'id al-Ansari → Amrah bint Abd al-Rahman → Abu Bakr al-Siddiq"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Abu Bakr finding a Jewish woman performing ruqyah on Aisha",
+        "Instruction to use the Quran for spiritual healing",
+        "Ruqyah practices"
+      ]
+    },
+    {
+      "hadith_id": 9904,
+      "collection": "Muwatta Malik",
+      "reference_number": 2200,
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنَّ رَجُلًا فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَصَابَهُ جُرْحٌ فَاحْتَقَنَ الْجُرْحُ الدَّمَ ، وَأَنَّ الرَّجُلَ دَعَا رَجُلَيْنِ مِنْ بَنِي أَنْمَارٍ فَنَظَرَا إِلَيْهِ ، فَزَعَمَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ لَهُمَا : أَيُّكُمَا أَطَبُّ ؟ فَقَالَا : أَوَ فِي الطِّبِّ خَيْرٌ يَا رَسُولَ اللَّهِ ؟ فَزَعَمَ زَيْدٌ : أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : أَنْزَلَ الدَّوَاءَ الَّذِي أَنْزَلَ الْأَدْوَاءَ. وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، قَالَ : بَلَغَنِي ، أَنَّ سَعْدَ بْنَ زُرَارَةَ اكْتَوَى فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الذُّبْحَةِ فَمَاتَ. وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ اكْتَوَى مِنَ اللَّقْوَةِ وَرُقِيَ مِنَ الْعَقْرَبِ",
+      "english_translation": "Narrated from Zayd ibn Aslam: A man in the time of the Messenger of Allah ﷺ was wounded and the blood congealed in the wound. The man called two men from Banu Anmaar who examined him. They claimed that the Messenger of Allah ﷺ said to them: 'Which of you is more skilled in medicine?' They said: 'Is there good in medicine, O Messenger of Allah?' Zayd claimed that the Messenger of Allah ﷺ said: 'He who sent down the disease also sent down the cure.' // Narrated from Yahya ibn Sa'id who said: It reached me that Sa'd ibn Zurarah was cauterized in the time of the Messenger of Allah ﷺ for throat disease and he died. // Narrated from Nafi': Abdullah ibn Umar was cauterized for facial paralysis and was treated with ruqyah for scorpion sting.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is mursal (disconnected) as Zayd ibn Aslam did not meet the Prophet ﷺ. The chain goes from Zayd reporting about an incident in the Prophet's time without mentioning who narrated it to him."]
+        },
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is mursal/mu'dal as Yahya ibn Sa'id uses 'balaghani' (it reached me), indicating he did not receive this directly. The intermediary narrator(s) are unknown."]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Zayd ibn Aslam → Unknown → Prophet Muhammad ﷺ",
+        "Malik ibn Anas → Yahya ibn Sa'id → Unknown narrator(s) → about Sa'd ibn Zurarah",
+        "Malik ibn Anas → Nafi' → Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain is mursal (disconnected) - Zayd ibn Aslam reports an incident from the Prophet's time without naming his source",
+          "impact": "This creates a break in the chain. The mursal of a reliable tabi'i is considered weak by the majority of scholars, though Imam Malik accepted such narrations."
+        },
+        {
+          "issue": "Second chain uses 'balaghani' (it reached me), indicating missing intermediary narrator(s)",
+          "impact": "This is a clear indication of disconnection in the chain, making it mursal or mu'dal. The identity and reliability of the missing narrator(s) cannot be verified."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of a wounded man being treated by two physicians from Banu Anmaar",
+        "Dialogue about the value of medicine",
+        "Concept that Allah sends both disease and cure",
+        "Incident of Sa'd ibn Zurarah dying after cauterization",
+        "Incident of Ibn Umar being cauterized for facial paralysis",
+        "Treatment with ruqyah for scorpion sting"
+      ]
+    },
+    {
+      "hadith_id": 9906,
+      "collection": "Muwatta Malik",
+      "reference_number": 2202,
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ فَاطِمَةَ بِنْتِ الْمُنْذِرِ ، أَنَّ أَسْمَاءَ بِنْتَ أَبِي بَكْرٍ كَانَتْ إِذَا أُتِيَتْ بِالْمَرْأَةِ وَقَدْ حُمَّتْ تَدْعُو لَهَا ، أَخَذَتِ الْمَاءَ فَصَبَّتْهُ بَيْنَهَا وَبَيْنَ جَيْبِهَا ، وَقَالَتْ : إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَأْمُرُنَا أَنْ نُبْرِدَهَا بِالْمَاءِ",
+      "english_translation": "Narrated from Fatimah bint al-Mundhir: Asma bint Abi Bakr, when a woman with fever was brought to her and she supplicated for her, would take water and pour it between her (the sick woman's body) and her garment. She said: 'Indeed, the Messenger of Allah ﷺ used to command us to cool it (the fever) with water.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Fatimah bint al-Mundhir",
+              "full_name": "Fatimah bint al-Mundhir ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Asma bint Abi Bakr",
+              "full_name": "Asma bint Abi Bakr al-Siddiq Abdullah ibn Abi Quhafah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Hisham ibn Urwah → Fatimah bint al-Mundhir → Asma bint Abi Bakr → Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Asma bint Abi Bakr treating women with fever",
+        "Method of cooling fever with water",
+        "Supplication for the sick"
+      ]
+    },
+    {
+      "hadith_id": 9907,
+      "collection": "Muwatta Malik",
+      "reference_number": 2203,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : إِنَّ الْحُمَّى مِنْ فَيْحِ جَهَنَّمَ فَابْرُدُوهَا بِالْمَاءِ",
+      "english_translation": "Narrated from Urwah ibn al-Zubayr: The Messenger of Allah ﷺ said: 'Indeed, fever is from the heat of Hellfire, so cool it with water.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is mursal (disconnected) as Urwah ibn al-Zubayr, a tabi'i, reports directly from the Prophet ﷺ without mentioning the companion who narrated it to him."]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Hisham ibn Urwah → Urwah ibn al-Zubayr → Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Urwah ibn al-Zubayr (a tabi'i) narrates directly from the Prophet ﷺ without naming the companion intermediary",
+          "impact": "Mursal hadiths are considered weak by the majority of hadith scholars because the missing link (the companion) cannot be verified. However, Imam Malik and some other Madinan scholars accepted the mursal narrations of reliable tabi'een."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Fever described as being from the heat of Hellfire",
+        "Command to cool fever with water"
+      ]
+    },
+    {
+      "hadith_id": 9908,
+      "collection": "Muwatta Malik",
+      "reference_number": 2204,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ ابْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : الْحُمَّى مِنْ فَيْحِ جَهَنَّمَ فَأَطْفِئُوهَا بِالْمَاءِ",
+      "english_translation": "Narrated by Ibn Umar: The Messenger of Allah ﷺ said: 'Fever is from the heat of Hellfire, so extinguish it with water.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Nafi' → Abdullah ibn Umar → Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fever described as being from the heat of Hellfire",
+        "Command to extinguish fever with water"
+      ]
+    },
+    {
+      "hadith_id": 9910,
+      "collection": "Muwatta Malik",
+      "reference_number": 2206,
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : إِذَا عَادَ الرَّجُلُ الْمَرِيضَ خَاضَ الرَّحْمَةَ حَتَّى إِذَا قَعَدَ عِنْدَهُ قَرَّتْ فِيهِ",
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : إِذَا عَادَ الرَّجُلُ الْمَرِيضَ خَاضَ الرَّحْمَةَ حَتَّى إِذَا قَعَدَ عِنْدَهُ قَرَّتْ فِيهِ ، أَوْ نَحْوَ هَذَا",
+      "english_translation": "Narrated from Jabir ibn Abdullah: The Messenger of Allah ﷺ said: 'When a man visits a sick person, he wades through mercy until when he sits with him, it settles upon him,' or something similar to this.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a balaghat (it reached him) narration where Malik does not name his source. The chain between Malik and Jabir is completely missing."]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Unknown narrator(s) → Jabir ibn Abdullah → Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'balaghahu' (it reached him) without naming the intermediary narrator(s) between himself and Jabir ibn Abdullah",
+          "impact": "This creates a significant break in the chain as one or more narrators are missing and their reliability cannot be assessed. Such balaghat narrations are considered weak by the majority of scholars."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Reward for visiting the sick",
+        "Divine mercy descending upon those who visit the sick"
+      ]
+    },
+    {
+      "hadith_id": 9911,
+      "collection": "Muwatta Malik",
+      "reference_number": 2207,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الْأَشَجِّ ، عَنْ ابْنِ عَطِيَّةَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : لَا عَدْوَى وَلَا هَامَ وَلَا صَفَرَ ، وَلَا يَحُلَّ الْمُمْرِضُ عَلَى الْمُصِحِّ ، وَلْيَحْلُلِ الْمُصِحُّ حَيْثُ شَاءَ ، فَقَالُوا : يَا رَسُولَ اللَّهِ وَمَا ذَاكَ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّهُ أَذًى",
+      "english_translation": "Narrated from Ibn Atiyyah: The Messenger of Allah ﷺ said: 'There is no contagion (adwa), no evil omen from owls (haam), and no superstition about the month of Safar. The one with sick (camels) should not stop near the one with healthy (camels), but the one with healthy (camels) may stop wherever he wishes.' They said: 'O Messenger of Allah, what is that?' The Messenger of Allah ﷺ said: 'It is a harm.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bukayr ibn Abdullah ibn al-Ashajj",
+              "full_name": "Bukayr ibn Abdullah ibn al-Ashajj al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Atiyyah",
+              "full_name": "Identity uncertain - could be multiple narrators with this name",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["The identity of 'Ibn Atiyyah' is unclear. There are several narrators with this name, and it's uncertain which one is meant here or whether he met the Prophet ﷺ."]
+            }
+          ],
+          "chainIssues": ["Malik uses 'balaghahu' indicating a missing link between him and Bukayr. Additionally, 'Ibn Atiyyah' is not clearly identified and may not be a companion."]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Unknown narrator → Bukayr ibn Abdullah → Ibn Atiyyah → Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'balaghahu' (it reached him), indicating one or more missing narrators between him and Bukayr ibn Abdullah",
+          "impact": "The missing narrator(s) cannot be verified for reliability, creating a significant weakness in the chain."
+        },
+        {
+          "issue": "'Ibn Atiyyah' is not clearly identified and appears to be majhul (unknown)",
+          "impact": "The identity and status of this narrator cannot be confirmed. If he is not a companion, the chain would be mursal. His unknown status significantly weakens the hadith."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Negation of superstitious beliefs about contagion",
+        "Negation of evil omens from owls",
+        "Negation of superstitions about the month of Safar",
+        "Precaution regarding mixing sick and healthy animals",
+        "Dialogue with the Prophet ﷺ about avoiding harm"
+      ]
+    },
+    {
+      "hadith_id": 9913,
+      "collection": "Muwatta Malik",
+      "reference_number": 2209,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي بَكْرِ بْنِ نَافِعٍ ، عَنْ أَبِيهِ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ بِإِحْفَاءِ الشَّوَارِبِ وَإِعْفَاءِ اللِّحَى",
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ commanded trimming the mustaches closely and letting the beards grow.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Nafi'",
+              "full_name": "Abdullah ibn Nafi' mawla Ibn Umar",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some scholars considered him acceptable but not of the highest grade. He narrates primarily from his father."]
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Abu Bakr ibn Nafi' → Nafi' → Abdullah ibn Umar → Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Bakr ibn Nafi' (Abdullah ibn Nafi') is graded as Saduq rather than Thiqah by some scholars",
+          "impact": "While he is generally acceptable, he is not of the highest reliability level. This slightly reduces the strength of the chain from 'Perfect' to 'Sound', though the hadith remains acceptable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Command to trim mustaches closely",
+        "Command to let beards grow",
+        "Personal grooming guidance"
+      ]
+    },
+    {
+      "hadith_id": 9914,
+      "collection": "Muwatta Malik",
+      "reference_number": 2210,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ، أَنَّهُ سَمِعَ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ عَامَ حَجَّ وَهُوَ عَلَى الْمِنْبَرِ ، وَتَنَاوَلَ قُصَّةً مِنْ شَعَرٍ كَانَتْ فِي يَدِ حَرَسِيٍّ ، يَقُولُ : يَا أَهْلَ الْمَدِينَةِ أَيْنَ عُلَمَاؤُكُمْ ؟ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَى عَنْ مِثْلِ هَذِهِ ، وَيَقُولُ : إِنَّمَا هَلَكَتْ بَنُو إِسْرَائِيلَ حِينَ اتَّخَذَ هَذِهِ نِسَاؤُهُمْ. وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ زِيَادِ بْنِ سَعْدٍ ، عَنْ ابْنِ شِهَابٍ ، أَنَّهُ سَمِعَهُ يَقُولُ : سَدَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَاصِيَتَهُ مَا شَاءَ اللَّهُ ، ثُمَّ فَرَقَ بَعْدَ ذَلِكَ",
+      "english_translation": "Narrated from Humayd ibn Abd al-Rahman ibn Awf: He heard Mu'awiyah ibn Abi Sufyan in the year he performed Hajj while he was upon the pulpit, and he took a lock of hair that was in the hand of a guard, saying: 'O people of Madinah, where are your scholars? I heard the Messenger of Allah ﷺ forbid the like of this and say: The Bani Israel only perished when their women adopted this (hair extensions).' // Narrated from Ibn Shihab: He heard him (Ibn Shihab) say: 'The Messenger of Allah ﷺ let his forelock hang down for as long as Allah willed, then he parted it after that.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis (category 3) by some scholars, though generally considered highly reliable"]
+            },
+            {
+              "name": "Humayd ibn Abd al-Rahman",
+              "full_name": "Humayd ibn Abd al-Rahman ibn Awf al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mu'awiyah ibn Abi Sufyan",
+              "full_name": "Mu'awiyah ibn Abi Sufyan Sakhr ibn Harb al-Umawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ziyad ibn Sa'd",
+              "full_name": "Ziyad ibn Sa'd al-Khurasani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَهُ",
+              "reliabilityIssues": ["Classified as mudallis (category 3) by some scholars, though generally considered highly reliable"]
+            }
+          ],
+          "chainIssues": ["This is mursal as Ibn Shihab al-Zuhri (a tabi'i) reports directly about the Prophet ﷺ without naming the companion source."]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Ibn Shihab al-Zuhri → Humayd ibn Abd al-Rahman → Mu'awiyah ibn Abi Sufyan → Prophet Muhammad ﷺ",
+        "Malik ibn Anas → Ziyad ibn Sa'd → Ibn Shihab al-Zuhri → Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis (category 3 in Ibn Hajar's classification) and uses the term 'عَنْ' (an) in the first chain",
+          "impact": "Al-Zuhri is widely considered extremely reliable and trustworthy by the vast majority of scholars despite his tadlis. His narrations are generally accepted even with 'an. This does not significantly affect the reliability of the first hadith."
+        },
+        {
+          "issue": "The second narration is mursal - Ibn Shihab al-Zuhri reports directly about the Prophet ﷺ without naming the companion",
+          "impact": "This creates a break in the chain as the companion source is unknown. Mursal narrations are considered weak by the majority of scholars."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Mu'awiyah seeing hair extensions in Madinah",
+        "Warning about the destruction of Bani Israel due to women using hair extensions",
+        "Description of how the Prophet ﷺ styled his hair",
+        "The Prophet ﷺ parting his hair"
+      ]
+    },
+    {
+      "hadith_id": 9915,
+      "collection": "Muwatta Malik",
+      "reference_number": 2211,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ أَنَّهُ كَانَ يَكْرَهُ الْإِخْصَاءَ ، وَيَقُولُ : فِيهِ تَمَامُ الْخَلْقِ",
+      "english_translation": "Narrated from Abdullah ibn Umar: He used to dislike castration and would say: 'In it (the reproductive organ) is the completion of creation.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas → Nafi' → Abdullah ibn Umar"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Ibn Umar's view on castration",
+        "The sacredness of the natural creation"
+      ]
+    }
+  ]
+}

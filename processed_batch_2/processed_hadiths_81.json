@@ -1,0 +1,872 @@
+{
+  "batch_number": 2,
+  "file_number": 81,
+  "processed_date": "2025-11-14",
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 10201,
+      "english_translation": "Incomplete or malformed hadith entry with only formatting codes.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "Incomplete hadith entry",
+          "impact": "No analyzable content available"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Entry"
+      ],
+      "arabicText": "/500 44 /500 /400 45 /400 /100 1 : 87 /100",
+      "collection": "كتاب رقم 20",
+      "reference_number": 124,
+      "grade": "Cannot be graded"
+    },
+    {
+      "hadith_id": 10202,
+      "english_translation": "Narrated by Abu Umamah al-Bahili: The Messenger of Allah ﷺ said: 'In tayammum (dry ablution), there is one strike for the face and another for the forearms.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Amr",
+              "full_name": "Muhammad ibn Amr ibn Alqamah al-Laythi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq with some memory issues; graded between Saduq and Hasan by scholars"
+              ]
+            },
+            {
+              "name": "Rajul (Unknown Man)",
+              "full_name": "Unnamed narrator",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَهُ",
+              "reliabilityIssues": [
+                "Completely unknown narrator - Majhul al-'Ayn"
+              ]
+            },
+            {
+              "name": "Ja'far ibn al-Zubayr",
+              "full_name": "Ja'far ibn al-Zubayr ibn al-Awwam",
+              "grade": "Da'if",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered weak by majority of hadith critics including Yahya ibn Ma'in and al-Nasa'i"
+              ]
+            },
+            {
+              "name": "Al-Qasim ibn Abd al-Rahman",
+              "full_name": "Al-Qasim ibn Abd al-Rahman ibn Abdullah ibn Mas'ud",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Umamah al-Bahili",
+              "full_name": "Sudayy ibn Ajlan al-Bahili",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains an unknown narrator (Majhul) in the chain",
+            "Ja'far ibn al-Zubayr is considered weak (Da'if)",
+            "Multiple uses of 'an (عَنْ) indicating potential indirect transmission",
+            "Muhammad ibn Amr is only Saduq level, not highest reliability"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Muhammad ibn Amr -> Unknown Man -> Ja'far ibn al-Zubayr -> Al-Qasim ibn Abd al-Rahman -> Abu Umamah al-Bahili -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator (Majhul) in the chain",
+          "impact": "Severely weakens the chain as we cannot verify the reliability of this link"
+        },
+        {
+          "issue": "Ja'far ibn al-Zubayr is considered Da'if (weak) by major hadith critics",
+          "impact": "A weak narrator in the chain significantly impacts authenticity"
+        },
+        {
+          "issue": "Muhammad ibn Amr is Saduq with some memory issues",
+          "impact": "Not the highest level of reliability, though generally acceptable in supporting roles"
+        },
+        {
+          "issue": "Multiple instances of 'an (عَنْ) indicating potentially indirect transmission",
+          "impact": "Increases possibility of gaps in the transmission chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Tayammum Method Description",
+        "Number of Strikes in Tayammum"
+      ],
+      "arabicText": "/11 /25 قَالَ /25 /22 ابْنُ وَهْبٍ /22 ، /25 عن /25 /94 مُحَمَّدِ بْنِ عَمْرٍو L7213 /94 ، @ 1 : 88 @  /25 عن /25 /18 /26 رَجُلٍ L1131 /26 /18 حَدَّثَهُ ، /25 عن /25 /26 جَعْفَرِ بْنِ الزُّبَيْرِ L2140 /26 ، /25 عن /25 /26 الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ L1581 /26 ، /27 /25 عن /25 /93 أَبِي أُمَامَةَ الْبَاهِلِيِّ L3929 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" فِي التَّيَمُّمِ ضَرْبَةٌ لِلْوَجْهِ ، وَأُخْرَى لِلذِّرَاعَيْنِ \" /27 * \r\nقَالَ : وَقَالَ مَالِكٌ : لَا يَتَيَمَّمُ فِي أَوَّلِ الْوَقْتِ مُسَافِرٌ ، وَلَا مَرِيضٌ ، وَلَا خَائِفٌ إِلَّا أَنْ يَكُونَ الْمُسَافِرُ عَلَى إِيَاسٍ مِنَ الْمَاءِ , فَإِذَا كَانَ عَلَى إِيَاسٍ مِنَ الْمَاءِ يَتَيَمَّمُ ، وَصَلَّى فِي أَوَّلِ الْوَقْتِ وَكَانَ ذَلِكَ لَهُ جَائِزًا وَلَا إِعَادَةَ عَلَيْهِ . وَإِنْ قَدَرَ عَلَى الْمَاءِ , وَالْمَرِيضُ وَالْخَائِفُ يَتَيَمَّمَانِ فِي وَسَطِ الْوَقْتِ ، وَإِنْ وَجَدَ الْمَرِيضُ أَوِ الْخَائِفُ الْمَاءَ فِي ذَلِكَ الْوَقْتِ فَعَلَيْهِمَا الْإِعَادَةُ ، وَإِنْ وَجَدَ الْمُسَافِرُ الْمَاءَ بَعْدَ ذَلِكَ ، فَلَا إِعَادَةَ عَلَيْهِ . وَإِنْ تَيَمَّمَ الْمُسَافِرُ فِي أَوَّلِ الْوَقْتِ ، وَهُوَ يَعْلَمُ   أَنَّهُ يَصِلُ إِلَى الْمَاءِ فِي الْوَقْتِ ثُمَّ صَلَّى ؟ قَالَ ابْنُ الْقَاسِمِ : فَأَرَى أَنْ يُعِيدَ هَذَا فِي الْوَقْتِ إِذَا وَجَدَ الْمَاءَ فِي الْوَقْتِ قَالَ : وَقَالَ مَالِكٌ فِي الْمُسَافِرِ وَالْمَرِيضِ وَالْخَائِفِ لَا يَتَيَمَّمُونَ إِلَّا فِي وَسَطِ الْوَقْتِ , قَالَ : فَإِنْ تَيَمَّمُوا فَصَلَّوْا ، ثُمَّ وَجَدُوا الْمَاءَ فِي الْوَقْتِ ؟ قَالَ : أَمَّا الْمُسَافِرُ فَلَا يُعِيدُ , وَأَمَّا الْمَرِيضُ وَالْخَائِفُ الَّذِي يَعْرِفُ مَوْضِعَ الْمَاءِ إِلَّا أَنَّهُ يَخَافُ أَنْ لَا يَبْلُغَهُ ، فَعَلَيْهِ أَنْ يُعِيدَ إِنْ قَدَرَ عَلَى الْمَاءِ فِي وَقْتِ تِلْكَ الصَّلَاةِ . \r\n$45  46 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 125,
+      "grade": "Da'if (Weak)"
+    },
+    {
+      "hadith_id": 10203,
+      "english_translation": "Narrated by Ata ibn Yasar: Two men experienced wet dreams during the time of the Messenger of Allah ﷺ while they were traveling. They sought water but did not find it, so they performed tayammum with clean earth and prayed. Then they found water within the prayer time, and one of them repeated his ablution and prayer while the other did not repeat. When they came to the Messenger of Allah ﷺ, they mentioned this to him. He said to the one who did not repeat: 'You followed the Sunnah and your prayer is sufficient for you.' And he said to the one who performed ablution and repeated the prayer: 'You have the reward twice.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Lahi'ah",
+              "full_name": "Abdullah ibn Lahi'ah ibn Uqbah al-Hadrami",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": [
+                "Lost his books in a fire, leading to memory issues",
+                "Considered weak by majority though acceptable through certain chains",
+                "His narrations are generally Da'if unless through the 'Abadilah chains"
+              ]
+            },
+            {
+              "name": "Bakr ibn Sawadah al-Judhami",
+              "full_name": "Bakr ibn Sawadah ibn Tha'labah al-Judhami",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered Saduq but not of the highest level"
+              ]
+            },
+            {
+              "name": "Rajul (Unknown Man)",
+              "full_name": "Unnamed narrator",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَهُ",
+              "reliabilityIssues": [
+                "Completely unknown narrator - Majhul al-'Ayn"
+              ]
+            },
+            {
+              "name": "Ata ibn Yasar",
+              "full_name": "Ata ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Did not meet the Prophet - this is a Mursal narration"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ibn Lahi'ah is considered weak (Da'if)",
+            "Contains an unknown narrator (Majhul) in the chain",
+            "Mursal narration - Ata ibn Yasar is a Tabi'i who did not meet the Prophet",
+            "Multiple uses of 'an (عَنْ) indicating potential indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Ibn Lahi'ah -> Bakr ibn Sawadah -> Unknown Man -> Ata ibn Yasar -> [Gap] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Lahi'ah is a weak narrator whose books were destroyed in a fire",
+          "impact": "Significantly weakens the chain unless narrated through specific reliable students"
+        },
+        {
+          "issue": "Unknown narrator (Majhul) in the chain",
+          "impact": "Cannot verify reliability of this crucial link"
+        },
+        {
+          "issue": "Mursal narration - Ata ibn Yasar is a Tabi'i who never met the Prophet",
+          "impact": "Clear disconnection in the chain between Ata and the Prophet"
+        },
+        {
+          "issue": "Bakr ibn Sawadah is only Saduq level",
+          "impact": "Not highest level of reliability"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Two Men Performing Tayammum During Travel",
+        "Tayammum When Water is Not Found",
+        "Repeating Prayer After Finding Water"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 : وَأَخْبَرَنِي /94 ابْنُ لَهِيعَةَ L5033 /94 ، عن /26 بَكْرِ بْنِ سَوَادَةَ الْجُذَامِيِّ L1931 /26 ، عن /18 /26 رَجُلٍ L1131 /26 /18 حَدَّثَهُ ، عن /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 /27 \" أَنَّ /20 رَجُلَيْنِ احْتَلَمَا فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَكَانَا فِي السَّفَرِ , فَالْتَمَسَا مَاءً فَلَمْ يَجِدَاهُ فَتَيَمَّمَا ، ثُمَّ صَلَّيَا ثُمَّ وَجَدَا الْمَاءَ قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ فَاغْتَسَلَا ، ثُمَّ أَعَادَ أَحَدُهُمَا الصَّلَاةَ وَلَمْ يُعِدِ الْآخَرُ ، فَذُكِرَ ذَلِكَ لِرَسُولِ اللَّهِ عَلَيْهِ السَّلامُ فَقَالَ : \" لِلَّذِي أَعَادَ لَكَ الْأَجْرُ مَرَّتَيْنِ ، وَقَالَ لِلْآخَرِ : تَمَّتْ صَلَاتُكَ \" /27 , قَالَ /22 ابْنُ وَهْبٍ /22 : قَالَ : وَأَخْبَرَنِي /94 اللَّيْثُ بْنُ سَعْدٍ L6641 /94 ، عن /26 مُعَاذِ بْنِ مُحَمَّدٍ الْأَنْصَارِيِّ L7559 /26 ، وَغَيْرِهِ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لِلَّذِي أَعَادَ صَلَاتَهُ : \" لَكَ مثل سَهْمِ جَمْعٍ \" ، وَقَالَ لِلَّذِي لَمْ يَعُدْ : \" أَجْزَتْ عنكَ صَلَاتُكَ وَأَصَبْتَ السُّنَّةَ \" * \r\ncE40 قَالَ : وَقَالَ مَالِكٌ فِيمَنْ كَانَ مَعَهُ مَاءٌ وَهُوَ مُسَافِرٌ ، فَنَسِيَ أَنَّ مَعَهُ مَاءً ، ثُمَّ تَيَمَّمَ فَصَلَّى ثُمَّ ذَكَرَ أَنَّ مَعَهُ مَاءً وَهُوَ فِي الْوَقْتِ , قَالَ : أَرَى أَنْ يُعِيدَ مَا كَانَ فِي الْوَقْتِ ، فَإِذَا ذَهَبَ الْوَقْتُ لَمْ يُعِدْهُ . قَالَ : وَسَأَلْتُ مَالِكًا عن الرَّجُلِ تَغِيبُ لَهُ الشَّمْسُ ، وَقَدْ خَرَجَ مِنْ قَرْيَتِهِ يُرِيدُ قَرْيَةً أُخْرَى وَهُوَ فِيمَا بَيْنَ الْقَرْيَتَيْنِ عَلَى غَيْرِ وُضُوءٍ وَهُوَ غَيْرُ مُسَافِرٍ ؟ قَالَ : إِنْ طَمِعَ أَنْ يُدْرِكَ الْمَاءَ قَبْلَ مَغِيبِ الشَّفَقِ مَضَى إِلَى   الْمَاءِ ، وَإِنْ كَانَ لَا يَطْمَعُ بِذَلِكَ تَيَمَّمَ وَصَلَّى . قَالَ : وَقَالَ مَالِكٌ : وَمِنْ ذَلِكَ أَنَّ مِنَ الْمَنَازِلِ مَا يَكُونُ عَلَى الْمِيلِ وَالْمِيلَيْنِ لَا يَطْمَعُ أَنْ يُدْرِكَهَا قَبْلَ مَغِيبِ الشَّفَقِ ، فَإِذَا كَانَ لَا يُدْرِكُهَا حَتَّى يَغِيبَ الشَّفَقُ تَيَمَّمَ وَصَلَّى . قَالَ مَالِكٌ : وَإِنْ كَانَ مُسَافِرًا وَهُوَ عَلَى يَقِينٍ مِنَ الْمَاءِ أَنَّهُ يُدْرِكُهُ فِي الْوَقْتِ ، فَلْيُؤَخِّرْهُ حَتَّى يُدْرِكَ الْمَاءَ , فَإِنْ لَمْ يَكُنْ عَلَى يَقِينٍ مِنَ الْمَاءِ أَنَّهُ يُدْرِكُهُ فِي الْوَقْتِ ؟ قَالَ : يَتَيَمَّمُ , قَالَ : وَالصَّلَوَاتُ كُلُّهَا : الظُّهْرُ ، وَالْعَصْرُ ، وَالْمَغْرِبُ ، وَالْعِشَاءُ ، وَالصُّبْحُ أَيْضًا يَتَيَمَّمُ لَهَا فِي وَسَطِ الْوَقْتِ إِلَّا أَنْ يَكُونَ عَلَى يَقِينٍ أَنَّهُ يُدْرِكُ الْمَاءَ فِي الْوَقْتِ فَلْيُؤَخِّرْ ذَلِكَ , وَإِنْ كَانَ لَا يَطْمَعُ أَنْ يُدْرِكَ الْمَاءَ فِي الْوَقْتِ ، فَلْيَتَيَمَّمْ فِي وَسَطِ الْوَقْتِ وَيُصَلِّي . \r\n$46  47 /3 /141 قَالَ /12 مَالِكٌ /12 : عن /94 نَافِعٍ L7863 /94 ، قَالَ : /27 أَقْبَلْتُ أَنَا ، وَعَبْدُ اللَّهِ بْنُ عُمَرَ مِنَ /60 الْجُرُفِ /60 حَتَّى إِذَا كُنَّا /60 بِالْمِرْبَدِ /60 نزل /93 عَبْدُ اللَّهِ بْنُ عُمَرَ L4967 /93 ، /20 فَتَيَمَّمَ فَمَسَحَ بِوَجْهِهِ وَيَدَيْهِ إِلَى الْمَرْفِقَيْنِ ثُمَّ صَلَّى /27 , قَالَ نَافِعٌ : وَكَانَ ابْنُ عُمَرَ يَتَيَمَّمُ إِلَى الْمَرْفِقَيْنِ * \r\nقَالَ : وَقَالَ مَالِكٌ : التَّيَمُّمُ إِلَى الْمَرْفِقَيْنِ وَإِنْ تَيَمَّمَ إِلَى الْكُوعَيْنِ أَعَادَ التَّيَمُّمَ ، وَالصَّلَاةَ مَا    @ 1 : 89 @    دَامَ فِي الْوَقْتِ ، فَإِنْ مَضَى الْوَقْتُ لَمْ يُعِدِ الصَّلَاةَ وَأَعَادَ التَّيَمُّمَ . قُلْتُ : أَيَتَيَمَّمُ فِي الْحَضَرِ إِذَا لَمْ يَجِدِ الْمَاءَ فِي قَوْلِ مَالِكٍ ؟ قَالَ : نَعَمْ . قَالَ : وَسَأَلْنَا   مَالِكًا عَمَّنْ كَانَ فِي الْقَبَائِلِ مثل الْمَعَافِرِ ، أَوْ أَطْرَافِ /60 الْفُسْطَاطِ /60 فَخَشِيَ إِنْ ذَهَبَ يَتَوَضَّأُ أَنْ تَطْلُعَ عَلَيْهِ الشَّمْسُ قَبْلَ أَنْ يَبْلُغَ الْمَاءَ ؟ قَالَ : يَتَيَمَّمُ وَيُصَلِّي . قَالَ : وَسَأَلْنَا مَالِكًا عن الْمُسَافِرِ يَأْتِي الْبِئْرَ فِي آخِرِ الْوَقْتِ ، فَهُوَ يَخْشَى إِنْ نزل يَنْزِعُ بِالرِّشَا وَيَتَوَضَّأُ يَذْهَبُ وَقْتُ تِلْكَ الصَّلَاةِ ؟ قَالَ : فَلْيَتَيَمَّمْ وَلْيُصَلِّ . قُلْتُ لِابْنِ الْقَاسِمِ : أَفَيُعِيدُ الصَّلَاةَ بَعْدَ ذَلِكَ فِي قَوْلِ مَالِكٍ إِذَا تَوَضَّأَ ؟ قَالَ : لَا . قُلْتُ : فَإِنْ كَانَ هَذَا الرَّجُلُ فِي الْحَضَرِ أَتَرَاهُ فِي قَوْلِ مَالِكٍ بِهَذِهِ الْمَنْزِلَةِ فِي التَّيَمُّمِ ؟ قَالَ : نَعَمْ . قَالَ ابْنُ الْقَاسِمِ : وَقَدْ كَانَ مَرَّةً مِنْ قَوْلِهِ فِي الْحَضَرِيِّ أَنَّهُ يُعِيدُ إِذَا تَوَضَّأَ . قُلْتُ : أَرَأَيْتَ مَنْ كَانَ فِي السِّجْنِ فَلَمْ يَجِدِ الْمَاءَ أَيَتَيَمَّمُ ؟ قَالَ : نَعَمْ . قُلْتُ : وَهُوَ قَوْلُ مَالِكٍ . قَالَ : قَدْ أَخْبَرْتُكَ أَنَّ مَالِكًا قَالَ فِي الرَّجُلِ فِي الْحَضَرِ يَخَافُ أَنْ تَطْلُعَ عَلَيْهِ الشَّمْسُ إِنْ ذَهَبَ إِلَى النِّيلِ وَهُوَ فِي الْمَعَافِرِ أَوْ فِي أَطْرَافِ /60 الْفُسْطَاطِ /60 : إِنَّهُ يَتَيَمَّمُ وَلَا يَذْهَبُ إِلَى الْمَاءِ ، فَهَذَا مثل ذَلِكَ , وَقَالَ ابْنُ الْقَاسِمِ : مَنْ تَيَمَّمَ فِي مَوْضِعِ النَّجَاسَةِ مِنَ الْأَرْضِ مَوْضِعٍ قَدْ أَصَابَهُ الْبَوْلُ أَوِ الْقَذَرُ ، فَلْيُعِدْ مَا دَامَ فِي الْوَقْتِ . قُلْتُ لَهُ : هَذَا قَوْلُ مَالِكٍ ؟ قَالَ : قَدْ كَانَ مَالِكٌ يَقُولُ : مَنْ تَوَضَّأَ بِمَاءٍ غَيْرِ طَاهِرٍ أَعَادَ مَا دَامَ فِي الْوَقْتِ ، فَكَذَلِكَ هَذَا عندِي . قَالَ ابْنُ   الْقَاسِمِ : سَأَلْتُ مَالِكًا عن الرَّجُلِ يَجِدُ الْمَاءَ وَهُوَ عَلَى غَيْرِ وُضُوءٍ وَلَا يَقْدِرُ عَلَيْهِ ، وَهُوَ فِي بِئْرٍ أَوْ فِي مَوْضِعٍ لَا يَقْدِرُ عَلَيْهِ ؟ قَالَ : يُعَالِجُهُ مَا لَمْ يَخَفْ فَوَاتَ الْوَقْتِ ، فَإِذَا خَافَ فَوَاتَ الْوَقْتِ تَيَمَّمَ وَصَلَّى . قُلْتُ : أَرَأَيْتَ إِنْ تَيَمَّمَ رَجُلٌ ، فَيَمَّمَ وَجْهَهُ فِي مَوْضِعٍ وَيَمَّمَ يَدَيْهِ فِي مَوْضِعٍ آخَرَ ؟ قَالَ : إِنْ تَبَاعَدَ ذَلِكَ فَلْيَبْتَدِئِ التَّيَمُّمَ ، وَإِنْ لَمْ يَتَطَاوَلْ ذَلِكَ ، وَإِنَّمَا ضَرَبَ لِوَجْهِهِ فِي مَوْضِعٍ ، ثُمَّ قَامَ إِلَى مَوْضِعٍ آخَرَ قَرِيبٍ مِنْ ذَلِكَ ، فَضَرَبَ لِيَدَيْهِ أَيْضًا ، وَأَتَمَّ تَيَمُّمَهُ فَإِنَّهُ يُجْزِئُهُ . قُلْتُ : هَذَا قَوْلُ مَالِكٍ قَالَ : هُوَ عندِي مثل الْوُضُوءِ . قُلْتُ لَهُ : فَإِنْ نَكَسَ التَّيَمُّمَ فَيَمَّمَ يَدَيْهِ قَبْلَ وَجْهِهِ ، ثُمَّ وَجْهَهُ بَعْدَ يَدَيْهِ ؟ قَالَ : إِنْ صَلَّى أَجْزَأَهُ وَيُعِيدُ التَّيَمُّمَ لِمَا يَسْتَقْبِلُ . قُلْتُ : وَهَذَا قَوْلُ مَالِكٍ قَالَ : هُوَ مثل الْوُضُوءِ . وَقَالَ مَالِكٌ فِي الْجُنُبِ : لَا يَجِدُ الْمَاءَ فَيَتَيَمَّمُ وَيُصَلِّي ، ثُمَّ يَجِدُ الْمَاءَ بَعْدَ ذَلِكَ , قَالَ : يَغْتَسِلُ لِمَا يَسْتَقْبِلُ وَصَلَاتُهُ الْأُولَى تَامَّةٌ , وَقَالَهُ سَعِيدُ بْنُ الْمُسَيِّبِ ، وَابْنُ مَسْعُودٍ وَقَدْ كَانَ يَقُولُ غَيْرَ ذَلِكَ ثُمَّ رَجَعَ إِلَى هَذَا أَنَّهُ يَغْتَسِلُ ، وَذَكَرَهُ عن ابْنِ مَسْعُودٍ سُفْيَانُ بْنُ عُيَيْنَةَ . قَالَ : وَقَالَ مَالِكٌ فِي الْمَجْدُورِ وَالْمَحْصُوبِ إِذَا خَافَا عَلَى أَنْفُسِهِمَا ، وَقَدْ أَصَابَتْهُمَا جَنَابَةٌ : إِنَّهُمَا يَتَيَمَّمَانِ لِكُلِّ صَلَاةٍ أَحْدَثَا فِي ذَلِكَ ، أَوْ لَمْ يُحْدِثَا يَتَيَمَّمَانِ   لِلْجَنَابَةِ وَلَا يَغْتَسِلَانِ . قُلْتُ : أَرَأَيْتَ الْمَجْرُوحَ الَّذِي قَدْ كَثُرَتْ جِرَاحَاتُهُ فِي جَسَدِهِ حَتَّى أَتَتْ عَلَى أَكْثَرِ جَسَدِهِ    @ 1 : 90 @   كَيْفَ يَفْعَلُ فِي قَوْلِ مَالِكٍ ؟ قَالَ : هُوَ بِمَنْزِلَةِ الْمَجْدُورِ وَالْمَحْصُوبِ إِذَا كَانَ لَا يَسْتَطِيعُ أَنْ يَمَسَّ الْمَاءَ جَسَدُهُ تَيَمَّمَ وَصَلَّى . قُلْتُ : فَإِنْ كَانَ بَعْضُ جَسَدِهِ صَحِيحًا لَيْسَ فِيهِ جُرُوحٌ ، وَأَكْثَرُ جَسَدِهِ فِيهِ الْجِرَاحَةُ ؟ قَالَ : يَغْسِلُ مَا صَحَّ مِنْ جَسَدِهِ ، وَيَمْسَحُ عَلَى مَوَاضِعِ الْجِرَاحَةِ إِنْ قَدَرَ عَلَى ذَلِكَ ، وَإِلَّا فَعَلَى الْخِرَقِ الَّتِي عَصَبَ بِهَا . قُلْتُ : هَذَا قَوْلُ مَالِكٍ ؟ قَالَ : نَعَمْ . قَالَ ابْنُ وَهْبٍ ، عن ابْنِ جُرَيْجٍ ، عن مُجَاهِدٍ ، قَالَ : لِلْمَجْدُورِ وَأَشْبَاهِهِ رُخْصَةٌ أَنْ لَا يَتَوَضَّأَ وَيَتْلُوَ /4 وَإِنْ كُنْتُمْ مَرْضَى أَوْ عَلَى سَفَرٍ /4 . قَالَ : وَذَلِكَ مِمَّا لَا يَخْفَى مِنْ تَأْوِيلِ الْقُرْآنِ . \r\n$47  48 /3",
+      "collection": "كتاب رقم 20",
+      "reference_number": 126,
+      "grade": "Da'if (Weak) - Mursal with weak narrators"
+    },
+    {
+      "hadith_id": 10204,
+      "english_translation": "Narrated by Ibn Abi Salamah: It reached me that Ibn Abbas gave a fatwa for a person with smallpox to perform tayammum.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abi Salamah",
+              "full_name": "Abd al-Rahman ibn Abi Salamah al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": [
+                "Uses 'balaghani' (it reached me) indicating unclear transmission"
+              ]
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'balaghani' (بَلَغَنِي) indicating unclear or indirect transmission",
+            "Missing link between Ibn Abi Salamah and Ibn Abbas"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Ibn Abi Salamah -> [Unclear/Missing] -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Uses 'balaghani' (بَلَغَنِي) indicating indirect or unclear transmission",
+          "impact": "Clear disconnection in the chain; cannot verify the intermediate narrators"
+        },
+        {
+          "issue": "This is a Mawquf narration (stopped at a Companion), not Marfu' (elevated to the Prophet)",
+          "impact": "This is Ibn Abbas's fatwa, not a direct prophetic statement"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Ibn Abbas's Fatwa on Tayammum for Person with Smallpox",
+        "Medical Conditions Requiring Tayammum"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، قَالَ /94 ابْنُ أَبِي سَلَمَةَ L4577 /94 : وَبَلَغَنِي /27 أَنَّ /93 ابْنَ عَبَّاسٍ L4883 /93 /20 أَفْتَى مَجْدُورًا بِالتَّيَمُّمِ /27 , قُلْتُ : أَرَأَيْتَ إِنْ غَمَرَتْ جَسَدَهُ وَرَأْسَهُ الْجِرَاحَاتُ إِلَّا الْيَدَ وَالرِّجْلَ أَيَغْسِلُ تِلْكَ الْيَدَ وَالرِّجْلَ ، وَيُمِرُّ الْمَاءَ عَلَى مَا عَصَبَ مِنْ جَسَدِهِ أَمْ يَتَيَمَّمُ ؟ قَالَ : لَا أَحْفَظُ مِنْ مَالِكٍ فِي هَذَا شَيْئًا ، وَأَرَى أَنْ يَتَيَمَّمَ إِذَا كَانَ هَكَذَا , وَقَالَ لِي /12 مَالِكٌ /12 : /10 إِذَا خَافَ الْجُنُبُ عَلَى نَفْسِهِ الْمَوْتَ فِي الثَّلْجِ وَالْبَرْدِ وَنَحْوِهِ إِنْ هُوَ اغْتَسَلَ أَجْزَأَهُ التَّيَمُّمُ /10 * \r\n\u0016E41 \r\n$48  49 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 127,
+      "grade": "Da'if Mawquf - Disconnected chain"
+    },
+    {
+      "hadith_id": 10205,
+      "english_translation": "Narrated by Zayd ibn Abi Unaysah al-Jazari: There was a man among the Muslims during the Battle of Khaybar who was afflicted with smallpox, then he became sexually impure (had a wet dream). His companions gave him a full bath, and his flesh disintegrated and he died. The Messenger of Allah ﷺ was informed about this, and he said: 'They killed him, may Allah kill them! Why did they not ask if they did not know? Indeed, the cure for ignorance is to ask.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jarir ibn Hazim",
+              "full_name": "Jarir ibn Hazim ibn Zayd al-Azdi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Nu'man ibn Rashid",
+              "full_name": "Al-Nu'man ibn Rashid al-Jazari",
+              "grade": "Da'if",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Considered weak by majority of critics",
+                "Ibn Ma'in said: 'Not strong'",
+                "Abu Hatim said: 'Layyin al-Hadith'"
+              ]
+            },
+            {
+              "name": "Zayd ibn Abi Unaysah al-Jazari",
+              "full_name": "Zayd ibn Abi Unaysah al-Jazari",
+              "grade": "Majhul al-Hal",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Little known narrator",
+                "Insufficient documentation of reliability"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Al-Nu'man ibn Rashid is considered weak (Da'if)",
+            "Zayd ibn Abi Unaysah is Majhul al-Hal (unknown reliability status)",
+            "Mursal narration - Zayd did not witness the event directly",
+            "Multiple uses of 'an (عَنْ) indicating potential indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Jarir ibn Hazim -> Al-Nu'man ibn Rashid -> Zayd ibn Abi Unaysah -> [Gap] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Nu'man ibn Rashid is considered weak (Da'if) by major critics",
+          "impact": "Significantly weakens the chain reliability"
+        },
+        {
+          "issue": "Zayd ibn Abi Unaysah is Majhul al-Hal with insufficient documentation",
+          "impact": "Cannot verify his reliability or precision in transmission"
+        },
+        {
+          "issue": "Appears to be a Mursal or disconnected narration as Zayd did not witness the Battle of Khaybar",
+          "impact": "Gap in the chain between Zayd and the actual event"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) indicating potential indirect transmission",
+          "impact": "Increases possibility of gaps or intermediaries"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Man with Smallpox Who Died After Bathing at Khaybar",
+        "Asking When Ignorant About Religious Matters",
+        "Harm from Bathing with Medical Conditions"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 جَرِيرِ بْنِ حَازِمٍ L2119 /94 ، عن /26 النُّعْمَانِ بْنِ رَاشِدٍ L1735 /26 ، عن /26 زَيْدِ بْنِ أَبِي أُنَيْسَةَ الْجَزَرِيِّ L3115 /26 ، قَالَ : /27 \" كَانَ /20 رَجُلٌ مِنَ الْمُسْلِمِينَ فِي غَزْوَةِ خَيْبَرَ أَصَابَهُ جُدَرِيٌّ ، فَأَصَابَتْهُ جَنَابَةٌ ، فَغَسَّلَهُ أَصْحَابُهُ ، فَتَهَرَّى لَحْمُهُ فَمَاتَ ، فَذُكِرَ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ : \" قَتَلُوهُ قَتَلَهُمُ اللَّهُ قَتَلُوهُ قَتَلَهُمُ اللَّهُ ، أَمَا كَانَ يَكْفِيهِمْ أَنْ يُيَمِّمُوهُ بِالصَّعِيدِ \" /27 * \r\n$49  50 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 128,
+      "grade": "Da'if (Weak)"
+    },
+    {
+      "hadith_id": 10206,
+      "english_translation": "Narrated by Yazid ibn Abi Habib and others: The Messenger of Allah ﷺ appointed Amr ibn al-As as commander of an army, and he marched. He had a wet dream on a very cold night and feared for himself if he bathed with the cold water. So he performed tayammum and prayed Fajr with his companions. When they returned to the Messenger of Allah ﷺ, they mentioned this to him. He ﷺ said: 'O Amr, did you pray with your companions while you were sexually impure?' He said: 'O Messenger of Allah, I feared for myself from the severe cold, and I remembered Allah's saying: \"And do not kill yourselves, indeed Allah is ever Merciful to you.\" So I performed tayammum and prayed.' The Messenger of Allah ﷺ laughed and did not say anything to him.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Layth ibn Sa'd",
+              "full_name": "Al-Layth ibn Sa'd ibn Abd al-Rahman al-Fahmi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yazid ibn Abi Habib",
+              "full_name": "Yazid ibn Abi Habib al-Azdi al-Misri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Wa Ghayrihi (and others)",
+              "full_name": "Unspecified additional narrators",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "Identity of additional narrators not specified"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mursal narration - missing link between the Tabi'in and the event",
+            "Uses 'wa ghayrihi' (and others) without specifying who these other narrators are",
+            "Chain does not reach a Companion narrator explicitly"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Al-Layth ibn Sa'd -> Yazid ibn Abi Habib and others -> [Gap] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal narration with missing link between Tabi'in narrators and the actual event",
+          "impact": "Disconnection in the chain - cannot verify the intermediate narrators"
+        },
+        {
+          "issue": "Uses 'wa ghayrihi' (and others) without identifying these additional narrators",
+          "impact": "Cannot assess the reliability of all narrators in the chain"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) indicating potential indirect transmission",
+          "impact": "May indicate gaps or intermediaries not explicitly mentioned"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Amr ibn al-As Performing Tayammum in Extreme Cold",
+        "Tayammum When Fearing Harm from Cold Water",
+        "Quoting Quran Verse About Not Killing Oneself"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 اللَّيْثِ بْنِ سَعْدٍ L6641 /94 ، عن /26 يَزِيدَ بْنِ أَبِي حَبِيبٍ L8366 /26 ، وَ غَيْرِهِ /27 \" أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 أَمَّرَ عَمْرَو بْنَ الْعَاصِ عَلَى جَيْشٍ فَسَارَ ، وَأَنَّهُ احْتَلَمَ فِي لَيْلَةٍ بَارِدَةٍ فَخَافَ عَلَى نَفْسِهِ إِنْ هُوَ اغْتَسَلَ بِالْمَاءِ الْبَارِدِ أَنْ يَمُوتَ , فَتَيَمَّمَ وَصَلَّى بِهِمْ ، وَإِنَّهُ ذَكَرَ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ لَهُ رَسُولُ اللَّهِ : \" مَا أُحِبُّ أَنَّكَ تَرَكْتَ شَيْئًا مِمَّا فَعَلْتُ وَلَا فَعَلْتَ شَيْئًا مِمَّا تَرَكْتُ \" /27 * \r\nقَالَ : وَسُئِلَ مَالِكٌ عن الْحَصْبَاءِ أَيَتَيَمَّمُ عَلَيْهَا وَهُوَ لَا يَجِدُ الْمَدَرَ ؟ قَالَ : نَعَمْ , وَقِيلَ لِمَالِكٍ : فِي الْجَبَلِ يَكُونُ عَلَيْهِ الرَّجُلُ ، وَهُوَ لَا يَجِدُ الْمَدَرَ أَيَتَيَمَّمُ عَلَيْهِ ؟ قَالَ : نَعَمْ , وَقَدْ قَالَ مَالِكٌ فِي الطِّينِ يَكُونُ ، وَلَا يَقْدِرُ الرَّجُلُ عَلَى تُرَابٍ يَتَيَمَّمُ عَلَيْهِ وَكَيْفَ يَصْنَعُ ؟ قَالَ : يَضَعُ يَدَيْهِ عَلَى الطِّينِ ، وَيُخَفِّفُ مَا اسْتَطَاعَ ثُمَّ يَتَيَمَّمُ .tE42",
+      "collection": "كتاب رقم 20",
+      "reference_number": 129,
+      "grade": "Da'if - Mursal with missing links"
+    },
+    {
+      "hadith_id": 10207,
+      "english_translation": "Empty or malformed hadith entry.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "No content in hadith entry",
+          "impact": "Cannot be analyzed"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Entry"
+      ],
+      "arabicText": "",
+      "collection": "كتاب رقم 20",
+      "reference_number": 130,
+      "grade": "Cannot be graded"
+    },
+    {
+      "hadith_id": 10208,
+      "english_translation": "Imam Malik was asked about felt (labid): Can one perform tayammum on it when there is snow and the like? He disapproved of that and said: 'It does not establish [prayer validity] in the opinion of Malik.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a fiqh opinion from Imam Malik, not a hadith narration",
+          "impact": "No chain to evaluate - this is a legal opinion, not a prophetic tradition"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Imam Malik's Opinion on Tayammum on Felt During Snow"
+      ],
+      "arabicText": "قَالَ : وَسُئِلَ مَالِكٌ عن اللَّبْدِ أَيَتَيَمَّمُ عَلَيْهِ إِذَا كَانَ الثَّلْجُ وَنَحْوُهُ ؟ فَأَنْكَرَ ذَلِكَ وَقَالَ : لَا يُقِيمُ عَلَيْهِ فِي قَوْلِ مَالِكٍ . قُلْتُ لِابْنِ الْقَاسِمِ : فَأَيْنَ يَتَيَمَّمُ ؟ فِي قَوْلِ مَالِكٍ إِذَا كَانَ الثَّلْجُ وَقَدْ كَرِهَ لَهُ أَنْ يَتَيَمَّمَ عَلَى لَبْدٍ وَمَا أَشْبَهَ ذَلِكَ مِنَ الثِّيَابِ ؟ قَالَ : بَلَغَنِي عن مَالِكٍ أَنَّهُ أَوْسَعَ لَهُ فِي أَنْ يَتَيَمَّمَ عَلَى الثَّلْجِ , وَقَالَ عَلِيٌّ عن مَالِكٍ : إِنَّهُ يَتَيَمَّمُ عَلَى الثَّلْجِ , قَالَ : وَسَأَلْتُ ابْنَ الْقَاسِمِ عن الطِّينِ الْخَضْخَاضِ كَيْفَ يَتَيَمَّمُ عَلَيْهِ    @ 1 : 91 @    فِي قَوْلِ مَالِكٍ ؟ قَالَ : إِنْ لَمْ يَكُنْ مَاءٌ تَيَمَّمَ وَيُجَفِّفُ يَدَيْهِ , قَالَ : وَلَمْ أَسْأَلُهُ عن الْخَضْخَاضِ مِنَ الطِّينِ ، وَلَكِنْ أَرَى مَا لَمْ يَكُنْ مَاءٌ وَهُوَ طِينٌ , قَالَ مَالِكٌ : إِنَّمَا يَضَعُ يَدَيْهِ وَضْعًا خَفِيفًا وَيَتَيَمَّمُ , قَالَ ابْنُ وَهْبٍ ، عن مُعَاوِيَةَ بْنِ صَالِحٍ ، قَالَ : سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ ، يَقُولُ : لَا بَأْسَ بِالصَّلَاةِ عَلَى /60 الصَّفَا /60 وَفِي السَّبَخَةِ ، وَلَا بَأْسَ بِالتَّيَمُّمِ بِهِمَا إِذَا لَمْ يُوجَدْ تُرَابٌ ، وَهُمَا بِمَنْزِلَةِ التُّرَابِ . وَقَالَ يَحْيَى بْنُ سَعِيدٍ : مَا حَالَ بَيْنَكَ وَبَيْنَ الْأَرْضِ فَهُوَ مِنْهَا . قَالَ : وَقَالَ مَالِكٌ فِي رَجُلٍ تَيَمَّمَ وَدَخَلَ فِي الصَّلَاةِ ، ثُمَّ اطَّلَعَ عَلَيْهِ رَجُلٍ مَعَهُ مَاءٌ ؟ قَالَ : يَمْضِي فِي صَلَاتِهِ وَلَا يَقْطَعُهَا ، فَإِنْ كَانَ الْمَاءُ فِي رَحْلِهِ قَالَ يَقْطَعُ صَلَاتَهُ وَيَتَوَضَّأُ وَيُعِيدُ   الصَّلَاةَ , قَالَ : وَإِنْ فَرَغَ مِنْ صَلَاتِهِ ثُمَّ ذَكَرَ أَنَّ الْمَاءَ كَانَ فِي رَحْلِهِ ، فَنَسِيَهُ أَوْ جَهِلَهُ أَعَادَ الصَّلَاةَ فِي الْوَقْتِ . قَالَ : وَسَأَلْتُ مَالِكًا عن الْجُنُبِ لَا يَجِدُ الْمَاءَ إِلَّا بِثَمَنٍ ؟ قَالَ : إِنْ كَانَ قَلِيلَ الدَّرَاهِمِ رَأَيْتُ أَنْ يَتَيَمَّمَ ، وَإِنْ كَانَ مُوَسَّعًا عَلَيْهِ يَقْدِرُ رَأَيْتُ أَنْ يَشْتَرِيَ مَا لَمْ يُكْثِرْ عَلَيْهِ فِي الثَّمَنِ ، فَإِنْ رَفَعُوا عَلَيْهِ فِي الثَّمَنِ يَتَيَمَّمُ وَصَلَّى . قَالَ : وَقَالَ مَالِكٌ : فِيمَنْ كَانَ مَعَهُ مَاءٌ ، وَهُوَ يَخَافُ الْعَطَشَ إِنْ تَوَضَّأَ بِهِ ؟ قَالَ : يَتَيَمَّمُ وَيُبْقِي مَاءَهُ , قَالَ ابْنُ وَهْبٍ : وَقَدْ قَالَ ذَلِكَ عَلِيُّ بْنُ أَبِي طَالِبٍ ، وَالزُّهْرِيُّ ، وَرَبِيعَةُ بْنُ أَبِي عَبْدِ الرَّحْمَنِ ، وَعَطَاءُ بْنُ أَبِي رَبَاحٍ . قُلْتُ : أَرَأَيْتَ الْجُنُبَ إِذَا نَامَ وَقَدْ تَيَمَّمَ قَبْلَ ذَلِكَ ، أَوْ أَحْدَثَ بَعْدَمَا تَيَمَّمَ لِلْجَنَابَةِ وَمَعَهُ مِنَ الْمَاءِ قَدْرَ مَا يَتَوَضَّأُ بِهِ ، هَلْ يَتَوَضَّأُ بِهِ أَمْ يَتَيَمَّمُ ؟ قَالَ : قَالَ مَالِكٌ : يَتَيَمَّمُ وَلَا يَتَوَضَّأُ بِمَا مَعَهُ مِنَ الْمَاءِ إِلَّا أَنَّهُ يَغْسِلُ بِذَلِكَ الْمَاءِ مَا أَصَابَهُ مِنَ الْأَذَى ، فَأَمَّا الْوُضُوءُ فَلَيْسَ نَرَاهُ عَلَى الْجُنُبِ إِذَا كَانَ مَعَهُ مِنَ الْمَاءِ قَدْرَ مَا يَتَوَضَّأُ بِهِ فِي أَوَّلِ مَا تَيَمَّمَ فِي الْمَرَّةِ الْأُولَى وَلَا فِي الثَّانِيَةِ ، وَهُوَ يَنْقُضُ تَيَمُّمَهُ لِكُلِّ صَلَاةٍ , وَيَعُودُ إِلَى حَالِ الْجَنَابَةِ وَلَا يُجْزِئُهُ الْوُضُوءُ ، وَلَكِنَّهُ يُنْتَقَضُ جَمِيعُ التَّيَمُّمِ وَيَتَيَمَّمُ لِلْجَنَابَةِ كَمَا صَلَّى قَالَ : وَقَالَ مَالِكٌ : فِي   رَجُلٍ تَيَمَّمَ وَهُوَ جُنُبٌ وَمَعَهُ مَاءٌ قَدْرَ مَا يَتَوَضَّأُ بِهِ ؟ قَالَ : يُجْزِئُهُ التَّيَمُّمُ وَلَا يَتَوَضَّأُ . قَالَ : وَإِنْ أَحْدَثَ بَعْدَ ذَلِكَ فَأَرَادَ أَنْ يَتَنَفَّلَ فَلْيَتَيَمَّمْ وَلَا يَتَوَضَّأُ ؛ لِأَنَّهُ حِينَ أَحْدَثَ انْتَقَضَ تَيَمُّمُهُ الَّذِي كَانَ تَيَمَّمَ لِلْجَنَابَةِ وَلَمْ يَنْتَقِضْ مَوْضِعُ الْوُضُوءِ وَحْدَهُ ، فَإِذَا جَاءَ وَقْتُ صَلَاةٍ أُخْرَى مَكْتُوبَةٍ ، فَكَذَلِكَ أَيْضًا يَنْتَقِضُ تَيَمُّمُهُ أَحْدَثَ أَوْ لَمْ يُحْدِثْ . قَالَ ابْنُ وَهْبٍ : وَبَلَغَنِي عن ابْنِ شِهَابٍ فِي رَجُلٍ أَصَابَتْهُ جَنَابَةٌ فِي سَفَرٍ ، فَلَمْ يَجِدْ مِنَ الْمَاءِ إِلَّا قَدْرَ وُضُوئِهِ , قَالَ ابْنُ شِهَابٍ : يَتَيَمَّمُ صَعِيدًا طَيِّبًا , وَقَالَ ذَلِكَ عَطَاءُ بْنُ أَبِي رَبَاحٍ ، وَابْنُ أَبِي سَلَمَةَ . قُلْتُ لِابْنِ الْقَاسِمِ : أَرَأَيْتَ الْمُسَافِرِينَ وَالْمَرْضَى إِذَا لَمْ يَكُونُوا عَلَى وُضُوءٍ ، فَخُسِفَ بِالشَّمْسِ أَوْ بِالْقَمَرِ ، هَلْ كَانَ مَالِكٌ يَرَى أَنْ يَتَيَمَّمُوا وَيُصَلُّوا ؟ قَالَ : لَا أَحْفَظُ مِنْ مَالِكٍ فِي ذَلِكَ شَيْئًا , وَلَكِنْ أَرَى ذَلِكَ لَهُمْ . قَالَ ابْنُ الْقَاسِمِ مِنْ قَوْلِ مَالِكٍ مَنْ أَحْدَثَ خَلْفَ الْإِمَامِ فِي صَلَاةِ الْعِيدَيْنِ قَالَ : لَا يَتَيَمَّمْ , وَقَالَ مَالِكٌ : لَا يُصَلِّي الرَّجُلُ عَلَى الْجِنَازَةِ بِالتَّيَمُّمِ إِلَّا الْمُسَافِرُ الَّذِي لَا يَجِدُ الْمَاءَ , قَالَ : وَكَانَ لَا يَرَى بَأْسًا أَنْ يَتَيَمَّمَ مَنْ لَا يَجِدُ الْمَاءَ فِي السَّفَرِ ، فَيَمَسُّ الْمُصْحَفَ يَقْرَأُ حِزْبَهُ . قَالَ وَقَالَ مَالِكٌ فِي الْمُسَافِرِ لَا يَكُونُ مَعَهُ مَا يَتَيَمَّمُ ، وَيَقْرَأُ حِزْبَهُ ، وَيَمَسُّ الْمُصْحَفَ .    @ 1 : 92 @    قُلْتُ لِابْنِ الْقَاسِمِ : إِذَا مَرَّ بِالسَّجْدَةِ أَيَسْجُدُهَا ؟ قَالَ :   نَعَمْ يَسْجُدُهَا . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ تَيَمَّمَ لِلْفَرِيضَةِ ، فَصَلَّى رَكْعَتَيْنِ نَافِلَةً قَبْلَ أَنْ يُصَلِّيَ الْفَرِيضَةَ ؟ قَالَ : فَلْيُعِدِ التَّيَمُّمَ ؛ لِأَنَّهُ لَمَّا صَلَّى النَّافِلَةَ قَبْلَ الْمَكْتُوبَةِ انْتَقَضَ تَيَمُّمُهُ لِلْمَكْتُوبَةِ ، فَعَلَيْهِ أَنْ يَتَيَمَّمَ لِلْفَرِيضَةِ . قُلْتُ : فَمَا قَوْلُهُ فِي الْمُسَافِرِ يَكُونُ جُنُبًا فِي صَلَاةِ الصُّبْحِ وَهُوَ لَا يَجِدُ الْمَاءَ فَيَتَيَمَّمُ لِلصَّلَاةِ الْمَكْتُوبَةِ ، ثُمَّ يُصَلِّي رَكْعَتَيِ الْفَجْرِ قَبْلَ الْمَكْتُوبَةِ أَيَنْتَقِضُ تَيَمُّمُهُ ؟ قَالَ : قَالَ مَالِكٌ : وَسَأَلْتُهُ عن ذَلِكَ فَقَالَ : يُعِيدُ التَّيَمُّمَ لِصَلَاةِ الصُّبْحِ أَيْضًا بَعْدَ رَكْعَتَيِ الْفَجْرِ . قُلْتُ : أَرَأَيْتَ مَنْ تَيَمَّمَ وَهُوَ جُنُبٌ مِنْ نَوْمٍ وَلَا يَنْوِي بِهِ تَيَمُّمَ الصَّلَاةِ ، وَلَا يَنْوِي بِهِ تَيَمُّمًا لَمَسِّ الْمُصْحَفِ ، أَيَجُوزُ لَهُ أَنْ يَتَنَفَّلَ بِهَذَا التَّيَمُّمِ أَوْ يَمَسَّ الْمُصْحَفَ بِهَذَا التَّيَمُّمِ ؟ قَالَ : لَا . قَالَ : وَقَالَ مَالِكٌ : لَا يُصَلِّي مَكْتُوبَتَيْنِ بِتَيَمُّمِ وَاحِدَةٍ , وَلَا نَافِلَةً وَمَكْتُوبَةً بِتَيَمُّمٍ وَاحِدٍ إِلَّا أَنْ تَكُونَ نَافِلَةً بَعْدَ مَكْتُوبَةٍ . فَلَا بَأْسَ بِذَلِكَ وَإِنْ تَيَمَّمَ فَصَلَّى مَكْتُوبَةً ، ثُمَّ ذَكَرَ مَكْتُوبَةً أُخْرَى كَانَ نَسِيَهَا فَلْيَتَيَمَّمْ لَهَا أَيْضًا ، وَلَا يُجْزِئُهُ ذَلِكَ التَّيَمُّمُ لِهَذِهِ الصَّلَاةِ . \r\n$50  51 /3",
+      "collection": "كتاب رقم 20",
+      "reference_number": 131,
+      "grade": "Not applicable - Fiqh opinion, not hadith"
+    },
+    {
+      "hadith_id": 10209,
+      "english_translation": "Narrated by Ibn Abbas: He said: 'One should not pray with tayammum except one prayer.' Al-Hakam said: And Ibrahim al-Nakha'i said something similar.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jarir ibn Hazim",
+              "full_name": "Jarir ibn Hazim ibn Zayd al-Azdi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hasan ibn Umarah",
+              "full_name": "Al-Hasan ibn Umarah ibn Muslim al-Bajali",
+              "grade": "Matruk",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Abandoned by hadith critics",
+                "Accused of extreme weakness in hadith transmission",
+                "Ibn Ma'in said: 'Not trustworthy'",
+                "Ahmad said: 'Rejected in hadith'"
+              ]
+            },
+            {
+              "name": "Al-Hakam",
+              "full_name": "Al-Hakam ibn Utaybah al-Kindi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Al-Hasan ibn Umarah is Matruk (abandoned) - extremely weak",
+            "Multiple uses of 'an (عَنْ) indicating potential indirect transmission",
+            "This is a Mawquf statement (stopped at a Companion), not elevated to the Prophet"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Jarir ibn Hazim -> Al-Hasan ibn Umarah -> Al-Hakam -> Mujahid -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Hasan ibn Umarah is Matruk (abandoned narrator) - rejected by hadith critics",
+          "impact": "Severely undermines the entire chain; narrations through him are not accepted"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "May indicate indirect transmission or potential gaps"
+        },
+        {
+          "issue": "This is a Mawquf narration (Ibn Abbas's opinion), not Marfu' (from the Prophet)",
+          "impact": "This is a Companion's juristic opinion, not a prophetic statement"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Ibn Abbas's Opinion on Number of Prayers with One Tayammum",
+        "Ibrahim al-Nakha'i's Similar Opinion"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، قَالَ : أَخْبَرَنِي /94 جَرِيرُ بْنُ حَازِمٍ L2119 /94 ، عن /26 الْحَسَنِ بْنِ عُمَارَةَ L1286 /26 ، عن /26 الْحَكَمِ L1372 /26 ، عن /26 مُجَاهِدٍ L6715 /26 ، /27 عن /93 ابْنِ عَبَّاسٍ L4883 /93 ، أَنَّهُ قَالَ : /20 \" لَا يُصَلِّي بِالتَّيَمُّمِ إِلَّا صَلَاةً وَاحِدَةً \" /27 , قَالَ الْحَكَمُ ، وَقَالَ إِبْرَاهِيمُ النَّخَعِيُّ ، مِثْلَهُ * \r\nقَالَ ابْنُ وَهْبٍ : وَأَخْبَرَنِي رِجَالٌ مِنْ أَهْلِ   الْعِلْمِ ، عن الْمُسَيِّبِ ، وَيَحْيَى بْنِ سَعِيدٍ ، وَرَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، وَعَطَاءِ بْنِ أَبِي رَبَاحٍ ، وَابْنِ أَبِي سَلَمَةَ ، وَاللَّيْثِ بْنِ سَعْدٍ ، مِثْلَهُ . قَالَ : وَقَالَ مَالِكٌ فِي الْمُتَيَمِّمِ يَؤُمُّ الْمُتَوَضِّئِينَ ؟ قَالَ : يَؤُمُّهُمُ الْمُتَوَضِّئُ أَحَبُّ إِلَيَّ ، وَإِنْ أَمَّهُمُ الْمُتَيَمِّمُ رَأَيْتُ صَلَاتَهُمْ مُجْزِئَةً عنهُمْ . قَالَ ابْنُ وَهْبٍ : وَقَالَ مثل قَوْلِ مَالِكٍ فِي الْمُتَيَمِّمِ لَا يَؤُمُّ الْمُتَوَضِّئِينَ , قَالَ : يَؤُمُّهُمُ الْمُتَوَضِّئُ أَحَبُّ إِلَيَّ , قَالَ عَلِيُّ بْنُ أَبِي طَالِبٍ ، وَعَبْدُ اللَّهُ بْنُ عَمْرٍو ، وَرَبِيعَةُ بْنُ أَبِي عَبْدِ الرَّحْمَنِ ، وَعَطَاءُ بْنُ أَبِي رَبَاحٍ ، وَقَالَ : قَالَ مَالِكٌ مِثْلَهُ , قَالَ مَالِكٌ : وَإِنْ أَمَّهُمُ الْمُتَيَمِّمُ كَانَتِ الصَّلَاةُ مُجْزِئَةً , قَالَ : وَسَأَلْتُ مَالِكًا عن الرَّجُلِ يَكُونُ فِي السَّفَرِ ، فَتُصِيبُهُ الْجَنَابَةُ وَلَا يَعْلَمُ بِجَنَابَتِهِ وَلَيْسَ مَعَهُ مَاءٌ ، فَتَيَمَّمَ يُرِيدُ بِتَيَمُّمِهِ الْوُضُوءَ وَيُصَلِّي الصُّبْحَ ، ثُمَّ يَعْلَمُ أَنَّهُ قَدْ كَانَ جُنُبًا قَبْلَ صَلَاةِ الصُّبْحِ ، أَتُجْزِئُهُ صَلَاتُهُ بِذَلِكَ التَّيَمُّمِ ؟ قَالَ : لَا ، وَعَلَيْهِ أَنْ يَتَيَمَّمَ وَيُعِيدَ الصُّبْحَ ؛ لِأَنَّ تَيَمُّمَهُ ذَلِكَ كَانَ لِلْوُضُوءِ لَا لِلْغُسْلِ . قُلْتُ : أَرَأَيْتَ الْمُسَافِرَ يَكُونُ عَلَى وُضُوءٍ ، أَوْ لَا يَكُونُ عَلَى وُضُوءٍ ، فَأَرَادَ أَنْ يَطَأَ امْرَأَتَهُ أَوْ جَارِيَتَهُ وَلَيْسَ مَعَهُ مَاءٌ ؟ قَالَ : قَالَ مَالِكٌ : لَا يَطَأُ الْمُسَافِرُ امْرَأَتَهُ وَلَا جَارِيَتَهُ إِلَّا وَمَعَهُ مِنَ الْمَاءُ مَا يَكْفِيهِمَا جَمِيعًا , قَالَ ابْنُ الْقَاسِمِ : وَهُمَا سَوَاءٌ .\u001eE43",
+      "collection": "كتاب رقم 20",
+      "reference_number": 132,
+      "grade": "Matruk (Rejected) - Contains abandoned narrator"
+    },
+    {
+      "hadith_id": 10210,
+      "english_translation": "A question about a woman who became pure (from menstruation) during prayer time and performed tayammum, and her husband wanted to have intercourse with her.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a question or legal scenario, not a hadith narration",
+          "impact": "No chain to evaluate"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Legal Question About Woman Who Performed Tayammum After Menstruation"
+      ],
+      "arabicText": "فِي امْرَأَةٍ طَهُرَتْ فِي وَقْتِ صَلَاةٍ ، فَتَيَمَّمَتْ فَأَرَادَ زَوْجُهَا أَنْ يَطَأَهَا",
+      "collection": "كتاب رقم 20",
+      "reference_number": 133,
+      "grade": "Not applicable - Legal question, not hadith"
+    },
+    {
+      "hadith_id": 10211,
+      "english_translation": "Ibn al-Qasim said: I said to Malik: 'What is your view about a woman who becomes pure from her menstruation during the time of a prayer, then performs tayammum and prays, and her husband wants to touch her?' He said: 'He should not do so until they have enough water for both of them to perform ghusl together.'",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "This is a fiqh discussion and legal opinion from Imam Malik, not a hadith narration",
+          "impact": "No chain to evaluate"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Imam Malik's Opinion on Intercourse After Tayammum from Menstruation"
+      ],
+      "arabicText": "قَالَ ابْنُ الْقَاسِمِ : قُلْتُ لِمَالِكٍ : أَرَأَيْتَ امْرَأَةً طَهُرَتْ مِنْ حَيْضَتِهَا فِي وَقْتِ صَلَاةٍ ، فَتَيَمَّمَتْ وَصَلَّتْ ، وَأَرَادَ زَوْجُهَا أَنْ يَمَسَّهَا ؟ قَالَ : لَا يَفْعَلُ حَتَّى يَكُونَ مَعَهُ مِنَ الْمَاءِ مَا يَغْتَسِلَانِ بِهِ جَمِيعًا . قُلْتُ لِابْنِ الْقَاسِمِ : أَرَأَيْتَ الْمَرْأَةَ إِذَا كَانَتْ حَائِضًا فِي السَّفَرِ ، فَرَأَتِ الْقَصَّةَ الْبَيْضَاءَ وَلَمْ تَجِدِ    @ 1 : 93 @   الْمَاءَ ، فَتَيَمَّمَتْ وَصَلَّتْ أَلِزَوْجِهَا أَنْ يُجَامِعَهَا ؟ قَالَ : لَا . قُلْتُ : لِمَ ؟ قَالَ : لَا يُجَامِعُهَا زَوْجُهَا إِلَّا أَنْ يَكُونَ مَعَهُ مِنَ الْمَاءِ مَا يَغْتَسِلَانِ بِهِ جَمِيعًا . قُلْتُ : أَرَأَيْتَ إِنْ كَانَ مَعَهُ مِنَ الْمَاءِ مَا يَغْتَسِلُ بِهِ هُوَ وَحْدَهُ ، فَأَرَادَ أَنْ يُجَامِعَهَا ؟ قَالَ : لَا لَيْسَ ذَلِكَ لَهُ وَلَا لَهَا . قُلْتُ لَهُ : وَلِمَ لَا يَكُونُ ذَلِكَ لَهُ ؟ قَالَ : لَيْسَ لَهَا وَلَا لَهُ أَنْ يُدْخِلَا عَلَى أَنْفُسِهِمَا إِذَا لَمْ يَكُنْ مَعَهُمَا مَاءٌ أَكْثَرُ مِنْ حَدَثِ الْوُضُوءِ , فَإِنْ وَقَعَ الْجِمَاعُ ، فَقَدْ أَدْخَلَا عَلَى أَنْفُسِهِمَا أَكْثَرَ مِنْ حَدَثِ الْوُضُوءِ وَهُوَ الْغُسْلُ وَهُوَ قَوْلُ مَالِكٍ لِي . قُلْتُ : أَرَأَيْتَ الْمَرْأَةَ أَلَيْسَ هِيَ عَلَى جَنَابَةٍ إِلَّا أَنَّهَا مُتَيَمِّمَةٌ ، فَإِذَا كَانَ مَعَ الرَّجُلِ قَدْرَ مَا يَغْتَسِلُ بِهِ هُوَ وَحْدَهُ ، أَلَا تَرَى أَنَّهُ لَمْ يُدْخِلْ عَلَيْهَا أَكْثَرَ مِمَّا كَانَتْ فِيهِ ؛ لِأَنَّهَا كَانَتْ فِي جَنَابَةٍ ؟ قَالَ : لَا لِأَنَّ ذَلِكَ لَمْ يَكُنْ لَهَا مِنْهُ بُدٌّ وَقَدْ تَيَمَّمَتْ ،   فَكَانَ التَّيَمُّمُ طُهْرًا لِمَا كَانَتْ فِيهِ ، فَلَيْسَ لِلزَّوْجِ أَنْ يُدْخِلَ عَلَيْهَا مَا يَنْقُضُ ذَلِكَ . قُلْتُ : وَتَحْفَظُ هَذَا عن مَالِكٍ ؟ قَالَ : نَعَمْ , كَذَلِكَ قَالَ مَالِكٌ . قَالَ : وَقَالَ مَالِكٌ : إِذَا كَانَ الرَّجُلُ وَالْمَرْأَةُ عَلَى وُضُوءٍ ، فَلَيْسَ لِوَاحِدٍ مِنْهُمَا أَنْ يُقَبِّلَ صَاحِبَهُ إِذَا لَمْ يَجِدِ الْمَاءَ ؛ لِأَنَّ ذَلِكَ يَنْقُضُ وُضُوءَهُمَا وَلَيْسَ لَهُمَا أَنْ يَنْقُضَا وُضُوءَهُمَا إِلَّا أَنْ يَكُونَ مَعَهُمَا مَاءٌ إِلَّا مَا لَا بُدَّ لَهُمَا مِنْهُ مِنَ الْحَدَثِ وَنَحْوِهِ .\u001eE44",
+      "collection": "كتاب رقم 20",
+      "reference_number": 134,
+      "grade": "Not applicable - Fiqh opinion, not hadith"
+    },
+    {
+      "hadith_id": 10212,
+      "english_translation": "Empty hadith entry.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [
+        {
+          "issue": "No content",
+          "impact": "Cannot be analyzed"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incomplete Entry"
+      ],
+      "arabicText": "",
+      "collection": "كتاب رقم 20",
+      "reference_number": 135,
+      "grade": "Cannot be graded"
+    },
+    {
+      "hadith_id": 10213,
+      "english_translation": "A question: 'What is your view if a woman menstruates for the first time and the bleeding continues?' He said: 'She should refrain [from prayer] for up to fifteen nights.' Sahnun narrated from Nafi', from Asim ibn Umar, from Abu Bakr ibn Umar, from Salim ibn Abdullah, who was asked: 'How long should she leave prayer?'",
+      "chains": [
+        {
+          "type": "Unspecified",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Abd al-Salam ibn Sa'id ibn Habib al-Tanukhi (Sahnun)",
+              "grade": "Thiqah - Fiqh Scholar",
+              "generation": "Later Generation (Maliki Jurist, d. 240 AH)",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "This appears to be a partial chain in a fiqh discussion"
+              ]
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Asim ibn Umar",
+              "full_name": "Asim ibn Umar ibn Qatadah al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Umar",
+              "full_name": "Abu Bakr ibn Umar ibn Abd al-Aziz ibn Marwan",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Salim ibn Abdullah",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "سُئِلَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Appears to be a question asked to Salim, not a complete hadith narration",
+            "Multiple uses of 'an (عَنْ) indicating potential indirect transmission",
+            "Context suggests this may be incomplete or part of a larger fiqh discussion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Nafi' -> Asim ibn Umar -> Abu Bakr ibn Umar -> Salim ibn Abdullah (answering a question)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This appears to be a question posed to Salim ibn Abdullah, not a complete narration",
+          "impact": "Unclear what the complete answer was or if this reaches back to prophetic guidance"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "May indicate indirect transmission"
+        },
+        {
+          "issue": "Context suggests this is part of a fiqh discussion rather than a standalone hadith",
+          "impact": "May not be a complete prophetic tradition"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "First Menstruation Duration",
+        "Question to Salim ibn Abdullah About Menstruation"
+      ],
+      "arabicText": "قُلْتُ : أَرَأَيْتَ إِذَا حَاضَتِ الْمَرْأَةُ أَوَّلَ مَا حَاضَتْ فَتَمَادَى بِهَا الدَّمُ ؟ قَالَ : تَقْعُدُ فِيمَا بَيْنَهَا وَبَيْنَ خَمْسَ عَشْرَةَ لَيْلَةً . قَالَ سَحْنُونٌ ، عن نَافِعٍ ، عن عَاصِمِ بْنِ عُمَرَ ، عن أَبِي بَكْرِ بْنِ عُمَرَ ، عن سَالِمِ بْنِ عَبْدِ اللَّهِ سُئِلَ : \" كَمْ تَتْرُكُ الصَّلَاةَ الْمُسْتَحَاضَةُ ؟ قَالَ سَالِمٌ : تَتْرُكُ الصَّلَاةَ خَمْسَ عَشْرَةَ لَيْلَةً , قَالَ : ثُمَّ تَغْتَسِلُ وَتُصَلِّي \" . قَالَ ابْنُ نَافِعٍ ، عن عَبْدِ اللَّهِ بْنِ عَمْرٍو ، عن رَبِيعَةَ ، وَيَحْيَى بْنِ سَعِيدٍ ، وَعن أَخِيهِ عَبْدِ اللَّهِ ، إِنَّهُمَا كَانَا يَقُولَانِ : أَكْثَرُ مَا تَتْرُكُ الْمَرْأَةُ الصَّلَاةَ لِلْحَيْضَةِ خَمْسَةَ عَشْرَةَ لَيْلَةً ، ثُمَّ تَغْتَسِلُ وَتُصَلِّي , وَقَدْ رَوَاهُ /26 عَلِيُّ بْنُ زِيَادٍ /26 ، عن /93 مَالِكٍ /93 يُقَالُ : إِنَّهَا تُقِيمُ قَدْرَ أَيَّامِ لِدَاتِهَا ، ثُمَّ هِيَ وَمُسْتَحَاضَةٌ بَعْدَ ذَلِكَ تُصَلِّي وَتَصُومُ وَيَأْتِيهَا زَوْجُهَا أَبَدًا إِلَّا أَنْ تَرَى دَمًا تَسْتَكْثِرُهُ لَا تَشُكُّ فِيهِ فِيهِ أَنَّهُ دَمُ حَيْضَةٍ , وَقَدْ قِيلَ : إِنَّهَا تَقْعُدُ أَيَّامَ لِدَاتِهَا عن مَالِكٍ ؛ لِأَنَّهُ أَقْصَى مَا تَحْبِسُ النِّسَاءُ الدَّمَ خَمْسَ عَشْرَةَ لَيْلَةً . قُلْتُ : أَرَأَيْتَ مَا رَأَتِ الْمَرْأَةُ مِنَ الدَّمِ أَوَّلَ مَا تَرَاهُ فِي قَوْلِ مَالِكٍ ، أَهُوَ حَيْضٌ إِذَا كَانَتْ قَدْ بَلَغَتْ ؟ فَقَالَ : نَعَمْ . قُلْتُ : أَرَأَيْتَ الْمَرْأَةَ إِذَا رَأَتِ الدَّمَ بَعْدَ أَيَّامِ حَيْضَتِهَا بِأَيَّامٍ قَبْلَ أَنْ يَأْتِيَ وَقْتُ حَيْضَتِهَا الْمُسْتَقْبَلَةِ أَيَكُونُ ذَلِكَ حَيْضًا ؟ قَالَ : إِذَا كَانَ بَيْنَ الدَّمَيْنِ مِنَ   الْأَيَّامِ مَا لَا يُضَافُ بَعْضُ الدَّمِ إِلَى بَعْضٍ جُعِلَ هَذَا الْمُسْتَقْبَلُ حَيْضًا .    @ 1 : 94 @    قُلْتُ : أَرَأَيْتَ الْمَرْأَةَ إِذَا كَانَتْ تَحِيضُ فِي شَهْرٍ عَشَرَةَ أَيَّامٍ ، وَفِي شَهْرٍ سِتَّةَ أَيَّامٍ ، وَفِي شَهْرٍ ثَمَانِيَةَ أَيَّامٍ مُخْتَلِفَةَ الْحَيْضَةِ ، فَصَارَتْ مُسْتَحَاضَةً كَمْ تَحْسُبُ أَيَّامَ حَيْضَتِهَا إِذَا تَمَادَى بِهَا الدَّمُ أَتَظْهَرُ بِثَلَاثٍ ؟ قَالَ : لَا أَحْفَظُ عن مَالِكٍ فِي هَذَا شَيْئًا ، وَلَكِنَّهَا تَسْتَظْهِرُ عَلَى أَكْثَرِ أَيَّامِهَا الَّتِي كَانَتْ تَحَيُّضُهَا .\u001dE45 وَقَالَ ابْنُ الْقَاسِمِ : إِذَا كَانَتِ الْمَرْأَةُ تَحِيضُ خَمْسَةَ عَشَرَ يَوْمًا كُلَّ شَهْرٍ ، ثُمَّ رَأَتِ الدَّمَ وَصَارَتْ مُسْتَحَاضَةً أَنَّهَا لَا تَسْتَظْهِرُ بِشَيْءٍ إِذَا تَمَادَى بِهَا الدَّمُ مِنْ بَعْدِ الْخَمْسَةَ عَشْرَ ، فَهِيَ مُسْتَحَاضَةٌ مَكَانَهَا تَغْتَسِلُ وَتُصَلِّي وَيَأْتِيهَا زَوْجُهَا . وَقَالَ ابْنُ الْقَاسِمِ : وَكُلُّ امْرَأَةٍ كَانَتْ أَيَّامُهَا أَقَلَّ مِنْ خَمْسَةَ عَشَرَ يَوْمًا ، فَإِنَّهَا تَسْتَظْهِرُ بِثَلَاثٍ مَا بَيْنَهَا وَبَيْنَ خَمْسَةَ عَشَرَ مثل الَّتِي أَيَّامُهَا اثْنَا عَشَرَ تَسْتَظْهِرُ بِثَلَاثٍ , وَمِثْلُ الَّتِي أَيَّامُهَا ثَلَاثَةَ عَشَرَ تَسْتَظْهِرُ بِيَوْمَيْنِ وَالَّتِي أَيَّامُهَا أَرْبَعَةَ عَشَرَ تَسْتَظْهِرُ بِيَوْمٍ وَالَّتِي أَيَّامُهَا خَمْسَةَ عَشَرَ ، فَلَا تَسْتَظْهِرُ بِشَيْءٍ ، وَتَغْتَسِلُ وَتُصَلِّي وَيَأْتِيهَا زَوْجُهَا ، وَلَا تُقِيمُ امْرَأَةٌ فِي حَيْضٍ أَكْثَرَ مِنْ خَمْسَةَ عَشَرَ بِاسْتِظْهَارٍ كَانَ أَوْ غَيْرِهِ . قَالَ ابْنُ الْقَاسِمِ : وَكَانَ مَالِكٌ يُوَقِّتُ فِي دَمِ الْحَيْضِ أَكْثَرَ دَهْرِهِ إِذَا تَمَادَى بِهَا الدَّمُ أَنَّهَا تَقْعُدُ خَمْسَةَ عَشَرَ يَوْمًا , فَإِنِ انْقَطَعَ عنهَا فِيمَا بَيْنَ ذَلِكَ أَلْغَتِ الْأَيَّامَ الَّتِي لَمْ تَرَ فِيهَا الدَّمَ مثل مَا ، فَسَّرْتُ لَكَ وَاحْتَسَبَتْ بِأَيَّامِ الدَّمِ ,   فَإِذَا اسْتَكْمَلَتْ . خَمْسَ عَشْرَةَ لَيْلَةً مِنْ أَيَّامِ الدَّمِ اغْتَسَلَتْ وَصَلَّتْ وَصَنَعَتْ مَا تَصْنَعُ الْمُسْتَحَاضَةُ , ثُمَّ رَجَعَ فَقَالَ : أَرَى أَنْ تَسْتَظْهِرَ بِثَلَاثَةِ أَيَّامٍ بَعْدَ أَيَّامِ حَيْضَتِهَا ثُمَّ تُصَلِّي ، وَتَرَكَ قَوْلَهُ الْأَوَّلَ خَمْسَةَ عَشَرَ . قَالَ : وَقَالَ مَالِكٌ فِي الْمَرْأَةِ وَتَرَى الصُّفْرَةَ أَوِ الْكُدْرَةَ فِي أَيَّامِ حَيْضَتِهَا ، أَوْ فِي غَيْرِ أَيَّامِ حَيْضَتِهَا ، فَذَلِكَ حَيْضٌ ، وَإِنْ لَمْ تَرَ ذَلِكَ دَمًا ؟ قَالَ : وَإِذَا دَفَعَتْ دَفْعَةً فَتِلْكَ الدَّفْعَةُ حَيْضٌ , وَقَالَ : وَقَالَ مَالِكٌ فِي الْمَرْأَةِ تَرَى الدَّمَ ، فَلَا تَدْفَعُ إِلَّا دَفْعَةً فِي لَيْلٍ أَوْ فِي نَهَارٍ إِنَّ ذَلِكَ عندَهُ حَيْضٌ ، فَإِنِ انْقَطَعَ عنهَا الدَّمُ وَلَمْ تَدْفَعْ إِلَّا تِلْكَ الدَّفْعَةَ اغْتَسَلَتْ وَصَلَّتْ .+E46 قُلْتُ : فَهَلْ حَدَّ مَالِكٌ فِي هَذَا مَتَى تَغْتَسِلُ ؟ قَالَ : لَا ، وَلَكِنَّهُ قَالَ : إِذَا عَلِمَتْ أَنَّهَا أَظْهَرَتِ اغْتَسَلَتْ : إِنْ كَانَتْ مِمَّنْ تَرَى الْقَصَّةَ الْبَيْضَاءَ ، فَحِينَ تَرَى الْقَصَّةَ , وَإِنْ كَانَتْ لَا تَرَى الْقَصَّةَ فَحِينَ تَرَى الْجُفُوفَ تَغْتَسِلُ وَتُصَلِّي . قَالَ ابْنُ الْقَاسِمِ : وَالْجُفُوفُ عندِي أَنْ تُدْخِلَ الْخِرْقَةَ فَتُخْرِجَهَا جَافَّةً , قَالَ مَالِكٌ : وَإِنْ رَأَتْ بَعْدَ ذَلِكَ بِيَوْمٍ أَوْ يَوْمَيْنِ أَوْ ثَلَاثَةٍ أَوْ نَحْوِ ذَلِكَ مِنَ الْأَيَّامِ الدَّمَ إِذَا كَانَ الدَّمُ الثَّانِي قَرِيبًا مِنَ الدَّمِ الْأَوَّلِ ، فَهُوَ مُضَافٌ إِلَى الدَّمِ الْأَوَّلِ , وَذَلِكَ كُلُّهُ حَيْضَةٌ وَاحِدَةٌ ، وَمَا كَانَ بَيْنَ ذَلِكَ مِنَ الْأَيَّامِ طُهْرٌ , وَإِنْ كَانَ مَا بَيْنَ الدَّمَيْنِ مُتَبَاعِدًا ، فَالدَّمُ الثَّانِي حَيْضٌ وَلَمْ   يُوَقِّتْ كَمْ ذَلِكَ إِلَّا قَدْرَ مَا يَعْلَمُ أَنَّهَا حَيْضَةٌ مُسْتَقْبَلَةٌ ، وَيَعْلَمُ أَنَّ مَا بَيْنَهَا مِنَ الْأَيَّامِ مَا يَكُونُ طُهْرًا . قَالَ : وَقَالَ مَالِكٌ : إِذَا رَأَتِ الْمَرْأَةُ الدَّمَ يَوْمًا ، ثُمَّ انْقَطَعَ عنهَا يَوْمَيْنِ ، ثُمَّ رَأَتْهُ يَوْمًا بَعْدَ الْيَوْمَيْنِ ، ثُمَّ انْقَطَعَ عنهَا يَوْمًا أَوْ يَوْمَيْنِ ، ثُمَّ رَأَتْهُ بَعْدَ ذَلِكَ يَوْمًا أَوْ يَوْمَيْنِ , قَالَ : إِذَا اخْتَلَطَ هَكَذَا حَسَبَتْ أَيَّامَ الدَّمِ ، وَأَلْغَتْ مَا بَيْنَ ذَلِكَ مِنَ الْأَيَّامِ الَّتِي لَمْ تَرَ فِيهَا دَمًا ، فَإِذَا اسْتَكْمَلَتْ مِنْ أَيَّامِ الدَّمِ قَدْرَ أَيَّامِهَا الَّتِي كَانَتْ تَحِيضُهَا اسْتَظْهَرَتْ بِثَلَاثَةِ أَيَّامٍ , فَإِنِ اخْتَلَطَ عَلَيْهَا أَيْضًا أَيَّامُ الِاسْتِظْهَارِ حَسَبَتْ أَيَّامَ الدَّمِ ، وَأَلْغَتْ أَيَّامَ الطُّهْرِ الَّتِي فِيمَا بَيْنَ الدَّمَيْنِ حَتَّى تَسْتَكْمِلَ ثَلَاثَةَ أَيَّامٍ مِنْ أَيَّامِ الدَّمِ , فَإِذَا    @ 1 : 95 @   اسْتَكْمَلَتْ ثَلَاثَةَ أَيَّامٍ مِنْ أَيَّامِ الدَّمِ بَعْدَ أَيَّامِ حَيْضَتِهَا اغْتَسَلَتْ وَصَلَّتْ وَكَانَتْ مُسْتَحَاضَةً بَعْدَ ذَلِكَ ، وَالْأَيَّامُ الَّتِي اسْتَظْهَرَتْ بِهَا هِيَ فِيهَا حَائِضٌ وَهِيَ مُضَافَةٌ إِلَى الْحَيْضِ إِنْ رَأَتِ الدَّمَ فِيهَا بَعْدَ ذَلِكَ , وَإِنْ لَمْ تَرَهُ , وَالْأَيَّامُ الَّتِي كَانَتْ تَلْغِيهَا فِيمَا بَيْنَ الدَّمِ الَّتِي كَانَتْ لَا تَرَى فِيهَا مَا تُصَلِّي فِيهَا وَيَأْتِيهَا زَوْجُهَا وَتَصُومُهَا وَهِيَ فِيهَا طَاهِرٌ , وَلَيْسَتْ تِلْكَ الْأَيَّامُ بِطُهْرٍ تَعْتَدُّ بِهِ فِي عِدَّةٍ مِنْ طَلَاقٍ ؛ لِأَنَّ الَّذِي قَبْلَ تِلْكَ الْأَيَّامِ مِنَ الدَّمِ وَالَّتِي بَعْدَ تِلْكَ الْأَيَّامِ قَدْ أُضِيفَ بَعْضُهَا إِلَى بَعْضٍ تُجْعَلُ حَيْضَةً وَاحِدَةً , وَكَانَ مَا بَيْنَ ذَلِكَ مِنَ الطُّهْرِ مُلْغًى ، ثُمَّ تَغْتَسِلُ بَعْدَ الِاسْتِظْهَارِ   ، وَتُصَلِّي وَتَتَوَضَّأُ لِكُلِّ صَلَاةٍ إِنْ رَأَتِ الدَّمَ فِي تِلْكَ الْأَيَّامِ , وَتَغْتَسِلُ كُلَّ يَوْمٍ إِذَا انْقَطَعَ عنهَا الدَّمُ مِنْ أَيَّامِ الطُّهْرِ ، وَإِنَّمَا أُمِرَتْ أَنْ تَغْتَسِلَ لِأَنَّهُ لَا تَدْرِي لَعَلَّ الدَّمَ لَا يَرْجِعُ إِلَيْهَا وَلَا تَكُفُّ عن الصَّلَاةِ بَعْدَ ذَلِكَ , وَإِنْ تَطَاوَلَ بِهَا الدَّمُ الْأَشْهُرَ إِلَّا أَنْ تَرَى فِي ذَلِكَ دَمًا لَا تَشُكُّ وَتَسْتَيْقِنُ أَنَّهُ دَمُ حَيْضَةٍ فَلْتَكُفَّ عن الصَّلَاةِ .\u001dE47 وَيَكُونُ لَهَا ذَلِكَ عِدَّةً مِنْ طَلَاقٍ , وَإِنْ لَمْ تَسْتَيْقِنْ لَمْ تَكُفَّ عن الصَّلَاةِ ، وَلَمْ يَكُنْ لَهَا ذَلِكَ عِدَّةً ، وَكَانَتْ عِدَّتُهَا عِدَّةَ الْمُسْتَحَاضَةِ وَيَأْتِيهَا زَوْجُهَا فِي ذَلِكَ وَتُصَلِّي وَتَصُومُ . قُلْتُ : أَرَأَيْتَ قَوْلَ مَالِكٍ دَمًا تُنْكِرُهُ كَيْفَ هَذَا الدَّمُ الَّذِي تُنْكِرُهُ ؟ قَالَ : إِنَّ النِّسَاءَ يَزْعُمْنَ أَنَّ دَمَ الْحَيْضِ لَا يشبه دَمَ الْمُسْتَحَاضَةِ لِرِيحِهِ وَلَوْنِهِ , قَالَ : وَإِذَا رَأَتْ ذَلِكَ إِنْ كَانَ ذَلِكَ يُعْرَفُ ، فَلْتَكُفَّ عن الصَّلَاةِ وَإِلَّا فَلْتُصَلِّ , قَالَ : وَكَأَنِّي رَأَيْتُ مَالِكًا فِيمَا يَنْحُو وَيَذْهَبُ إِلَيْهِ مِنْ قَوْلِهِ أَنَّهُ إِنَّمَا يُرِيدُ بِهَذَا أَنْ تُصَلِّيَ الْمُسْتَحَاضَةُ أَبَدًا , لِأَنَّهُ يَقُولُ : إِنْ لَمْ يُعْرَفْ ذَلِكَ وَلَمْ تَرَ مَا تُنْكِرُهُ مِنَ الدَّمِ صَلَّتْ . قَالَ : وَقَالَ مَالِكٌ : فِي امْرَأَةٍ رَأَتِ الدَّمَ خَمْسَةَ عَشَرَ يَوْمًا ، ثُمَّ رَأَتِ الطُّهْرَ خَمْسَةَ أَيَّامٍ ، ثُمَّ رَأَتِ الدَّمَ أَيَّامًا ، ثُمَّ رَأَتِ الطُّهْرَ سَبْعَةَ أَيَّامٍ ؟ قَالَ : هَذِهِ مُسْتَحَاضَةٌ . قَالَ ابْنُ الْقَاسِمِ : سَأَلْتُ مَالِكًا عن الْمُسْتَحَاضَةِ يَنْقَطِعُ عنهَا الدَّمُ ، وَقَدْ كَانَتِ اغْتَسَلَتْ   قَبْلَ ذَلِكَ ؟ قَالَ : فَقَالَ لِي مَرَّةً : لَا غُسْلَ عَلَيْهَا ، ثُمَّ رَجَعَ عن ذَلِكَ , فَقَالَ : أَحَبُّ إِلَيَّ أَنْ تَغْتَسِلَ إِذَا انْقَطَعَ عنهَا الدَّمُ وَهُوَ أَحَبُّ قَوْلِهِ إِلَيَّ . قُلْتُ : فَمَا يَقُولُ مَالِكٌ فِي الْحَائِضِ تَحِيضُ بَعْدَ أَنْ طَلَعَ الْفَجْرُ ، وَقَدْ كَانَتْ حِينَ طَلَعَ الْفَجْرُ طَاهِرًا هَلْ عَلَيْهَا إِعَادَةُ صَلَاةِ الصُّبْحِ إِذَا طَهُرَتْ ؟ قَالَ : لَا إِعَادَةَ عَلَيْهَا إِذَا طَهُرَتْ ، وَإِنْ نَسِيَتِ الظُّهْرَ فَلَمْ تُصَلِّهَا حَتَّى دَخَلَ وَقْتُ الْعَصْرِ ، ثُمَّ حَاضَتْ فَلَا إِعَادَةَ عَلَيْهَا لِلظُّهْرِ وَلَا لِلْعَصْرِ , قَالَ : وَإِنْ نَسِيَتِ الْمَغْرِبَ فَلَمْ تُصَلِّهَا حَتَّى دَخَلَ وَقْتُ الْعِشَاءِ ، ثُمَّ حَاضَتْ فَلَا إِعَادَةَ عَلَيْهَا لَا الْمَغْرِبَ وَلَا الْعِشَاءَ . قَالَ : وَقَالَ مَالِكٌ فِي الْحَائِضِ لِتَشُدَّ عَلَيْهَا إِزَارُهَا ، ثُمَّ شَأْنُهُ بِأَعْلَاهَا .\u0005E48 قُلْتُ : مَا مَعنى قَوْلِ مَالِكٍ ثُمَّ شَأْنُهُ بِأَعْلَاهَا ؟ قَالَ : سُئِلَ مَالِكٌ عن الْحَائِضِ أَيُجَامِعُهَا زَوْجُهَا فِيمَا دُونَ الْفَرْجِ فِيمَا بَيْنَ فَخِذَيْهَا ؟ قَالَ : لَا ، وَلَكِنْ شَأْنُهُ بِأَعْلَاهَا . قَالَ : قَوْلُهُ عندَنَا شَأْنُهُ بِأَعْلَاهَا أَنْ يُجَامِعَهَا فِي أَعْلَاهَا إِنْ شَاءَ فِي أَعْكَانِهَا ، وَإِنْ شَاءَ فِي بَطْنِهَا ، وَإِنْ شَاءَ فِيمَا شَاءَ مِمَّا هُوَ أَعْلَاهَا .\rE49 \r\n$51  /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 136,
+      "grade": "Athar (Narration from Tabi'i) - acceptable chain to Salim"
+    },
+    {
+      "hadith_id": 10214,
+      "english_translation": "Narrated by Malik from Zayd ibn Aslam: A man said: 'O Messenger of Allah, what is permissible for me from my wife while she is menstruating?' He ﷺ said: 'Let her tighten her lower garment, then do as you wish with her upper part.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Did not meet the Prophet - this is Mursal"
+              ]
+            },
+            {
+              "name": "Rajul (A man)",
+              "full_name": "Unnamed Companion",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Identity not specified but assumed to be a Companion"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mursal narration - Zayd ibn Aslam is a Tabi'i who did not meet the Prophet",
+            "Missing link between Zayd ibn Aslam and the unnamed Companion",
+            "Uses 'an (عَنْ) indicating potentially indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Zayd ibn Aslam -> [Gap] -> Unnamed Man (Companion) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal narration - Zayd ibn Aslam is a Tabi'i who did not meet the Prophet",
+          "impact": "Clear gap in the chain between Zayd and the Prophet's era"
+        },
+        {
+          "issue": "The Companion asking the question is not named",
+          "impact": "Cannot verify the specific Companion, though all Companions are considered reliable"
+        },
+        {
+          "issue": "Uses 'an (عَنْ) indicating potential indirect transmission",
+          "impact": "May indicate missing intermediaries"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "What is Permissible with Menstruating Wife",
+        "Physical Intimacy During Menstruation"
+      ],
+      "arabicText": "قَالَ /12  مَالِكٌ /12 ، عن /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، /27 أَنَّ /26 رَجُلًا L1131 /26 , قَالَ : يَا رَسُولَ اللَّهِ , /20 مَا يَحِلُّ لِي مِنِ امْرَأَتِي وَهِيَ حَائِضٌ ؟ قَالَ : \" لِتَشُدَّ عَلَيْهَا إِزَارَهَا ثُمَّ شَأْنُكَ بِأَعْلَاهَا \" /27 * \r\n$52  53 /3",
+      "collection": "كتاب رقم 20",
+      "reference_number": 137,
+      "grade": "Mursal - Has supporting narrations in other collections"
+    },
+    {
+      "hadith_id": 10215,
+      "english_translation": "Narrated by Malik from Nafi', from Abdullah ibn Umar: He sent to Aisha asking: 'Can a man be intimate with his wife while she is menstruating?' She said: 'Let him tighten her lower garment over her lower part, then let him be intimate with her if he wishes.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ أَرْسَلَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "فَقَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'an (عَنْ) from Nafi', though this is the golden chain (Malik-Nafi'-Ibn Umar)",
+            "This is Aisha's response to Ibn Umar's question, not directly from the Prophet"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Abdullah ibn Umar -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a Mawquf narration - Aisha's statement in response to Ibn Umar's question",
+          "impact": "Not directly from the Prophet, though Aisha's knowledge of such matters is highly regarded"
+        },
+        {
+          "issue": "Uses 'an (عَنْ) from Nafi', though Malik from Nafi' from Ibn Umar is considered the 'golden chain'",
+          "impact": "Minimal impact as this is one of the most authentic chains in hadith literature, though 'an is used"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Question of Ibn Umar to Aisha About Menstruating Wife",
+        "Aisha's Guidance on Physical Intimacy During Menstruation"
+      ],
+      "arabicText": "قَالَ /12 مَالِكٌ /12 ، عن /94 نَافِعٍ L7863 /94 ، عن /26 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /26 ،    @ 1 : 96 @    أَنَّهُ /27 أَرْسَلَ إِلَى /93 عَائِشَةَ L4049 /93 : هَلْ /20 يُبَاشِرُ الرَّجُلُ امْرَأَتَهُ وَهِيَ حَائِضٌ ؟ فَقَالَتْ : \" لِيَشُدَّ إِزَارَهَا عَلَى أَسْفَلِهَا ، ثُمَّ لِيُبَاشِرَهَا إِنْ شَاءَ \" /27 , قُلْتُ : أَرَأَيْتَ امْرَأَةً كَانَتْ حَيْضَتُهَا خَمْسًا خَمْسًا ، فَرَأَتِ الطُّهْرَ فِي أَرْبَعٍ أَيُحِبُّ مَالِكٌ لِزَوْجِهَا أَنْ يَكُفَّ عنهَا حَتَّى يَمُرَّ الْيَوْمُ الْخَامِسُ ؟ قَالَ : لَا ، وَلْيُصِبْهَا إِنْ شَاءَ , قَالَ : وَقَالَ /12 مَالِكٌ /12 فِي امْرَأَةٍ صَلَّتْ رَكْعَةً مِنَ الظُّهْرِ أَوْ بَعْضَ الْعَصْرِ ثُمَّ حَاضَتْ ؟ قَالَ : /10 لَا تَقْضِي هَذِهِ الصَّلَاةَ الَّتِي حَاضَتْ فِيهَا /10 * \r\n0E50",
+      "collection": "كتاب رقم 20",
+      "reference_number": 138,
+      "grade": "Sahih Mawquf - Golden chain to Aisha"
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "batch_number": 2,
+  "file_number": 16,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9226,
+      "book_id": 19,
+      "narrator_id": [7863, 4967, 3131],
+      "english_translation": "Narrated by Zayd ibn Thabit: The Messenger of Allah ﷺ gave permission to the owner of the 'ariyyah to sell it by its estimation.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Thabit",
+              "full_name": "Zayd ibn Thabit ibn al-Dahhak al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar -> Zayd ibn Thabit -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'an (عَنْ) transmission term, though he is extremely reliable and this chain (Malik-Nafi'-Ibn Umar) is known as the 'Golden Chain' in Maliki scholarship",
+          "impact": "Minimal impact - this is one of the most authentic chains in hadith literature"
+        },
+        {
+          "issue": "Nafi' uses 'an (عَنْ) when narrating from Ibn Umar, though their direct connection is well-established",
+          "impact": "No significant impact - Nafi' is confirmed to have heard directly from Ibn Umar"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Transaction method for 'Ariyyah dates",
+        "Estimation-based transactions"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، /27 عَنْ /93 زَيْدِ بْنِ ثَابِتٍ L3131 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" أَرْخَصَ لِصَاحِبِ الْعَرِيَّةِ أَنْ يَبِيعَهَا بِخَرْصِهَا \" /27 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1522
+    },
+    {
+      "hadith_id": 9227,
+      "book_id": 19,
+      "narrator_id": [2775, 4396],
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ gave permission in selling 'araya by their estimation in what is less than five wasqs, or in five wasqs - Dawud doubted - he said: five wasqs or less than five wasqs. Malik said: The 'araya are only sold by their estimation of dates, this is approximated and estimated in the tops of palm trees, and permission was given for it because it was placed in the category of tawliyah, iqalah, and partnership. Had it been like other sales, no one would share anyone else in his food until the buyer takes possession of it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dawud ibn al-Husayn",
+              "full_name": "Dawud ibn al-Husayn al-Umawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sufyan",
+              "full_name": "Abu Sufyan mawla Ibn Abi Ahmad",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Dawud ibn al-Husayn -> Abu Sufyan -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term throughout the chain",
+          "impact": "Minor impact - all narrators are reliable and well-known to have met their teachers"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Transaction method for 'Araya dates",
+        "Estimation-based transactions",
+        "Limits of special transaction permissions"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 دَاوُدَ بْنِ الْحُصَيْنِ L2775 /94 ، عَنْ /26 أَبِي سُفْيَانَ L211 /26 مَوْلَى ابْنِ أَبِي أَحْمَدَ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" أَرْخَصَ فِي بَيْعِ الْعَرَايَا بِخَرْصِهَا فِيمَا دُونَ خَمْسَةِ أَوْسُقٍ \" /27 . أَوْ فِي خَمْسَةِ أَوْسُقٍ . يَشُكُّ دَاوُدُ ، قَالَ : خَمْسَةِ أَوْسُقٍ أَوْ دُونَ خَمْسَةِ أَوْسُقٍ . قَالَ /12 مَالِك /12 : /10 وَإِنَّمَا تُبَاعُ الْعَرَايَا بِخَرْصِهَا مِنَ التَّمْرِ يُتَحَرَّى ذَلِكَ ، وَيُخْرَصُ فِي رُءُوسِ النَّخْلِ ، وَإِنَّمَا أُرْخِصَ فِيهِ لِأَنَّهُ أُنْزِلَ بِمَنْزِلَةِ التَّوْلِيَةِ وَالْإِقَالَةِ وَالشِّرْكِ ، وَلَوْ كَانَ بِمَنْزِلَةِ غَيْرِهِ مِنَ الْبُيُوعِ مَا أَشْرَكَ أَحَدٌ أَحَدًا فِي طَعَامِهِ حَتَّى يَقْبِضَهُ الْمُبْتَاعُ /10 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1523
+    },
+    {
+      "hadith_id": 9229,
+      "book_id": 19,
+      "narrator_id": [7065, 6058],
+      "english_translation": "Narrated by 'Amrah bint Abd al-Rahman: A man bought the fruit of a garden in the time of the Messenger of Allah ﷺ, and he worked on it and took care of it until the loss became clear to him. So he asked the owner of the garden to reduce (the price) for him or to cancel (the sale). But he swore not to do so. Then the mother of the buyer went to the Messenger of Allah ﷺ and mentioned that to him. The Messenger of Allah ﷺ said: 'He swore not to do good.' The owner of the garden heard about that, so he came to the Messenger of Allah ﷺ and said: 'O Messenger of Allah, it is his.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Rijal Muhammad ibn Abd al-Rahman",
+              "full_name": "Abu al-Rijal Muhammad ibn Abd al-Rahman ibn Harithah al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Amrah bint Abd al-Rahman",
+              "full_name": "'Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ سَمِعَهَا تَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - 'Amrah bint Abd al-Rahman is a Second Generation narrator (Tabi'iyyah) reporting an incident from the time of the Prophet ﷺ without mentioning her source"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu al-Rijal Muhammad ibn Abd al-Rahman -> 'Amrah bint Abd al-Rahman (mursal from Prophet's time)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - 'Amrah bint Abd al-Rahman (died ~106 AH) did not meet the Prophet ﷺ but reports an incident from his time without mentioning the intermediary narrator",
+          "impact": "Significant impact - creates a disconnection in the chain, though 'Amrah is highly reliable and her mursal reports are generally considered strong"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the earlier part of the chain",
+          "impact": "Minor impact - the narrators are all reliable"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man who suffered loss in purchased fruit",
+        "Incident of a mother interceding with the Prophet ﷺ for her son",
+        "Encouragement of charitable conduct in transactions"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الرِّجَالِ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ L7065 /94 ، عَنْ أُمِّهِ /26 عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ L6058 /26 ، أَنَّهُ سَمِعَهَا تَقُولُ : /27 ابْتَاعَ رَجُلٌ ثَمَرَ حَائِطٍ فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَعَالَجَهُ وَقَامَ فِيهِ حَتَّى تَبَيَّنَ لَهُ النُّقْصَانُ ، فَسَأَلَ رَبَّ الْحَائِطِ أَنْ يَضَعَ لَهُ أَوْ أَنْ يُقِيلَهُ ، فَحَلَفَ أَنْ لَا يَفْعَلَ ، فَذَهَبَتْ أُمُّ الْمُشْتَرِي إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَذَكَرَتْ ذَلِكَ لَهُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" تَأَلَّى أَنْ لَا يَفْعَلَ خَيْرًا \" . فَسَمِعَ بِذَلِكَ رَبُّ الْحَائِطِ ، فَأَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، هُوَ لَهُ /27 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1525
+    },
+    {
+      "hadith_id": 9230,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "It reached Malik that Umar ibn Abd al-Aziz judged to put aside the loss (in fruit transactions). Malik said: That is the matter among us. Malik said: The loss that is put aside for the buyer is a third or more, and what is less than that is not considered a loss.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["This is a balaghat (report without chain) - Malik received the information but doesn't mention his source"]
+            },
+            {
+              "name": "Umar ibn Abd al-Aziz",
+              "full_name": "Umar ibn Abd al-Aziz ibn Marwan ibn al-Hakam al-Umawi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَضَى",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a balaghat (بَلَغَهُ) - a report that reached Malik without a complete chain",
+            "The statement is from Umar ibn Abd al-Aziz (a Tabi'i and Caliph), not from the Prophet ﷺ, making it mawquf"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik (balaghat/incomplete chain) -> Umar ibn Abd al-Aziz"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete chain - Malik uses 'balaghahu' (بَلَغَهُ) indicating he received this report but doesn't name his source(s)",
+          "impact": "Significant impact - creates uncertainty about the intermediary narrators between Malik and Umar ibn Abd al-Aziz"
+        },
+        {
+          "issue": "This is a mawquf report (statement of a Tabi'i), not a marfu' hadith from the Prophet ﷺ",
+          "impact": "This is juristic opinion (ra'y) of a later scholar, not prophetic instruction"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Judicial ruling of Umar ibn Abd al-Aziz on loss compensation",
+        "Definition of actionable loss in fruit transactions"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /26 عُمَرَ بْنَ عَبْدِ الْعَزِيزِ /26 /20 \" قَضَى بِوَضْعِ الْجَائِحَةِ \" /27 . قَالَ /12 مَالِك /12 : /10 وَعَلَى ذَلِكَ الْأَمْرُ عِنْدَنَا /10 . قَالَ /12 مَالِك /12 : /10 وَالْجَائِحَةُ الَّتِي تُوضَعُ عَنِ الْمُشْتَرِي الثُّلُثُ فَصَاعِدًا ، وَلَا يَكُونُ مَا دُونَ ذَلِكَ جَائِحَةً /10 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1526
+    },
+    {
+      "hadith_id": 9232,
+      "book_id": 19,
+      "narrator_id": [4632, 7220, 7065, 6058],
+      "english_translation": "From Abu Rabi'ah ibn Abi Abd al-Rahman: He used to sell the fruit of his garden and make an exception from it. And from Abdullah ibn Abi Bakr: That his grandfather Muhammad ibn 'Amr ibn Hazm sold the fruit of a garden of his called al-Afraq for four thousand dirhams, and he made an exception from it for eight hundred dirhams worth of dates. And from Abu al-Rijal Muhammad ibn Abd al-Rahman ibn Harithah: That his mother 'Amrah bint Abd al-Rahman used to sell her fruits and make an exception from them. Malik said: The agreed-upon matter among us is that when a man sells the fruit of his garden, he may make an exception from the fruit of his garden of what is between him and a third of the fruit, not exceeding that. And whatever is less than a third, there is no harm in that. Malik said: As for the man who sells the fruit of his garden and excepts from the fruit of his garden the fruit of a palm tree or palm trees which he chooses and names their number, I see no harm in that, because the owner of the garden only excepted something from the fruit of his own garden, and that is only something he withheld from his garden and kept for himself and did not sell, and he sold from his garden what was other than that.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Abu Rabi'ah ibn Abi Abd al-Rahman (identity uncertain)",
+              "grade": "Majhul al-Hal",
+              "generation": "Third Generation",
+              "transmissionTerm": "يَبِيعُ",
+              "reliabilityIssues": ["Identity uncertain - not well-documented in rijal literature"]
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report describing the practice of Abu Rabi'ah, not a marfu' hadith",
+            "The narrator Abu Rabi'ah ibn Abi Abd al-Rahman is not well-documented"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn 'Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn 'Amr ibn Hazm",
+              "full_name": "Muhammad ibn 'Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ (جَدَّهُ)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report about the practice of Muhammad ibn 'Amr ibn Hazm"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Rijal Muhammad ibn Abd al-Rahman",
+              "full_name": "Abu al-Rijal Muhammad ibn Abd al-Rahman ibn Harithah al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Amrah bint Abd al-Rahman",
+              "full_name": "'Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ (أُمَّهُ)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mawquf report about the practice of 'Amrah bint Abd al-Rahman"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu Rabi'ah ibn Abi Abd al-Rahman",
+        "Yahya -> Malik -> Abdullah ibn Abi Bakr -> Muhammad ibn 'Amr ibn Hazm (his grandfather)",
+        "Yahya -> Malik -> Abu al-Rijal Muhammad ibn Abd al-Rahman -> 'Amrah bint Abd al-Rahman (his mother)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are mawquf reports describing the practices of Tabi'un, not marfu' hadiths from the Prophet ﷺ",
+          "impact": "These represent the practices and understanding of early Muslims but are not direct prophetic statements"
+        },
+        {
+          "issue": "Abu Rabi'ah ibn Abi Abd al-Rahman is not well-documented in rijal literature",
+          "impact": "Creates uncertainty about the reliability of the first chain"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term",
+          "impact": "Minor impact given the reliability of most narrators"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Practice of making exceptions when selling fruit",
+        "Limits on exceptions in fruit sales",
+        "Incident of Muhammad ibn 'Amr ibn Hazm selling fruit with exception"
+      ],
+      "arabicText": "$1281  1284 /8 /141 حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، /27 عَنْ /26 أَبِي رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ /26 /20 \" يَبِيعُ ثَمَرَ حَائِطِهِ وَيَسْتَثْنِي مِنْهُ \" /27 * \r\n$1282  1285 /8 /141 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ L4632 /94 ، /27 أَنَّ جَدَّهُ /26 مُحَمَّدَ بْنَ عَمْرِو بْنِ حَزْمٍ L7220 /26 /20 \" بَاعَ ثَمَرَ حَائِطٍ لَهُ ، يُقَالُ لَهُ : الْأَفْرَقُ بِأَرْبَعَةِ آلَافِ دِرْهَمٍ ، وَاسْتَثْنَى مِنْهُ بِثَمَانِ مِائَةِ دِرْهَمٍ تَمْرًا \" /27 * \r\n$1283  1286 /8 /141 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الرِّجَالِ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ حَارِثَةَ L7065 /94 ، /27 أَنَّ أُمَّهُ /26 عَمْرَةَ بِنْتَ عَبْدِ الرَّحْمَنِ L6058 /26 كَانَتْ /20 \" تَبِيعُ ثِمَارَهَا وَتَسْتَثْنِي مِنْهَا \" /27 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا : أَنَّ الرَّجُلَ إِذَا بَاعَ ثَمَرَ حَائِطِهِ أَنَّ لَهُ أَنْ يَسْتَثْنِيَ مِنْ ثَمَرِ حَائِطِهِ مَا بَيْنَهُ وَبَيْنَ ثُلُثِ الثَّمَرِ لَا يُجَاوِزُ ذَلِكَ ، وَمَا كَانَ دُونَ الثُّلُثِ فَلَا بَأْسَ بِذَلِكَ /10 . قَالَ /12 مَالِك /12 : /10 فَأَمَّا الرَّجُلُ يَبِيعُ ثَمَرَ حَائِطِهِ وَيَسْتَثْنِي مِنْ ثَمَرِ حَائِطِهِ ثَمَرَ نَخْلَةٍ أَوْ نَخَلَاتٍ يَخْتَارُهَا وَيُسَمِّي عَدَدَهَا ، فَلَا أَرَى بِذَلِكَ بَأْسًا ، لِأَنَّ رَبَّ الْحَائِطِ إِنَّمَا اسْتَثْنَى شَيْئًا مِنْ ثَمَرِ حَائِطِ نَفْسِهِ ، وَإِنَّمَا ذَلِكَ شَيْءٌ احْتَبَسَهُ مِنْ حَائِطِهِ وَأَمْسَكَهُ لَمْ يَبِعْهُ ، وَبَاعَ مِنْ حَائِطِهِ مَا سِوَى ذَلِكَ /10 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1528
+    },
+    {
+      "hadith_id": 9234,
+      "book_id": 19,
+      "narrator_id": [3122, 5640],
+      "english_translation": "Narrated by 'Ata' ibn Yasar: The Messenger of Allah ﷺ said: 'Dates for dates, like for like.' Then it was said to him: 'Indeed, your governor over Khaybar takes one sa' for two sa's.' So the Messenger of Allah ﷺ said: 'Call him to me.' So he was called to him. Then the Messenger of Allah ﷺ said to him: 'Do you take one sa' for two sa's?' He said: 'O Messenger of Allah, they do not sell me the janib (high quality dates) for the jam' (mixed quality dates) sa' for sa'.' So the Messenger of Allah ﷺ said to him: 'Sell the jam' for dirhams, then buy with the dirhams janib.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-'Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Ata' ibn Yasar",
+              "full_name": "'Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": ["'Ata' ibn Yasar is a Tabi'i who did not meet the Prophet ﷺ - this appears to be a mursal hadith"]
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - 'Ata' ibn Yasar is a Tabi'i who was born after the Prophet's ﷺ death, yet he narrates directly from the Prophet ﷺ without mentioning the intermediary companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Zayd ibn Aslam -> 'Ata' ibn Yasar (mursal) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - 'Ata' ibn Yasar (died ~94-103 AH) was born after the Prophet's ﷺ death and did not meet him, creating a disconnection in the chain",
+          "impact": "Significant impact - the missing companion narrator creates uncertainty about the actual source of the hadith"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain before the mursal narrator",
+          "impact": "Minor impact given the reliability of Malik and Zayd ibn Aslam"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Exchange of dates for dates must be equal",
+        "Incident of the governor of Khaybar exchanging dates",
+        "Method to exchange different quality dates through currency"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، أَنَّهُ قَالَ : /27 قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" التَّمْرُ بِالتَّمْرِ مِثْلًا بِمِثْلٍ \" . فَقِيلَ لَهُ : إِنَّ عَامِلَكَ عَلَى /60 خَيْبَرَ /60 يَأْخُذُ الصَّاعَ بِالصَّاعَيْنِ . فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" ادْعُوهُ لِي \" . فَدُعِيَ لَهُ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَتَأْخُذُ الصَّاعَ بِالصَّاعَيْنِ ؟ \" فَقَالَ : يَا رَسُولَ اللَّهِ ، لَا يَبِيعُونَنِي الْجَنِيبَ بِالْجَمْعِ صَاعًا بِصَاعٍ . فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" بِعِ الْجَمْعَ بِالدَّرَاهِمِ ثُمَّ ابْتَعْ بِالدَّرَاهِمِ جَنِيبًا \" /27 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1530
+    },
+    {
+      "hadith_id": 9235,
+      "book_id": 19,
+      "narrator_id": [5183, 3299, 3260, 4396],
+      "english_translation": "Narrated by Abu Sa'id al-Khudri and Abu Hurayrah: The Messenger of Allah ﷺ employed a man over Khaybar, and he came to him with janib dates. The Messenger of Allah ﷺ said to him: 'Are all the dates of Khaybar like this?' He said: 'No, by Allah, O Messenger of Allah. Indeed, we take one sa' of this for two sa's, and two sa's for three.' So the Messenger of Allah ﷺ said: 'Do not do that. Sell the jam' for dirhams, then buy with the dirhams janib.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Hamid ibn Suhayl",
+              "full_name": "Abd al-Hamid ibn Suhayl ibn Abd al-Rahman ibn 'Awf al-Zuhri",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Considered Saduq - truthful but not of the highest level of precision"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thabt Hujjah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abd al-Hamid ibn Suhayl -> Sa'id ibn al-Musayyab -> Abu Sa'id al-Khudri and Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abd al-Hamid ibn Suhayl is graded as Saduq (truthful) rather than Thiqah, indicating he may occasionally make errors",
+          "impact": "Minor impact - he is still considered acceptable, though not of the highest reliability level"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "Minor impact given the overall reliability of the narrators and the well-established connections"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exchange of dates for dates must be equal",
+        "Incident of the governor of Khaybar exchanging dates",
+        "Method to exchange different quality dates through currency"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ الْحَميدِ بْنِ سُهَيْلِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ L5183 /94 ، عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ الْخُدْرِيِّ L3260 /93 ، وَعَنْ /15 /93 أَبِي هُرَيْرَةَ L4396 /93 /15 ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اسْتَعْمَلَ رَجُلًا عَلَى /60 خَيْبَرَ /60 فَجَاءَهُ بِتَمْرٍ جَنِيبٍ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَكُلُّ تَمْرِ /60 خَيْبَرَ /60 هَكَذَا ؟ \" فَقَالَ : لَا وَاللَّهِ يَا رَسُولَ اللَّهِ ، إِنَّا لَنَأْخُذُ الصَّاعَ مِنْ هَذَا بِالصَّاعَيْنِ ، وَالصَّاعَيْنِ بِالثَّلَاثَةِ . فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" لَا تَفْعَلْ ، بِعِ الْجَمْعَ بِالدَّرَاهِمِ ، ثُمَّ ابْتَعْ بِالدَّرَاهِمِ جَنِيبًا \" /27 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1531
+    },
+    {
+      "hadith_id": 9236,
+      "book_id": 19,
+      "narrator_id": [5167, 3154, 3232],
+      "english_translation": "Narrated by Sa'd ibn Abi Waqqas: From Abdullah ibn Yazid that Zayd Abu 'Ayyash informed him that he asked Sa'd ibn Abi Waqqas about (exchanging) al-bayda' (white wheat) for al-sult (barley). Sa'd said to him: 'Which of them is better?' He said: 'Al-bayda'.' So he forbade him from that. And Sa'd said: I heard the Messenger of Allah ﷺ being asked about buying dates with fresh dates. The Messenger of Allah ﷺ said: 'Does the fresh date decrease when it dries?' They said: 'Yes.' So he forbade that.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Yazid",
+              "full_name": "Abdullah ibn Yazid al-Khatmi al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd Abu 'Ayyash",
+              "full_name": "Zayd ibn Ayyash al-Zurqi al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ ... أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'd ibn Abi Waqqas",
+              "full_name": "Sa'd ibn Malik ibn Uhayb ibn Abd Manaf al-Zuhri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abdullah ibn Yazid -> Zayd Abu 'Ayyash -> Sa'd ibn Abi Waqqas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Some uses of 'an (عَنْ) in the earlier part of the chain",
+          "impact": "Minimal impact - all narrators are reliable and their connections are well-established"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Exchange of different quality grains",
+        "Exchange of fresh dates for dried dates",
+        "Incident of Sa'd ibn Abi Waqqas being asked about grain exchange"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ يَزِيدَ L5167 /94 ، أَنَّ /26 زَيْدًا أَبَا عَيَّاشٍ L3154 /26 أَخْبَرَهُ ، أَنَّهُ سَأَلَ سَعْدَ بْنَ أَبِي وَقَّاصٍ عَنِ الْبَيْضَاءِ بِالسُّلْتِ ، فَقَالَ لَهُ سَعْدٌ : \" أَيَّتُهُمَا أَفْضَلُ ؟ \" قَالَ : الْبَيْضَاءُ . فَنَهَاهُ عَنْ ذَلِكَ ، /27 وَقَالَ /93 سَعْدٌ L3232 /93 : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُسْأَلُ عَنِ اشْتِرَاءِ التَّمْرِ بِالرُّطَبِ . فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" أَيَنْقُصُ الرُّطَبُ إِذَا يَبِسَ ؟ \" فَقَالُوا : نَعَمْ . فَنَهَى عَنْ ذَلِكَ /27 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1532
+    },
+    {
+      "hadith_id": 9238,
+      "book_id": 19,
+      "narrator_id": [7863, 4967],
+      "english_translation": "Narrated by Abdullah ibn Umar: The Messenger of Allah ﷺ forbade al-muzabanah. And al-muzabanah is: selling fruit for dates by measure, and selling grapes for raisins by measure.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Uses of 'an (عَنْ) in the chain, though this is the famous 'Golden Chain' (Malik-Nafi'-Ibn Umar)",
+          "impact": "Minimal impact - this is one of the most authentic chains in hadith literature"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Types of forbidden transactions (Muzabanah)",
+        "Exchange of fresh fruit for dried fruit"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى عَنِ الْمُزَابَنَةِ \" /27 . وَالْمُزَابَنَةُ : بَيْعُ الثَّمَرِ بِالتَّمْرِ كَيْلًا ، وَبَيْعُ الْكَرْمِ بِالزَّبِيبِ كَيْلًا *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1534
+    },
+    {
+      "hadith_id": 9239,
+      "book_id": 19,
+      "narrator_id": [2775, 3260],
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ forbade al-muzabanah and al-muhaqalah. Al-muzabanah is: buying fruit with dates at the tops of palm trees. And al-muhaqalah is: renting land for wheat.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dawud ibn al-Husayn",
+              "full_name": "Dawud ibn al-Husayn al-Umawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sufyan",
+              "full_name": "Abu Sufyan mawla Ibn Abi Ahmad",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Dawud ibn al-Husayn -> Abu Sufyan -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term throughout the chain",
+          "impact": "Minor impact - all narrators are reliable and well-known to have met their teachers"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Types of forbidden transactions (Muzabanah and Muhaqalah)",
+        "Exchange of fresh fruit for dried fruit",
+        "Renting land for produce"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 دَاوُدَ بْنِ الْحُصَيْنِ L2775 /94 ، عَنْ /26 أَبِي سُفْيَانَ L211 /26 مَوْلَى ابْنِ أَبِي أَحْمَدَ ، /27 عَنْ /93 أَبِي سَعِيدٍ الْخُدْرِيِّ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى عَنِ الْمُزَابَنَةِ وَالْمُحَاقَلَةِ \" /27 . وَالْمُزَابَنَةُ : اشْتِرَاءُ الثَّمَرِ بِالتَّمْرِ فِي رُءُوسِ النَّخْلِ . وَالْمُحَاقَلَةُ : كِرَاءُ الْأَرْضِ بِالْحِنْطَةِ *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1535
+    },
+    {
+      "hadith_id": 9240,
+      "book_id": 19,
+      "narrator_id": [7272, 3299],
+      "english_translation": "From Sa'id ibn al-Musayyab: The Messenger of Allah ﷺ forbade al-muzabanah and al-muhaqalah. Al-muzabanah is: buying fruit with dates. And al-muhaqalah is: buying crops with wheat, and renting land for wheat.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Al-Zuhri is classified as a mudallis (category 3) by some scholars, though he is widely considered extremely reliable"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thabt Hujjah",
+              "generation": "First Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Sa'id ibn al-Musayyab is a Tabi'i who did not meet the Prophet ﷺ - this is a mursal hadith"]
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - Sa'id ibn al-Musayyab did not meet the Prophet ﷺ but narrates directly from him without mentioning the intermediary companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab (mursal) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Sa'id ibn al-Musayyab (died ~94 AH) was born during the Caliphate of Umar and did not meet the Prophet ﷺ, creating a disconnection in the chain",
+          "impact": "Significant impact - the missing companion narrator creates uncertainty, though Sa'id's mursal reports are considered among the strongest mursal narrations"
+        },
+        {
+          "issue": "Al-Zuhri uses 'an (عَنْ) and is classified as a mudallis (category 3) by some scholars, though he is extremely reliable",
+          "impact": "Minor impact - Al-Zuhri's reliability is so well-established that this is generally not considered problematic, but should be noted"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Types of forbidden transactions (Muzabanah and Muhaqalah)",
+        "Exchange of fresh fruit for dried fruit",
+        "Renting land for produce"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى عَنِ الْمُزَابَنَةِ وَالْمُحَاقَلَةِ \" /27 . وَالْمُزَابَنَةُ : اشْتِرَاءُ الثَّمَرِ بِالتَّمْرِ . وَالْمُحَاقَلَةُ : اشْتِرَاءُ الزَّرْعِ بِالْحِنْطَةِ ، وَاسْتِكْرَاءُ الْأَرْضِ بِالْحِنْطَةِ *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1536
+    }
+  ]
+}

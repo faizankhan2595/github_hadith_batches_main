@@ -1,0 +1,765 @@
+{
+  "batch_number": 2,
+  "file_number": 37,
+  "processed_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 9541,
+      "english_translation": "Narrated from al-Maqburi that Abu Hurayrah was asked about a man who has an obligation to free a slave, whether he may free an illegitimate child (child of zina) for that purpose. Abu Hurayrah said: 'Yes, that will suffice for him.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown narrator(s) - Chain interrupted by balagahu",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["munqati'", "balagahu indicates disconnection"]
+            },
+            {
+              "name": "al-Maqburi",
+              "full_name": "Sa'id ibn Abi Sa'id al-Maqburi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Major disconnection: 'balagahu' (it reached him) indicates broken chain with unknown intermediary between Malik and al-Maqburi",
+            "Malik never met al-Maqburi directly - they are separated by a generation",
+            "The chain is mursal/munqati' making it problematic"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> [Unknown intermediary via balagahu] -> al-Maqburi -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagahu (بَلَغَهُ) indicates a clear disconnection in the chain. Malik is reporting something that 'reached him' without specifying the intermediary narrator(s).",
+          "impact": "This is a fundamental break in the chain of transmission (munqati'/mursal). The unknown intermediary could be weak or unreliable, making this narration problematic despite the reliability of the known narrators."
+        },
+        {
+          "issue": "This is a mawquf narration (statement of a Companion, not the Prophet ﷺ), reporting Abu Hurayrah's legal opinion rather than a prophetic statement.",
+          "impact": "While valuable as a Companion's view, it does not have the same authority as a marfu' hadith from the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Freeing illegitimate children for obligatory manumission",
+        "Legal opinion of Abu Hurayrah on expiation"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، عَنْ الْمَقْبُرِيِّ ، أَنَّهُ قَالَ : سُئِلَ أَبُو هُرَيْرَةَ عَنْ الرَّجُلِ تَكُونُ عَلَيْهِ رَقَبَةٌ ، هَلْ يُعْتِقُ فِيهَا ابْنَ زِنًا ؟ فَقَالَ أَبُو هُرَيْرَةَ : نَعَمْ ، ذَلِكَ يُجْزِئُ عَنْهُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1837",
+      "grade": "Mawquf with disconnected chain"
+    },
+    {
+      "hadith_id": 9542,
+      "english_translation": "Narrated from Fadala ibn Ubayd al-Ansari - who was among the Companions of the Messenger of Allah ﷺ - that he was asked about a man who has an obligation to free a slave, whether it is permissible for him to free an illegitimate child (child of zina). He said: 'Yes, that will suffice for him.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown narrator(s) - Chain interrupted by balagahu",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["munqati'", "balagahu indicates disconnection"]
+            },
+            {
+              "name": "Fadala ibn Ubayd",
+              "full_name": "Fadala ibn Ubayd ibn Nusayb al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Major disconnection: 'balagahu' (it reached him) indicates broken chain with unknown intermediary",
+            "Malik was born around 93 AH while Fadala died around 53 AH - impossible for direct hearing",
+            "At least one or two generations of narrators are missing from this chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> [Unknown intermediary via balagahu] -> Fadala ibn Ubayd"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagahu (بَلَغَهُ) creates a severe disconnection. Malik is reporting from a Companion who died decades before Malik was born, without naming the intermediaries.",
+          "impact": "This is a mursal or munqati' chain with a clear generational gap. The missing narrator(s) could be weak or unreliable, making the authenticity highly questionable."
+        },
+        {
+          "issue": "This is a mawquf narration expressing the legal opinion of the Companion Fadala ibn Ubayd, not a marfu' hadith from the Prophet ﷺ.",
+          "impact": "While Companion opinions are valuable, they don't carry the same authority as prophetic statements."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Freeing illegitimate children for obligatory manumission",
+        "Legal opinion of Fadala ibn Ubayd on expiation"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، عَنْ فَضَالَةَ بْنِ عُبَيْدٍ الْأَنْصَارِيِّ وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ سُئِلَ عَنْ الرَّجُلِ تَكُونُ عَلَيْهِ رَقَبَةٌ ، هَلْ يَجُوزُ لَهُ أَنْ يُعْتِقَ وَلَدَ زِنًا ؟ قَالَ : نَعَمْ ، ذَلِكَ يُجْزِئُ عَنْهُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1838",
+      "grade": "Mawquf with disconnected chain"
+    },
+    {
+      "hadith_id": 9544,
+      "english_translation": "Narrated that Abdullah ibn Umar was asked about an obligatory manumission, whether it may be purchased with a condition. He said: 'No.' Malik said: 'This is the best of what I have heard concerning obligatory manumissions: that the one who frees should not purchase the slave that he will free for what is obligatory upon him with a condition that he will free them, because if he does that, it is not a complete manumission, as he reduces from their price for the one who stipulates their freedom.' Malik said: 'There is no harm in purchasing a slave for voluntary manumission and stipulating that he will free them.' Malik said: 'The best of what has been heard concerning obligatory manumissions is that it is not permissible to free therein a Christian or a Jew, nor to free therein a mukatab (contracted slave), mudabbar (posthumously freed slave), umm walad (mother of a child), one freed to a set time, or a blind person. There is no harm in freeing a Christian, Jew, or Magian voluntarily, because Allah, Blessed and Exalted, said in His Book: \"Either favor afterwards or ransom\" (Surah Muhammad, verse 4), and the favor is manumission.' Malik said: 'As for the obligatory manumissions that Allah mentioned in the Book, none should be freed therein except a believing slave.' Malik said: 'Likewise in feeding the poor in expiations, none should be fed therein except Muslims, and none on other than the religion of Islam should be fed therein.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown narrator(s) - Chain interrupted by balagahu",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["munqati'", "balagahu indicates disconnection"]
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Major disconnection: 'balagahu' indicates broken chain without naming intermediary",
+            "Malik did not directly hear from Abdullah ibn Umar (who died 73 AH, before Malik was born)",
+            "Multiple generations separate Malik from Ibn Umar"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> [Unknown intermediary via balagahu] -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagahu (بَلَغَهُ) creates a clear disconnection. The chain is broken with unknown intermediaries between Malik and Abdullah ibn Umar.",
+          "impact": "This is a munqati' chain. The unknown narrator(s) could be unreliable, severely affecting the authenticity of this mawquf narration."
+        },
+        {
+          "issue": "Most of the content is actually Malik's own legal opinions and reasoning, not transmitted hadith material.",
+          "impact": "While Imam Malik's juristic opinions are highly respected, they are fiqh (jurisprudence) rather than transmitted hadith material."
+        },
+        {
+          "issue": "This is a mawquf narration expressing Abdullah ibn Umar's legal ruling, not a marfu' statement from the Prophet ﷺ.",
+          "impact": "Companion statements, while valuable, don't have the same authority as prophetic statements."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Conditions in purchasing slaves for obligatory manumission",
+        "Types of slaves that fulfill obligatory manumission",
+        "Legal opinion of Abdullah ibn Umar on manumission conditions",
+        "Imam Malik's jurisprudence on expiation"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ، سُئِلَ عَنْ الرَّقَبَةِ الْوَاجِبَةِ ، هَلْ تُشْتَرَى بِشَرْطٍ ؟ فَقَالَ : لَا . قَالَ مَالِك : وَذَلِكَ أَحْسَنُ مَا سَمِعْتُ فِي الرِّقَابِ الْوَاجِبَةِ ، أَنَّهُ لَا يَشْتَرِيهَا الَّذِي يُعْتِقُهَا فِيمَا وَجَبَ عَلَيْهِ بِشَرْطٍ عَلَى أَنْ يُعْتِقَهَا ، لِأَنَّهُ إِذَا فَعَلَ ذَلِكَ فَلَيْسَتْ بِرَقَبَةٍ تَامَّةٍ ، لِأَنَّهُ يَضَعُ مِنْ ثَمَنِهَا لِلَّذِي يَشْتَرِطُ مِنْ عِتْقِهَا . قَالَ مَالِك : وَلَا بَأْسَ أَنْ يَشْتَرِيَ الرَّقَبَةَ فِي التَّطَوُّعِ ، وَيَشْتَرِطَ أَنْ يُعْتِقَهَا . قَالَ مَالِك : إِنَّ أَحْسَنَ مَا سُمِعَ فِي الرِّقَابِ الْوَاجِبَةِ ، أَنَّهُ لَا يَجُوزُ أَنْ يُعْتَقَ فِيهَا نَصْرَانِيٌّ وَلَا يَهُودِيٌّ ، وَلَا يُعْتَقُ فِيهَا مُكَاتَبٌ وَلَا مُدَبَّرٌ ، وَلَا أُمُّ وَلَدٍ وَلَا مُعْتَقٌ إِلَى سِنِينَ وَلَا أَعْمَى ، وَلَا بَأْسَ أَنْ يُعْتَقَ النَّصْرَانِيُّ وَالْيَهُودِيُّ وَالْمَجُوسِيُّ تَطَوُّعًا ، لِأَنَّ اللَّهَ تَبَارَكَ وَتَعَالَى ، قَالَ فِي كِتَابِهِ : فَإِمَّا مَنًّا بَعْدُ وَإِمَّا فِدَاءً سورة محمد آية 4 ، فَالْمَنُّ : الْعَتَاقَةُ . قَالَ مَالِك : فَأَمَّا الرِّقَابُ الْوَاجِبَةُ الَّتِي ذَكَرَ اللَّهُ فِي الْكِتَابِ ، فَإِنَّهُ لَا يُعْتَقُ فِيهَا إِلَّا رَقَبَةٌ مُؤْمِنَةٌ . قَالَ مَالِك : وَكَذَلِكَ فِي إِطْعَامِ الْمَسَاكِينِ فِي الْكَفَّارَاتِ ، لَا يَنْبَغِي أَنْ يُطْعَمَ فِيهَا إِلَّا الْمُسْلِمُونَ ، وَلَا يُطْعَمُ فِيهَا أَحَدٌ عَلَى غَيْرِ دِينِ الْإِسْلَامِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1840",
+      "grade": "Mawquf with disconnected chain, plus juristic commentary"
+    },
+    {
+      "hadith_id": 9546,
+      "english_translation": "First narration: Narrated from Abd al-Rahman ibn Abi Amrah al-Ansari that his mother intended to make a bequest, then she delayed it until morning, and she died. She had intended to free a slave. Abd al-Rahman said: 'So I said to al-Qasim ibn Muhammad: Will it benefit her if I free a slave on her behalf?' Al-Qasim said: 'Sa'd ibn Ubadah said to the Messenger of Allah ﷺ: \"My mother has died, will it benefit her if I free a slave on her behalf?\" The Messenger of Allah ﷺ said: \"Yes.\"'\n\nSecond narration: Narrated from Yahya ibn Sa'id that he said: 'Abd al-Rahman ibn Abi Bakr died in a sleep he was sleeping, so Aisha, the wife of the Prophet ﷺ, freed many slaves on his behalf.' Malik said: 'This is the most beloved of what I have heard to me concerning that.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn Abi Amrah",
+              "full_name": "Abd al-Rahman ibn Abi Amrah al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'd ibn Ubadah",
+              "full_name": "Sa'd ibn Ubadah ibn Dulaym al-Khazraji al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Potential issue: al-Qasim ibn Muhammad did not meet Sa'd ibn Ubadah (who died around 14-15 AH before al-Qasim was born)",
+            "This appears to be an irsaal (sending) - al-Qasim is reporting from Sa'd without direct meeting",
+            "The chain between al-Qasim and Sa'd is disconnected"
+          ]
+        },
+        {
+          "type": "athar",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is an athar (report) about Aisha's action, not a hadith from the Prophet ﷺ",
+            "Yahya ibn Sa'id is reporting a historical event without a complete chain to eyewitnesses"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abd al-Rahman ibn Abi Amrah -> al-Qasim ibn Muhammad -> [Gap] -> Sa'd ibn Ubadah -> Prophet Muhammad ﷺ",
+        "Malik -> Yahya ibn Sa'id -> [Unspecified source about Aisha's action]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain: Al-Qasim ibn Muhammad (born around 36 AH) is reporting from Sa'd ibn Ubadah (died 14-15 AH) without an intermediary. This is a clear disconnection (irsaal).",
+          "impact": "The chain is munqati' (broken). Al-Qasim must have heard this through an intermediary, but that narrator is not mentioned, creating uncertainty about the authenticity."
+        },
+        {
+          "issue": "Second chain: Yahya ibn Sa'id is reporting a historical event about Aisha without specifying his source or chain of transmission.",
+          "impact": "This is more of a historical report than a hadith. While Yahya ibn Sa'id is highly reliable, the lack of a complete chain makes this problematic as rigorous hadith evidence."
+        },
+        {
+          "issue": "Both narrators (Malik and Yahya ibn Sa'id) use the indirect term 'an (عَنْ), though they are generally reliable narrators.",
+          "impact": "Minor concern, as both are known for precision, but in the context of other chain issues, it adds to the overall weakness."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Freeing slaves on behalf of deceased relatives",
+        "Incident of Sa'd ibn Ubadah asking about his deceased mother",
+        "Incident of Aisha freeing slaves for Abd al-Rahman ibn Abi Bakr",
+        "Charitable acts benefiting the deceased"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي عَمْرَةَ الْأَنْصَارِيِّ ، أَنَّ أُمَّهُ أَرَادَتْ أَنْ تُوصِيَ ، ثُمَّ أَخَّرَتْ ذَلِكَ إِلَى أَنْ تُصْبِحَ ، فَهَلَكَتْ ، وَقَدْ كَانَتْ هَمَّتْ بِأَنْ تُعْتِقَ ، فَقَالَ عَبْدُ الرَّحْمَنِ : فَقُلْتُ لِلْقَاسِمِ بْنِ مُحَمَّدٍ : أَيَنْفَعُهَا أَنْ أُعْتِقَ عَنْهَا ؟ فَقَالَ الْقَاسِمُ : إِنَّ سَعْدَ بْنَ عُبَادَةَ قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنَّ أُمِّي هَلَكَتْ ، فَهَلْ يَنْفَعُهَا أَنْ أُعْتِقَ عَنْهَا ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : نَعَمْ . وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ قَالَ : تُوُفِّيَ عَبْدُ الرَّحْمَنِ بْنُ أَبِي بَكْرٍ فِي نَوْمٍ نَامَهُ ، فَأَعْتَقَتْ عَنْهُ عَائِشَةُ زَوْجُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رِقَابًا كَثِيرَةً . قَالَ مَالِك : وَهَذَا أَحَبُّ مَا سَمِعْتُ إِلَيَّ فِي ذَلِكَ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1842",
+      "grade": "Mursal (first chain has disconnection), Historical report (second chain)"
+    },
+    {
+      "hadith_id": 9548,
+      "english_translation": "First narration: Narrated from Hisham ibn Urwah, from his father, from Aisha, the wife of the Prophet ﷺ, that the Messenger of Allah ﷺ was asked about slaves: which of them is best? The Messenger of Allah ﷺ said: 'The most expensive in price and the most precious to their people.'\n\nSecond narration: Narrated from Nafi' from Abdullah ibn Umar that he freed an illegitimate child and his mother.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Taymiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ",
+        "Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain uses 'an (عَنْ) throughout. While all narrators are highly reliable, Hisham ibn Urwah had some minor tadlis accusations by a few scholars, though the majority consider him reliable.",
+          "impact": "Very minor concern. The 'golden chain' of Malik -> Hisham -> Urwah -> Aisha is one of the most famous and reliable chains in hadith literature. The use of 'an here is not problematic given the established reliability and known meetings of all narrators."
+        },
+        {
+          "issue": "Second chain: This is a mawquf narration (action of Abdullah ibn Umar, not a statement from the Prophet ﷺ).",
+          "impact": "While the chain is sound (the famous 'golden chain' of Malik -> Nafi' -> Ibn Umar), it only reports Ibn Umar's practice, not a prophetic command."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Best slaves to free for manumission",
+        "Merit of freeing valuable slaves",
+        "Abdullah ibn Umar's practice of freeing illegitimate children"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ عَنِ الرِّقَابِ ، أَيُّهَا أَفْضَلُ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَغْلَاهَا ثَمَنًا ، وَأَنْفَسُهَا عِنْدَ أَهْلِهَا . وَحَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ أَعْتَقَ وَلَدَ زِنًا وَأُمَّهُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1844",
+      "grade": "Sound (first chain marfu'), Sound (second chain mawquf)"
+    },
+    {
+      "hadith_id": 9550,
+      "english_translation": "Narrated from Hisham ibn Urwah, from his father, from Aisha, the wife of the Prophet ﷺ, that she said: Barira came and said: 'I have made a contract with my people for nine uqiyyahs, one uqiyyah per year, so help me.' Aisha said: 'If your people would like me to count it out for them on your behalf, I will count it, and your walaa (clientage) will be mine, I will do so.' So Barira went to her people and told them that, but they refused. She came back from her people while the Messenger of Allah ﷺ was sitting. She said to Aisha: 'I offered them that, but they refused unless the walaa would be theirs.' The Messenger of Allah ﷺ heard that and asked her, so Aisha informed him. The Messenger of Allah ﷺ said: 'Take her and stipulate the walaa for them, for walaa belongs only to the one who frees.' So Aisha did that. Then the Messenger of Allah ﷺ stood before the people, praised Allah and extolled Him, then said: 'To proceed: What is the matter with men who stipulate conditions not in the Book of Allah? Whatever condition is not in the Book of Allah is invalid, even if it be a hundred conditions. The decree of Allah is more deserving, and the condition of Allah is more binding. Walaa belongs only to the one who frees.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Taymiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) throughout. Hisham ibn Urwah has minor tadlis accusations by some scholars, though most consider him reliable.",
+          "impact": "Very minor concern. This is the famous 'golden chain' (Malik -> Hisham -> Urwah -> Aisha), one of the most authentic chains in hadith literature. All narrators are known to have directly met their teachers. The use of 'an is not problematic here."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Story of Barira and her manumission",
+        "Walaa (clientage) belongs to the one who frees",
+        "Incident of Aisha purchasing and freeing Barira",
+        "Invalid conditions contrary to Allah's decree",
+        "The Prophet's ﷺ sermon about stipulating invalid conditions"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهَا قَالَتْ : جَاءَتْ بَرِيرَةُ ، فَقَالَتْ : إِنِّي كَاتَبْتُ أَهْلِي عَلَى تِسْعِ أَوَاقٍ فِي كُلِّ عَامٍ أُوقِيَّةٌ ، فَأَعِينِينِي . فَقَالَتْ عَائِشَةُ : إِنْ أَحَبَّ أَهْلُكِ أَنْ أَعُدَّهَا لَهُمْ عَنْكِ عَدَدْتُهَا ، وَيَكُونَ لِي وَلَاؤُكِ ، فَعَلْتُ . فَذَهَبَتْ بَرِيرَةُ إِلَى أَهْلِهَا ، فَقَالَتْ لَهُمْ ذَلِكَ ، فَأَبَوْا عَلَيْهَا ، فَجَاءَتْ مِنْ عِنْدِ أَهْلِهَا وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ جَالِسٌ ، فَقَالَتْ لِعَائِشَةَ : إِنِّي قَدْ عَرَضْتُ عَلَيْهِمْ ذَلِكَ ، فَأَبَوْا عَلَيَّ إِلَّا أَنْ يَكُونَ الْوَلَاءُ لَهُمْ ، فَسَمِعَ ذَلِكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَسَأَلَهَا ، فَأَخْبَرَتْهُ عَائِشَةُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : خُذِيهَا وَاشْتَرِطِي لَهُمُ الْوَلَاءَ ، فَإِنَّمَا الْوَلَاءُ لِمَنْ أَعْتَقَ . فَفَعَلَتْ عَائِشَةُ ، ثُمَّ قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي النَّاسِ ، فَحَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ، ثُمَّ قَالَ : أَمَّا بَعْدُ فَمَا بَالُ رِجَالٍ يَشْتَرِطُونَ شُرُوطًا لَيْسَتْ فِي كِتَابِ اللَّهِ ، مَا كَانَ مِنْ شَرْطٍ لَيْسَ فِي كِتَابِ اللَّهِ فَهُوَ بَاطِلٌ ، وَإِنْ كَانَ مِائَةَ شَرْطٍ ، قَضَاءُ اللَّهِ أَحَقُّ ، وَشَرْطُ اللَّهِ أَوْثَقُ ، وَإِنَّمَا الْوَلَاءُ لِمَنْ أَعْتَقَ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1846",
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9551,
+      "english_translation": "Narrated from Nafi' from Abdullah ibn Umar that Aisha, the Mother of the Believers, wanted to purchase a slave girl to free her. Her people said: 'We will sell her to you on condition that her walaa is for us.' So she mentioned that to the Messenger of Allah ﷺ, and he said: 'Let not that prevent you, for walaa belongs only to the one who frees.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Abdullah ibn Umar -> [About Aisha's interaction with] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) throughout, though all narrators are highly reliable.",
+          "impact": "Very minor concern. This is the famous 'golden chain' of Malik -> Nafi' -> Ibn Umar, considered one of the most authentic chains in hadith literature. The use of 'an is not problematic."
+        },
+        {
+          "issue": "Abdullah ibn Umar is reporting about Aisha's interaction with the Prophet ﷺ. The narration style suggests Ibn Umar heard this story indirectly or witnessed it.",
+          "impact": "Minor consideration, but the reliability of the chain and the consistency with other versions (like hadith 9550) support its authenticity."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Walaa belongs to the one who frees",
+        "Incident of Aisha wanting to purchase a slave",
+        "Invalid conditions in slave transactions"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ أَرَادَتْ أَنْ تَشْتَرِيَ جَارِيَةً تُعْتِقُهَا ، فَقَالَ أَهْلُهَا : نَبِيعُكِهَا عَلَى أَنَّ وَلَاءَهَا لَنَا . فَذَكَرَتْ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : لَا يَمْنَعَنَّكِ ذَلِكَ فَإِنَّمَا الْوَلَاءُ لِمَنْ أَعْتَقَ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1847",
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9552,
+      "english_translation": "Narrated from Yahya ibn Sa'id, from Amrah bint Abd al-Rahman, that Barira came seeking help from Aisha, the Mother of the Believers. Aisha said: 'If your people would like me to pour out your price for them in one payment and free you, I will do so.' So Barira mentioned that to her people, and they said: 'No, unless the walaa is for us.' Yahya ibn Sa'id said: Amrah claimed that Aisha mentioned that to the Messenger of Allah ﷺ, and the Messenger of Allah ﷺ said: 'Purchase her and free her, for walaa belongs only to the one who frees.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amrah bint Abd al-Rahman",
+              "full_name": "Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Taymiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Yahya ibn Sa'id -> Amrah bint Abd al-Rahman -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses indirect transmission terms ('an and anna). Additionally, Yahya ibn Sa'id uses the word 'za'amat' (claimed/asserted) when reporting from Amrah, which some scholars consider slightly weaker than direct affirmation.",
+          "impact": "Minor concern. The word 'za'amat' is used by reliable narrators and doesn't necessarily imply doubt, but it's less strong than direct affirmation. However, all narrators are highly reliable, and Amrah was a direct student of Aisha."
+        },
+        {
+          "issue": "This is another version of the Barira story, with a slightly different chain than hadith 9550.",
+          "impact": "The existence of multiple chains strengthens the overall authenticity of the Barira incident, as it shows the story was widely transmitted through different reliable routes."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Story of Barira seeking help for her mukatabah contract",
+        "Walaa belongs to the one who frees",
+        "Incident of Aisha purchasing and freeing Barira"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ ، أَنَّ بَرِيرَةَ جَاءَتْ تَسْتَعِينُ عَائِشَةَ أُمَّ الْمُؤْمِنِينَ ، فَقَالَتْ عَائِشَةُ : إِنْ أَحَبَّ أَهْلُكِ أَنْ أَصُبَّ لَهُمْ ثَمَنَكِ صَبَّةً وَاحِدَةً وَأُعْتِقَكِ ، فَعَلْتُ . فَذَكَرَتْ ذَلِكَ بَرِيرَةُ لِأَهْلِهَا ، فَقَالُوا : لَا ، إِلَّا أَنْ يَكُونَ لَنَا وَلَاؤُكِ . قَالَ يَحْيَى بْنُ سَعِيدٍ : فَزَعَمَتْ عَمْرَةُ أَنَّ عَائِشَةَ ذَكَرَتْ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : اشْتَرِيهَا وَأَعْتِقِيهَا فَإِنَّمَا الْوَلَاءُ لِمَنْ أَعْتَقَ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1848",
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9553,
+      "english_translation": "Narrated from Abdullah ibn Dinar from Abdullah ibn Umar that the Messenger of Allah ﷺ forbade the selling of walaa and its gifting. Malik said regarding a slave who purchases himself from his master on condition that he may give his walaa to whomever he wishes: 'That is not permissible, and walaa belongs only to the one who frees. Even if a man gave permission to his freed slave to give his walaa to whomever he wishes, that would not be permissible, because the Messenger of Allah ﷺ said: \"Walaa belongs to the one who frees.\" And the Messenger of Allah ﷺ forbade the selling of walaa and its gifting. So if it were permissible for his master to stipulate that for him and to give him permission to give walaa to whomever he wishes, that would be the gifting.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Madani al-Qurashi mawla Ibn Umar",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn Abdullah ibn Abd al-Muttalib",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) throughout, though all narrators are highly reliable.",
+          "impact": "Very minor concern. This is a strong chain with all reliable narrators who are known to have directly met their teachers. The use of 'an is not problematic here."
+        },
+        {
+          "issue": "Significant portion of the narration is Malik's own juristic reasoning and application of the principle, not transmitted hadith material.",
+          "impact": "The core hadith (prohibition of selling and gifting walaa) is sound, but the extensive juristic commentary should be understood as Imam Malik's fiqh, not prophetic statements."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Prohibition of selling walaa",
+        "Prohibition of gifting walaa",
+        "Walaa belongs to the one who frees",
+        "Invalid conditions regarding walaa"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ بَيْعِ الْوَلَاءِ وَعَنْ هِبَتِهِ . قَالَ مَالِك ، فِي الْعَبْدِ يَبْتَاعُ نَفْسَهُ مِنْ سَيِّدِهِ عَلَى أَنَّهُ يُوَالِي مَنْ شَاءَ : إِنَّ ذَلِكَ لَا يَجُوزُ ، وَإِنَّمَا الْوَلَاءُ لِمَنْ أَعْتَقَ ، وَلَوْ أَنَّ رَجُلًا أَذِنَ لِمَوْلَاهُ أَنْ يُوَالِيَ مَنْ شَاءَ مَا جَازَ ذَلِكَ ، لِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : الْوَلَاءُ لِمَنْ أَعْتَقَ . وَنَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ بَيْعِ الْوَلَاءِ وَعَنْ هِبَتِهِ ، فَإِذَا جَازَ لِسَيِّدِهِ أَنْ يَشْتَرِطَ ذَلِكَ لَهُ وَأَنْ يَأْذَنَ لَهُ أَنْ يُوَالِيَ مَنْ شَاءَ ، فَتِلْكَ الْهِبَةُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1849",
+      "grade": "Sahih (core hadith), plus Malik's juristic reasoning"
+    },
+    {
+      "hadith_id": 9555,
+      "english_translation": "Narrated from Rabi'ah ibn Abi Abd al-Rahman that al-Zubayr ibn al-Awwam purchased a slave and freed him. That slave had sons from a free woman. When al-Zubayr freed him, he said: 'They are my clients (mawali).' And the clients of their mother said: 'Rather, they are our clients.' So they disputed before Uthman ibn Affan, and Uthman ruled in favor of al-Zubayr regarding their walaa.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Rabi'ah is reporting about an event involving Zubayr ibn al-Awwam and Uthman ibn Affan without an intermediary",
+            "Rabi'ah was born around 60 AH, while Zubayr died in 36 AH and Uthman in 35 AH - impossible for direct witnessing",
+            "The chain is mursal/munqati' with missing intermediaries who witnessed the event"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Rabi'ah ibn Abi Abd al-Rahman -> [Missing intermediary/witnesses] -> Incident involving Zubayr and Uthman"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Rabi'ah ibn Abi Abd al-Rahman (born c. 60 AH) is reporting about an incident involving Zubayr (died 36 AH) and Uthman (died 35 AH). There's a clear generational gap with no intermediary mentioned.",
+          "impact": "This is a mursal or munqati' chain. At least one generation of narrators is missing between Rabi'ah and the eyewitnesses of this event, creating significant uncertainty about the reliability of the report."
+        },
+        {
+          "issue": "This is a mawquf narration reporting a legal ruling by the Companion Uthman, not a marfu' hadith from the Prophet ﷺ.",
+          "impact": "While Companion rulings are valuable, they don't carry the same authority as prophetic statements. This is more of a legal precedent than hadith evidence."
+        },
+        {
+          "issue": "The use of 'an (عَنْ) by Rabi'ah when he couldn't have witnessed the event himself is particularly problematic.",
+          "impact": "The ambiguous transmission term combined with the clear chronological impossibility makes this chain weak."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Walaa of children born to a slave father and free mother",
+        "Incident of dispute over walaa before Uthman ibn Affan",
+        "Legal ruling of Uthman on inherited walaa"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّ الزُّبَيْرَ بْنَ الْعَوَّامِ اشْتَرَى عَبْدًا فَأَعْتَقَهُ ، وَلِذَلِكَ الْعَبْدِ بَنُونَ مِنَ امْرَأَةٍ حُرَّةٍ ، فَلَمَّا أَعْتَقَهُ الزُّبَيْرُ ، قَالَ : هُمْ مَوَالِيَّ ، وَقَالَ مَوَالِي أُمِّهِمْ : بَلْ هُمْ مَوَالِينَا . فَاخْتَصَمُوا إِلَى عُثْمَانَ بْنِ عَفَّانَ ، فَقَضَى عُثْمَانُ لِلزُّبَيْرِ بِوَلَائِهِمْ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1851",
+      "grade": "Mawquf with disconnected chain"
+    }
+  ]
+}

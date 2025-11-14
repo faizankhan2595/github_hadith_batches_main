@@ -1,0 +1,589 @@
+{
+  "batch_number": 2,
+  "file_number": 21,
+  "processed_count": 9,
+  "hadiths": [
+    {
+      "hadith_id": 9301,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abu Mas'ud al-Ansari that the Messenger of Allah ﷺ forbade the price of a dog, the earnings of a prostitute, and the fee of a soothsayer. The earnings of the prostitute means what is given to a woman for adultery. And the fee of the soothsayer is his bribe and what is given for him to practice divination. Malik said: I dislike the price of a hunting dog and other dogs due to the Messenger of Allah's ﷺ prohibition of the price of a dog.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Mas'ud al-Ansari",
+              "full_name": "Uqbah ibn Amr ibn Tha'labah al-Ansari al-Badri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of عَنْ (an) by Ibn Shihab al-Zuhri who is classified as a mudallis, though he is generally reliable",
+            "Multiple instances of عَنْ (an) throughout the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Abu Bakr ibn Abd al-Rahman -> Abu Mas'ud al-Ansari -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ (an) - indirect transmission term. Al-Zuhri is classified as a mudallis by some scholars (category 3 in Ibn Hajar's classification)",
+          "impact": "Al-Zuhri is widely considered extremely reliable despite his occasional tadlis, so this does not significantly affect the grade. However, it is noted for thoroughness."
+        },
+        {
+          "issue": "Multiple instances of عَنْ (an) in the chain rather than explicit transmission terms",
+          "impact": "While all narrators are reliable, the use of indirect transmission terms throughout reduces the chain strength slightly from Perfect to Acceptable."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibited earnings",
+        "Dog trade",
+        "Prostitution",
+        "Divination and soothsaying"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ ، عَنْ أَبِي مَسْعُودٍ الْأَنْصَارِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنْ ثَمَنِ الْكَلْبِ وَمَهْرِ الْبَغِيِّ وَحُلْوَانِ الْكَاهِنِ \" . يَعْنِي بِمَهْرِ الْبَغِيِّ : مَا تُعْطَاهُ الْمَرْأَةُ عَلَى الزِّنَا . وَحُلْوَانُ الْكَاهِنِ : رَشْوَتُهُ وَمَا يُعْطَى عَلَى أَنْ يَتَكَهَّنَ . قَالَ مَالِك : أَكْرَهُ ثَمَنَ الْكَلْبِ الضَّارِي وَغَيْرِ الضَّارِي لِنَهْيِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ثَمَنِ الْكَلْبِ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1597",
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9303,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that the Messenger of Allah ﷺ forbade selling what you do not have.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Missing link(s) between Malik and the Prophet ﷺ - reported as 'balaghahu' (it reached him)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' (it reached him) indicating disconnection",
+          "impact": "Significant - missing narrator(s) between Malik and the Prophet ﷺ weakens the chain substantially. This is a mursal hadith."
+        },
+        {
+          "issue": "Complete chain not provided",
+          "impact": "Without knowing the intermediate narrators, full reliability assessment cannot be made"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prohibition of selling what one doesn't possess",
+        "Commercial transactions"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنْ بَيْعِ مَا لَيْسَ عِنْدَكَ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1599",
+      "grade": "Mursal (disconnected)"
+    },
+    {
+      "hadith_id": 9305,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from al-Qasim ibn Muhammad that he said: I advanced to a man in cloth to a specified term, then he brought me what I advanced to him in, so I disliked to take it from him.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik and Yahya ibn Sa'id use 'an (عَنْ) transmission terms",
+          "impact": "Minimal - all narrators highly reliable"
+        },
+        {
+          "issue": "Maqtu' narration (statement of Tabi'i)",
+          "impact": "Personal practice of al-Qasim ibn Muhammad, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Forward contracts in goods",
+        "Incident of al-Qasim refusing to accept cloth from forward contract"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ الْقَاسِمِ بْنِ مُحَمَّدٍ ، أَنَّهُ قَالَ : أَسْلَفْتُ رَجُلًا فِي سُقُطٍ إِلَى أَجَلٍ مُسَمًّى ، فَجَاءَنِي بِمَا أَسْلَفْتُهُ فِيهِ فَكَرِهْتُ أَخْذَهُ مِنْهُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1601",
+      "grade": "Maqtu' Sahih"
+    },
+    {
+      "hadith_id": 9307,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik said: The practice among us regarding what is weighed from other than gold and silver, such as copper, brass, lead, iron, and what is similar to that, is that there is no harm in buying one of these types with another type hand to hand or on credit, and there is no harm in buying one of these types with another, two for one, hand to hand. But if it is on credit, it is not permissible. [Continued juristic explanation by Malik]",
+      "chains": [
+        {
+          "type": "statement of Malik",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Malik's own juristic opinion, not a hadith",
+          "impact": "Not a narration from the Prophet ﷺ or Companions, but Malik's legal reasoning"
+        }
+      ],
+      "IISGrade": "Not Applicable (Juristic Opinion)",
+      "Topics": [
+        "Exchange of copper and iron",
+        "Metal trade regulations",
+        "Juristic methodology on commercial transactions"
+      ],
+      "arabicText": "قَالَ مَالِك : الْأَمْرُ عِنْدَنَا فِيمَا كَانَ مِمَّا يُوزَنُ مِنْ غَيْرِ الذَّهَبِ وَالْفِضَّةِ مِنَ النُّحَاسِ وَالشَّبَهِ وَالرَّصَاصِ وَالْحَدِيدِ وَمَا أَشْبَهَ ذَلِكَ : أَنَّهُ لَا بَأْسَ بِبَيْعِ شَيْءٍ مِنْهُ بِمِثْلِهِ يَدًا بِيَدٍ أَوْ إِلَى أَجَلٍ ، وَلَا بَأْسَ بِبَيْعِ شَيْءٍ مِنْهُ بِغَيْرِهِ اثْنَيْنِ بِوَاحِدٍ يَدًا بِيَدٍ ، فَأَمَّا إِلَى أَجَلٍ فَلَا يَحِلُّ ...",
+      "collection": "Muwatta Malik",
+      "reference_number": "1603",
+      "grade": "Malik's Opinion"
+    },
+    {
+      "hadith_id": 9309,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that the Messenger of Allah ﷺ forbade two sales in one sale.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Missing link(s) between Malik and the Prophet ﷺ - reported as 'balaghahu'"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' indicating disconnection",
+          "impact": "Significant - missing narrator(s) between Malik and the Prophet ﷺ weakens the chain. This is a mursal hadith."
+        },
+        {
+          "issue": "Complete chain not provided",
+          "impact": "Without knowing the intermediate narrators, full reliability assessment cannot be made"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prohibition of two sales in one transaction",
+        "Commercial transaction regulations"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنْ بَيْعَتَيْنِ فِي بَيْعَةٍ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1605",
+      "grade": "Mursal (disconnected)"
+    },
+    {
+      "hadith_id": 9310,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that a man said to another man: Buy this camel for me with cash so that I may buy it from you on credit.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Missing narrator(s) - reported as 'balaghahu', unclear who the men involved were"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> incident"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' indicating disconnection",
+          "impact": "Significant - missing narrator(s) weakens the chain"
+        },
+        {
+          "issue": "Unclear whether this is a prophetic prohibition or just an incident",
+          "impact": "The narration describes an incident without clear attribution to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of buying goods for resale on credit",
+        "Commercial intermediary transactions"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ رَجُلًا قَالَ لِرَجُلٍ : ابْتَعْ لِي هَذَا الْبَعِيرَ بِنَقْدٍ حَتَّى أَبْتَاعَهُ مِنْكَ إِلَى أَجَلٍ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1606",
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 9311,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that al-Qasim ibn Muhammad was asked about a man who bought goods for ten dinars cash or fifteen dinars on credit. He disliked that and forbade it.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Balagh form - disconnection in chain before Malik"
+              ]
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سُئِلَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Missing link(s) between Malik and al-Qasim - reported as 'balaghahu'"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [missing narrator(s)] -> al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain - Malik uses 'balaghahu' indicating disconnection",
+          "impact": "Moderate - missing narrator(s) between Malik and al-Qasim weakens the chain"
+        },
+        {
+          "issue": "Maqtu' narration (legal opinion of Tabi'i)",
+          "impact": "Fatwa of al-Qasim ibn Muhammad, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Two-price sales",
+        "Incident of al-Qasim forbidding dual-price transactions"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ سُئِلَ عَنْ \" رَجُلٍ اشْتَرَى سِلْعَةً بِعَشَرَةِ دَنَانِيرَ نَقْدًا أَوْ بِخَمْسَةَ عَشَرَ دِينَارًا إِلَى أَجَلٍ \" فَكَرِهَ ذَلِكَ وَنَهَى عَنْهُ",
+      "collection": "Muwatta Malik",
+      "reference_number": "1607",
+      "grade": "Maqtu' Da'if (due to disconnection)"
+    },
+    {
+      "hadith_id": 9313,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Sa'id ibn al-Musayyab that the Messenger of Allah ﷺ forbade the sale that involves uncertainty (gharar).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hazim ibn Dinar",
+              "full_name": "Salama ibn Dinar Abu Hazim al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "Mursal - Sa'id narrating from the Prophet ﷺ without mentioning intermediary Companion"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Sa'id ibn al-Musayyab narrates from the Prophet ﷺ with أَنَّ without mentioning the Companion - this is mursal"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu Hazim -> Sa'id ibn al-Musayyab -> [missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith - Sa'id ibn al-Musayyab (Tabi'i) narrates from the Prophet ﷺ without mentioning the Companion",
+          "impact": "Significant - missing Companion in the chain weakens it. However, Sa'id's mursal hadiths are considered among the strongest mursal narrations."
+        },
+        {
+          "issue": "Multiple instances of عَنْ and أَنَّ in the chain",
+          "impact": "Indirect transmission terms, but narrators are reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of uncertainty in sales (bay' al-gharar)",
+        "Commercial transaction ethics"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ أَبِي حَازِمِ بْنِ دِينَارٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنْ بَيْعِ الْغَرَرِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": "1609",
+      "grade": "Hasan (Mursal but from Sa'id al-Musayyab)"
+    },
+    {
+      "hadith_id": 9315,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Abdullah ibn Umar that the Messenger of Allah ﷺ forbade mulamasah and munabazah. Mulamasah is when a man touches a garment and is obliged to buy it without examining it or turning it over. And munabazah is when a man throws his garment to another man and the other throws his garment without either of them examining the garment of his companion, and this is their sale.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Seventh Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Yahya ibn Habban",
+              "full_name": "Muhammad ibn Yahya ibn Habban al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Muhammad ibn Yahya ibn Habban and Abu al-Zinad -> al-A'raj -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of عَنْ (an) throughout the chain",
+          "impact": "Minimal - all narrators are highly reliable and well-known"
+        },
+        {
+          "issue": "Chain includes dual narrators reporting to Malik",
+          "impact": "None - strengthens the narration as multiple paths exist"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prohibition of mulamasah (touch-based sales)",
+        "Prohibition of munabazah (throw-based sales)",
+        "Commercial transaction regulations",
+        "Description of jahiliyyah sale practices"
+      ],
+      "arabicText": "حَدَّثَنَا يَحْيَى ، عَنْ مَالِك ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ ، وَعَنْ أَبِي الزِّنَادِ ، عَنِ الْأَعْرَجِ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنِ الْمُلَامَسَةِ وَالْمُنَابَذَةِ \" . وَالْمُلَامَسَةُ : أَنْ يَلْمِسَ الرَّجُلُ الثَّوْبَ وَقَدْ وَجَبَ لَهُ إِذَا لَمَسَهُ وَلَمْ يَنْشُرْهُ وَلَمْ يَتَأَمَّلْهُ . وَالْمُنَابَذَةُ : أَنْ يَنْبِذَ الرَّجُلُ إِلَى الرَّجُلِ ثَوْبَهُ ، وَيَنْبِذَ إِلَيْهِ الْآخَرُ ثَوْبَهُ عَلَى غَيْرِ تَأَمُّلٍ وَاحِدٍ مِنْهُمَا لِثَوْبِ صَاحِبِهِ وَقَدْ وَجَبَ الْبَيْعُ بَيْنَهُمَا",
+      "collection": "Muwatta Malik",
+      "reference_number": "1611",
+      "grade": "Sahih"
+    }
+  ]
+}

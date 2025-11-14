@@ -1,0 +1,572 @@
+{
+  "batch_number": 2,
+  "file_number": 70,
+  "record_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 10036,
+      "english_translation": "Narrated from Abdullah ibn Mas'ud that he used to say: 'You must adhere to truthfulness, for indeed truthfulness leads to righteousness, and righteousness leads to Paradise. And beware of lying, for indeed lying leads to wickedness, and wickedness leads to the Fire. Do you not see that it is said: he spoke the truth and was righteous, and he lied and was wicked.' And it reached Malik that it was said to Luqman: 'What has brought you to what we see?' - meaning virtue. So Luqman said: 'Truthfulness in speech, fulfilling the trust, and leaving what does not concern me.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain is munqati' (disconnected) - Malik uses 'balagahu' (بَلَغَهُ) indicating he did not receive this directly from a named source",
+            "Missing intermediary narrators between Malik and Abdullah ibn Mas'ud",
+            "This is a mawquf report (statement of companion, not attributed to the Prophet ﷺ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (unknown intermediaries) -> Abdullah ibn Mas'ud"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain (munqati') - Malik uses balagahu (بَلَغَهُ) without naming his source",
+          "impact": "Major disconnection in the chain makes this report weak as a hadith, though it is a statement of Abdullah ibn Mas'ud"
+        },
+        {
+          "issue": "This is a mawquf report, not marfu' to the Prophet ﷺ",
+          "impact": "This is a statement attributed to the companion Abdullah ibn Mas'ud, not to the Prophet ﷺ"
+        },
+        {
+          "issue": "The second part about Luqman is also reported via balagahu",
+          "impact": "Further disconnection in the narration about Luqman"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtue of Truthfulness",
+        "Warning Against Lying",
+        "Connection Between Truthfulness and Righteousness",
+        "Incident of Luqman being asked about his virtue"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ ، كَانَ يَقُولُ : \" عَلَيْكُمْ بِالصِّدْقِ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ ، وَالْبِرَّ يَهْدِي إِلَى الْجَنَّةِ ، وَإِيَّاكُمْ وَالْكَذِبَ فَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ ، وَالْفُجُورَ يَهْدِي إِلَى النَّارِ ، أَلَا تَرَى أَنَّهُ يُقَالُ : صَدَقَ وَبَرَّ ، وَكَذَبَ وَفَجَرَ \" . وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّهُ قِيلَ لِلُقْمَانَ : مَا بَلَغَ بِكَ مَا نَرَى يُرِيدُونَ الْفَضْلَ ، فَقَالَ لُقْمَانُ : صِدْقُ الْحَدِيثِ ، وَأَدَاءُ الْأَمَانَةِ ، وَتَرْكُ مَا لَا يَعْنِينِي",
+      "collection": "Muwatta Malik",
+      "reference_number": 2332,
+      "grade": "Mawquf Munqati'"
+    },
+    {
+      "hadith_id": 10037,
+      "english_translation": "Narrated from Abdullah ibn Mas'ud that he used to say: 'The servant continues to lie and a black spot is imprinted upon his heart, until his entire heart becomes black, and he is written with Allah among the liars.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain is munqati' (disconnected) - Malik uses 'balagahu' (بَلَغَهُ) indicating missing intermediaries",
+            "Missing narrators between Malik and Abdullah ibn Mas'ud",
+            "This is a mawquf report (statement of companion, not from the Prophet ﷺ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (unknown intermediaries) -> Abdullah ibn Mas'ud"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain (munqati') - Malik uses balagahu (بَلَغَهُ) without naming his source",
+          "impact": "Major disconnection in the chain makes this report weak"
+        },
+        {
+          "issue": "This is a mawquf report, not marfu' to the Prophet ﷺ",
+          "impact": "This is a statement attributed to the companion Abdullah ibn Mas'ud, not directly to the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Consequences of Lying",
+        "Effect of Sins on the Heart",
+        "Recording of Deeds"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ ، كَانَ يَقُولُ : \" لَا يَزَالُ الْعَبْدُ يَكْذِبُ وَتُنْكَتُ فِي قَلْبِهِ نُكْتَةٌ سَوْدَاءُ حَتَّى يَسْوَدَّ قَلْبُهُ كُلُّهُ ، فَيُكْتَبَ عِنْدَ اللَّهِ مِنَ الْكَاذِبِينَ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2333,
+      "grade": "Mawquf Munqati'"
+    },
+    {
+      "hadith_id": 10038,
+      "english_translation": "Narrated from Safwan ibn Sulaym that he said: It was said to the Messenger of Allah ﷺ: 'Can a believer be cowardly?' He said: 'Yes.' Then it was said to him: 'Can a believer be miserly?' He said: 'Yes.' Then it was said to him: 'Can a believer be a liar?' He said: 'No.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safwan ibn Sulaym",
+              "full_name": "Safwan ibn Sulaym ibn Safwan al-Madani al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Reports this as mursal (he did not meet the Prophet ﷺ)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - Safwan ibn Sulaym is a tabi'i who did not meet the Prophet ﷺ",
+            "Missing link between Safwan and the Prophet ﷺ",
+            "Uses 'qila' (قِيلَ - it was said) indicating indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Safwan ibn Sulaym -> (missing companion) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith - Safwan ibn Sulaym did not meet the Prophet ﷺ and does not name the companion who transmitted this",
+          "impact": "Significant weakness due to missing link in the chain"
+        },
+        {
+          "issue": "The use of 'qila' (قِيلَ - it was said) indicates Safwan did not witness this directly",
+          "impact": "Confirms the disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Characteristics that Can Exist in a Believer",
+        "Incompatibility of Lying with True Faith",
+        "Dialogue about the Nature of Believers"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ ، أَنَّهُ قَالَ : قِيلَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَيَكُونُ الْمُؤْمِنُ جَبَانًا ؟ فَقَالَ : نَعَمْ \" ، فَقِيلَ لَهُ : \" أَيَكُونُ الْمُؤْمِنُ بَخِيلًا ؟ فَقَالَ : نَعَمْ \" ، فَقِيلَ لَهُ : \" أَيَكُونُ الْمُؤْمِنُ كَذَّابًا ؟ فَقَالَ : لَا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2334,
+      "grade": "Mursal"
+    },
+    {
+      "hadith_id": 10040,
+      "english_translation": "Narrated by Abu Hurayrah that the Messenger of Allah ﷺ said: 'Indeed, Allah is pleased with three things for you and displeased with three things for you. He is pleased for you that you worship Him and not associate anything with Him, and that you hold fast to the rope of Allah all together, and that you give sincere advice to the one whom Allah has put in charge of your affairs. And He is displeased for you with idle talk, wasting wealth, and excessive questioning.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Suhayl ibn Abi Salih",
+              "full_name": "Suhayl ibn Abi Salih Dhakwan al-Samman al-Madani",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Had some memory weakness (sa'at hifzuhu)"
+              ]
+            },
+            {
+              "name": "Abu Salih",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ) which can indicate indirect transmission",
+            "Suhayl ibn Abi Salih had memory weakness according to some scholars"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Suhayl ibn Abi Salih -> Abu Salih (his father) -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suhayl ibn Abi Salih is graded as Saduq with some memory issues (sa'at hifzuhu)",
+          "impact": "While generally acceptable, his narrations are not of the highest grade due to documented memory weakness"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain which can potentially indicate indirect transmission",
+          "impact": "Minor concern as none of the narrators are known mudallisun, but worth noting"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "What Pleases and Displeases Allah",
+        "Worship and Monotheism",
+        "Unity of Muslims",
+        "Sincere Advice to Leaders",
+        "Warning Against Idle Talk",
+        "Warning Against Wasting Wealth",
+        "Warning Against Excessive Questioning"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" إِنَّ اللَّهَ يَرْضَى لَكُمْ ثَلَاثًا ، وَيَسْخَطُ لَكُمْ ثَلَاثًا ، يَرْضَى لَكُمْ أَنْ تَعْبُدُوهُ ، وَلَا تُشْرِكُوا بِهِ شَيْئًا ، وَأَنْ تَعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا ، وَأَنْ تَنَاصَحُوا مَنْ وَلَّاهُ اللَّهُ أَمْرَكُمْ ، وَيَسْخَطُ لَكُمْ قِيلَ وَقَالَ ، وَإِضَاعَةَ الْمَالِ ، وَكَثْرَةَ السُّؤَالِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2336,
+      "grade": "Hasan"
+    },
+    {
+      "hadith_id": 10041,
+      "english_translation": "Narrated by Abu Hurayrah that the Messenger of Allah ﷺ said: 'Among the worst of people is the two-faced one, who comes to these people with one face and to those people with another face.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Qurashi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "Very minor concern as all narrators are highly reliable and none are known mudallisun - this chain is known as the 'Golden Chain of Malik' (silsilat al-dhahab)"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Warning Against Two-Facedness",
+        "Hypocrisy in Dealing with People",
+        "Characteristics of Evil People"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مِنْ شَرِّ النَّاسِ ذُو الْوَجْهَيْنِ : الَّذِي يَأْتِي هَؤُلَاءِ بِوَجْهٍ وَهَؤُلَاءِ بِوَجْهٍ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2337,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 10043,
+      "english_translation": "Narrated from Umm Salamah, the wife of the Prophet ﷺ, that she said: 'O Messenger of Allah, will we be destroyed while there are righteous people among us?' The Messenger of Allah ﷺ said: 'Yes, if wickedness becomes abundant.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain is munqati' (disconnected) - Malik uses 'balagahu' (بَلَغَهُ) without naming the source",
+            "Missing intermediary narrators between Malik and Umm Salamah",
+            "Complete disconnection as Malik did not meet Umm Salamah (she died around 62 AH, Malik was born 93 AH)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (unknown intermediaries) -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain (munqati') - Malik uses balagahu (بَلَغَهُ) without naming his source",
+          "impact": "Major disconnection in the chain makes this report weak"
+        },
+        {
+          "issue": "Missing multiple intermediaries between Malik and Umm Salamah",
+          "impact": "Impossible for Malik to have direct knowledge of this narration as Umm Salamah died decades before he was born"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Collective Punishment When Evil Spreads",
+        "Fate of Righteous in Times of Widespread Evil",
+        "Dialogue of Umm Salamah with the Prophet ﷺ"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ أُمَّ سَلَمَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَتْ : يَا رَسُولَ اللَّهِ أَنَهْلِكُ وَفِينَا الصَّالِحُونَ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : نَعَمْ \" إِذَا كَثُرَ الْخَبَثُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2339,
+      "grade": "Munqati'"
+    },
+    {
+      "hadith_id": 10044,
+      "english_translation": "Narrated from Isma'il ibn Abi Hakim that he heard Umar ibn Abd al-Aziz saying: 'It used to be said: Indeed, Allah the Blessed and Exalted does not punish the general public for the sin of the elite, but when evil is done openly, then all of them deserve punishment.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Isma'il ibn Abi Hakim",
+              "full_name": "Isma'il ibn Abi Hakim al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Abd al-Aziz",
+              "full_name": "Umar ibn Abd al-Aziz ibn Marwan al-Umawi",
+              "grade": "Tabi'i Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is mawquf - a statement of Umar ibn Abd al-Aziz (a tabi'i), not from the Prophet ﷺ",
+            "Umar ibn Abd al-Aziz quotes what 'used to be said' (kana yuqal), not a direct hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Isma'il ibn Abi Hakim -> (heard) Umar ibn Abd al-Aziz"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report from a tabi'i (Umar ibn Abd al-Aziz), not marfu' to the Prophet ﷺ",
+          "impact": "Not a prophetic hadith but rather the statement of a righteous tabi'i and caliph"
+        },
+        {
+          "issue": "Umar ibn Abd al-Aziz himself attributes this to an unspecified source ('kana yuqal' - it used to be said)",
+          "impact": "The original source of this wisdom is unknown, though the chain to Umar ibn Abd al-Aziz is sound"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Collective Responsibility for Public Evil",
+        "When the General Public Deserves Punishment",
+        "Statement of Umar ibn Abd al-Aziz on Divine Justice"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ إِسْمَاعِيل بْنِ أَبِي حَكِيمٍ ، أَنَّهُ سَمِعَ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ ، يَقُولُ : \" كَانَ يُقَالُ : إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى لَا يُعَذِّبُ الْعَامَّةَ بِذَنْبِ الْخَاصَّةِ ، وَلَكِنْ إِذَا عُمِلَ الْمُنْكَرُ جِهَارًا اسْتَحَقُّوا الْعُقُوبَةَ كُلُّهُمْ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2340,
+      "grade": "Sahih as Mawquf"
+    },
+    {
+      "hadith_id": 10046,
+      "english_translation": "Narrated by Anas ibn Malik who said: I heard Umar ibn al-Khattab, and I went out with him until he entered a garden, and I heard him while there was a wall between me and him, and he was in the interior of the garden saying: 'Umar ibn al-Khattab, Commander of the Believers, well done, well done! By Allah, you will surely fear Allah or He will surely punish you.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talhah",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talhah Zayd ibn Sahl al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ishaq ibn Abdullah ibn Abi Talhah -> Anas ibn Malik -> (heard) Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf report - statement of the companion Umar ibn al-Khattab, not from the Prophet ﷺ",
+          "impact": "This is an incident showing Umar's self-accountability and fear of Allah, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Umar ibn al-Khattab reminding himself to fear Allah",
+        "Self-Accountability of Leaders",
+        "Umar's Humility Despite His Position",
+        "Fear of Allah's Punishment"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، قَالَ : سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ ، وَخَرَجْتُ مَعَهُ حَتَّى دَخَلَ حَائِطًا فَسَمِعْتُهُ ، وَهُوَ يَقُولُ وَبَيْنِي وَبَيْنَهُ جِدَارٌ وَهُوَ فِي جَوْفِ الْحَائِطِ : عُمَرُ بْنُ الْخَطَّابِ أَمِيرُ الْمُؤْمِنِينَ بَخٍ بَخٍ وَاللَّهِ \" لَتَتَّقِيَنَّ اللَّهَ أَوْ لَيُعَذِّبَنَّكَ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2342,
+      "grade": "Sahih as Mawquf"
+    },
+    {
+      "hadith_id": 10047,
+      "english_translation": "Al-Qasim ibn Muhammad used to say: 'I met the people (the early generation) and they did not marvel at words.' Malik said: He meant by that actions - one should look at his actions and not look at his words.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain is munqati' (disconnected) - Malik uses 'balagahu' (بَلَغَنِي) without naming his source",
+            "Missing intermediary between Malik and al-Qasim ibn Muhammad",
+            "This is a mawquf statement of a tabi'i, not from Prophet ﷺ or companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> (unknown intermediary) -> al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain (munqati') - Malik uses 'balagahu' (بَلَغَنِي) without naming his source",
+          "impact": "Weakness in the chain to al-Qasim ibn Muhammad"
+        },
+        {
+          "issue": "This is a mawquf statement of a tabi'i (al-Qasim ibn Muhammad), not from the Prophet ﷺ or a companion",
+          "impact": "Not a hadith but rather wisdom from a prominent tabi'i of Madinah"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Importance of Actions Over Words",
+        "Practice of the Early Generation",
+        "Statement of al-Qasim ibn Muhammad on Religious Practice"
+      ],
+      "arabicText": "قَالَ مَالِك وَبَلَغَنِي ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ ، كَانَ يَقُولُ : \" أَدْرَكْتُ النَّاسَ وَمَا يَعْجَبُونَ بِالْقَوْلِ \" . قَالَ مَالِك : يُرِيدُ بِذَلِكَ الْعَمَلَ ، إِنَّمَا يُنْظَرُ إِلَى عَمَلِهِ وَلَا يُنْظَرُ إِلَى قَوْلِهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 2343,
+      "grade": "Munqati' as Mawquf"
+    },
+    {
+      "hadith_id": 10049,
+      "english_translation": "Amir ibn Abdullah ibn al-Zubayr used to, when he heard thunder, stop talking and say: 'Glory be to Him whom the thunder glorifies with His praise, and the angels out of fear of Him.' Then he would say: 'Indeed, this is a severe warning for the people of the earth.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amir ibn Abdullah ibn al-Zubayr",
+              "full_name": "Amir ibn Abdullah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is maqtu' - a statement of a tabi'i (Amir ibn Abdullah ibn al-Zubayr), not from Prophet ﷺ or companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Amir ibn Abdullah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' report - statement and practice of a tabi'i, not from the Prophet ﷺ or a companion",
+          "impact": "Not a hadith but rather the practice of Amir ibn Abdullah ibn al-Zubayr, though it references Quranic verse (13:13)"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Supplication Upon Hearing Thunder",
+        "Practice of Amir ibn Abdullah ibn al-Zubayr",
+        "Glorification of Allah During Natural Phenomena",
+        "Warning Signs in Natural Events"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ ، أَنَّهُ كَانَ إِذَا سَمِعَ الرَّعْدَ تَرَكَ الْحَدِيثَ ، وَقَالَ : \" سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلَائِكَةُ مِنْ خِيفَتِهِ ، ثُمَّ يَقُولُ : إِنَّ هَذَا لَوَعِيدٌ لِأَهْلِ الْأَرْضِ شَدِيدٌ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 2345,
+      "grade": "Sahih as Maqtu'"
+    }
+  ]
+}

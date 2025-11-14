@@ -1,0 +1,887 @@
+{
+  "batch_number": 2,
+  "file_number": 59,
+  "processed_count": 13,
+  "hadiths": [
+    {
+      "hadith_id": 9871,
+      "original_number": 2167,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 عَمْرِو بْنِ سَعْدِ بْنِ مُعَاذٍ L6203 /26 ، عَنْ /93 جَدَّتِهِ L2577 /93 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" يَا نِسَاءَ الْمُؤْمِنَاتِ /20 لَا تَحْقِرَنَّ إِحْدَاكُنَّ لِجَارَتِهَا وَلَوْ كُرَاعَ شَاةٍ مُحْرَقًا \" /27",
+      "english_translation": "Narrated from his grandmother: The Messenger of Allah ﷺ said: 'O women of the believers, let not any one of you despise (a gift to give) to her neighbor, even if it be a scorched sheep's trotter.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Sa'd ibn Mu'adh",
+              "full_name": "Amr ibn Sa'd ibn Mu'adh al-Ansari",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Limited attestation"
+              ]
+            },
+            {
+              "name": "His grandmother",
+              "full_name": "Kabshah bint Ka'b ibn Malik al-Ansariyyah (grandmother of Amr ibn Sa'd)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of عَنْ throughout the chain from Malik onward"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Zayd ibn Aslam -> Amr ibn Sa'd ibn Mu'adh -> His grandmother (Kabshah bint Ka'b) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses عَنْ from Zayd ibn Aslam, but Malik is generally considered reliable and not a mudallis in the problematic sense",
+          "impact": "Minimal - Malik's narrations are well-established"
+        },
+        {
+          "issue": "Multiple عَنْ terms in the chain from reliable narrators",
+          "impact": "Minimal - The narrators are generally reliable"
+        },
+        {
+          "issue": "Amr ibn Sa'd ibn Mu'adh has limited attestation, graded as Saduq by most scholars",
+          "impact": "Minor - reduces chain strength slightly but not significantly"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Neighborly Relations",
+        "Charity and Giving",
+        "Women's Conduct",
+        "Value of Small Gifts"
+      ]
+    },
+    {
+      "hadith_id": 9872,
+      "original_number": 2168,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ L4632 /94 ، أَنَّهُ قَالَ : /27 قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" قَاتَلَ اللَّهُ الْيَهُودَ نُهُوا عَنْ أَكْلِ الشَّحْمِ فَبَاعُوهُ فَأَكَلُوا ثَمَنَهُ \" /27 . وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 أَنَّهُ بَلَغَهُ ، أَنَّ /56 عِيسَى ابْنَ مَرْيَمَ /56 ، كَانَ يَقُولُ : \" يَا بَنِي إِسْرَائِيلَ عَلَيْكُمْ بِالْمَاءِ الْقَرَاحِ وَالْبَقْلِ الْبَرِّيِّ وَخُبْزِ الشَّعِيرِ ، وَإِيَّاكُمْ وَخُبْزَ الْبُرِّ ، فَإِنَّكُمْ لَنْ تَقُومُوا بِشُكْرِهِ \"",
+      "english_translation": "Abdullah ibn Abi Bakr said: The Messenger of Allah ﷺ said: 'May Allah curse the Jews. They were forbidden to eat fat, so they sold it and ate its price.' And it reached Malik that Isa ibn Maryam used to say: 'O Children of Israel, you must have pure water, wild herbs, and barley bread, and beware of wheat bread, for you will not be able to fulfill its gratitude.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Abdullah ibn Abi Bakr did not meet the Prophet, he says 'qala Rasulullah' without mentioning intermediary"
+          ]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balaghat form - disconnected chain"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Balaghat (بَلَغَهُ) - completely disconnected chain, statement attributed to Isa ibn Maryam"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abdullah ibn Abi Bakr -> Prophet Muhammad ﷺ (Mursal)",
+        "Yahya ibn Yahya -> Malik -> (unknown intermediaries) -> Isa ibn Maryam (Balaghat)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First narration is Mursal - Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm was born after the Prophet's death and never met him",
+          "impact": "Significant - Clear disconnection in the chain"
+        },
+        {
+          "issue": "Second narration uses بَلَغَهُ (balaghat) form indicating Malik heard it without a connected chain",
+          "impact": "Major - This is a disconnected report about Isa ibn Maryam"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Jews Circumventing Divine Commandments",
+        "Simple Living and Asceticism",
+        "Wisdom of Isa ibn Maryam"
+      ]
+    },
+    {
+      "hadith_id": 9873,
+      "original_number": 2169,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 أَنَّهُ بَلَغَهُ ، /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" دَخَلَ الْمَسْجِدَ فَوَجَدَ فِيهِ أَبَا بَكْرٍ الصِّدِّيقَ ، وَعُمَرَ بْنَ الْخَطَّابِ فَسَأَلَهُمَا ، فَقَالَا : أَخْرَجَنَا الْجُوعُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَأَنَا أَخْرَجَنِي الْجُوعُ \" ، فَذَهَبُوا إِلَى أَبِي الْهَيْثَمِ بْنِ التَّيِّهَانِ الْأَنْصَارِيِّ ، فَأَمَرَ لَهُمْ بِشَعِيرٍ عِنْدَهُ يُعْمَلُ وَقَامَ يَذْبَحُ لَهُمْ شَاةً ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" نَكِّبْ عَنْ ذَاتِ الدَّرِّ \" ، فَذَبَحَ لَهُمْ شَاةً وَاسْتَعْذَبَ لَهُمْ مَاءً ، فَعُلِّقَ فِي نَخْلَةٍ ، ثُمَّ أُتُوا بِذَلِكَ الطَّعَامِ ، فَأَكَلُوا مِنْهُ وَشَرِبُوا مِنْ ذَلِكَ الْمَاءِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" لَتُسْأَلُنَّ عَنْ نَعِيمِ هَذَا الْيَوْمِ \"",
+      "english_translation": "It reached Malik that the Messenger of Allah ﷺ entered the mosque and found in it Abu Bakr al-Siddiq and Umar ibn al-Khattab, and he asked them (what brought them out), so they said: 'Hunger drove us out.' So the Messenger of Allah ﷺ said: 'And hunger drove me out too.' So they went to Abu al-Haytham ibn al-Tayyihan al-Ansari, and he ordered barley that he had to be prepared, and he stood up to slaughter a sheep for them. The Messenger of Allah ﷺ said: 'Avoid the one that gives milk.' So he slaughtered a sheep for them and fetched sweet water for them, which was hung on a date palm. Then that food was brought to them, and they ate from it and drank from that water. The Messenger of Allah ﷺ said: 'You will surely be asked about the blessings of this day.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balaghat form - disconnected chain"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Balaghat (بَلَغَهُ) - completely disconnected chain, no intermediaries mentioned"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> (unknown intermediaries) -> Prophet Muhammad ﷺ (Balaghat)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Uses بَلَغَهُ (balaghat) form indicating Malik heard it without a connected chain",
+          "impact": "Major - This is a completely disconnected report"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of the Prophet ﷺ with Abu Bakr and Umar being Hungry",
+        "Hospitality of Abu al-Haytham ibn al-Tayyihan",
+        "Simple Living of the Prophet ﷺ and Companions",
+        "Accountability for Blessings"
+      ]
+    },
+    {
+      "hadith_id": 9874,
+      "original_number": 2170,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ عُمَرَ بْنَ الْخَطَّابِ كَانَ يَأْكُلُ خُبْزًا بِسَمْنٍ ، فَدَعَا رَجُلًا مِنْ أَهْلِ الْبَادِيَةِ فَجَعَلَ يَأْكُلُ وَيَتَّبِعُ بِاللُّقْمَةِ وَضَرَ الصَّحْفَةِ ، فَقَالَ /93 عُمَرُ L5913 /93 : \" كَأَنَّكَ مُقْفِرٌ ؟ \" فَقَالَ : وَاللَّهِ مَا أَكَلْتُ سَمْنًا وَلَا لُكْتُ أَكْلًا بِهِ مُنْذُ كَذَا وَكَذَا ، فَقَالَ عُمَرُ : /20 \" لَا آكُلُ السَّمْنَ حَتَّى يَحْيَا النَّاسُ مِنْ أَوَّلِ مَا يَحْيَوْنَ \" /27 * وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 إِسْحَاق بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ L952 /94 ، عَنْ /93 أَنَسِ بْنِ مَالِكٍ L720 /93 ، أَنَّهُ قَالَ : /27 رَأَيْتُ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 وَهُوَ يَوْمَئِذٍ أَمِيرُ الْمُؤْمِنِينَ ، /20 \" يُطْرَحُ لَهُ صَاعٌ مِنْ تَمْرٍ فَيَأْكُلُهُ حَتَّى يَأْكُلَ حَشَفَهَا \"",
+      "english_translation": "Yahya ibn Sa'id reported that Umar ibn al-Khattab was eating bread with ghee, and he invited a man from the desert people. He (the man) began to eat and follow the bottom of the bowl with the morsel. Umar said: 'It seems you are very hungry?' He said: 'By Allah, I have not eaten ghee nor had food mixed with it for such and such time.' So Umar said: 'I will not eat ghee until the people revive from the first things by which they revive.' And Ishaq ibn Abdullah ibn Abi Talhah narrated from Anas ibn Malik that he said: I saw Umar ibn al-Khattab, and he was at that time Amir al-Mu'minin (Commander of the Believers), a sa' of dates would be brought to him and he would eat it until he ate its inferior dates (hashaf).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Yahya ibn Sa'id did not meet Umar, no intermediary mentioned"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ishaq ibn Abdullah ibn Abi Talhah",
+              "full_name": "Ishaq ibn Abdullah ibn Abi Talhah Zayd ibn Sahl al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple عَنْ terms from reliable narrators"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Yahya ibn Sa'id -> Umar ibn al-Khattab (Mursal)",
+        "Yahya ibn Yahya -> Malik -> Ishaq ibn Abdullah ibn Abi Talhah -> Anas ibn Malik -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain is Mursal - Yahya ibn Sa'id al-Ansari (d. 143 AH) did not meet Umar (d. 23 AH)",
+          "impact": "Significant for first chain - Clear disconnection"
+        },
+        {
+          "issue": "Second chain uses multiple عَنْ terms but narrators are reliable",
+          "impact": "Minimal - Chain is connected and narrators are trustworthy"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Asceticism and Simple Living of Umar",
+        "Leadership Responsibility",
+        "Empathy with the Poor and Needy",
+        "Incident of Umar Abstaining from Luxuries"
+      ]
+    },
+    {
+      "hadith_id": 9875,
+      "original_number": 2171,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /94 ، عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّهُ قَالَ : /27 سُئِلَ /93 عُمَرُ بْنُ الْخَطَّابِ L5913 /93 عَنِ الْجَرَادِ ، فَقَالَ : /20 \" وَدِدْتُ أَنَّ عِنْدِي قَفْعَةً نَأْكُلُ مِنْهُ \"",
+      "english_translation": "Abdullah ibn Umar said: Umar ibn al-Khattab was asked about locusts, and he said: 'I wish I had a basket of them to eat from.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Qurashi al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple عَنْ terms but all narrators are highly reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple عَنْ terms in the chain from Malik, but all narrators are highly reliable and well-known for their precision",
+          "impact": "Minimal - The chain is strong despite the 'an terms"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Permissibility of Eating Locusts",
+        "Food Preferences of Umar"
+      ]
+    },
+    {
+      "hadith_id": 9876,
+      "original_number": 2172,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 مُحَمَّدِ بْنِ عَمْرِو بْنِ حَلْحَلَةَ L7221 /94 ، عَنْ /26 حُمَيْدِ بْنِ مَالِكِ بْنِ خُثَيْمٍ L2548 /26 ، أَنَّهُ قَالَ : /27 كُنْتُ جَالِسًا مَعَ أَبِي هُرَيْرَةَ بِأَرْضِهِ /60 بِالْعَقِيقِ /60 ، فَأَتَاهُ قَوْمٌ مِنْ أَهْلِ /60 الْمَدِينَةِ /60 عَلَى دَوَابٍّ فَنَزَلُوا عِنْدَهُ ، قَالَ حُمَيْدٌ : فَقَالَ /93 أَبُو هُرَيْرَةَ L4396 /93 : \" اذْهَبْ إِلَى أُمِّي ، فَقُلْ : إِنَّ ابْنَكِ يُقْرِئُكِ السَّلَامَ ، وَيَقُولُ : أَطْعِمِينَا شَيْئًا \" ، قَالَ : فَوَضَعَتْ ثَلَاثَةَ أَقْرَاصٍ فِي صَحْفَةٍ وَشَيْئًا مِنْ زَيْتٍ وَمِلْحٍ ، ثُمَّ وَضَعَتْهَا عَلَى رَأْسِي وَحَمَلْتُهَا إِلَيْهِمْ ، فَلَمَّا وَضَعْتُهَا بَيْنَ أَيْدِيهِمْ كَبَّرَ أَبُو هُرَيْرَةَ ، وَقَالَ : \" الْحَمْدُ لِلَّهِ الَّذِي أَشْبَعَنَا مِنَ الْخُبْزِ بَعْدَ أَنْ لَمْ يَكُنْ طَعَامُنَا إِلَّا الْأَسْوَدَيْنِ الْمَاءَ وَالتَّمْرَ \" ، فَلَمْ يُصِبْ الْقَوْمُ مِنَ الطَّعَامِ شَيْئًا ، فَلَمَّا انْصَرَفُوا ، قَالَ : يَا ابْنَ أَخِي /20 \" أَحْسِنْ إِلَى غَنَمِكَ وَامْسَحْ الرُّعَامَ عَنْهَا ، وَأَطِبْ مُرَاحَهَا وَصَلِّ فِي نَاحِيَتِهَا ، فَإِنَّهَا مِنْ دَوَابِّ الْجَنَّةِ ، وَالَّذِي نَفْسِي بِيَدِهِ لَيُوشِكُ أَنْ يَأْتِيَ عَلَى النَّاسِ زَمَانٌ تَكُونُ الثُّلَّةُ مِنَ الْغَنَمِ أَحَبَّ إِلَى صَاحِبِهَا مِنْ دَارِ مَرْوَانَ \"",
+      "english_translation": "Humayd ibn Malik ibn Khuthaym said: I was sitting with Abu Hurairah in his land in al-Aqiq, and some people from the people of Madinah came to him on riding animals and they dismounted near him. Humayd said: Abu Hurairah said (to me): 'Go to my mother and say: Your son sends you greetings and says: Feed us something.' He said: So she placed three loaves in a bowl with some oil and salt, then placed it on my head, and I carried it to them. When I placed it before them, Abu Hurairah said takbir and said: 'Praise be to Allah who has satisfied us with bread after our food was only the two black things: water and dates.' But the people did not have any of the food. When they left, he said: 'O nephew, be good to your sheep, wipe the mucus from them, make their resting place good, and pray in their vicinity, for they are among the animals of Paradise. By the One in Whose hand is my soul, there will soon come upon people a time when a flock of sheep will be more beloved to its owner than the House of Marwan.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Amr ibn Halhalah",
+              "full_name": "Muhammad ibn Amr ibn Halhalah al-Qurashi al-Dari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd ibn Malik ibn Khuthaym",
+              "full_name": "Humayd ibn Malik ibn Khuthaym al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple عَنْ terms but all narrators are reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Muhammad ibn Amr ibn Halhalah -> Humayd ibn Malik ibn Khuthaym -> Abu Hurairah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple عَنْ terms in the chain from Malik, but all narrators are reliable",
+          "impact": "Minimal - The chain is connected and narrators are trustworthy"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Abu Hurairah Hosting Guests",
+        "Simple Living of the Companions",
+        "Care for Animals",
+        "Signs of End Times",
+        "Value of Simple Life over Worldly Positions"
+      ]
+    },
+    {
+      "hadith_id": 9877,
+      "original_number": 2173,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي نُعَيْمٍ وَهْبِ بْنِ كَيْسَانَ L8181 /94 ، قَالَ : /27 أُتِيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِطَعَامٍ وَمَعَهُ /64 رَبِيبُهُ عُمَرُ بْنُ أَبِي سَلَمَةَ /64 ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" سَمِّ اللَّهَ وَكُلْ مِمَّا يَلِيكَ \"",
+      "english_translation": "Abu Nu'aym Wahb ibn Kaysan said: Food was brought to the Messenger of Allah ﷺ and with him was his stepson Umar ibn Abi Salamah, so the Messenger of Allah ﷺ said to him: 'Say Bismillah (In the name of Allah) and eat from what is in front of you.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Wahb ibn Kaysan",
+              "full_name": "Wahb ibn Kaysan Abu Nu'aym al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Mursal - did not meet the Prophet"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Wahb ibn Kaysan did not witness this incident, no intermediary mentioned"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Wahb ibn Kaysan -> Prophet Muhammad ﷺ (Mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal - Wahb ibn Kaysan (d. around 127 AH) did not meet the Prophet ﷺ, likely heard from Umar ibn Abi Salamah or another intermediary",
+          "impact": "Significant - Clear disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Eating Etiquette",
+        "Saying Bismillah Before Eating",
+        "Teaching Children Proper Manners",
+        "Incident of Prophet ﷺ Teaching Umar ibn Abi Salamah"
+      ]
+    },
+    {
+      "hadith_id": 9878,
+      "original_number": 2174,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، أَنَّهُ قَالَ : سَمِعْتُ /26 الْقَاسِمَ بْنَ مُحَمَّدٍ L1598 /26 ، يَقُولُ : /27 جَاءَ رَجُلٌ إِلَى عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، فَقَالَ لَهُ : إِنَّ لِي يَتِيمًا وَلَهُ إِبِلٌ أَفَأَشْرَبُ مِنْ لَبَنِ إِبِلِهِ ؟ فَقَالَ لَهُ /93 ابْنُ عَبَّاسٍ L4883 /93 : /20 \" إِنْ كُنْتَ تَبْغِي ضَالَّةَ إِبِلِهِ ، وَتَهْنَأُ جَرْبَاهَا وَتَلُطُّ حَوْضَهَا وَتَسْقِيهَا يَوْمَ وِرْدِهَا ، فَاشْرَبْ غَيْرَ مُضِرٍّ بِنَسْلٍ وَلَا نَاهِكٍ فِي الْحَلْبِ \"",
+      "english_translation": "Yahya ibn Sa'id said: I heard al-Qasim ibn Muhammad saying: A man came to Abdullah ibn Abbas and said to him: 'I have an orphan and he has camels. May I drink from the milk of his camels?' Ibn Abbas said to him: 'If you search for his lost camels, treat their mange, plaster their watering place, and water them on their watering day, then drink without harming the offspring and without exhausting (the camels) in milking.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Qasim ibn Muhammad",
+              "full_name": "Al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Qurashi al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Yahya ibn Sa'id (heard directly) -> al-Qasim ibn Muhammad -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Yahya ibn Sa'id uses explicit hearing term (سَمِعْتُ) from al-Qasim, strengthening the chain",
+          "impact": "None - This is a strength"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Guardian's Rights over Orphan's Property",
+        "Conditions for Using Orphan's Wealth",
+        "Care for Orphans' Animals"
+      ]
+    },
+    {
+      "hadith_id": 9879,
+      "original_number": 2175,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، /27 عَنْ /94 هِشَامِ بْنِ عُرْوَةَ L8055 /94 ، عَنْ /26 أَبِيهِ L5594 /26 أَنَّهُ كَانَ لَا يُؤْتَى أَبَدًا بِطَعَامٍ وَلَا شَرَابٍ حَتَّى الدَّوَاءُ فَيَطْعَمَهُ أَوْ يَشْرَبَهُ ، إِلَّا قَالَ : /20 \" الْحَمْدُ لِلَّهِ الَّذِي هَدَانَا وَأَطْعَمَنَا وَسَقَانَا وَنَعَّمَنَا اللَّهُ أَكْبَرُ ، اللَّهُمَّ أَلْفَتْنَا نِعْمَتُكَ بِكُلِّ شَرٍّ فَأَصْبَحْنَا مِنْهَا ، وَأَمْسَيْنَا بِكُلِّ خَيْرٍ فَنَسْأَلُكَ تَمَامَهَا وَشُكْرَهَا ، لَا خَيْرَ إِلَّا خَيْرُكَ ، وَلَا إِلَهَ غَيْرُكَ إِلَهَ الصَّالِحِينَ وَرَبَّ الْعَالَمِينَ ، الْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ مَا شَاءَ اللَّهُ وَلَا قُوَّةَ إِلَّا بِاللَّهِ ، اللَّهُمَّ بَارِكْ لَنَا فِيمَا رَزَقْتَنَا وَقِنَا عَذَابَ النَّارِ \" /27 . قَالَ /22 يَحْيَى /22 : سُئِلَ /12 مَالِك /12 هَلْ تَأْكُلُ الْمَرْأَةُ مَعَ غَيْرِ ذِي مَحْرَمٍ مِنْهَا أَوْ مَعَ غُلَامِهَا ؟ فَقَالَ /12 مَالِك /12 : /10 لَيْسَ بِذَلِكَ بَأْسٌ ، إِذَا كَانَ ذَلِكَ عَلَى وَجْهِ مَا يُعْرَفُ لِلْمَرْأَةِ أَنْ تَأْكُلَ مَعَهُ مِنَ الرِّجَالِ ، قَالَ : وَقَدْ تَأْكُلُ الْمَرْأَةُ مَعَ زَوْجِهَا ، وَمَعَ غَيْرِهِ مِمَّنْ يُؤَاكِلُهُ ، أَوْ مَعَ أَخِيهَا عَلَى مِثْلِ ذَلِكَ ، وَيُكْرَهُ لِلْمَرْأَةِ أَنْ تَخْلُوَ مَعَ الرَّجُلِ لَيْسَ بَيْنَهُ وَبَيْنَهَا حُرْمَةٌ",
+      "english_translation": "Hisham ibn Urwah narrated from his father that he would never be brought food or drink, even medicine, to eat or drink, except that he would say: 'Praise be to Allah who guided us, fed us, gave us drink, and blessed us. Allah is the Greatest. O Allah, Your blessings have found us protected from all evil, so we enter the morning by them, and we enter the evening with all good, so we ask You for their completion and gratitude for them. There is no good except Your good, and there is no deity other than You, the God of the righteous and Lord of the worlds. Praise be to Allah, and there is no deity except Allah. Whatever Allah wills (comes to pass), and there is no power except with Allah. O Allah, bless us in what You have provided us and protect us from the punishment of the Fire.' Yahya said: Malik was asked: 'Does a woman eat with a non-mahram or with her servant boy?' Malik said: 'There is no harm in that, if it is in the customary manner known for a woman to eat with men. A woman may eat with her husband and with others whom he dines with, or with her brother in a similar manner. It is disliked for a woman to be alone with a man with whom there is no mahram relationship between them.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Urwah)",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple عَنْ and أَنَّهُ terms but all narrators are highly reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Hisham ibn Urwah -> His father Urwah ibn al-Zubayr (mawquf - Urwah's practice)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Uses عَنْ and أَنَّهُ but all narrators are highly reliable",
+          "impact": "Minimal - The chain is strong"
+        },
+        {
+          "issue": "Second part is Malik's fatwa, not a hadith, recorded by his student Yahya",
+          "impact": "None - This is fiqh opinion, not meant to be prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Supplication Before Eating and Drinking",
+        "Gratitude for Blessings",
+        "Women Eating in Company",
+        "Khalwah (Seclusion) between Non-Mahrams"
+      ]
+    },
+    {
+      "hadith_id": 9881,
+      "original_number": 2177,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 ، قَالَ : /20 \" إِيَّاكُمْ وَاللَّحْمَ فَإِنَّ لَهُ ضَرَاوَةً كَضَرَاوَةِ الْخَمْرِ \"",
+      "english_translation": "Yahya ibn Sa'id reported that Umar ibn al-Khattab said: 'Beware of meat, for it has an addiction like the addiction of wine.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Yahya ibn Sa'id did not meet Umar, no intermediary mentioned"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Yahya ibn Sa'id -> Umar ibn al-Khattab (Mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal - Yahya ibn Sa'id al-Ansari (d. 143 AH) did not meet Umar (d. 23 AH)",
+          "impact": "Significant - Clear disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Moderation in Eating Meat",
+        "Warning Against Excessive Consumption",
+        "Statement of Umar on Simple Living"
+      ]
+    },
+    {
+      "hadith_id": 9882,
+      "original_number": 2178,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ عُمَرَ بْنَ الْخَطَّابِ أَدْرَكَ جَابِرَ بْنَ عَبْدِ اللَّهِ وَمَعَهُ حِمَالُ لَحْمٍ ، فَقَالَ : \" مَا هَذَا ؟ \" فَقَالَ : يَا أَمِيرَ الْمُؤْمِنِينَ ، قَرِمْنَا إِلَى اللَّحْمِ فَاشْتَرَيْتُ بِدِرْهَمٍ لَحْمًا ، فَقَالَ /93 عُمَرُ L5913 /93 : /20 \" أَمَا يُرِيدُ أَحَدُكُمْ أَنْ يَطْوِيَ بَطْنَهُ عَنْ جَارِهِ أَوِ ابْنِ عَمِّهِ ، أَيْنَ تَذْهَبُ عَنْكُمْ هَذِهِ الْآيَةُ : /4 أَذْهَبْتُمْ طَيِّبَاتِكُمْ فِي حَيَاتِكُمُ الدُّنْيَا وَاسْتَمْتَعْتُمْ بِهَا سورة الأحقاف آية 20 /4 ؟ \"",
+      "english_translation": "Yahya ibn Sa'id reported that Umar ibn al-Khattab encountered Jabir ibn Abdullah while he had a load of meat with him. He said: 'What is this?' He said: 'O Commander of the Believers, we had a craving for meat, so I bought meat for a dirham.' Umar said: 'Does not one of you want to fold his stomach (abstain) for the sake of his neighbor or his cousin? Where has this verse gone from you: \"You exhausted your good things in your worldly life and enjoyed them\" (Surah al-Ahqaf: 20)?'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Yahya ibn Sa'id did not witness this incident, no intermediary mentioned"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Yahya ibn Sa'id -> Umar ibn al-Khattab and Jabir (Mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal - Yahya ibn Sa'id al-Ansari (d. 143 AH) did not witness this incident between Umar (d. 23 AH) and Jabir",
+          "impact": "Significant - Clear disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of Umar Rebuking Jabir for Buying Meat",
+        "Asceticism and Simple Living",
+        "Empathy with the Poor",
+        "Saving Rewards for the Hereafter"
+      ]
+    },
+    {
+      "hadith_id": 9884,
+      "original_number": 2180,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَلْبَسُ خَاتَمًا مِنْ ذَهَبٍ ، ثُمَّ قَامَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَنَبَذَهُ ، وَقَالَ : /20 \" لَا أَلْبَسُهُ أَبَدًا \" ، قَالَ : فَنَبَذَ النَّاسُ بِخَوَاتِيمِهِمْ",
+      "english_translation": "Abdullah ibn Umar narrated that the Messenger of Allah ﷺ used to wear a ring of gold, then the Messenger of Allah ﷺ stood up and threw it away, and said: 'I will never wear it again.' He said: So the people threw away their rings.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Qurashi al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple عَنْ and أَنَّ terms but all narrators are highly reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Uses عَنْ and أَنَّ but all narrators are highly reliable and this chain is well-known",
+          "impact": "Minimal - The chain is strong and well-attested"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Prophet ﷺ Throwing Away Gold Ring",
+        "Gold Rings for Men",
+        "Following the Prophet's ﷺ Example"
+      ]
+    },
+    {
+      "hadith_id": 9885,
+      "original_number": 2181,
+      "collection": "Muwatta Malik",
+      "book_name": "كتاب رقم 19",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 صَدَقَةَ بْنِ يَسَارٍ L3928 /94 ، أَنَّهُ قَالَ : /27 سَأَلْتُ /26 سَعِيدَ بْنَ الْمُسَيَّبِ L3299 /26 عَنْ لُبْسِ الْخَاتَمِ ، فَقَالَ : /20 \" الْبَسْهُ ، وَأَخْبِرِ النَّاسَ أَنِّي أَفْتَيْتُكَ بِذَلِكَ \"",
+      "english_translation": "Sadaqah ibn Yasar said: I asked Sa'id ibn al-Musayyab about wearing the ring, and he said: 'Wear it, and inform the people that I gave you this fatwa.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laithi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sadaqah ibn Yasar",
+              "full_name": "Sadaqah ibn Yasar Abu Mudarrah al-Makhzumi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Sadaqah ibn Yasar -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Permissibility of Wearing Rings",
+        "Fatwa of Sa'id ibn al-Musayyab"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "batch_number": 2,
+  "file_number": 85,
+  "processed_hadiths": [
+    {
+      "hadith_id": 10261,
+      "english_translation": "Narrated by Jabir ibn Abdullah: I heard the Messenger of Allah ﷺ commanding that a man should be balanced in prostration, and a man should not prostrate with his forearms spread out like a dog.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Sahnun ibn Sa'id ibn Habib at-Tanukhi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Lahi'ah",
+              "full_name": "Abdullah ibn Lahi'ah ibn Uqbah al-Hadrami",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": ["Lost his books in a fire", "Memory issues", "Considered weak except through certain students"]
+            },
+            {
+              "name": "Abu al-Zubayr al-Makki",
+              "full_name": "Muhammad ibn Muslim ibn Tadrus al-Asadi Abu al-Zubayr al-Makki",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Category 3 mudallis", "Using 'anna' which is indirect", "Requires explicit hearing terms when narrating from Jabir"]
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Lahi'ah is a weak narrator due to his lost books and memory issues", "Abu al-Zubayr is a known mudallis (category 3) using indirect term 'anna' from Jabir"]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn Wahb -> Abdullah ibn Lahi'ah -> Abu al-Zubayr al-Makki -> Jabir ibn Abdullah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Lahi'ah is generally considered Da'if (weak) due to losing his books in a fire and subsequent memory problems",
+          "impact": "This significantly weakens the chain as Ibn Lahi'ah's narrations are only considered potentially acceptable through specific students (al-'Abadilah)"
+        },
+        {
+          "issue": "Abu al-Zubayr al-Makki is a known mudallis (category 3 according to Ibn Hajar's classification) and is using the indirect term 'anna' when narrating from Jabir ibn Abdullah",
+          "impact": "This creates uncertainty about direct hearing. His narrations from Jabir require explicit hearing terms (sama') or verification through reliable paths like al-Layth ibn Sa'd"
+        },
+        {
+          "issue": "The chain contains two significant reliability concerns: a weak narrator (Ibn Lahi'ah) and a mudallis using indirect terminology (Abu al-Zubayr)",
+          "impact": "The combination of these issues substantially impacts the chain's reliability"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Proper Posture in Prostration",
+        "Prohibition of Spreading Forearms Like a Dog in Sujud"
+      ],
+      "arabicText": "قَالَ سَحْنُونٌ ، قَالَ ابْنُ وَهْبٍ : أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ لَهِيعَةَ ، أَنَّ أَبَا الزُّبَيْرِ الْمَكِّيَّ حَدَّثَهُ ، عن جَابِرِ بْنِ عَبْدِ اللَّهِ ، قَالَ : \" سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَأْمُرُ أَنْ يَعْتَدِلَ الرَّجُلُ فِي السُّجُودِ ، وَلَا يَسْجُدُ الرَّجُلُ بَاسِطًا ذِرَاعَيْهِ كَالْكَلْبِ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 184,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10262,
+      "english_translation": "Chapter on Leaning and Reclining in Prayer, and Placing One Hand on the Other",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Title",
+      "Topics": [
+        "Chapter Title: Leaning in Prayer",
+        "Chapter Title: Hand Placement in Prayer"
+      ],
+      "arabicText": "الِاعْتِمَادُ فِي الصَّلَاةِ وَالِاتِّكَاءُ ، وَوَضْعُ الْيَدِ عَلَى الْيَدِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 185,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10263,
+      "english_translation": "Narrated by more than one Companion of the Messenger of Allah ﷺ: They saw the Messenger of Allah ﷺ placing his right hand on his left hand in prayer.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Sahnun ibn Sa'id ibn Habib at-Tanukhi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sufyan al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ghayr wahid (More than one)",
+              "full_name": "Ghayr wahid min ashab Rasul Allah (Multiple Companions)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Unspecified companions - lack of specific identification"]
+            }
+          ],
+          "chainIssues": ["The narrators are not specifically named (ghayr wahid), creating ambiguity about which Companions actually witnessed this"]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn Wahb -> Sufyan al-Thawri -> Multiple unspecified Companions -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain mentions 'ghayr wahid min ashab Rasul Allah' (more than one of the Companions) without specifying who they are",
+          "impact": "While Companions are generally considered reliable, the lack of specific identification makes verification difficult and creates uncertainty about the exact source"
+        },
+        {
+          "issue": "Sufyan al-Thawri is using 'an (عن) from unspecified Companions, which may indicate he didn't hear directly from them but through intermediaries",
+          "impact": "There may be a missing link between Sufyan al-Thawri (Fifth Generation) and the Companions (who would have died long before his time), suggesting potential mursal or disconnection"
+        },
+        {
+          "issue": "Clear generational gap - Sufyan al-Thawri (died 161 AH) could not have met any Companions directly",
+          "impact": "There must be at least one or two generations missing in this chain (Tabi'un and possibly Atba' al-Tabi'in), making this a munqati' (disconnected) chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Hand Placement in Prayer",
+        "Description of the Prophet's ﷺ Prayer Method"
+      ],
+      "arabicText": "قَالَ سَحْنُونٌ ، عن ابْنِ وَهْبٍ ، عن سُفْيَانَ الثَّوْرِيِّ ، عن غَيْرِ وَاحِدٍ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، \" أَنَّهُمْ رَأَوْا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَاضِعًا يَدَهُ الْيُمْنَى عَلَى الْيُسْرَى فِي الصَّلَاةِ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 186,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10264,
+      "english_translation": "Chapter on Prostrating on Clothing, Carpets, Prayer Mats, Small Mats (Khumrah), and Garments that Have Impurity",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Title",
+      "Topics": [
+        "Chapter Title: Prostration on Various Surfaces",
+        "Chapter Title: Prostration on Clothing with Impurity"
+      ],
+      "arabicText": "فِي السُّجُودِ عَلَى الثِّيَابِ وَالْبُسُطِ وَالْمُصَلَّيَاتِ وَالْخُمْرَةِ وَالثَّوْبِ تَكُونُ فِيهِ النَّجَاسَةُ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 187,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10265,
+      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ used to protect himself with the excess of his garments from the cold and heat of the ground.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Sahnun",
+              "full_name": "Sahnun ibn Sa'id ibn Habib at-Tanukhi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rajul (A man)",
+              "full_name": "Rajul (Unidentified narrator)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Completely unidentified narrator", "Majhul al-'Ayn (unknown identity)"]
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains an unidentified narrator (Rajul) which makes the chain majhul and unacceptable"]
+        }
+      ],
+      "plainChains": [
+        "Sahnun -> Ibn Wahb -> Unidentified Man -> Ibn Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain contains 'Rajul' (a man) who is completely unidentified",
+          "impact": "This creates a majhul (unknown) narrator in the chain, which is a critical flaw. Without knowing who this narrator is, we cannot assess his reliability, making the hadith unacceptable"
+        },
+        {
+          "issue": "Ibn Wahb is narrating from an anonymous source, which is unusual for such a reliable narrator",
+          "impact": "This raises questions about why Ibn Wahb did not identify this narrator, possibly indicating weakness or unreliability in this specific transmission path"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Protection from Ground Temperature During Prayer",
+        "Use of Garments in Prostration"
+      ],
+      "arabicText": "سَحْنُونٌ قَالَ : قَالَ ابْنُ وَهْبٍ : أَخْبَرَنِي رَجُلٌ ، عن ابْنِ عَبَّاسٍ \" أَنَّ النَّبِيَّ عَلَيْهِ السَّلامُ كَانَ يَتَّقِي بِفُضُولِ ثِيَابِهِ بَرْدَ الْأَرْضِ وَحَرَّهَا \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 188,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10266,
+      "english_translation": "Chapter on the Prayer of the Sick Person",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Title",
+      "Topics": [
+        "Chapter Title: Prayer of the Sick"
+      ],
+      "arabicText": "فِي صَلَاةِ الْمَرِيضِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 189,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10267,
+      "english_translation": "Narrated by Abdullah ibn Mas'ud: He entered upon his brother Utbah ibn Mas'ud while he was praying on a siwak (toothstick), so he took it from his hand and threw it away, and said: 'Make a gesture with your head as a sign, and make your bowing higher than your prostration.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ali",
+              "full_name": "Ali ibn al-Madini (or possibly another Ali - requires clarification)",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Identification unclear - 'Ali' is too generic without further specification"]
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan al-Thawri (or Sufyan ibn Uyaynah - requires clarification)",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Sufyan is ambiguous - could be al-Thawri or ibn Uyaynah"]
+            },
+            {
+              "name": "Abu Ishaq al-Hamdani",
+              "full_name": "Amr ibn Abdullah al-Hamdani Abu Ishaq al-Sabi'i",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for some ikhtilat in later life", "Known to practice tadlis occasionally"]
+            },
+            {
+              "name": "Yazid ibn Mu'awiyah al-Absi",
+              "full_name": "Yazid ibn Mu'awiyah ibn Dihqan al-Absi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Mas'ud",
+              "full_name": "Abdullah ibn Mas'ud ibn Ghafil al-Hudhali",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu Ishaq al-Hamdani using 'an which could indicate tadlis", "Some ambiguity in narrator identification (Ali, Sufyan)"]
+        }
+      ],
+      "plainChains": [
+        "Ali -> Sufyan -> Abu Ishaq al-Hamdani -> Yazid ibn Mu'awiyah al-Absi -> Abdullah ibn Mas'ud"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Hamdani (Abu Ishaq al-Sabi'i) is known to have experienced ikhtilat (confusion) in his later life and occasionally practiced tadlis",
+          "impact": "His narrations require verification of which students heard from him early (before ikhtilat) and whether he used direct hearing terms. Using 'an raises concerns about potential tadlis"
+        },
+        {
+          "issue": "The narrator 'Ali' is not fully identified - could be Ali ibn al-Madini or another Ali",
+          "impact": "Without proper identification, we cannot fully assess the chain's reliability, though if it's Ali ibn al-Madini, the narration would be stronger"
+        },
+        {
+          "issue": "This is a mawquf narration (stops at the Companion level, not reaching the Prophet ﷺ)",
+          "impact": "While it's an authentic statement from Ibn Mas'ud, it's not directly from the Prophet ﷺ, which affects its categorization though not necessarily its value as guidance"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prayer Method for the Sick",
+        "Gesture Prayer (Ima') Description",
+        "Incident of Abdullah ibn Mas'ud Correcting Prayer Posture"
+      ],
+      "arabicText": "عَلِيٌّ ، عن سُفْيَانَ ، عن أَبِي إِسْحَاقَ الْهَمْدَانِيِّ ، عن يَزِيدَ بْنِ مُعَاوِيَةَ الْعَبْسِيِّ ، قَالَ : \" دَخَلَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ عَلَى أَخِيهِ عُتْبَةَ بْنِ مَسْعُودٍ وَهُوَ يُصَلِّي عَلَى سِوَاكٍ ، فَأَخَذَهُ مِنْ يَدِهِ وَرَمَى بِهِ ، وَقَالَ : أَوْمِ بِرَأْسِكَ إِيمَاءً ، وَاجْعَلْ رُكُوعَكَ أَرْفَعَ مِنْ سُجُودِكَ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 190,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10268,
+      "english_translation": "Narrated by Ibn Umar: He used to say: 'If the sick person cannot prostrate, he should gesture with his head as a sign, and not raise anything to his forehead.' And narrated by Aisha: The Messenger of Allah ﷺ prayed in his house while he was ill, so he prayed sitting.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some scholars noted confusion in his Iraqi narrations late in life"]
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهَا قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Nafi' -> Ibn Umar (statement)",
+        "Malik -> Hisham ibn Urwah -> Urwah -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hisham ibn Urwah is using 'an (عن) which could be indirect, though he is generally reliable",
+          "impact": "Minor concern - Hisham is generally considered trustworthy and this is one of the golden chains (Malik -> Hisham -> Urwah -> Aisha), though some scholars noted confusion in his Iraqi narrations. Since this comes through Malik (in Madinah), it's more reliable"
+        },
+        {
+          "issue": "The first chain is mawquf (stops at Ibn Umar's statement), not marfu' (reaching the Prophet ﷺ)",
+          "impact": "This portion represents Ibn Umar's understanding and practice rather than a direct prophetic command, though it carries weight as a Companion's interpretation"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prayer Method for the Sick",
+        "Gesture Prayer Without Raising Objects",
+        "Description of the Prophet's ﷺ Prayer While Ill"
+      ],
+      "arabicText": "مَالِكٌ ، عن نَافِعٍ ، أَنَّ ابْنَ عُمَرَ ، كَانَ يَقُولُ : \" إِذَا لَمْ يَسْتَطِعِ الْمَرِيضُ السُّجُودَ أَوْمَأَ بِرَأْسِهِ إِيمَاءً ، وَلَمْ يَرْفَعْ إِلَى جَبْهَتِهِ شَيْئًا \" ـ مَالِكٌ ، عن هِشَامِ بْنِ عُرْوَةَ ، عن أَبِيهِ ، عن عَائِشَةَ ، أَنَّهَا قَالَتْ : \" صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَيْتِهِ وَهُوَ شَاكٍ فَصَلَّى جَالِسًا \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 191,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10269,
+      "english_translation": "The Messenger of Allah ﷺ forbade praying on a stick (using it as support).",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Qays",
+              "full_name": "Umar ibn Qays al-Makki (also known as Abu Hatim al-Masisi)",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some scholars considered him Saduq with occasional errors"]
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Classified as mudallis by some (category 3), though generally very reliable", "Using 'anna' which is an indirect term"]
+            }
+          ],
+          "chainIssues": ["This is a mursal chain - al-Zuhri (Third Generation) is narrating directly from the Prophet ﷺ without mentioning any Companion intermediary", "al-Zuhri is using the indirect term 'anna'"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Umar ibn Qays -> Ibn Shihab al-Zuhri -> [missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - al-Zuhri (died 124 AH, Third Generation) is narrating directly from the Prophet ﷺ without mentioning the Companion who heard it",
+          "impact": "Mursal hadiths have a missing link (the Companion is not mentioned), which significantly weakens the chain. Classical scholars differed on accepting mursal narrations"
+        },
+        {
+          "issue": "Al-Zuhri is classified as a mudallis by some scholars and is using the indirect term 'anna'",
+          "impact": "While al-Zuhri is generally very reliable and his tadlis is considered minor, the use of 'anna' combined with the mursal nature creates additional uncertainty"
+        },
+        {
+          "issue": "Umar ibn Qays is considered Saduq (truthful but may have occasional errors) rather than Thiqah",
+          "impact": "This adds another layer of weakness to an already mursal chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Prohibition of Praying While Leaning on a Stick",
+        "Prayer Posture Requirements"
+      ],
+      "arabicText": "ابْنُ وَهْبٍ ، عن عُمَرَ بْنِ قَيْسٍ ، عن ابْنِ شِهَابٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى أَنْ يُصَلِّيَ عَلَى عُودٍ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 192,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10270,
+      "english_translation": "The Messenger of Allah ﷺ said: 'Whoever cannot prostrate should gesture with his head as a sign.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ghayruhu (Someone else)",
+              "full_name": "Ghayruhu (Unidentified narrator)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Completely unidentified", "Majhul al-'Ayn"]
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Classified as mudallis by some (category 3)", "Using 'anna' which is indirect"]
+            }
+          ],
+          "chainIssues": ["Contains unidentified narrator (Ghayruhu)", "This is a mursal chain - al-Zuhri narrating directly from the Prophet ﷺ without mentioning the Companion"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Unidentified person -> Ibn Shihab al-Zuhri -> [missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain contains an unidentified narrator (Ghayruhu/someone else)",
+          "impact": "This creates a majhul narrator in the chain, which is a critical weakness. We cannot assess reliability without knowing the narrator's identity"
+        },
+        {
+          "issue": "This is a mursal hadith - al-Zuhri is narrating directly from the Prophet ﷺ without mentioning the Companion",
+          "impact": "Mursal chains are inherently weak due to the missing link (unnamed Companion)"
+        },
+        {
+          "issue": "Al-Zuhri is using the indirect term 'anna' and is known for some tadlis",
+          "impact": "Combined with the mursal nature and unidentified narrator, this significantly weakens the chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Prayer Method for Those Unable to Prostrate",
+        "Gesture Prayer (Ima') Permission"
+      ],
+      "arabicText": "ابْنِ وَهْبٍ ، وَقَالَ غَيْرُهُ ، عن ابْنِ شِهَابٍ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مَنْ لَمْ يَسْتَطِعْ أَنْ يَسْجُدَ أَوْمَأَ بِرَأْسِهِ إِيمَاءً \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 193,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10271,
+      "english_translation": "Jurisprudential discussion about the prayer of one sitting, including various rulings from Imam Malik and his students regarding voluntary and obligatory prayers while seated.",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Jurisprudential Discussion",
+      "Topics": [
+        "Jurisprudential Rulings on Seated Prayer",
+        "Voluntary Prayer While Seated",
+        "Obligatory Prayer Requirements for the Sick"
+      ],
+      "arabicText": "قَالَ : وَسَأَلْتُ مَالِكًا عن صَلَاةِ الْجَالِسِ إِذَا تَشَهَّدَ فِي الرَّكْعَتَيْنِ ، فَأَرَادَ أَنْ يَقُومَ فِي الرَّكْعَةِ الثَّالِثَةِ ، أَيُكَبِّرُ يَنْوِي تَكْبِيرَةَ الْقِيَامِ ، أَمْ يَقْرَأُ وَلَا يُكَبِّرُ ؟ قَالَ : بَلْ يُكَبِّرُ يَنْوِي بِذَلِكَ الْقِيَامَ قَبْلَ أَنْ يَقْرَأَ...",
+      "collection": "كتاب رقم 20",
+      "reference_number": 194,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10272,
+      "english_translation": "Chapter on Prayer in the Howdah (Camel Litter)",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Title",
+      "Topics": [
+        "Chapter Title: Prayer on Camel Litter"
+      ],
+      "arabicText": "الصَّلَاةُ عَلَى الْمَحْمَلِ",
+      "collection": "كتاب رقم 20",
+      "reference_number": 195,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10273,
+      "english_translation": "Narrated by Abdullah ibn Umar: I saw the Messenger of Allah ﷺ praying on a donkey while heading toward Khaybar as he was traveling. And narrated by Jabir ibn Abdullah, Amir ibn Rabi'ah, and Anas ibn Malik from the Messenger of Allah ﷺ: That he used to pray the voluntary prayers at night during travel on the back of his riding animal wherever it faced him, away from the Qiblah.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Abdullah",
+              "full_name": "Yahya ibn Abdullah ibn Bukayr al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Yahya al-Mazini",
+              "full_name": "Amr ibn Yahya ibn Amr ibn Salim al-Mazini",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Yasar",
+              "full_name": "Sa'id ibn Yasar al-Madani mawla bani al-Makhzum",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Wahb",
+              "full_name": "Abdullah ibn Wahb ibn Muslim al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ghayr wahid (More than one)",
+              "full_name": "Ghayr wahid (Multiple unspecified narrators)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Unspecified narrators"]
+            },
+            {
+              "name": "Jabir ibn Abdullah",
+              "full_name": "Jabir ibn Abdullah ibn Amr al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amir ibn Rabi'ah",
+              "full_name": "Amir ibn Rabi'ah ibn Ka'b al-Anzi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains unspecified narrators between Ibn Wahb and the three Companions"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Wahb -> Malik ibn Anas -> Yahya ibn Abdullah -> Amr ibn Yahya al-Mazini -> Sa'id ibn Yasar -> Abdullah ibn Umar -> Prophet Muhammad ﷺ",
+        "Ibn Wahb -> Unspecified narrators -> Jabir ibn Abdullah, Amir ibn Rabi'ah, Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The second chain contains unspecified narrators (ghayr wahid) between Ibn Wahb and the three Companions",
+          "impact": "This creates uncertainty about the intermediaries. While the Companions are reliable, we cannot verify the complete chain integrity without knowing all narrators"
+        },
+        {
+          "issue": "All narrators in the second chain are using 'an (عن), which could indicate indirect transmission",
+          "impact": "Minor concern given the overall reliability of narrators, but creates some ambiguity about direct hearing"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Voluntary Prayer on Riding Animal During Travel",
+        "Prayer Direction While Traveling",
+        "Description of the Prophet's ﷺ Prayer on His Mount"
+      ],
+      "arabicText": "وَأَخْبَرَنِي عن ابْنِ وَهْبٍ ، عن مَالِكِ بْنِ أَنَسٍ ، وَيَحْيَى بْنِ عَبْدِ اللَّهِ ، عن عَمْرِو بْنِ يَحْيَى وَالْمَازِنِيِّ ، عن سَعِيدِ بْنِ يَسَارٍ ، عن عَبْدِ اللَّهِ بْنِ عُمَرَ ، قَالَ : \" رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يُصَلِّي عَلَى حِمَارٍ مُتَوَجِّهًا إِلَى خَيْبَرَ وَهُوَ يَسِيرُ \" ـ قَالَ ابْنُ وَهْبٍ : وَأَخْبَرَنِي غَيْرُ وَاحِدٍ ، عن ، جَابِرِ بْنِ عَبْدِ اللَّهِ ، وَعَامِرِ بْنِ رَبِيعَةَ ، وَأَنَسِ بْنِ مَالِكٍ ، عن رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَنَّهُ كَانَ يُصَلِّي السُّبْحَةَ بِاللَّيْلِ فِي السَّفَرِ عَلَى ظَهْرِ رَاحِلَتِهِ حَيْثُ تَوَجَّهَتْ بِهِ إِلَى غَيْرِ الْقِبْلَةِ \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 196,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10274,
+      "english_translation": "Chapter on the Imam Leading People in Prayer While Seated",
+      "chains": [],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "N/A - Chapter Title",
+      "Topics": [
+        "Chapter Title: Imam Praying Seated"
+      ],
+      "arabicText": "الْإِمَامُ يُصَلِّي بِالنَّاسِ قَاعِدًا",
+      "collection": "كتاب رقم 20",
+      "reference_number": 197,
+      "book_name": "كتاب رقم 20"
+    },
+    {
+      "hadith_id": 10275,
+      "english_translation": "The Messenger of Allah ﷺ said: 'A man should not lead people in prayer while seated.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ali",
+              "full_name": "Ali (needs identification - possibly Ali ibn al-Madini)",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Identification unclear"]
+            },
+            {
+              "name": "Sufyan",
+              "full_name": "Sufyan (al-Thawri or ibn Uyaynah - needs clarification)",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Ambiguous - could be al-Thawri or ibn Uyaynah"]
+            },
+            {
+              "name": "Jabir ibn Yazid",
+              "full_name": "Jabir ibn Yazid ibn al-Harith al-Ju'fi",
+              "grade": "Da'if",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Considered weak by majority of scholars", "Known for Shi'i tendencies", "Accused of lying by some scholars"]
+            },
+            {
+              "name": "al-Sha'bi",
+              "full_name": "Amir ibn Sharahil al-Sha'bi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains Jabir ibn Yazid al-Ju'fi who is considered weak", "This appears to be mursal - al-Sha'bi narrating directly from the Prophet ﷺ without mentioning a Companion"]
+        }
+      ],
+      "plainChains": [
+        "Ali -> Sufyan -> Jabir ibn Yazid al-Ju'fi -> al-Sha'bi -> [missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jabir ibn Yazid al-Ju'fi is considered Da'if (weak) by the majority of hadith scholars",
+          "impact": "Al-Ju'fi was known for Shi'i tendencies and was accused of lying by some scholars. His presence in the chain significantly weakens the narration"
+        },
+        {
+          "issue": "This appears to be a mursal chain - al-Sha'bi (Third Generation) narrating directly from the Prophet ﷺ without mentioning which Companion heard it",
+          "impact": "Mursal chains have a missing link which makes them inherently weak. We don't know which Companion (if any) actually heard this from the Prophet ﷺ"
+        },
+        {
+          "issue": "Multiple 'an (عن) terms throughout the chain without explicit hearing",
+          "impact": "Combined with the weak narrator and mursal nature, the multiple indirect transmission terms further weaken the chain"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Leadership in Prayer While Seated",
+        "Requirements for Imam in Congregational Prayer"
+      ],
+      "arabicText": "وَحَدَّثَنِي عن عَلِيٍّ ، عن سُفْيَانَ ، عن جَابِرِ بْنِ يَزِيدَ ، عن الشَّعْبِيِّ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لَا يَؤُمُّ الرَّجُلُ الْقَوْمَ جَالِسًا \"",
+      "collection": "كتاب رقم 20",
+      "reference_number": 198,
+      "book_name": "كتاب رقم 20"
+    }
+  ]
+}

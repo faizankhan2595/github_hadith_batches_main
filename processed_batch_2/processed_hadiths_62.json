@@ -1,0 +1,731 @@
+{
+  "batch_number": 2,
+  "file_number": 62,
+  "processed_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 9916,
+      "hadith_number": 2212,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ أَنَّهُ بَلَغَهُ ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" أَنَا وَكَافِلُ الْيَتِيمِ لَهُ أَوْ لِغَيْرِهِ فِي الْجَنَّةِ كَهَاتَيْنِ إِذَا اتَّقَى \" ، وَأَشَارَ بِإِصْبُعَيْهِ الْوُسْطَى وَالَّتِي تَلِي الْإِبْهَامَ *",
+      "collection": "Muwatta Malik",
+      "reference_number": 2212,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Safwan ibn Sulaym that it reached him that the Prophet ﷺ said: 'I and the one who takes care of an orphan, whether for himself or for someone else, will be in Paradise like these two when he fears Allah,' and he pointed with his middle finger and the one next to the thumb.",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safwan ibn Sulaym",
+              "full_name": "Safwan ibn Sulaym ibn Sa'd al-Madani al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal/munqati' - chain disconnected, says 'it reached him' without naming the source"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Critical disconnection: Safwan ibn Sulaym uses 'balaghahu' (it reached him) without naming who informed him. This creates a clear break in the chain making it mursal/munqati'."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Safwan ibn Sulaym -> (disconnected) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/Munqati' chain: Safwan ibn Sulaym uses 'balaghahu' (it reached him) without specifying the intermediate narrators between him and the Prophet ﷺ. This is a clear disconnection in the chain.",
+          "impact": "Major impact on authenticity. The hadith lacks a complete chain to the Prophet ﷺ, making it impossible to verify all narrators' reliability."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtue of caring for orphans",
+        "Description of Paradise",
+        "Closeness to the Prophet ﷺ in Paradise"
+      ]
+    },
+    {
+      "hadith_id": 9918,
+      "hadith_number": 2214,
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّ أَبَا قَتَادَةَ الْأَنْصَارِيَّ ، قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنّ \" لِي جُمَّةً أَفَأُرَجِّلُهَا ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : نَعَمْ وَأَكْرِمْهَا \" . فَكَانَ أَبُو قَتَادَةَ رُبَّمَا دَهَنَهَا فِي الْيَوْمِ مَرَّتَيْنِ لِمَا قَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَأَكْرِمْهَا \" * 1709",
+      "collection": "Muwatta Malik",
+      "reference_number": 2214,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Yahya ibn Sa'id, that Abu Qatadah al-Ansari said to the Messenger of Allah ﷺ: 'I have long hair, should I comb it?' The Messenger of Allah ﷺ said: 'Yes, and honor it.' So Abu Qatadah would sometimes oil it twice a day because of what the Messenger of Allah ﷺ told him: 'And honor it.'",
+      "chains": [
+        {
+          "type": "marfu' munqati'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Qatadah al-Ansari",
+              "full_name": "Al-Harith ibn Rib'i al-Ansari al-Salami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Probable disconnection: Yahya ibn Sa'id uses 'anna' (that) when narrating from Abu Qatadah. Yahya ibn Sa'id al-Ansari (d. 143 AH) is from the Third Generation, while Abu Qatadah (d. 54 AH) is a Companion. Given the timeline, they likely never met directly, creating a missing link."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Yahya ibn Sa'id -> (likely missing narrator) -> Abu Qatadah al-Ansari -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Probable munqati' (disconnected chain): Yahya ibn Sa'id al-Ansari uses 'anna' when narrating from Abu Qatadah. Given timeline (Abu Qatadah d. ~54 AH, Yahya born ~80s AH), direct meeting is impossible.",
+          "impact": "Significant impact. At least one missing narrator between Yahya and Abu Qatadah, which affects chain integrity."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Abu Qatadah asking about hair care",
+        "Grooming and personal hygiene",
+        "Honoring one's hair"
+      ]
+    },
+    {
+      "hadith_id": 9919,
+      "hadith_number": 2215,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنَّ عَطَاءَ بْنَ يَسَارٍ أَخْبَرَهُ ، قَالَ : كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْمَسْجِدِ ، فَدَخَلَ رَجُلٌ ثَائِرَ الرَّأْسِ وَاللِّحْيَةِ ، فَأَشَارَ إِلَيْهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِيَدِهِ أَنِ اخْرُجْ كَأَنَّهُ يَعْنِي إِصْلَاحَ شَعَرِ رَأْسِهِ وَلِحْيَتِهِ ، فَفَعَلَ الرَّجُلُ ثُمَّ رَجَعَ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَلَيْسَ هَذَا خَيْرًا مِنْ أَنْ يَأْتِيَ أَحَدُكُمْ ثَائِرَ الرَّأْسِ كَأَنَّهُ شَيْطَانٌ \" *",
+      "collection": "Muwatta Malik",
+      "reference_number": 2215,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Rabi'ah ibn Abi 'Abd al-Rahman that 'Amr ibn Salim al-Zurqi said: 'The Messenger of Allah ﷺ stood at Batn Marr, and the people shaved their heads. Some of them shaved completely and some of them shortened.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-'Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi 'Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi 'Abd al-Rahman Farroukh al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Amr ibn Salim al-Zurqi",
+              "full_name": "'Amr ibn Salim ibn Qahdam al-Zurqi al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses of 'an throughout the chain by narrators who are not known for tadlis. Minor question about direct transmission at each level."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Zayd ibn Aslam -> Rabi'ah ibn Abi 'Abd al-Rahman -> 'Amr ibn Salim al-Zurqi -> Prophet Muhammad ﷺ (witnessed)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain: While all narrators are reliable and not known for tadlis, the repeated use of 'an rather than explicit hearing terms introduces some ambiguity about direct transmission.",
+          "impact": "Minor impact. Given high reliability of all narrators and no known tadlis, the chain is acceptable despite the 'an usage."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of people shaving heads at Batn Marr",
+        "Shaving and shortening hair in rituals",
+        "Hajj or Umrah practices"
+      ]
+    },
+    {
+      "hadith_id": 9921,
+      "hadith_number": 2217,
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، قَالَ : أَخْبَرَنِي مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ ، أَنَّ عَبْدَ الرَّحْمَنِ بْنَ الْأَسْوَدِ بْنِ عَبْدِ يَغُوثَ ، قَالَ وَكَانَ جَلِيسًا لَهُمْ وَكَانَ أَبْيَضَ اللِّحْيَةِ وَالرَّأْسِ ، قَالَ : فَغَدَا عَلَيْهِمْ ذَاتَ يَوْمٍ وَقَدْ حَمَّرَهُمَا ، قَالَ : فَقَالَ لَهُ الْقَوْمُ : هَذَا أَحْسَنُ ، فَقَالَ : إِنَّ \" أُمِّي عَائِشَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَرْسَلَتْ إِلَيَّ الْبَارِحَةَ جَارِيَتَهَا نُخَيْلَةَ ، فَأَقْسَمَتْ عَلَيَّ لَأَصْبُغَنَّ ، وَأَخْبَرَتْنِي أَنَّ أَبَا بَكْرٍ الصِّدِّيقَ كَانَ يَصْبُغُ \" . قَالَ يَحْيَى : سَمِعْتُ مَالِكًا ، يَقُولُ فِي صَبْغِ الشَّعَرِ بِالسَّوَادِ : لَمْ أَسْمَعْ فِي ذَلِكَ شَيْئًا مَعْلُومًا ، وَغَيْرُ ذَلِكَ مِنَ الصِّبْغِ أَحَبُّ إِلَيَّ ، قَالَ : وَتَرْكُ الصَّبْغِ كُلِّهِ وَاسِعٌ إِنْ شَاءَ اللَّهُ لَيْسَ عَلَى النَّاسِ فِيهِ ضِيقٌ . قَالَ : وَسَمِعْتُ مَالِكًا ، يَقُولُ فِي هَذَا الْحَدِيثِ : بَيَانُ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمْ يَصْبُغْ وَلَوْ صَبَغَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، لَأَرْسَلَتْ بِذَلِكَ عَائِشَةُ إِلَى عَبْدِ الرَّحْمَنِ بْنِ الْأَسْوَدِ *",
+      "collection": "Muwatta Malik",
+      "reference_number": 2217,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Yahya ibn Sa'id, who said: Muhammad ibn Ibrahim al-Taymi informed me, from Abu Salamah ibn 'Abd al-Rahman, that 'Abd al-Rahman ibn al-Aswad ibn 'Abd Yaghuth said - and he was their companion and he had white beard and hair - he said: 'One day he came to them having dyed them red. The people said to him: This is better. He said: My mother 'Aishah, the wife of the Prophet ﷺ, sent her servant girl Nukhaylah to me last night and swore that I must dye it, and she informed me that Abu Bakr al-Siddiq used to dye.' Yahya said: I heard Malik saying about dyeing hair with black: 'I have not heard anything definite about that, and other than that type of dye is more beloved to me.' He said: 'And leaving all dyeing is permissible, if Allah wills, there is no restriction on people regarding it.' He said: 'And I heard Malik saying about this hadith: It shows that the Messenger of Allah ﷺ did not dye, and if the Messenger of Allah ﷺ had dyed, 'Aishah would have sent that information to 'Abd al-Rahman ibn al-Aswad.'",
+      "chains": [
+        {
+          "type": "mawquf (stops at 'Aishah)",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Ibrahim al-Taymi",
+              "full_name": "Muhammad ibn Ibrahim ibn al-Harith ibn Khalid al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah ibn 'Abd al-Rahman",
+              "full_name": "Abdullah ibn 'Abd al-Rahman ibn 'Awf al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Abd al-Rahman ibn al-Aswad ibn 'Abd Yaghuth",
+              "full_name": "'Abd al-Rahman ibn al-Aswad ibn 'Abd Yaghuth al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Aishah",
+              "full_name": "'Aishah bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Report via messenger",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mix of transmission terms: 'an, qala, akhbarani. The chain uses 'anna' when connecting to 'Abd al-Rahman, which with 'an from Abu Salamah creates minor ambiguity."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Yahya ibn Sa'id -> Muhammad ibn Ibrahim al-Taymi -> Abu Salamah ibn 'Abd al-Rahman -> 'Abd al-Rahman ibn al-Aswad -> 'Aishah (mentioning Abu Bakr's practice)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple transmission terms: Mix of 'an, qala, and akhbarani. While the chain contains highly reliable narrators (multiple Thiqah Thabt), the variation in terms and the use of 'anna' (أَنَّ) before 'Abd al-Rahman creates minor uncertainty.",
+          "impact": "Minor impact. All narrators are reliable and well-established. The report is about Abu Bakr's practice rather than directly from the Prophet ﷺ (mawquf to 'Aishah mentioning her father)."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of 'Abd al-Rahman dyeing his hair",
+        "Abu Bakr al-Siddiq's practice of dyeing hair",
+        "'Aishah sending message about dyeing",
+        "Evidence that the Prophet ﷺ did not dye his hair",
+        "Permissibility of different hair dyes"
+      ]
+    },
+    {
+      "hadith_id": 9923,
+      "hadith_number": 2219,
+      "arabicText": "حَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، قَالَ : بَلَغَنِي ، أَنَّ خَالِدَ بْنَ الْوَلِيدِ ، قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِنِّي أُرَوَّعُ فِي مَنَامِي ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" قُلْ : أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ مِنْ غَضَبِهِ وَعِقَابِهِ وَشَرِّ عِبَادِهِ ، وَمِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَنْ يَحْضُرُونِ \" * 1712",
+      "collection": "Muwatta Malik",
+      "reference_number": 2219,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Yahya ibn Sa'id, who said: Zayd ibn Tha'labah al-'Adawi informed me - and he was from the offspring of Abu Sa'sa'ah, one of those who witnessed the Battle of Badr - that he heard Abu Sa'id al-Khudri saying: 'I heard the Messenger of Allah ﷺ seeking refuge from five things.' He said: 'O Allah, I seek refuge in You from miserliness, cowardice, reaching the worst stage of old age, the trial of this world, and the punishment of the grave.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Tha'labah al-'Adawi",
+              "full_name": "Zayd ibn Tha'labah ibn 'Abdullah al-'Adawi al-Madani",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": [
+                "Narrator with 'La Ba'sa Bihi' grade - acceptable but lower than Thiqah"
+              ]
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Yahya ibn Sa'id -> Zayd ibn Tha'labah al-'Adawi -> Abu Sa'id al-Khudri (heard) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Zayd ibn Tha'labah graded as 'La Ba'sa Bihi': This is a level below 'Thiqah', indicating he is acceptable but with some minor reservations about his precision.",
+          "impact": "Minor impact. While not the strongest narrator, 'La Ba'sa Bihi' is still considered acceptable. The rest of the chain is strong with explicit hearing (sami'tu) from Abu Sa'id."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Supplication seeking refuge",
+        "Seeking refuge from miserliness",
+        "Seeking refuge from cowardice",
+        "Seeking refuge from senility",
+        "Trial of this world",
+        "Punishment of the grave"
+      ]
+    },
+    {
+      "hadith_id": 9924,
+      "hadith_number": 2220,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ قَالَ : أُسْرِيَ بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَرَأَى عِفْرِيتًا مِنَ الْجِنِّ يَطْلُبُهُ بِشُعْلَةٍ مِنْ نَارٍ ، كُلَّمَا الْتَفَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَآهُ ، فَقَالَ لَهُ جِبْرِيلُ : أَفَلَا \" أُعَلِّمُكَ كَلِمَاتٍ تَقُولُهُنَّ إِذَا قُلْتَهُنَّ طَفِئَتْ شُعْلَتُهُ وَخَرَّ لِفِيهِ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" بَلَى \" ، فَقَالَ جِبْرِيلُ : فَقُلْ أَعُوذُ بِوَجْهِ اللَّهِ الْكَرِيمِ ، وَبِكَلِمَاتِ اللَّهِ التَّامَّاتِ اللَّاتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ ، مِنْ شَرِّ مَا يَنْزِلُ مِنَ السَّمَاءِ وَشَرِّ مَا يَعْرُجُ فِيهَا ، وَشَرِّ مَا ذَرَأَ فِي الْأَرْضِ وَشَرِّ مَا يَخْرُجُ مِنْهَا ، وَمِنْ فِتَنِ اللَّيْلِ وَالنَّهَارِ وَمِنْ طَوَارِقِ اللَّيْلِ وَالنَّهَارِ ، إِلَّا طَارِقًا يَطْرُقُ بِخَيْرٍ يَا رَحْمَنُ \" * 1713",
+      "collection": "Muwatta Malik",
+      "reference_number": 2220,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Yahya ibn Sa'id, from Muhammad ibn Ibrahim, from 'Aishah, the wife of the Prophet ﷺ, that the Messenger of Allah ﷺ sent gifts to Uthman ibn Maz'un while he was in I'tikaf in the mosque. 'Aishah said: 'He sent him perfume and a garment, and he accepted them both.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Ibrahim",
+              "full_name": "Muhammad ibn Ibrahim ibn al-Harith ibn Khalid al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Aishah",
+              "full_name": "'Aishah bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Direct report",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'anna' (أَنَّ) by Muhammad ibn Ibrahim when narrating from 'Aishah creates potential ambiguity about direct hearing, though timeline suggests it's possible."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Yahya ibn Sa'id -> Muhammad ibn Ibrahim al-Taymi -> 'Aishah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) and 'anna' (أَنَّ) in the chain: While all narrators are reliable, the lack of explicit hearing terms creates minor ambiguity.",
+          "impact": "Minor impact. All narrators are thiqah and connections are plausible given timelines. The narration is acceptable despite not having perfect transmission terms."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of the Prophet ﷺ sending gifts to someone in I'tikaf",
+        "I'tikaf in the mosque",
+        "Using perfume during I'tikaf",
+        "Accepting gifts during I'tikaf"
+      ]
+    },
+    {
+      "hadith_id": 9925,
+      "hadith_number": 2221,
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّ رَجُلًا مِنْ أَسْلَمَ ، قَالَ : مَا نِمْتُ هَذِهِ اللَّيْلَةَ ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مِنْ أَيِّ شَيْءٍ ؟ \" فَقَالَ : لَدَغَتْنِي عَقْرَبٌ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَمَا إِنَّكَ لَوْ قُلْتَ حِينَ أَمْسَيْتَ : أَعُوذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ لَمْ تَضُرَّكَ \" * 1714",
+      "collection": "Muwatta Malik",
+      "reference_number": 2221,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Suhayl ibn Abi Salih, from his father, from Abu Hurayrah that the Messenger of Allah ﷺ said: 'Do not undertake a journey except to three mosques: the Sacred Mosque, my mosque, and the Aqsa Mosque.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Suhayl ibn Abi Salih",
+              "full_name": "Suhayl ibn Abi Salih Dhakwan al-Samman al-Madani",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Graded as 'Saduq' rather than 'Thiqah' - truthful but makes some errors"
+              ]
+            },
+            {
+              "name": "Abu Salih al-Samman",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayyat al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Direct report",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Suhayl ibn Abi Salih's reliability: While truthful (Saduq), he is known to make occasional errors. Some scholars strengthened him when narrating from his father specifically, while others maintained reservations."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Suhayl ibn Abi Salih -> Abu Salih al-Samman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Suhayl ibn Abi Salih graded as 'Saduq': He is considered truthful but prone to some errors. Scholars debated his reliability, with some strengthening him when narrating from his father, others maintaining reservations.",
+          "impact": "Moderate impact. While the hadith is widely known and has supporting narrations, Suhayl's 'Saduq' grade (lower than 'Thiqah') introduces some concern about precision."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain without explicit hearing terms.",
+          "impact": "Minor additional concern given Suhayl's 'Saduq' status."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Journey to three mosques only",
+        "The Sacred Mosque in Makkah",
+        "The Prophet's Mosque in Madinah",
+        "Al-Aqsa Mosque in Jerusalem"
+      ]
+    },
+    {
+      "hadith_id": 9926,
+      "hadith_number": 2222,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ سُمَيٍّ مَوْلَى أَبِي بَكْرٍ ، عَنْ الْقَعْقَاعِ بْنِ حَكِيمٍ ، أَنَّ كَعْبَ الْأَحْبَارِ ، قَالَ : \" لَوْلَا كَلِمَاتٌ أَقُولُهُنَّ لَجَعَلَتْنِي يَهُودُ حِمَارًا \" ، فَقِيلَ لَهُ : وَمَا هُنَّ ؟ فَقَالَ : \" أَعُوذُ بِوَجْهِ اللَّهِ الْعَظِيمِ الَّذِي لَيْسَ شَيْءٌ أَعْظَمَ مِنْهُ ، وَبِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ ، وَبِأَسْمَاءِ اللَّهِ الْحُسْنَى كُلِّهَا مَا عَلِمْتُ مِنْهَا وَمَا لَمْ أَعْلَمْ مِنْ شَرِّ مَا خَلَقَ وَبَرَأَ وَذَرَأَ \" * /E498",
+      "collection": "Muwatta Malik",
+      "reference_number": 2222,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Sumayy, the freed slave of Abu Bakr, from Abu Salih al-Samman, from Abu Hurayrah that the Messenger of Allah ﷺ saw a boy who had shaved part of his head and left part of it, so he forbade them from that and said: 'Shave all of it or leave all of it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sumayy",
+              "full_name": "Sumayy Mawla Abi Bakr ibn 'Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salih al-Samman",
+              "full_name": "Dhakwan Abu Salih al-Samman al-Zayyat al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Direct report",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Sumayy -> Abu Salih al-Samman -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain: While all narrators are reliable (Thiqah) and not known for tadlis, the repeated use of 'an rather than explicit hearing terms creates minor ambiguity.",
+          "impact": "Minor impact. Given the high reliability of all narrators and their well-established connections (Sumayy -> Abu Salih -> Abu Hurayrah is a known chain), the 'an usage is acceptable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a boy with partially shaved head",
+        "Prohibition of partial head shaving (al-qaza')",
+        "Hair shaving practices"
+      ]
+    },
+    {
+      "hadith_id": 9928,
+      "hadith_number": 2224,
+      "arabicText": "1715 وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ مَعْمَرٍ ، عَنْ أَبِي الْحُبَاب سَعِيدِ بْنِ يَسَارٍ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّهُ قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّ اللَّهَ تَبَارَكَ وَتَعَالَى يَقُولُ يَوْمَ الْقِيَامَةِ : \" أَيْنَ الْمُتَحَابُّونَ لِجَلَالِي ؟ الْيَوْمَ أُظِلُّهُمْ فِي ظِلِّي يَوْمَ لَا ظِلَّ إِلَّا ظِلِّي \" * 1716",
+      "collection": "Muwatta Malik",
+      "reference_number": 2224,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from 'Abdullah ibn Dinar, from 'Abdullah ibn 'Umar that the Messenger of Allah ﷺ said: 'Verily, among the servants of Allah there are people who are neither prophets nor martyrs, yet the prophets and martyrs will envy them on the Day of Resurrection due to their station with Allah.' They said: 'O Messenger of Allah, inform us who they are?' He said: 'They are people who love one another for the sake of Allah, without any blood relations or exchange of wealth. By Allah, their faces will be light and they will be upon light. They will not fear when people fear, nor will they grieve when people grieve.' Then he recited: 'Verily, the friends of Allah shall have no fear, nor shall they grieve.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Abdullah ibn Dinar",
+              "full_name": "'Abdullah ibn Dinar al-Madani al-Asghar",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Abdullah ibn 'Umar",
+              "full_name": "'Abdullah ibn 'Umar ibn al-Khattab al-'Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Direct report",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> 'Abdullah ibn Dinar -> 'Abdullah ibn 'Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ): While this is a strong chain (both Malik and 'Abdullah ibn Dinar are highly reliable), the use of 'an rather than explicit hearing terms introduces minor ambiguity.",
+          "impact": "Minimal impact. Both narrators are Thiqah Thabt or higher, neither known for tadlis, and their direct contact is well-established. The 'an usage is acceptable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Those who love for Allah's sake",
+        "Dialogue between Companions and the Prophet ﷺ about special servants",
+        "Description of those beloved to Allah",
+        "Envy of prophets and martyrs toward certain believers",
+        "Status on Day of Resurrection"
+      ]
+    },
+    {
+      "hadith_id": 9929,
+      "hadith_number": 2225,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ الْأَنْصَارِيِّ ، عَنْ حَفْصِ بْنِ عَاصِمٍ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ، أَوْ عَنْ أَبِي هُرَيْرَةَ ، أَنَّهُ قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لَا ظِلَّ إِلَّا ظِلُّهُ : إِمَامٌ عَادِلٌ ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ ، وَرَجُلٌ قَلْبُهُ مُعَلَّقٌ بِالْمَسْجِدِ إِذَا خَرَجَ مِنْهُ حَتَّى يَعُودَ إِلَيْهِ ، وَرَجُلَانِ تَحَابَّا فِي اللَّهِ اجْتَمَعَا عَلَى ذَلِكَ وَتَفَرَّقَا ، وَرَجُلٌ ذَكَرَ اللَّهَ خَالِيًا فَفَاضَتْ عَيْنَاهُ ، وَرَجُلٌ دَعَتْهُ ذَاتُ حَسَبٍ وَجَمَالٍ فَقَالَ : إِنِّي أَخَافُ اللَّهَ ، وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأَخْفَاهَا حَتَّى لَا تَعْلَمَ شِمَالُهُ مَا تُنْفِقُ يَمِينُهُ \" * 1717 وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : إِذَا أَحَبَّ اللَّهُ الْعَبْدَ قَالَ لِجِبْرِيلَ : \" قَدْ أَحْبَبْتُ فُلَانًا فَأَحِبَّهُ \" فَيُحِبُّهُ جِبْرِيلُ ، ثُمَّ يُنَادِي فِي أَهْلِ السَّمَاءِ إِنَّ اللَّهَ قَدْ أَحَبَّ فُلَانًا فَأَحِبُّوهُ فَيُحِبُّهُ أَهْلُ السَّمَاءِ ، ثُمَّ يُوضَعُ لَهُ الْقَبُولُ فِي الْأَرْضِ . وَإِذَا أَبْغَضَ اللَّهُ الْعَبْدَ ، قَالَ مَالِك : لَا أَحْسِبُهُ ، إِلَّا أَنَّهُ قَالَ : فِي الْبُغْضِ مِثْلَ ذَلِكَ * 1718 وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي حَازِمِ بْنِ دِينَارٍ ، عَنْ أَبِي إِدْرِيسَ الْخَوْلَانِيِّ ، أَنَّهُ قَالَ : دَخَلْتُ مَسْجِدَ دِمَشْقَ فَإِذَا فَتًى شَابٌّ بَرَّاقُ الثَّنَايَا وَإِذَا النَّاسُ مَعَهُ ، إِذَا اخْتَلَفُوا فِي شَيْءٍ أَسْنَدُوا إِلَيْهِ وَصَدَرُوا عَنْ قَوْلِهِ ، فَسَأَلْتُ عَنْهُ ، فَقِيلَ : هَذَا مُعَاذُ بْنُ جَبَلٍ ، فَلَمَّا كَانَ الْغَدُ هَجَّرْتُ فَوَجَدْتُهُ قَدْ سَبَقَنِي بِالتَّهْجِيرِ وَوَجَدْتُهُ يُصَلِّي ، قَالَ : فَانْتَظَرْتُهُ حَتَّى قَضَى صَلَاتَهُ ثُمَّ جِئْتُهُ مِنْ قِبَلِ وَجْهِهِ فَسَلَّمْتُ عَلَيْهِ ، ثُمَّ قُلْتُ : وَاللَّهِ إِنِّي لَأُحِبُّكَ لِلَّهِ ، فَقَالَ : أَللَّهِ ؟ فَقُلْتُ : أَللَّهِ ، فَقَالَ : أَللَّهِ ؟ فَقُلْتُ : أَللَّهِ ، فَقَالَ : أَللَّهِ ؟ فَقُلْتُ : أَللَّهِ ، قَالَ : فَأَخَذَ بِحُبْوَةِ رِدَائِي فَجَبَذَنِي إِلَيْهِ ، وَقَالَ : أَبْشِرْ فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : قَالَ اللَّهُ تَبَارَكَ وَتَعَالَى : \" وَجَبَتْ مَحَبَّتِي لِلْمُتَحَابِّينَ فِيَّ ، وَالْمُتَجَالِسِينَ فِيَّ ، وَالْمُتَزَاوِرِينَ فِيَّ ، وَالْمُتَبَاذِلِينَ فِيَّ \" * 1719",
+      "collection": "Muwatta Malik",
+      "reference_number": 2225,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik, from Khubayb ibn 'Abd al-Rahman al-Ansari, from Hafs ibn 'Asim, from Abu Hurayrah or from Abu Sa'id al-Khudri that the Messenger of Allah ﷺ said: 'Beware of sitting on the pathways.' They said: 'O Messenger of Allah, we have no choice but (to sit there); these are our gathering places where we talk.' The Messenger of Allah ﷺ said: 'If you must, then give the pathway its due.' They said: 'What is the due of the pathway?' He said: 'Lowering the gaze, removing harm, returning the greeting, and enjoining good and forbidding evil.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Khubayb ibn 'Abd al-Rahman",
+              "full_name": "Khubayb ibn 'Abd al-Rahman ibn Khubayb ibn Yasaf al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hafs ibn 'Asim",
+              "full_name": "Hafs ibn 'Asim ibn 'Umar ibn al-Khattab al-'Adawi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ (with uncertainty)",
+              "reliabilityIssues": [
+                "Narrator uncertain about the Companion: 'from Abu Hurayrah or Abu Sa'id'"
+              ]
+            },
+            {
+              "name": "Abu Hurayrah or Abu Sa'id",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi OR Sa'd ibn Malik al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Direct report",
+              "reliabilityIssues": [
+                "Uncertainty about which Companion"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Critical issue: Hafs ibn 'Asim is uncertain about which Companion narrated this - Abu Hurayrah or Abu Sa'id al-Khudri. This creates doubt (shakk) in the chain."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator -> Malik -> Khubayb ibn 'Abd al-Rahman -> Hafs ibn 'Asim -> Abu Hurayrah OR Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Shakk (doubt) in the chain: Hafs ibn 'Asim is uncertain whether he heard this from Abu Hurayrah or Abu Sa'id al-Khudri. This creates ambiguity about the actual source.",
+          "impact": "Moderate impact. While both are reliable Companions, the uncertainty about the source introduces doubt into the chain. However, since both possible sources are Companions, the substantive impact is limited."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Rights of the pathway",
+        "Dialogue between Companions and the Prophet ﷺ about sitting",
+        "Lowering the gaze",
+        "Removing harm from the path",
+        "Returning greetings",
+        "Enjoining good and forbidding evil"
+      ]
+    },
+    {
+      "hadith_id": 9930,
+      "hadith_number": 2226,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك أَنَّهُ بَلَغَهُ ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، أَنَّهُ كَانَ يَقُولُ : \" الْقَصْدُ وَالتُّؤَدَةُ وَحُسْنُ السَّمْتِ ، جُزْءٌ مِنْ خَمْسَةٍ وَعِشْرِينَ جُزْءًا مِنَ النُّبُوَّةِ \" * كِتَابُ الرُّؤْيَا",
+      "collection": "Muwatta Malik",
+      "reference_number": 2226,
+      "grade": "Not graded in original",
+      "english_translation": "Narrated from Malik that it reached him, from 'Abdullah ibn Dinar, from Ibn 'Umar that the Messenger of Allah ﷺ said: 'The best of you is the best to his family, and I am the best of you to my family.'",
+      "chains": [
+        {
+          "type": "marfu' mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Mursal/Munqati': Malik uses 'balaghahu' (it reached him) indicating a gap in the chain before 'Abdullah ibn Dinar"
+              ]
+            },
+            {
+              "name": "'Abdullah ibn Dinar",
+              "full_name": "'Abdullah ibn Dinar al-Madani al-Asghar",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn 'Umar",
+              "full_name": "'Abdullah ibn 'Umar ibn al-Khattab al-'Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Direct report",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Critical disconnection: Malik uses 'annahu balaghahu' (that it reached him) before mentioning 'Abdullah ibn Dinar. This indicates at least one missing narrator between Malik and 'Abdullah ibn Dinar, making the chain munqati'."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown narrator(s) -> Malik -> (missing link) -> 'Abdullah ibn Dinar -> Ibn 'Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Munqati' chain: Malik uses 'balaghahu' (it reached him) before 'Abdullah ibn Dinar, indicating at least one missing narrator between them. This creates a clear gap in the chain.",
+          "impact": "Significant impact. The missing link prevents complete verification of the chain. While the known narrators are reliable, the unknown intermediary creates uncertainty."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Best behavior toward family",
+        "Treatment of wives and family members",
+        "The Prophet's ﷺ example in family life"
+      ]
+    }
+  ]
+}

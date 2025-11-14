@@ -1,0 +1,743 @@
+{
+  "batch_number": 2,
+  "file_number": 60,
+  "record_count": 9,
+  "hadiths": [
+    {
+      "hadith_id": 9887,
+      "collection": "Muwatta Malik",
+      "reference_number": 2183,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ L4632 /94 ، عَنْ /26 عَبَّادِ بْنِ تَمِيمٍ L4130 /26 ، /27 أَنَّ /93 أَبَا بَشِيرٍ الْأَنْصَارِيَّ L6533 /93 أَخْبَرَهُ ، أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَعْضِ أَسْفَارِهِ ، قَالَ : فَأَرْسَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَسُولًا ، قَالَ عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ : حَسِبْتُ أَنَّهُ قَالَ وَالنَّاسُ فِي مَقِيلِهِمْ : /20 \" لَا تَبْقَيَنَّ فِي رَقَبَةِ بَعِيرٍ قِلَادَةٌ مِنْ وَتَرٍ أَوْ قِلَادَةٌ إِلَّا قُطِعَتْ \" /27 . قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 أَرَى ذَلِكَ مِنَ الْعَيْنِ /10",
+      "english_translation": "Narrated by Abu Bashir al-Ansari: He was with the Messenger of Allah ﷺ on one of his journeys. He said: The Messenger of Allah ﷺ sent a messenger - Abdullah ibn Abi Bakr said: I think he said while the people were in their midday rest - 'No necklace of bowstring or any necklace should remain on the neck of a camel except it must be cut off.' Yahya said: I heard Malik saying: I see that this is due to the evil eye.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abbad ibn Tamim",
+              "full_name": "Abbad ibn Tamim ibn Ghazirah al-Mazini al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bashir al-Ansari",
+              "full_name": "Qays ibn Ubayd al-Ansari Abu Bashir",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ/أَخْبَرَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Abdullah ibn Abi Bakr ibn Muhammad -> Abbad ibn Tamim -> Abu Bashir al-Ansari -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term from Malik, Abdullah ibn Abi Bakr, and Abbad ibn Tamim",
+          "impact": "While 'an can indicate potential ambiguity in transmission, all narrators in this chain are highly reliable (thiqah) and are not known for problematic tadlis. Malik in particular is extremely careful in his narrations. The impact is minimal given the reliability of all narrators."
+        },
+        {
+          "issue": "Use of 'anna (أَنَّ) before Abu Bashir al-Ansari",
+          "impact": "The term 'anna often indicates indirect transmission, but it is followed by 'akhbarahu (أَخْبَرَهُ - he informed him), which indicates direct transmission. This combination is acceptable."
+        },
+        {
+          "issue": "Abdullah ibn Abi Bakr's uncertainty noted in the text (حَسِبْتُ أَنَّهُ قَالَ - I think he said)",
+          "impact": "The narrator himself expresses uncertainty about part of the wording. This is a minor issue regarding the exact wording but shows honesty in transmission."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of the Prophet ﷺ ordering removal of necklaces from camels during a journey",
+        "Protection from Evil Eye",
+        "Superstitious practices with animals"
+      ]
+    },
+    {
+      "hadith_id": 9889,
+      "collection": "Muwatta Malik",
+      "reference_number": 2185,
+      "arabicText": "وَحَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /26 مُحَمَّدِ بْنِ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ L6751 /26 ، أَنَّهُ سَمِعَ /26 أَبَاهُ L543 /26 ، يَقُولُ : /27 اغْتَسَلَ /93 أَبِي سَهْلُ بْنُ حُنَيْفٍ L3671 /93 /60 بِالْخَرَّارِ /60 فَنَزَعَ جُبَّةً كَانَتْ عَلَيْهِ وَعَامِرُ بْنُ رَبِيعَةَ يَنْظُرُ ، قَالَ : وَكَانَ سَهْلٌ رَجُلًا أَبْيَضَ حَسَنَ الْجِلْدِ ، قَالَ : فَقَالَ لَهُ عَامِرُ بْنُ رَبِيعَةَ : مَا رَأَيْتُ كَالْيَوْمِ وَلَا جِلْدَ عَذْرَاءَ ، قَالَ : فَوُعِكَ سَهْلٌ مَكَانَهُ وَاشْتَدَّ وَعْكُهُ ، فَأُتِيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأُخْبِرَ أَنَّ سَهْلًا وُعِكَ ، وَأَنَّهُ غَيْرُ رَائِحٍ مَعَكَ يَا رَسُولَ اللَّهِ ، فَأَتَاهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَخْبَرَهُ سَهْلٌ بِالَّذِي كَانَ مِنْ أَمْرِ عَامِرٍ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" عَلَامَ يَقْتُلُ أَحَدُكُمْ أَخَاهُ ؟ أَلَّا بَرَّكْتَ إِنَّ الْعَيْنَ حَقٌّ تَوَضَّأْ لَهُ \" ، فَتَوَضَّأَ لَهُ عَامِرٌ ، فَرَاحَ سَهْلٌ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيْسَ بِهِ بَأْسٌ /27",
+      "english_translation": "Narrated by Muhammad ibn Abi Umamah ibn Sahl ibn Hunayf, that he heard his father say: My father Sahl ibn Hunayf bathed at al-Kharrar and removed a jubbah (robe) he was wearing while Amir ibn Rabi'ah was looking. He said: Sahl was a white man with beautiful skin. He said: Amir ibn Rabi'ah said to him: I have never seen the like of today, nor skin like that of a virgin. He said: Then Sahl became feverish on the spot and his fever intensified. The Messenger of Allah ﷺ was informed that Sahl had become feverish and that he would not be going with you, O Messenger of Allah. So the Messenger of Allah ﷺ came to him, and Sahl informed him of what had happened regarding Amir. The Messenger of Allah ﷺ said: 'Why would one of you kill his brother? Why did you not invoke blessings? Indeed, the evil eye is real. Perform ablution for him.' So Amir performed ablution for him, and Sahl went with the Messenger of Allah ﷺ with nothing wrong with him.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Abi Umamah ibn Sahl ibn Hunayf",
+              "full_name": "Muhammad ibn Abi Umamah Asad ibn Sahl ibn Hunayf al-Ansari al-Awsi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Umamah ibn Sahl ibn Hunayf",
+              "full_name": "Asad ibn Sahl ibn Hunayf al-Ansari Abu Umamah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sahl ibn Hunayf",
+              "full_name": "Sahl ibn Hunayf ibn Wahib al-Ansari al-Awsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Muhammad ibn Abi Umamah ibn Sahl -> Abu Umamah ibn Sahl -> Sahl ibn Hunayf -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) from Malik and Muhammad ibn Abi Umamah",
+          "impact": "Both narrators are highly reliable and not known for problematic tadlis. The impact is minimal."
+        },
+        {
+          "issue": "Explicit hearing (سَمِعَ) mentioned for Abu Umamah from his father",
+          "impact": "This is actually a strength, as it confirms direct transmission between father and son."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Sahl ibn Hunayf being afflicted by evil eye",
+        "Reality of Evil Eye",
+        "Remedy for Evil Eye through ablution",
+        "Importance of invoking blessings when seeing something praiseworthy"
+      ]
+    },
+    {
+      "hadith_id": 9890,
+      "collection": "Muwatta Malik",
+      "reference_number": 2186,
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ L543 /26 ، أَنَّهُ قَالَ : /27 رَأَى عَامِرُ بْنُ رَبِيعَةَ /93 سَهْلَ بْنَ حُنَيْفٍ L3671 /93 يَغْتَسِلُ ، فَقَالَ : مَا رَأَيْتُ كَالْيَوْمِ وَلَا جِلْدَ مُخْبَأَةٍ ، فَلُبِطَ سَهْلٌ ، فَأُتِيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقِيلَ : يَا رَسُولَ اللَّهِ هَلْ لَكَ فِي سَهْلِ بْنِ حُنَيْفٍ ؟ وَاللَّهِ مَا يَرْفَعُ رَأْسَهُ ، فَقَالَ : \" هَلْ تَتَّهِمُونَ لَهُ أَحَدًا ؟ \" قَالُوا : نَتَّهِمُ عَامِرَ بْنَ رَبِيعَةَ ، قَالَ : فَدَعَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَامِرًا فَتَغَيَّظَ عَلَيْهِ ، وَقَالَ : /20 \" عَلَامَ يَقْتُلُ أَحَدُكُمْ أَخَاهُ ؟ أَلَّا بَرَّكْتَ اغْتَسِلْ لَهُ \" ، فَغَسَلَ عَامِرٌ وَجْهَهُ وَيَدَيْهِ ، وَمِرْفَقَيْهِ وَرُكْبَتَيْهِ ، وَأَطْرَافَ رِجْلَيْهِ وَدَاخِلَةَ إِزَارِهِ فِي قَدَحٍ ، ثُمَّ صُبَّ عَلَيْهِ فَرَاحَ سَهْلٌ مَعَ النَّاسِ لَيْسَ بِهِ بَأْسٌ /27",
+      "english_translation": "Narrated by Abu Umamah ibn Sahl ibn Hunayf, that he said: Amir ibn Rabi'ah saw Sahl ibn Hunayf bathing and said: I have never seen the like of today, nor skin like that of a virgin kept hidden. Then Sahl collapsed. The Messenger of Allah ﷺ was approached and it was said: O Messenger of Allah, can you do anything for Sahl ibn Hunayf? By Allah, he cannot raise his head. He said: 'Do you suspect anyone for him?' They said: We suspect Amir ibn Rabi'ah. He said: So the Messenger of Allah ﷺ called Amir and became angry with him, and said: 'Why would one of you kill his brother? Why did you not invoke blessings? Wash for him.' So Amir washed his face, hands, elbows, knees, the extremities of his feet, and the inside of his lower garment in a vessel, then it was poured over him, and Sahl went with the people with nothing wrong with him.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaidullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Abu Umamah ibn Sahl ibn Hunayf",
+              "full_name": "Asad ibn Sahl ibn Hunayf al-Ansari Abu Umamah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sahl ibn Hunayf",
+              "full_name": "Sahl ibn Hunayf ibn Wahib al-Ansari al-Awsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Abu Umamah ibn Sahl -> Sahl ibn Hunayf -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri using 'an (عَنْ) transmission term",
+          "impact": "Al-Zuhri (Ibn Shihab) is classified as a mudallis by some scholars (category 3 in Ibn Hajar's classification). However, he is widely considered extremely reliable by the vast majority of hadith scholars, and his narrations are accepted even with 'an. His tadlis is of a minor nature and does not significantly affect the reliability of his narrations. This is noted but does not downgrade the hadith."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "While 'an appears multiple times, all narrators are highly reliable (thiqah or higher). This is a standard feature of many authentic chains and does not significantly impact reliability."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Sahl ibn Hunayf being struck by evil eye while bathing",
+        "Reality of Evil Eye",
+        "Detailed method for treating evil eye through washing",
+        "The Prophet's ﷺ anger at harming others through evil eye"
+      ]
+    },
+    {
+      "hadith_id": 9892,
+      "collection": "Muwatta Malik",
+      "reference_number": 2188,
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 حُمَيْدِ بْنِ قَيْسٍ الْمَكِّيِّ L2547 /94 ، أَنَّهُ قَالَ : /27 دُخِلَ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِابْنَيْ جَعْفَرِ بْنِ أَبِي طَالِبٍ ، فَقَالَ لِحَاضِنَتِهِمَا : \" مَا لِي أَرَاهُمَا ضَارِعَيْنِ ؟ \" فَقَالَتْ حَاضِنَتُهُمَا : يَا رَسُولَ اللَّهِ ، إِنَّهُ تُسْرِعُ إِلَيْهِمَا الْعَيْنُ ، وَلَمْ يَمْنَعْنَا أَنْ نَسْتَرْقِيَ لَهُمَا إِلَّا أَنَّا لَا نَدْرِي مَا يُوَافِقُكَ مِنْ ذَلِكَ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" اسْتَرْقُوا لَهُمَا ، فَإِنَّهُ لَوْ سَبَقَ شَيْءٌ الْقَدَرَ لَسَبَقَتْهُ الْعَيْنُ \" /27",
+      "english_translation": "Narrated by Humayd ibn Qays al-Makki, that he said: The two sons of Ja'far ibn Abi Talib were brought to the Messenger of Allah ﷺ, and he said to their caretaker: 'Why do I see them looking emaciated?' Their caretaker said: O Messenger of Allah, the evil eye quickly afflicts them, and nothing prevented us from seeking ruqyah (spiritual healing) for them except that we did not know what would be agreeable to you regarding that. So the Messenger of Allah ﷺ said: 'Seek ruqyah for them, for if anything could overtake the decree, the evil eye would overtake it.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd ibn Qays al-Makki",
+              "full_name": "Humayd ibn Qays ibn Sa'd al-A'raj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - Humayd ibn Qays (a Tabi'i) narrates directly from the Prophet ﷺ without mentioning the Companion who transmitted it to him"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Humayd ibn Qays al-Makki -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - missing Companion link",
+          "impact": "This is a mursal hadith as Humayd ibn Qays (a Tabi'i from the Third Generation) narrates directly from the Prophet ﷺ without mentioning the intermediary Companion. Mursal hadiths have a broken chain and are generally considered weak according to the majority of hadith scholars. However, the mursal narrations of reliable narrators like those in Malik's Muwatta are given more weight than typical mursal reports."
+        },
+        {
+          "issue": "Use of passive voice 'dukhila' (دُخِلَ - they were brought)",
+          "impact": "The passive construction indicates the narrator did not witness the event personally, which is expected in a mursal narration."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of sons of Ja'far ibn Abi Talib being afflicted by evil eye",
+        "Permissibility of Ruqyah for protection from evil eye",
+        "Severity and power of Evil Eye",
+        "Relationship between Divine Decree and Evil Eye"
+      ]
+    },
+    {
+      "hadith_id": 9893,
+      "collection": "Muwatta Malik",
+      "reference_number": 2189,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، أَنَّ /26 عُرْوَةَ بْنَ الزُّبَيْرِ L5594 /26 حَدَّثَهُ ، /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَ بَيْتَ /64 أُمِّ سَلَمَةَ /64 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَفِي الْبَيْتِ صَبِيٌّ يَبْكِي ، فَذَكَرُوا لَهُ أَنَّ بِهِ الْعَيْنَ ، قَالَ عُرْوَةُ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" أَلَا تَسْتَرْقُونَ لَهُ مِنَ الْعَيْنِ \" /27",
+      "english_translation": "Narrated by Urwah ibn al-Zubayr: The Messenger of Allah ﷺ entered the house of Umm Salamah, the wife of the Prophet ﷺ, and in the house was a child crying. They mentioned to him that he was afflicted by the evil eye. Urwah said: The Messenger of Allah ﷺ said: 'Why do you not seek ruqyah for him from the evil eye?'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ/حَدَّثَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yahya ibn Sa'id al-Ansari -> Sulayman ibn Yasar -> Urwah ibn al-Zubayr -> Prophet Muhammad ﷺ (mursal from Urwah)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - Urwah ibn al-Zubayr narrating from the Prophet ﷺ",
+          "impact": "Urwah ibn al-Zubayr was born around 23 AH and did not have direct companionship with the Prophet ﷺ, making this a mursal narration. While the narrators are all highly reliable, the missing link (likely Umm Salamah or someone in her household) makes this mursal. However, Urwah's mursal reports are among the strongest mursal narrations due to his meticulous verification and strong family connections to Companions (his aunt was Aisha)."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) before reaching Urwah",
+          "impact": "While 'an appears several times, all narrators are highly reliable (thiqah thabt or thiqah). The chain is sound up to Urwah."
+        },
+        {
+          "issue": "'Anna (أَنَّ) followed by 'hadathahu (حَدَّثَهُ)",
+          "impact": "This combination shows Sulayman ibn Yasar received direct narration from Urwah, which is positive for chain strength."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of a child crying in house of Umm Salamah due to evil eye",
+        "Permissibility of Ruqyah for evil eye",
+        "The Prophet's ﷺ encouragement to seek treatment for evil eye"
+      ]
+    },
+    {
+      "hadith_id": 9895,
+      "collection": "Muwatta Malik",
+      "reference_number": 2191,
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : إِذَا مَرِضَ الْعَبْدُ بَعَثَ اللَّهُ تَعَالَى إِلَيْهِ مَلَكَيْنِ ، فَقَالَ : \" انْظُرَا مَاذَا يَقُولُ لِعُوَّادِهِ ؟ \" فَإِنْ هُوَ إِذَا جَاءُوهُ حَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ، رَفَعَا ذَلِكَ إِلَى اللَّهِ عَزَّ وَجَلَّ وَهُوَ أَعْلَمُ ، فَيَقُولُ : /20 \" لِعَبْدِي عَلَيَّ إِنْ تَوَفَّيْتُهُ أَنْ أُدْخِلَهُ الْجَنَّةَ ، وَإِنْ أَنَا شَفَيْتُهُ أَنْ أُبْدِلَ لَهُ لَحْمًا خَيْرًا مِنْ لَحْمِهِ وَدَمًا خَيْرًا مِنْ دَمِهِ ، وَأَنْ أُكَفِّرَ عَنْهُ سَيِّئَاتِهِ \" /27",
+      "english_translation": "Narrated by Ata' ibn Yasar: The Messenger of Allah ﷺ said: When the servant becomes sick, Allah the Exalted sends to him two angels and says: 'Look what he says to his visitors.' If when they come to him, he praises Allah and extols Him, they raise that to Allah, Mighty and Majestic, and He knows best. Then He says: 'It is upon Me for My servant, if I cause him to die, that I enter him into Paradise, and if I heal him, that I replace for him flesh better than his flesh and blood better than his blood, and that I expiate from him his sins.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ata' ibn Yasar",
+              "full_name": "Ata' ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - Ata' ibn Yasar (a senior Tabi'i) narrates directly from the Prophet ﷺ without mentioning the Companion"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Zayd ibn Aslam -> Ata' ibn Yasar -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - missing Companion link",
+          "impact": "Ata' ibn Yasar was a senior Tabi'i who did not meet the Prophet ﷺ, making this a mursal narration. The intermediary Companion is not mentioned. Mursal hadiths are generally considered weak by the majority. However, mursal reports in Malik's Muwatta from reliable Tabi'is like Ata' ibn Yasar are given more consideration than typical mursal reports."
+        },
+        {
+          "issue": "'Anna (أَنَّ) before the statement of the Prophet ﷺ",
+          "impact": "The use of 'anna indicates indirect transmission from Ata' to the Prophet ﷺ, which is consistent with this being a mursal narration."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Angels observing the sick person's behavior",
+        "Reward for patience and praising Allah during illness",
+        "Physical and spiritual benefits of illness",
+        "Expiation of sins through illness"
+      ]
+    },
+    {
+      "hadith_id": 9896,
+      "collection": "Muwatta Malik",
+      "reference_number": 2192,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَزِيدَ بْنِ خُصَيْفَةَ L8454 /94 ، عَنْ /26 عُرْوَةَ بْنِ الزُّبَيْرِ L5594 /26 ، أَنَّهُ قَالَ : /27 سَمِعْتُ /93 عَائِشَةَ L4049 /93 زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، تَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" لَا يُصِيبُ الْمُؤْمِنَ مِنْ مُصِيبَةٍ حَتَّى الشَّوْكَةُ إِلَّا قُصَّ بِهَا أَوْ كُفِّرَ بِهَا مِنْ خَطَايَاهُ \" /27 . لَا يَدْرِي يَزِيدُ أَيُّهُمَا قَالَ عُرْوَةُ",
+      "english_translation": "Narrated by Urwah ibn al-Zubayr, that he said: I heard Aisha, the wife of the Prophet ﷺ, say: The Messenger of Allah ﷺ said: 'No affliction befalls the believer, even a thorn prick, except that it expiates or is expiated from his sins by it.' Yazid does not know which of the two words Urwah said.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yazid ibn Khusayfah",
+              "full_name": "Yazid ibn Khusayfah ibn Abd al-Rahman al-Sahmi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yazid ibn Khusayfah -> Urwah ibn al-Zubayr -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Yazid ibn Khusayfah graded as Saduq (truthful but with some errors)",
+          "impact": "Yazid ibn Khusayfah is considered Saduq by most scholars, which is below Thiqah. He is generally reliable but may have occasional errors. However, he is still accepted as a narrator, especially in chains where other narrators are strong. This slightly affects the overall strength but does not make the hadith weak."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "While 'an appears in the chain, the narrators are reliable and not known for problematic tadlis. The impact is minimal, especially given the explicit 'sami'tu (heard) from Urwah regarding Aisha."
+        },
+        {
+          "issue": "Yazid's uncertainty about exact wording (quss vs. kuffir)",
+          "impact": "Yazid ibn Khusayfah admits uncertainty about which of two similar words Urwah used. This shows honesty in transmission but indicates minor ambiguity in the exact wording. Both words convey similar meanings (expiation), so the substantive meaning is preserved."
+        },
+        {
+          "issue": "Explicit hearing (سَمِعْتُ) from Urwah to Aisha",
+          "impact": "This is actually a strength - Urwah explicitly states he heard this from Aisha directly, confirming the chain from this critical link to the Companion."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Expiation of sins through all types of afflictions",
+        "Even minor hardships like thorn pricks expiate sins",
+        "Divine mercy through trials"
+      ]
+    },
+    {
+      "hadith_id": 9897,
+      "collection": "Muwatta Malik",
+      "reference_number": 2193,
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي صَعْصَعَةَ L7118 /94 ، أَنَّهُ قَالَ : سَمِعْتُ /26 أَبَا الْحُبَاب سَعِيدَ بْنَ يَسَارٍ L3418 /26 ، يَقُولُ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ \" /27",
+      "english_translation": "Narrated by Muhammad ibn Abdullah ibn Abi Sa'sa'ah, that he said: I heard Abu al-Hubab Sa'id ibn Yasar say: I heard Abu Hurayrah say: The Messenger of Allah ﷺ said: 'Whoever Allah intends good for, He afflicts him.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Abdullah ibn Abi Sa'sa'ah",
+              "full_name": "Muhammad ibn Abdullah ibn Abi Sa'sa'ah al-Ansari al-Mazini",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Hubab Sa'id ibn Yasar",
+              "full_name": "Sa'id ibn Yasar al-Madani Abu al-Hubab",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi Abu Hurayrah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Muhammad ibn Abdullah ibn Abi Sa'sa'ah -> Abu al-Hubab Sa'id ibn Yasar -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) from Malik and Muhammad ibn Abdullah",
+          "impact": "While 'an appears in parts of the chain, all narrators are highly reliable. Additionally, explicit hearing (sami'tu) is mentioned for the critical links from Muhammad ibn Abdullah to Abu al-Hubab, and from Abu al-Hubab to Abu Hurayrah, which strengthens the chain significantly."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Affliction as a sign of Allah's good intention for a person",
+        "Trials as a blessing and test from Allah",
+        "Divine wisdom in afflicting believers"
+      ]
+    },
+    {
+      "hadith_id": 9898,
+      "collection": "Muwatta Malik",
+      "reference_number": 2194,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ رَجُلًا جَاءَهُ الْمَوْتُ فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ رَجُلٌ : هَنِيئًا لَهُ مَاتَ وَلَمْ يُبْتَلَ بِمَرَضٍ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : وَيْحَكَ /20 \" وَمَا يُدْرِيكَ لَوْ أَنَّ اللَّهَ ابْتَلَاهُ بِمَرَضٍ يُكَفِّرُ بِهِ عَنْهُ مِنْ سَيِّئَاتِهِ \" /27",
+      "english_translation": "Narrated by Yahya ibn Sa'id: A man died in the time of the Messenger of Allah ﷺ. A man said: How fortunate for him, he died and was not tested with illness. The Messenger of Allah ﷺ said: Woe to you! 'And what do you know? Had Allah tested him with an illness, He would have expiated from him some of his sins.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a mursal hadith - Yahya ibn Sa'id (a Tabi'i) narrates directly from the time of the Prophet ﷺ without mentioning the Companion who witnessed or transmitted this incident"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yahya ibn Sa'id al-Ansari -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - missing Companion link",
+          "impact": "Yahya ibn Sa'id al-Ansari was a prominent Tabi'i who did not have direct companionship with the Prophet ﷺ. The intermediary Companion who witnessed or narrated this incident is not mentioned, making this a mursal narration. Mursal hadiths are generally considered weak according to the majority. However, mursal reports from highly reliable narrators like Yahya ibn Sa'id in Malik's Muwatta are given more weight."
+        },
+        {
+          "issue": "'Anna (أَنَّ) introducing the narration",
+          "impact": "The use of 'anna indicates indirect transmission, consistent with the mursal nature of this report."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man commenting on someone who died without illness",
+        "Illness as expiation for sins",
+        "The Prophet's ﷺ correction of misunderstanding about death without illness",
+        "Value of being tested with illness before death"
+      ]
+    },
+    {
+      "hadith_id": 9900,
+      "collection": "Muwatta Malik",
+      "reference_number": 2196,
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَزِيدَ بْنِ خُصَيْفَةَ L8454 /94 ، أَنَّ /26 عَمْرَو بْنَ عَبْدِ اللَّهِ بْنِ كَعْبٍ السَّلَمِيَّ L6156 /26 أَخْبَرَهُ ، أَنَّ /26 نَافِعَ بْنَ جُبَيْرٍ L7846 /26 أَخْبَرَهُ ، /27 عَنْ /93 عُثْمَانَ بْنِ أَبِي الْعَاصِ L5486 /93 أَنَّهُ أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ عُثْمَانُ : وَبِي وَجَعٌ قَدْ كَادَ يُهْلِكُنِي ، قَالَ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" امْسَحْهُ بِيَمِينِكَ سَبْعَ مَرَّاتٍ ، وَقُلْ : أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ \" ، قَالَ : فَقُلْتُ ذَلِكَ فَأَذْهَبَ اللَّهُ مَا كَانَ بِي ، فَلَمْ أَزَلْ آمُرُ بِهَا أَهْلِي وَغَيْرَهُمْ /27",
+      "english_translation": "Narrated by Uthman ibn Abi al-'As: He came to the Messenger of Allah ﷺ. Uthman said: I had a pain that had almost killed me. He said: The Messenger of Allah ﷺ said: 'Wipe it with your right hand seven times and say: I seek refuge in the might of Allah and His power from the evil of what I find.' He said: So I said that and Allah removed what was afflicting me. I continued to command my family and others to do it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yazid ibn Khusayfah",
+              "full_name": "Yazid ibn Khusayfah ibn Abd al-Rahman al-Sahmi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Abdullah ibn Ka'b al-Salami",
+              "full_name": "Amr ibn Abdullah ibn Ka'b ibn Malik al-Salami al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ/أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi' ibn Jubayr",
+              "full_name": "Nafi' ibn Jubayr ibn Mut'im al-Nawfali",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ/أَخْبَرَهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Uthman ibn Abi al-'As",
+              "full_name": "Uthman ibn Abi al-'As ibn Bishr al-Thaqafi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yazid ibn Khusayfah -> Amr ibn Abdullah ibn Ka'b -> Nafi' ibn Jubayr -> Uthman ibn Abi al-'As -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Yazid ibn Khusayfah graded as Saduq (truthful but with some errors)",
+          "impact": "Yazid ibn Khusayfah is considered Saduq by most scholars, which is below Thiqah. He is generally reliable but may have occasional errors. This slightly affects the overall strength but does not make the hadith weak, especially given the strength of other narrators in the chain."
+        },
+        {
+          "issue": "Multiple uses of 'anna (أَنَّ) followed by 'akhbarahu (أَخْبَرَهُ)",
+          "impact": "While 'anna can indicate indirect transmission, it is paired with 'akhbarahu (he informed him) in two instances, which indicates direct transmission. This combination is acceptable and shows the narrators received direct information."
+        },
+        {
+          "issue": "Use of 'an (عَنْ) from Malik and Yazid, and before Uthman ibn Abi al-'As",
+          "impact": "While 'an appears in the chain, the narrators are reliable. The use of 'an before the Companion (Uthman ibn Abi al-'As) is acceptable as Companions are automatically considered reliable, and the previous narrator (Nafi' ibn Jubayr) is also highly reliable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Supplication for healing from pain and illness",
+        "Method of spiritual healing taught by the Prophet ﷺ",
+        "Wiping with right hand seven times while supplicating",
+        "Seeking refuge in Allah's might and power from affliction"
+      ]
+    }
+  ]
+}
