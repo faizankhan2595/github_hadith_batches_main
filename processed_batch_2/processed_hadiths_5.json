@@ -1,0 +1,786 @@
+{
+  "batch_number": 2,
+  "file_number": 5,
+  "record_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 9061,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Malik, from Nafi', from Abdullah ibn Umar, that he used to say: 'Whichever man makes an oath of abstinence (ila) from his wife, when four months have passed, he is stopped until he either divorces or returns (to relations), and divorce does not fall upon him when four months have passed until he is stopped.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion Abdullah ibn Umar) and represents his personal view rather than a direct statement from the Prophet ﷺ",
+          "impact": "The narration authentically preserves Ibn Umar's opinion on ila but does not constitute a direct hadith from the Prophet ﷺ"
+        },
+        {
+          "issue": "Malik narrates with 'an (عَنْ) from Nafi'. Although Malik is not known as a mudallis and is highly reliable, this uses an indirect transmission term",
+          "impact": "Given Malik's exceptional reliability and the famous 'Golden Chain' (Malik from Nafi' from Ibn Umar), this does not significantly impact authenticity"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Ila (Oath of Abstinence from Wife)",
+        "Divorce Procedures",
+        "Four-Month Waiting Period in Ila"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ كَانَ يَقُولُ : \" أَيُّمَا رَجُلٍ آلَى مِنَ امْرَأَتِهِ ، فَإِنَّهُ إِذَا مَضَتِ الْأَرْبَعَةُ الْأَشْهُرِ ، وُقِفَ حَتَّى يُطَلِّقَ أَوْ يَفِيءَ ، وَلَا يَقَعُ عَلَيْهِ طَلَاقٌ إِذَا مَضَتِ الْأَرْبَعَةُ الْأَشْهُرِ ، حَتَّى يُوقَفَ \"  1146 1149",
+      "collection": "Muwatta Malik",
+      "reference_number": 1357
+    },
+    {
+      "hadith_id": 9062,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Malik, from Ibn Shihab, that Sa'id ibn al-Musayyab and Abu Bakr ibn Abd al-Rahman both used to say regarding the man who makes an oath of abstinence from his wife: 'When four months have passed, it is one divorce, and her husband has the right to take her back as long as she is in her waiting period.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyab and Abu Bakr ibn Abd al-Rahman"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration representing the opinions of two major tabi'un (Sa'id ibn al-Musayyab and Abu Bakr ibn Abd al-Rahman) rather than a direct hadith from the Prophet ﷺ",
+          "impact": "The narration authentically preserves the views of these respected scholars but is not a marfu' hadith"
+        },
+        {
+          "issue": "Al-Zuhri is classified as a mudallis (category 3) by some scholars and narrates here with 'anna (أَنَّ), an indirect transmission term",
+          "impact": "However, al-Zuhri is widely considered extremely reliable and his tadlis is minimal. This does not significantly affect the authenticity of preserving these scholars' views"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Ila (Oath of Abstinence from Wife)",
+        "Divorce Procedures",
+        "Right of Return During Waiting Period"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنِ ابْنِ شِهَابٍ ، أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ ، وَأَبَا بَكْرِ بْنَ عَبْدِ الرَّحْمَنِ ، كَانَا يَقُولَانِ فِي الرَّجُلِ يُولِي مِنَ امْرَأَتِهِ : \" إِنَّهَا إِذَا مَضَتِ الْأَرْبَعَةُ الْأَشْهُرِ ، فَهِيَ تَطْلِيقَةٌ ، وَلِزَوْجِهَا عَلَيْهَا الرَّجْعَةُ مَا كَانَتْ فِي الْعِدَّةِ \"  1147 1150",
+      "collection": "Muwatta Malik",
+      "reference_number": 1358
+    },
+    {
+      "hadith_id": 9063,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Malik that it reached him that Marwan ibn al-Hakam used to judge regarding the man who makes an oath of abstinence from his wife, that when four months have passed, it is one divorce, and he has the right to take her back as long as she is in her waiting period. Malik said: 'That was the opinion of Ibn Shihab.' Malik said regarding the man who makes an oath of abstinence from his wife and is stopped, then divorces her at the end of four months then takes her back: 'If he does not have relations with her until her waiting period ends, he has no way to her and no right to take her back, unless he has an excuse of illness or imprisonment or something similar as an excuse, then his taking her back is valid upon her. If her waiting period passes then he marries her after that, if he does not have relations with her until four months pass, he is stopped also. If he does not return, divorce enters upon him due to the first oath of abstinence when four months have passed, and he has no right to take her back because he married her then divorced her before touching her, so there is no waiting period for him upon her and no right of return.' Malik said regarding the man who makes an oath of abstinence from his wife and is stopped after four months, then divorces then takes her back and does not touch her, and four months pass before her waiting period ends: 'He is not stopped and divorce does not fall upon him, and if he has relations with her before her waiting period ends, he has more right to her, and if her waiting period passes before he has relations with her, he has no way to her. This is the best that I have heard regarding that.' Malik said regarding the man who makes an oath of abstinence from his wife then divorces her and four months pass before the end of the divorce waiting period, he said: 'They are two divorces, if he is stopped and does not return. And if the divorce waiting period passes before four months, the oath of abstinence is not a divorce, and that is because the four months after which one would be stopped have passed, and she is not his wife at that time.' Malik said: 'Whoever swears not to have relations with his wife for a day or a month, then remains until more than four months pass, that is not an oath of abstinence. And one is only stopped in an oath of abstinence if he swears for more than four months. As for whoever swears not to have relations with his wife for four months or less than that, I do not see an oath of abstinence upon him, because when the time at which one would be stopped enters, he has exited from his oath, and there was no stopping upon him.' Malik said: 'Whoever swears to his wife not to have relations with her until she weans her child, that is not an oath of abstinence. And it has reached me that Ali ibn Abi Talib was asked about that, and he did not see it as an oath of abstinence.'",
+      "chains": [
+        {
+          "type": "mawquf/mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal/disconnected"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "The chain is mursal (disconnected) with 'balagha-hu' (it reached him), indicating Malik did not have a complete chain to Marwan ibn al-Hakam"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> (disconnected) -> Marwan ibn al-Hakam and others"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The primary chain is mursal/disconnected, using 'annahu balaghahu' (it reached him), which indicates missing links in the transmission",
+          "impact": "This significantly weakens the chain as we do not know the intermediary narrators between Malik and Marwan ibn al-Hakam"
+        },
+        {
+          "issue": "Most of this text consists of Malik's own legal opinions (fiqh) rather than transmitted narrations",
+          "impact": "While valuable as Malik's juristic views, these are not hadiths but rather legal reasoning and personal ijtihad"
+        },
+        {
+          "issue": "The report about Ali ibn Abi Talib is also mursal, using 'balaghani' (it reached me)",
+          "impact": "The disconnected chain to Ali weakens this particular transmission"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ila (Oath of Abstinence from Wife)",
+        "Divorce and Reconciliation Procedures",
+        "Waiting Period (Iddah)",
+        "Conditional Oaths in Marriage",
+        "Legal Rulings on Duration of Abstinence Oaths"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّهُ بَلَغَهُ ، \" أَنَّ مَرْوَانَ بْنَ الْحَكَمِ كَانَ يَقْضِي فِي الرَّجُلِ إِذَا آلَى مِنِ امْرَأَتِهِ ، أَنَّهَا إِذَا مَضَتِ الْأَرْبَعَةُ الْأَشْهُرِ ، فَهِيَ تَطْلِيقَةٌ ، وَلَهُ عَلَيْهَا الرَّجْعَةُ مَا دَامَتْ فِي عِدَّتِهَا \" . قَالَ مَالِكٌ : وَعَلَى ذَلِكَ كَانَ رَأْيُ ابْنِ شِهَابٍ . قَالَ مَالِكٌ فِي الرَّجُلِ يُولِي مِنِ امْرَأَتِهِ فَيُوقَفُ ، فَيُطَلِّقُ عِنْدَ انْقِضَاءِ الْأَرْبَعَةِ الْأَشْهُرِ ثُمَّ يُرَاجِعُ امْرَأَتَهُ : أَنَّهُ إِنْ لَمْ يُصِبْهَا حَتَّى تَنْقَضِيَ عِدَّتُهَا ، فَلَا سَبِيلَ لَهُ إِلَيْهَا ، وَلَا رَجْعَةَ لَهُ عَلَيْهَا ، إِلَّا أَنْ يَكُونَ لَهُ عُذْرٌ مِنْ مَرَضٍ أَوْ سِجْنٍ أَوْ مَا أَشْبَهَ ذَلِكَ مِنَ الْعُذْرِ ، فَإِنَّ ارْتِجَاعَهُ إِيَّاهَا ثَابِتٌ عَلَيْهَا ، فَإِنْ مَضَتْ عِدَّتُهَا ثُمَّ تَزَوَّجَهَا بَعْدَ ذَلِكَ ، فَإِنَّهُ إِنْ لَمْ يُصِبْهَا حَتَّى تَنْقَضِيَ الْأَرْبَعَةُ الْأَشْهُرِ وُقِفَ أَيْضًا ، فَإِنْ لَمْ يَفِئْ دَخَلَ عَلَيْهِ الطَّلَاقُ بِالْإِيلَاءِ الْأَوَّلِ إِذَا مَضَتِ الْأَرْبَعَةُ الْأَشْهُرِ ، وَلَمْ يَكُنْ لَهُ عَلَيْهَا رَجْعَةٌ لِأَنَّهُ نَكَحَهَا ، ثُمَّ طَلَّقَهَا قَبْلَ أَنْ يَمَسَّهَا ، فَلَا عِدَّةَ لَهُ عَلَيْهَا وَلَا رَجْعَةَ . قَالَ مَالِكٌ فِي الرَّجُلِ يُولِي مِنَ امْرَأَتِهِ ، فَيُوقَفُ بَعْدَ الْأَرْبَعَةِ الْأَشْهُرِ ، فَيُطَلِّقُ ثُمَّ يَرْتَجِعُ وَلَا يَمَسُّهَا ، فَتَنْقَضِي أَرْبَعَةُ أَشْهُرٍ قَبْلَ أَنْ تَنْقَضِيَ عِدَّتُهَا : إِنَّهُ لَا يُوقَفُ وَلَا يَقَعُ عَلَيْهِ طَلَاقٌ ، وَإِنَّهُ إِنْ أَصَابَهَا قَبْلَ أَنْ تَنْقَضِيَ عِدَّتُهَا ، كَانَ أَحَقَّ بِهَا ، وَإِنْ مَضَتْ عِدَّتُهَا قَبْلَ أَنْ يُصِيبَهَا ، فَلَا سَبِيلَ لَهُ إِلَيْهَا ، وَهَذَا أَحْسَنُ مَا سَمِعْتُ فِي ذَلِكَ . قَالَ مَالِكٌ فِي الرَّجُلِ يُولِي مِنَ امْرَأَتِهِ ، ثُمَّ يُطَلِّقُهَا فَتَنْقَضِي الْأَرْبَعَةُ الْأَشْهُرِ قَبْلَ انْقِضَاءِ عِدَّةِ الطَّلَاقِ ، قَالَ : هُمَا تَطْلِيقَتَانِ ، إِنْ هُوَ وُقِفَ ، وَلَمْ يَفِئْ ، وَإِنْ مَضَتْ عِدَّةُ الطَّلَاقِ قَبْلَ الْأَرْبَعَةِ الْأَشْهُرِ ، فَلَيْسَ الْإِيلَاءُ بِطَلَاقٍ ، وَذَلِكَ أَنَّ الْأَرْبَعَةَ الْأَشْهُرِ الَّتِي كَانَتْ تُوقَفُ بَعْدَهَا مَضَتْ ، وَلَيْسَتْ لَهُ يَوْمَئِذٍ بِامْرَأَةٍ . قَالَ مَالِكٌ : وَمَنْ حَلَفَ أَنْ لَا يَطَأَ امْرَأَتَهُ يَوْمًا أَوْ شَهْرًا ، ثُمَّ مَكَثَ حَتَّى يَنْقَضِيَ أَكْثَرُ مِنَ الْأَرْبَعَةِ الْأَشْهُرِ ، فَلَا يَكُونُ ذَلِكَ إِيلَاءً ، وَإِنَّمَا يُوقَفُ فِي الْإِيلَاءِ مَنْ حَلَفَ عَلَى أَكْثَرَ مِنَ الْأَرْبَعَةِ الْأَشْهُرِ ، فَأَمَّا مَنْ حَلَفَ أَنْ لَا يَطَأَ امْرَأَتَهُ أَرْبَعَةَ أَشْهُرٍ ، أَوْ أَدْنَى مِنْ ذَلِكَ ، فَلَا أَرَى عَلَيْهِ إِيلَاءً ، لِأَنَّهُ إِذَا دَخَلَ الْأَجَلُ الَّذِي يُوقَفُ عِنْدَهُ خَرَجَ مِنْ يَمِينِهِ ، وَلَمْ يَكُنْ عَلَيْهِ وَقْفٌ . قَالَ مَالِكٌ : مَنْ حَلَفَ لِامْرَأَتِهِ أَنْ لَا يَطَأَهَا حَتَّى تَفْطِمَ وَلَدَهَا ، فَإِنَّ ذَلِكَ لَا يَكُونُ إِيلَاءً ، وَقَدْ بَلَغَنِي أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ سُئِلَ عَنْ ذَلِكَ ، فَلَمْ يَرَهُ إِيلَاءً  1E290",
+      "collection": "Muwatta Malik",
+      "reference_number": 1359
+    },
+    {
+      "hadith_id": 9065,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik that he asked Ibn Shihab about the oath of abstinence of a slave, and he said: 'It is similar to the oath of abstinence of a free man, and it applies to him, and the oath of abstinence of a slave is two months.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَأَلَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Malik directly asking Ibn Shihab for his legal opinion (fatwa), not a transmitted hadith from the Prophet ﷺ",
+          "impact": "This represents Ibn Shihab's juristic view rather than a prophetic tradition. It is authentic as Ibn Shihab's opinion but not a marfu' hadith"
+        },
+        {
+          "issue": "The text continues with Malik's own legal commentary, which is his personal ijtihad",
+          "impact": "While valuable for understanding Maliki jurisprudence, these additions are not hadith narrations"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Ila of Slaves",
+        "Differences Between Free and Enslaved in Ila",
+        "Duration of Ila for Slaves"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنْ إِيلَاءِ الْعَبْدِ ، فَقَالَ : \" هُوَ نَحْوُ إِيلَاءِ الْحُرِّ ، وَهُوَ عَلَيْهِ وَاجِبٌ ، وَإِيلَاءُ الْعَبْدِ شَهْرَانِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1361
+    },
+    {
+      "hadith_id": 9067,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Sa'id ibn Amr ibn Sulaym al-Zuraqi, that he asked al-Qasim ibn Muhammad about a man who divorced a woman (or made a conditional statement) if he were to marry her. Al-Qasim ibn Muhammad said: 'Indeed, a man made a woman like the back of his mother to him if he were to marry her, so Umar ibn al-Khattab ordered him, if he were to marry her, not to approach her until he makes the expiation of one who has done zihar.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Amr ibn Sulaym",
+              "full_name": "Sa'id ibn Amr ibn Sulaym al-Zuraqi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَأَلَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَمَرَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "The chain from al-Qasim to Umar is not explicit, making this mursal"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Sa'id ibn Amr -> al-Qasim ibn Muhammad -> (unclear) -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain from al-Qasim ibn Muhammad to Umar ibn al-Khattab is not explicit and appears to be mursal, as al-Qasim was born after Umar's death",
+          "impact": "There are missing intermediary narrators between al-Qasim and Umar, weakening the chain"
+        },
+        {
+          "issue": "This is a mawquf narration preserving Umar's legal ruling rather than a direct statement from the Prophet ﷺ",
+          "impact": "While it authentically preserves a companion's ruling, it is not a marfu' hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Zihar (Comparing Wife to Mother's Back)",
+        "Conditional Zihar Before Marriage",
+        "Expiation for Zihar",
+        "Ruling from Umar ibn al-Khattab"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ سَعِيدِ بْنِ عَمْرِو بْنِ سُلَيْمٍ الزُّرَقِيِّ ، أَنَّهُ سَأَلَ الْقَاسِمَ بْنَ مُحَمَّدٍ عَنْ رَجُلٍ طَلَّقَ امْرَأَةً ، إِنْ هُوَ تَزَوَّجَهَا ، فَقَالَ الْقَاسِمُ بْنُ مُحَمَّدٍ : \" إِنَّ رَجُلًا جَعَلَ امْرَأَةً عَلَيْهِ كَظَهْرِ أُمِّهِ ، إِنْ هُوَ تَزَوَّجَهَا ، فَأَمَرَهُ عُمَرُ بْنُ الْخَطَّابِ \" إِنْ هُوَ تَزَوَّجَهَا ، أَنْ لَا يَقْرَبَهَا حَتَّى يُكَفِّرَ كَفَّارَةَ الْمُتَظَاهِرِ \"  1150 1153",
+      "collection": "Muwatta Malik",
+      "reference_number": 1363
+    },
+    {
+      "hadith_id": 9068,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Malik that it reached him that a man asked al-Qasim ibn Muhammad and Sulayman ibn Yasar about a man who made zihar from his wife before marrying her. They both said: 'If he marries her, he should not touch her until he makes the expiation of one who has done zihar.'",
+      "chains": [
+        {
+          "type": "mawquf/mursal",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal/disconnected"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "The chain is mursal (disconnected) with 'balaghahu' (it reached him)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> (disconnected) -> al-Qasim ibn Muhammad and Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain is mursal/disconnected, using 'annahu balaghahu' (it reached him), indicating missing intermediary narrators",
+          "impact": "This significantly weakens the chain as we do not know who transmitted this to Malik"
+        },
+        {
+          "issue": "This represents the legal opinions of two tabi'un scholars rather than a direct hadith from the Prophet ﷺ",
+          "impact": "While preserving scholarly views, this is not a marfu' hadith"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Zihar Before Marriage",
+        "Expiation for Zihar",
+        "Pre-marital Conditional Oaths"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِكٍ ، أَنَّهُ بَلَغَهُ ، أَنَّ رَجُلًا سَأَلَ الْقَاسِمَ بْنَ مُحَمَّدٍ ، وَسُلَيْمَانَ بْنَ يَسَارٍ ، عَنْ رَجُلٍ تَظَاهَرَ مِنَ امْرَأَتِهِ قَبْلَ أَنْ يَنْكِحَهَا ، فَقَالَا : \" إِنْ نَكَحَهَا فَلَا يَمَسَّهَا ، حَتَّى يُكَفِّرَ كَفَّارَةَ الْمُتَظَاهِرِ \"  1151 1154",
+      "collection": "Muwatta Malik",
+      "reference_number": 1364
+    },
+    {
+      "hadith_id": 9069,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Malik, from Hisham ibn Urwah, from his father, that he said regarding a man who made zihar from four wives of his with one statement: 'There is only one expiation upon him.' And it was narrated to me from Malik, from Rabi'ah ibn Abi Abd al-Rahman, the same. Malik said: 'That is the matter with us. Allah the Exalted said regarding the expiation of one who makes zihar: \"The freeing of a slave before they touch each other. But whoever cannot find, then fasting for two consecutive months before they touch each other. And whoever is unable, then feeding sixty poor persons.\"' Malik said regarding the man who makes zihar from his wife in separate gatherings, he said: 'There is only one expiation upon him. If he makes zihar, then makes expiation, then makes zihar after he has made expiation, then the expiation is also upon him.' Malik said: 'Whoever makes zihar from his wife then touches her before making expiation, there is only one expiation upon him, and he refrains from her until he makes expiation, and let him seek Allah's forgiveness. That is the best that I have heard.' Malik said: 'Zihar from relatives by breastfeeding and lineage are the same.' Malik said: 'There is no zihar upon women.' Malik said regarding the statement of Allah, Blessed and Exalted: \"And those who make zihar from their wives then return to what they said\" - he said: 'I heard that the interpretation of that is: that the man makes zihar from his wife then determines to keep her and have relations with her. If he determines upon that, then the expiation has become obligatory upon him. And if he divorces her and does not determine after his zihar from her to keep her and have relations with her, then there is no expiation upon him.' Malik said: 'If he marries her after that, he does not touch her until he makes the expiation of one who has done zihar.' Malik said regarding the man who makes zihar from his slave woman: 'If he wants to have relations with her, then upon him is the expiation of zihar before he has intercourse with her.' Malik said: 'No oath of abstinence (ila) enters upon the man in his zihar unless he is being harmful, not wanting to return from his zihar.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farukh al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "مِثْلَ ذَلِكَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr",
+        "Yahya ibn Yahya -> Malik -> Rabi'ah ibn Abi Abd al-Rahman"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are mawquf narrations representing the legal opinions of Urwah ibn al-Zubayr and Rabi'ah ibn Abi Abd al-Rahman, not direct hadiths from the Prophet ﷺ",
+          "impact": "While authentically preserving these scholars' views, these are not marfu' hadiths"
+        },
+        {
+          "issue": "Most of the extensive text consists of Malik's own legal opinions and juristic reasoning",
+          "impact": "These represent Malik's ijtihad and are valuable for Maliki fiqh but are not hadith narrations"
+        },
+        {
+          "issue": "The narrations use indirect transmission terms ('an عَنْ) though the narrators are all highly reliable",
+          "impact": "Given the exceptional reliability of all narrators in these chains, this has minimal impact"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Zihar from Multiple Wives",
+        "Expiation for Zihar",
+        "Quranic Verses on Zihar",
+        "Zihar in Relation to Breastfeeding and Lineage",
+        "Zihar from Slave Women",
+        "Relationship Between Zihar and Ila"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، أَنَّهُ قَالَ فِي رَجُلٍ تَظَاهَرَ مِنْ أَرْبَعَةِ نِسْوَةٍ لَهُ بِكَلِمَةٍ وَاحِدَةٍ : \" إِنَّهُ لَيْسَ عَلَيْهِ إِلَّا كَفَّارَةٌ وَاحِدَةٌ \" . وَحَدَّثَنِي ، عَنْ مَالِكٍ ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ مِثْلَ ذَلِكَ . قَالَ مَالِكٌ : وَعَلَى ذَلِكَ الْأَمْرُ عِنْدَنَا ، قَالَ اللَّهُ تَعَالَى فِي كَفَّارَةِ الْمُتَظَاهِرِ : فَتَحْرِيرُ رَقَبَةٍ مِنْ قَبْلِ أَنْ يَتَمَاسَّا سورة المجادلة آية 3 . فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِ مِنْ قَبْلِ أَنْ يَتَمَاسَّا فَمَنْ لَمْ يَسْتَطِعْ فَإِطْعَامُ سِتِّينَ مِسْكِينًا سورة المجادلة آية 4 . قَالَ مَالِكٌ فِي الرَّجُلِ يَتَظَاهَرُ مِنَ امْرَأَتِهِ فِي مَجَالِسَ مُتَفَرِّقَةٍ ، قَالَ : لَيْسَ عَلَيْهِ إِلَّا كَفَّارَةٌ وَاحِدَةٌ ، فَإِنْ تَظَاهَرَ ، ثُمَّ كَفَّرَ ، ثُمَّ تَظَاهَرَ بَعْدَ أَنْ يُكَفِّرَ ، فَعَلَيْهِ الْكَفَّارَةُ أَيْضًا . قَالَ مَالِكٌ : وَمَنْ تَظَاهَرَ مِنَ امْرَأَتِهِ ، ثُمَّ مَسَّهَا قَبْلَ أَنْ يُكَفِّرَ ، لَيْسَ عَلَيْهِ إِلَّا كَفَّارَةٌ وَاحِدَةٌ ، وَيَكُفُّ عَنْهَا حَتَّى يُكَفِّرَ ، وَلْيَسْتَغْفِرِ اللَّهَ ، وَذَلِكَ أَحْسَنُ مَا سَمِعْتُ . قَالَ مَالِكٌ : وَالظِّهَارُ مِنْ ذَوَاتِ الْمَحَارِمِ ، مِنَ الرَّضَاعَةِ وَالنَّسَبِ سَوَاءٌ . قَالَ مَالِكٌ : وَلَيْسَ عَلَى النِّسَاءِ ظِهَارٌ . قَالَ مَالِكٌ فِي قَوْلِ اللَّهِ تَبَارَكَ وَتَعَالَى : وَالَّذِينَ يُظَاهِرُونَ مِنْ نِسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا سورة المجادلة آية 3 ، قَالَ : سَمِعْتُ أَنَّ تَفْسِيرَ ذَلِكَ : أَنْ يَتَظَاهَرَ الرَّجُلُ مِنَ امْرَأَتِهِ ثُمَّ يُجْمِعَ عَلَى إِمْسَاكِهَا وَإِصَابَتِهَا ، فَإِنْ أَجْمَعَ عَلَى ذَلِكَ فَقَدْ وَجَبَتْ عَلَيْهِ الْكَفَّارَةُ ، وَإِنْ طَلَّقَهَا وَلَمْ يُجْمِعْ بَعْدَ تَظَاهُرِهِ مِنْهَا عَلَى إِمْسَاكِهَا وَإِصَابَتِهَا ، فَلَا كَفَّارَةَ عَلَيْهِ . قَالَ مَالِكٌ : فَإِنْ تَزَوَّجَهَا بَعْدَ ذَلِكَ ، لَمْ يَمَسَّهَا حَتَّى يُكَفِّرَ كَفَّارَةَ الْمُتَظَاهِرِ . قَالَ مَالِكٌ فِي الرَّجُلِ يَتَظَاهَرُ مِنْ أَمَتِهِ : إِنَّهُ إِنْ أَرَادَ أَنْ يُصِيبَهَا ، فَعَلَيْهِ كَفَّارَةُ الظِّهَارِ قَبْلَ أَنْ يَطَأَهَا . قَالَ مَالِكٌ : لَا يَدْخُلُ عَلَى الرَّجُلِ إِيلَاءٌ فِي تَظَاهُرِهِ إِلَّا أَنْ يَكُونَ مُضَارًّا ، لَا يُرِيدُ أَنْ يَفِيءَ مِنْ تَظَاهُرِهِ  \u0005E291 1152 1155",
+      "collection": "Muwatta Malik",
+      "reference_number": 1365
+    },
+    {
+      "hadith_id": 9070,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Malik, from Hisham ibn Urwah, that he heard a man asking Urwah ibn al-Zubayr about a man who said to his wife: 'Every woman I marry upon you as long as you live, she is to me like the back of my mother.' Urwah ibn al-Zubayr said: 'It suffices him for that the freeing of one slave.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration representing Urwah's legal opinion (fatwa) rather than a direct hadith from the Prophet ﷺ",
+          "impact": "While authentically preserving Urwah's view, this is not a marfu' hadith"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Conditional Zihar on Future Wives",
+        "Expiation for Multiple Conditional Zihar Statements",
+        "Fatwa from Urwah ibn al-Zubayr"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، أَنَّهُ سَمِعَ رَجُلًا يَسْأَلُ عُرْوَةَ بْنَ الزُّبَيْرِ عَنْ رَجُلٍ قَالَ لِامْرَأَتِهِ : كُلُّ امْرَأَةٍ أَنْكِحُهَا عَلَيْكِ مَا عِشْتِ ، فَهِيَ عَلَيَّ كَظَهْرِ أُمِّي ، فَقَالَ عُرْوَةُ بْنُ الزُّبَيْرِ : \" يُجْزئهِ عَنْ ذَلِكَ عِتْقُ رَقَبَةٍ \"  E292",
+      "collection": "Muwatta Malik",
+      "reference_number": 1366
+    },
+    {
+      "hadith_id": 9072,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik that he asked Ibn Shihab about the zihar of a slave, and he said: 'It is similar to the zihar of a free man.' Malik said: 'He means that it falls upon him as it falls upon the free man.' Malik said: 'The zihar of a slave is obligatory upon him, and the fasting of a slave in zihar is two months.' Malik said regarding the slave who makes zihar from his wife: 'No oath of abstinence (ila) enters upon him, and that is because if he were to go fast the fasting of the expiation of one who makes zihar, the divorce of ila would enter upon him before he finishes his fasting.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَأَلَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Malik directly asking Ibn Shihab for his legal opinion (fatwa), not a transmitted hadith from the Prophet ﷺ",
+          "impact": "This represents Ibn Shihab's juristic view and Malik's additional commentary, not a marfu' hadith"
+        },
+        {
+          "issue": "Most of the text consists of Malik's own legal reasoning and opinions",
+          "impact": "While valuable for Maliki jurisprudence, these are not hadith narrations but fiqh reasoning"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Zihar of Slaves",
+        "Fasting Duration for Slaves in Zihar Expiation",
+        "Relationship Between Zihar and Ila for Slaves"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنْ ظِهَارِ الْعَبْدِ ، فَقَالَ : \" نَحْوُ ظِهَارِ الْحُرِّ \" . قَالَ مَالِكٌ : يُرِيدُ أَنَّهُ يَقَعُ عَلَيْهِ كَمَا يَقَعُ عَلَى الْحُرِّ . قَالَ مَالِكٌ : وَظِهَارُ الْعَبْدِ عَلَيْهِ وَاجِبٌ ، وَصِيَامُ الْعَبْدِ فِي الظِّهَارِ شَهْرَانِ . قَالَ مَالِكٌ فِي الْعَبْدِ يَتَظَاهَرُ مِنَ امْرَأَتِهِ : إِنَّهُ لَا يَدْخُلُ عَلَيْهِ إِيلَاءٌ ، وَذَلِكَ أَنَّهُ لَوْ ذَهَبَ يَصُومُ صِيَامَ كَفَّارَةِ الْمُتَظَاهِرِ ، دَخَلَ عَلَيْهِ طَلَاقُ الْإِيلَاءِ قَبْلَ أَنْ يَفْرُغَ مِنْ صِيَامِهِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1368
+    },
+    {
+      "hadith_id": 9074,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Rabi'ah ibn Abi Abd al-Rahman, from al-Qasim ibn Muhammad, from Aisha, the Mother of the Believers, that she said: 'There were three legal precedents (sunan) in Barirah: One of the three precedents was that she was freed, and was given a choice regarding her husband. And the Messenger of Allah ﷺ said: \"Wala (clientage) belongs to the one who frees.\"' And the Messenger of Allah ﷺ entered while the pot was boiling with meat, and bread was brought to him, and condiment from the condiments of the house. The Messenger of Allah ﷺ said: 'Did I not see a pot with meat in it?' They said: 'Yes, O Messenger of Allah, but that is meat given as charity to Barirah, and you do not eat charity.' So the Messenger of Allah ﷺ said: 'It is charity for her, and it is a gift for us.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farukh al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Taymiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Rabi'ah ibn Abi Abd al-Rahman -> al-Qasim ibn Muhammad -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) multiple times, which is an indirect transmission term",
+          "impact": "However, all narrators in this chain are highly reliable (Thiqah or higher) and none are known for problematic tadlis. The Golden Chain nature (ending in a major companion) and the reliability of all narrators makes this acceptable"
+        },
+        {
+          "issue": "Rabi'ah ibn Abi Abd al-Rahman is rated Thiqah (reliable) but not at the highest level",
+          "impact": "Rabi'ah is well-known and trusted, though he occasionally made mistakes. His inclusion does not significantly weaken this chain"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Story of Barirah the Freed Slave",
+        "Choice of Freed Slave Woman Regarding Her Husband",
+        "Wala (Clientage) Belongs to the Freer",
+        "Charity Given to Freed Slave as Gift to Prophet ﷺ",
+        "Incident of the Prophet ﷺ and the Pot of Meat"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ ، عَنْ عَائِشَةَ أُمِّ الْمُؤْمِنِينَ ، أَنَّهَا قَالَتْ : كَانَ فِي بَرِيرَةَ ثَلَاثُ سُنَنٍ : فَكَانَتْ إِحْدَى السُّنَنِ الثَّلَاثِ أَنَّهَا أُعْتِقَتْ ، فَخُيِّرَتْ فِي زَوْجِهَا ، وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الْوَلَاءُ لِمَنْ أَعْتَقَ \"  1155 1158 وَدَخَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالْبُرْمَةُ تَفُورُ بِلَحْمٍ ، فَقُرِّبَ إِلَيْهِ خُبْزٌ ، وَأُدْمٌ مِنْ أُدْمِ الْبَيْتِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَلَمْ أَرَ بُرْمَةً فِيهَا لَحْمٌ ؟ \" فَقَالُوا : بَلَى يَا رَسُولَ اللَّهِ ، وَلَكِنْ ذَلِكَ لَحْمٌ تُصُدِّقَ بِهِ عَلَى بَرِيرَةَ ، وَأَنْتَ لَا تَأْكُلُ الصَّدَقَةَ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" هُوَ عَلَيْهَا صَدَقَةٌ ، وَهُوَ لَنَا هَدِيَّةٌ \"  1156 1159",
+      "collection": "Muwatta Malik",
+      "reference_number": 1370
+    },
+    {
+      "hadith_id": 9075,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Malik, from Nafi', from Abdullah ibn Umar, that he used to say regarding the slave woman who is under a slave and then is freed: 'The slave woman has the choice as long as he has not touched her.' Malik said: 'And if her husband touches her, and she claims that she was ignorant that she had a choice, then she is suspected and is not believed in what she claimed of ignorance, and there is no choice for her after he touches her.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration representing Ibn Umar's legal opinion rather than a direct hadith from the Prophet ﷺ",
+          "impact": "While authentically preserving Ibn Umar's view through the famous 'Golden Chain', this is not a marfu' hadith"
+        },
+        {
+          "issue": "Malik narrates with 'an (عَنْ) from Nafi', though Malik is not known as a mudallis",
+          "impact": "Given Malik's exceptional reliability and the Golden Chain status, this has minimal impact"
+        },
+        {
+          "issue": "The additional commentary from Malik represents his own legal reasoning",
+          "impact": "This is Malik's ijtihad and juristic opinion, not part of the transmitted narration"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Choice of Freed Slave Woman",
+        "Rights of Freed Woman Regarding Marriage",
+        "Ignorance as Excuse in Marriage Choices"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ كَانَ يَقُولُ فِي الْأَمَةِ تَكُونُ تَحْتَ الْعَبْدِ فَتَعْتِقُ : \" إِنَّ الْأَمَةَ لَهَا الْخِيَارُ مَا لَمْ يَمَسَّهَا \" . قَالَ مَالِكٌ : وَإِنْ مَسَّهَا زَوْجُهَا ، فَزَعَمَتْ أَنَّهَا جَهِلَتْ أَنَّ لَهَا الْخِيَارَ ، فَإِنَّهَا تُتَّهَمُ وَلَا تُصَدَّقُ بِمَا ادَّعَتْ مِنَ الْجَهَالَةِ ، وَلَا خِيَارَ لَهَا بَعْدَ أَنْ يَمَسَّهَا  E293 1157 1160",
+      "collection": "Muwatta Malik",
+      "reference_number": 1371
+    }
+  ]
+}

@@ -1,0 +1,1244 @@
+{
+  "batch_number": 2,
+  "file_number": 7,
+  "record_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 9091,
+      "book_id": 19,
+      "narrator_id": 7272,
+      "english_translation": "Narrated by Muhammad ibn Iyas ibn al-Bukayr: A man divorced his wife three times before consummating the marriage, then it occurred to him to marry her (again). He came seeking a religious ruling, so I went with him to ask on his behalf. We asked Abdullah ibn Abbas and Abu Hurayrah about that, and they both said: 'We do not see that you can marry her until she marries another husband besides you.' He said: 'But my divorce to her was only one.' Ibn Abbas said: 'Verily you have released from your hand what you had of advantage.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي التميمي",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حدثنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن شهاب",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري",
+              "grade": "Thabt Hafiz",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Classified as category 3 mudallis by some scholars, but widely considered extremely reliable"
+              ]
+            },
+            {
+              "name": "محمد بن عبد الرحمن بن ثوبان",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن إياس بن البكير",
+              "full_name": "محمد بن إياس بن البكير الليثي المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ثم بدا له أن ينكحها",
+              "full_name": "ثم بدا له أن ينكحها",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وأبا هريرة ذلك",
+              "full_name": "وأبا هريرة ذلك",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قال ابن عباس : \" إنك أرسلت من يدك ما كان لك من فضل \" * 1171",
+              "full_name": "عبد الله بن عباس بن عبد المطلب الهاشمي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى -> مالك -> ابن شهاب -> محمد بن عبد الرحمن بن ثوبان -> محمد بن إياس بن البكير -> ثم بدا له أن ينكحها -> وأبا هريرة ذلك -> قال ابن عباس : \" إنك أرسلت من يدك ما كان لك من فضل \" * 1171"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابن شهاب is known for tadlis and uses 'عن'",
+          "impact": "ابن شهاب is widely considered highly reliable, so this does not significantly impact the grade"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Requirement of remarriage to another for reconciliation",
+        "Consultation with Ibn Abbas and Abu Hurayrah"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ L7064 /26 ، عَنْ /26 مُحَمَّدِ بْنِ إِيَاسِ بْنِ الْبُكَيْرِ L6824 /26 ، أَنَّهُ قَالَ : /27 طَلَّقَ رَجُلٌ امْرَأَتَهُ ثَلَاثًا قَبْلَ أَنْ يَدْخُلَ بِهَا ، ثُمَّ بَدَا لَهُ أَنْ يَنْكِحَهَا ، فَجَاءَ يَسْتَفْتِي ، فَذَهَبْتُ مَعَهُ أَسْأَلُ لَهُ ، فَسَأَلَ /93 عَبْدَ اللَّهِ بْنَ عَبَّاسٍ L4883 /93 ، /93 وَأَبَا هُرَيْرَةَ L4396 /93 عَنْ ذَلِكَ ، فَقَالَا : /20 \" لَا نَرَى أَنْ تَنْكِحَهَا حَتَّى تَنْكِحَ زَوْجًا غَيْرَكَ \" ، قَالَ : فَإِنَّمَا طَلَاقِي إِيَّاهَا وَاحِدَةٌ ، قَالَ ابْنُ عَبَّاسٍ : \" إِنَّكَ أَرْسَلْتَ مِنْ يَدِكَ مَا كَانَ لَكَ مِنْ فَضْلٍ \" /27 * \r\n$1168  1171 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1387,
+      "grade": null
+    },
+    {
+      "hadith_id": 9092,
+      "book_id": 19,
+      "narrator_id": 8272,
+      "english_translation": "[Manual translation needed for hadith 9092]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "بكير بن عبد الله بن الأشج",
+              "full_name": "بكير بن عبد الله بن الأشج القرشي المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "النعمان بن أبي عياش الأنصاري",
+              "full_name": "النعمان بن أبي عياش الأنصاري المدني",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عطاء بن يسار",
+              "full_name": "عطاء بن يسار الهلالي المدني",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قال عطاء : فقلت : إنما طلاق البكر واحدة",
+              "full_name": "عطاء بن يسار الهلالي المدني",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فقال لي عبد الله بن عمرو بن العاص : \" إنما أنت قاص",
+              "full_name": "عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الواحدة تبينها",
+              "full_name": "الواحدة تبينها",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "والثلاثة تحرمها حتى تنكح زوجا غيره \" * 1172",
+              "full_name": "والثلاثة تحرمها حتى تنكح زوجا غيره \" * 1172",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> يحيى بن سعيد -> بكير بن عبد الله بن الأشج -> النعمان بن أبي عياش الأنصاري -> عطاء بن يسار -> قال عطاء : فقلت : إنما طلاق البكر واحدة -> فقال لي عبد الله بن عمرو بن العاص : \" إنما أنت قاص -> الواحدة تبينها -> والثلاثة تحرمها حتى تنكح زوجا غيره \" * 1172"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous term 'عن' with reliable narrators",
+          "impact": "Minor consideration given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Requirement of remarriage to another for reconciliation"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الْأَشَجِّ L1951 /26 ، عَنِ /26 النُّعْمَانِ بْنِ أَبِي عَيَّاشٍ الْأَنْصَارِيِّ L1730 /26 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، أَنَّهُ قَالَ : /27 جَاءَ رَجُلٌ يَسْأَلُ عَبْدَ اللَّهِ بْنَ عَمْرِو بْنِ الْعَاصِ ، عَنْ رَجُلٍ طَلَّقَ امْرَأَتَهُ ثَلَاثًا قَبْلَ أَنْ يَمَسَّهَا ، قَالَ عَطَاءٌ : فَقُلْتُ : إِنَّمَا طَلَاقُ الْبِكْرِ وَاحِدَةٌ ، فَقَالَ لِي /93 عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ الْعَاصِ L4980 /93 : \" إِنَّمَا أَنْتَ قَاصٌّ ، /20 الْوَاحِدَةُ تُبِينُهَا ، وَالثَّلَاثَةُ تُحَرِّمُهَا حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ \" /27 * \r\n$1169  1172 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1388,
+      "grade": null
+    },
+    {
+      "hadith_id": 9093,
+      "book_id": 19,
+      "narrator_id": 8272,
+      "english_translation": "[Manual translation needed for hadith 9093]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "بكير بن عبد الله بن الأشج أنه أخبره",
+              "full_name": "بكير بن عبد الله بن الأشج القرشي المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "معاوية بن أبي عياش الأنصاري",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أنه كان جالسا مع عبد الله بن الزبير",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وعاصم بن عمر بن الخطاب",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فماذا تريان ؟ فقال عبد الله بن الزبير : إن هذا الأمر ما لنا فيه قول",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وأبي هريرة",
+              "full_name": "وأبي هريرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فإني تركتهما د عائشة",
+              "full_name": "فإني تركتهما د عائشة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فسلهما ثم ائتنا",
+              "full_name": "فسلهما ثم ائتنا",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فقال ابن عباس",
+              "full_name": "عبد الله بن عباس بن عبد المطلب الهاشمي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "لأبي هريرة : أفته يا أبا هريرة",
+              "full_name": "لأبي هريرة : أفته يا أبا هريرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فقال أبو هريرة : \" الواحدة تبينها",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "والثلاثة تحرمها",
+              "full_name": "والثلاثة تحرمها",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حتى تنكح زوجا غيره \"",
+              "full_name": "حتى تنكح زوجا غيره \"",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وقال ابن عباس : مثل ذلك . قال مالك : وعلى ذلك الأمر دنا . والثيب إذا ملكها الرجل فلم يدخل بها",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "إنها تجري مجرى البكر الواحدة تبينها",
+              "full_name": "إنها تجري مجرى البكر الواحدة تبينها",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "والثلاث تحرمها",
+              "full_name": "والثلاث تحرمها",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حتى تنكح زوجا غيره * #E297",
+              "full_name": "حتى تنكح زوجا غيره * #E297",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> يحيى بن سعيد -> بكير بن عبد الله بن الأشج أنه أخبره -> معاوية بن أبي عياش الأنصاري -> أنه كان جالسا مع عبد الله بن الزبير -> وعاصم بن عمر بن الخطاب -> فماذا تريان ؟ فقال عبد الله بن الزبير : إن هذا الأمر ما لنا فيه قول -> وأبي هريرة -> فإني تركتهما د عائشة -> فسلهما ثم ائتنا -> فقال ابن عباس -> لأبي هريرة : أفته يا أبا هريرة -> فقال أبو هريرة : \" الواحدة تبينها -> والثلاثة تحرمها -> حتى تنكح زوجا غيره \" -> وقال ابن عباس : مثل ذلك . قال مالك : وعلى ذلك الأمر دنا . والثيب إذا ملكها الرجل فلم يدخل بها -> إنها تجري مجرى البكر الواحدة تبينها -> والثلاث تحرمها -> حتى تنكح زوجا غيره * #E297"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous term 'عن' with reliable narrators",
+          "impact": "Minor consideration given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Requirement of remarriage to another for reconciliation",
+        "Consultation with Ibn Abbas and Abu Hurayrah"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الْأَشَجِّ L1951 /26 أَنَّهُ أَخْبَرَهُ ، عَنْ /26 مُعَاوِيَةَ بْنِ أَبِي عَيَّاشٍ الْأَنْصَارِيِّ L7571 /26 ، /27 أَنَّهُ كَانَ جَالِسًا مَعَ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ ، وَعَاصِمِ بْنِ عُمَرَ بْنِ الْخَطَّابِ ، قَالَ : فَجَاءَهُمَا مُحَمَّدُ بْنُ إِيَاسِ بْنِ الْبُكَيْرِ ، فَقَالَ : إِنَّ رَجُلًا مِنْ أَهْلِ الْبَادِيَةِ طَلَّقَ امْرَأَتَهُ ثَلَاثًا قَبْلَ أَنْ يَدْخُلَ بِهَا ، فَمَاذَا تَرَيَانِ ؟ فَقَالَ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ : إِنَّ هَذَا الْأَمْرَ مَا لَنَا فِيهِ قَوْلٌ ، فَاذْهَبْ إِلَى عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، وَأَبِي هُرَيْرَةَ ، فَإِنِّي تَرَكْتُهُمَا عِنْدَ /64 عَائِشَةَ /64 ، فَسَلْهُمَا ثُمَّ ائْتِنَا ، فَأَخْبِرْنَا ، فَذَهَبَ فَسَأَلَهُمَا ، فَقَالَ ابْنُ عَبَّاسٍ ، لِأَبِي هُرَيْرَةَ : أَفْتِهِ يَا أَبَا هُرَيْرَةَ ، فَقَدْ جَاءَتْكَ مُعْضِلَةٌ ، فَقَالَ /93 أَبُو هُرَيْرَةَ L4396 /93 : /20 \" الْوَاحِدَةُ تُبِينُهَا ، وَالثَّلَاثَةُ تُحَرِّمُهَا ، حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ \" ، وَقَالَ /93 ابْنُ عَبَّاسٍ L4883 /93 : مِثْلَ ذَلِكَ /27 . قَالَ /12 مَالِكٌ /12 : /10 وَعَلَى ذَلِكَ الْأَمْرُ عِنْدَنَا . وَالثَّيِّبُ إِذَا مَلَكَهَا الرَّجُلُ فَلَمْ يَدْخُلْ بِهَا ، إِنَّهَا تَجْرِي مَجْرَى الْبِكْرِ الْوَاحِدَةُ تُبِينُهَا ، وَالثَّلَاثُ تُحَرِّمُهَا ، حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ /10 * \r\n#E297",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1389,
+      "grade": null
+    },
+    {
+      "hadith_id": 9095,
+      "book_id": 19,
+      "narrator_id": 7272,
+      "english_translation": "[Manual translation needed for hadith 9095]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "1173 يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي التميمي",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حدثنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن شهاب",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري",
+              "grade": "Thabt Hafiz",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Classified as category 3 mudallis by some scholars, but widely considered extremely reliable"
+              ]
+            },
+            {
+              "name": "طلحة بن عبد الله بن عوف",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "و أبي سلمة بن عبد الرحمن بن عوف",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وهو مريض",
+              "full_name": "وهو مريض",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فورثها عثمان بن عفان منه بعد انقضاء عدتها \" * 1174 و",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "حدثنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن الفضل",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الأعرج",
+              "full_name": "الأعرج",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أن عثمان بن عفان \" ورث نساء ابن مكمل منه",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أنه سمع ربيعة بن أبي عبد الرحمن",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يقول : بلغني",
+              "full_name": "يقول : بلغني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فلم تحض حتى مرض عبد الرحمن بن عوف",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فلما طهرت آذنته",
+              "full_name": "فلما طهرت آذنته",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أو تطليقة لم يكن بقي له عليها من الطلاق غيرها",
+              "full_name": "أو تطليقة لم يكن بقي له عليها من الطلاق غيرها",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وعبد الرحمن بن عوف يومئذ مريض",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "\" فورثها عثمان بن عفان منه بعد انقضاء عدتها \" * 1176",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "1173 يحيى -> مالك -> ابن شهاب -> طلحة بن عبد الله بن عوف -> و أبي سلمة بن عبد الرحمن بن عوف -> وهو مريض -> فورثها عثمان بن عفان منه بعد انقضاء عدتها \" * 1174 و -> مالك -> عبد الله بن الفضل -> الأعرج -> أن عثمان بن عفان \" ورث نساء ابن مكمل منه -> مالك -> أنه سمع ربيعة بن أبي عبد الرحمن -> يقول : بلغني -> فلم تحض حتى مرض عبد الرحمن بن عوف -> فلما طهرت آذنته -> أو تطليقة لم يكن بقي له عليها من الطلاق غيرها -> وعبد الرحمن بن عوف يومئذ مريض -> \" فورثها عثمان بن عفان منه بعد انقضاء عدتها \" * 1176"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابن شهاب is known for tadlis and uses 'عن'",
+          "impact": "ابن شهاب is widely considered highly reliable, so this does not significantly impact the grade"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "$1170  1173 /3 /141 حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عَوْفٍ L4016 /26 ، قَالَ : وَكَانَ أَعْلَمَهُمْ بِذَلِكَ ، وَعَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ L4903 /26 ، /27 \" أَنَّ /93 عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ L4461 /93 طَلَّقَ امْرَأَتَهُ الْبَتَّةَ ، وَهُوَ مَرِيضٌ ، /20 فَوَرَّثَهَا /93 عُثْمَانُ بْنُ عَفَّانَ L5543 /93 مِنْهُ بَعْدَ انْقِضَاءِ عِدَّتِهَا \" /27 * \r\n$1171  1174 /3 /141 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ الْفَضْلِ L4712 /94 ، عَنِ /26 الْأَعْرَجِ L4506 /26 ، /27 أَنَّ /93 عُثْمَانَ بْنَ عَفَّانَ L5543 /93 /20 \" وَرَّثَ نِسَاءَ ابْنِ مُكْمِلٍ مِنْهُ ، وَكَانَ طَلَّقَهُنَّ وَهُوَ مَرِيضٌ \" /27 * \r\n$1172  1175 /3 /141 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، أَنَّهُ سَمِعَ /94 رَبِيعَةَ بْنَ أَبِي عَبْدِ الرَّحْمَنِ L2885 /94 ، يَقُولُ : /18 بَلَغَنِي /18 ، /27 أَنَّ /64 امْرَأَةَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ /64 سَأَلَتْهُ أَنْ يُطَلِّقَهَا ، فَقَالَ : إِذَا حِضْتِ ثُمَّ طَهُرْتِ فَآذِنِينِي ، فَلَمْ تَحِضْ حَتَّى مَرِضَ /93 عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ L4461 /93 ، فَلَمَّا طَهُرَتْ آذَنَتْهُ ، فَطَلَّقَهَا الْبَتَّةَ ، أَوْ تَطْلِيقَةً لَمْ يَكُنْ بَقِيَ لَهُ عَلَيْهَا مِنَ الطَّلَاقِ غَيْرُهَا ، وَعَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ يَوْمَئِذٍ مَرِيضٌ ، /20 \" فَوَرَّثَهَا /93 عُثْمَانُ بْنُ عَفَّانَ L5543 /93 مِنْهُ بَعْدَ انْقِضَاءِ عِدَّتِهَا \" /27 * \r\n$1173  1176 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1391,
+      "grade": null
+    },
+    {
+      "hadith_id": 9096,
+      "book_id": 19,
+      "narrator_id": 8272,
+      "english_translation": "[Manual translation needed for hadith 9096]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن يحيى بن حبان",
+              "full_name": "يحيى بن يحيى بن كثير الليثي التميمي",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فمرت بها سنة",
+              "full_name": "فمرت بها سنة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ثم هلك ها ولم تحض",
+              "full_name": "ثم هلك ها ولم تحض",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فقالت : أنا أرثه",
+              "full_name": "فقالت : أنا أرثه",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "لم أحض",
+              "full_name": "لم أحض",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فاختصمتا إلى عثمان بن عفان",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "\" فقضى لها بالميراث \"",
+              "full_name": "\" فقضى لها بالميراث \"",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فلامت الهاشمية عثمان",
+              "full_name": "فلامت الهاشمية عثمان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "هو أشار علينا بهذا \"",
+              "full_name": "هو أشار علينا بهذا \"",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ي ي علي بن أبي طالب * 1177",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> يحيى بن سعيد -> محمد بن يحيى بن حبان -> فمرت بها سنة -> ثم هلك ها ولم تحض -> فقالت : أنا أرثه -> لم أحض -> فاختصمتا إلى عثمان بن عفان -> \" فقضى لها بالميراث \" -> فلامت الهاشمية عثمان -> هو أشار علينا بهذا \" -> ي ي علي بن أبي طالب * 1177"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous term 'عن' with reliable narrators",
+          "impact": "Minor consideration given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ L7319 /26 ، قَالَ : /27 كَانَتْ عِنْدَ جَدِّي حَبَّانَ امْرَأَتَانِ هَاشِمِيَّةٌ وَأَنْصَارِيَّةٌ ، فَطَلَّقَ الْأَنْصَارِيَّةَ وَهِيَ تُرْضِعُ ، فَمَرَّتْ بِهَا سَنَةٌ ، ثُمَّ هَلَكَ عَنْهَا وَلَمْ تَحِضْ ، فَقَالَتْ : أَنَا أَرِثُهُ ، لَمْ أَحِضْ ، فَاخْتَصَمَتَا إِلَى /93 عُثْمَانَ بْنِ عَفَّانَ L5543 /93 ، /20 \" فَقَضَى لَهَا بِالْمِيرَاثِ \" ، فَلَامَتِ الْهَاشِمِيَّةُ عُثْمَانَ ، فَقَالَ : \" وَهَذَا عَمَلُ ابْنِ عَمِّكِ ، هُوَ أَشَارَ عَلَيْنَا بِهَذَا \" ، يَعْنِي /93 عَلِيَّ بْنَ أَبِي طَالِبٍ L5722 /93 /27 * \r\n$1174  1177 /8",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1392,
+      "grade": null
+    },
+    {
+      "hadith_id": 9097,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "[Manual translation needed for hadith 9097]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أنه سمع ابن شهاب",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري",
+              "grade": "Thabt Hafiz",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Classified as category 3 mudallis by some scholars, but widely considered extremely reliable"
+              ]
+            },
+            {
+              "name": "وهو مريض",
+              "full_name": "وهو مريض",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فلها نصف الصداق",
+              "full_name": "فلها نصف الصداق",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ولها الميراث",
+              "full_name": "ولها الميراث",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ولا عدة عليها",
+              "full_name": "ولا عدة عليها",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "والميراث البكر والثيب في هذا دنا سواء * +E298",
+              "full_name": "والميراث البكر والثيب في هذا دنا سواء * +E298",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> أنه سمع ابن شهاب -> وهو مريض -> فلها نصف الصداق -> ولها الميراث -> ولا عدة عليها -> والميراث البكر والثيب في هذا دنا سواء * +E298"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أنه سمع ابن شهاب is known for tadlis and uses 'عن'",
+          "impact": "أنه سمع ابن شهاب is widely considered highly reliable, so this does not significantly impact the grade"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، أَنَّهُ /27 سَمِعَ /94 ابْنَ شِهَابٍ /94 ، يَقُولُ : /20 \" إِذَا طَلَّقَ الرَّجُلُ امْرَأَتَهُ ثَلَاثًا ، وَهُوَ مَرِيضٌ ، فَإِنَّهَا تَرِثُهُ \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَإِنْ طَلَّقَهَا وَهُوَ مَرِيضٌ قَبْلَ أَنْ يَدْخُلَ بِهَا ، فَلَهَا نِصْفُ الصَّدَاقِ ، وَلَهَا الْمِيرَاثُ ، وَلَا عِدَّةَ عَلَيْهَا ، وَإِنْ دَخَلَ بِهَا ثُمَّ طَلَّقَهَا فَلَهَا الْمَهْرُ كُلُّهُ ، وَالْمِيرَاثُ الْبِكْرُ وَالثَّيِّبُ فِي هَذَا عِنْدَنَا سَوَاءٌ /10 * \r\n+E298",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1393,
+      "grade": null
+    },
+    {
+      "hadith_id": 9099,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "[Manual translation needed for hadith 9099]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "1178 يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي التميمي",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حدثنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أنه بلغه",
+              "full_name": "أنه بلغه",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فمتع بوليدة \" * 1179",
+              "full_name": "فمتع بوليدة \" * 1179",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "1178 يحيى -> مالك -> أنه بلغه -> فمتع بوليدة \" * 1179"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous term 'عن' with reliable narrators",
+          "impact": "Minor consideration given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "$1175  1178 /3 /141 حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ ، /27 \" أَنَّ /93 عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ /93 /20 طَلَّقَ امْرَأَةً لَهُ ، فَمَتَّعَ /64 بِوَلِيدَةٍ /64 \" /27 * \r\n$1176  1179 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1395,
+      "grade": null
+    },
+    {
+      "hadith_id": 9100,
+      "book_id": 19,
+      "narrator_id": 7863,
+      "english_translation": "[Manual translation needed for hadith 9100]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "نافع",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عمر",
+              "full_name": "عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ولم تمس",
+              "full_name": "ولم تمس",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فحسبها نصف ما فرض لها \" * 1180",
+              "full_name": "فحسبها نصف ما فرض لها \" * 1180",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> نافع -> عبد الله بن عمر -> ولم تمس -> فحسبها نصف ما فرض لها \" * 1180"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous term 'عن' with reliable narrators",
+          "impact": "Minor consideration given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّهُ كَانَ يَقُولُ : /20 \" لِكُلِّ مُطَلَّقَةٍ مُتْعَةٌ ، إِلَّا الَّتِي تُطَلَّقُ وَقَدْ فُرِضَ لَهَا صَدَاقٌ ، وَلَمْ تُمَسَّ ، فَحَسْبُهَا نِصْفُ مَا فُرِضَ لَهَا \" /27 * \r\n$1177  1180 /8",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1396,
+      "grade": null
+    },
+    {
+      "hadith_id": 9101,
+      "book_id": 19,
+      "narrator_id": 7272,
+      "english_translation": "[Manual translation needed for hadith 9101]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن شهاب",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري",
+              "grade": "Thabt Hafiz",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Classified as category 3 mudallis by some scholars, but widely considered extremely reliable"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> ابن شهاب"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابن شهاب is known for tadlis and uses 'عن'",
+          "impact": "ابن شهاب is widely considered highly reliable, so this does not significantly impact the grade"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، /27 عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، أَنَّهُ قَالَ : /20 \" لِكُلِّ مُطَلَّقَةٍ مُتْعَةٌ \" /27 . قَالَ /12 مَالِك /12 : /10 وَبَلَغَنِي عَنِ /26 الْقَاسِمِ بْنِ مُحَمَّدٍ L1598 /26 مِثْلُ ذَلِكَ /10 . قَالَ /12 مَالِك /12 : /10 لَيْسَ لِلْمُتْعَةِ عِنْدَنَا حَدٌّ مَعْرُوفٌ فِي قَلِيلِهَا وَلَا كَثِيرِهَا /10 *",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1397,
+      "grade": null
+    },
+    {
+      "hadith_id": 9103,
+      "book_id": 19,
+      "narrator_id": 4798,
+      "english_translation": "[Manual translation needed for hadith 9103]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي التميمي",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حدثنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبي الزناد",
+              "full_name": "أبي الزناد",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سليمان بن يسار",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أن نفيعا مكاتبا كان لأم سلمة زوج النبي صلى الله عليه وسلم",
+              "full_name": "أن نفيعا مكاتبا كان لأم سلمة زوج النبي صلى الله عليه وسلم",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أو عبدا لها كانت تحته امرأة حرة",
+              "full_name": "أو عبدا لها كانت تحته امرأة حرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فأمره أزواج النبي صلى الله عليه وسلم أن يأتي عثمان بن عفان",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فلقيه د الدرج آخذا بيد زيد بن ثابت",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فابتدراه جميعا",
+              "full_name": "فابتدراه جميعا",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فقالا : \" حرمت عليك",
+              "full_name": "فقالا : \" حرمت عليك",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حرمت عليك \" * 1182",
+              "full_name": "حرمت عليك \" * 1182",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى -> مالك -> أبي الزناد -> سليمان بن يسار -> أن نفيعا مكاتبا كان لأم سلمة زوج النبي صلى الله عليه وسلم -> أو عبدا لها كانت تحته امرأة حرة -> فأمره أزواج النبي صلى الله عليه وسلم أن يأتي عثمان بن عفان -> فلقيه د الدرج آخذا بيد زيد بن ثابت -> فابتدراه جميعا -> فقالا : \" حرمت عليك -> حرمت عليك \" * 1182 -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous term 'عن' with reliable narrators",
+          "impact": "Minor consideration given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الزِّنَادِ L4798 /94 ، عَنْ /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، /27 أَنَّ نُفَيْعًا مُكَاتَبًا كَانَ /64 لِأُمِّ سَلَمَةَ /64 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَوْ عَبْدًا لَهَا كَانَتْ تَحْتَهُ امْرَأَةٌ حُرَّةٌ ، فَطَلَّقَهَا اثْنَتَيْنِ ثُمَّ أَرَادَ أَنْ يُرَاجِعَهَا ، فَأَمَرَهُ أَزْوَاجُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَأْتِيَ /93 عُثْمَانَ بْنَ عَفَّانَ L5543 /93 ، فَيَسْأَلَهُ عَنْ ذَلِكَ ، فَلَقِيَهُ عِنْدَ /60 الدَّرَجِ /60 آخِذًا بِيَدِ /93 زَيْدِ بْنِ ثَابِتٍ L3131 /93 ، فَسَأَلَهُمَا ، فَابْتَدَرَاهُ جَمِيعًا ، فَقَالَا : /20 \" حَرُمَتْ عَلَيْكَ ، حَرُمَتْ عَلَيْكَ \" /27 * \r\n$1179  1182 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1399,
+      "grade": null
+    },
+    {
+      "hadith_id": 9104,
+      "book_id": 19,
+      "narrator_id": 7272,
+      "english_translation": "[Manual translation needed for hadith 9104]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن شهاب",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري",
+              "grade": "Thabt Hafiz",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": [
+                "Classified as category 3 mudallis by some scholars, but widely considered extremely reliable"
+              ]
+            },
+            {
+              "name": "سعيد بن المسيب",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فاستفتى عثمان بن عفان",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> ابن شهاب -> سعيد بن المسيب -> فاستفتى عثمان بن عفان -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابن شهاب is known for tadlis and uses 'عن'",
+          "impact": "ابن شهاب is widely considered highly reliable, so this does not significantly impact the grade"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، /27 أَنَّ نُفَيْعًا مُكَاتَبًا كَانَ /64 لِأُمِّ سَلَمَةَ /64 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَلَّقَ امْرَأَةً حُرَّةً تَطْلِيقَتَيْنِ ، فَاسْتَفْتَى /93 عُثْمَانَ بْنَ عَفَّانَ L5543 /93 ، فَقَالَ : /20 \" حَرُمَتْ عَلَيْكَ \" /27 * \r\n$1180  1183 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1400,
+      "grade": null
+    },
+    {
+      "hadith_id": 9105,
+      "book_id": 19,
+      "narrator_id": 5296,
+      "english_translation": "[Manual translation needed for hadith 9105]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Awthaq al-Nas",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد ربه بن سعيد",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن إبراهيم بن الحارث التيمي",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أن نفيعا مكاتبا كان لأم سلمة زوج النبي صلى الله عليه وسلم استفتى زيد بن ثابت",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فقال زيد بن ثابت : \" حرمت عليك \" * 1184",
+              "full_name": "محمد بن عبد الرحمن بن ثوبان العامري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عن",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> عبد ربه بن سعيد -> محمد بن إبراهيم بن الحارث التيمي -> أن نفيعا مكاتبا كان لأم سلمة زوج النبي صلى الله عليه وسلم استفتى زيد بن ثابت -> فقال زيد بن ثابت : \" حرمت عليك \" * 1184 -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous term 'عن' with reliable narrators",
+          "impact": "Minor consideration given overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Companion's statement on religious matter"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ رَبِّهِ بْنِ سَعِيدٍ L5296 /94 ، عَنْ /26 مُحَمَّدِ بْنِ إِبْرَاهِيمَ بْنِ الْحَارِثِ التَّيْمِيِّ L6796 /26 ، /27 أَنَّ نُفَيْعًا مُكَاتَبًا كَانَ /64 لِأُمِّ سَلَمَةَ /64 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ اسْتَفْتَى زَيْدَ بْنَ ثَابِتٍ ، فَقَالَ : إِنِّي طَلَّقْتُ امْرَأَةً حُرَّةً تَطْلِيقَتَيْنِ ، فَقَالَ /93 زَيْدُ بْنُ ثَابِتٍ L3131 /93 : /20 \" حَرُمَتْ عَلَيْكَ \" /27 * \r\n$1181  1184 /3",
+      "collection": "كتاب رقم 19",
+      "reference_number": 1401,
+      "grade": null
+    }
+  ],
+  "statistics": {
+    "total": 15,
+    "processed": 12,
+    "skipped": 3,
+    "grades": {
+      "Perfect": 0,
+      "Sound": 0,
+      "Acceptable": 12,
+      "Questionable But Might Be Acceptable": 0,
+      "Weak But Might Be Acceptable": 0,
+      "Problematic": 0
+    }
+  }
+}

@@ -1,0 +1,808 @@
+{
+  "batch_number": 2,
+  "file_number": 9,
+  "processed_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 9121,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Narrated by Ibn Shihab who said: The waiting period (iddah) of the divorced woman is the menstrual cycles (al-aqra), even if they are far apart.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": ["Known for occasional tadlis (category 3), but extremely reliable"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab (his opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement (opinion of Ibn Shihab al-Zuhri, not from the Prophet ﷺ)",
+          "impact": "This represents the juristic opinion of the tabi'i Ibn Shihab, not a prophetic narration. While Ibn Shihab is highly reliable, this is his ijtihad on the matter."
+        },
+        {
+          "issue": "Use of 'an (عَنْ) by Malik from Ibn Shihab",
+          "impact": "Malik uses 'an but this is acceptable as Malik is known for his precision and his narrations from al-Zuhri are particularly strong. This is a juristic opinion, not requiring direct hearing terms."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Waiting period (iddah) of divorced woman",
+        "Menstrual cycles calculation for iddah"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّهُ سَمِعَ ابْنَ شِهَابٍ ، يَقُولُ : \" عِدَّةُ الْمُطَلَّقَةِ الْأَقْرَاءُ ، وَإِنْ تَبَاعَدَتْ \" *"
+    },
+    {
+      "hadith_id": 9122,
+      "book_id": 19,
+      "narrator_id": [8272, 1131],
+      "english_translation": "Narrated by a man from the Ansar: That his wife asked him for divorce, so he said to her: 'When you menstruate, inform me.' When she menstruated, she informed him. He said: 'When you become pure, inform me.' When she became pure, she informed him, so he divorced her. Malik said: This is the best of what I have heard about that.",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "A man from the Ansar",
+              "full_name": "Unknown man from the Ansar",
+              "grade": "Majhul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Majhul al-'Ayn - narrator not identified by name"]
+            }
+          ],
+          "chainIssues": ["Final narrator is unnamed (majhul)"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> Unknown Ansari man"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The final narrator is not named, only described as 'a man from the Ansar'",
+          "impact": "This creates a jahala (unknown status) issue. The narrator is majhul al-'ayn, which significantly weakens the chain. We cannot assess his reliability without identification."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term",
+          "impact": "While the known narrators (Malik and Yahya ibn Sa'id) are highly reliable and their use of 'an is generally acceptable, the ambiguity in transmission terms combined with the unknown narrator creates additional concern."
+        },
+        {
+          "issue": "This appears to be an action/incident report, not traced back to the Prophet ﷺ or a known Companion",
+          "impact": "The report lacks clear attribution to a source of authority. It is classified as maqtu' as it's from an unknown tabi'i or later generation."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man divorcing his wife after her purification",
+        "Proper timing of divorce pronouncement",
+        "Method of divorce according to purity cycles"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ رَجُلٍ مِنَ الْأَنْصَارِ ، أَنَّ امْرَأَتَهُ سَأَلَتْهُ الطَّلَاقَ ، فَقَالَ لَهَا : \" إِذَا حِضْتِ فَآذِنِينِي \" ، فَلَمَّا حَاضَتْ آذَنَتْهُ ، فَقَالَ : \" إِذَا طَهُرْتِ فَآذِنِينِي \" ، فَلَمَّا طَهُرَتْ آذَنَتْهُ ، فَطَلَّقَهَا . قَالَ مَالِك : وَهَذَا أَحْسَنُ مَا سَمِعْتُ فِي ذَلِكَ *"
+    },
+    {
+      "hadith_id": 9124,
+      "book_id": 19,
+      "narrator_id": [8272, 1598, 3634, 4049],
+      "english_translation": "Narrated from al-Qasim ibn Muhammad and Sulayman ibn Yasar: That Yahya ibn Sa'id ibn al-'As divorced the daughter of Abd al-Rahman ibn al-Hakam with a final divorce, so Abd al-Rahman ibn al-Hakam moved her (from her house). Aisha, the Mother of the Believers, sent to Marwan ibn al-Hakam, who was at that time the governor of Madinah, and said: 'Fear Allah and return the woman to her house.' Marwan said in the hadith of Sulayman: 'Indeed Abd al-Rahman overpowered me.' And Marwan said in the hadith of al-Qasim: 'Has the matter of Fatimah bint Qays not reached you?' So Aisha said: 'It does not harm you not to mention the hadith of Fatimah.' So Marwan said: 'If the evil was with you, then what is between these two is sufficient evil for you.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> al-Qasim ibn Muhammad + Sulayman ibn Yasar (reporting the incident)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term throughout the chain",
+          "impact": "While all the known narrators are thiqah thabt (highly reliable), the consistent use of 'an creates slight ambiguity. However, given the exceptional reliability of all narrators (especially the two sources: al-Qasim and Sulayman, both considered among the most reliable tabi'in), this does not significantly impact authenticity."
+        },
+        {
+          "issue": "This is a mawquf report about Aisha's action and statement, not a marfu' hadith from the Prophet ﷺ",
+          "impact": "The report records a historical incident involving Aisha and her interaction with Marwan. It is authentic as a historical record of this incident but does not carry the same weight as a direct prophetic hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Aisha instructing about iddah residence",
+        "Dispute between Aisha and Marwan about divorced woman's residence",
+        "Historical disagreement about Fatimah bint Qays's hadith",
+        "Divorced woman's right to remain in marital home during iddah"
+      ],
+      "arabicText": "حَدَّثَنَا يَحْيَى ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ ، وَسُلَيْمَانَ بْنِ يَسَارٍ ، أَنَّهُ سَمِعَهُمَا يَذْكُرَانِ أَنَّ يَحْيَى بْنَ سَعِيدِ بْنِ الْعَاصِ طَلَّقَ ابْنَةَ عَبْدِ الرَّحْمَنِ بْنِ الْحَكَمِ الْبَتَّةَ ، فَانْتَقَلَهَا عَبْدُ الرَّحْمَنِ بْنُ الْحَكَمِ ، فَأَرْسَلَتْ عَائِشَةُ أُمُّ الْمُؤْمِنِينَ إِلَى مَرْوَانَ بْنِ الْحَكَمِ ، وَهُوَ يَوْمَئِذٍ أَمِيرُ الْمَدِينَةِ ، فَقَالَتْ : اتَّقِ اللَّهَ ، وَارْدُدِ الْمَرْأَةَ إِلَى بَيْتِهَا ، فَقَالَ مَرْوَانُ فِي حَدِيثِ سُلَيْمَانَ : إِنَّ عَبْدَ الرَّحْمَنِ غَلَبَنِي ، وَقَالَ مَرْوَانُ فِي حَدِيثِ الْقَاسِمِ : أَوَ مَا بَلَغَكِ شَأْنُ فَاطِمَةَ بِنْتِ قَيْسٍ ؟ فَقَالَتْ عَائِشَةُ : لَا يَضُرُّكَ أَنْ لَا تَذْكُرَ حَدِيثَ فَاطِمَةَ ، فَقَالَ مَرْوَانُ : \" إِنْ كَانَ بِكِ الشَّرُّ فَحَسْبُكِ مَا بَيْنَ هَذَيْنِ مِنَ الشَّرِّ \" *"
+    },
+    {
+      "hadith_id": 9125,
+      "book_id": 19,
+      "narrator_id": [7863, 4967],
+      "english_translation": "Narrated from Nafi': That the daughter of Sa'id ibn Zayd ibn Amr ibn Nufayl was married to Abdullah ibn Amr ibn Uthman ibn Affan, and he divorced her with a final divorce, so she moved (from her house), and Abdullah ibn Umar disapproved of that upon her. And narrated from Nafi': That Abdullah ibn Umar divorced a wife of his in the residence of Hafsah, wife of the Prophet ﷺ, and it was his route to the mosque, so he used to take the other route from behind the houses, disliking to seek permission to enter upon her, until he took her back.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar (his disapproval)",
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar (his action)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) by Malik and Nafi'",
+          "impact": "The chain Malik -> Nafi' -> Ibn Umar is considered the 'Golden Chain' (silsilat al-dhahab) in hadith sciences. Despite the use of 'an, this chain is universally accepted as authentic due to the exceptional reliability and known direct connection of these narrators. Nafi' was the freed slave and close companion of Ibn Umar, making his reports particularly trustworthy."
+        },
+        {
+          "issue": "Use of 'anna (أَنَّ) which can indicate indirect transmission",
+          "impact": "In this context, with Nafi' reporting from Ibn Umar (whom he served directly), the use of 'anna is acceptable and does not indicate weakness. The report is about Ibn Umar's actions and rulings, which Nafi' would have witnessed or been directly informed about."
+        },
+        {
+          "issue": "These are mawquf reports (actions and statements of a Companion, not from the Prophet ﷺ)",
+          "impact": "While not marfu', the actions and rulings of Abdullah ibn Umar carry significant weight in Islamic jurisprudence, especially given his knowledge and proximity to the Prophet ﷺ. However, they are considered ijtihad of a Companion rather than prophetic directives."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Ibn Umar's disapproval of moving during iddah",
+        "Incident of Ibn Umar avoiding his divorced wife during iddah",
+        "Ibn Umar's practice regarding divorced woman remaining in home",
+        "Etiquette of husband avoiding divorced wife during iddah period"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، \" أَنَّ بِنْتَ سَعِيدِ بْنِ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ ، كَانَتْ تَحْتَ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عُثْمَانَ بْنِ عَفَّانَ ، فَطَلَّقَهَا الْبَتَّةَ ، فَانْتَقَلَتْ ، فَأَنْكَرَ ذَلِكَ عَلَيْهَا عَبْدُ اللَّهِ بْنُ عُمَرَ \" * وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ \" طَلَّقَ امْرَأَةً لَهُ فِي مَسْكَنِ حَفْصَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَكَانَ طَرِيقَهُ إِلَى الْمَسْجِدِ ، فَكَانَ يَسْلُكُ الطَّرِيقَ الْأُخْرَى مِنْ أَدْبَارِ الْبُيُوتِ كَرَاهِيَةَ أَنْ يَسْتَأْذِنَ عَلَيْهَا ، حَتَّى رَاجَعَهَا \" *"
+    },
+    {
+      "hadith_id": 9126,
+      "book_id": 19,
+      "narrator_id": [8272, 3299],
+      "english_translation": "Narrated from Yahya ibn Sa'id: That Sa'id ibn al-Musayyab was asked about a woman whose husband divorces her while she is in a rented house, upon whom is the rent? So Sa'id ibn al-Musayyab said: 'Upon her husband.' He said: 'And if her husband does not have (money)?' He said: 'Then upon her.' He said: 'And if she does not have?' He said: 'Then upon the Amir (ruler).'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab (his opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term",
+          "impact": "While all narrators are highly reliable (thiqah thabt), the use of 'an creates slight ambiguity. However, given the exceptional reliability of the chain (Malik from Yahya ibn Sa'id is particularly strong), this does not significantly weaken the authenticity of the report."
+        },
+        {
+          "issue": "Use of 'anna (أَنَّ) which can indicate indirect transmission or disconnection",
+          "impact": "The 'anna indicates that Yahya ibn Sa'id did not directly hear Sa'id ibn al-Musayyab make this statement but was informed of it. Given the reliability of Yahya ibn Sa'id and the public nature of Sa'id's fatwas in Madinah, this is acceptable, though it adds a degree of indirectness."
+        },
+        {
+          "issue": "This is a maqtu' report (juristic opinion of Sa'id ibn al-Musayyab, a tabi'i)",
+          "impact": "The report represents the ijtihad and fatwa of Sa'id ibn al-Musayyab, not a prophetic hadith. While Sa'id is considered one of the greatest jurists among the tabi'in, this is his legal reasoning, not a direct transmission from the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Responsibility for rent during iddah period",
+        "Financial obligations during divorce",
+        "Role of ruler in supporting divorced women"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ سُئِلَ عَنِ الْمَرْأَةِ يُطَلِّقُهَا زَوْجُهَا وَهِيَ فِي بَيْتٍ بِكِرَاءٍ ، عَلَى مَنِ الْكِرَاءُ ؟ فَقَالَ سَعِيدُ بْنُ الْمُسَيَّبِ : \" عَلَى زَوْجِهَا \" ، قَالَ : فَإِنْ لَمْ يَكُنْ عِنْدَ زَوْجِهَا ؟ قَالَ : \" فَعَلَيْهَا \" ، قَالَ : فَإِنْ لَمْ يَكُنْ عِنْدَهَا ؟ قَالَ : \" فَعَلَى الْأَمِيرِ \" *"
+    },
+    {
+      "hadith_id": 9128,
+      "book_id": 19,
+      "narrator_id": [5167, 4903, 6391],
+      "english_translation": "Narrated by Fatimah bint Qays: That Abu Amr ibn Hafs divorced her with a final divorce while he was absent in al-Sham, so his agent sent to her some barley, and she was displeased with it. He said: 'By Allah, you have nothing due from us.' So she came to the Messenger of Allah ﷺ and mentioned that to him. He said: 'You have no maintenance due from him.' And he ordered her to observe her waiting period in the house of Umm Sharik. Then he said: 'That is a woman whom my companions visit. Observe your waiting period at Abdullah ibn Umm Maktum's (house), for he is a blind man - you can remove your garments at his place. When your waiting period ends, inform me.' She said: 'When my waiting period ended, I mentioned to him that Mu'awiyah ibn Abi Sufyan and Abu Jahm ibn Hisham had proposed to me.' So the Messenger of Allah ﷺ said: 'As for Abu Jahm, he does not put down his stick from his shoulder, and as for Mu'awiyah, he is a poor man with no wealth. Marry Usamah ibn Zayd.' She said: 'So I disliked him.' Then he said: 'Marry Usamah ibn Zayd.' So I married him, and Allah placed good in that, and I was pleased with him.",
+      "chains": [
+        {
+          "type": "marfu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Yazid",
+              "full_name": "Abdullah ibn Yazid mawla al-Aswad ibn Sufyan al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah ibn Abd al-Rahman",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Fatimah bint Qays",
+              "full_name": "Fatimah bint Qays ibn Khalid al-Qurashiyyah al-Fihriyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abdullah ibn Yazid -> Abu Salamah ibn Abd al-Rahman -> Fatimah bint Qays -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Consistent use of 'an (عَنْ) throughout the entire chain",
+          "impact": "While the use of 'an creates potential ambiguity, all narrators in this chain are reliable. However, the consistent use of 'an without any explicit hearing terms (like haddathana or sami'tu) means we cannot be absolutely certain of direct transmission at every link. Given the reliability of all narrators, this is acceptable but prevents the hadith from being graded as 'Perfect.'"
+        },
+        {
+          "issue": "The hadith of Fatimah bint Qays was historically controversial",
+          "impact": "This specific hadith was disputed by some Companions, notably Aisha, who disagreed with its ruling about maintenance and residence during iddah. While the chain itself is sound, the content was subject to scholarly debate, with some suggesting Fatimah may have misunderstood or that her situation was exceptional. However, the chain's authenticity is not in question."
+        },
+        {
+          "issue": "Abu Salamah heard from Fatimah bint Qays using 'an",
+          "impact": "Abu Salamah ibn Abd al-Rahman is from the generation that could have met Fatimah bint Qays, and he is known for his reliability. However, the use of 'an rather than direct hearing terms means we rely on the presumption of connection (ittisal) based on contemporary lives and reliability."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Fatimah bint Qays being divorced",
+        "Maintenance during iddah for finally divorced woman",
+        "Prophet's ﷺ guidance about residence during iddah",
+        "Prophet's ﷺ advice about marriage proposals",
+        "Incident of Prophet ﷺ recommending Usamah ibn Zayd for marriage",
+        "Description of Mu'awiyah and Abu Jahm"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ عَبْدِ اللَّهِ بْنِ يَزِيدَ مَوْلَى الْأَسْوَدِ بْنِ سُفْيَانَ ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ ، أَنَّ أَبَا عَمْرِو بْنَ حَفْصٍ طَلَّقَهَا الْبَتَّةَ وَهُوَ غَائِبٌ بِالشَّامِ ، فَأَرْسَلَ إِلَيْهَا وَكِيلُهُ بِشَعِيرٍ فَسَخِطَتْهُ ، فَقَالَ : وَاللَّهِ مَا لَكِ عَلَيْنَا مِنْ شَيْءٍ ، فَجَاءَتْ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَذَكَرَتْ ذَلِكَ لَهُ ، فَقَالَ : لَيْسَ لَكِ عَلَيْهِ نَفَقَةٌ ، وَأَمَرَهَا أَنْ تَعْتَدَّ فِي بَيْتِ أُمِّ شَرِيكٍ ، ثُمَّ قَالَ : تِلْكَ امْرَأَةٌ يَغْشَاهَا أَصْحَابِي ، اعْتَدِّي عِنْدَ عَبْدِ اللَّهِ بْنِ أُمِّ مَكْتُومٍ ، فَإِنَّهُ رَجُلٌ أَعْمَى تَضَعِينَ ثِيَابَكِ عِنْدَهُ ، فَإِذَا حَلَلْتِ فَآذِنِينِي ، قَالَتْ : فَلَمَّا حَلَلْتُ ذَكَرْتُ لَهُ أَنَّ مُعَاوِيَةَ بْنَ أَبِي سُفْيَانَ ، وَأَبَا جَهْمِ بْنَ هِشَامٍ ، خَطَبَانِي ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَمَّا أَبُو جَهْمٍ ، فَلَا يَضَعُ عَصَاهُ عَنْ عَاتِقِهِ ، وَأَمَّا مُعَاوِيَةُ فَصُعْلُوكٌ ، لَا مَالَ لَهُ ، انْكِحِي أُسَامَةَ بْنَ زَيْدٍ \" ، قَالَتْ : فَكَرِهْتُهُ ، ثُمَّ قَالَ : \" انْكِحِي أُسَامَةَ بْنَ زَيْدٍ \" ، فَنَكَحْتُهُ ، فَجَعَلَ اللَّهُ فِي ذَلِكَ خَيْرًا ، وَاغْتَبَطْتُ بِهِ *"
+    },
+    {
+      "hadith_id": 9129,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Narrated by Ibn Shihab who said: The finally divorced woman (al-mabtutah) does not leave her house until she becomes lawful (her iddah ends), and she has no maintenance unless she is pregnant, in which case maintenance is spent on her until she delivers her pregnancy. Malik said: This is the matter with us.",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": ["Known for occasional tadlis (category 3), but extremely reliable"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab (his juristic opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) by Malik from Ibn Shihab",
+          "impact": "While Malik uses 'an, his narrations from al-Zuhri are considered particularly reliable. Malik explicitly states he heard (sami'a) from Ibn Shihab, which strengthens this transmission. However, this is still a juristic opinion (ra'y), not a hadith."
+        },
+        {
+          "issue": "This is a maqtu' statement (juristic opinion of Ibn Shihab al-Zuhri)",
+          "impact": "This represents the legal opinion and ijtihad of al-Zuhri, one of the greatest scholars among the tabi'in. While highly respected, it is not a prophetic hadith but rather al-Zuhri's understanding and application of Islamic law regarding divorce and maintenance."
+        },
+        {
+          "issue": "Malik adds his own endorsement ('This is the matter with us')",
+          "impact": "Malik's addition shows this was the accepted practice in Madinah and among Maliki scholars, but it remains a juristic opinion rather than a direct prophetic narration."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Residence requirements during iddah",
+        "Maintenance for divorced pregnant women",
+        "Finally divorced woman's rights and obligations"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، أَنَّهُ سَمِعَ ابْنَ شِهَابٍ ، يَقُولُ : \" الْمَبْتُوتَةُ لَا تَخْرُجُ مِنْ بَيْتِهَا حَتَّى تَحِلَّ ، وَلَيْسَتْ لَهَا نَفَقَةٌ إِلَّا أَنْ تَكُونَ حَامِلًا ، فَيُنْفَقُ عَلَيْهَا حَتَّى تَضَعَ حَمْلَهَا \" . قَالَ مَالِكٌ : وَهَذَا الْأَمْرُ عِنْدَنَا *"
+    },
+    {
+      "hadith_id": 9131,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Malik said: The matter with us regarding the divorce of a slave to a slave woman is that if he divorces her while she is a slave, then she is freed afterwards, her waiting period is the waiting period of a slave woman - her freedom does not change her waiting period, whether he had the right to take her back or he did not have the right to take her back - her waiting period does not transfer. Malik said: And similar to that is the punishment that falls upon the slave, then he is freed after the punishment falls upon him, so his punishment is only the punishment of a slave. Malik said: And the free man divorces the slave woman three times, and she observes waiting period with two menstrual cycles. And the slave divorces the free woman with two divorces and she observes waiting period with three menstrual cycles. Malik said regarding the man who has a slave woman as wife, then he purchases her and frees her: She observes waiting period with the waiting period of a slave woman - two menstrual cycles - as long as he has not had intercourse with her. But if he had intercourse with her after owning her before freeing her, she has nothing upon her except purification (istibra) with one menstrual cycle.",
+      "chains": [
+        {
+          "type": "statement",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik's juristic statement"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but a juristic statement from Imam Malik",
+          "impact": "This represents Malik's own legal reasoning and the consensus practice of the scholars of Madinah ('amal ahl al-Madinah). It is not a prophetic hadith or even a statement from a Companion or tabi'i, but rather Malik's own ijtihad on matters of divorce and iddah for slaves."
+        },
+        {
+          "issue": "No chain of transmission to any earlier authority",
+          "impact": "There is no isnad connecting this to the Prophet ﷺ, a Companion, or even a tabi'i. This is purely Malik's legal opinion based on his understanding of Islamic law and the practice of Madinah."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Divorce procedures for slaves",
+        "Waiting period for slave women",
+        "Effect of manumission on iddah",
+        "Legal differences between slave and free person in divorce",
+        "Istibra (purification) for owned slave women"
+      ],
+      "arabicText": "قَالَ مَالِكٌ : الْأَمْرُ عِنْدَنَا فِي طَلَاقِ الْعَبْدِ الْأَمَةَ إِذَا طَلَّقَهَا وَهِيَ أَمَةٌ ، ثُمَّ عَتَقَتْ بَعْدُ ، فَعِدَّتُهَا عِدَّةُ الْأَمَةِ لَا يُغَيِّرُ عِدَّتَهَا عِتْقُهَا ، كَانَتْ لَهُ عَلَيْهَا رَجْعَةٌ ، أَوْ لَمْ تَكُنْ لَهُ عَلَيْهَا رَجْعَةٌ ، لَا تَنْتَقِلُ عِدَّتُهَا . قَالَ مَالِكٌ : وَمِثْلُ ذَلِكَ الْحَدُّ يَقَعُ عَلَى الْعَبْدِ ، ثُمَّ يَعْتِقُ بَعْدَ أَنْ يَقَعَ عَلَيْهِ الْحَدُّ ، فَإِنَّمَا حَدُّهُ حَدُّ عَبْدٍ . قَالَ مَالِكٌ : وَالْحُرُّ يُطَلِّقُ الْأَمَةَ ثَلَاثًا ، وَتَعْتَدُّ بِحَيْضَتَيْنِ ، وَالْعَبْدُ يُطَلِّقُ الْحُرَّةَ تَطْلِيقَتَيْنِ وَتَعْتَدُّ ثَلَاثَةَ قُرُوءٍ . قَالَ مَالِكٌ فِي الرَّجُلِ تَكُونُ تَحْتَهُ الْأَمَةُ ، ثُمَّ يَبْتَاعُهَا ، فَيَعْتِقُهَا : إِنَّهَا تَعْتَدُّ عِدَّةَ الْأَمَةِ حَيْضَتَيْنِ مَا لَمْ يُصِبْهَا ، فَإِنْ أَصَابَهَا بَعْدَ مِلْكِهِ إِيَّاهَا قَبْلَ عِتَاقِهَا ، لَمْ يَكُنْ عَلَيْهَا إِلَّا الْاسْتِبْرَاءُ بِحَيْضَةٍ ."
+    },
+    {
+      "hadith_id": 9133,
+      "book_id": 19,
+      "narrator_id": [8272, 8455, 3299, 5913],
+      "english_translation": "Narrated from Sa'id ibn al-Musayyab who said: Umar ibn al-Khattab said: 'Whichever woman is divorced and menstruates one menstruation or two menstruations, then her menstruation ceases, she waits nine months. If pregnancy appears in her, then that is it. Otherwise, she observes waiting period after the nine months for three months, then she becomes lawful (to remarry).'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yazid ibn Abdullah ibn Qusayt",
+              "full_name": "Yazid ibn Abdullah ibn Qusayt al-Laythi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id + Yazid ibn Abdullah ibn Qusayt -> Sa'id ibn al-Musayyab -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Consistent use of 'an (عَنْ) throughout the chain",
+          "impact": "The chain uses 'an at multiple levels, creating potential ambiguity about direct transmission. However, all narrators are reliable (thiqah or thiqah thabt), and the connection between Malik and his teachers, as well as between the tabi'in and Umar, is well-established. This is acceptable given the overall strength of the narrators."
+        },
+        {
+          "issue": "Sa'id ibn al-Musayyab did not meet Umar ibn al-Khattab directly (or was very young)",
+          "impact": "Sa'id ibn al-Musayyab was born during Umar's caliphate (some say in year 13 or 15 AH) and Umar died in 23 AH when Sa'id was a child. Most scholars consider Sa'id's narrations from Umar to be mursal (disconnected) as he would have been too young to receive hadith directly from him. This creates a significant weakness in the chain."
+        },
+        {
+          "issue": "This is a mawquf report (statement of Umar, not the Prophet ﷺ)",
+          "impact": "While the statement represents Umar's ijtihad on the matter of iddah, it is not a prophetic hadith. Umar's legal rulings carry significant weight but are considered ra'y (opinion) rather than direct revelation."
+        },
+        {
+          "issue": "The chain includes two parallel narrators (Yahya ibn Sa'id and Yazid ibn Abdullah) from Sa'id ibn al-Musayyab",
+          "impact": "The presence of two narrators strengthens the authenticity of Sa'id ibn al-Musayyab's statement, showing it was well-known. However, this doesn't resolve the potential disconnect between Sa'id and Umar."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Umar's ruling on iddah for women whose menstruation ceases",
+        "Waiting period calculation for amenorrhea during iddah",
+        "Method of determining pregnancy during iddah"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، وَعَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ اللَّيْثِيِّ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ قَالَ : قَالَ عُمَرُ بْنُ الْخَطَّابِ : \" أَيُّمَا امْرَأَةٍ طُلِّقَتْ فَحَاضَتْ حَيْضَةً أَوْ حَيْضَتَيْنِ ، ثُمَّ رَفَعَتْهَا حَيْضَتُهَا ، فَإِنَّهَا تَنْتَظِرُ تِسْعَةَ أَشْهُرٍ ، فَإِنْ بَانَ بِهَا حَمْلٌ فَذَلِكَ ، وَإِلَّا اعْتَدَّتْ بَعْدَ التِّسْعَةِ أَشْهُرٍ ثَلَاثَةَ أَشْهُرٍ ثُمَّ حَلَّتْ \" *"
+    },
+    {
+      "hadith_id": 9134,
+      "book_id": 19,
+      "narrator_id": [8272, 3299],
+      "english_translation": "Narrated from Sa'id ibn al-Musayyab that he used to say: 'Divorce is for men, and the waiting period (iddah) is for women.'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab (his statement)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) transmission term",
+          "impact": "While all narrators are highly reliable (thiqah thabt), the consistent use of 'an creates potential ambiguity. However, given the exceptional reliability of this chain (particularly Malik from Yahya ibn Sa'id, and Yahya from Sa'id ibn al-Musayyab), this does not significantly weaken the authenticity of the report."
+        },
+        {
+          "issue": "This is a maqtu' statement (opinion of Sa'id ibn al-Musayyab, a tabi'i)",
+          "impact": "This represents Sa'id's juristic principle about divorce and iddah, not a prophetic hadith. It is his understanding and legal maxim derived from his knowledge of Islamic law. While Sa'id is one of the greatest jurists among the tabi'in, this is his own formulation, not a direct transmission from the Prophet ﷺ or Companions."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Legal authority in divorce",
+        "Women's obligations during iddah",
+        "Principles of divorce jurisprudence"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ كَانَ يَقُولُ : \" الطَّلَاقُ لِلرِّجَالِ ، وَالْعِدَّةُ لِلنِّسَاءِ \" *"
+    },
+    {
+      "hadith_id": 9135,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Narrated from Sa'id ibn al-Musayyab that he said: 'The waiting period of the woman with istihadah (irregular bleeding) is one year.' Malik said: The matter with us regarding the divorced woman whose menstruation ceases when her husband divorces her is that she waits nine months. If she does not menstruate during them, she observes waiting period for three months. If she menstruates before completing the three months, she begins anew with menstrual cycles. If nine months pass without her menstruating, she observes waiting period for three months. If she menstruates the second time before completing the three months, she begins anew with menstrual cycles. If nine months pass without her menstruating, she observes waiting period for three months. If she menstruates the third time, she has completed the waiting period of menstrual cycles. If she does not menstruate, she begins anew with three months then becomes lawful. And her husband has the right to take her back during that period before she becomes lawful, unless he had finalized her divorce. Malik said: The Sunnah with us is that when a man divorces his wife and he has the right to take her back, and she observes part of her waiting period, then he takes her back, then separates from her before touching her, that she does not build upon what has passed of her waiting period, and she begins from the day he divorced her with a new waiting period. And her husband has wronged himself and erred if he took her back without need for her. Malik said: And the matter with us is that if a woman accepts Islam while her husband is a disbeliever, then he accepts Islam, he has more right to her as long as she is in her waiting period. If her waiting period ends, he has no way to her. And if he marries her after the end of her waiting period, that is not counted as a divorce, and Islam separated her from him without divorce.",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for occasional tadlis (category 3), but extremely reliable"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Qurashi al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab -> Sa'id ibn al-Musayyab (his opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) by Malik and Ibn Shihab",
+          "impact": "While Malik and Ibn Shihab both use 'an, their narrations are generally considered reliable. However, Ibn Shihab al-Zuhri is known as a mudallis (category 3 according to Ibn Hajar), meaning his use of 'an could potentially hide a gap in the chain. Despite this, given his exceptional reliability and the fact that he commonly narrated from Sa'id ibn al-Musayyab (his teacher), this is generally acceptable."
+        },
+        {
+          "issue": "This is a maqtu' statement (juristic opinion of Sa'id ibn al-Musayyab)",
+          "impact": "The initial statement about istihadah represents Sa'id's ijtihad, not a prophetic hadith. While Sa'id is one of the most knowledgeable tabi'in, this is his legal reasoning rather than a direct transmission."
+        },
+        {
+          "issue": "Malik adds extensive juristic commentary",
+          "impact": "The bulk of this entry consists of Malik's own detailed juristic rulings on various iddah scenarios. These represent Maliki jurisprudence and the practice of Madinah scholars ('amal ahl al-Madinah), not direct prophetic hadith. While valuable for understanding Islamic law, they are human ijtihad."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri's tadlis using 'an",
+          "impact": "Al-Zuhri is classified as a category 3 mudallis by Ibn Hajar, meaning when he uses 'an, there could be a hidden gap. However, his narrations from Sa'id ibn al-Musayyab are well-documented and he was his direct student, so this particular use of 'an is generally accepted by scholars. Nevertheless, it must be noted as per the instructions."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Iddah for woman with irregular bleeding (istihadah)",
+        "Complex iddah calculations for amenorrhea",
+        "Effect of taking wife back during iddah",
+        "Islamic conversion and its effect on marriage",
+        "Detailed juristic rulings on various iddah scenarios"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنِ ابْنِ شِهَابٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ قَالَ : \" عِدَّةُ الْمُسْتَحَاضَةِ سَنَةٌ \" . قَالَ مَالِكٌ : الْأَمْرُ عِنْدَنَا فِي الْمُطَلَّقَةِ الَّتِي تَرْفَعُهَا حَيْضَتُهَا حِينَ يُطَلِّقُهَا زَوْجُهَا ، أَنَّهَا تَنْتَظِرُ تِسْعَةَ أَشْهُرٍ ، فَإِنْ لَمْ تَحِضْ فِيهِنَّ اعْتَدَّتْ ثَلَاثَةَ أَشْهُرٍ ، فَإِنْ حَاضَتْ قَبْلَ أَنْ تَسْتَكْمِلَ الْأَشْهُرَ الثَّلَاثَةَ اسْتَقْبَلَتِ الْحَيْضَ ، فَإِنْ مَرَّتْ بِهَا تِسْعَةُ أَشْهُرٍ قَبْلَ أَنْ تَحِيضَ ، اعْتَدَّتْ ثَلَاثَةَ أَشْهُرٍ ، فَإِنْ حَاضَتِ الثَّانِيَةَ قَبْلَ أَنْ تَسْتَكْمِلَ الْأَشْهُرَ الثَّلَاثَةَ ، اسْتَقْبَلَتِ الْحَيْضَ ، فَإِنْ مَرَّتْ بِهَا تِسْعَةُ أَشْهُرٍ قَبْلَ أَنْ تَحِيضَ اعْتَدَّتْ ثَلَاثَةَ أَشْهُرٍ ، فَإِنْ حَاضَتِ الثَّالِثَةَ كَانَتْ قَدِ اسْتَكْمَلَتْ عِدَّةَ الْحَيْضِ ، فَإِنْ لَمْ تَحِضْ اسْتَقْبَلَتْ ثَلَاثَةَ أَشْهُرٍ ثُمَّ حَلَّتْ ، وَلِزَوْجِهَا عَلَيْهَا فِي ذَلِكَ الرَّجْعَةُ قَبْلَ أَنْ تَحِلَّ ، إِلَّا أَنْ يَكُونَ قَدْ بَتَّ طَلَاقَهَا . قَالَ مَالِكٌ : السُّنَّةُ عِنْدَنَا أَنَّ الرَّجُلَ إِذَا طَلَّقَ امْرَأَتَهُ وَلَهُ عَلَيْهَا رَجْعَةٌ فَاعْتَدَّتْ بَعْضَ عِدَّتِهَا ، ثُمَّ ارْتَجَعَهَا ، ثُمَّ فَارَقَهَا قَبْلَ أَنْ ، يَمَسَّهَا أَنَّهَا لَا تَبْنِي عَلَى مَا مَضَى مِنْ عِدَّتِهَا ، وَأَنَّهَا تَسْتَأْنِفُ مِنْ يَوْمَ طَلَّقَهَا عِدَّةً مُسْتَقْبَلَةً ، وَقَدْ ظَلَمَ زَوْجُهَا نَفْسَهُ وَأَخْطَأَ ، إِنْ كَانَ ارْتَجَعَهَا وَلَا حَاجَةَ لَهُ بِهَا . قَالَ مَالِكٌ : وَالْأَمْرُ عِنْدَنَا أَنَّ الْمَرْأَةَ إِذَا أَسْلَمَتْ وَزَوْجُهَا كَافِرٌ ، ثُمَّ أَسْلَمَ ، فَهُوَ أَحَقُّ بِهَا مَا دَامَتْ فِي عِدَّتِهَا ، فَإِنِ انْقَضَتْ عِدَّتُهَا فَلَا سَبِيلَ لَهُ عَلَيْهَا ، وَإِنْ تَزَوَّجَهَا بَعْدَ انْقِضَاءِ عِدَّتِهَا لَمْ يُعَدَّ ذَلِكَ طَلَاقًا ، وَإِنَّمَا فَسَخَهَا مِنْهُ الْإِسْلَامُ بِغَيْرِ طَلَاقٍ *"
+    }
+  ]
+}

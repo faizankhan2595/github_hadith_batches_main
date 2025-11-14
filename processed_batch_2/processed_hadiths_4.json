@@ -1,0 +1,771 @@
+{
+  "batch_number": 2,
+  "file_number": 4,
+  "record_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 9046,
+      "book_id": 19,
+      "narrator_id": [7863, 4967],
+      "english_translation": "Narrated by Abdullah ibn Umar: He used to say regarding al-Khaliyyah (saying 'you are free') and al-Bariyyah (saying 'you are absolved'): 'They are three divorces, each one of them.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) from Malik when narrating from Nafi'. While Malik is extremely reliable and his narrations from Nafi' are considered golden chain material, the use of 'an instead of explicit terms like haddathana is technically a minor transmission term concern.",
+          "impact": "Minimal impact given Malik's exceptional reliability and his well-known direct contact with Nafi'. The 'golden chain' (Malik -> Nafi' -> Ibn Umar) is among the most authentic chains in Islamic scholarship."
+        },
+        {
+          "issue": "Use of 'anna (أَنَّ) when reporting from Ibn Umar, which can sometimes indicate indirect transmission.",
+          "impact": "Very minimal impact as Nafi' was the personal servant and close companion of Abdullah ibn Umar, and his direct hearing from him is well-established."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Divorce expressions and their consequences",
+        "Statement of Ibn Umar on euphemistic divorce terminology"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ عُمَرَ L4967 /93 ، كَانَ يَقُولُ فِي الْخَلِيَّةِ وَالْبَرِيَّةِ : /20 \" إِنَّهَا ثَلَاثُ تَطْلِيقَاتٍ ، كُلُّ وَاحِدَةٍ مِنْهُمَا \" /27 * \r\n$1134  1137 /8"
+    },
+    {
+      "hadith_id": 9047,
+      "book_id": 19,
+      "narrator_id": [8272, 1598],
+      "english_translation": "Narrated by al-Qasim ibn Muhammad: A man had a female slave belonging to some people under his care (in marriage), so he said to her family: 'Take care of her yourselves.' The people considered it to be one divorce.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain, which could indicate indirect transmission.",
+          "impact": "Minimal impact as all narrators are highly reliable and well-known to have directly met their teachers. Yahya ibn Sa'id al-Ansari is particularly known for his precision and reliability."
+        },
+        {
+          "issue": "The report is maqtu' (does not reach the Prophet ﷺ or a companion), relating an incident about an unnamed man and the people's judgment on it.",
+          "impact": "This is a legal opinion/practice report rather than a prophetic tradition, so the chain strength relates to the authenticity of the legal practice described."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a man saying 'take care of her' about his wife",
+        "Historical practice regarding implicit divorce statements"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 عَنِ /26 الْقَاسِمِ بْنِ مُحَمَّدٍ L1598 /26 ، \" أَنَّ /20 رَجُلًا كَانَتْ تَحْتَهُ وَلِيدَةٌ لِقَوْمٍ ، فَقَالَ لِأَهْلِهَا : شَأْنَكُمْ بِهَا ، فَرَأَى النَّاسُ أَنَّهَا تَطْلِيقَةٌ وَاحِدَةٌ \" /27 * \r\n$1135  1138 /8"
+    },
+    {
+      "hadith_id": 9048,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Malik said: He heard Ibn Shihab saying regarding a man who says to his wife 'You are absolved from me and I am absolved from you': 'It is three divorces, of the same status as al-Battah (irrevocable).' Malik said regarding a man who says to his wife 'You are Khaliyyah (free), or Bariyyah (absolved), or Ba'inah (separated)': It is three divorces for the woman he has consummated the marriage with, and he should be questioned under oath regarding the woman he has not consummated the marriage with - did he intend one or three? If he says one, he is made to swear an oath on that, and he becomes one of the suitors, because nothing makes the woman whom her husband has consummated the marriage with free, separated, or absolved except three divorces, while the woman he has not consummated the marriage with, one divorce makes her free, absolved, and separated. Malik said: This is the best of what I have heard regarding that.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّهُ سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik (heard directly) -> Ibn Shihab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 in Ibn Hajar's classification), though the term used here is 'yaqulu' (saying) which is ambiguous.",
+          "impact": "Minimal impact as al-Zuhri is extremely reliable despite occasional tadlis, and Malik explicitly states he heard from him (sama'). Al-Zuhri is considered among the most trustworthy scholars of his generation. The report is also al-Zuhri's own legal opinion, not a narration from earlier sources."
+        },
+        {
+          "issue": "This is primarily Malik's own legal reasoning and opinion (ijtihad) based on what he heard from Ibn Shihab, making it a statement of fiqh rather than pure hadith transmission.",
+          "impact": "This affects classification as scholarly opinion rather than prophetic tradition, but does not affect the authenticity of the transmission itself."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal opinion on divorce expressions",
+        "Statement of Ibn Shihab on euphemistic divorce terms",
+        "Malik's reasoning on consummated versus non-consummated marriages"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، /27 أَنَّهُ سَمِعَ /26 ابْنَ شِهَابٍ /26 ، يَقُولُ فِي الرَّجُلِ يَقُولُ لِامْرَأَتِهِ بَرِئْتِ مِنِّي وَبَرِئْتُ مِنْكِ : /20 \" إِنَّهَا ثَلَاثُ تَطْلِيقَاتٍ ، بِمَنْزِلَةِ الْبَتَّةِ \" /27 . قَالَ /12 مَالِكٌ /12 ، فِي الرَّجُلِ يَقُولُ لِامْرَأَتِهِ أَنْتِ خَلِيَّةٌ أَوْ بَرِيَّةٌ أَوْ بَائِنَةٌ : /10 إِنَّهَا ثَلَاثُ تَطْلِيقَاتٍ لِلْمَرْأَةِ الَّتِي قَدْ دَخَلَ بِهَا ، وَيُدَيَّنُ فِي الَّتِي لَمْ يَدْخُلْ بِهَا ، أَوَاحِدَةً أَرَادَ ، أَمْ ثَلَاثًا ؟ فَإِنْ قَالَ وَاحِدَةً ، أُحْلِفَ عَلَى ذَلِكَ ، وَكَانَ خَاطِبًا مِنَ الْخُطَّابِ ، لِأَنَّهُ لَا يُخْلِي الْمَرْأَةَ الَّتِي قَدْ دَخَلَ بِهَا زَوْجُهَا ، وَلَا يُبِينُهَا وَلَا يُبْرِيهَا ، إِلَّا ثَلَاثُ تَطْلِيقَاتٍ ، وَالَّتِي لَمْ يَدْخُلْ بِهَا تُخْلِيهَا وَتُبْرِيهَا ، وَتُبِينُهَا الْوَاحِدَةُ /10 . قَالَ /12 مَالِكٌ /12 : /10 وَهَذَا أَحْسَنُ مَا سَمِعْتُ فِي ذَلِكَ /10 * \r\n E287"
+    },
+    {
+      "hadith_id": 9050,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "It reached Malik: That a man came to Abdullah ibn Umar and said: 'O Abu Abd al-Rahman, I placed the matter of my wife in her hand, and she divorced herself, so what do you see?' Abdullah ibn Umar said: 'I see it as she said.' The man said: 'Do not do so, O Abu Abd al-Rahman.' Ibn Umar said: 'I do it? You did it!'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّهُ بَلَغَهُ",
+              "reliabilityIssues": ["balagh"]
+            }
+          ],
+          "chainIssues": [
+            "The chain is mursal/disconnected with the term 'balaghahu' (it reached him), meaning Malik did not specify his source between himself and the incident involving Ibn Umar."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [unknown intermediary/intermediaries] -> incident with Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'balaghahu' (it reached him), which indicates a mursal/munqati' (disconnected) transmission. Malik does not specify who informed him of this incident.",
+          "impact": "Significant impact on chain integrity. This creates a clear gap in the transmission. The balaghat of Imam Malik are generally considered somewhat reliable due to his strict standards, but they are weaker than his connected chains. Scholars differ on accepting Malik's balaghat - some accept them due to his reliability, while others require supporting evidence."
+        },
+        {
+          "issue": "We do not know who the intermediary narrators are between Malik and the incident with Ibn Umar, making it impossible to evaluate their reliability.",
+          "impact": "This prevents full authentication of the chain using classical hadith methodology. The report depends on trust in Malik's standards for what he accepts and transmits."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man giving his wife authority over her divorce",
+        "Statement of Ibn Umar on delegated divorce authority",
+        "Dialogue between a man and Ibn Umar about divorce delegation"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ رَجُلًا جَاءَ إِلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ، فَقَالَ : يَا أَبَا عَبْدِ الرَّحْمَنِ ، إِنِّي جَعَلْتُ أَمْرَ امْرَأَتِي فِي يَدِهَا ، فَطَلَّقَتْ نَفْسَهَا ، فَمَاذَا تَرَى ؟ فَقَالَ /93 عَبْدُ اللَّهِ بْنُ عُمَرَ /93 : /20 \" أُرَاهُ كَمَا قَالَتْ \" ، فَقَالَ الرَّجُلُ : لَا تَفْعَلْ يَا أَبَا عَبْدِ الرَّحْمَنِ ، فَقَالَ ابْنُ عُمَرَ : أَنَا أَفْعَلُ أَنْتَ فَعَلْتَهُ /27 * \r\n$1137  1140 /3"
+    },
+    {
+      "hadith_id": 9051,
+      "book_id": 19,
+      "narrator_id": [7863, 4967],
+      "english_translation": "Narrated by Abdullah ibn Umar: He used to say: 'When a man gives his wife authority over her matter, then the judgment is what she judges with it, unless he denies it and says: I only intended one (divorce), then he swears an oath on that, and he has more right to her as long as she is in her waiting period (iddah).'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) from Malik when narrating from Nafi', which is technically an ambiguous transmission term.",
+          "impact": "Minimal impact. The 'golden chain' of Malik -> Nafi' -> Ibn Umar is among the most authentic chains in hadith scholarship. Malik's direct contact with Nafi' and Nafi's with Ibn Umar are well-established and unquestioned."
+        },
+        {
+          "issue": "Use of 'anna (أَنَّ) when reporting from Ibn Umar.",
+          "impact": "Very minimal impact as Nafi' was Ibn Umar's personal servant and close companion for decades, with undisputed direct access."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Statement of Ibn Umar on delegated divorce authority",
+        "Right of husband to take back wife during iddah period"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ عُمَرَ L4967 /93 ، كَانَ يَقُولُ : /20 \" إِذَا مَلَّكَ الرَّجُلُ امْرَأَتَهُ أَمْرَهَا ، فَالْقَضَاءُ مَا قَضَتْ بِهِ ، إِلَّا أَنْ يُنْكِرَ عَلَيْهَا ، وَيَقُولُ : لَمْ أُرِدْ إِلَّا وَاحِدَةً ، فَيَحْلِفُ عَلَى ذَلِكَ ، وَيَكُونُ أَمْلَكَ بِهَا مَا كَانَتْ فِي عِدَّتِهَا \" /27 *"
+    },
+    {
+      "hadith_id": 9053,
+      "book_id": 19,
+      "narrator_id": [3340, 2607, 3131],
+      "english_translation": "Sa'id ibn Sulayman ibn Zayd ibn Thabit narrated from Kharijah ibn Zayd ibn Thabit that he informed him: He was sitting with Zayd ibn Thabit when Muhammad ibn Abi Atiq came to him with tears flowing from his eyes. Zayd said to him: 'What is your matter?' He said: 'I gave my wife authority over her matter, and she separated from me.' Zayd said to him: 'What made you do that?' He said: 'Al-Qadar (divine decree).' Zayd said: 'Take her back if you wish, for it is only one (divorce), and you have more right to her.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Sulayman ibn Zayd ibn Thabit",
+              "full_name": "Sa'id ibn Sulayman ibn Zayd ibn Thabit al-Ansari al-Najjari",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Kharijah ibn Zayd ibn Thabit",
+              "full_name": "Kharijah ibn Zayd ibn Thabit ibn al-Dahhak al-Ansari al-Najjari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ أَخْبَرَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Sa'id ibn Sulayman ibn Zayd ibn Thabit -> Kharijah ibn Zayd ibn Thabit -> (witnessed incident with Zayd ibn Thabit)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Sa'id ibn Sulayman ibn Zayd ibn Thabit is graded as Saduq (truthful) rather than Thiqah, indicating he is a level below the highest reliability.",
+          "impact": "Moderate impact. While Saduq narrators are generally acceptable and their reports are used in hadith collections, they are not as precise as Thiqah narrators and may make occasional errors. However, this particular chain benefits from being about a witnessed incident (mushahada) rather than verbal transmission."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain before the explicit 'akhbarahu' (he informed him).",
+          "impact": "Minimal impact as none of the narrators in this chain are known for tadlis, and all are reliable. The final transmission uses the strong term 'akhbarahu' (he informed him), which is explicit."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Muhammad ibn Abi Atiq delegating divorce to his wife",
+        "Statement of Zayd ibn Thabit on delegated divorce",
+        "Dialogue between Zayd ibn Thabit and a man about divorce delegation"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 سَعِيدِ بْنِ سُلَيْمَانَ بْنِ زَيْدِ بْنِ ثَابِتٍ L3340 /94 ، عَنْ /26 خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ L2607 /26 أَنَّهُ أَخْبَرَهُ : /27 أَنَّهُ كَانَ جَالِسًا عِنْدَ زَيْدِ بْنِ ثَابِتٍ ، فَأَتَاهُ مُحَمَّدُ بْنُ أَبِي عَتِيقٍ وَعَيْنَاهُ تَدْمَعَانِ ، فَقَالَ لَهُ زَيْدٌ : \" مَا شَأْنُكَ ؟ \" فَقَالَ : مَلَّكْتُ امْرَأَتِي أَمْرَهَا ، فَفَارَقَتْنِي ، فَقَالَ لَهُ زَيْدٌ : \" مَا حَمَلَكَ عَلَى ذَلِكَ ؟ \" قَالَ : الْقَدَرُ ، فَقَالَ /93 زَيْدٌ L3131 /93 : /20 \" ارْتَجِعْهَا إِنْ شِئْتَ ، فَإِنَّمَا هِيَ وَاحِدَةٌ وَأَنْتَ أَمْلَكُ بِهَا \" /27 * \r\n$1139  1142 /8"
+    },
+    {
+      "hadith_id": 9054,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Abd al-Rahman ibn al-Qasim narrated from his father: That a man from Thaqif gave his wife authority over her matter. She said: 'You are the divorce.' He remained silent. Then she said: 'You are the divorce.' He said: 'May a stone be in your mouth.' Then she said: 'You are the divorce.' He said: 'May a stone be in your mouth.' They disputed before Marwan ibn al-Hakam, and he made him swear that he only gave her authority over one (divorce), and returned her to him. Malik said: Abd al-Rahman said: 'Al-Qasim used to admire this judgment and considered it the best of what he heard regarding that.' Malik said: 'This is the best of what I have heard regarding that, and the most beloved to me.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "his father (al-Qasim)",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abd al-Rahman ibn al-Qasim -> his father al-Qasim ibn Muhammad -> (report about incident with Marwan ibn al-Hakam)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) multiple times, which are ambiguous transmission terms.",
+          "impact": "Minimal impact as all narrators are highly reliable. Abd al-Rahman ibn al-Qasim narrating from his own father is naturally well-established, and all narrators in this chain are considered trustworthy."
+        },
+        {
+          "issue": "The report is about a legal judgment by Marwan ibn al-Hakam (who was not a companion but a Tabi'i and later Umayyad caliph), not a prophetic tradition or companion statement.",
+          "impact": "This is a report of juridical practice and legal precedent rather than prophetic hadith. The chain's reliability relates to the accuracy of transmitting this legal judgment."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of a man from Thaqif delegating divorce to his wife",
+        "Judgment of Marwan ibn al-Hakam on divorce delegation",
+        "Dialogue between husband and wife regarding divorce"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ /94 ، عَنْ /26 أَبِيهِ /26 ، /27 أَنَّ رَجُلًا مِنْ ثَقِيفٍ مَلَّكَ امْرَأَتَهُ أَمْرَهَا ، فَقَالَتْ : أَنْتَ الطَّلَاقُ ، فَسَكَتَ ، ثُمّ قَالَتْ : أَنْتَ الطَّلَاقُ ، فَقَالَ : بِفِيكِ الْحَجَرُ ، ثُمّ قَالَتْ : أَنْتَ الطَّلَاقُ ، فَقَالَ : بِفَيكِ الْحَجَرُ ، فَاخْتَصَمَا إِلَى /26 مَرْوَانَ بْنِ الْحَكَمِ /26 ، /20 \" فَاسْتَحْلَفَهُ مَا مَلَّكَهَا إِلَّا وَاحِدَةً ، وَرَدَّهَا إِلَيْهِ \" /27 . قَالَ /12 مَالِك /12 : /10 قَالَ عَبْدُ الرَّحْمَنِ : فَكَانَ الْقَاسِمُ يُعْجِبُهُ هَذَا الْقَضَاءُ ، وَيَرَاهُ أَحْسَنَ مَا سَمِعَ فِي ذَلِكَ /10 . قَالَ /12 مَالِك /12 : /10 وَهَذَا أَحْسَنُ مَا سَمِعْتُ فِي ذَلِكَ ، وَأَحَبُّهُ إِلَيَّ /10 * \r\n\u001eE288"
+    },
+    {
+      "hadith_id": 9056,
+      "book_id": 19,
+      "narrator_id": [4312, 1598, 4049],
+      "english_translation": "Narrated by Aisha, the Mother of the Believers: She arranged the marriage of Quraybah bint Abi Umayyah to Abd al-Rahman ibn Abi Bakr, and they married him. Then they blamed Abd al-Rahman and said: 'We only married (her) because of Aisha.' Aisha sent to Abd al-Rahman and mentioned that to him. He placed the matter of Quraybah in her (Quraybah's) hand, and she chose her husband, so that was not a divorce.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "his father (al-Qasim)",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah al-Taymiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abd al-Rahman ibn al-Qasim -> his father al-Qasim -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The entire chain uses 'an (عَنْ), which is an ambiguous transmission term throughout.",
+          "impact": "Minimal to moderate impact. While 'an is ambiguous, this particular chain has strong contextual reliability: al-Qasim ibn Muhammad was Aisha's nephew (her brother Abu Bakr's grandson) and was raised in her household, making his direct access to her certain. Abd al-Rahman narrating from his own father is naturally established. All narrators are highly reliable and not known for tadlis."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Aisha arranging marriage for Quraybah bint Abi Umayyah",
+        "Story of Abd al-Rahman ibn Abi Bakr's marriage arrangement",
+        "Wife choosing to remain with husband when given authority"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ L4312 /94 ، عَنْ /26 أَبِيهِ L1598 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 أُمِّ الْمُؤْمِنِينَ : أَنَّهَا خَطَبَتْ عَلَى عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ ، /64 قُرَيْبَةَ بِنْتَ أَبِي أُمَيَّةَ /64 ، فَزَوَّجُوهُ ، ثُمَّ إِنَّهُمْ عَتَبُوا عَلَى عَبْدِ الرَّحْمَنِ ، وَقَالُوا : مَا زَوَّجْنَا إِلَّا /64 عَائِشَةَ /64 ، فَأَرْسَلَتْ /64 عَائِشَةُ /64 إِلَى عَبْدِ الرَّحْمَنِ ، فَذَكَرَتْ ذَلِكَ لَهُ ، /20 \" فَجَعَلَ أَمْرَ /64 قُرَيْبَةَ /64 بِيَدِهَا ، فَاخْتَارَتْ زَوْجَهَا ، فَلَمْ يَكُنْ ذَلِكَ طَلَاقًا \" /27 * \r\n$1141  1144 /3"
+    },
+    {
+      "hadith_id": 9057,
+      "book_id": 19,
+      "narrator_id": [4312, 1598, 4049],
+      "english_translation": "Narrated that Aisha, wife of the Prophet ﷺ, married Hafsah bint Abd al-Rahman to al-Mundhir ibn al-Zubayr while Abd al-Rahman was absent in al-Sham (Syria). When Abd al-Rahman came, he said: 'Would someone like me have this done to him? Would someone like me be acted upon without consultation?' Aisha spoke to al-Mundhir ibn al-Zubayr, and al-Mundhir said: 'That is in the hand of Abd al-Rahman.' Abd al-Rahman said: 'I would not refuse a matter that you have decided.' So Hafsah remained with al-Mundhir, and that was not a divorce.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Qasim",
+              "full_name": "Abd al-Rahman ibn al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "his father (al-Qasim)",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abd al-Rahman ibn al-Qasim -> his father al-Qasim -> (report about Aisha)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'anna (أَنَّ) when reporting about Aisha, which can indicate indirect transmission or a report about someone rather than from them directly.",
+          "impact": "Minor impact. Al-Qasim ibn Muhammad was Aisha's nephew and lived in her household, making him a direct witness to her actions and statements. However, the use of 'anna suggests this might be a report about what Aisha did rather than her direct narration. The chain remains strong for transmitting the incident."
+        },
+        {
+          "issue": "Uses 'an (عَنْ) throughout the chain before the final 'anna.",
+          "impact": "Minimal impact as all narrators are highly reliable and the family connections (grandson to grandmother, son to father) make direct transmission certain."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Aisha arranging marriage during guardian's absence",
+        "Marriage of Hafsah bint Abd al-Rahman to al-Mundhir ibn al-Zubayr",
+        "Guardian's response to marriage arranged in his absence"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ L4312 /94 ، عَنْ /26 أَبِيهِ L1598 /26 ، /27 أَنَّ /93 عَائِشَةَ L4049 /93 زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ زَوَّجَتْ /64 حَفْصَةَ بِنْتَ عَبْدِ الرَّحْمَنِ /64 ، الْمُنْذِرَ بْنَ الزُّبَيْرِ ، وَعَبْدُ الرَّحْمَنِ غَائِبٌ /60 بِالشَّامِ /60 ، فَلَمَّا قَدِمَ عَبْدُ الرَّحْمَنِ ، قَالَ : وَمِثْلِي يُصْنَعُ هَذَا بِهِ ، وَمِثْلِي يُفْتَاتُ عَلَيْهِ ، فَكَلَّمَتْ /64 عَائِشَةُ /64 ، الْمُنْذِرَ بْنَ الزُّبَيْرِ ، فَقَالَ الْمُنْذِرُ : فَإِنَّ ذَلِكَ بِيَدِ عَبْدِ الرَّحْمَنِ ، فَقَالَ عَبْدُ الرَّحْمَنِ : /20 \" مَا كُنْتُ لِأَرُدَّ أَمْرًا قَضَيْتِيهِ \" ، فَقَرَّتْ /64 حَفْصَةُ /64 عِنْدَ الْمُنْذِرِ ، وَلَمْ يَكُنْ ذَلِكَ طَلَاقًا /27 * \r\n$1142  1145 /3"
+    },
+    {
+      "hadith_id": 9058,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "It reached Malik: That Abdullah ibn Umar and Abu Hurayrah were asked about the man who gives his wife authority over her matter, and she returns it to him without deciding anything regarding it. They said: 'That is not a divorce.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّهُ بَلَغَهُ",
+              "reliabilityIssues": ["balagh"]
+            }
+          ],
+          "chainIssues": [
+            "The chain is mursal/disconnected with the term 'balaghahu' (it reached him), meaning Malik did not specify his source between himself and the statement of Ibn Umar and Abu Hurayrah."
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [unknown intermediary/intermediaries] -> Abdullah ibn Umar and Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'balaghahu' (it reached him), which indicates a mursal/munqati' (disconnected) transmission. Malik does not specify who informed him of this statement from Ibn Umar and Abu Hurayrah.",
+          "impact": "Significant impact on chain integrity. This creates a clear gap in the transmission. While Malik's balaghat are generally treated with some consideration due to his strict standards, they remain weaker than connected chains. The absence of the intermediary prevents full authentication."
+        },
+        {
+          "issue": "Unknown intermediary narrators between Malik and the two companions, making reliability assessment of those links impossible.",
+          "impact": "This prevents complete chain authentication using classical hadith methodology."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Statement of Ibn Umar and Abu Hurayrah on delegated divorce",
+        "Wife returning divorce authority without using it"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ عُمَرَ /93 ، /93 وَأَبَا هُرَيْرَةَ /93 ، سُئِلَا عَنِ الرَّجُلِ يُمَلِّكُ امْرَأَتَهُ أَمْرَهَا ، فَتَرُدُّ بِذَلِكَ إِلَيْهِ ، وَلَا تَقْضِي فِيهِ شَيْئًا ؟ فَقَالَا : /20 \" لَيْسَ ذَلِكَ بِطَلَاقٍ \" /27 * \r\n$1143  1146 /8"
+    },
+    {
+      "hadith_id": 9059,
+      "book_id": 19,
+      "narrator_id": [8272, 3299],
+      "english_translation": "Sa'id ibn al-Musayyab said: 'When a man gives his wife authority over her matter and she does not separate from him and remains with him, that is not a divorce.' Malik said regarding the woman given authority when her husband gives her authority over her matter, then they separate and she does not accept anything from that: 'There is nothing in her hand from that, and it is for her as long as they remain in their sitting.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain uses 'an (عَنْ) multiple times, which are ambiguous transmission terms.",
+          "impact": "Minimal impact. All narrators in this chain are of the highest reliability and not known for tadlis. Yahya ibn Sa'id al-Ansari and Sa'id ibn al-Musayyab are both considered among the most reliable narrators of their respective generations. The report is also Sa'id ibn al-Musayyab's own legal opinion."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Statement of Sa'id ibn al-Musayyab on delegated divorce",
+        "Legal opinion on timing of delegated divorce authority",
+        "Malik's juristic reasoning on divorce delegation"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، أَنَّهُ قَالَ : /20 \" إِذَا مَلَّكَ الرَّجُلُ امْرَأَتَهُ ، أَمْرَهَا فَلَمْ تُفَارِقْهُ ، وَقَرَّتْ عِنْدَهُ ، فَلَيْسَ ذَلِكَ بِطَلَاقٍ \" /27 . قَالَ /12 مَالِكٌ /12 فِي الْمُمَلَّكَةِ إِذَا مَلَّكَهَا زَوْجُهَا أَمْرَهَا ، ثُمَّ افْتَرَقَا ، وَلَمْ تَقْبَلْ مِنْ ذَلِكَ شَيْئًا : /10 فَلَيْسَ بِيَدِهَا مِنْ ذَلِكَ شَيْءٌ ، وَهُوَ لَهَا مَا دَامَا فِي مَجْلِسِهِمَا /10 * \r\n:E289"
+    },
+    {
+      "hadith_id": 9060,
+      "book_id": 19,
+      "narrator_id": [2163, 7187, 5722],
+      "english_translation": "Narrated that Ali ibn Abi Talib used to say: 'When a man takes an oath (ila') from his wife, no divorce falls upon him even if the four months pass, until he is stopped (by the judge). Then either he divorces or he returns (to his wife).' Malik said: 'That is the practice with us.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ja'far ibn Muhammad",
+              "full_name": "Ja'far ibn Muhammad ibn Ali ibn al-Husayn ibn Ali ibn Abi Talib al-Hashimi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "his father (Muhammad al-Baqir)",
+              "full_name": "Muhammad ibn Ali ibn al-Husayn ibn Ali ibn Abi Talib al-Hashimi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib ibn Hashim al-Qurashi al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ja'far ibn Muhammad al-Sadiq -> his father Muhammad al-Baqir -> Ali ibn Abi Talib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ja'far ibn Muhammad al-Sadiq is graded as Saduq (truthful) rather than Thiqah by the majority of hadith scholars. While he was a great scholar and jurist, some hadith critics noted occasional issues with precision in transmission.",
+          "impact": "Moderate impact. Ja'far al-Sadiq was highly knowledgeable but not considered among the most precise hadith transmitters. His narrations are generally acceptable but not at the highest level of authentication. Imam Malik knew him personally and selected what he transmitted from him carefully."
+        },
+        {
+          "issue": "The entire chain uses 'an (عَنْ) throughout, which are ambiguous transmission terms.",
+          "impact": "Minor to moderate impact. While 'an is ambiguous, the family chain (great-great-grandson -> great-grandson -> grandson -> grandfather -> Ali) provides natural connection. However, there are scholarly debates about whether Muhammad al-Baqir actually heard from his grandfather Ali directly, as Ali died when Muhammad al-Baqir was very young (around 3-4 years old). This creates a potential disconnect in the chain."
+        },
+        {
+          "issue": "Potential issue of sama' (direct hearing): Muhammad al-Baqir from Ali ibn Abi Talib. Ali died in 40 AH and Muhammad al-Baqir was born around 57 AH according to some accounts, or 56 AH according to others. If these dates are correct, direct hearing would be impossible.",
+          "impact": "Significant impact if the dates make direct hearing impossible. However, some scholars place Muhammad al-Baqir's birth earlier (around 56-57 AH is debated), and there are differing accounts. The majority view is that he did not meet Ali directly, making this chain munqati' (disconnected). This would be a major issue affecting the chain's integrity."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Statement of Ali ibn Abi Talib on Ila' (oath of sexual abstinence)",
+        "Legal ruling on the four-month waiting period in Ila'",
+        "Judicial process for resolving Ila' situations"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 جَعْفَرِ بْنِ مُحَمَّدٍ L2163 /94 ، عَنْ /26 أَبِيهِ L7187 /26 ، /27 عَنْ /93 عَلِيِّ بْنِ أَبِي طَالِبٍ L5722 /93 ، أَنَّهُ كَانَ يَقُولُ : /20 \" إِذَا آلَى الرَّجُلُ مِنَ امْرَأَتِهِ ، لَمْ يَقَعْ عَلَيْهِ طَلَاقٌ ، وَإِنْ مَضَتِ الْأَرْبَعَةُ الْأَشْهُرِ حَتَّى يُوقَفَ ، فَإِمَّا أَنْ يُطَلِّقَ ، وَإِمَّا أَنْ يَفِيءَ \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَذَلِكَ الْأَمْرُ عِنْدَنَا /10 * \r\n$1145  1148 /3"
+    }
+  ]
+}

@@ -1,0 +1,829 @@
+{
+  "batch_number": 2,
+  "file_number": 3,
+  "record_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 9032,
+      "book_id": 19,
+      "narrator_id": 3122,
+      "english_translation": "Narrated from Zayd ibn Aslam: The Messenger of Allah ﷺ said: 'When one of you marries a woman, or purchases a female slave, let him take her by the forelock and pray for blessing. And when he purchases a camel, let him take the top of its hump and seek refuge with Allah from the Satan.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Did not meet the Prophet - mursal"]
+            }
+          ],
+          "chainIssues": ["Disconnection: Zayd ibn Aslam (d. 136 AH) never met the Prophet ﷺ - this is a mursal report"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Zayd ibn Aslam -> Prophet Muhammad ﷺ (mursal)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal chain - Zayd ibn Aslam never met the Prophet ﷺ, making this a disconnected narration",
+          "impact": "Mursal reports are considered weak due to missing link between the Tabi'i and the Prophet ﷺ. This significantly affects authenticity."
+        },
+        {
+          "issue": "Use of 'anna (أَنَّ) by Zayd ibn Aslam indicates indirect transmission",
+          "impact": "Further confirms the disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Supplication when marrying or purchasing",
+        "Seeking blessing when acquiring a wife or slave",
+        "Seeking refuge from Satan when purchasing a camel"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِذَا تَزَوَّجَ أَحَدُكُمُ الْمَرْأَةَ ، أَوِ اشْتَرَى الْجَارِيَةَ ، فَلْيَأْخُذْ بِنَاصِيَتِهَا ، وَلْيَدْعُ بِالْبَرَكَةِ ، وَإِذَا اشْتَرَى الْبَعِيرَ ، فَلْيَأْخُذْ بِذِرْوَةِ سَنَامِهِ ، وَلْيَسْتَعِذْ بِاللَّهِ مِنَ الشَّيْطَانِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1328,
+      "grade": null
+    },
+    {
+      "hadith_id": 9033,
+      "book_id": 19,
+      "narrator_id": 7270,
+      "english_translation": "Abu al-Zubayr al-Makki reported: That a man proposed marriage to another man for his sister, and he mentioned that she had committed a sin (in the past). This reached Umar ibn al-Khattab, so he struck him or almost struck him, then said: 'What do you have to do with informing (about past sins)?'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Abu al-Zubayr al-Makki",
+              "full_name": "Muhammad ibn Muslim ibn Tadrus al-Asadi al-Makki",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Known mudallis (category 3)", "Using 'anna which is concerning for a mudallis"]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu al-Zubayr uses 'anna (أَنَّ) and is a known mudallis (category 3) - this raises concerns about whether he directly heard this"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abu al-Zubayr al-Makki -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Zubayr al-Makki is a category 3 mudallis according to Ibn Hajar's classification, and he uses 'anna here",
+          "impact": "When a category 3 mudallis uses indirect terms like 'anna, it raises concerns about whether he directly heard this. However, since the report is mawquf (statement of Umar) and Abu al-Zubayr is generally considered Saduq, this doesn't critically damage the chain."
+        },
+        {
+          "issue": "This is a mawquf report (statement of a Companion, not the Prophet ﷺ)",
+          "impact": "Not a marfu' hadith, so it carries the authority of Umar's opinion rather than direct prophetic instruction"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of a man revealing his sister's past sins during marriage proposal",
+        "Umar ibn al-Khattab's response to exposing past sins",
+        "Concealing people's past mistakes"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ أَبِي الزُّبَيْرِ الْمَكِّيِّ : أَنَّ رَجُلًا خَطَبَ إِلَى رَجُلٍ أُخْتَهُ ، فَذَكَرَ أَنَّهَا قَدْ كَانَتْ أَحْدَثَتْ فَبَلَغَ ذَلِكَ عُمَرَ بْنَ الْخَطَّابِ فَضَرَبَهُ أَوْ كَادَ يَضْرِبُهُ ، ثُمَ قَالَ : \" مَا لَكَ وَلِلْخَبَرِ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1329,
+      "grade": null
+    },
+    {
+      "hadith_id": 9034,
+      "book_id": 19,
+      "narrator_id": 2885,
+      "english_translation": "Rabi'ah ibn Abi Abd al-Rahman reported: That al-Qasim ibn Muhammad and Urwah ibn al-Zubayr used to say concerning a man who has four wives and divorces one of them irrevocably: 'That he may marry if he wishes, and does not wait until her waiting period ('iddah) expires.'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Rabi'ah ibn Abi Abd al-Rahman -> al-Qasim ibn Muhammad & Urwah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' report (statement of Tabi'in, not the Prophet ﷺ or a Companion)",
+          "impact": "Represents the juridical opinion of two prominent Tabi'in scholars rather than prophetic instruction. Has value as scholarly opinion but not as direct hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Rabi'ah uses 'anna which can indicate indirect transmission",
+          "impact": "However, given that this is reporting the opinion of scholars (not a hadith), and Rabi'ah is known to have studied with both al-Qasim and Urwah, this is acceptable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Remarriage after irrevocable divorce",
+        "Marriage limits when having four wives",
+        "Juridical opinion on waiting period after irrevocable divorce"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ ، وَعُرْوَةَ بْنَ الزُّبَيْرِ ، كَانَا يَقُولَانِ فِي الرَّجُلِ ، يَكُونُ عِنْدَهُ أَرْبَعُ نِسْوَةٍ ، فَيُطَلِّقُ إِحْدَاهُنَّ الْبَتَّةَ : \" أَنَّهُ يَتَزَوَّجُ إِنْ شَاءَ ، وَلَا يَنْتَظِرُ أَنْ تَنْقَضِيَ عِدَّتُهَا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1330,
+      "grade": null
+    },
+    {
+      "hadith_id": 9035,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Rabi'ah ibn Abi Abd al-Rahman reported: That al-Qasim ibn Muhammad and Urwah ibn al-Zubayr gave this legal opinion to al-Walid ibn Abd al-Malik when he came to Medina that year, except that al-Qasim ibn Muhammad said: 'He divorced her in separate sessions.'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Rabi'ah ibn Abi Abd al-Rahman -> al-Qasim ibn Muhammad & Urwah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' report (statement of Tabi'in providing legal opinion)",
+          "impact": "Represents historical record of juridical opinion given to the Umayyad caliph al-Walid ibn Abd al-Malik, not a prophetic hadith."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of al-Walid ibn Abd al-Malik seeking fatwa in Medina",
+        "Legal opinion on irrevocable divorce",
+        "Historical record of scholarly consultation"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِكٍ ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ ، وَعُرْوَةَ بْنَ الزُّبَيْرِ أَفْتَيَا الْوَلِيدَ بْنَ عَبْدِ الْمَلِكِ عَامَ قَدِمَ الْمَدِينَةَ بِذَلِكَ ، غَيْرَ أَنَّ الْقَاسِمَ بْنَ مُحَمَّدٍ ، قَالَ : \" طَلَّقَهَا فِي مَجَالِسَ شَتَّى \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1331,
+      "grade": null
+    },
+    {
+      "hadith_id": 9036,
+      "book_id": 19,
+      "narrator_id": 8272,
+      "english_translation": "Yahya ibn Sa'id reported from Sa'id ibn al-Musayyab that he said: 'Three things in which there is no jest: marriage, divorce, and emancipation.'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyab",
+              "full_name": "Sa'id ibn al-Musayyab ibn Hazan al-Makhzumi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya al-Laythi -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' report (statement of Sa'id ibn al-Musayyab, a prominent Tabi'i)",
+          "impact": "Represents the scholarly opinion of one of the most prominent Tabi'in rather than a prophetic hadith. However, Sa'id ibn al-Musayyab is known for rarely making statements without basis."
+        },
+        {
+          "issue": "Multiple uses of 'an in the chain",
+          "impact": "However, all narrators are highly reliable (Thiqah Thabt) and there are no known issues of tadlis among them in this context, making the chain acceptable despite indirect transmission terms."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Seriousness of marriage pronouncements",
+        "Validity of divorce even if said in jest",
+        "Validity of emancipation even if said in jest"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ قَالَ : \" ثَلَاثٌ لَيْسَ فِيهِنَّ لَعِبٌ : النِّكَاحُ ، وَالطَّلَاقُ ، وَالْعِتْقُ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1332,
+      "grade": null
+    },
+    {
+      "hadith_id": 9037,
+      "book_id": 19,
+      "narrator_id": 7272,
+      "english_translation": "Ibn Shihab reported from Rafi' ibn Khadij: That he married the daughter of Muhammad ibn Maslamah al-Ansari, and she remained with him until she became old. Then he married a young girl in addition to her, and he favored the young one over her. So she requested divorce from him, and he divorced her once, then he delayed until she was about to become lawful (end of 'iddah), then he took her back. Then he returned to favoring the young one, so she requested divorce from him, and he divorced her once, then took her back. Then he returned to favoring the young one, so she requested divorce from him. He said: 'What do you wish? Only one divorce remains. If you wish, you can remain with what you see of favoritism, and if you wish, I will separate from you.' She said: 'Rather I will remain with the favoritism.' So he kept her on that basis, and Rafi' did not see any sin upon himself when she remained with him despite the favoritism.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydillah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis by some scholars (category 3)", "However, widely considered extremely reliable"]
+            },
+            {
+              "name": "Rafi' ibn Khadij",
+              "full_name": "Rafi' ibn Khadij ibn Rafi' al-Ansari al-Awsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Shihab al-Zuhri uses 'an and is classified as a mudallis by some scholars"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Rafi' ibn Khadij"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a category 3 mudallis by some scholars and uses 'an here",
+          "impact": "While al-Zuhri's tadlis is noted, he is universally considered Thiqah Thabt and among the most reliable narrators. The vast majority of scholars accept his narrations even with 'an. This does not significantly impact the grade."
+        },
+        {
+          "issue": "This is a mawquf report (action/statement of Rafi' ibn Khadij, a Companion)",
+          "impact": "While it describes the action of a Companion, it represents his personal practice rather than a direct prophetic command. However, Companion actions carry significant weight in Islamic jurisprudence."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Rafi' ibn Khadij divorcing and taking back his wife",
+        "Practice of talaq raja'i (revocable divorce)",
+        "Wife's choice between remaining with favoritism or divorce",
+        "Marriage dynamics when taking a younger wife"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنِ ابْنِ شِهَابٍ ، عَنْ رَافِعِ بْنِ خَدِيجٍ ، أَنَّهُ تَزَوَّجَ بِنْتَ مُحَمَّدِ بْنِ مَسْلَمَةَ الْأَنْصَارِيِّ ، فَكَانَتْ عِنْدَهُ حَتَّى كَبِرَتْ ، فَتَزَوَّجَ عَلَيْهَا فَتَاةً شَابَّةً ، فَآثَرَ الشَّابَّةَ عَلَيْهَا ، فَنَاشَدَتْهُ الطَّلَاقَ ، فَطَلَّقَهَا وَاحِدَةً ثُمَّ أَمْهَلَهَا ، حَتَّى إِذَا كَادَتْ تَحِلُّ رَاجَعَهَا ، ثُمَّ عَادَ فَآثَرَ الشَّابَّةَ ، فَنَاشَدَتْهُ الطَّلَاقَ ، فَطَلَّقَهَا وَاحِدَةً ، ثُمَّ رَاجَعَهَا ، ثُمَّ عَادَ فَآثَرَ الشَّابَّةَ ، فَنَاشَدَتْهُ الطَّلَاقَ ، فَقَالَ : \" مَا شِئْتِ ، إِنَّمَا بَقِيَتْ وَاحِدَةٌ ، فَإِنْ شِئْتِ اسْتَقْرَرْتِ عَلَى مَا تَرَيْنَ مِنَ الْأُثْرَةِ ، وَإِنْ شِئْتِ فَارَقْتُكِ \" ، قَالَتْ : بَلْ أَسْتَقِرُّ عَلَى الْأُثْرَةِ ، فَأَمْسَكَهَا عَلَى ذَلِكَ ، وَلَمْ يَرَ رَافِعٌ عَلَيْهِ إِثْمًا حِينَ قَرَّتْ عِنْدَهُ عَلَى الْأُثْرَةِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1333,
+      "grade": null
+    },
+    {
+      "hadith_id": 9039,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik reported in a mursal form: That a man said to Abdullah ibn Abbas: 'I divorced my wife one hundred divorces, so what do you see upon me?' Ibn Abbas said to him: 'She is divorced from you by three, and ninety-seven you took as mockery of the signs of Allah.'",
+      "chains": [
+        {
+          "type": "mawquf-munqati",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Balagha (بلغه) indicates mursal/disconnected chain"]
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection: Malik uses 'balagha' (بلغه - it reached him), indicating he did not receive this directly through a complete chain"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> (disconnected) -> Abdullah ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagha form - Malik says 'balagahu' (it reached him), which is a clear form of disconnection",
+          "impact": "This is a munqati' (disconnected) report. Malik (d. 179 AH) did not directly hear from Ibn Abbas (d. 68 AH), and the intermediate narrators are not mentioned, creating a significant gap in the chain."
+        },
+        {
+          "issue": "Unknown intermediate narrators between Malik and Ibn Abbas",
+          "impact": "Without knowing who transmitted this to Malik, we cannot verify the reliability of the complete chain. This significantly weakens the report."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man divorcing his wife one hundred times",
+        "Ibn Abbas's ruling on excessive divorce pronouncements",
+        "Three-divorce limit in Islamic law"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِكٍ ، أَنَّهُ بَلَغَهُ ، أَنَّ رَجُلًا قَالَ لِعَبْدِ اللَّهِ بْنِ عَبَّاسٍ : إِنِّي طَلَّقْتُ امْرَأَتِي مِائَةَ تَطْلِيقَةٍ ، فَمَاذَا تَرَى عَلَيَّ ؟ فَقَالَ لَهُ ابْنُ عَبَّاسٍ : \" طَلُقَتْ مِنْكَ لِثَلَاثٍ ، وَسَبْعٌ وَتِسْعُونَ اتَّخَذْتَ بِهَا آيَاتِ اللَّهِ هُزُوًا \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1335,
+      "grade": null
+    },
+    {
+      "hadith_id": 9040,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik reported in a mursal form: That a man came to Abdullah ibn Mas'ud and said: 'I divorced my wife eight divorces.' Ibn Mas'ud said: 'So what was said to you?' He said: 'It was said to me that she is separated from me.' Ibn Mas'ud said: 'They spoke the truth. Whoever divorces as Allah commanded him, Allah has clarified for him. And whoever confuses himself with confusion, We make his confusion stick to him. Do not confuse yourselves and we bear it for you. It is as they say.'",
+      "chains": [
+        {
+          "type": "mawquf-munqati",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Balagha (بلغه) indicates mursal/disconnected chain"]
+            },
+            {
+              "name": "Abdullah ibn Mas'ud",
+              "full_name": "Abdullah ibn Mas'ud ibn al-Harith al-Hudhali",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection: Malik uses 'balagha' (بلغه), indicating incomplete chain to Ibn Mas'ud"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> (disconnected) -> Abdullah ibn Mas'ud"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagha form - Malik says 'balagahu' (it reached him), indicating disconnection",
+          "impact": "This is a munqati' (disconnected) report. Malik (d. 179 AH) could not have directly heard from Ibn Mas'ud (d. 32 AH), and the intermediate narrators are not mentioned, creating a significant gap."
+        },
+        {
+          "issue": "Unknown intermediate narrators",
+          "impact": "Without knowing the complete chain, the reliability cannot be fully assessed. This weakens the report significantly."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of a man divorcing his wife eight times",
+        "Ibn Mas'ud's principle regarding excessive divorce",
+        "Concept of intent in divorce pronouncements"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِكٍ ، أَنَّهُ بَلَغَهُ ، أَنَّ رَجُلًا جَاءَ إِلَى عَبْدِ اللَّهِ بْنِ مَسْعُودٍ ، فَقَالَ : إِنِّي طَلَّقْتُ امْرَأَتِي ثَمَانِيَ تَطْلِيقَاتٍ ، فَقَالَ ابْنُ مَسْعُودٍ : \" فَمَاذَا قِيلَ لَكَ ؟ \" قَالَ : قِيلَ لِي : إِنَّهَا قَدْ بَانَتْ مِنِّي ، فَقَالَ ابْنُ مَسْعُودٍ : \" صَدَقُوا ، مَنْ طَلَّقَ كَمَا أَمَرَهُ اللَّهُ ، فَقَدْ بَيَّنَ اللَّهُ لَهُ ، وَمَنْ لَبَسَ عَلَى نَفْسِهِ لَبْسًا ، جَعَلْنَا لَبْسَهُ مُلْصَقًا بِهِ ، لَا تَلْبِسُوا عَلَى أَنْفُسِكُمْ ، وَنَتَحَمَّلُهُ عَنْكُمْ ، هُوَ كَمَا يَقُولُونَ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1336,
+      "grade": null
+    },
+    {
+      "hadith_id": 9041,
+      "book_id": 19,
+      "narrator_id": 8272,
+      "english_translation": "Yahya ibn Sa'id reported from Abu Bakr ibn Hazm: That Umar ibn Abd al-Aziz said to him: 'Al-Battah (irrevocable divorce), what do people say about it?' Abu Bakr said: 'I said to him: Aban ibn Uthman used to make it count as one divorce.' So Umar ibn Abd al-Aziz said: 'If divorce were a thousand, al-Battah would not leave anything of it. Whoever says al-Battah has reached the furthest limit.'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Bakr ibn Hazm",
+              "full_name": "Abu Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn Abd al-Aziz",
+              "full_name": "Umar ibn Abd al-Aziz ibn Marwan ibn al-Hakam al-Umawi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aban ibn Uthman",
+              "full_name": "Aban ibn Uthman ibn Affan al-Umawi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya al-Laythi -> Malik -> Yahya ibn Sa'id -> Abu Bakr ibn Hazm -> Umar ibn Abd al-Aziz (with reference to Aban ibn Uthman's opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' report (statements of Tabi'in and scholarly discussion)",
+          "impact": "Represents historical record of scholarly debate between Umar ibn Abd al-Aziz and the practice of Aban ibn Uthman regarding the meaning of al-Battah in divorce. Not a prophetic hadith but valuable for understanding early juridical opinions."
+        },
+        {
+          "issue": "Multiple uses of 'an in the chain",
+          "impact": "However, all narrators are highly reliable and there are no known tadlis concerns in this chain, making it acceptable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Scholarly discussion on the meaning of al-Battah divorce",
+        "Differing opinions between Aban ibn Uthman and Umar ibn Abd al-Aziz",
+        "Interpretation of divorce terminology"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ أَبِي بَكْرِ بْنِ حَزْمٍ ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ ، قَالَ لَهُ : \" الْبَتَّةُ ، مَا يَقُولُ النَّاسُ فِيهَا ؟ \" قَالَ أَبُو بَكْرٍ : فَقُلْتُ لَهُ : كَانَ أَبَانُ بْنُ عُثْمَانَ يَجْعَلُهَا وَاحِدَةً ، فَقَالَ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ : \" لَوْ كَانَ الطَّلَاقُ أَلْفًا ، مَا أَبْقَتِ الْبَتَّةُ مِنْهَا شَيْئًا ، مَنْ قَالَ الْبَتَّةَ ، فَقَدْ رَمَى الْغَايَةَ الْقُصْوَى \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1337,
+      "grade": null
+    },
+    {
+      "hadith_id": 9042,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Ibn Shihab reported: That Marwan ibn al-Hakam used to judge regarding the one who divorces his wife al-Battah (irrevocably), that it is three divorces. Malik said: This is the most beloved of what I have heard to me regarding that.",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Uses 'an but is extremely reliable"]
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydillah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["Classified as mudallis by some scholars (category 3)", "However, widely considered extremely reliable"]
+            },
+            {
+              "name": "Marwan ibn al-Hakam",
+              "full_name": "Marwan ibn al-Hakam ibn Abi al-As ibn Umayyah al-Umawi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second Generation",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": ["Not a Companion, was young during Prophet's time", "Some controversy about his reliability"]
+            }
+          ],
+          "chainIssues": ["Ibn Shihab uses 'anna and is classified as mudallis by some"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Marwan ibn al-Hakam"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a category 3 mudallis and uses 'anna here",
+          "impact": "While al-Zuhri's tadlis is noted, he is universally considered Thiqah Thabt. The vast majority of scholars accept his narrations even with 'anna. This does not significantly impact the grade."
+        },
+        {
+          "issue": "This is a maqtu' report (juridical practice of Marwan ibn al-Hakam)",
+          "impact": "Marwan was a governor and later Umayyad caliph. This represents his juridical ruling rather than prophetic instruction. His opinions carry less weight than those of Companions."
+        },
+        {
+          "issue": "Marwan ibn al-Hakam has some controversy regarding his status",
+          "impact": "While he is generally considered reliable as a narrator, he was not a Companion (though he lived during the Prophet's time as a child). Some scholars have reservations about him due to political reasons."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Marwan ibn al-Hakam's juridical ruling on al-Battah divorce",
+        "Historical practice of judging al-Battah as three divorces",
+        "Malik's endorsement of this opinion"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنِ ابْنِ شِهَابٍ ، أَنَّ مَرْوَانَ بْنَ الْحَكَمِ \" كَانَ يَقْضِي فِي الَّذِي يُطَلِّقُ امْرَأَتَهُ الْبَتَّةَ ، أَنَّهَا ثَلَاثُ تَطْلِيقَاتٍ \" . قَالَ مَالِك : وَهَذَا أَحَبُّ مَا سَمِعْتُ إِلَيَّ فِي ذَلِكَ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1338,
+      "grade": null
+    },
+    {
+      "hadith_id": 9044,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik reported in a mursal form: That it was written to Umar ibn al-Khattab from Iraq that a man said to his wife: 'Your rope is on your hump' (an expression of divorce). Umar ibn al-Khattab wrote to his governor: 'Order him to meet me in Makkah during the pilgrimage season.' While Umar was circumambulating the House, the man met him and greeted him. Umar said: 'Who are you?' He said: 'I am the one whom you ordered to be brought to you.' Umar said to him: 'I ask you by the Lord of this structure, what did you intend by your statement: Your rope is on your hump?' The man said: 'If you had made me swear in other than this place, I would not have told you the truth. I intended by that separation.' So Umar ibn al-Khattab said: 'It is what you intended.'",
+      "chains": [
+        {
+          "type": "mawquf-munqati",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Balagha (بلغه) indicates mursal/disconnected chain"]
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection: Malik uses 'balagha' (بلغه), indicating incomplete chain"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> (disconnected) -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagha form - Malik says 'balagahu' (it reached him), clear form of disconnection",
+          "impact": "This is a munqati' (disconnected) report. Malik (d. 179 AH) could not have heard from Umar (d. 23 AH), and intermediate narrators are not mentioned, creating a significant gap of over 150 years."
+        },
+        {
+          "issue": "Unknown intermediate narrators between Malik and the event",
+          "impact": "Without the complete chain, reliability cannot be fully verified. This significantly weakens the report."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Umar ibn al-Khattab judging on metaphorical divorce expression",
+        "Use of euphemisms in divorce",
+        "Principle of intent in divorce pronouncements",
+        "Umar's practice of summoning people during Hajj for judgment"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، أَنَّهُ بَلَغَهُ ، أَنَّهُ كُتِبَ إِلَى عُمَرَ بْنِ الْخَطَّابِ مِنَ الْعِرَاقِ ، أَنَّ رَجُلًا ، قَالَ لِامْرَأَتِهِ : حَبْلُكِ عَلَى غَارِبِكِ ، فَكَتَبَ عُمَرُ بْنُ الْخَطَّابِ إِلَى عَامِلِهِ : \" أَنْ مُرْهُ يُوَافِينِي بِمَكَّةَ فِي الْمَوْسِمِ \" ، فَبَيْنَمَا عُمَرُ يَطُوفُ بِالْبَيْتِ ، إِذْ لَقِيَهُ الرَّجُلُ ، فَسَلَّمَ عَلَيْهِ ، فَقَالَ عُمَرُ : \" مَنْ أَنْتَ ؟ \" فَقَالَ : أَنَا الَّذِي أَمَرْتَ أَنْ أُجْلَبَ عَلَيْكَ ، فَقَالَ لَهُ عُمَرُ : \" أَسْأَلُكَ بِرَبِّ هَذِهِ الْبَنِيَّةِ ، مَا أَرَدْتَ بِقَوْلِكَ حَبْلُكِ عَلَى غَارِبِكِ \" ، فَقَالَ لَهُ الرَّجُلُ : لَوِ اسْتَحْلَفْتَنِي فِي غَيْرِ هَذَا الْمَكَانِ مَا صَدَقْتُكَ ، أَرَدْتُ بِذَلِكَ الْفِرَاقَ ، فَقَالَ عُمَرُ بْنُ الْخَطَّابِ : \" هُوَ مَا أَرَدْتَ \"",
+      "collection": "Muwatta Malik",
+      "reference_number": 1340,
+      "grade": null
+    },
+    {
+      "hadith_id": 9045,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik reported in a mursal form: That Ali ibn Abi Talib used to say regarding a man who says to his wife 'You are forbidden to me': 'It is three divorces.' Malik said: This is the best of what I have heard regarding that.",
+      "chains": [
+        {
+          "type": "mawquf-munqati",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["Balagha (بلغه) indicates mursal/disconnected chain"]
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "N/A",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Clear disconnection: Malik uses 'balagha' (بلغه), indicating incomplete chain to Ali"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> (disconnected) -> Ali ibn Abi Talib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Balagha form - Malik says 'balagahu' (it reached him), indicating clear disconnection",
+          "impact": "This is a munqati' (disconnected) report. Malik (d. 179 AH) could not have heard from Ali (d. 40 AH), and intermediate narrators are not mentioned, creating a gap of nearly 140 years."
+        },
+        {
+          "issue": "Unknown intermediate narrators",
+          "impact": "Without knowing the complete chain, the reliability of transmission cannot be fully verified. This significantly weakens the report."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ali ibn Abi Talib's ruling on declaring wife forbidden",
+        "Interpretation of the phrase 'You are forbidden to me'",
+        "Malik's endorsement of Ali's opinion"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِكٍ ، أَنَّهُ بَلَغَهُ ، أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ ، كَانَ يَقُولُ فِي الرَّجُلِ يَقُولُ لِامْرَأَتِهِ أَنْتِ عَلَيَّ حَرَامٌ : \" إِنَّهَا ثَلَاثُ تَطْلِيقَاتٍ \" . قَالَ مَالِكٌ : وَذَلِكَ أَحْسَنُ مَا سَمِعْتُ فِي ذَلِكَ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1341,
+      "grade": null
+    }
+  ]
+}

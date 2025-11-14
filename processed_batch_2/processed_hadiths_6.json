@@ -1,0 +1,770 @@
+{
+  "batch_number": 2,
+  "file_number": 6,
+  "record_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9076,
+      "book_id": 19,
+      "narrator_id": [
+        7272,
+        5594,
+        2992,
+        2457
+      ],
+      "english_translation": "Narrated from Urwah ibn al-Zubayr: That a freed slave woman of Bani Adi called Zabra informed him that she was under (married to) a slave while she was a slave at that time, then she was freed. She said: Hafsah, the wife of the Prophet ﷺ, sent for me and called me. She said: 'I am informing you of something, but I do not like that you do anything. Your matter is in your hand as long as your husband has not touched you. If he touches you, then you have no choice in the matter.' She said: So I said: It is divorce, then divorce, then divorce. So she separated from him three times.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya (implied narrator from Malik)",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Known for tadlis (category 3), but generally considered extremely reliable"
+              ]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thabt Hujjah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zabra",
+              "full_name": "Zabra, freed slave woman of Bani Adi",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَتْهُ",
+              "reliabilityIssues": [
+                "Not widely known, limited narrations"
+              ]
+            },
+            {
+              "name": "Hafsah bint Umar",
+              "full_name": "Hafsah bint Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'an (عَنْ) by Malik and al-Zuhri",
+            "Al-Zuhri known for tadlis using 'an",
+            "Zabra is not widely known narrator"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Urwah ibn al-Zubayr -> Zabra -> Hafsah bint Umar (رضي الله عنها)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri using 'an (عَنْ) - he is classified as mudallis (category 3)",
+          "impact": "Al-Zuhri is known for tadlis, but he is generally considered extremely reliable by the majority of scholars, so this does not significantly impact the grading"
+        },
+        {
+          "issue": "Malik using 'an (عَنْ)",
+          "impact": "Malik occasionally practiced balagh (بلغه), but this narration appears direct. Minor concern given his overall reliability"
+        },
+        {
+          "issue": "Zabra is not a widely known narrator",
+          "impact": "Limited information about this narrator, though narrating to Urwah adds credibility"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of a freed slave woman exercising her option",
+        "Right of freed slave woman to choose divorce",
+        "Advice from Hafsah to freed slave woman",
+        "Marriage dissolution option upon emancipation"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنِ ابْنِ شِهَابٍ ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ ، أَنَّ مَوْلَاةً لِبَنِي عَدِيٍّ يُقَالُ لَهَا زَبْرَاءُ أَخْبَرَتْهُ ، أَنَّهَا كَانَتْ تَحْتَ عَبْدٍ ، وَهِيَ أَمَةٌ يَوْمَئِذٍ فَعَتَقَتْ ، قَالَتْ : فَأَرْسَلَتْ إِلَيَّ حَفْصَةُ زَوْجُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَدَعَتْنِي ، فَقَالَتْ : \" إِنِّي مُخْبِرَتُكِ خَبَرًا ، وَلَا أُحِبُّ أَنْ تَصْنَعِي شَيْئًا إِنَّ أَمْرَكِ بِيَدِكِ مَا لَمْ يَمْسَسْكِ زَوْجُكِ ، فَإِنْ مَسَّكِ فَلَيْسَ لَكِ مِنَ الْأَمْرِ شَيْءٌ \" ، قَالَتْ : فَقُلْتُ : هُوَ الطَّلَاقُ ، ثُمَّ الطَّلَاقُ ، ثُمَّ الطَّلَاقُ ، فَفَارَقَتْهُ ثَلَاثًا *  1161",
+      "collection": "Muwatta Malik",
+      "reference_number": 1372,
+      "grade": null
+    },
+    {
+      "hadith_id": 9077,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Narrated that it reached Malik from Sa'id ibn al-Musayyib that he said: 'Whichever man marries a woman while she has a husband, or he marries a woman while he has a wife whom he has not divorced and her waiting period has not ended - then the marriage to the later one is invalid.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (implied)",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balaghat form indicates unclear chain"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thabt Hujjah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain - 'balaghahu' (بَلَغَهُ) indicates missing narrator(s) between Malik and Sa'id ibn al-Musayyib",
+            "This is a statement of Sa'id, not traced to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [Missing narrator(s)] -> Sa'id ibn al-Musayyib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain using 'balaghahu' (بَلَغَهُ)",
+          "impact": "Clear disconnection in the chain. Missing narrator(s) between Malik and Sa'id ibn al-Musayyib"
+        },
+        {
+          "issue": "Maqtu' narration (statement of Tabi'i, not from Prophet ﷺ)",
+          "impact": "This is a statement of Sa'id ibn al-Musayyib, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Invalid marriage with married woman",
+        "Marriage during waiting period",
+        "Conditions for valid marriage contract"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِكٍ ، أَنَّهُ بَلَغَهُ ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ ، أَنَّهُ قَالَ : \" أَيُّمَا رَجُلٍ تَزَوَّجَ امْرَأَةً وَبِهِ جُنُونٌ ، أَوْ ضَرَرٌ ، فَإِنَّهَا تُخَيَّرُ ، فَإِنْ شَاءَتْ قَرَّتْ ، وَإِنْ شَاءَتْ فَارَقَتْ \" . قَالَ مَالِكٌ فِي الْأَمَةِ تَكُونُ تَحْتَ الْعَبْدِ ثُمَّ تُعْتَقُ قَبْلَ أَنْ يَدْخُلَ بِهَا ، أَوْ يَمَسَّهَا : إِنَّهَا إِنِ اخْتَارَتْ نَفْسَهَا فَلَا صَدَاقَ لَهَا ، وَهِيَ تَطْلِيقَةٌ وَذَلِكَ الْأَمْرُ عِنْدَنَا *  1162",
+      "collection": "Muwatta Malik",
+      "reference_number": 1373,
+      "grade": null
+    },
+    {
+      "hadith_id": 9078,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Narrated from Ibn Shihab that he heard him saying: 'When a man gives his wife the choice and she chooses him, then that is not a divorce, and if she chooses herself, then that is an irrevocable divorce.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (implied)",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَهُ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is a statement of al-Zuhri, not traced to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri (his statement)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' narration (statement of Tabi'i al-Tabi'in, not from Prophet ﷺ)",
+          "impact": "This is a legal opinion of al-Zuhri, not a prophetic hadith. However, the chain to al-Zuhri is sound with explicit hearing (سَمِعَهُ)"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Wife choosing herself in marriage option",
+        "Irrevocable divorce through choice",
+        "Legal ruling on wife's choice"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنِ ابْنِ شِهَابٍ أَنَّهُ سَمِعَهُ يَقُولُ : \" إِذَا خَيَّرَ الرَّجُلُ امْرَأَتَهُ فَاخْتَارَتْهُ ، فَلَيْسَ ذَلِكَ بِطَلَاقٍ \" . قَالَ مَالِكٌ : وَذَلِكَ أَحْسَنُ مَا سَمِعْتُ . قَالَ مَالِكٌ فِي الْمُخَيَّرَةِ : إِذَا خَيَّرَهَا زَوْجُهَا فَاخْتَارَتْ نَفْسَهَا ، فَقَدْ طَلُقَتْ ثَلَاثًا ، وَإِنْ قَالَ زَوْجُهَا : لَمْ أُخَيِّرْكِ إِلَّا وَاحِدَةً ، فَلَيْسَ لَهُ ذَلِكَ ، وَذَلِكَ أَحْسَنُ مَا سَمِعْتُهُ . قَالَ مَالِكٌ : وَإِنْ خَيَّرَهَا ، فَقَالَتْ : قَدْ قَبِلْتُ وَاحِدَةً ، وَقَالَ : لَمْ أُرِدْ هَذَا ، وَإِنَّمَا خَيَّرْتُكِ فِي الثَّلَاثِ جَمِيعًا ، أَنَّهَا إِنْ لَمْ تَقْبَلْ إِلَّا وَاحِدَةً أَقَامَتْ عِنْدَهُ عَلَى نِكَاحِهَا ، وَلَمْ يَكُنْ ذَلِكَ فِرَاقًا إِنْ شَاءَ اللَّهُ تَعَالَى * -E294",
+      "collection": "Muwatta Malik",
+      "reference_number": 1374,
+      "grade": null
+    },
+    {
+      "hadith_id": 9080,
+      "book_id": 19,
+      "narrator_id": [
+        8272,
+        6058
+      ],
+      "english_translation": "Narrated Yahya from Malik, from Yahya ibn Sa'id, from 'Amrah bint Abd al-Rahman: That the wife of Thabit ibn Qays ibn Shammas came to the Prophet ﷺ and said: 'O Messenger of Allah, I do not find fault with Thabit ibn Qays in character or religion, but I dislike disbelief in Islam.' The Messenger of Allah ﷺ said: 'Will you return his garden to him?' She said: 'Yes.' So the Messenger of Allah ﷺ commanded him, and he divorced her once.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Amrah bint Abd al-Rahman",
+              "full_name": "'Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Wife of Thabit ibn Qays",
+              "full_name": "Jamilah bint Salul (or Habibah bint Sahl)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Implied",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - 'Amrah did not directly witness the incident",
+            "Use of 'an (عَنْ) by Malik and Yahya ibn Sa'id"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> 'Amrah bint Abd al-Rahman -> Wife of Thabit ibn Qays -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "'Amrah bint Abd al-Rahman narrating about an incident she did not witness (mursal)",
+          "impact": "This is a mursal narration as 'Amrah was not present during the incident with the Prophet ﷺ. However, 'Amrah is a very reliable narrator and her mursal narrations are considered strong"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "Though 'an is used, all narrators are highly reliable (Malik, Yahya ibn Sa'id, 'Amrah), mitigating concerns"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of woman seeking khul' from Thabit ibn Qays",
+        "Woman disliking husband without fault in character",
+        "Returning dowry for divorce",
+        "Prophet ﷺ facilitating khul'"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ أَنَّهَا أَخْبَرَتْهُ ، عَنْ حَبِيبَةَ بِنْتِ سَهْلٍ الْأَنْصَارِيِّ ، أَنَّهَا كَانَتْ تَحْتَ ثَابِتِ بْنِ قَيْسِ بْنِ شَمَّاسٍ ، وَأَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ إِلَى الصُّبْحِ ، فَوَجَدَ حَبِيبَةَ بِنْتَ سَهْلٍ عِنْدَ بَابهِ فِي الْغَلَسِ ، فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ هَذِهِ ؟ \" فَقَالَتْ : أَنَا حَبِيبَةُ بِنْتُ سَهْلٍ يَا رَسُولَ اللَّهِ ، قَالَ : \" مَا شَأْنُكِ ؟ \" قَالَتْ : لَا أَنَا وَلَا ثَابِتُ بْنُ قَيْسٍ لِزَوْجِهَا ، فَلَمَّا جَاءَ زَوْجُهَا ثَابِتُ بْنُ قَيْسٍ ، قَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" هَذِهِ حَبِيبَةُ بِنْتُ سَهْلٍ ، قَدْ ذَكَرَتْ مَا شَاءَ اللَّهُ أَنْ تَذْكُرَ \" ، فَقَالَتْ حَبِيبَةُ : يَا رَسُولَ اللَّهِ ، كُلُّ مَا أَعْطَانِي عِنْدِي ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِثَابِتِ بْنِ قَيْسٍ : \" خُذْ مِنْهَا \" ، فَأَخَذَ مِنْهَا ، وَجَلَسَتْ فِي بَيْتِ أَهْلِهَا *  1164",
+      "collection": "Muwatta Malik",
+      "reference_number": 1377,
+      "grade": null
+    },
+    {
+      "hadith_id": 9081,
+      "book_id": 19,
+      "narrator_id": [
+        7863,
+        1420
+      ],
+      "english_translation": "Narrated from Malik, from Nafi', from a freed slave woman of Safiyyah bint Abi Ubayd: That she had performed khul' from her husband and that Abd Allah ibn Umar commanded her to wait for one menstrual period.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (implied)",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Freed slave woman of Safiyyah",
+              "full_name": "Unknown freed slave woman of Safiyyah bint Abi Ubayd",
+              "grade": "Majhul",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهَا",
+              "reliabilityIssues": [
+                "Unknown narrator, name not mentioned"
+              ]
+            },
+            {
+              "name": "Abd Allah ibn Umar",
+              "full_name": "Abd Allah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Implied",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator (freed slave woman of Safiyyah)",
+            "Narration about Ibn Umar's ruling, not from Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Freed slave woman of Safiyyah -> Abd Allah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator (freed slave woman of Safiyyah bint Abi Ubayd)",
+          "impact": "The narrator is not named and unknown (majhul), which affects the chain reliability"
+        },
+        {
+          "issue": "Maqtu' - narration about companion's ruling",
+          "impact": "This is about Ibn Umar's legal ruling, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Waiting period after khul'",
+        "Ibn Umar's ruling on khul' waiting period",
+        "One menstrual period for divorced woman through khul'"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ مَوْلَاةٍ لِصَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ ، أَنَّهَا \" اخْتَلَعَتْ مِنْ زَوْجِهَا بِكُلِّ شَيْءٍ لَهَا ، فَلَمْ يُنْكِرْ ذَلِكَ عَبْدُ اللَّهِ بْنُ عُمَرَ \" . قَالَ مَالِك فِي الْمُفْتَدِيَةِ الَّتِي تَفْتَدِي مِنْ زَوْجِهَا : أَنَّهُ إِذَا عُلِمَ أَنَّ زَوْجَهَا أَضَرَّ بِهَا ، وَضَيَّقَ عَلَيْهَا ، وَعُلِمَ أَنَّهُ ظَالِمٌ لَهَا ، مَضَى الطَّلَاقُ وَرَدَّ عَلَيْهَا مَالَهَا ، قَالَ : فَهَذَا الَّذِي كُنْتُ أَسْمَعُ ، وَالَّذِي عَلَيْهِ أَمْرُ النَّاسِ عِنْدَنَا . قَالَ مَالِكٌ : لَا بَأْسَ بِأَنْ تَفْتَدِيَ الْمَرْأَةُ مِنْ زَوْجِهَا بِأَكْثَرَ مِمَّا أَعْطَاهَا *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1382,
+      "grade": null
+    },
+    {
+      "hadith_id": 9083,
+      "book_id": 19,
+      "narrator_id": [
+        7863
+      ],
+      "english_translation": "Narrated Yahya from Malik, from Nafi': That Rubayyi' bint Mu'awwidh ibn Afra came to him and her husband, and she was seeking to annul the marriage with him. So he forbade her from going to the mosque. She said: She went to the Messenger of Allah ﷺ and mentioned that to him, and he commanded her to observe the waiting period of one menstrual period, then to separate.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rubayyi' bint Mu'awwidh",
+              "full_name": "Rubayyi' bint Mu'awwidh ibn Afra al-Ansariyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "جَاءَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Nafi' did not witness the incident with the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Rubayyi' bint Mu'awwidh -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal from Nafi' - he did not directly receive this from Rubayyi'",
+          "impact": "Nafi' (third generation) reporting from a Companion about an incident with the Prophet ﷺ without mentioning intermediary. This is a mursal hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Rubayyi' bint Mu'awwidh seeking to annul marriage",
+        "Prophet ﷺ commanding waiting period of one menstruation",
+        "Husband forbidding wife from going to mosque"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ نَافِعٍ ، أَنَّ رُبَيِّعَ بِنْتَ مُعَوَّذِ بْنِ عَفْرَاءَ جَاءَتْ هِيَ وَعَمُّهَا إِلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ، فَأَخْبَرَتْهُ أَنَّهَا اخْتَلَعَتْ مِنْ زَوْجِهَا فِي زَمَانِ عُثْمَانَ بْنِ عَفَّانَ ، فَبَلَغَ ذَلِكَ عُثْمَانَ بْنَ عَفَّانَ ، فَلَمْ يُنْكِرْهُ ، وَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ : \" عِدَّتُهَا عِدَّةُ الْمُطَلَّقَةِ \" *  1166",
+      "collection": "Muwatta Malik",
+      "reference_number": 1383,
+      "grade": null
+    },
+    {
+      "hadith_id": 9084,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Narrated that it reached Malik that Sa'id ibn al-Musayyib, and Sulayman ibn Yasar, and Ibn Shihab said about the divorced woman through khul': 'Her waiting period is one menstrual period.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya (implied)",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balaghat form indicates unclear chain"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thabt Hujjah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain using 'balaghahu' (بَلَغَهُ)",
+            "Statements of Tabi'un, not from Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [Missing narrator(s)] -> Sa'id ibn al-Musayyib, Sulayman ibn Yasar, Ibn Shihab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain using 'balaghahu' (بَلَغَهُ)",
+          "impact": "Clear disconnection. Missing narrator(s) between Malik and the three scholars"
+        },
+        {
+          "issue": "Maqtu' - statements of Tabi'un scholars",
+          "impact": "These are legal opinions of three major Tabi'un scholars, not prophetic hadiths"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Waiting period for woman divorced through khul'",
+        "Legal opinions of major Tabi'un scholars"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِكٍ ، أَنَّهُ بَلَغَهُ ، أَنَّ سَعِيدَ بْنَ الْمُسَيَّبِ ، وَسُلَيْمَانَ بْنَ يَسَارٍ ، وَابْنَ شِهَابٍ ، كَانُوا يَقُولُونَ : \" عِدَّةُ الْمُخْتَلِعَةِ مِثْلُ عِدَّةِ الْمُطَلَّقَةِ ثَلَاثَةُ قُرُوءٍ \" . قَالَ مَالِكٌ فِي الْمُفْتَدِيَةِ : إِنَّهَا لَا تَرْجِعُ إِلَى زَوْجِهَا إِلَّا بِنِكَاحٍ جَدِيدٍ ، فَإِنْ هُوَ نَكَحَهَا ، فَفَارَقَهَا قَبْلَ أَنْ يَمَسَّهَا ، لَمْ يَكُنْ لَهُ عَلَيْهَا عِدَّةٌ مِنَ الطَّلَاقِ الْآخَرِ ، وَتَبْنِي عَلَى عِدَّتِهَا الْأُولَى . قَالَ مَالِكٌ : وَهَذَا أَحْسَنُ مَا سَمِعْتُ فِي ذَلِكَ . قَالَ مَالِكٌ : إِذَا افْتَدَتِ الْمَرْأَةُ مِنْ زَوْجِهَا بِشَيْءٍ ، عَلَى أَنْ يُطَلِّقَهَا ، فَطَلَّقَهَا طَلَاقًا مُتَتَابِعًا نَسَقًا ، فَذَلِكَ ثَابِتٌ عَلَيْهِ ، فَإِنْ كَانَ بَيْنَ ذَلِكَ صُمَاتٌ ، فَمَا أَتْبَعَهُ بَعْدَ الصُّمَاتِ ، فَلَيْسَ بِشَيْءٍ * NE295",
+      "collection": "Muwatta Malik",
+      "reference_number": 1384,
+      "grade": null
+    },
+    {
+      "hadith_id": 9086,
+      "book_id": 19,
+      "narrator_id": [
+        7272,
+        3672
+      ],
+      "english_translation": "Narrated Yahya from Malik, from Ibn Shihab: That Sahl ibn Sa'd al-Sa'idi informed him that there was the incident of li'an (mutual cursing), and that the Sunnah of li'an was established. He said: I was present with the people at that time with the Messenger of Allah ﷺ when they performed li'an. When they finished, the man said: 'I have lied about her, O Messenger of Allah, if I keep her.' So he divorced her three times before the Messenger of Allah ﷺ commanded him. He said: Ibn Shihab said: Then that became the Sunnah for those who perform li'an.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "Known for tadlis (category 3), but generally considered extremely reliable"
+              ]
+            },
+            {
+              "name": "Sahl ibn Sa'd al-Sa'idi",
+              "full_name": "Sahl ibn Sa'd ibn Malik al-Khazraji al-Ansari al-Sa'idi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَخْبَرَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of 'an (عَنْ) by Malik",
+            "Al-Zuhri using 'anna (أَنَّ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Sahl ibn Sa'd al-Sa'idi -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri using 'anna (أَنَّ) - he is classified as mudallis (category 3)",
+          "impact": "Al-Zuhri is known for tadlis, but he is generally considered extremely reliable by the majority of scholars. The use of 'anna followed by 'akhbarahu strengthens the connection"
+        },
+        {
+          "issue": "Malik using 'an (عَنْ)",
+          "impact": "Minor concern given Malik's overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of li'an in presence of Prophet ﷺ",
+        "Man divorcing wife after li'an",
+        "Establishment of li'an as Sunnah",
+        "Man admitting to lying after li'an"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنِ ابْنِ شِهَابٍ ، أَنَّ سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ أَخْبَرَهُ ، أَنَّ عُوَيْمِرًا الْعَجْلَانِيَّ جَاءَ إِلَى عَاصِمِ بْنِ عَدِيٍّ الْأَنْصَارِيِّ ، فَقَالَ لَهُ : يَا عَاصِمُ ، أَرَأَيْتَ رَجُلًا وَجَدَ مَعَ امْرَأَتِهِ رَجُلًا ، أَيَقْتُلُهُ فَتَقْتُلُونَهُ ، أَمْ كَيْفَ يَفْعَلُ ؟ سَلْ لِي يَا عَاصِمُ عَنْ ذَلِكَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَسَأَلَ عَاصِمٌ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ ، فَكَرِهَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَسَائِلَ ، وَعَابَهَا حَتَّى كَبُرَ عَلَى عَاصِمٍ مَا سَمِعَ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَلَمَّا رَجَعَ عَاصِمٌ إِلَى أَهْلِهِ ، جَاءَهُ عُوَيْمِرٌ ، فَقَالَ : يَا عَاصِمُ ، مَاذَا قَالَ لَكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ؟ فَقَالَ عَاصِمٌ ، لِعُوَيْمِرٍ : لَمْ تَأْتِنِي بِخَيْرٍ ، قَدْ كَرِهَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَسْأَلَةَ الَّتِي سَأَلْتُهُ عَنْهَا ، فَقَالَ عُوَيْمِرٌ : وَاللَّهِ لَا أَنْتَهِي حَتَّى أَسْأَلَهُ عَنْهَا ، فَقَامَ عُوَيْمِرٌ ، حَتَّى أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَطَ النَّاسِ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، أَرَأَيْتَ رَجُلًا وَجَدَ مَعَ امْرَأَتِهِ رَجُلًا ، أَيَقْتُلُهُ فَتَقْتُلُونَهُ ، أَمْ كَيْفَ يَفْعَلُ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" قَدْ أُنْزِلَ فِيكَ وَفِي صَاحِبَتِكَ ، فَاذْهَبْ فَأْتِ بِهَا \" ، قَالَ سَهْلٌ : فَتَلَاعَنَا وَأَنَا مَعَ النَّاسِ عِنْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَلَمَّا فَرَغَا مِنْ تَلَاعُنِهِمَا ، قَالَ عُوَيْمِرٌ : كَذَبْتُ عَلَيْهَا يَا رَسُولَ اللَّهِ ، إِنْ أَمْسَكْتُهَا فَطَلَّقَهَا ثَلَاثًا قَبْلَ أَنْ يَأْمُرَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ . قَالَ مَالِكٌ : قَالَ ابْنُ شِهَابٍ : فَكَانَتْ تِلْكَ بَعْدُ سُنَّةَ الْمُتَلَاعِنَيْنِ *  1168",
+      "collection": "Muwatta Malik",
+      "reference_number": 1385,
+      "grade": null
+    },
+    {
+      "hadith_id": 9087,
+      "book_id": 19,
+      "narrator_id": [
+        7863,
+        4967
+      ],
+      "english_translation": "Narrated from Malik, from Nafi', from Abd Allah ibn Umar: That a man performed li'an with his wife in the time of the Messenger of Allah ﷺ and denied her child. So the Messenger of Allah ﷺ separated them and attached the child to the woman.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya (implied)",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd Allah ibn Umar",
+              "full_name": "Abd Allah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'an (عَنْ)",
+            "Use of 'anna (أَنَّ) by Ibn Umar"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abd Allah ibn Umar -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) by Malik and Nafi'",
+          "impact": "Though 'an is used multiple times, the chain consists of highly reliable narrators (Malik, Nafi', Ibn Umar). The golden chain of Malik -> Nafi' -> Ibn Umar is considered one of the strongest chains"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of li'an during Prophet's ﷺ time",
+        "Man denying paternity through li'an",
+        "Prophet ﷺ separating couple after li'an",
+        "Child attributed to mother after li'an"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ : \" أَنَّ رَجُلًا لَاعَنَ امْرَأَتَهُ فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَانْتَفَلَ مِنْ وَلَدِهَا ، فَفَرَّقَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَهُمَا ، وَأَلْحَقَ الْوَلَدَ بِالْمَرْأَةِ \" . قَالَ مَالِكٌ : قَالَ اللَّهُ تَبَارَكَ وَتَعَالَى : وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ وَلَمْ يَكُنْ لَهُمْ شُهَدَاءُ إِلا أَنْفُسُهُمْ فَشَهَادَةُ أَحَدِهِمْ أَرْبَعُ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الصَّادِقِينَ { 6 } وَالْخَامِسَةُ أَنَّ لَعْنَةَ اللَّهِ عَلَيْهِ إِنْ كَانَ مِنَ الْكَاذِبِينَ { 7 } وَيَدْرَأُ عَنْهَا الْعَذَابَ أَنْ تَشْهَدَ أَرْبَعَ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الْكَاذِبِينَ { 8 } وَالْخَامِسَةَ أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِنْ كَانَ مِنَ الصَّادِقِينَ سورة النور آية 6-9 . قَالَ مَالِكٌ : السُّنَّةُ عِنْدَنَا أَنَّ الْمُتَلَاعِنَيْنِ لَا يَتَنَاكَحَانِ أَبَدًا ، وَإِنْ أَكْذَبَ نَفْسَهُ جُلِدَ الْحَدَّ ، وَأُلْحِقَ بِهِ الْوَلَدُ وَلَمْ تَرْجِعْ إِلَيْهِ أَبَدًا ، وَعَلَى هَذَا السُّنَّةُ عِنْدَنَا الَّتِي لَا شَكَّ فِيهَا ، وَلَا اخْتِلَافَ . قَالَ مَالِكٌ : وَإِذَا فَارَقَ الرَّجُلُ امْرَأَتَهُ فِرَاقًا بَاتًّا لَيْسَ لَهُ عَلَيْهَا فِيهِ رَجْعَةٌ ، ثُمَّ أَنْكَرَ حَمْلَهَا ، لَاعَنَهَا إِذَا كَانَتْ حَامِلًا ، وَكَانَ حَمْلُهَا يُشْبِهُ أَنْ يَكُونَ مِنْهُ إِذَا ادَّعَتْهُ مَا لَمْ يَأْتِ دُونَ ذَلِكَ مِنَ الزَّمَانِ الَّذِي يُشَكُّ فِيهِ ، فَلَا يُعْرَفُ أَنَّهُ مِنْهُ ، قَالَ : فَهَذَا الْأَمْرُ عِنْدَنَا ، وَالَّذِي سَمِعْتُ مِنْ أَهْلِ الْعِلْمِ . قَالَ مَالِكٌ : وَإِذَا قَذَفَ الرَّجُلُ امْرَأَتَهُ بَعْدَ أَنْ يُطَلِّقَهَا ثَلَاثًا ، وَهِيَ حَامِلٌ ، يُقِرُّ بِحَمْلِهَا ، ثُمَّ يَزْعُمُ أَنَّهُ رَآهَا تَزْنِي قَبْلَ أَنْ يُفَارِقَهَا ، جُلِدَ الْحَدَّ وَلَمْ يُلَاعِنْهَا ، وَإِنْ أَنْكَرَ حَمْلَهَا بَعْدَ أَنْ يُطَلِّقَهَا ثَلَاثًا لَاعَنَهَا . قَالَ : وَهَذَا الَّذِي سَمِعْتُ . قَالَ مَالِكٌ : وَالْعَبْدُ بِمَنْزِلَةِ الْحُرِّ فِي قَذْفِهِ وَلِعَانِهِ ، يَجْرِي مَجْرَى الْحُرِّ فِي مُلَاعَنَتِهِ ، غَيْرَ أَنَّهُ لَيْسَ عَلَى مَنْ قَذَفَ مَمْلُوكَةً حَدٌّ . قَالَ مَالِكٌ : وَالْأَمَةُ الْمُسْلِمَةُ وَالْحُرَّةُ النَّصْرَانِيَّةُ وَالْيَهُودِيَّةُ تُلَاعِنُ الْحُرَّ الْمُسْلِمَ إِذَا تَزَوَّجَ إِحْدَاهُنَّ ، فَأَصَابَهَا ، وَذَلِكَ أَنَّ اللَّهَ تَبَارَكَ وَتَعَالَى يَقُولُ فِي كِتَابِهِ : وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ سورة النور آية 6 ، فَهُنَّ مِنَ الْأَزْوَاجِ ، وَعَلَى هَذَا الْأَمْرُ عِنْدَنَا . قَالَ مَالِكٌ : وَالْعَبْدُ إِذَا تَزَوَّجَ الْمَرْأَةَ الْحُرَّةَ الْمُسْلِمَةَ ، أَوِ الْأَمَةَ الْمُسْلِمَةَ ، أَوِ الْحُرَّةَ النَّصْرَانِيَّةَ أَوِ الْيَهُودِيَّةَ ، لَاعَنَهَا . قَالَ مَالِكٌ فِي الرَّجُلِ يُلَاعِنُ امْرَأَتَهُ ، فَيَنْزِعُ وَيُكَذِّبُ نَفْسَهُ بَعْدَ يَمِينٍ أَوْ يَمِينَيْنِ ، مَا لَمْ يَلْتَعِنْ فِي الْخَامِسَةِ : إِنَّهُ إِذَا نَزَعَ قَبْلَ أَنْ يَلْتَعِنَ ، جُلِدَ الْحَدَّ ، وَلَمْ يُفَرَّقْ بَيْنَهُمَا . قَالَ مَالِكٌ فِي الرَّجُلِ يُطَلِّقُ امْرَأَتَهُ ، فَإِذَا مَضَتِ الثَّلَاثَةُ الْأَشْهُرِ ، قَالَتِ الْمَرْأَةُ : أَنَا حَامِلٌ ، قَالَ : إِنْ أَنْكَرَ زَوْجُهَا حَمْلَهَا ، لَاعَنَهَا . قَالَ مَالِكٌ فِي الْأَمَةِ الْمَمْلُوكَةِ يُلَاعِنُهَا زَوْجُهَا ثُمَّ يَشْتَرِيهَا : إِنَّهُ لَا يَطَؤُهَا ، وَإِنْ مَلَكَهَا ، وَذَلِكَ أَنَّ السُّنَّةَ مَضَتْ أَنَّ الْمُتَلَاعِنَيْنِ لَا يَتَرَاجَعَانِ أَبَدًا . قَالَ مَالِكٌ : إِذَا لَاعَنَ الرَّجُلُ امْرَأَتَهُ قَبْلَ أَنْ يَدْخُلَ بِهَا ، فَلَيْسَ لَهَا إِلَّا نِصْفُ الصَّدَاقِ * 0E296",
+      "collection": "Muwatta Malik",
+      "reference_number": 1386,
+      "grade": null
+    },
+    {
+      "hadith_id": 9089,
+      "book_id": 19,
+      "narrator_id": [],
+      "english_translation": "Narrated Yahya from Malik that it reached him: That Urwah ibn al-Zubayr used to say about the child of li'an: 'He inherits from his mother, and she inherits from him according to what Allah has obligated for them in the Book.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi or similar narrator from Malik",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "Balaghat form indicates unclear chain"
+              ]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thabt Hujjah",
+              "generation": "Second Generation",
+              "transmissionTerm": "كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain using 'balaghahu' (بَلَغَهُ)",
+            "Statement of Tabi'i, not from Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [Missing narrator(s)] -> Urwah ibn al-Zubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain using 'balaghahu' (بَلَغَهُ)",
+          "impact": "Clear disconnection. Missing narrator(s) between Malik and Urwah ibn al-Zubayr"
+        },
+        {
+          "issue": "Maqtu' - statement of Tabi'i",
+          "impact": "This is a legal opinion of Urwah ibn al-Zubayr, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Inheritance rights of li'an child",
+        "Mother-child inheritance after li'an",
+        "Legal opinion of Urwah ibn al-Zubayr"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِكٍ ، أَنَّهُ بَلَغَهُ ، أَنَّ عُرْوَةَ بْنَ الزُّبَيْرِ ، كَانَ يَقُولُ فِي وَلَدِ الْمُلَاعَنَةِ ، وَوَلَدِ الزِّنَا : \" إِنَّهُ إِذَا مَاتَ وَرِثَتْهُ أُمُّهُ حَقَّهَا فِي كِتَابِ اللَّهِ تَعَالَى ، وَإِخْوَتُهُ لِأُمِّهِ حُقُوقَهُمْ ، وَيَرِثُ الْبَقِيَّةَ مَوَالِي أُمِّهِ إِنْ كَانَتْ مَوْلَاةً ، وَإِنْ كَانَتْ عَرَبِيَّةً وَرِثَتْ حَقَّهَا ، وَوَرِثَ إِخْوَتُهُ لِأُمِّهِ حُقُوقَهُمْ ، وَكَانَ مَا بَقِيَ لِلْمُسْلِمِينَ . قَالَ مَالِكٌ : وَبَلَغَنِي عَنْ سُلَيْمَانَ بْنِ يَسَارٍ مِثْلُ ذَلِكَ ، وَعَلَى ذَلِكَ أَدْرَكْتُ أَهْلَ الْعِلْمِ بِبَلَدِنَا *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1387,
+      "grade": null
+    }
+  ]
+}

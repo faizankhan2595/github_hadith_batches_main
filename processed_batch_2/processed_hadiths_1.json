@@ -1,0 +1,792 @@
+{
+  "batch_number": 2,
+  "file_number": 1,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9001,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by Zayd ibn Thabit: He used to say regarding a man who divorces a slave woman three times, then purchases her: 'She is not lawful for him until she marries a husband other than him.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Abu Abd al-Rahman",
+              "full_name": "Abdullah ibn Habib al-Sulami",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Thabit",
+              "full_name": "Zayd ibn Thabit ibn al-Dahhak al-Najjari al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Use of عَنْ (an) by Ibn Shihab al-Zuhri who is classified as a mudallis, though he is generally reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Abu Abd al-Rahman al-Sulami -> Zayd ibn Thabit"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ (an) - indirect transmission term. Al-Zuhri is classified as a mudallis by some scholars (category 3 in Ibn Hajar's classification)",
+          "impact": "Al-Zuhri is widely considered extremely reliable despite his occasional tadlis, so this does not significantly affect the grade. However, it is noted for thoroughness."
+        },
+        {
+          "issue": "Multiple instances of عَنْ (an) in the chain rather than explicit transmission terms",
+          "impact": "While all narrators are reliable, the use of indirect transmission terms throughout reduces the chain strength slightly from Perfect to Acceptable."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Divorce of slave women",
+        "Marriage after triple divorce",
+        "Legal opinion of Zayd ibn Thabit on remarriage conditions"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 أَبِي عَبْدِ الرَّحْمَنِ L4002 /26 ، /27 عَنْ /93 زَيْدِ بْنِ ثَابِتٍ L3131 /93 ، أَنَّهُ كَانَ يَقُولُ فِي الرَّجُلِ يُطَلِّقُ الْأَمَةَ ثَلَاثًا ، ثُمَّ يَشْتَرِيهَا : /20 \" إِنَّهَا لَا تَحِلُّ لَهُ حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1297
+    },
+    {
+      "hadith_id": 9002,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik narrated that it reached him that Sa'id ibn al-Musayyib and Sulayman ibn Yasar were asked about a man who married his slave to his slave-girl, then the slave divorced her with a final divorce, then his master gifted her to him - does she become lawful for him by right of possession? They said: 'She is not lawful for him until she marries a husband other than him.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain - uses بَلَغَهُ (balagahu - it reached him) indicating missing links between Malik and the two scholars mentioned"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> [Disconnected] -> Sa'id ibn al-Musayyib and Sulayman ibn Yasar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/disconnected chain - Malik uses أَنَّهُ بَلَغَهُ (annahu balagahu) meaning 'it reached him'",
+          "impact": "This indicates a clear disconnection in the chain. The intermediary narrators between Malik and the two scholars are not mentioned, making this a mursal or munqati' narration. This significantly weakens the chain."
+        },
+        {
+          "issue": "The statement is attributed to Sa'id ibn al-Musayyib and Sulayman ibn Yasar (both tabi'in), not traced to the Prophet ﷺ or a companion",
+          "impact": "This is a legal opinion (fatwa) of tabi'in scholars, not a hadith from the Prophet ﷺ. Combined with the disconnection, this affects authenticity."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Divorce of slave women by slave husbands",
+        "Marriage after divorce between slaves",
+        "Legal opinion on remarriage conditions",
+        "Ownership and marriage rights of slaves"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /26 سَعِيدَ بْنَ الْمُسَيَّبِ /26 ، /26 وَسُلَيْمَانَ بْنَ يَسَارٍ /26 ، سُئِلَا عَنْ رَجُلٍ زَوَّجَ عَبْدًا لَهُ جَارِيَةً ، فَطَلَّقَهَا الْعَبْدُ الْبَتَّةَ ، ثُمَّ وَهَبَهَا سَيِّدُهَا لَهُ ، هَلْ تَحِلُّ لَهُ بِمِلْكِ الْيَمِينِ ؟ فَقَالَا : /20 \" لَا تَحِلُّ لَهُ حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1298
+    },
+    {
+      "hadith_id": 9003,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik narrated that he asked Ibn Shihab about a man who had a slave woman under his marriage, then he purchased her while he had divorced her once. He (Ibn Shihab) said: 'She becomes lawful for him by right of possession as long as he has not finalized her divorce. But if he finalized her divorce, she does not become lawful for him by right of possession until she marries a husband other than him.' Malik said regarding a man who marries a slave woman and she bears him a child, then he purchases her: She does not become an umm walad (mother of his child) by that child she bore from him while she belonged to someone else, until she bears from him while she is in his ownership after he purchases her. Malik said: If he purchases her while she is pregnant by him, then she gives birth while with him, she becomes his umm walad by that pregnancy, in what we see, and Allah knows best.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَأَلَ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": [
+            "This is a question-answer format where Malik directly questioned Ibn Shihab, which is a reliable form of transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> (asked) Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a legal opinion (fatwa) of Ibn Shihab al-Zuhri in response to Malik's question, not a hadith traced to the Prophet ﷺ",
+          "impact": "While the chain to al-Zuhri is sound, this is juristic reasoning (ijtihad) rather than a narration from the Prophet ﷺ. The additional statements from Malik are his own legal opinions."
+        },
+        {
+          "issue": "The transmission uses أَنَّهُ سَأَلَ (he asked), which indicates direct questioning",
+          "impact": "This is actually a strong form of transmission showing direct interaction between Malik and al-Zuhri."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Purchase of divorced slave wife",
+        "Marriage and ownership rights regarding slave women",
+        "Umm walad status conditions",
+        "Legal opinion on divorce and remarriage of slaves",
+        "Pregnancy and ownership rights"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، /27 أَنَّهُ سَأَلَ /26 ابْنَ شِهَابٍ L7272 /26 عَنْ رَجُلٍ كَانَتْ تَحْتَهُ أَمَةٌ مَمْلُوكَةٌ ، فَاشْتَرَاهَا ، وَقَدْ كَانَ طَلَّقَهَا وَاحِدَةً ، فَقَالَ : /20 \" تَحِلُّ لَهُ بِمِلْكِ يَمِينِهِ مَا لَمْ يَبُتَّ طَلَاقَهَا ، فَإِنْ بَتَّ طَلَاقَهَا فَلَا تَحِلُّ لَهُ بِمِلْكِ يَمِينِهِ ، حَتَّى تَنْكِحَ زَوْجًا غَيْرَهُ \" /27 . قَالَ /12 مَالِكٌ /12 فِي الرَّجُلِ يَنْكِحُ الْأَمَةَ ، فَتَلِدُ مِنْهُ ثُمَّ يَبْتَاعُهَا : /10 إِنَّهَا لَا تَكُونُ أُمَّ وَلَدٍ لَهُ بِذَلِكَ الْوَلَدِ الَّذِي وَلَدَتْ مِنْهُ وَهِيَ لِغَيْرِهِ ، حَتَّى تَلِدَ مِنْهُ ، وَهِيَ فِي مِلْكِهِ بَعْدَ ابْتِيَاعِهِ إِيَّاهَا /10 . قَالَ /12 مَالِكٌ /12 : /10 وَإِنِ اشْتَرَاهَا وَهِيَ حَامِلٌ مِنْهُ ، ثُمَّ وَضَعَتْ عِنْدَهُ ، كَانَتْ أُمَّ وَلَدِهِ بِذَلِكَ الْحَمْلِ ، فِيمَا نُرَى وَاللَّهُ أَعْلَمُ /10",
+      "collection": "Muwatta Malik",
+      "reference_number": 1299
+    },
+    {
+      "hadith_id": 9005,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated that Umar ibn al-Khattab was asked about a woman and her daughter from those owned by right of possession - can one of them be approached after the other? Umar said: 'I do not like to have intimate relations with both of them,' and he forbade that.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Ubaydullah ibn Abdullah ibn Utbah ibn Mas'ud",
+              "full_name": "Ubaydullah ibn Abdullah ibn Utbah ibn Mas'ud al-Hudhali",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father",
+              "full_name": "Abdullah ibn Utbah ibn Mas'ud al-Hudhali",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of عَنْ (an) including by Ibn Shihab al-Zuhri who is classified as a mudallis",
+            "Use of أَنَّ (anna) when reporting from Umar, which is an indirect form"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Ubaydullah ibn Abdullah ibn Utbah ibn Mas'ud -> Abdullah ibn Utbah -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ (an) - indirect transmission term. Al-Zuhri is classified as a mudallis by some scholars",
+          "impact": "Al-Zuhri is widely considered extremely reliable despite his occasional tadlis, so this does not significantly affect the grade."
+        },
+        {
+          "issue": "Multiple instances of عَنْ (an) throughout the chain",
+          "impact": "While all narrators are reliable, the consistent use of indirect transmission terms slightly reduces certainty compared to explicit terms like سَمِعْتُ or حَدَّثَنَا."
+        },
+        {
+          "issue": "Use of أَنَّ (anna) when reporting from Umar",
+          "impact": "This is a common indirect form that may indicate the narrator did not directly hear from Umar but received the report through intermediaries."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Intimate relations with mother and daughter from slave women",
+        "Legal opinion of Umar ibn al-Khattab on family relations with slaves",
+        "Prohibition expressed by Umar regarding combining relations with related slave women"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ L5409 /26 ، عَنْ /26 أَبِيهِ L4938 /26 ، /27 أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، سُئِلَ عَنِ الْمَرْأَةِ وَابْنَتِهَا مِنْ مِلْكِ الْيَمِينِ ، تُوطَأُ إِحْدَاهُمَا بَعْدَ الْأُخْرَى ؟ فَقَالَ /93 عُمَرُ L5913 /93 : /20 \" مَا أُحِبُّ أَنْ أُخْبَرَهُمَا جَمِيعًا \" ، وَنَهَى عَنْ ذَلِكَ /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1301
+    },
+    {
+      "hadith_id": 9006,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik narrated from Ibn Shihab, from Qabisah ibn Dhu'ayb: That a man asked Uthman ibn Affan about two sisters from those owned by right of possession - can they be combined? Uthman said: 'One verse made them lawful and one verse made them unlawful. As for me, I do not like to do that.' He said: Then he left from his presence and met a man from among the Companions of the Messenger of Allah ﷺ, and asked him about that. He said: 'If I had any authority in the matter, then found anyone who did that, I would make him an exemplary punishment.' Ibn Shihab said: I think it was Ali ibn Abi Talib. And it was narrated to me from Malik that it reached him from al-Zubayr ibn al-Awwam something similar to that. Malik said regarding the slave woman who is with a man and he has relations with her, then he wants to have relations with her sister: She is not lawful for him until he makes unlawful to himself the private part of her sister, by marriage, or manumission, or kitabah (contract for freedom), or something similar to that - he marries her to his slave or to other than his slave.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Qabisah ibn Dhu'ayb",
+              "full_name": "Qabisah ibn Dhu'ayb ibn Halhal al-Khuza'i",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Uthman ibn Affan",
+              "full_name": "Uthman ibn Affan ibn Abi al-As ibn Umayyah al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of عَنْ (an) including by Ibn Shihab al-Zuhri who is classified as a mudallis",
+            "Use of أَنَّ (anna) when reporting the incident"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Zubayr ibn al-Awwam",
+              "full_name": "al-Zubayr ibn al-Awwam ibn Khuwaylid al-Asadi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain - uses بَلَغَهُ (balagahu - it reached him) indicating missing links between Malik and al-Zubayr"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Qabisah ibn Dhu'ayb -> Uthman ibn Affan",
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> [Disconnected] -> al-Zubayr ibn al-Awwam"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ (an) - indirect transmission term. Al-Zuhri is classified as a mudallis by some scholars",
+          "impact": "Al-Zuhri is widely considered extremely reliable despite his occasional tadlis, so this does not significantly affect the grade of the first chain."
+        },
+        {
+          "issue": "The second chain about al-Zubayr uses بَلَغَهُ (balagahu) indicating disconnection",
+          "impact": "This second supporting chain is mursal/disconnected, which weakens its value as corroboration."
+        },
+        {
+          "issue": "The report mentions Ali ibn Abi Talib by Ibn Shihab's speculation (أُرَاهُ - I think it was)",
+          "impact": "The identification of the unnamed companion as Ali is uncertain, based on al-Zuhri's opinion rather than definitive knowledge."
+        },
+        {
+          "issue": "Multiple instances of عَنْ (an) in the first chain",
+          "impact": "While all narrators are reliable, the use of indirect transmission terms reduces the strength slightly."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Combining two sisters as slave women",
+        "Legal opinion of Uthman ibn Affan on relations with sister slaves",
+        "Stance of Ali ibn Abi Talib on relations with related slave women",
+        "Opinion of al-Zubayr ibn al-Awwam on this matter",
+        "Conditions for making a slave woman unlawful before approaching her sister"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 قَبِيصَةَ بْنِ ذُؤَيْبٍ L6453 /26 : /27 أَنَّ رَجُلًا سَأَلَ عُثْمَانَ بْنَ عَفَّانَ عَنِ الْأُخْتَيْنِ مِنْ مِلْكِ الْيَمِينِ ، هَلْ يُجْمَعُ بَيْنَهُمَا ؟ فَقَالَ /93 عُثْمَانُ L5543 /93 : /20 \" أَحَلَّتْهُمَا آيَةٌ ، وَحَرَّمَتْهُمَا آيَةٌ ، فَأَمَّا أَنَا فَلَا أُحِبُّ أَنْ أَصْنَعَ ذَلِكَ \" ، قَالَ : فَخَرَجَ مِنْ عِنْدِهِ ، فَلَقِيَ رَجُلًا مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَسَأَلَهُ عَنْ ذَلِكَ ، فَقَالَ : \" لَوْ كَانَ لِي مِنَ الْأَمْرِ شَيْءٌ ، ثُمَّ وَجَدْتُ أَحَدًا فَعَلَ ذَلِكَ ، لَجَعَلْتُهُ نَكَالًا \" /27 . قَالَ ابْنُ شِهَابٍ : أُرَاهُ /93 عَلِيَّ بْنَ أَبِي طَالِبٍ L5722 /93 . وَحَدَّثَنِي ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ ، عَنِ /26 الزُّبَيْرِ بْنِ الْعَوَّامِ L1427 /26 ، مِثْلُ ذَلِكَ . قَالَ /12 مَالِكٌ /12 فِي الْأَمَةِ تَكُونُ عِنْدَ الرَّجُلِ فَيُصِيبُهَا ، ثُمَّ يُرِيدُ أَنْ يُصِيبَ أُخْتَهَا : /10 إِنَّهَا لَا تَحِلُّ لَهُ حَتَّى يُحَرِّمَ عَلَيْهِ فَرْجَ أُخْتِهَا ، بِنِكَاحٍ ، أَوْ عِتَاقَةٍ ، أَوْ كِتَابَةٍ ، أَوْ مَا أَشْبَهَ ذَلِكَ ، يُزَوِّجُهَا عَبْدَهُ أَوْ غَيْرَ عَبْدِهِ /10",
+      "collection": "Muwatta Malik",
+      "reference_number": 1302
+    },
+    {
+      "hadith_id": 9008,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik narrated that it reached him: That Umar ibn al-Khattab gifted his son a slave-girl, and said: 'Do not touch her, for I have uncovered her (seen her in a state that suggests intimacy).'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnected chain - uses بَلَغَهُ (balagahu - it reached him) indicating missing links between Malik and Umar"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> [Disconnected] -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal/disconnected chain - Malik uses أَنَّهُ بَلَغَهُ (annahu balagahu) meaning 'it reached him'",
+          "impact": "This indicates a clear disconnection in the chain. The intermediary narrators between Malik and Umar are not mentioned, making this a mursal narration. There is a significant time gap between Malik (d. 179 AH) and Umar (d. 23 AH), over 150 years, making direct transmission impossible."
+        },
+        {
+          "issue": "No chain of narrators is provided between Malik and the companion Umar",
+          "impact": "Without knowing the intermediary narrators, we cannot assess their reliability. This significantly weakens the chain."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Father's prohibition to son regarding slave woman",
+        "Legal opinion of Umar on gifting slaves with prior intimacy",
+        "Ethics regarding slave women previously owned by father"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ : /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ /93 وَهَبَ لِابْنِهِ جَارِيَةً ، فَقَالَ : /20 \" لَا تَمَسَّهَا ، فَإِنِّي قَدْ كَشَفْتُهَا \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1304
+    },
+    {
+      "hadith_id": 9009,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik narrated from Abd al-Rahman ibn al-Mujabbar that he said: Salim ibn Abdullah gifted his son a slave-girl and said: 'Do not approach her, for I desired her but did not act upon it.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Rahman ibn al-Mujabbar",
+              "full_name": "Abd al-Rahman ibn al-Mujabbar ibn Abd al-Rahman al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Salim ibn Abdullah",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of عَنْ (an) in the chain",
+            "Use of قَالَ (qala - he said) when reporting from Salim"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Abd al-Rahman ibn al-Mujabbar -> Salim ibn Abdullah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of عَنْ (an) throughout the chain, which are indirect transmission terms",
+          "impact": "While all narrators are reliable (all are Thiqah or higher), the consistent use of indirect transmission terms reduces certainty slightly compared to explicit terms."
+        },
+        {
+          "issue": "This is a statement/action of Salim ibn Abdullah (a tabi'i), not traced to the Prophet ﷺ or a companion",
+          "impact": "This is a report of the practice of a prominent tabi'i, which has evidential value but is not as strong as a companion's statement or prophetic hadith."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Father's prohibition to son regarding slave woman",
+        "Practice of Salim ibn Abdullah on gifting slaves with prior desire",
+        "Ethics regarding slave women previously owned by father",
+        "Pious caution regarding slave women"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ الرَّحْمَنِ بْنِ الْمُجَبَّرِ L4475 /94 ، أَنَّهُ قَالَ : /27 وَهَبَ /26 سَالِمُ بْنُ عَبْدِ اللَّهِ L3194 /26 لِابْنِهِ جَارِيَةً ، فَقَالَ : /20 \" لَا تَقْرَبْهَا ، فَإِنِّي قَدْ أَرَدْتُهَا فَلَمْ أَنْشَطْ إِلَيْهَا \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1305
+    },
+    {
+      "hadith_id": 9010,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik narrated from Yahya ibn Sa'id: That Abu Nahshal ibn al-Aswad said to al-Qasim ibn Muhammad: 'I saw a slave-girl of mine uncovered, and she was in the moonlight, so I sat from her the sitting of a man from his wife. She said: I am menstruating. So I stood up and did not approach her afterward. Should I gift her to my son to have relations with her?' So al-Qasim forbade him from that.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Nahshal ibn al-Aswad",
+              "full_name": "Abu Nahshal ibn al-Aswad ibn Khalf al-Asbahi",
+              "grade": "Maqbul",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Qasim ibn Muhammad",
+              "full_name": "al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of عَنْ (an) in the chain",
+            "Use of أَنَّ (anna) when reporting about Abu Nahshal"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Yahya ibn Sa'id al-Ansari -> Abu Nahshal ibn al-Aswad and al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Nahshal ibn al-Aswad is graded as Maqbul, meaning his narrations are acceptable when corroborated but not independently strong",
+          "impact": "This narrator is not among the highest ranks of reliability. While not weak, his reports require support. In this case, the report is about a question he asked al-Qasim, so the weight is on al-Qasim's response."
+        },
+        {
+          "issue": "Multiple instances of عَنْ (an) throughout the chain",
+          "impact": "Indirect transmission terms reduce certainty slightly, though the narrators are generally reliable."
+        },
+        {
+          "issue": "This is a legal opinion (fatwa) of al-Qasim ibn Muhammad (a prominent tabi'i), not traced to the Prophet ﷺ or a companion",
+          "impact": "This is juristic reasoning of a tabi'i scholar, not a prophetic hadith or companion's statement."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Abu Nahshal seeking legal opinion about gifting slave woman to his son",
+        "Father's prohibition to son regarding slave woman with prior intimacy attempt",
+        "Legal opinion of al-Qasim ibn Muhammad on this matter",
+        "Ethics regarding slave women and family relations"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ أَبَا نَهْشَلِ بْنَ الْأَسْوَدِ ، قَالَ لِلْقَاسِمِ بْنِ مُحَمَّدٍ : إِنِّي /20 رَأَيْتُ جَارِيَةً لِي مُنْكَشِفًا عَنْهَا ، وَهِيَ فِي الْقَمَرِ ، فَجَلَسْتُ مِنْهَا مَجْلِسَ الرَّجُلِ مِنَ امْرَأَتِهِ ، فَقَالَتْ : إِنِّي حَائِضٌ ، فَقُمْتُ ، فَلَمْ أَقْرَبْهَا بَعْدُ ، أَفَأَهَبُهَا لِابْنِي يَطَؤُهَا ؟ \" فَنَهَاهُ /26 الْقَاسِمُ L1598 /26 عَنْ ذَلِكَ \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1306
+    },
+    {
+      "hadith_id": 9011,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Malik narrated from Ibrahim ibn Abi Ablah, from Abd al-Malik ibn Marwan: That he gifted a slave-girl to a companion of his, then asked him about her. He said: I have thought of gifting her to my son so he can do such and such with her. Abd al-Malik said: Marwan was more pious than you - he gifted his son a slave-girl, then said: 'Do not approach her, for I have seen her leg uncovered.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibrahim ibn Abi Ablah",
+              "full_name": "Ibrahim ibn Abi Ablah Sa'd ibn Abi Umamah al-Azdi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Malik ibn Marwan",
+              "full_name": "Abd al-Malik ibn Marwan ibn al-Hakam ibn Abi al-As al-Umawi",
+              "grade": "Successor",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Marwan",
+              "full_name": "Marwan ibn al-Hakam ibn Abi al-As ibn Umayyah al-Umawi",
+              "grade": "Successor",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of عَنْ (an) in the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Ibrahim ibn Abi Ablah -> Abd al-Malik ibn Marwan -> (mentions) Marwan ibn al-Hakam"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abd al-Malik ibn Marwan and his father Marwan ibn al-Hakam were Umayyad caliphs, not primarily known as hadith narrators",
+          "impact": "While they are accepted as narrators by some scholars, their political positions and the controversies surrounding the Umayyad dynasty raise questions about their reliability as hadith transmitters. However, this is a historical report about Marwan's practice, not a hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Multiple instances of عَنْ (an) throughout the chain",
+          "impact": "Indirect transmission terms reduce certainty slightly."
+        },
+        {
+          "issue": "This is a report about the practice of Marwan ibn al-Hakam (a successor), not traced to the Prophet ﷺ or a prominent companion",
+          "impact": "This is a historical report about the pious practice of an Umayyad caliph, which has limited evidential value in Islamic law."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Practice of Marwan ibn al-Hakam regarding gifting slave women to his son",
+        "Father's prohibition to son regarding slave woman with prior observation",
+        "Ethics regarding slave women and family relations",
+        "Pious caution of early Muslims regarding slaves"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 إِبْرَاهِيمَ بْنِ أَبِي عَبْلَةَ L784 /94 ، /27 عَنْ /26 عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ L5243 /26 ، أَنَّهُ وَهَبَ لِصَاحِبٍ لَهُ جَارِيَةً ، ثُمَّ سَأَلَهُ عَنْهَا ، فَقَالَ : قَدْ هَمَمْتُ أَنْ أَهَبَهَا لِابْنِي ، فَيَفْعَلُ بِهَا كَذَا وَكَذَا ، فَقَالَ عَبْدُ الْمَلِكِ : /26 لَمَرْوَانُ L7399 /26 كَانَ أَوْرَعَ مِنْكَ ، وَهَبَ لِابْنِهِ جَارِيَةً ، ثُمَّ قَالَ : /20 \" لَا تَقْرَبْهَا ، فَإِنِّي قَدْ رَأَيْتُ سَاقَهَا مُنْكَشِفَةً \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1307
+    },
+    {
+      "hadith_id": 9015,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated from Sa'id ibn al-Musayyib that he said: 'The muhsanat (chaste/protected women) from among women are those who have husbands, and this returns to the fact that Allah has forbidden adultery.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi al-Qurashi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of عَنْ (an) including by Ibn Shihab al-Zuhri who is classified as a mudallis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya al-Laythi -> Malik ibn Anas -> Ibn Shihab al-Zuhri -> Sa'id ibn al-Musayyib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ (an) - indirect transmission term. Al-Zuhri is classified as a mudallis by some scholars",
+          "impact": "Al-Zuhri is widely considered extremely reliable despite his occasional tadlis, so this does not significantly affect the grade."
+        },
+        {
+          "issue": "Multiple instances of عَنْ (an) throughout the chain",
+          "impact": "While all narrators are highly reliable (all are Thiqah Thabt or Thiqah), the use of indirect transmission terms reduces certainty slightly."
+        },
+        {
+          "issue": "This is a statement/interpretation of Sa'id ibn al-Musayyib (a prominent tabi'i) about a Quranic term, not a hadith from the Prophet ﷺ",
+          "impact": "This is tafsir (Quranic interpretation) from a leading tabi'i scholar, not a prophetic hadith. While valuable for understanding early Islamic scholarship, it has different evidential status."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Definition of muhsanat in Quranic context",
+        "Interpretation of Sa'id ibn al-Musayyib on protected women",
+        "Explanation of Quranic terminology about marriage"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، /27 عَنْ /26 سَعِيدِ بْنِ الْمُسَيَّبِ L3299 /26 ، أَنَّهُ قَالَ : /20 \" الْمُحْصَنَاتُ مِنَ النِّسَاءِ هُنَّ أُولَاتُ الْأَزْوَاجِ ، وَيَرْجِعُ ذَلِكَ إِلَى أَنَّ اللَّهَ حَرَّمَ الزِّنَا \" /27",
+      "collection": "Muwatta Malik",
+      "reference_number": 1311
+    }
+  ]
+}
