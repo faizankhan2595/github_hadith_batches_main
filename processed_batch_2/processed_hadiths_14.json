@@ -1,0 +1,740 @@
+{
+  "batch_number": 2,
+  "file_number": 14,
+  "record_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9196,
+      "book_id": 19,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، /27 عَنِ /94 ابْنِ شِهَابٍ /94 ، أَنَّهُ كَانَ يَقُولُ : /20 \" الرَّضَاعَةُ قَلِيلُهَا وَكَثِيرُهَا تُحَرِّمُ ، وَالرَّضَاعَةُ مِنْ قِبَلِ الرِّجَالِ تُحَرِّمُ \" /27 . قَالَ /22 يَحْيَى /22 : وَسَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 الرَّضَاعَةُ قَلِيلُهَا وَكَثِيرُهَا إِذَا كَانَ فِي الْحَوْلَيْنِ تُحَرِّمُ ، فَأَمَّا مَا كَانَ بَعْدَ الْحَوْلَيْنِ ، فَإِنَّ قَلِيلَهُ وَكَثِيرَهُ لَا يُحَرِّمُ شَيْئًا ، وَإِنَّمَا هُوَ بِمَنْزِلَةِ الطَّعَامِ /10 * \r\n7E319",
+      "english_translation": "It was narrated to me: From Malik, from Ibn Shihab, that he used to say: 'Breastfeeding, little of it or much, creates prohibition (mahram relationship), and breastfeeding from the side of men (milk-fathers) creates prohibition.' Yahya said: I heard Malik saying: 'Breastfeeding, little of it or much, if it is within the two years, creates prohibition. As for what is after the two years, then its little or much does not prohibit anything, and it is merely like food.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ كَانَ يَقُولُ",
+              "reliabilityIssues": [
+                "mudallis (category 3 per Ibn Hajar classification)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Statement stops at al-Zuhri (mawquf), does not reach the Prophet ﷺ",
+            "This represents scholarly opinions, not a hadith from the Prophet"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Muhammad ibn Muslim ibn Shihab (al-Zuhri)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri classified as category 3 mudallis by Ibn Hajar, though highly reliable by consensus",
+          "impact": "While al-Zuhri is considered extremely reliable, his mudallis status should be noted. However, given his exceptional reliability, this does not significantly impact the grading"
+        },
+        {
+          "issue": "This is a mawquf narration stopping at scholars (al-Zuhri and Malik)",
+          "impact": "This represents the legal opinions of al-Zuhri and Malik, not a direct hadith from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Breastfeeding Laws and Effects",
+        "Duration of Breastfeeding Prohibition Effect",
+        "Scholarly Opinions on Breastfeeding"
+      ]
+    },
+    {
+      "hadith_id": 9198,
+      "book_id": 19,
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، أَنَّهُ سُئِلَ عَنْ رَضَاعَةِ الْكَبِيرِ ، فَقَالَ : أَخْبَرَنِي /26 عُرْوَةُ بْنُ الزُّبَيْرِ L5594 /26 ، /27 أَنَّ أَبَا حُذَيْفَةَ بْنَ عُتْبَةَ بْنِ رَبِيعَةَ ، وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَكَانَ قَدْ شَهِدَ بَدْرًا ، وَكَانَ تَبَنَّى سَالِمًا الَّذِي يُقَالُ لَهُ سَالِمٌ مَوْلَى أَبِي حُذَيْفَةَ ، كَمَا تَبَنَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ زَيْدَ بْنَ حَارِثَةَ ، وَأَنْكَحَ أَبُو حُذَيْفَةَ ، سَالِمًا ، وَهُوَ يَرَى أَنَّهُ ابْنُهُ ، أَنْكَحَهُ بِنْتَ أَخِيهِ /64 فَاطِمَةَ بِنْتَ الْوَلِيدِ بْنِ عُتْبَةَ بْنِ رَبِيعَةَ /64 ، وَهِيَ يَوْمَئِذٍ مِنَ الْمُهَاجِرَاتِ الْأُوَلِ ، وَهِيَ مِنْ أَفْضَلِ أَيَامَى قُرَيْشٍ ، فَلَمَّا أَنْزَلَ اللَّهُ تَعَالَى فِي كِتَابِهِ فِي زَيْدِ بْنِ حَارِثَةَ مَا أَنْزَلَ ، فَقَالَ : /4 ادْعُوهُمْ لآبَائِهِمْ هُوَ أَقْسَطُ عِنْدَ اللَّهِ فَإِنْ لَمْ تَعْلَمُوا آبَاءَهُمْ فَإِخْوَانُكُمْ فِي الدِّينِ وَمَوَالِيكُمْ سورة الأحزاب آية 5 /4 ، رُدَّ كُلُّ وَاحِدٍ مِنْ أُولَئِكَ إِلَى أَبِيهِ ، فَإِنْ لَمْ يُعْلَمْ أَبُوهُ ، رُدَّ إِلَى مَوْلَاهُ ، فَجَاءَتْ /64 سَهْلَةُ بِنْتُ سُهَيْلٍ /64 وَهِيَ امْرَأَةُ أَبِي حُذَيْفَةَ وَهِيَ مِنْ بَنِي عَامِرِ بْنِ لُؤَيٍّ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَتْ : يَا رَسُولَ اللَّهِ ، كُنَّا نَرَى سَالِمًا وَلَدًا ، وَكَانَ يَدْخُلُ عَلَيَّ وَأَنَا فُضُلٌ ، وَلَيْسَ لَنَا إِلَّا بَيْتٌ وَاحِدٌ ، فَمَاذَا تَرَى فِي شَأْنِهِ ؟ فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" أَرْضِعِيهِ خَمْسَ رَضَعَاتٍ ، فَيَحْرُمُ بِلَبَنِهَا \" /27 . وَكَانَتْ تَرَاهُ ابْنًا مِنَ الرَّضَاعَةِ ، فَأَخَذَتْ بِذَلِكَ عَائِشَةُ أُمُّ الْمُؤْمِنِينَ فِيمَنْ كَانَتْ تُحِبُّ أَنْ يَدْخُلَ عَلَيْهَا مِنَ الرِّجَالِ ، فَكَانَتْ تَأْمُرُ أُخْتَهَا /64 أُمَّ كُلْثُومٍ بِنْتَ أَبِي بَكْرٍ الصِّدِّيقِ /64 ، وَبَنَاتِ أَخِيهَا ، أَنْ يُرْضِعْنَ مَنْ أَحَبَّتْ أَنْ يَدْخُلَ عَلَيْهَا مِنَ الرِّجَالِ ، وَأَبَى سَائِرُ أَزْوَاجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يَدْخُلَ عَلَيْهِنَّ بِتِلْكَ الرَّضَاعَةِ أَحَدٌ مِنَ النَّاسِ ، وَقُلْنَ : لَا وَاللَّهِ ، مَا نَرَى الَّذِي أَمَرَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /64 سَهْلَةَ بِنْتَ سُهَيْلٍ /64 ، إِلَّا رُخْصَةً مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي رَضَاعَةِ سَالِمٍ وَحْدَهُ ، لَا وَاللَّهِ لَا يَدْخُلُ عَلَيْنَا بِهَذِهِ الرَّضَاعَةِ أَحَدٌ ، فَعَلَى هَذَا كَانَ أَزْوَاجُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي رَضَاعَةِ الْكَبِيرِ * \r\n$1259  1262 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Ibn Shihab, that he was asked about the breastfeeding of an adult, so he said: Urwah ibn al-Zubayr informed me that Abu Hudhayfah ibn Utbah ibn Rabi'ah - and he was from the Companions of the Messenger of Allah ﷺ, and he had witnessed Badr - had adopted Salim who is called Salim the freed slave of Abu Hudhayfah, just as the Messenger of Allah ﷺ had adopted Zayd ibn Harithah. And Abu Hudhayfah married Salim off, while he considered him his son, he married him to his brother's daughter Fatimah bint al-Walid ibn Utbah ibn Rabi'ah, and she was at that time from the first Muhajirat (female emigrants), and she was from the best of the widows of Quraysh. So when Allah the Exalted revealed in His Book regarding Zayd ibn Harithah what He revealed, and said: 'Call them by [the names of] their fathers; it is more just in the sight of Allah. But if you do not know their fathers - then they are [still] your brothers in religion and those entrusted to you' (Surah Al-Ahzab, verse 5), each one of those was returned to his father, and if his father was not known, he was returned to his master/guardian. So Sahlah bint Suhayl came - and she was the wife of Abu Hudhayfah and she was from Bani Amir ibn Lu'ayy - to the Messenger of Allah ﷺ, and she said: 'O Messenger of Allah, we used to consider Salim a son, and he would enter upon me while I was uncovered (not in hijab), and we have only one house, so what do you see regarding his matter?' So the Messenger of Allah ﷺ said to her: 'Breastfeed him five breastfeedings, and he will become prohibited (mahram) by her milk.' And she considered him a son from breastfeeding. So Aisha, the Mother of the Believers, took this position regarding those whom she loved to enter upon her from among men, and she would command her sister Umm Kulthum bint Abi Bakr al-Siddiq and the daughters of her brother to breastfeed whomever she loved to enter upon her from among men. And the rest of the wives of the Prophet ﷺ refused to let anyone enter upon them with that breastfeeding from among people, and they said: 'No, by Allah, we do not see what the Messenger of Allah ﷺ commanded Sahlah bint Suhayl except as a dispensation from the Messenger of Allah ﷺ in the breastfeeding of Salim alone. No, by Allah, no one will enter upon us with this breastfeeding.' So upon this were the wives of the Prophet ﷺ regarding the breastfeeding of an adult.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thabt Hujjah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ سُئِلَ",
+              "reliabilityIssues": [
+                "mudallis (category 3 per Ibn Hajar classification)"
+              ]
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam ibn Khuwaylid al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Urwah narrates the incident but he was not present (mursal/indirect report of the incident)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab al-Zuhri -> Urwah ibn al-Zubayr -> (Incident from time of Prophet ﷺ)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri classified as category 3 mudallis by Ibn Hajar",
+          "impact": "While al-Zuhri is considered extremely reliable by consensus, his mudallis status should be noted when indirect terms are used"
+        },
+        {
+          "issue": "Urwah reports the incident but was not present during it",
+          "impact": "This is a mursal sahabi-type report where Urwah reports an incident from before his time, though the incident is well-known and widely reported"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Salim the freed slave of Abu Hudhayfah and Adult Breastfeeding",
+        "Adoption in Early Islam Before Prohibition",
+        "Revelation Prohibiting Adoption and Requiring Attribution to Fathers",
+        "Sahlah bint Suhayl's Question to the Prophet ﷺ",
+        "Special Dispensation for Specific Case",
+        "Scholarly Disagreement Among Mothers of Believers on Adult Breastfeeding"
+      ]
+    },
+    {
+      "hadith_id": 9199,
+      "book_id": 19,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /94 ، أَنَّهُ قَالَ : جَاءَ رَجُلٌ إِلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ، وَأَنَا مَعَهُ عِنْدَ دَارِ الْقَضَاءِ ، يَسْأَلُهُ عَنْ رَضَاعَةِ الْكَبِيرِ ، فَقَالَ /93 عَبْدُ اللَّهِ بْنُ عُمَرَ L4967 /93 : /27 جَاءَ رَجُلٌ إِلَى عُمَرَ بْنِ الْخَطَّابِ ، فَقَالَ : إِنِّي كَانَتْ لِي وَلِيدَةٌ ، وَكُنْتُ أَطَؤُهَا ، فَعَمَدَتِ امْرَأَتِي إِلَيْهَا ، فَأَرْضَعَتْهَا فَدَخَلْتُ عَلَيْهَا ، فَقَالَتْ : دُونَكَ فَقَدْ وَاللَّهِ أَرْضَعْتُهَا ، فَقَالَ /93 عُمَرُ L5913 /93 : /20 \" أَوْجِعْهَا وَأْتِ جَارِيَتَكَ ، فَإِنَّمَا الرَّضَاعَةُ رَضَاعَةُ الصَّغِيرِ \" /27 * \r\n$1260  1263 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Abdullah ibn Dinar, that he said: A man came to Abdullah ibn Umar, and I was with him at the house of judgment, asking him about the breastfeeding of an adult. So Abdullah ibn Umar said: 'A man came to Umar ibn al-Khattab and said: I had a slave girl, and I used to have intercourse with her, so my wife went to her and breastfed her. Then I entered upon her (my wife), and she said: Stay away, for by Allah I have breastfed her. So Umar said: Punish her (discipline your wife) and go to your slave girl, for breastfeeding is only the breastfeeding of the infant.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Qurashi al-Umari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Statement stops at Umar (mawquf), represents his ijtihad/ruling"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abdullah ibn Dinar -> Abdullah ibn Umar (Companion) -> Umar ibn al-Khattab (Companion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at a Companion)",
+          "impact": "This represents the legal ruling and ijtihad of Umar ibn al-Khattab, not a direct hadith from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Man Whose Wife Breastfed His Slave Girl",
+        "Umar ibn al-Khattab's Ruling on Adult Breastfeeding",
+        "Breastfeeding Only Affects Infants According to Umar"
+      ]
+    },
+    {
+      "hadith_id": 9200,
+      "book_id": 19,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، أَنَّ /27 رَجُلًا سَأَلَ أَبَا مُوسَى الْأَشْعَرِيَّ ، فَقَالَ : إِنِّي مَصِصْتُ عَنِ امْرَأَتِي مِنْ ثَدْيِهَا لَبَنًا ، فَذَهَبَ فِي بَطْنِي ، فَقَالَ /93 أَبُو مُوسَى L226 /93 : /20 لَا أَرَاهَا إِلَّا قَدْ حَرُمَتْ عَلَيْكَ /27 . فَقَالَ لَهُ /93 عَبْدُ اللَّهِ بْنُ مَسْعُودٍ L5218 /93 : /27 مَا تَقُولُ فِي الَّذِي لَا أَنْبَتَ اللَّحْمَ وَلَا أَشَدَّ الْعَظْمَ ، قَالَ : فَقَالَ /93 أَبُو مُوسَى L226 /93 : لَا تَسْأَلُونِي عَنْ شَيْءٍ ، وَهَذَا الْبَحْرُ فِيكُمْ /27 * \r\n$1261  1264 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Yahya ibn Sa'id, that a man asked Abu Musa al-Ash'ari, and he said: 'I sucked milk from my wife's breast, and it went into my stomach.' So Abu Musa said: 'I do not see except that she has become prohibited to you.' So Abdullah ibn Mas'ud said to him: 'What do you say about that which did not grow flesh nor strengthen bone?' Then Abu Musa said: 'Do not ask me about anything while this ocean (Ibn Mas'ud) is among you.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Yahya ibn Sa'id narrates with 'أَنَّ' which indicates indirect transmission",
+            "The incident is reported indirectly without direct hearing"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Yahya ibn Sa'id -> (Incident between Abu Musa al-Ash'ari and Abdullah ibn Mas'ud)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Yahya ibn Sa'id narrates with 'أَنَّ' suggesting indirect transmission",
+          "impact": "This indicates potential disconnection - Yahya ibn Sa'id may not have directly heard this incident but received it indirectly"
+        },
+        {
+          "issue": "This is a mawquf narration showing disagreement between two Companions",
+          "impact": "This represents scholarly opinions and ijtihad of the Companions, not a direct hadith from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Man Who Sucked Milk from His Wife",
+        "Abu Musa al-Ash'ari's Initial Ruling",
+        "Abdullah ibn Mas'ud's Correction and Principle",
+        "Breastfeeding Must Grow Flesh and Strengthen Bone",
+        "Abu Musa's Deference to Ibn Mas'ud's Knowledge"
+      ]
+    },
+    {
+      "hadith_id": 9202,
+      "book_id": 19,
+      "arabicText": "وَحَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /94 ، عَنْ /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، عَنْ /26 عُرْوَةَ بْنِ الزُّبَيْرِ L5594 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 أُمِّ الْمُؤْمِنِينَ ، أَنَّهَا قَالَتْ : /27 كَانَ فِيمَا أَنْزَلَ اللَّهُ مِنَ الْقُرْآنِ : /20 \" عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ يُحَرِّمْنَ ، ثُمَّ نُسِخْنَ بِخَمْسٍ مَعْلُومَاتٍ يُحَرِّمْنَ ، فَتُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهِيَ مِمَّا يُقْرَأُ مِنَ الْقُرْآنِ \" /27 * \r\n$1258  1266 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Abdullah ibn Dinar, from Sulayman ibn Yasar, from Urwah ibn al-Zubayr, from Aisha, Mother of the Believers, that she said: 'It was among what Allah revealed from the Quran: Ten known breastfeedings create prohibition, then they were abrogated by five known ones that create prohibition. So the Messenger of Allah ﷺ passed away while it (the verse of five breastfeedings) was among what is recited from the Quran.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Qurashi al-Umari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam ibn Khuwaylid al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'عَنْ' throughout the chain, though all narrators are highly reliable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abdullah ibn Dinar -> Sulayman ibn Yasar -> Urwah ibn al-Zubayr -> Aisha (Mother of Believers)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission term 'عَنْ' in the chain",
+          "impact": "While all narrators are highly reliable and from the golden chain of Malik's transmission, the consistent use of 'عَنْ' should be noted"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Number of Breastfeedings That Create Prohibition",
+        "Abrogation of Ten Breastfeedings by Five",
+        "Quranic Verses and Their Abrogation",
+        "Aisha's Report on Quranic Revelation"
+      ]
+    },
+    {
+      "hadith_id": 9203,
+      "book_id": 19,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ نَوْفَلٍ L7076 /94 ، أَنَّهُ قَالَ : أَخْبَرَنِي /26 عُرْوَةُ بْنُ الزُّبَيْرِ L5594 /26 ، عَنْ /93 عَائِشَةَ L4049 /93 أُمِّ الْمُؤْمِنِينَ ، أَنَّهَا قَالَتْ : /27 /20 \" إِنَّمَا الرَّضَاعَةُ مِنَ الْمَجَاعَةِ \" /27 * \r\n$1257  1267 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Muhammad ibn Abd al-Rahman ibn Nawfal, that he said: Urwah ibn al-Zubayr informed me, from Aisha, Mother of the Believers, that she said: 'Breastfeeding (that creates prohibition) is only from hunger (i.e., during infancy when the child depends on milk for nourishment).'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Abd al-Rahman ibn Nawfal",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Nawfal al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah ibn al-Zubayr",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam ibn Khuwaylid al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Statement from Aisha without explicit attribution to the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Muhammad ibn Abd al-Rahman ibn Nawfal -> Urwah ibn al-Zubayr -> Aisha (Mother of Believers)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This may be Aisha's interpretation rather than direct hadith from the Prophet ﷺ",
+          "impact": "While Aisha is a Companion and her statement has weight, it's not explicitly attributed to the Prophet in this narration"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Conditions for Breastfeeding to Create Prohibition",
+        "Breastfeeding During Period of Dependence on Milk",
+        "Aisha's Understanding of Breastfeeding Laws"
+      ]
+    },
+    {
+      "hadith_id": 9204,
+      "book_id": 19,
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ حَزْمٍ L4632 /94 ، عَنْ /26 عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ L6058 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 زَوْجِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهَا قَالَتْ : /27 كَانَ فِيمَا أُنْزِلَ مِنَ الْقُرْآنِ : /20 \" عَشْرُ رَضَعَاتٍ مَعْلُومَاتٍ يُحَرِّمْنَ ، ثُمَّ نُسِخْنَ بِخَمْسٍ مَعْلُومَاتٍ ، فَتُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُنَّ مِمَّا يُقْرَأُ مِنَ الْقُرْآنِ \" /27 * \r\n$1258  1268 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Abdullah ibn Abi Bakr ibn Hazm, from Amrah bint Abd al-Rahman, from Aisha, wife of the Prophet ﷺ, that she said: 'It was among what was revealed from the Quran: Ten known breastfeedings create prohibition, then they were abrogated by five known ones. So the Messenger of Allah ﷺ passed away while they (the five) were among what is recited from the Quran.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amrah bint Abd al-Rahman",
+              "full_name": "Amrah bint Abd al-Rahman ibn Sa'd ibn Zurarah al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple uses of 'عَنْ' in the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abdullah ibn Abi Bakr ibn Hazm -> Amrah bint Abd al-Rahman -> Aisha (Mother of Believers)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission term 'عَنْ' in the chain",
+          "impact": "Though all narrators are reliable, the consistent use of 'عَنْ' should be noted. This is similar to hadith 9202 but through a different chain"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Number of Breastfeedings That Create Prohibition",
+        "Abrogation of Ten Breastfeedings by Five",
+        "Quranic Revelation and Abrogation",
+        "Aisha's Report on Revealed Verses"
+      ]
+    },
+    {
+      "hadith_id": 9206,
+      "book_id": 19,
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِكٍ /12 ، عَنِ /94 الثِّقَةِ L1131 /94 عِنْدَهُ ، عَنْ /26 عَمْرِو بْنِ شُعَيْبٍ L6144 /26 ، عَنْ /26 أَبِيهِ L3815 /26 ، عَنْ /93 جَدِّهِ L4980 /93 : /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" مَنْ بَاعَ عَبْدًا وَلَهُ مَالٌ ، فَمَالُهُ لِلْبَائِعِ إِلَّا أَنْ يَشْتَرِطَهُ الْمُبْتَاعُ ، وَمَنْ بَاعَ عَبْدًا وَلَهُ مَالٌ وَلَمْ يَقُلْ لَهُ الْبَائِعُ : إِنِّي قَدْ بِعْتُكَ وَمَالَهُ ، فَمَالُهُ لِلْبَائِعِ \" /27 * \r\n$1386  1326 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from the trustworthy one (al-thiqah) according to him, from Amr ibn Shu'ayb, from his father, from his grandfather, that the Messenger of Allah ﷺ said: 'Whoever sells a slave and he has wealth, then his wealth is for the seller unless the buyer stipulates it. And whoever sells a slave and he has wealth, and the seller did not say to him: I have sold you him with his wealth, then his wealth is for the seller.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "al-Thiqah (unnamed)",
+              "full_name": "Unknown narrator described as trustworthy by Malik",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator is not named explicitly, only described as 'al-thiqah' (the trustworthy one)"
+              ]
+            },
+            {
+              "name": "Amr ibn Shu'ayb",
+              "full_name": "Amr ibn Shu'ayb ibn Muhammad ibn Abdullah ibn Amr ibn al-As",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "His narrations from 'his father from his grandfather' chain are debated among scholars"
+              ]
+            },
+            {
+              "name": "Shu'ayb (his father)",
+              "full_name": "Shu'ayb ibn Muhammad ibn Abdullah ibn Amr ibn al-As",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Part of the debated 'Amr ibn Shu'ayb from his father from his grandfather' chain"
+              ]
+            },
+            {
+              "name": "Abdullah ibn Amr (grandfather)",
+              "full_name": "Abdullah ibn Amr ibn al-As al-Qurashi al-Sahmi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Malik narrates from an unnamed narrator ('al-thiqah'), creating ambiguity",
+            "The 'Amr ibn Shu'ayb from his father from his grandfather' chain is debated among scholars regarding its authenticity"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> [unnamed thiqah] -> Amr ibn Shu'ayb -> Shu'ayb -> Abdullah ibn Amr ibn al-As (Companion) -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik narrates from an unnamed narrator described only as 'al-thiqah'",
+          "impact": "While Malik's assessment of reliability is valuable, the unnamed nature of the narrator introduces ambiguity into the chain"
+        },
+        {
+          "issue": "The famous 'Amr ibn Shu'ayb from his father from his grandfather' chain",
+          "impact": "This chain formation has been extensively debated among hadith scholars. Some accept it as generally reliable (Hasan), while others are more cautious due to ambiguity about whether the grandfather refers to Abdullah ibn Amr or someone else"
+        },
+        {
+          "issue": "Multiple uses of indirect transmission term 'عَنْ' throughout the chain",
+          "impact": "The consistent use of 'an in a chain with the above issues compounds the concerns"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Sale of Slaves and Their Property",
+        "Default Ownership of Slave's Wealth in Sale",
+        "Conditions and Stipulations in Sales",
+        "Commercial Transactions"
+      ]
+    },
+    {
+      "hadith_id": 9208,
+      "book_id": 19,
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 ، قَالَ : /20 \" مَنْ بَاعَ عَبْدًا وَلَهُ مَالٌ ، فَمَالُهُ لِلْبَائِعِ إِلَّا أَنْ يَشْتَرِطَهُ الْمُبْتَاعُ \" /27 * \r\n$1387  1327 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Nafi', from Abdullah ibn Umar, that Umar ibn al-Khattab said: 'Whoever sells a slave and he has wealth, then his wealth is for the seller unless the buyer stipulates it.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Statement stops at Umar (mawquf), represents his ruling"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Abdullah ibn Umar (Companion) -> Umar ibn al-Khattab (Companion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at a Companion)",
+          "impact": "This represents the legal ruling and ijtihad of Umar ibn al-Khattab, not a direct hadith from the Prophet ﷺ. However, this is the famous golden chain (Malik-Nafi'-Ibn Umar)"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Sale of Slaves and Their Property",
+        "Umar ibn al-Khattab's Ruling on Default Ownership",
+        "Legal Principle in Commercial Transactions"
+      ]
+    },
+    {
+      "hadith_id": 9210,
+      "book_id": 19,
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ L4632 /94 ، /27 أَنَّ /26 أَبَانَ بْنَ عُثْمَانَ L17 /26 ، /26 وَهِشَامَ بْنَ إِسْمَاعِيل L8037 /26 ، كَانَا يَذْكُرَانِ : /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 ، قَضَى فِي رَجُلٍ كَاتَبَ عَبْدَهُ عَلَى مَالٍ عَظِيمٍ ، فَعَجَزَ عَنْهُ ، فَقَضَى أَنْ يُكَاتَبَ عَلَى قَدْرِ طَاقَتِهِ وَمَا أَدَّاهُ يَكُونُ لِلسَّيِّدِ * وَأَنَّ /93 عُثْمَانَ بْنَ عَفَّانَ L5827 /93 ، قَضَى بِمِثْلِ ذَلِكَ * \r\n$1388  1328 /3",
+      "english_translation": "Narrated by Yahya: From Malik, from Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm, that Aban ibn Uthman and Hisham ibn Isma'il both used to mention that Umar ibn al-Khattab judged regarding a man who made a kitabah contract (slave seeking freedom through payment) with his slave for a great amount of wealth, but he (the slave) was unable to fulfill it. So he (Umar) judged that he should be given kitabah contract according to his capacity, and what he had already paid should belong to the master. And that Uthman ibn Affan judged similarly.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aban ibn Uthman",
+              "full_name": "Aban ibn Uthman ibn Affan al-Qurashi al-Umawi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "كَانَا يَذْكُرَانِ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Isma'il",
+              "full_name": "Hisham ibn Isma'il al-Makhzumi al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "كَانَا يَذْكُرَانِ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Abdullah ibn Abi Bakr ibn Hazm reports that both Aban and Hisham 'used to mention' this ruling, suggesting indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abdullah ibn Abi Bakr ibn Hazm -> Aban ibn Uthman & Hisham ibn Isma'il -> (Rulings of Umar and Uthman)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Abi Bakr narrates that Aban and Hisham 'used to mention' (كَانَا يَذْكُرَانِ) this ruling",
+          "impact": "This suggests indirect transmission and potential disconnection. The phrase indicates repeated mention rather than direct hearing from the Companions"
+        },
+        {
+          "issue": "This is a mawquf narration reporting judicial rulings of two Companions",
+          "impact": "This represents the legal rulings and ijtihad of Umar and Uthman, not a direct hadith from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Kitabah Contracts (Slave Freedom Contracts)",
+        "Inability to Fulfill Contract Terms",
+        "Umar ibn al-Khattab's Judicial Ruling on Modifying Contract",
+        "Uthman ibn Affan's Similar Ruling",
+        "Adjusting Obligations According to Capacity"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,876 @@
+{
+  "batch_number": 2,
+  "file_number": 12,
+  "processed_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 9166,
+      "book_id": 19,
+      "reference_number": 1462,
+      "collection": "Muwatta Malik",
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، أَنَّهُ قَالَ : /27 سَمِعْتُ /26 الْقَاسِمَ بْنَ مُحَمَّدٍ L1598 /26 ، يَقُولُ : \" إِنَّ يَزِيدَ بْنَ عَبْدِ الْمَلِكِ فَرَّقَ بَيْنَ رِجَالٍ وَبَيْنَ نِسَائِهِمْ وَكُنَّ ، أُمَّهَاتِ أَوْلَادِ رِجَالٍ هَلَكُوا ، فَتَزَوَّجُوهُنَّ بَعْدَ حَيْضَةٍ أَوْ حَيْضَتَيْنِ ، فَفَرَّقَ بَيْنَهُمْ حَتَّى يَعْتَدُّونَ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ، فَقَالَ الْقَاسِمُ بْنُ مُحَمَّدٍ : سُبْحَانَ اللَّهِ ، يَقُولُ اللَّهُ فِي كِتَابِهِ : /4 وَالَّذِينَ يُتَوَفَّوْنَ مِنْكُمْ وَيَذَرُونَ أَزْوَاجًا سورة البقرة آية 234 /4 ، /20 مَا هُنَّ مِنَ الْأَزْوَاجِ \" /27",
+      "english_translation": "Narrated by Al-Qasim ibn Muhammad: Verily, Yazid ibn Abd al-Malik separated between men and their wives, and they (the wives) were mothers of children of men who had perished. So they (the men) married them after one menstruation or two menstruations. So he (Yazid) separated between them until they observe the waiting period of four months and ten (nights). So Al-Qasim ibn Muhammad said: 'Glory be to Allah! Allah says in His Book: And those who are taken in death among you and leave wives behind... They are not among the wives.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Qasim ibn Muhammad",
+              "full_name": "Al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Yahya ibn Sa'id -> Al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) by Malik from Yahya ibn Sa'id",
+          "impact": "Minimal impact - Malik is Thabt Hujjah and his transmission from Yahya ibn Sa'id is well-established and documented"
+        },
+        {
+          "issue": "Use of 'an (عَنْ) by Yahya ibn Sa'id from Al-Qasim ibn Muhammad before the explicit hearing term",
+          "impact": "Minimal impact - The chain explicitly mentions 'sami'tu' (I heard) after this, confirming direct hearing"
+        },
+        {
+          "issue": "This is a mawquf narration (statement of a Tabi'i), not marfu' to the Prophet ﷺ",
+          "impact": "This is Al-Qasim ibn Muhammad's commentary on the action of Yazid ibn Abd al-Malik, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Waiting period (Iddah) for women whose husbands died",
+        "Incident of Yazid ibn Abd al-Malik separating married couples",
+        "Understanding and application of Quranic verses about widows",
+        "Commentary by Al-Qasim ibn Muhammad on legal matters"
+      ]
+    },
+    {
+      "hadith_id": 9167,
+      "book_id": 19,
+      "reference_number": 1463,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّهُ قَالَ : /20 \" عِدَّةُ أُمِّ الْوَلَدِ إِذَا تُوُفِّيَ عَنْهَا سَيِّدُهَا ، حَيْضَةٌ \" /27",
+      "english_translation": "Narrated by Abdullah ibn Umar: The waiting period of umm al-walad (a slave woman who has borne her master a child) when her master dies is one menstruation.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (opinion of a Companion), not marfu' to the Prophet ﷺ",
+          "impact": "This represents the juristic opinion of Abdullah ibn Umar, not a direct prophetic statement"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Waiting period (Iddah) for umm al-walad",
+        "Legal opinion of Abdullah ibn Umar on slave women"
+      ]
+    },
+    {
+      "hadith_id": 9168,
+      "book_id": 19,
+      "reference_number": 1464,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 عَنِ /26 الْقَاسِمِ بْنِ مُحَمَّدٍ L1598 /26 ، أَنَّهُ كَانَ يَقُولُ : /20 \" عِدَّةُ أُمِّ الْوَلَدِ إِذَا تُوُفِّيَ عَنْهَا سَيِّدُهَا حَيْضَةٌ \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَهُوَ الْأَمْرُ عِنْدَنَا /10 . قَالَ /12 مَالِكٌ /12 : /10 وَإِنْ لَمْ تَكُنْ مِمَّنْ تَحِيضُ ، فَعِدَّتُهَا ثَلَاثَةُ أَشْهُرٍ /10",
+      "english_translation": "Narrated by Al-Qasim ibn Muhammad: He used to say: 'The waiting period of umm al-walad when her master dies is one menstruation.' Malik said: And this is the practice among us. Malik said: And if she is not among those who menstruate, then her waiting period is three months.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Qasim ibn Muhammad",
+              "full_name": "Al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> Yahya ibn Sa'id -> Al-Qasim ibn Muhammad"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'an (عَنْ) by Malik from Yahya ibn Sa'id",
+          "impact": "Minimal impact - Malik's transmission from Yahya ibn Sa'id is well-established"
+        },
+        {
+          "issue": "Use of 'an (عَنْ) by Yahya ibn Sa'id from Al-Qasim ibn Muhammad",
+          "impact": "Minimal impact - Both are highly reliable and their connection is well-documented"
+        },
+        {
+          "issue": "This is a mawquf narration (statement of a Tabi'i) plus Malik's own juristic opinion",
+          "impact": "This represents Al-Qasim ibn Muhammad's legal opinion followed by Malik's commentary, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Waiting period (Iddah) for umm al-walad",
+        "Legal opinion of Al-Qasim ibn Muhammad",
+        "Maliki jurisprudence on waiting periods"
+      ]
+    },
+    {
+      "hadith_id": 9170,
+      "book_id": 19,
+      "reference_number": 1466,
+      "collection": "Muwatta Malik",
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /26 سَعِيدَ بْنَ الْمُسَيَّبِ L3299 /26 ، /26 وَسُلَيْمَانَ بْنَ يَسَارٍ L3634 /26 ، كَانَا يَقُولَانِ : /20 \" عِدَّةُ الْأَمَةِ إِذَا هَلَكَ عَنْهَا زَوْجُهَا شَهْرَانِ وَخَمْسُ لَيَالٍ \" /27 . وَحَدَّثَنِي ، عَنْ /12 مَالِكٍ /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، مِثْلَ ذَلِكَ . قَالَ /12 مَالِكٌ /12 فِي الْعَبْدِ يُطَلِّقُ الْأَمَةَ طَلَاقًا لَمْ يَبُتَّهَا فِيهِ : /10 لَهُ عَلَيْهَا فِيهِ الرَّجْعَةُ ، ثُمَّ يَمُوتُ وَهِيَ فِي عِدَّتِهَا مِنْ طَلَاقِهِ ، إِنَّهَا تَعْتَدُّ عِدَّةَ الْأَمَةِ الْمُتَوَفَّى عَنْهَا زَوْجُهَا ، شَهْرَيْنِ وَخَمْسَ لَيَالٍ /10",
+      "english_translation": "It reached Malik that Sa'id ibn al-Musayyib and Sulayman ibn Yasar used to say: 'The waiting period of the slave woman when her husband dies is two months and five nights.' And it was narrated to me from Malik, from Ibn Shihab, the like of that. Malik said regarding the slave who divorces the slave woman with a revocable divorce: He has the right to take her back during it, then he dies while she is in her waiting period from his divorce - indeed she observes the waiting period of the slave woman whose husband has died, two months and five nights.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal/balagh - disconnected chain"
+              ]
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sulayman ibn Yasar",
+              "full_name": "Sulayman ibn Yasar al-Hilali al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnection - 'balagahu' (it reached him) indicates mursal/disconnected transmission"
+          ]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "mudallis - classified as category 3 mudallis by Ibn Hajar"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik (via balagahu/disconnected) -> Sa'id ibn al-Musayyib & Sulayman ibn Yasar",
+        "Yahya ibn Yahya -> Malik -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain uses 'balagahu' (it reached him) - mursal/disconnected chain",
+          "impact": "Significant impact - there is a gap in the transmission chain between Malik and Sa'id/Sulayman, making this a weak mursal report"
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri is a known mudallis (category 3), though highly reliable",
+          "impact": "Minimal impact - Although al-Zuhri is classified as mudallis, he is widely considered extremely reliable by the vast majority of scholars"
+        },
+        {
+          "issue": "Both chains are mawquf statements (opinions of Tabi'un), not marfu' to the Prophet ﷺ",
+          "impact": "These are juristic opinions of senior Tabi'un, not prophetic hadiths"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Waiting period (Iddah) for slave women whose husbands died",
+        "Legal opinions of Sa'id ibn al-Musayyib and Sulayman ibn Yasar",
+        "Maliki jurisprudence on divorce and waiting periods for slaves"
+      ]
+    },
+    {
+      "hadith_id": 9172,
+      "book_id": 19,
+      "reference_number": 1468,
+      "collection": "Muwatta Malik",
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ L2885 /94 ، عَنْ /26 مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ L7319 /26 ، عَنِ /26 ابْنِ مُحَيْرِيزٍ L5071 /26 ، أَنَّهُ قَالَ : دَخَلْتُ الْمَسْجِدَ ، فَرَأَيْتُ أَبَا سَعِيدٍ الْخُدْرِيَّ ، فَجَلَسْتُ إِلَيْهِ ، فَسَأَلْتُهُ عَنِ الْعَزْلِ ، /27 فَقَالَ /93 أَبُو سَعِيدٍ الْخُدْرِيُّ L3260 /93 : خَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي غَزْوَةِ بَنِي الْمُصْطَلِقِ ، فَأَصَبْنَا سَبْيًا مِنْ سَبْيِ الْعَرَبِ ، فَاشْتَهَيْنَا النِّسَاءَ ، وَاشْتَدَّتْ عَلَيْنَا الْعُزْبَةُ وَأَحْبَبْنَا الْفِدَاءَ ، فَأَرَدْنَا أَنْ نَعْزِلَ ، فَقُلْنَا : نَعْزِلُ ، وَرَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَ أَظْهُرِنَا قَبْلَ أَنْ نَسْأَلَهُ ، فَسَأَلْنَاهُ عَنْ ذَلِكَ ، فَقَالَ : /20 \" مَا عَلَيْكُمْ أَنْ لَا تَفْعَلُوا ، مَا مِنْ نَسَمَةٍ كَائِنَةٍ إِلَى يَوْمِ الْقِيَامَةِ إِلَّا وَهِيَ كَائِنَةٌ \" /27",
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: We went out with the Messenger of Allah ﷺ in the expedition of Bani al-Mustaliq, and we captured captives from the captives of the Arabs. We desired women, and celibacy became hard upon us, and we loved the ransom. So we wanted to practice withdrawal (coitus interruptus). We said: 'Shall we practice withdrawal while the Messenger of Allah ﷺ is among us before we ask him?' So we asked him about that, and he said: 'It does not matter if you do not do it. There is no soul that is to be created until the Day of Resurrection but it will be created.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Yahya ibn Habban",
+              "full_name": "Muhammad ibn Yahya ibn Habban al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Muhayriz",
+              "full_name": "Abdullah ibn Muhayriz ibn Jundub al-Jumahi al-Makki",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khazraji al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Rabi'ah ibn Abi Abd al-Rahman -> Muhammad ibn Yahya ibn Habban -> Ibn Muhayriz -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "Minimal to moderate impact - All narrators are thiqah (trustworthy) and their connections are well-documented, though 'an is an ambiguous term"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident during the expedition of Bani al-Mustaliq",
+        "Withdrawal (coitus interruptus/azl)",
+        "Divine predestination",
+        "Captives from war",
+        "Companions seeking guidance from the Prophet ﷺ"
+      ]
+    },
+    {
+      "hadith_id": 9173,
+      "book_id": 19,
+      "reference_number": 1469,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 ضَمْرَةَ بْنِ سَعِيدٍ الْمَازِنِيِّ L3980 /94 ، /27 عَنِ /26 الْحَجَّاجِ بْنِ عَمْرِو بْنِ غَزِيَّةَ L2301 /26 أَنَّهُ كَانَ جَالِسًا عِنْدَ زَيْدِ بْنِ ثَابِتٍ ، فَجَاءَهُ ابْنُ قَهْدٍ رَجُلٌ مِنْ أَهْلِ الْيَمَنِ ، فَقَالَ : يَا أَبَا سَعِيدٍ ، إِنَّ عِنْدِي جَوَارِيَ لِي لَيْسَ نِسَائِي اللَّاتِي أُكِنُّ بِأَعْجَبَ إِلَيَّ مِنْهُنَّ ، وَلَيْسَ كُلُّهُنَّ يُعْجِبُنِي أَنْ تَحْمِلَ مِنِّي ، أَفَأَعْزِلُ ؟ فَقَالَ /93 زَيْدُ بْنُ ثَابِتٍ L3131 /93 : أَفْتِهِ يَا حَجَّاجُ ، قَالَ : فَقُلْتُ : يَغْفِرُ اللَّهُ لَكَ ، إِنَّمَا نَجْلِسُ عِنْدَكَ لِنَتَعَلَّمَ مِنْكَ ، قَالَ : أَفْتِهِ . قَالَ : فَقُلْتُ : /20 \" هُوَ حَرْثُكَ ، إِنْ شِئْتَ سَقَيْتَهُ ، وَإِنْ شِئْتَ أَعْطَشْتَهُ \" /27 . قَالَ : وَكُنْتُ أَسْمَعُ ذَلِكَ مِنْ زَيْدٍ ، فَقَالَ زَيْدٌ : صَدَقَ",
+      "english_translation": "Narrated by Al-Hajjaj ibn Amr ibn Ghaziyyah: He was sitting with Zayd ibn Thabit when Ibn Qahd, a man from the people of Yemen, came to him and said: 'O Abu Sa'id, indeed I have slave girls, and my wives whom I honor are not more pleasing to me than them, and it does not please me that all of them become pregnant by me. Shall I practice withdrawal?' So Zayd ibn Thabit said: 'Give him a fatwa, O Hajjaj.' He said: 'So I said: May Allah forgive you, we only sit with you to learn from you.' He said: 'Give him a fatwa.' He said: 'So I said: It is your tillage - if you wish, water it, and if you wish, leave it thirsty.' He said: And I used to hear that from Zayd. So Zayd said: 'He spoke the truth.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Damrah ibn Sa'id al-Mazini",
+              "full_name": "Damrah ibn Sa'id ibn Abd al-Rahman al-Mazini al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hajjaj ibn Amr ibn Ghaziyyah",
+              "full_name": "Al-Hajjaj ibn Amr ibn Ghaziyyah al-Ansari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Thabit",
+              "full_name": "Zayd ibn Thabit ibn al-Dahhak al-Ansari al-Najjari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Damrah ibn Sa'id -> Al-Hajjaj ibn Amr -> Zayd ibn Thabit"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "Minimal impact - All narrators are thiqah and connections are well-established"
+        },
+        {
+          "issue": "This is a mawquf narration (statement from a Companion), not marfu' to the Prophet ﷺ",
+          "impact": "This is Zayd ibn Thabit's legal opinion/fatwa on withdrawal, not a direct prophetic statement"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Withdrawal (coitus interruptus/azl) with slave women",
+        "Legal opinion of Zayd ibn Thabit",
+        "Incident of a Yemeni man seeking fatwa"
+      ]
+    },
+    {
+      "hadith_id": 9174,
+      "book_id": 19,
+      "reference_number": 1470,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 حُمَيْدِ بْنِ قَيْسٍ الْمَكِّيِّ L2547 /94 ، عَنْ رَجُلٍ يُقَالُ لَهُ /26 ذَفِيفٌ L2839 /26 ، أَنَّهُ قَالَ : /27 سُئِلَ /93 ابْنُ عَبَّاسٍ L4883 /93 عَنِ الْعَزْلِ ، فَدَعَا جَارِيَةً لَهُ ، فَقَالَ : \" أَخْبِرِيهِمْ \" ، فَكَأَنَّهَا اسْتَحْيَتْ ، فَقَالَ : \" هُوَ ذَلِكَ /20 أَمَّا أَنَا فَأَفْعَلُهُ \" يَعْنِي أَنَّهُ يَعْزِلُ /27 . قَالَ /12 مَالِكٌ /12 : /10 لَا يَعْزِلُ الرَّجُلُ عَنِ الْمَرْأَةِ الْحُرَّةِ إِلَّا بِإِذْنِهَا ، وَلَا بَأْسَ أَنْ يَعْزِلَ عَنْ أَمَتِهِ بِغَيْرِ إِذْنِهَا ، وَمَنْ كَانَتْ تَحْتَهُ أَمَةُ قَوْمٍ فَلَا يَعْزِلُ إِلَّا بِإِذْنِهِمْ /10",
+      "english_translation": "Narrated by a man called Dhafif: Ibn Abbas was asked about withdrawal (coitus interruptus), so he called a slave girl of his and said: 'Inform them.' But she appeared to be shy. So he said: 'It is that - as for me, I do it,' meaning that he practices withdrawal. Malik said: A man should not practice withdrawal from a free woman except with her permission, and there is no harm in practicing withdrawal from his slave woman without her permission. And whoever has a slave woman belonging to other people (married to him), he should not practice withdrawal except with their permission.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd ibn Qays al-Makki",
+              "full_name": "Humayd ibn Qays al-A'raj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dhafif",
+              "full_name": "Dhafif (otherwise unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul - unknown narrator"
+              ]
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سُئِلَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Humayd ibn Qays -> Dhafif (unknown) -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Dhafif is described as 'a man called Dhafif' - majhul (unknown narrator)",
+          "impact": "Significant impact - Having an unknown narrator in the chain weakens the transmission considerably"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "Moderate impact given the presence of an unknown narrator"
+        },
+        {
+          "issue": "This is a mawquf narration (practice of a Companion), not marfu' to the Prophet ﷺ",
+          "impact": "This represents Ibn Abbas's personal practice, not a prophetic statement"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Withdrawal (coitus interruptus/azl)",
+        "Practice of Ibn Abbas",
+        "Incident of inquiry about withdrawal",
+        "Maliki jurisprudence on withdrawal with free women and slaves"
+      ]
+    },
+    {
+      "hadith_id": 9176,
+      "book_id": 19,
+      "reference_number": 1472,
+      "collection": "Muwatta Malik",
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ L4632 /94 ، عَنْ /26 حُمَيْدِ بْنِ نَافِعٍ L2551 /26 ، عَنْ /64 زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ /64 أَنَّهَا أَخْبَرَتْهُ هَذِهِ الْأَحَادِيثِ الثَّلَاثَةِ ، قَالَتْ /26 زَيْنَبُ L3165 /26 : /27 دَخَلْتُ عَلَى /64 أُمِّ حَبِيبَةَ /64 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِينَ تُوُفِّيَ أَبُوهَا أَبُو سُفْيَانَ بْنُ حَرْبٍ ، فَدَعَتْ /93 أُمُّ حَبِيبَةَ L2955 /93 بِطِيبٍ فِيهِ صُفْرَةٌ خَلُوقٌ أَوْ غَيْرُهُ ، فَدَهَنَتْ بِهِ جَارِيَةً ، ثُمَّ مَسَحَتْ بِعَارِضَيْهَا ، ثُمَّ قَالَتْ : وَاللَّهِ مَا لِي بِالطِّيبِ مِنْ حَاجَةٍ ، غَيْرَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : /20 \" لَا يَحِلُّ لِامْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ أَنْ تُحِدَّ عَلَى مَيِّتٍ فَوْقَ ثَلَاثِ لَيَالٍ ، إِلَّا عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا \" /27",
+      "english_translation": "Narrated by Zaynab bint Abi Salamah: She informed him of these three hadiths. Zaynab said: I entered upon Umm Habibah, wife of the Prophet ﷺ, when her father Abu Sufyan ibn Harb died. So Umm Habibah called for perfume in which was yellowness - khaluq or other than it. She applied it to a slave girl, then wiped it on her cheeks. Then she said: 'By Allah, I have no need for perfume, except that I heard the Messenger of Allah ﷺ say: It is not lawful for a woman who believes in Allah and the Last Day to mourn over a deceased person for more than three nights, except over a husband - four months and ten (nights).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd ibn Nafi'",
+              "full_name": "Humayd ibn Nafi' ibn Jubayr ibn Mut'im",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zaynab bint Abi Salamah",
+              "full_name": "Zaynab bint Abi Salamah ibn Abd al-Asad al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَخْبَرَتْهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Habibah",
+              "full_name": "Ramlah bint Abi Sufyan Sakhr ibn Harb",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Abdullah ibn Abi Bakr -> Humayd ibn Nafi' -> Zaynab bint Abi Salamah -> Umm Habibah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain up to Humayd ibn Nafi'",
+          "impact": "Minimal impact - All narrators are thiqah and their connections are well-documented, and the chain ends with explicit 'akhbarathu' (she informed him)"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Mourning period (Ihidad) for women",
+        "Incident of Umm Habibah when her father Abu Sufyan died",
+        "Prohibition of prolonged mourning except for husband",
+        "Use of perfume during mourning"
+      ]
+    },
+    {
+      "hadith_id": 9177,
+      "book_id": 19,
+      "reference_number": 1473,
+      "collection": "Muwatta Malik",
+      "arabicText": "/34 قَالَتْ /26 زَيْنَبُ L3165 /26 : /27 ثُمَّ دَخَلْتُ عَلَى /93 زَيْنَبَ بِنْتِ جَحْشٍ L3166 /93 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِينَ تُوُفِّيَ أَخُوهَا ، فَدَعَتْ بِطِيبٍ ، فَمَسَّتْ مِنْهُ ، ثُمَّ قَالَتْ : وَاللَّهِ مَا لِي بِالطِّيبِ حَاجَةٌ ، غَيْرَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : /20 \" لَا يَحِلُّ لِامْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ تُحِدُّ عَلَى مَيِّتٍ فَوْقَ ثَلَاثِ لَيَالٍ ، إِلَّا عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا \" /27",
+      "english_translation": "Zaynab said: Then I entered upon Zaynab bint Jahsh, wife of the Prophet ﷺ, when her brother died. She called for perfume and touched some of it. Then she said: 'By Allah, I have no need for perfume, except that I heard the Messenger of Allah ﷺ say: It is not lawful for a woman who believes in Allah and the Last Day to mourn over a deceased person for more than three nights, except over a husband - four months and ten (nights).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Zaynab bint Abi Salamah",
+              "full_name": "Zaynab bint Abi Salamah ibn Abd al-Asad al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zaynab bint Jahsh",
+              "full_name": "Zaynab bint Jahsh ibn Ri'ab al-Asadiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Zaynab bint Abi Salamah -> Zaynab bint Jahsh -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a continuation of the previous hadith (9176), part of the same transmission from Zaynab bint Abi Salamah",
+          "impact": "This hadith should be read with the full chain from hadith 9176: Yahya -> Malik -> Abdullah ibn Abi Bakr -> Humayd ibn Nafi' -> Zaynab bint Abi Salamah"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Mourning period (Ihidad) for women",
+        "Incident of Zaynab bint Jahsh when her brother died",
+        "Prohibition of prolonged mourning except for husband",
+        "Use of perfume during mourning"
+      ]
+    },
+    {
+      "hadith_id": 9178,
+      "book_id": 19,
+      "reference_number": 1474,
+      "collection": "Muwatta Malik",
+      "arabicText": "/34 قَالَتْ /26 زَيْنَبُ L3165 /26 : /27 وَسَمِعْتُ أُمِّي /93 أُمَّ سَلَمَةَ L8101 /93 زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، تَقُولُ : جَاءَتِ امْرَأَةٌ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَتْ : يَا رَسُولَ اللَّهِ ، إِنَّ ابْنَتِي تُوُفِّيَ عَنْهَا زَوْجُهَا ، وَقَدِ اشْتَكَتْ عَيْنَيْهَا ، أَفَتَكْحُلُهُمَا ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَا \" ، مَرَّتَيْنِ أَوْ ثَلَاثًا ، كُلُّ ذَلِكَ يَقُولُ : لَا ، ثُمَّ قَالَ : /20 \" إِنَّمَا هِيَ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ، وَقَدْ كَانَتْ إِحْدَاكُنَّ فِي الْجَاهِلِيَّةِ تَرْمِي بِالْبَعْرَةِ عَلَى رَأْسِ الْحَوْلِ \" /27",
+      "english_translation": "Zaynab said: And I heard my mother, Umm Salamah, wife of the Prophet ﷺ, say: A woman came to the Messenger of Allah ﷺ and said: 'O Messenger of Allah, my daughter's husband has died, and she has complained about her eyes. Should she apply kohl to them?' The Messenger of Allah ﷺ said: 'No,' two or three times. Each time he said: 'No.' Then he said: 'It is only four months and ten (nights). And indeed, one of you used to throw the dung pellet at the head of the year in the times of Jahiliyyah.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Zaynab bint Abi Salamah",
+              "full_name": "Zaynab bint Abi Salamah ibn Abd al-Asad al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Hind bint Abi Umayyah Hudhayfah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "تَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Zaynab bint Abi Salamah -> Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a continuation of the previous hadiths (9176-9177), part of the same transmission from Zaynab bint Abi Salamah",
+          "impact": "This hadith should be read with the full chain from hadith 9176: Yahya -> Malik -> Abdullah ibn Abi Bakr -> Humayd ibn Nafi' -> Zaynab bint Abi Salamah"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Mourning period (Ihidad) for widows",
+        "Incident of a woman asking about using kohl during mourning",
+        "Prohibition of kohl during mourning period",
+        "Description of Jahiliyyah mourning practices",
+        "Comparison between Islamic and pre-Islamic mourning customs"
+      ]
+    },
+    {
+      "hadith_id": 9179,
+      "book_id": 19,
+      "reference_number": 1475,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، عَنْ /26 صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ L3949 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 ، /15 /93 وَحَفْصَةَ L2457 /93 /15 زَوْجَيِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" لَا يَحِلُّ لِامْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الْآخِرِ أَنْ تُحِدَّ عَلَى مَيِّتٍ فَوْقَ ثَلَاثِ لَيَالٍ ، إِلَّا عَلَى زَوْجٍ \" /27",
+      "english_translation": "Narrated by Aisha and Hafsah, wives of the Prophet ﷺ: The Messenger of Allah ﷺ said: 'It is not lawful for a woman who believes in Allah and the Last Day to mourn over a deceased person for more than three nights, except over a husband.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safiyyah bint Abi Ubayd",
+              "full_name": "Safiyyah bint Abi Ubayd ibn Mas'ud al-Thaqafiyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Taymiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hafsah",
+              "full_name": "Hafsah bint Umar ibn al-Khattab al-Adawiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik -> Nafi' -> Safiyyah bint Abi Ubayd -> Aisha & Hafsah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "Minimal impact - The chain contains highly reliable narrators including the famous Malik-Nafi' connection, though 'an is used"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Mourning period (Ihidad) for women",
+        "Prohibition of prolonged mourning except for husband"
+      ]
+    },
+    {
+      "hadith_id": 9180,
+      "book_id": 19,
+      "reference_number": 1476,
+      "collection": "Muwatta Malik",
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِكٍ /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /93 أُمَّ سَلَمَةَ L8101 /93 زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَتْ لِامْرَأَةٍ حَادٍّ عَلَى زَوْجِهَا اشْتَكَتْ عَيْنَيْهَا ، فَبَلَغَ ذَلِكَ مِنْهَا : /20 \" اكْتَحِلِي بِكُحْلِ الْجِلَاءِ بِاللَّيْلِ ، وَامْسَحِيهِ بِالنَّهَارِ \" /27",
+      "english_translation": "It reached Malik that Umm Salamah, wife of the Prophet ﷺ, said to a woman in mourning for her husband who complained about her eyes, and it reached (a severe state) from her: 'Apply kohl al-jila (non-beautifying kohl) at night, and wipe it off during the day.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi al-Qurtubi",
+              "grade": "Thiqah Thabt",
+              "generation": "Later Narrator",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": [
+                "mursal/balagh - disconnected chain"
+              ]
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Hind bint Abi Umayyah Hudhayfah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Disconnection - 'balagahu' (it reached him) indicates mursal/disconnected transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik (via balagahu/disconnected) -> Umm Salamah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'balagahu' (it reached him) - mursal/disconnected chain",
+          "impact": "Significant impact - There is a gap in the transmission chain between Malik and Umm Salamah, making this a weak mursal report"
+        },
+        {
+          "issue": "This is a mawquf narration (statement of a Companion), not marfu' to the Prophet ﷺ",
+          "impact": "This is Umm Salamah's legal opinion/fatwa on using medicinal kohl during mourning, not a prophetic statement"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Use of medicinal kohl during mourning period",
+        "Legal opinion of Umm Salamah",
+        "Medical need exception during mourning"
+      ]
+    }
+  ]
+}

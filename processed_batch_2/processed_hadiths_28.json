@@ -1,0 +1,486 @@
+{
+  "batch_number": 2,
+  "file_number": 28,
+  "record_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9406,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik: From Ja'far ibn Muhammad, from his father: The Messenger of Allah (ﷺ) ruled with the oath along with the witness.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "Yahya ibn Yahya al-Leythi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جعفر بن محمد",
+              "full_name": "Ja'far ibn Muhammad al-Sadiq",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن علي",
+              "full_name": "Muhammad ibn Ali (Abu Ja'far al-Baqir)",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى -> مالك -> جعفر بن محمد -> محمد بن علي -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Judicial ruling on testimony and oaths",
+        "Evidence in Islamic jurisprudence"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ ، عَنْ أَبِيهِ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" قَضَى بِالْيَمِينِ مَعَ الشَّاهِدِ \" * $1381 1384"
+    },
+    {
+      "hadith_id": 9407,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik: From Abu al-Zinād: Umar ibn Abdul Aziz wrote to his governor: 'Rule with the oath along with the witness.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابي الزناد",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinād",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمر بن عبد العزيز",
+              "full_name": "Umar ibn Abdul Aziz",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> ابي الزناد -> عمر بن عبد العزيز"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Judicial ruling on testimony",
+        "Umar ibn Abdul Aziz's judicial policy"
+      ],
+      "arabicText": "وَعَنْ مَالِك ، عَنْ أَبِي الزِّنَادِ ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ كَتَبَ إِلَى عَبْدِ الْحَمِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ زَيْدِ بْنِ الْخَطَّابِ وَهُوَ عَامِلٌ عَلَى الْكُوفَةِ : أَنْ \" اقْضِ بِالْيَمِينِ مَعَ الشَّاهِدِ \" * $1382 1385"
+    },
+    {
+      "hadith_id": 9408,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik: Abu Salamah ibn Abdul-Rahman and Sulayman ibn Yasar were asked: 'Is one ruled with the oath along with the witness?' They said: 'Yes.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو سلمة",
+              "full_name": "Abu Salamah ibn Abdul-Rahman",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سليمان بن يسار",
+              "full_name": "Sulayman ibn Yasar",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> ابو سلمة -> سليمان بن يسار"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Opinions of early jurists on testimony",
+        "Judicial testimony rules"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك أَنَّهُ بَلَغَهُ ، أَنَّ أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ ، وَسُلَيْمَانَ بْنَ يَسَارٍ سُئِلَا : \" هَلْ يُقْضَى بِالْيَمِينِ مَعَ الشَّاهِدِ ؟ فَقَالَا : نَعَمْ \" . قَالَ مَالِك : مَضَتِ السُّنَّةُ فِي الْقَضَاءِ بِالْيَمِينِ مَعَ الشَّاهِدِ الْوَاحِدِ ، يَحْلِفُ صَاحِبُ الْحَقِّ مَعَ شَاهِدِهِ وَيَسْتَحِقُّ حَقَّهُ ، فَإِنْ نَكَلَ وَأَبَى أَنْ يَحْلِفَ أُحْلِفَ الْمَطْلُوبُ ، فَإِنْ حَلَفَ سَقَطَ عَنْهُ ذَلِكَ الْحَقُّ ، وَإِنْ أَبَى أَنْ يَحْلِفَ ثَبَتَ عَلَيْهِ الْحَقُّ لِصَاحِبِهِ . قَالَ مَالِك : وَإِنَّمَا يَكُونُ ذَلِكَ فِي الْأَمْوَالِ خَاصَّةً ، وَلَا يَقَعُ ذَلِكَ فِي شَيْءٍ مِنَ الْحُدُودِ ، وَلَا فِي نِكَاحٍ وَلَا فِي طَلَاقٍ ، وَلَا فِي عَتَاقَةٍ وَلَا فِي سَرِقَةٍ وَلَا فِي فِرْيَةٍ ، فَإِنْ قَالَ قَائِلٌ : فَإِنَّ الْعَتَاقَةَ مِنَ الْأَمْوَالِ فَقَدْ أَخْطَأَ ، لَيْسَ ذَلِكَ عَلَى مَا قَالَ ، وَلَوْ كَانَ ذَلِكَ عَلَى مَا قَالَ ، لَحَلَفَ الْعَبْدُ مَعَ شَاهِدِهِ إِذَا جَاءَ بِشَاهِدٍ ، أَنَّ سَيِّدَهُ أَعْتَقَهُ وَأَنَّ الْعَبْدَ إِذَا جَاءَ بِشَاهِدٍ عَلَى مَالٍ مِنَ الْأَمْوَالِ ادَّعَاهُ حَلَفَ مَعَ شَاهِدِهِ وَاسْتَحَقَّ حَقَّهُ كَمَا يَحْلِفُ الْحُرُّ . قَالَ مَالِك : فَالسُّنَّةُ عِنْدَنَا أَنَّ الْعَبْدَ إِذَا جَاءَ بِشَاهِدٍ عَلَى عَتَاقَتِهِ اسْتُحْلِفَ سَيِّدُهُ مَا أَعْتَقَهُ وَبَطَلَ ذَلِكَ عَنْهُ . قَالَ مَالِك : وَكَذَلِكَ السُّنَّةُ عِنْدَنَا أَيْضًا فِي الطَّلَاقِ ، إِذَا جَاءَتِ الْمَرْأَةُ بِشَاهِدٍ أَنَّ زَوْجَهَا طَلَّقَهَا ، أُحْلِفَ زَوْجُهَا مَا طَلَّقَهَا ، فَإِذَا حَلَفَ لَمْ يَقَعْ عَلَيْهِ الطَّلَاقُ . قَالَ مَالِك : فَسُنَّةُ الطَّلَاقِ وَالْعَتَاقَةِ فِي الشَّاهِدِ الْوَاحِدِ وَاحِدَةٌ ، إِنَّمَا يَكُونُ الْيَمِينُ عَلَى زَوْجِ الْمَرْأَةِ وَعَلَى سَيِّدِ الْعَبْدِ ، وَإِنَّمَا الْعَتَاقَةُ حَدٌّ مِنَ الْحُدُودِ لَا تَجُوزُ فِيهَا شَهَادَةُ النِّسَاءِ ، لِأَنَّهُ إِذَا عَتَقَ الْعَبْدُ ثَبَتَتْ حُرْمَتُهُ ، وَوَقَعَتْ لَهُ الْحُدُودُ وَوَقَعَتْ عَلَيْهِ ، وَإِنْ زَنَى وَقَدْ أُحْصِنَ رُجِمَ ، وَإِنْ قَتَلَ الْعَبْدَ قُتِلَ بِهِ ، وَثَبَتَ لَهُ الْمِيرَاثُ بَيْنَهُ وَبَيْنَ مَنْ يُوَارِثُهُ ، فَإِنِ احْتَجَّ مُحْتَجٌّ ، فَقَالَ : لَوْ أَنَّ رَجُلًا أَعْتَقَ عَبْدَهُ ، وَجَاءَ رَجُلٌ يَطْلُبُ سَيِّدَ الْعَبْدِ بِدَيْنٍ لَهُ عَلَيْهِ ، فَشَهِدَ لَهُ عَلَى حَقِّهِ ذَلِكَ رَجُلٌ وَامْرَأَتَانِ ، فَإِنَّ ذَلِكَ يُثْبِتُ الْحَقَّ عَلَى سَيِّدِ الْعَبْدِ حَتَّى تُرَدَّ بِهِ عَتَاقَتُهُ ، إِذَا لَمْ يَكُنْ لِسَيِّدِ الْعَبْدِ مَالٌ غَيْرُ الْعَبْدِ يُرِيدُ أَنْ يُجِيزَ بِذَلِكَ شَهَادَةَ النِّسَاءِ فِي الْعَتَاقَةِ ، فَإِنَّ ذَلِكَ لَيْسَ عَلَى مَا قَالَ ، وَإِنَّمَا مَثَلُ ذَلِكَ الرَّجُلُ يَعْتِقُ عَبْدَهُ ثُمَّ يَأْتِي طَالِبُ الْحَقِّ عَلَى سَيِّدِهِ بِشَاهِدٍ وَاحِدٍ فَيَحْلِفُ مَعَ شَاهِدِهِ ، ثُمَّ يَسْتَحِقُّ حَقَّهُ وَتُرَدُّ بِذَلِكَ عَتَاقَةُ الْعَبْدِ ، أَوْ يَأْتِي الرَّجُلُ قَدْ كَانَتْ بَيْنَهُ وَبَيْنَ سَيِّدِ الْعَبْدِ مُخَالَطَةٌ وَمُلَابَسَةٌ ، فَيَزْعُمُ أَنَّ لَهُ عَلَى سَيِّدِ الْعَبْدِ مَالًا ، فَيُقَالُ لِسَيِّدِ الْعَبْدِ : احْلِفْ مَا عَلَيْكَ مَا ادَّعَى ، فَإِنْ نَكَلَ وَأَبَى أَنْ يَحْلِفَ حُلِّفَ صَاحِبُ الْحَقِّ وَثَبَتَ حَقُّهُ عَلَى سَيِّدِ الْعَبْدِ ، فَيَكُونُ ذَلِكَ يَرُدُّ عَتَاقَةَ الْعَبْدِ إِذَا ثَبَتَ الْمَالُ عَلَى سَيِّدِهِ . قَالَ : وَكَذَلِكَ أَيْضًا الرَّجُلُ يَنْكِحُ الْأَمَةَ فَتَكُونُ امْرَأَتَهُ ، فَيَأْتِي سَيِّدُ الْأَمَةِ إِلَى الرَّجُلِ الَّذِي تَزَوَّجَهَا ، فَيَقُولُ : ابْتَعْتَ مِنِّي جَارِيَتِي فُلَانَةَ أَنْتَ وَفُلَانٌ بِكَذَا وَكَذَا دِينَارًا ، فَيُنْكِرُ ذَلِكَ زَوْجُ الْأَمَةِ ، فَيَأْتِي سَيِّدُ الْأَمَةِ بِرَجُلٍ وَامْرَأَتَيْنِ فَيَشْهَدُونَ عَلَى مَا قَالَ ، فَيَثْبُتُ بَيْعُهُ وَيَحِقُّ حَقُّهُ وَتَحْرُمُ الْأَمَةُ عَلَى زَوْجِهَا ، وَيَكُونُ ذَلِكَ فِرَاقًا بَيْنَهُمَا ، وَشَهَادَةُ النِّسَاءِ لَا تَجُوزُ فِي الطَّلَاقِ . قَالَ مَالِك : وَمِنْ ذَلِكَ أَيْضًا الرَّجُلُ يَفْتَرِي عَلَى الرَّجُلِ الْحُرِّ فَيَقَعُ عَلَيْهِ الْحَدُّ ، فَيَأْتِي رَجُلٌ وَامْرَأَتَانِ فَيَشْهَدُونَ أَنَّ الَّذِي افْتُرِيَ عَلَيْهِ عَبْدٌ مَمْلُوكٌ ، فَيَضَعُ ذَلِكَ الْحَدَّ عَنِ الْمُفْتَرِي بَعْدَ أَنْ وَقَعَ عَلَيْهِ ، وَشَهَادَةُ النِّسَاءِ لَا تَجُوزُ فِي الْفِرْيَةِ . قَالَ مَالِك : وَمِمَّا يُشْبِهُ ذَلِكَ أَيْضًا مِمَّا يَفْتَرِقُ فِيهِ الْقَضَاءُ وَمَا مَضَى مِنَ السُّنَّةِ ، أَنَّ الْمَرْأَتَيْنِ يَشْهَدَانِ عَلَى اسْتِهْلَالِ الصَّبِيِّ ، فَيَجِبُ بِذَلِكَ مِيرَاثُهُ حَتَّى يَرِثَ ، وَيَكُونُ مَالُهُ لِمَنْ يَرِثُهُ إِنْ مَاتَ الصَّبِيُّ وَلَيْسَ مَعَ الْمَرْأَتَيْنِ اللَّتَيْنِ شَهِدَتَا رَجُلٌ وَلَا يَمِينٌ ، وَقَدْ يَكُونُ ذَلِكَ فِي الْأَمْوَالِ الْعِظَامِ مِنَ الذَّهَبِ وَالْوَرِقِ وَالرِّبَاعِ وَالْحَوَائِطِ وَالرَّقِيقِ وَمَا سِوَى ذَلِكَ مِنَ الْأَمْوَالِ ، وَلَوْ شَهِدَتِ امْرَأَتَانِ عَلَى دِرْهَمٍ وَاحِدٍ أَوْ أَقَلَّ مِنْ ذَلِكَ أَوْ أَكْثَرَ ، لَمْ تَقْطَعْ شَهَادَتُهُمَا شَيْئًا ، وَلَمْ تَجُزْ إِلَّا أَنْ يَكُونَ مَعَهُمَا شَاهِدٌ أَوْ يَمِينٌ . قَالَ مَالِك : وَمِنَ النَّاسِ مَنْ يَقُولُ : لَا تَكُونُ الْيَمِينُ مَعَ الشَّاهِدِ الْوَاحِدِ ، وَيَحْتَجُّ بِقَوْلِ اللَّهِ تَبَارَكَ وَتَعَالَى وَقَوْلُهُ الْحَقُّ : وَاسْتَشْهِدُوا شَهِيدَيْنِ مِنْ رِجَالِكُمْ فَإِنْ لَمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّنْ تَرْضَوْنَ مِنَ الشُّهَدَاءِ سورة البقرة آية 282 ، يَقُولُ : فَإِنْ لَمْ يَأْتِ بِرَجُلٍ وَامْرَأَتَيْنِ ، فَلَا شَيْءَ لَهُ ، وَلَا يُحَلَّفُ مَعَ شَاهِدِهِ . قَالَ مَالِك : فَمِنَ الْحُجَّةِ عَلَى مَنْ قَالَ ذَلِكَ الْقَوْلَ ، أَنْ يُقَالَ لَهُ : أَرَأَيْتَ لَوْ أَنَّ رَجُلًا ادَّعَى عَلَى رَجُلٍ مَالًا ، أَلَيْسَ يَحْلِفُ الْمَطْلُوبُ مَا ذَلِكَ الْحَقُّ عَلَيْهِ ؟ فَإِنْ حَلَفَ بَطَلَ ذَلِكَ عَنْهُ ، وَإِنْ نَكَلَ عَنِ الْيَمِينِ حُلِّفَ صَاحِبُ الْحَقِّ إِنَّ حَقَّهُ لَحَقٌّ وَثَبَتَ حَقُّهُ عَلَى صَاحِبِهِ ، فَهَذَا مَا لَا اخْتِلَافَ فِيهِ عِنْدَ أَحَدٍ مِنَ النَّاسِ وَلَا بِبَلَدٍ مِنَ الْبُلْدَانِ ، فَبِأَيِّ شَيْءٍ أَخَذَ هَذَا أَوْ فِي أَيِّ مَوْضِعٍ مِنْ كِتَابِ اللَّهِ وَجَدَهُ ؟ فَإِنْ أَقَرَّ بِهَذَا فَلْيُقْرِرْ بِالْيَمِينِ مَعَ الشَّاهِدِ ، وَإِنْ لَمْ يَكُنْ ذَلِكَ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ وَأَنَّهُ لَيَكْفِي مِنْ ذَلِكَ مَا مَضَى مِنَ السُّنَّةِ ، وَلَكِنْ الْمَرْءُ قَدْ يُحِبُّ أَنْ يَعْرِفَ وَجْهَ الصَّوَابِ وَمَوْقِعَ الْحُجَّةِ ، فَفِي هَذَا بَيَانُ مَا أَشْكَلَ مِنْ ذَلِكَ إِنْ شَاءَ اللَّهُ تَعَالَى * \"E374"
+    },
+    {
+      "hadith_id": 9409,
+      "book_id": 19,
+      "english_translation": "Legal discussion on inheritance and testimony when the deceased has both debts and claims.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Inheritance law",
+        "Testimony in estate disputes"
+      ],
+      "arabicText": "بَابُ الْقَضَاءِ فِيمَنْ هَلَكَ ، وَلَهُ دَيْنٌ ، وَعَلَيْهِ دَيْنٌ لَهُ فِيهِ شَاهِدٌ وَاحِدٌ"
+    },
+    {
+      "hadith_id": 9410,
+      "book_id": 19,
+      "english_translation": "Malik's ruling: When a man dies having a debt against him with one witness, and a debt to the people with one witness, his heirs refuse to take an oath on their rights along with their witness.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Inheritance disputes",
+        "Rules of testimony in debt cases"
+      ],
+      "arabicText": "@ قَالَ يَحْيَى : قَالَ مَالِك ، فِي الرَّجُلِ يَهْلِكُ وَلَهُ دَيْنٌ عَلَيْهِ شَاهِدٌ وَاحِدٌ ، وَعَلَيْهِ دَيْنٌ لِلنَّاسِ لَهُمْ فِيهِ شَاهِدٌ وَاحِدٌ ، فَيَأْبَى وَرَثَتُهُ أَنْ يَحْلِفُوا عَلَى حُقُوقِهِمْ مَعَ شَاهِدِهِمْ ، قَالَ : فَإِنَّ الْغُرَمَاءَ يَحْلِفُونَ وَيَأْخُذُونَ حُقُوقَهُمْ ، فَإِنْ فَضَلَ فَضْلٌ لَمْ يَكُنْ لِلْوَرَثَةِ مِنْهُ شَيْءٌ ، وَذَلِكَ أَنَّ الْأَيْمَانَ عُرِضَتْ عَلَيْهِمْ قَبْلُ فَتَرَكُوهَا ، إِلَّا أَنْ يَقُولُوا : لَمْ نَعْلَمْ لِصَاحِبِنَا فَضْلًا ، وَيُعْلَمُ أَنَّهُمْ إِنَّمَا تَرَكُوا الْأَيْمَانَ مِنْ أَجْلِ ذَلِكَ ، فَإِنِّي أَرَى أَنْ يَحْلِفُوا وَيَأْخُذُوا مَا بَقِيَ بَعْدَ دَيْنِهِ . #"
+    },
+    {
+      "hadith_id": 9412,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik: From Jamil ibn Abdul-Rahman: He used to witness Umar ibn Abdul Aziz ruling between people, and whenever a man came with a claim and one witness, he would rule for him with the oath.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جميل بن عبد الرحمن",
+              "full_name": "Jamil ibn Abdul-Rahman al-Muezzin",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمر بن عبد العزيز",
+              "full_name": "Umar ibn Abdul Aziz",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> جميل بن عبد الرحمن -> عمر بن عبد العزيز"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Umar ibn Abdul Aziz's judicial practice",
+        "Witness testimony in Islamic law"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ جَمِيلِ بْنِ عَبْدِ الرَّحْمَنِ الْمُؤَذِّنِ ، أَنَّهُ كَانَ يَحْضُرُ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ وَهُوَ يَقْضِي بَيْنَ النَّاسِ ، \" فَإِذَا جَاءَهُ الرَّجُلُ يَدَّعِي عَلَى الرَّجُلِ حَقًّا نَظَرَ ، فَإِنْ كَانَتْ بَيْنَهُمَا مُخَالَطَةٌ أَوْ مُلَابَسَةٌ ، أَحْلَفَ الَّذِي ادُّعِيَ عَلَيْهِ ، وَإِنْ لَمْ يَكُنْ شَيْءٌ مِنْ ذَلِكَ ، لَمْ يُحَلِّفْهُ \" . قَالَ مَالِك : وَعَلَى ذَلِكَ الْأَمْرُ عِنْدَنَا ، أَنَّهُ مَنِ ادَّعَى عَلَى رَجُلٍ بِدَعْوَى نُظِرَ ، فَإِنْ كَانَتْ بَيْنَهُمَا مُخَالَطَةٌ أَوْ مُلَابَسَةٌ ، أُحْلِفَ الْمُدَّعَى عَلَيْهِ ، فَإِنْ حَلَفَ بَطَلَ ذَلِكَ الْحَقُّ عَنْهُ ، وَإِنْ أَبَى أَنْ يَحْلِفَ وَرَدَّ الْيَمِينَ عَلَى الْمُدَّعِي فَحَلَفَ طَالِبُ الْحَقِّ ، أَخَذَ حَقَّهُ *"
+    },
+    {
+      "hadith_id": 9414,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik: From Hisham ibn Urwah: Abdullah ibn al-Zubayr ruled with the testimony of boys in matters of wounds between them.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "هشام بن عروة",
+              "full_name": "Hisham ibn Urwah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ikhtilat"
+              ]
+            },
+            {
+              "name": "عبد الله بن الزبير",
+              "full_name": "Abdullah ibn al-Zubayr",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> هشام بن عروة -> عبد الله بن الزبير"
+      ],
+      "potential_issues": [
+        {
+          "issue": "هشام بن عروة experienced ikhtilat in later life",
+          "impact": "Reliability depends on when narration was transmitted"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Evidence from minors in Islamic jurisprudence",
+        "Judicial ruling on children's testimony"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ هِشَامِ بْنِ عُرْوَةَ ، أَنَّ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ كَانَ \" يَقْضِي بِشَهَادَةِ الصِّبْيَانِ ، فِيمَا بَيْنَهُمْ مِنَ الْجِرَاحِ \" . قَالَ مَالِك : الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا ، أَنَّ شَهَادَةَ الصِّبْيَانِ تَجُوزُ فِيمَا بَيْنَهُمْ مِنَ الْجِرَاحِ ، وَلَا تَجُوزُ عَلَى غَيْرِهِمْ ، وَإِنَّمَا تَجُوزُ شَهَادَتُهُمْ فِيمَا بَيْنَهُمْ مِنَ الْجِرَاحِ وَحْدَهَا لَا تَجُوزُ فِي غَيْرِ ذَلِكَ إِذَا كَانَ ذَلِكَ قَبْلَ أَنْ يَتَفَرَّقُوا أَوْ يُخَبَّبُوا أَوْ يُعَلَّمُوا ، فَإِنِ افْتَرَقُوا فَلَا شَهَادَةَ لَهُمْ إِلَّا أَنْ يَكُونُوا قَدْ أَشْهَدُوا الْعُدُولَ عَلَى شَهَادَتِهِمْ قَبْلَ أَنْ يَفْتَرِقُوا * E375"
+    },
+    {
+      "hadith_id": 9416,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik from Hashim ibn Hashim from Abdullah ibn Nisṭas from Jabir ibn Abdullah: The Messenger of Allah (ﷺ) ruled with the oath along with the witness.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "هاشم بن هاشم",
+              "full_name": "Hashim ibn Hashim",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن نسطاس",
+              "full_name": "Abdullah ibn Nisṭas",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جابر بن عبد الله",
+              "full_name": "Jabir ibn Abdullah al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> هاشم بن هاشم -> عبد الله بن نسطاس -> جابر بن عبد الله -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Judicial ruling on testimony and oaths",
+        "The Prophet's jurisprudence"
+      ],
+      "arabicText": "$1385 1388 قَالَ يَحْيَى : حَدَّثَنَا مَالِك ، عَنْ هَاشِمِ بْنِ هَاشِمِ بْنِ عُتْبَةَ بْنِ أَبِي وَقَّاصٍ ، عَنْ عَبْدِ اللَّهِ بْنِ نِسْطَاسٍ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ الْأَنْصَارِيِّ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَنْ حَلَفَ عَلَى مِنْبَرِي آثِمًا ، تَبَوَّأَ مَقْعَدَهُ مِنَ النَّارِ \" * $1386 1389"
+    },
+    {
+      "hadith_id": 9417,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik from al-A'la ibn Abdul-Rahman from Mu'abad ibn Ka'b from his brother Abdullah ibn Ka'b from Abu Umamah: The Messenger of Allah (ﷺ) said...",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "العلاء بن عبد الرحمن",
+              "full_name": "al-A'la ibn Abdul-Rahman",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "معبد بن كعب",
+              "full_name": "Mu'abad ibn Ka'b al-Salami",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن كعب",
+              "full_name": "Abdullah ibn Ka'b al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو امامة",
+              "full_name": "Abu Umamah al-Bahili",
+              "grade": "Thiqah",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> العلاء بن عبد الرحمن -> معبد بن كعب -> عبد الله بن كعب -> ابو امامة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Hadith transmission",
+        "Jurisprudence on testimony"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ الْعَلَاءِ بْنِ عَبْدِ الرَّحْمَنِ ، عَنْ مَعْبَدِ بْنِ كَعْبٍ السَّلَمِيِّ ، عَنْ أَخِيهِ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ الْأَنْصَارِيِّ ، عَنْ أَبِي أُمَامَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَنِ اقْتَطَعَ حَقَّ امْرِئٍ مُسْلِمٍ بِيَمِينِهِ ، حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَأَوْجَبَ لَهُ النَّارَ \" . قَالُوا : وَإِنْ كَانَ شَيْئًا يَسِيرًا يَا رَسُولَ اللَّهِ ؟ قَالَ : \" وَإِنْ كَانَ قَضِيبًا مِنْ أَرَاكٍ ، وَإِنْ كَانَ قَضِيبًا مِنْ أَرَاكٍ ، وَإِنْ كَانَ قَضِيبًا مِنْ أَرَاكٍ \" . قَالَهَا ثَلَاثَ مَرَّاتٍ *"
+    },
+    {
+      "hadith_id": 9419,
+      "book_id": 19,
+      "english_translation": "Narrated by Malik: From Dawud ibn al-Husayn: He heard Abu Ghatafan ibn Tarif al-Murri say: Zaid ibn Thabit and Ibn Mu'ti disputed regarding a debt...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "داود بن الحصين",
+              "full_name": "Dawud ibn al-Husayn",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو غطفان",
+              "full_name": "Abu Ghatafan ibn Tarif",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مالك -> داود بن الحصين -> ابو غطفان"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of judicial dispute resolution",
+        "Testimony and oaths in Islamic jurisprudence"
+      ],
+      "arabicText": "قَالَ يَحْيَى : قَالَ مَالِك : عَنْ دَاوُدَ بْنِ الْحُصَيْنِ ، أَنَّهُ سَمِعَ أَبَا غَطَفَانَ بْنَ طَرِيفٍ الْمُرِّيَّ ، يَقُولُ : \" اخْتَصَمَ زَيْدُ بْنُ ثَابِتٍ الْأَنْصَارِيُّ ، وَابْنُ مُطِيعٍ فِي دَارٍ كَانَتْ بَيْنَهُمَا ، إِلَى مَرْوَانَ بْنِ الْحَكَمِ وَهُوَ أَمِيرٌ عَلَى الْمَدِينَةِ ، فَقَضَى مَرْوَانُ عَلَى زَيْدِ بْنِ ثَابِتٍ بِالْيَمِينِ عَلَى الْمِنْبَرِ ، فَقَالَ زَيْدُ بْنُ ثَابِتٍ : أَحْلِفُ لَهُ مَكَانِي . قَالَ : فَقَالَ مَرْوَانُ : \" لَا وَاللَّهِ إِلَّا عِنْدَ مَقَاطِعِ الْحُقُوقِ \" . قَالَ : فَجَعَلَ زَيْدُ بْنُ ثَابِتٍ يَحْلِفُ أَنَّ حَقَّهُ لَحَقٌّ ، وَيَأْبَى أَنْ يَحْلِفَ عَلَى الْمِنْبَرِ . قَالَ : فَجَعَلَ مَرْوَانُ بْنُ الْحَكَمِ يَعْجَبُ مِنْ ذَلِكَ \" . قَالَ مَالِك : لَا أَرَى أَنْ يُحَلَّفَ أَحَدٌ عَلَى الْمِنْبَرِ عَلَى أَقَلَّ مِنْ رُبُعِ دِينَارٍ وَذَلِكَ ثَلَاثَةُ دَرَاهِمَ * E376"
+    }
+  ],
+  "statistics": {
+    "total_processed": 10,
+    "iis_grades_distribution": {
+      "Perfect": 0,
+      "Sound": 5,
+      "Acceptable": 1,
+      "Questionable But Might Be Acceptable": 4,
+      "Weak But Might Be Acceptable": 0,
+      "Problematic": 0
+    }
+  }
+}

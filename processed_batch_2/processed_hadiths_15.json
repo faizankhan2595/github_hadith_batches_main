@@ -1,0 +1,661 @@
+{
+  "batch_number": 2,
+  "file_number": 15,
+  "processed_count": 9,
+  "hadiths": [
+    {
+      "hadith_id": 9212,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Yahya ibn Sa'id, from Salim ibn Abdullah, that Abdullah ibn Umar sold a slave of his for eight hundred dirhams and sold him with a declaration of freedom from defects. The one who bought him said to Abdullah ibn Umar: 'The slave has a disease which you did not name to me.' So they took their dispute to Uthman ibn Affan. The man said: 'He sold me a slave who has a disease which he did not name.' And Abdullah said: 'I sold him with a declaration of freedom from defects.' Uthman ibn Affan ruled that Abdullah ibn Umar should swear an oath that he had sold the slave and there was no disease in him that he knew of. Abdullah refused to swear the oath and took back the slave. The slave became healthy in his possession, and Abdullah sold him afterwards for one thousand five hundred dirhams.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سالم بن عبد الله",
+              "full_name": "سالم بن عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عمر",
+              "full_name": "عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> يحيى بن سعيد الأنصاري -> سالم بن عبد الله -> عبد الله بن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' (indirect term) from Malik - However, Malik is extremely reliable and this is his direct narration in his own book (Muwatta)",
+          "impact": "Minimal impact - Malik's reliability is unquestionable and this is from his own compilation"
+        },
+        {
+          "issue": "Use of 'عَنْ' throughout the chain except for the first narrator",
+          "impact": "Minor - All narrators are highly reliable (Thiqah Thabt or higher) and the chain is from Muwatta Malik, a well-established source"
+        },
+        {
+          "issue": "This is a mawquf narration (stops at Companion Abdullah ibn Umar, not marfu' to the Prophet ﷺ)",
+          "impact": "This is an athar (report from a Companion) showing a legal ruling, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Abdullah ibn Umar selling a slave with defects",
+        "Uthman ibn Affan's ruling on sale disputes",
+        "Sale with declaration of freedom from defects (البراءة)",
+        "Oath requirement in commercial disputes"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 سَالِمِ بْنِ عَبْدِ اللَّهِ L3194 /26 ، /27 أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ بَاعَ غُلَامًا لَهُ بِثَمَانِ مِائَةِ دِرْهَمٍ ، وَبَاعَهُ بِالْبَرَاءَةِ ، فَقَالَ الَّذِي ابْتَاعَهُ لِعَبْدِ اللَّهِ بْنِ عُمَرَ : بِالْغُلَامِ دَاءٌ لَمْ تُسَمِّهِ لِي ، فَاخْتَصَمَا إِلَى عُثْمَانَ بْنِ عَفَّانَ ، فَقَالَ الرَّجُلُ : بَاعَنِي عَبْدًا وَبِهِ دَاءٌ لَمْ يُسَمِّهِ ، وَقَالَ عَبْدُ اللَّهِ : بِعْتُهُ بِالْبَرَاءَةِ ، /20 \" فَقَضَى /93 عُثْمَانُ بْنُ عَفَّانَ L5543 /93 عَلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنْ يَحْلِفَ لَهُ لَقَدْ بَاعَهُ الْعَبْدَ ، وَمَا بِهِ دَاءٌ يَعْلَمُهُ \" ، فَأَبَى عَبْدُ اللَّهِ أَنْ يَحْلِفَ ، وَارْتَجَعَ الْعَبْدَ ، فَصَحَّ عِنْدَهُ ، فَبَاعَهُ عَبْدُ اللَّهِ بَعْدَ ذَلِكَ بِأَلْفٍ وَخَمْسِ مِائَةِ دِرْهَمٍ /27 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا : أَنَّ كُلَّ مَنِ ابْتَاعَ وَلِيدَةً فَحَمَلَتْ ، أَوْ عَبْدًا فَأَعْتَقَهُ ، وَكُلَّ أَمْرٍ دَخَلَهُ الْفَوْتُ حَتَّى لَا يُسْتَطَاعَ رَدُّهُ ، فَقَامَتِ الْبَيِّنَةُ إِنَّهُ قَدْ كَانَ بِهِ عَيْبٌ عِنْدَ الَّذِي بَاعَهُ ، أَوْ عُلِمَ ذَلِكَ بِاعْتِرَافٍ مِنَ الْبَائِعِ أَوْ غَيْرِهِ ، فَإِنَّ الْعَبْدَ أَوِ الْوَلِيدَةَ يُقَوَّمُ وَبِهِ الْعَيْبُ الَّذِي كَانَ بِهِ يَوْمَ اشْتَرَاهُ ، فَيُرَدُّ مِنَ الثَّمَنِ قَدْرُ مَا بَيْنَ قِيمَتِهِ صَحِيحًا ، وَقِيمَتِهِ وَبِهِ ذَلِكَ الْعَيْبُ /10 . قَالَ /12 مَالِكٌ /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا فِي الرَّجُلِ يَشْتَرِي الْعَبْدَ ، ثُمَّ يَظْهَرُ مِنْهُ عَلَى عَيْبٍ يَرُدُّهُ مِنْهُ ، وَقَدْ حَدَثَ بِهِ عِنْدَ الْمُشْتَرِي عَيْبٌ آخَرُ ، إِنَّهُ إِذَا كَانَ الْعَيْبُ الَّذِي حَدَثَ بِهِ مُفْسِدًا ، مِثْلُ الْقَطْعِ ، أَوِ الْعَوَرِ ، أَوْ مَا أَشْبَهَ ذَلِكَ مِنَ الْعُيُوبِ الْمُفْسِدَةِ ، فَإِنَّ الَّذِي اشْتَرَى الْعَبْدَ بِخَيْرِ النَّظَرَيْنِ ، إِنْ أَحَبَّ أَنْ يُوضَعَ عَنْهُ مِنْ ثَمَنِ الْعَبْدِ ، بِقَدْرِ الْعَيْبِ الَّذِي كَانَ بِالْعَبْدِ يَوْمَ اشْتَرَاهُ ، وُضِعَ عَنْهُ ، وَإِنْ أَحَبَّ أَنْ يَغْرَمَ قَدْرَ مَا أَصَابَ الْعَبْدَ مِنَ الْعَيْبِ عِنْدَهُ ، ثُمَّ يَرُدُّ الْعَبْدَ ، فَذَلِكَ لَهُ ، وَإِنْ مَاتَ الْعَبْدُ عِنْدَ الَّذِي اشْتَرَاهُ ، أُقِيمَ الْعَبْدُ وَبِهِ الْعَيْبُ الَّذِي كَانَ بِهِ يَوْمَ اشْتَرَاهُ ، فَيُنْظَرُ كَمْ ثَمَنُهُ ؟ فَإِنْ كَانَتْ قِيمَةُ الْعَبْدِ يَوْمَ اشْتَرَاهُ بِغَيْرِ عَيْبٍ مِائَةَ دِينَارٍ ، وَقِيمَتُهُ يَوْمَ اشْتَرَاهُ وَبِهِ الْعَيْبُ ثَمَانُونَ دِينَارًا ، وُضِعَ عَنِ الْمُشْتَرِي مَا بَيْنَ الْقِيمَتَيْنِ ، وَإِنَّمَا تَكُونُ الْقِيمَةُ يَوْمَ اشْتُرِيَ الْعَبْدُ /10 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا : أَنَّ مَنْ رَدَّ وَلِيدَةً مِنْ عَيْبٍ وَجَدَهُ بِهَا ، وَكَانَ قَدْ أَصَابَهَا ، أَنَّهَا إِنْ كَانَتْ بِكْرًا فَعَلَيْهِ مَا نَقَصَ مِنْ ثَمَنِهَا ، وَإِنْ كَانَتْ ثَيِّبًا فَلَيْسَ عَلَيْهِ فِي إِصَابَتِهِ إِيَّاهَا شَيْءٌ ، لِأَنَّهُ كَانَ ضَامِنًا لَهَا /10 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا فِيمَنْ بَاعَ عَبْدًا ، أَوْ وَلِيدَةً ، أَوْ حَيَوَانًا بِالْبَرَاءَةِ مِنْ أَهْلِ الْمِيرَاثِ ، أَوْ غَيْرِهِمْ : فَقَدْ بَرِئَ مِنْ كُلِّ عَيْبٍ فِيمَا بَاعَ ، إِلَّا أَنْ يَكُونَ عَلِمَ فِي ذَلِكَ عَيْبًا ، فَكَتَمَهُ ، فَإِنْ كَانَ عَلِمَ عَيْبًا فَكَتَمَهُ ، لَمْ تَنْفَعْهُ تَبْرِئَتُهُ ، وَكَانَ مَا بَاعَ مَرْدُودًا عَلَيْهِ /10 . قَالَ /12 مَالِك /12 فِي الْجَارِيَةِ تُبَاعُ بِالْجَارِيتَيْنِ ، ثُمَّ يُوجَدُ بِإِحْدَى الْجَارِيَتَيْنِ عَيْبٌ تُرَدُّ مِنْهُ ، قَالَ : /10 تُقَامُ الْجَارِيَةُ الَّتِي كَانَتْ قِيمَةَ الْجَارِيَتَيْنِ ، فَيُنْظَرُ كَمْ ثَمَنُهَا ، ثُمَّ تُقَامُ الْجَارِيتَانِ بِغَيْرِ الْعَيْبِ الَّذِي وُجِدَ بِإِحْدَاهُمَا ، تُقَامَانِ صَحِيحَتَيْنِ سَالِمَتَيْنِ ، ثُمَّ يُقْسَمُ ثَمَنُ الْجَارِيَةِ الَّتِي بِيعَتْ بِالْجَارِيتَيْنِ عَلَيْهِمَا بِقَدْرِ ثَمَنِهِمَا ، حَتَّى يَقَعَ عَلَى كُلِّ وَاحِدَةٍ مِنْهُمَا حِصَّتُهَا مِنْ ذَلِكَ عَلَى الْمُرْتَفِعَةِ ، بِقَدْرِ ارْتِفَاعِهَا ، وَعَلَى الْأُخْرَى بِقَدْرِهَا ، ثُمَّ يُنْظَرُ إِلَى الَّتِي بِهَا الْعَيْبُ ، فَيُرَدُّ بِقَدْرِ الَّذِي وَقَعَ عَلَيْهَا مِنْ تِلْكَ الْحِصَّةِ ، إِنْ كَانَتْ كَثِيرَةً أَوْ قَلِيلَةً ، وَإِنَّمَا تَكُونُ قِيمَةُ الْجَارِيَتَيْنِ عَلَيْهِ يَوْمَ قَبْضِهِمَا /10 . قَالَ /12 مَالِكٌ /12 فِي الرَّجُلِ يَشْتَرِي الْعَبْدَ ، فَيُؤَاجِرُهُ بِالْإِجَارَةِ الْعَظِيمَةِ ، أَوِ الْغَلَّةِ الْقَلِيلَةِ ، ثُمَّ يَجِدُ بِهِ عَيْبًا يُرَدُّ مِنْهُ : /10 إِنَّهُ يَرُدُّهُ بِذَلِكَ الْعَيْبِ ، وَتَكُونُ لَهُ إِجَارَتُهُ وَغَلَّتُهُ ، وَهَذَا الْأَمْرُ الَّذِي كَانَتْ عَلَيْهِ الْجَمَاعَةُ بِبَلَدِنَا ، وَذَلِكَ لَوْ أَنَّ رَجُلًا ابْتَاعَ عَبْدًا ، فَبَنَى لَهُ دَارًا قِيمَةُ بِنَائِهَا ثَمَنُ الْعَبْدِ أَضْعَافًا ، ثُمَّ وَجَدَ بِهِ عَيْبًا يُرَدُّ مِنْهُ رَدَّهُ ، وَلَا يُحْسَبُ لِلْعَبْدِ عَلَيْهِ إِجَارَةٌ فِيمَا عَمِلَ لَهُ ، فَكَذَلِكَ تَكُونُ لَهُ إِجَارَتُهُ إِذَا آجَرَهُ مِنْ غَيْرِهِ ، لِأَنَّهُ ضَامِنٌ لَهُ ، وَهَذَا الْأَمْرُ عِنْدَنَا . /10 قَالَ /12 مَالِكٌ /12 : /10 الْأَمْرُ عِنْدَنَا فِيمَنِ ابْتَاعَ رَقِيقًا فِي صَفْقَةٍ وَاحِدَةٍ ، فَوَجَدَ فِي ذَلِكَ الرَّقِيقِ عَبْدًا مَسْرُوقًا ، أَوْ وَجَدَ بِعَبْدٍ مِنْهُمْ عَيْبًا ، إِنَّهُ يُنْظَرُ فِيمَا وُجِدَ مَسْرُوقًا ، أَوْ وَجَدَ بِهِ عَيْبًا ، فَإِنْ كَانَ هُوَ وَجْهَ ذَلِكَ الرَّقِيقِ ، أَوْ أَكْثَرَهُ ثَمَنًا ، أَوْ مِنْ أَجْلِهِ اشْتَرَى ، وَهُوَ الَّذِي فِيهِ الْفَضْلُ فِيمَا يَرَى النَّاسُ ، كَانَ ذَلِكَ الْبَيْعُ مَرْدُودًا كُلُّهُ ، وَإِنْ كَانَ الَّذِي وُجِدَ مَسْرُوقًا ، أَوْ وُجِدَ بِهِ الْعَيْبُ مِنْ ذَلِكَ الرَّقِيقِ فِي الشَّيْءِ الْيَسِيرِ مِنْهُ ، لَيْسَ هُوَ وَجْهَ ذَلِكَ الرَّقِيقِ ، وَلَا مِنْ أَجْلِهِ اشْتُرِيَ ، وَلَا فِيهِ الْفَضْلُ فِيمَا يَرَى النَّاسُ رُدَّ ذَلِكَ الَّذِي وُجِدَ بِهِ الْعَيْبُ ، أَوْ وُجِدَ مَسْرُوقًا بِعَيْنِهِ ، بِقَدْرِ قِيمَتِهِ مِنَ الثَّمَنِ الَّذِي اشْتَرَى بِهِ أُولَئِكَ الرَّقِيقَ /10 * \r\n\u001eE323",
+      "collection": "Muwatta Malik",
+      "reference_number": 1508,
+      "grade": "Sahih (Mawquf)"
+    },
+    {
+      "hadith_id": 9214,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Nafi', from Abdullah ibn Umar, that he used to say: 'One who buys a slave and finds a defect in him which was not mentioned to him, he can return him with that defect, whether it be small or large.' Malik said: 'The generally agreed upon matter with us concerning one who buys a slave or slave-girl who becomes pregnant or dies, or one who buys a garment which is cut or dyed, or any matter in which alteration has occurred such that it cannot be returned, and then proof is established that there was a defect present at the seller when he sold it, or this is known by an admission from the seller or someone else, the slave or slave-girl is evaluated with the defect which was in them on the day they were bought, and the difference between the price when healthy and the price with that defect is refunded from the price.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "نافع مولى عبد الله بن عمر العدوي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عمر",
+              "full_name": "عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> نافع مولى ابن عمر -> عبد الله بن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' from Malik and Nafi' - However, both are extremely reliable. The chain Malik -> Nafi' -> Ibn Umar is the famous 'Golden Chain' (السلسلة الذهبية)",
+          "impact": "No impact - This is one of the most authentic chains in hadith literature"
+        },
+        {
+          "issue": "Mawquf narration (statement of Companion, not from Prophet ﷺ)",
+          "impact": "This is a legal opinion from Abdullah ibn Umar, not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Returning defective slaves",
+        "Commercial transaction rules",
+        "Defect disclosure in sales"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، أَنَّ /26 عُبَيْدَ اللَّهِ بْنَ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ L5409 /26 أَخْبَرَهُ ، /27 أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ ابْتَاعَ جَارِيَةً مِنَ امْرَأَتِهِ /64 زَيْنَبَ الثَّقَفِيَّةِ /64 ، وَاشْتَرَطَتْ عَلَيْهِ أَنَّكَ إِنْ بِعْتَهَا فَهِيَ لِي بِالثَّمَنِ الَّذِي تَبِيعُهَا بِهِ ، فَسَأَلَ عَبْدُ اللَّهِ بْنُ مَسْعُودٍ ، عَنْ ذَلِكَ عُمَرَ بْنَ الْخَطَّابِ ، فَقَالَ /93 عُمَرُ بْنُ الْخَطَّابِ L5913 /93 /20 \" لَا تَقْرَبْهَا ، وَفِيهَا شَرْطٌ لِأَحَدٍ \" /27 * \r\n$1269  1272 /3",
+      "collection": "Muwatta Malik",
+      "reference_number": 1510,
+      "grade": "Sahih (Mawquf)"
+    },
+    {
+      "hadith_id": 9215,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Yahya ibn Sa'id, from Salim ibn Abdullah, from Abdullah ibn Umar, that a man mentioned to the Messenger of Allah ﷺ that he was being deceived in business transactions. The Messenger of Allah ﷺ said: 'When you engage in a transaction, say: No deception.' He (Abdullah ibn Umar) used to say that when he made a purchase.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سالم بن عبد الله",
+              "full_name": "سالم بن عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عمر",
+              "full_name": "عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> يحيى بن سعيد الأنصاري -> سالم بن عبد الله -> عبد الله بن عمر -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' from Malik, Yahya ibn Sa'id, and Salim",
+          "impact": "Minimal - All narrators are of the highest reliability (Thiqah Thabt or Thabt Hujjah)"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Protection from deception in business",
+        "Prophetic guidance on commercial transactions",
+        "Saying 'No deception' in sales"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّهُ كَانَ يَقُولُ : /20 \" لَا يَطَأُ الرَّجُلُ وَلِيدَةً إِلَّا وَلِيدَةً إِنْ شَاءَ بَاعَهَا ، وَإِنْ شَاءَ وَهَبَهَا ، وَإِنْ شَاءَ أَمْسَكَهَا ، وَإِنْ شَاءَ صَنَعَ بِهَا مَا شَاءَ \" /27 . قَالَ /12 مَالِكٌ /12 فِيمَنِ اشْتَرَى جَارِيَةً عَلَى شَرْطِ أَنْ لَا يَبِيعَهَا ، وَلَا يَهَبَهَا ، أَوْ مَا أَشْبَهَ ذَلِكَ مِنَ الشُّرُوطِ : /10 فَإِنَّهُ لَا يَنْبَغِي لِلْمُشْتَرِي أَنْ يَطَأَهَا ، وَذَلِكَ أَنَّهُ لَا يَجُوزُ لَهُ أَنْ يَبِيعَهَا ، وَلَا أَنْ يَهَبَهَا ، فَإِنْ كَانَ لَا يَمْلِكُ ذَلِكَ مِنْهَا ، فَلَمْ يَمْلِكْهَا مِلْكًا تَامًّا ، لِأَنَّهُ قَدِ اسْتُثْنِيَ عَلَيْهِ فِيهَا مَا مَلَكَهُ بِيَدِ غَيْرِهِ ، فَإِذَا دَخَلَ هَذَا الشَّرْطُ لَمْ يَصْلُحْ ، وَكَانَ بَيْعًا مَكْرُوهًا /10 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1511,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9217,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Nafi', from Abdullah ibn Umar, from Aisha, the Mother of the Believers, that the Messenger of Allah ﷺ said: 'Any woman who marries without the permission of her guardian, her marriage is invalid, her marriage is invalid, her marriage is invalid. If he (the husband) has consummated the marriage with her, she is entitled to the bridal money for what he made lawful of her private parts. If they disagree, the Sultan (ruler) is the guardian of one who has no guardian.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "نافع مولى عبد الله بن عمر العدوي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عمر",
+              "full_name": "عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "عائشة بنت أبي بكر الصديق رضي الله عنهما",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> نافع -> عبد الله بن عمر -> عائشة أم المؤمنين -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This chain includes Abdullah ibn Umar narrating from Aisha. While both are Companions, there is scholarly debate about whether Ibn Umar actually heard this specific hadith directly from Aisha",
+          "impact": "Some scholars consider this chain to have a potential disconnection between Ibn Umar and Aisha, though the hadith is authenticated through other chains"
+        },
+        {
+          "issue": "Use of 'عَنْ' throughout the chain",
+          "impact": "Minor - The narrators are all highly reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Marriage contract requirements",
+        "Guardian's permission in marriage",
+        "Invalid marriages",
+        "Ruler as guardian for those without guardians"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، /27 أَنَّ عَبْدَ اللَّهِ بْنَ عَامِرٍ أَهْدَى لِعُثْمَانَ بْنِ عَفَّانَ جَارِيَةً ، وَلَهَا زَوْجٌ ابْتَاعَهَا /60 بِالْبَصْرَةِ /60 ، فَقَالَ /93 عُثْمَانُ L5543 /93 : /20 \" لَا أَقْرَبُهَا حَتَّى يُفَارِقَهَا زَوْجُهَا \" ، فَأَرْضَى ابْنُ عَامِرٍ زَوْجَهَا ، فَفَارَقَهَا /27 * \r\n$1271  1274 /3 /141 وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ L4903 /26 ، /27 أَنَّ /93 عَبْدَ الرَّحْمَنِ بْنَ عَوْفٍ L4461 /93 /20 \" ابْتَاعَ وَلِيدَةً ، فَوَجَدَهَا ذَاتَ زَوْجٍ ، فَرَدَّهَا \" /27 * \r\n\"E324",
+      "collection": "Muwatta Malik",
+      "reference_number": 1513,
+      "grade": "Hasan"
+    },
+    {
+      "hadith_id": 9219,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Ibn Shihab, from Urwah ibn al-Zubayr, from Aisha, the Mother of the Believers, that the Messenger of Allah ﷺ said: 'Any woman who marries without the permission of her guardian, her marriage is invalid, her marriage is invalid, her marriage is invalid. If he has consummated the marriage with her, she is entitled to the bridal money for what he made lawful of her private parts. If they disagree, the Sultan is the guardian of one who has no guardian.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن شهاب",
+              "full_name": "محمد بن مسلم بن عبيد الله بن شهاب الزهري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 2-3"
+              ]
+            },
+            {
+              "name": "عروة بن الزبير",
+              "full_name": "عروة بن الزبير بن العوام الأسدي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "عائشة بنت أبي بكر الصديق رضي الله عنهما",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> ابن شهاب الزهري -> عروة بن الزبير -> عائشة أم المؤمنين -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 2-3 according to some scholars) and uses 'عَنْ' here",
+          "impact": "Minimal - Al-Zuhri is extremely reliable and his tadlis is considered minor. The majority of scholars accept his narrations with 'عَنْ' given his high status"
+        },
+        {
+          "issue": "Use of 'عَنْ' throughout the chain",
+          "impact": "Minor - All narrators are highly reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Marriage contract requirements",
+        "Guardian's permission in marriage",
+        "Invalid marriages",
+        "Ruler as guardian for those without guardians"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" مَنْ بَاعَ /60 نَخْلًا /60 قَدْ أُبِّرَتْ ، فَثَمَرُهَا لِلْبَائِعِ إِلَّا أَنْ يَشْتَرِطَ الْمُبْتَاعُ \" /27 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 1515,
+      "grade": "Sahih"
+    },
+    {
+      "hadith_id": 9221,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Yahya ibn Sa'id, that Sa'id ibn al-Musayyab said: 'Umar ibn al-Khattab refused to marry his daughter to the son of Ali ibn Abi Talib, and he said: \"She is not of marriageable age.\"' Yahya ibn Sa'id said: 'I heard al-Qasim ibn Muhammad say that a daughter of his reached the age of nine years and he gave her in marriage.' Malik said: 'The generally agreed upon matter with us is that when a girl reaches nine years, she is not married except with her permission. If she is married before that, it does not require her permission, and she has no choice in the matter when she reaches maturity.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سعيد بن المسيب",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> يحيى بن سعيد الأنصاري -> سعيد بن المسيب"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration reporting the action of Umar ibn al-Khattab, not a prophetic hadith",
+          "impact": "This is an athar (report from a Companion/Successor) showing a legal opinion"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Age of marriage for girls",
+        "Permission required for marriage of mature girls",
+        "Umar ibn al-Khattab's ruling on marriageable age"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنِ /93 ابْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى عَنْ بَيْعِ الثِّمَارِ حَتَّى يَبْدُوَ صَلَاحُهَا ، نَهَى الْبَائِعَ وَالْمُشْتَرِيَ \" /27 * \r\n$1274  1277 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 1517,
+      "grade": "Sahih (Mawquf)"
+    },
+    {
+      "hadith_id": 9222,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Yahya ibn Sa'id, from Sa'id ibn al-Musayyab, that Umar ibn al-Khattab said: 'A woman is not married by her command (alone), nor does she marry herself, nor is a woman married except by (the permission of) her guardian.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سعيد بن المسيب",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمر بن الخطاب",
+              "full_name": "عمر بن الخطاب بن نفيل العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> يحيى بن سعيد الأنصاري -> سعيد بن المسيب -> عمر بن الخطاب"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (statement of Companion Umar ibn al-Khattab, not from the Prophet ﷺ)",
+          "impact": "This is an athar showing Umar's legal ruling, not a prophetic hadith"
+        },
+        {
+          "issue": "Sa'id ibn al-Musayyab did not meet Umar ibn al-Khattab - this is mursal (disconnected)",
+          "impact": "There is a missing link in the chain. However, Sa'id ibn al-Musayyab's mursal reports are considered among the strongest"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Guardian requirement for marriage",
+        "Women's marriage contracts",
+        "Umar ibn al-Khattab's ruling on marriage"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 حُمَيْدٍ الطَّوِيلِ L2531 /94 ، /27 عَنْ /93 أَنَسِ بْنِ مَالِكٍ L720 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" نَهَى عَنْ بَيْعِ الثِّمَارِ حَتَّى تُزْهِيَ \" ، فَقِيلَ لَهُ : يَا رَسُولَ اللَّهِ ، وَمَا تُزْهِيَ ؟ فَقَالَ : \" حِينَ تَحْمَرُّ \" ، وَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" أَرَأَيْتَ إِذَا مَنَعَ اللَّهُ الثَّمَرَةَ ، فَبِمَ يَأْخُذُ أَحَدُكُمْ مَالَ أَخِيهِ \" /27 * \r\n$1275  1278 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 1518,
+      "grade": "Mursal (Disconnected but acceptable)"
+    },
+    {
+      "hadith_id": 9223,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, that he had heard that al-Qasim ibn Muhammad and Salim ibn Abdullah and Sulayman ibn Yasar were asked about a virgin girl whose father married her without her permission. They said: 'It is binding upon her.' Malik said: 'That is the matter with us.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَنَّهُ بَلَغَهُ",
+              "reliabilityIssues": [
+                "balaghat - mursal report"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This uses 'balagha' (it reached him) indicating an incomplete chain between Malik and the scholars mentioned"
+          ]
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> [missing chain] -> القاسم بن محمد وسالم بن عبد الله وسليمان بن يسار"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a balaghat (بَلَغَهُ - 'it reached him') report, meaning there is a missing chain between Malik and the scholars he quotes",
+          "impact": "The chain is incomplete (mursal/mu'dal). However, Malik's balaghat reports in his Muwatta are generally considered reliable as he was careful about what he included"
+        },
+        {
+          "issue": "This reports the legal opinion of Tabi'un scholars, not a hadith from the Prophet ﷺ",
+          "impact": "This is a fiqhi opinion, not a prophetic narration"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Father's authority to marry virgin daughter",
+        "Marriage consent for virgins",
+        "Legal opinions of early scholars"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الرِّجَالِ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ حَارِثَةَ L7065 /94 ، عَنْ أُمِّهِ /26 عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ L6058 /26 ، /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى عَنْ بَيْعِ الثِّمَارِ حَتَّى تَنْجُوَ مِنَ الْعَاهَةِ \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَبَيْعُ الثِّمَارِ قَبْلَ أَنْ يَبْدُوَ صَلَاحُهَا مِنْ بَيْعِ الْغَرَرِ /10 * \r\n$1276  1279 /3",
+      "collection": "Muwatta Malik",
+      "reference_number": 1519,
+      "grade": "Mursal (Disconnected)"
+    },
+    {
+      "hadith_id": 9224,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Yahya narrated to me from Malik, from Abd al-Rahman ibn al-Qasim, from his father, that Aisha, the wife of the Prophet ﷺ, married Hafsah bint Abd al-Rahman to al-Mundhir ibn al-Zubayr while Abd al-Rahman was away in Syria. When Abd al-Rahman arrived, he said: 'Would someone like me have this done to him? Would someone like me have this done without his command?' Aisha spoke to al-Mundhir ibn al-Zubayr, and al-Mundhir said: 'That is in the hand of Abd al-Rahman.' Abd al-Rahman said: 'I will not oppose something that you have already completed.' So Hafsah remained with al-Mundhir, and there was no divorce.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن يحيى بن كثير الليثي النيسابوري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الرحمن بن القاسم",
+              "full_name": "عبد الرحمن بن القاسم بن محمد بن أبي بكر الصديق",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "القاسم",
+              "full_name": "القاسم بن محمد بن أبي بكر الصديق",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "عائشة بنت أبي بكر الصديق رضي الله عنهما",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن يحيى الليثي -> مالك بن أنس -> عبد الرحمن بن القاسم -> القاسم بن محمد -> عائشة أم المؤمنين"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration reporting an incident involving Aisha, not a prophetic hadith",
+          "impact": "This is a historical report showing how Companions handled marriage issues"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Aisha marrying Hafsah bint Abd al-Rahman",
+        "Guardian's permission in marriage",
+        "Completion of marriage contracts"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 أَبِي الزِّنَادِ L4798 /94 ، عَنْ /26 خَارِجَةَ بْنِ زَيْدِ بْنِ ثَابِتٍ L2607 /26 ، /27 عَنْ /93 زَيْدِ بْنِ ثَابِتٍ L3131 /93 \" أَنَّهُ /20 كَانَ لَا يَبِيعُ ثِمَارَهُ ، حَتَّى تَطْلُعَ الثُّرَيَّا \" /27 . قَالَ /12 مَالِكٌ /12 : /10 وَالْأَمْرُ عِنْدَنَا فِي بَيْعِ الْبِطِّيخِ ، وَالْقِثَّاءِ ، وَالْخِرْبِزِ ، وَالْجَزَرِ إِنَّ بَيْعَهُ إِذَا بَدَا صَلَاحُهُ حَلَالٌ جَائِزٌ ، ثُمَّ يَكُونُ لِلْمُشْتَرِي مَا يَنْبُتُ حَتَّى يَنْقَطِعَ ثَمَرُهُ وَيَهْلِكَ ، وَلَيْسَ فِي ذَلِكَ وَقْتٌ يُؤَقَّتُ ، وَذَلِكَ أَنَّ وَقْتَهُ مَعْرُوفٌ عِنْدَ النَّاسِ ، وَرُبَّمَا دَخَلَتْهُ الْعَاهَةُ ، فَقَطَعَتْ ثَمَرَتَهُ قَبْلَ أَنْ يَأْتِيَ ذَلِكَ الْوَقْتُ ، فَإِذَا دَخَلَتْهُ الْعَاهَةُ بِجَائِحَةٍ تَبْلُغُ الثُّلُثَ فَصَاعِدًا ، كَانَ ذَلِكَ مَوْضُوعًا عَنِ الَّذِي ابْتَاعَهُ /10 * \r\n!E325",
+      "collection": "Muwatta Malik",
+      "reference_number": 1520,
+      "grade": "Sahih (Mawquf)"
+    }
+  ]
+}

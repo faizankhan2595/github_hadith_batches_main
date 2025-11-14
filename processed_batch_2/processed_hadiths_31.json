@@ -1,0 +1,746 @@
+{
+  "batch_number": 2,
+  "file_number": 31,
+  "total_hadiths_processed": 11,
+  "hadiths": [
+    {
+      "hadith_id": 9452,
+      "book_id": 19,
+      "hadith_number": 1748,
+      "english_translation": "Narrated by Yahya, from Malik: What is the matter with men who have intercourse with their slave women and then leave them? A slave woman does not come to me whose master acknowledges he has had intercourse with her except that I attach her child to him. So either abstain afterwards or leave them.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Akham al-Tamimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 3"]
+            },
+            {
+              "name": "Salem",
+              "full_name": "Salem ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Shihab al-Zuhri narrates with عَنْ despite being a known mudallis (category 3), though he is highly reliable overall"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab -> Salem -> Abdullah ibn Umar -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ transmission despite being classified as mudallis (category 3)",
+          "impact": "Potential indirect transmission, though al-Zuhri is highly reliable and generally considered trustworthy even with this transmission term"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal judgment regarding slave women who bear children",
+        "Incident of Umar ibn al-Khattab's ruling on slave women"
+      ]
+    },
+    {
+      "hadith_id": 9453,
+      "book_id": 19,
+      "hadith_number": 1749,
+      "english_translation": "Narrated by Yahya, from Malik: I heard Malik saying that the rule according to us regarding a slave woman who is the mother of a child, if she commits an offense, her master is liable for the amount between her and her value, and it is not permissible for him to hand her over, and he is not obligated to bear more of her offense than her value.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Akham al-Tamimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' al-Madani, mawla of Abdullah ibn Umar",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Safiyyah bint Abi Ubayd",
+              "full_name": "Safiyyah bint Abi Ubayd al-Ansar",
+              "grade": "Maqbul",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهَا أَخْبَرَتْهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Nafi' -> Safiyyah bint Abi Ubayd -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Safiyyah is not widely known narrator, classified as Maqbul (acceptable)",
+          "impact": "Slightly reduces overall chain reliability but not significantly, as other narrators are strong"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal ruling on the liability of slave woman owners for offenses",
+        "Incident of juristic interpretation regarding mothers of children born to slaves"
+      ]
+    },
+    {
+      "hadith_id": 9455,
+      "book_id": 19,
+      "hadith_number": 1751,
+      "english_translation": "Narrated by Yahya, from Malik, from Hisham ibn Urwah, from his father: The Messenger of Allah ﷺ said: 'Whoever revives dead land, it belongs to him, and the unjust mark has no right.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Akham al-Tamimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Hisham ibn Urwah -> Urwah ibn al-Zubayr -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Land revival and ownership rights",
+        "Incident of the Prophet's ﷺ ruling on dead land"
+      ]
+    },
+    {
+      "hadith_id": 9456,
+      "book_id": 19,
+      "hadith_number": 1752,
+      "english_translation": "Narrated by Yahya, from Malik: This is the rule with us regarding it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Akham al-Tamimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 3"]
+            },
+            {
+              "name": "Salem",
+              "full_name": "Salem ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Shihab al-Zuhri narrates with عَنْ despite being a known mudallis"]
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Ibn Shihab -> Salem -> Abdullah ibn Umar -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ despite being classified as mudallis (category 3)",
+          "impact": "However, al-Zuhri is highly reliable and this does not significantly affect the grade"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Juristic opinion on land revival"
+      ]
+    },
+    {
+      "hadith_id": 9458,
+      "book_id": 19,
+      "hadith_number": 1754,
+      "english_translation": "Narrated by Yahya, from Malik, from Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm: It reached him that the Messenger of Allah ﷺ said regarding the flood of Mahzur and Mudhayinib: 'Water is held back to the ankle level, then the upper level is released over the lower level.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Akham al-Tamimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abi Bakr",
+              "full_name": "Abdullah ibn Abi Bakr ibn Muhammad ibn Amr ibn Hazm al-Ansari",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "بَلَغَهُ",
+              "reliabilityIssues": ["balaghani - reaching without direct chain"]
+            },
+            {
+              "name": "Prophet Muhammad",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Abdullah ibn Abi Bakr -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abdullah ibn Abi Bakr uses بَلَغَهُ (balaghani) transmission term indicating indirect transmission",
+          "impact": "This disconnects the chain from direct narration, making it mursal or weakly connected"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Water management and irrigation rules",
+        "Incident of the Prophet's ﷺ ruling on water retention"
+      ]
+    },
+    {
+      "hadith_id": 9459,
+      "book_id": 19,
+      "hadith_number": 1755,
+      "english_translation": "Narrated by Malik, from Abu al-Zinad, from al-A'raj, from Abu Hurayrah: The Messenger of Allah ﷺ said: 'Surplus water should not be prevented so that pasture be prevented.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dinar al-A'raj Abu al-Zinad",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Zinad -> Al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Water rights and preventing restriction of surplus water",
+        "Pasture rights related to water availability"
+      ]
+    },
+    {
+      "hadith_id": 9460,
+      "book_id": 19,
+      "hadith_number": 1756,
+      "english_translation": "Narrated by Malik, from Abu al-Rijal Muhammad ibn Abd al-Rahman, from his mother Amrah bint Abd al-Rahman: The Messenger of Allah ﷺ said: 'The well-water of a well should not be prevented.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Rijal",
+              "full_name": "Muhammad ibn Abd al-Rahman al-Makki",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amrah bint Abd al-Rahman",
+              "full_name": "Amrah bint Abd al-Rahman ibn Sa'd al-Ansariyyah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَتْهُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Rijal -> Amrah bint Abd al-Rahman -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Rijal is Saduq/Sadooq grade, not of the highest reliability",
+          "impact": "Slightly reduces chain reliability but other strong narrators compensate"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Water rights and well water prohibition prevention"
+      ]
+    },
+    {
+      "hadith_id": 9462,
+      "book_id": 19,
+      "hadith_number": 1758,
+      "english_translation": "Narrated by Yahya, from Malik, from Amr ibn Yahya al-Mazini, from his father: The Messenger of Allah ﷺ said: 'There is no harm and no reciprocal harm.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Akham al-Tamimi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Yahya",
+              "full_name": "Amr ibn Yahya ibn Saad al-Mazini",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Saad",
+              "full_name": "Yahya ibn Saad al-Mazini",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Amr ibn Yahya -> Yahya ibn Saad -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Amr ibn Yahya is Saduq/Sadooq grade, not of highest reliability",
+          "impact": "Slightly reduces overall chain strength but the hadith remains acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Principle of non-harm in Islamic law",
+        "The foundational hadith on harm prevention"
+      ]
+    },
+    {
+      "hadith_id": 9463,
+      "book_id": 19,
+      "hadith_number": 1759,
+      "english_translation": "Narrated by Malik, from Ibn Shihab, from al-A'raj, from Abu Hurayrah: The Messenger of Allah ﷺ said: 'No one of you should prevent his neighbor from placing a stick in his wall.' Then Abu Hurayrah said: What is it that I see you turning away from it? By Allah, I will throw it between your shoulder blades.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 3"]
+            },
+            {
+              "name": "Al-A'raj",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad",
+              "full_name": "Muhammad ibn Abdullah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Shihab al-Zuhri narrates with عَنْ despite being a known mudallis"]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Ibn Shihab -> Al-A'raj -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri uses عَنْ despite being classified as mudallis (category 3)",
+          "impact": "However, al-Zuhri is highly reliable and this is acceptable in his narrations"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Neighbor rights regarding use of walls",
+        "Incident of the Prophet's ﷺ ruling on neighbor disputes"
+      ]
+    },
+    {
+      "hadith_id": 9464,
+      "book_id": 19,
+      "hadith_number": 1760,
+      "english_translation": "Narrated by Malik, from Amr ibn Yahya al-Mazini, from his father: Al-Dahhak ibn Khalifah wanted to lead an irrigation channel through the land of Muhammad ibn Maslamah, but Muhammad refused. Al-Dahhak said to him: Why do you prevent me when it benefits you - you drink from it first and last, and it does not harm you? Muhammad refused. Al-Dahhak spoke about this to Umar ibn al-Khattab. Umar called Muhammad and ordered him to let it pass. Muhammad said: No. Umar said: Why do you prevent your brother from what benefits him and is beneficial to you - you drink from it first and last and it does not harm you? Muhammad said: By Allah, no. Umar said: By Allah, it will pass through even if upon your belly. Then Umar ordered him to let it pass, and al-Dahhak did so.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Yahya",
+              "full_name": "Amr ibn Yahya ibn Saad al-Mazini",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Saad",
+              "full_name": "Yahya ibn Saad al-Mazini",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Amr ibn Yahya -> Yahya ibn Saad -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Amr ibn Yahya is Saduq/Sadooq grade, slightly lower reliability",
+          "impact": "Reduces overall chain strength but remains acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Umar ibn al-Khattab's ruling on irrigation channel passage",
+        "Legal dispute resolution by the Caliph Umar"
+      ]
+    },
+    {
+      "hadith_id": 9465,
+      "book_id": 19,
+      "hadith_number": 1761,
+      "english_translation": "Narrated by Malik, from Amr ibn Yahya al-Mazini, from his father: There was a spring in his grandfather's garden belonging to Abd al-Rahman ibn Awf. Abd al-Rahman ibn Awf wanted to move it to a place in the garden closer to his land, but the garden owner prevented him. Abd al-Rahman ibn Awf spoke to Umar ibn al-Khattab about it. Umar ruled in favor of Abd al-Rahman ibn Awf for moving it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Amr ibn Yahya",
+              "full_name": "Amr ibn Yahya ibn Saad al-Mazini",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Saad",
+              "full_name": "Yahya ibn Saad al-Mazini",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik -> Amr ibn Yahya -> Yahya ibn Saad -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Amr ibn Yahya is Saduq/Sadooq grade, slightly lower reliability",
+          "impact": "Reduces overall chain strength but remains acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Umar ibn al-Khattab's ruling on spring water relocation",
+        "Property rights and water source disputes"
+      ]
+    }
+  ],
+  "summary": {
+    "total_processed": 11,
+    "skipped_empty_matn": 4,
+    "iis_grade_distribution": {
+      "Perfect": 0,
+      "Sound": 9,
+      "Acceptable": 0,
+      "Questionable But Might Be Acceptable": 0,
+      "Weak But Might Be Acceptable": 1,
+      "Problematic": 0
+    },
+    "critical_findings": [
+      "Ibn Shihab al-Zuhri appears in multiple chains using عَنْ transmission. While he is classified as a mudallis (category 3), he is highly reliable overall and this does not significantly affect the grade of these hadiths.",
+      "Hadith 9458 contains a weak transmission link (balaghani) through Abdullah ibn Abi Bakr, classified as 'Weak But Might Be Acceptable'.",
+      "Most hadiths in this file are from Malik's Muwatta', with Yahya ibn Yahya al-Tamimi as the primary narrator from Malik.",
+      "Several hadiths feature legal rulings attributed to Umar ibn al-Khattab (mawquf), particularly regarding property and water rights.",
+      "Amr ibn Yahya al-Mazini appears as an intermediate narrator in multiple chains with Saduq/Sadooq grade - reliable but not of the highest level."
+    ]
+  }
+}

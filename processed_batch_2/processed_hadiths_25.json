@@ -1,0 +1,352 @@
+{
+  "batch_number": 2,
+  "file_number": 25,
+  "processed_count": 7,
+  "skipped_count": 8,
+  "total_count": 15,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9362,
+      "book_id": 19,
+      "hadith_number": 1658,
+      "english_translation": "Narrated by Yahya ibn Yahya: Legal ruling on commercial transactions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Aktham al-Laithi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Source/Companion if applicable]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped) hadith",
+          "impact": "This is a juristic ruling from Malik ibn Anas, not attributed to the Prophet Muhammad ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Qirad (Partnership Trading) in Merchandise",
+        "Conditions of Qirad Contracts"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : قَالَ /12 مَالِك /12 : /10 لَا يَنْبَغِي لِأَحَدٍ أَنْ يُقَارِضَ أَحَدًا إِلَّا فِي الْعَيْنِ ، لِأَنَّهُ لَا تَنْبَغِي الْمُقَارَضَةُ فِي الْعُرُوضِ ، لِأَنَّ الْمُقَارَضَةَ فِي الْعُرُوضِ إِنَّمَا تَكُونُ عَلَى أَحَدِ وَجْهَيْنِ : إِمَّا أَنْ يَقُولَ لَهُ صَاحِبُ الْعَرْضِ : خُذْ هَذَا الْعَرْضَ فَبِعْهُ ، فَمَا خَرَجَ مِنْ ثَمَنِهِ فَاشْتَرِ بِهِ وَبِعْ عَلَى وَجْهِ الْقِرَاضِ ، فَقَدِ اشْتَرَطَ صَاحِبُ الْمَالِ فَضْلًا لِنَفْسِهِ مِنْ بَيْعِ سِلْعَتِهِ وَمَا يَكْفِيهِ مِنْ مَئُونَتِهَا ، أَوْ يَقُولَ : اشْتَرِ بِهَذِهِ السِّلْعَةِ وَبِعْ ، فَإِذَا فَرَغْتَ فَابْتَعْ لِي مِثْلَ عَرْضِي الَّذِي دَفَعْتُ إِلَيْكَ ، فَإِنْ فَضَلَ شَيْءٌ فَهُوَ بَيْنِي وَبَيْنَكَ ، وَلَعَلَّ صَاحِبَ الْعَرْضِ أَنْ يَدْفَعَهُ إِلَى الْعَامِلِ فِي زَمَنٍ هُوَ فِيهِ نَافِقٌ كَثِيرُ الثَّمَنِ ، ثُمَّ يَرُدَّهُ الْعَامِلُ حِينَ يَرُدُّهُ ، وَقَدْ رَخُصَ فَيَشْتَرِيَهُ بِثُلُثِ ثَمَنِهِ أَوْ أَقَلَّ مِنْ ذَلِكَ ، فَيَكُونُ الْعَامِلُ قَدْ رَبِحَ نِصْفَ مَا نَقَصَ مِنْ ثَمَنِ الْعَرْضِ فِي حِصَّتِهِ مِنَ الرِّبْحِ ، أَوْ يَأْخُذَ الْعَرْضَ فِي زَمَانٍ ثَمَنُهُ فِيهِ قَلِيلٌ فَيَعْمَلُ فِيهِ حَتَّى يَكْثُرَ الْمَالُ فِي يَدَيْهِ ، ثُمَّ يَغْلُو ذَلِكَ الْعَرْضُ وَيَرْتَفِعُ ثَمَنُهُ حِينَ يَرُدُّهُ فَيَشْتَرِيهِ بِكُلِّ مَا فِي يَدَيْهِ فَيَذْهَبُ عَمَلُهُ وَعِلَاجُهُ بَاطِلًا ، فَهَذَا غَرَرٌ لَا يَصْلُحُ ، فَإِنْ جُهِلَ ذَلِكَ حَتَّى يَمْضِيَ ، نُظِرَ إِلَى قَدْرِ أَجْرِ الَّذِي دُفِعَ إِلَيْهِ الْقِرَاضُ فِي بَيْعِهِ إِيَّاهُ وَعِلَاجِهِ فَيُعْطَاهُ ، ثُمَّ يَكُونُ الْمَالُ قِرَاضًا مِنْ يَوْمَ نَضَّ الْمَالُ وَاجْتَمَعَ عَيْنًا وَيُرَدُّ إِلَى قِرَاضٍ مِثْلِهِ /10 . #",
+      "collection": "Unknown Collection (Book ID: 19)",
+      "reference_number": 1658,
+      "grade": "Not assigned"
+    },
+    {
+      "hadith_id": 9364,
+      "book_id": 19,
+      "hadith_number": 1660,
+      "english_translation": "Narrated by Yahya ibn Yahya: Legal ruling on commercial transactions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Aktham al-Laithi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Source/Companion if applicable]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped) hadith",
+          "impact": "This is a juristic ruling from Malik ibn Anas, not attributed to the Prophet Muhammad ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Transportation Expenses in Qirad",
+        "Loss of Capital Due to Expenses"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا فَاشْتَرَى بِهِ مَتَاعًا فَحَمَلَهُ إِلَى بَلَدِ التِّجَارَةِ فَبَارَ عَلَيْهِ وَخَافَ النُّقْصَانَ إِنْ بَاعَهُ ، فَتَكَارَى عَلَيْهِ إِلَى بَلَدٍ آخَرَ فَبَاعَ بِنُقْصَانٍ فَاغْتَرَقَ الْكِرَاءُ أَصْلَ الْمَالِ كُلَّهُ ، قَالَ /12 مَالِك /12 : /10 إِنْ كَانَ فِيمَا بَاعَ وَفَاءٌ لِلْكِرَاءِ فَسَبِيلُهُ ذَلِكَ ، وَإِنْ بَقِيَ مِنَ الْكِرَاءِ شَيْءٌ بَعْدَ أَصْلِ الْمَالِ كَانَ عَلَى الْعَامِلِ ، وَلَمْ يَكُنْ عَلَى رَبِّ الْمَالِ مِنْهُ شَيْءٌ يُتْبَعُ بِهِ ، وَذَلِكَ أَنَّ رَبَّ الْمَالِ إِنَّمَا أَمَرَهُ بِالتِّجَارَةِ فِي مَالِهِ ، فَلَيْسَ لِلْمُقَارَضِ أَنْ يَتْبَعَهُ بِمَا سِوَى ذَلِكَ مِنَ الْمَالِ ، وَلَوْ كَانَ ذَلِكَ يُتْبَعُ بِهِ رَبُّ الْمَالِ لَكَانَ ذَلِكَ دَيْنًا عَلَيْهِ مِنْ غَيْرِ الْمَالِ الَّذِي قَارَضَهُ فِيهِ ، فَلَيْسَ لِلْمُقَارِضِ أَنْ يَحْمِلَ ذَلِكَ عَلَى رَبِّ الْمَالِ /10 . #\u001eE363",
+      "collection": "Unknown Collection (Book ID: 19)",
+      "reference_number": 1660,
+      "grade": "Not assigned"
+    },
+    {
+      "hadith_id": 9366,
+      "book_id": 19,
+      "hadith_number": 1662,
+      "english_translation": "Narrated by Yahya ibn Yahya: Legal ruling on commercial transactions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Aktham al-Laithi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Source/Companion if applicable]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped) hadith",
+          "impact": "This is a juristic ruling from Malik ibn Anas, not attributed to the Prophet Muhammad ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Commercial Transactions"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا فَعَمِلَ فِيهِ فَرَبِحَ ، ثُمَّ اشْتَرَى مِنْ رِبْحِ الْمَالِ أَوْ مِنْ جُمْلَتِهِ جَارِيَةً فَوَطِئَهَا فَحَمَلَتْ مِنْهُ ، ثُمَّ نَقَصَ الْمَالُ ، قَالَ /12 مَالِك /12 : /10 إِنْ كَانَ لَهُ مَالٌ ، أُخِذَتْ قِيمَةُ الْجَارِيَةِ مِنْ مَالِهِ فَيُجْبَرُ بِهِ الْمَالُ ، فَإِنْ كَانَ فَضْلٌ بَعْدَ وَفَاءِ الْمَالِ ، فَهُوَ بَيْنَهُمَا عَلَى الْقِرَاضِ الْأَوَّلِ ، وَإِنْ لَمْ يَكُنْ لَهُ وَفَاءٌ ، بِيعَتِ الْجَارِيَةُ حَتَّى يُجْبَرَ الْمَالُ مِنْ ثَمَنِهَا /10 . قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا ، فَتَعَدَّى فَاشْتَرَى بِهِ سِلْعَةً وَزَادَ فِي ثَمَنِهَا مِنْ عِنْدِهِ ، قَالَ /12 مَالِك /12 : /10 صَاحِبُ الْمَالِ بِالْخِيَارِ إِنْ بِيعَتِ السِّلْعَةُ بِرِبْحٍ أَوْ وَضِيعَةٍ أَوْ لَمْ تُبَعْ ، إِنْ شَاءَ أَنْ يَأْخُذَ السِّلْعَةَ أَخَذَهَا وَقَضَاهُ مَا أَسْلَفَهُ فِيهَا ، وَإِنْ أَبَى كَانَ الْمُقَارَضُ شَرِيكًا لَهُ بِحِصَّتِهِ مِنَ الثَّمَنِ فِي النَّمَاءِ وَالنُّقْصَانِ بِحِسَابِ مَا زَادَ الْعَامِلُ فِيهَا مِنْ عِنْدِهِ /10 . قَالَ /12 مَالِك /12 ، فِي رَجُلٍ أَخَذَ مِنْ رَجُلٍ مَالًا قِرَاضًا ، ثُمَّ دَفَعَهُ إِلَى رَجُلٍ آخَرَ فَعَمِلَ فِيهِ قِرَاضًا بِغَيْرِ إِذْنِ صَاحِبِهِ : /10 إِنَّهُ ضَامِنٌ لِلْمَالِ ، إِنْ نَقَصَ فَعَلَيْهِ النُّقْصَانُ وَإِنْ رَبِحَ فَلِصَاحِبِ الْمَالِ شَرْطُهُ مِنَ الرِّبْحِ ، ثُمَّ يَكُونُ لِلَّذِي عَمِلَ شَرْطُهُ بِمَا بَقِيَ مِنَ الْمَالِ /10 . قَالَ /12 مَالِك /12 ، فِي رَجُلٍ تَعَدَّى فَتَسَلَّفَ مِمَّا بِيَدَيْهِ مِنَ الْقِرَاضِ مَالًا ، فَابْتَاعَ بِهِ سِلْعَةً لِنَفْسِهِ ، قَالَ /12 مَالِك /12 : /10 إِنْ رَبِحَ فَالرِّبْحُ   عَلَى شَرْطِهِمَا فِي الْقِرَاضِ ، وَإِنْ نَقَصَ فَهُوَ ضَامِنٌ لِلنُّقْصَانِ /10 . قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا فَاسْتَسْلَفَ مِنْهُ الْمَدْفُوعُ إِلَيْهِ الْمَالُ مَالًا وَاشْتَرَى بِهِ سِلْعَةً لِنَفْسِهِ : /10 إِنَّ صَاحِبَ الْمَالِ بِالْخِيَارِ ، إِنْ شَاءَ شَرِكَهُ فِي السِّلْعَةِ عَلَى قِرَاضِهَا ، وَإِنْ شَاءَ خَلَّى بَيْنَهُ وَبَيْنَهَا ، وَأَخَذَ مِنْهُ رَأْسَ الْمَالِ كُلَّهُ ، وَكَذَلِكَ يُفْعَلُ بِكُلِّ مَنْ تَعَدَّى /10 . #\u001dE364",
+      "collection": "Unknown Collection (Book ID: 19)",
+      "reference_number": 1662,
+      "grade": "Not assigned"
+    },
+    {
+      "hadith_id": 9368,
+      "book_id": 19,
+      "hadith_number": 1664,
+      "english_translation": "Narrated by Yahya ibn Yahya: Legal ruling on commercial transactions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Aktham al-Laithi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Source/Companion if applicable]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped) hadith",
+          "impact": "This is a juristic ruling from Malik ibn Anas, not attributed to the Prophet Muhammad ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Expenditures in Qirad Ventures",
+        "Travel Expenses in Partnership Trading"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا : /10 إِنَّهُ إِذَا كَانَ الْمَالُ كَثِيرًا يَحْمِلُ النَّفَقَةَ ، فَإِذَا شَخَصَ فِيهِ الْعَامِلُ ، فَإِنَّ لَهُ أَنْ يَأْكُلَ مِنْهُ وَيَكْتَسِيَ بِالْمَعْرُوفِ مِنْ قَدْرِ الْمَالِ ، وَيَسْتَأْجِرَ مِنَ الْمَالِ إِذَا كَانَ كَثِيرًا لَا يَقْوَى عَلَيْهِ بَعْضَ مَنْ يَكْفِيهِ بَعْضَ مَئُونَتِهِ . وَمِنَ الْأَعْمَالِ أَعْمَالٌ لَا يَعْمَلُهَا الَّذِي يَأْخُذُ الْمَالَ ، وَلَيْسَ مِثْلُهُ يَعْمَلُهَا مِنْ ذَلِكَ تَقَاضِي الدَّيْنِ وَنَقْلُ الْمَتَاعِ وَشَدُّهُ وَأَشْبَاهُ ذَلِكَ ، فَلَهُ أَنْ يَسْتَأْجِرَ مِنَ الْمَالِ مَنْ يَكْفِيهِ ذَلِكَ ، وَلَيْسَ لِلْمُقَارَضِ أَنْ يَسْتَنْفِقَ مِنَ الْمَالِ وَلَا يَكْتَسِيَ مِنْهُ مَا كَانَ مُقِيمًا فِي أَهْلِهِ ، إِنَّمَا يَجُوزُ لَهُ النَّفَقَةُ إِذَا شَخَصَ فِي الْمَالِ وَكَانَ الْمَالُ يَحْمِلُ النَّفَقَةَ ، فَإِنْ كَانَ إِنَّمَا يَتَّجِرُ فِي الْمَالِ فِي الْبَلَدِ الَّذِي هُوَ بِهِ مُقِيمٌ ، فَلَا نَفَقَةَ لَهُ مِنَ الْمَالِ وَلَا كِسْوَةَ /10 . قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا فَخَرَجَ بِهِ وَبِمَالِ نَفْسِهِ ، قَالَ : /10 يَجْعَلُ النَّفَقَةَ مِنَ الْقِرَاضِ وَمِنْ مَالِهِ عَلَى قَدْرِ حِصَصِ الْمَالِ /10 . #",
+      "collection": "Unknown Collection (Book ID: 19)",
+      "reference_number": 1664,
+      "grade": "Not assigned"
+    },
+    {
+      "hadith_id": 9370,
+      "book_id": 19,
+      "hadith_number": 1666,
+      "english_translation": "Narrated by Yahya ibn Yahya: Legal ruling on commercial transactions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Aktham al-Laithi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Source/Companion if applicable]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped) hadith",
+          "impact": "This is a juristic ruling from Malik ibn Anas, not attributed to the Prophet Muhammad ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Commercial Transactions"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : قَالَ /12 مَالِك /12 ، فِي رَجُلٍ مَعَهُ مَالٌ قِرَاضٌ فَهُوَ يَسْتَنْفِقُ مِنْهُ وَيَكْتَسِي : /10 إِنَّهُ لَا يَهَبُ مِنْهُ شَيْئًا ، وَلَا يُعْطِي مِنْهُ سَائِلًا وَلَا غَيْرَهُ ، وَلَا يُكَافِئُ فِيهِ أَحَدًا ، فَأَمَّا إِنِ اجْتَمَعَ هُوَ وَقَوْمٌ فَجَاءُوا بِطَعَامٍ وَجَاءَ هُوَ بِطَعَامٍ ، فَأَرْجُو أَنْ يَكُونَ ذَلِكَ وَاسِعًا إِذَا لَمْ يَتَعَمَّدْ أَنْ يَتَفَضَّلَ عَلَيْهِمْ ، فَإِنْ تَعَمَّدَ ذَلِكَ أَوْ مَا يُشْبِهُهُ بِغَيْرِ إِذْنِ صَاحِبِ الْمَالِ ، فَعَلَيْهِ أَنْ يَتَحَلَّلَ ذَلِكَ مِنْ رَبِّ الْمَالِ ، فَإِنْ حَلَّلَهُ ذَلِكَ فَلَا بَأْسَ بِهِ ، وَإِنْ أَبَى أَنْ يُحَلِّلَهُ فَعَلَيْهِ أَنْ يُكَافِئَهُ بِمِثْلِ ذَلِكَ ، إِنْ كَانَ ذَلِكَ شَيْئًا لَهُ مُكَافَأَةٌ /10 . #&E365",
+      "collection": "Unknown Collection (Book ID: 19)",
+      "reference_number": 1666,
+      "grade": "Not assigned"
+    },
+    {
+      "hadith_id": 9372,
+      "book_id": 19,
+      "hadith_number": 1668,
+      "english_translation": "Narrated by Yahya ibn Yahya: Legal ruling on commercial transactions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Aktham al-Laithi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Source/Companion if applicable]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped) hadith",
+          "impact": "This is a juristic ruling from Malik ibn Anas, not attributed to the Prophet Muhammad ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Debt in Qirad Transactions",
+        "Inheritance of Qirad Rights"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا فَاشْتَرَى بِهِ سِلْعَةً ، ثُمَّ بَاعَ السِّلْعَةَ بِدَيْنٍ فَرَبِحَ فِي الْمَالِ ، ثُمَّ هَلَكَ الَّذِي أَخَذَ الْمَالَ قَبْلَ أَنْ يَقْبِضَ الْمَالَ ، قَالَ : إِنْ أَرَادَ وَرَثَتُهُ أَنْ يَقْبِضُوا ذَلِكَ الْمَالَ وَهُمْ عَلَى شَرْطِ أَبِيهِمْ مِنَ الرِّبْحِ ، فَذَلِكَ لَهُمْ إِذَا كَانُوا أُمَنَاءَ عَلَى ذَلِكَ ، فَإِنْ كَرِهُوا أَنْ يَقْتَضُوهُ ، وَخَلَّوْا بَيْنَ صَاحِبِ الْمَالِ وَبَيْنَهُ ، لَمْ يُكَلَّفُوا أَنْ يَقْتَضُوهُ وَلَا شَيْءَ عَلَيْهِمْ وَلَا شَيْءَ لَهُمْ إِذَا أَسْلَمُوهُ إِلَى رَبِّ الْمَالِ ، فَإِنِ اقْتَضَوْهُ فَلَهُمْ فِيهِ مِنَ الشَّرْطِ وَالنَّفَقَةِ مِثْلُ مَا كَانَ لِأَبِيهِمْ فِي ذَلِكَ ، هُمْ فِيهِ بِمَنْزِلَةِ أَبِيهِمْ ، فَإِنْ لَمْ يَكُونُوا أُمَنَاءَ عَلَى ذَلِكَ ، فَإِنَّ لَهُمْ أَنْ يَأْتُوا بِأَمِينٍ ثِقَةٍ فَيَقْتَضِي ذَلِكَ الْمَالَ ، فَإِذَا اقْتَضَى جَمِيعَ الْمَالِ وَجَمِيعَ الرِّبْحِ ، كَانُوا فِي ذَلِكَ بِمَنْزِلَةِ أَبِيهِمْ /10 . قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا عَلَى أَنَّهُ يَعْمَلُ فِيهِ ، فَمَا بَاعَ بِهِ مِنْ دَيْنٍ فَهُوَ ضَامِنٌ لَهُ : /10 إِنَّ ذَلِكَ لَازِمٌ لَهُ إِنْ بَاعَ بِدَيْنٍ فَقَدْ ضَمِنَهُ /10 . #",
+      "collection": "Unknown Collection (Book ID: 19)",
+      "reference_number": 1668,
+      "grade": "Not assigned"
+    },
+    {
+      "hadith_id": 9374,
+      "book_id": 19,
+      "hadith_number": 1670,
+      "english_translation": "Narrated by Yahya ibn Yahya: Legal ruling on commercial transactions.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya ibn Aktham al-Laithi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas -> [Source/Companion if applicable]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf (stopped) hadith",
+          "impact": "This is a juristic ruling from Malik ibn Anas, not attributed to the Prophet Muhammad ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Additional Merchandise in Qirad",
+        "Loans Within Qirad Contracts"
+      ],
+      "arabicText": "@ قَالَ /22 يَحْيَى /22 : قَالَ /12 مَالِك /12 ، فِي رَجُلٍ دَفَعَ إِلَى رَجُلٍ مَالًا قِرَاضًا ، وَاسْتَسْلَفَ مِنْ صَاحِبِ الْمَالِ سَلَفًا أَوِ اسْتَسْلَفَ مِنْهُ صَاحِبُ الْمَالِ سَلَفًا ، أَوْ أَبْضَعَ مَعَهُ صَاحِبُ الْمَالِ بِضَاعَةً يَبِيعُهَا لَهُ ، أَوْ بِدَنَانِيرَ يَشْتَرِي لَهُ بِهَا سِلْعَةً ، قَالَ /12 مَالِك /12 : /10 إِنْ كَانَ صَاحِبُ الْمَالِ إِنَّمَا أَبْضَعَ مَعَهُ وَهُوَ يَعْلَمُ أَنَّهُ لَوْ لَمْ يَكُنْ مَالُهُ عِنْدَهُ ، ثُمَّ سَأَلَهُ مِثْلَ ذَلِكَ فَعَلَهُ لِإِخَاءٍ بَيْنَهُمَا ، أَوْ لِيَسَارَةِ مَئُونَةِ ذَلِكَ عَلَيْهِ ، وَلَوْ أَبَى ذَلِكَ عَلَيْهِ لَمْ يَنْزِعْ مَالَهُ مِنْهُ أَوْ كَانَ الْعَامِلُ ، إِنَّمَا اسْتَسْلَفَ مِنْ صَاحِبِ الْمَالِ أَوْ حَمَلَ لَهُ بِضَاعَتَهُ وَهُوَ يَعْلَمُ أَنَّهُ لَوْ لَمْ يَكُنْ عِنْدَهُ مَالُهُ فَعَلَ لَهُ مِثْلَ ذَلِكَ ، وَلَوْ أَبَى ذَلِكَ عَلَيْهِ لَمْ يَرْدُدْ عَلَيْهِ مَالَهُ ، فَإِذَا صَحَّ ذَلِكَ مِنْهُمَا جَمِيعًا وَكَانَ ذَلِكَ مِنْهُمَا عَلَى وَجْهِ الْمَعْرُوفِ ، وَلَمْ يَكُنْ شَرْطًا فِي أَصْلِ الْقِرَاضِ ، فَذَلِكَ جَائِزٌ لَا بَأْسَ بِهِ ، وَإِنْ دَخَلَ ذَلِكَ شَرْطٌ أَوْ خِيفَ أَنْ يَكُونَ إِنَّمَا صَنَعَ ذَلِكَ الْعَامِلُ لِصَاحِبِ الْمَالِ لِيُقِرَّ مَالَهُ فِي يَدَيْهِ ، أَوْ إِنَّمَا صَنَعَ ذَلِكَ صَاحِبُ الْمَالِ لِأَنْ يُمْسِكَ الْعَامِلُ مَالَهُ وَلَا يَرُدَّهُ عَلَيْهِ ، فَإِنَّ ذَلِكَ لَا يَجُوزُ فِي الْقِرَاضِ ، وَهُوَ مِمَّا يَنْهَى عَنْهُ أَهْلُ الْعِلْمِ /10 . #,E366",
+      "collection": "Unknown Collection (Book ID: 19)",
+      "reference_number": 1670,
+      "grade": "Not assigned"
+    }
+  ],
+  "processing_date": "2025-11-14T09:26:42.374706",
+  "statistics": {
+    "Perfect": 0,
+    "Sound": 7,
+    "Acceptable": 0,
+    "Questionable But Might Be Acceptable": 0,
+    "Weak But Might Be Acceptable": 0,
+    "Problematic": 0
+  }
+}

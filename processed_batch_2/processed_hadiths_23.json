@@ -1,0 +1,542 @@
+{
+  "batch_number": 2,
+  "file_number": 23,
+  "total_hadiths_in_file": 15,
+  "valid_hadiths_processed": 11,
+  "chapter_headings_skipped": 4,
+  "processed_hadiths": [
+    {
+      "hadith_id": 9331,
+      "book_id": 19,
+      "hadith_number": 1627,
+      "english_translation": "Narrated by مَالِك: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> مَالِك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "قَالَ /12 مَالِك /12 ، فِي الرَّجُلِ يَبِيعُ الْبَزَّ الْمُصَنَّفَ وَيَسْتَثْنِي ثِيَابًا بِرُقُومِهَا : /10 إِنَّهُ إِنِ اشْتَرَطَ أَنْ يَخْتَارَ مِنْ ذَلِكَ الرَّقْمَ فَلَا بَأْسَ بِهِ ، وَإِنْ لَمْ يَشْتَرِطْ أَنْ يَخْتَارَ مِنْهُ حِينَ اسْتَثْنَى فَإِنِّي أَرَاهُ شَرِيكًا فِي عَدَدِ الْبَزِّ الَّذِي اشْتُرِيَ مِنْهُ ، وَذَلِكَ أَنَّ الثَّوْبَيْنِ يَكُونُ رَقْمُهُمَا سَوَاءً وَبَيْنَهُمَا تَفَاوُتٌ فِي الثَّمَنِ /10 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ عِنْدَنَا ، أَنَّهُ لَا بَأْسَ بِالشِّرْكِ وَالتَّوْلِيَةِ وَالْإِقَالَةِ مِنْهُ فِي الطَّعَامِ وَغَيْرِهِ قَبَضَ ذَلِكَ أَوْ لَمْ يَقْبِضْ ، إِذَا كَانَ ذَلِكَ بِالنَّقْدِ وَلَمْ يَكُنْ فِيهِ رِبْحٌ وَلَا وَضِيعَةٌ وَلَا تَأْخِيرٌ لِلثَّمَنِ ، فَإِنْ دَخَلَ ذَلِكَ رِبْحٌ أَوْ وَضِيعَةٌ أَوْ تَأْخِيرٌ مِنْ وَاحِدٍ مِنْهُمَا ، صَارَ بَيْعًا يُحِلُّهُ مَا يُحِلُّ الْبَيْعَ وَيُحَرِّمُهُ مَا يُحَرِّمُ الْبَيْعَ ، وَلَيْسَ بِشِرْكٍ وَلَا تَوْلِيَةٍ وَلَا إِقَالَةٍ /10 . قَالَ /12 مَالِك /12 : /10 مَنِ اشْتَرَى سِلْعَةً بَزًّا أَوْ رَقِيقًا فَبَتَّ بِهِ ثُمَّ سَأَلَهُ رَجُلٌ أَنْ يُشَرِّكَهُ فَفَعَلَ ، وَنَقَدَا الثَّمَنَ صَاحِبَ السِّلْعَةِ جَمِيعًا ثُمَّ أَدْرَكَ السِّلْعَةَ شَيْءٌ يَنْتَزِعُهَا مِنْ أَيْدِيهِمَا ، فَإِنَّ الْمُشَرَّكَ يَأْخُذُ مِنَ الَّذِي أَشْرَكَهُ الثَّمَنَ ، وَيَطْلُبُ الَّذِي أَشْرَكَ بَيِّعَهُ الَّذِي بَاعَهُ السِّلْعَةَ بِالثَّمَنِ كُلِّهِ ، إِلَّا أَنْ يَشْتَرِطَ الْمُشَرِّكُ عَلَى الَّذِي أَشْرَكَ بِحَضْرَةِ الْبَيْعِ وَعِنْدَ مُبَايَعَةِ الْبَائِعِ الْأَوَّلِ ، وَقَبْلَ أَنْ يَتَفَاوَتَ ذَلِكَ ، أَنَّ عُهْدَتَكَ عَلَى الَّذِي ابْتَعْتُ مِنْهُ ، وَإِنْ تَفَاوَتَ ذَلِكَ وَفَاتَ الْبَائِعَ الْأَوَّلَ فَشَرْطُ الْآخَرِ بَاطِلٌ وَعَلَيْهِ الْعُهْدَةُ /10 . قَالَ /12 مَالِك /12 فِي الرَّجُلِ يَقُولُ لِلرَّجُلِ : اشْتَرِ هَذِهِ السِّلْعَةَ   بَيْنِي وَبَيْنَكَ ، وَانْقُدْ عَنِّي وَأَنَا أَبِيعُهَا لَكَ : /10 إِنَّ ذَلِكَ لَا يَصْلُحُ حِينَ قَالَ : انْقُدْ عَنِّي وَأَنَا أَبِيعُهَا لَكَ ، وَإِنَّمَا ذَلِكَ سَلَفٌ يُسْلِفُهُ إِيَّاهُ عَلَى أَنْ يَبِيعَهَا لَهُ ، وَلَوْ أَنَّ تِلْكَ السِّلْعَةَ هَلَكَتْ أَوْ فَاتَتْ ، أَخَذَ ذَلِكَ الرَّجُلُ الَّذِي نَقَدَ الثَّمَنَ مِنْ شَرِيكِهِ مَا نَقَدَ عَنْهُ ، فَهَذَا مِنَ السَّلَفِ الَّذِي يَجُرُّ مَنْفَعَةً /10 . قَالَ /12 مَالِك /12 : /10 وَلَوْ أَنَّ رَجُلًا ابْتَاعَ سِلْعَةً فَوَجَبَتْ لَهُ ، ثُمَّ قَالَ لَهُ رَجُلٌ : أَشْرِكْنِي بِنِصْفِ هَذِهِ السِّلْعَةِ وَأَنَا أَبِيعُهَا لَكَ جَمِيعًا ، كَانَ ذَلِكَ حَلَالًا لَا بَأْسَ بِهِ ، وَتَفْسِيرُ ذَلِكَ : أَنَّ هَذَا بَيْعٌ جَدِيدٌ بَاعَهُ نِصْفَ السِّلْعَةِ عَلَى أَنْ يَبِيعَ لَهُ النِّصْفَ الْآخَرَ /10 .6E352",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1627,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 9333,
+      "book_id": 19,
+      "hadith_number": 1629,
+      "english_translation": "Narrated by مَالِك: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابْنِ شِهَابٍ",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": [
+                "mudallis_category_3_but_reliable"
+              ]
+            },
+            {
+              "name": "أَبِي بَكْرِ بْنِ عَبْدِ",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "ابْنِ شِهَابٍ is a known mudallis using indirect transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> ابْنِ شِهَابٍ -> أَبِي بَكْرِ بْنِ عَبْدِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابْنِ شِهَابٍ is a known mudallis using indirect transmission term",
+          "impact": "May affect hadith reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنِ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ L118 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" أَيُّمَا رَجُلٍ بَاعَ مَتَاعًا فَأَفْلَسَ الَّذِي ابْتَاعَهُ مِنْهُ وَلَمْ يَقْبِضْ الَّذِي بَاعَهُ مِنْ ثَمَنِهِ شَيْئًا فَوَجَدَهُ بِعَيْنِهِ ، فَهُوَ أَحَقُّ بِهِ ، وَإِنْ مَاتَ الَّذِي ابْتَاعَهُ ، فَصَاحِبُ الْمَتَاعِ فِيهِ أُسْوَةُ الْغُرَمَاءِ \" /27 * \r\n$1348  1351 /2",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1629,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 9334,
+      "book_id": 19,
+      "hadith_number": 1630,
+      "english_translation": "Narrated by يَحْيَى: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يَحْيَى",
+              "full_name": "Yahya ibn Sa'id al-Qattan",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي بَكْرِ بْنِ عَبْدِ",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عُمَرَ بْنِ عَبْدِ",
+              "full_name": "'Umar ibn 'Abd al-'Aziz",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي بَكْرِ بْنِ عَبْدِ",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي بَكْرِ بْنِ عَبْدِ",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يَحْيَى -> أَبِي بَكْرِ بْنِ عَبْدِ -> عُمَرَ بْنِ عَبْدِ -> أَبِي بَكْرِ بْنِ عَبْدِ -> أَبِي بَكْرِ بْنِ عَبْدِ -> مَالِك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ L133 /26 ، عَنْ /26 عُمَرَ بْنِ عَبْدِ الْعَزِيزِ L5974 /26 ، عَنْ /26 أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ L118 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" أَيُّمَا رَجُلٍ أَفْلَسَ فَأَدْرَكَ الرَّجُلُ مَالَهُ بِعَيْنِهِ ، فَهُوَ أَحَقُّ بِهِ مِنْ غَيْرِهِ \" /27 . قَالَ /12 مَالِك /12 فِي رَجُلٍ بَاعَ مِنْ رَجُلٍ مَتَاعًا ، فَأَفْلَسَ الْمُبْتَاعُ : /10 فَإِنَّ الْبَائِعَ إِذَا وَجَدَ شَيْئًا مِنْ مَتَاعِهِ بِعَيْنِهِ أَخَذَهُ ، وَإِنْ كَانَ الْمُشْتَرِي قَدْ بَاعَ بَعْضَهُ وَفَرَّقَهُ فَصَاحِبُ الْمَتَاعِ أَحَقُّ بِهِ مِنَ الْغُرَمَاءِ ، لَا يَمْنَعُهُ مَا فَرَّقَ الْمُبْتَاعُ مِنْهُ ، أَنْ يَأْخُذَ مَا وَجَدَ بِعَيْنِهِ ، فَإِنِ اقْتَضَى مِنْ ثَمَنِ الْمُبْتَاعِ شَيْئًا فَأَحَبَّ أَنْ يَرُدَّهُ وَيَقْبِضَ مَا وَجَدَ مِنْ مَتَاعِهِ وَيَكُونَ فِيمَا لَمْ يَجِدْ أُسْوَةَ الْغُرَمَاءِ ، فَذَلِكَ لَهُ /10 . قَالَ /12 مَالِك /12 : /10 وَمَنِ اشْتَرَى سِلْعَةً مِنَ السِّلَعِ غَزْلًا أَوْ مَتَاعًا أَوْ بُقْعَةً مِنَ الْأَرْضِ ، ثُمَّ أَحْدَثَ فِي ذَلِكَ الْمُشْتَرَى عَمَلًا بَنَى الْبُقْعَةَ دَارًا أَوْ نَسَجَ الْغَزْلَ ثَوْبًا ، ثُمَّ أَفْلَسَ الَّذِي ابْتَاعَ ذَلِكَ ، فَقَالَ رَبُّ الْبُقْعَةِ : أَنَا آخُذُ الْبُقْعَةَ وَمَا فِيهَا مِنَ الْبُنْيَانِ ، إِنَّ ذَلِكَ لَيْسَ لَهُ ، وَلَكِنْ تُقَوَّمُ الْبُقْعَةُ وَمَا فِيهَا مِمَّا أَصْلَحَ الْمُشْتَرِي ، ثُمَّ يُنْظَرُ كَمْ ثَمَنُ الْبُقْعَةِ وَكَمْ ثَمَنُ الْبُنْيَانِ مِنْ تِلْكَ الْقِيمَةِ ، ثُمَّ يَكُونَانِ شَرِيكَيْنِ فِي ذَلِكَ لِصَاحِبِ الْبُقْعَةِ بِقَدْرِ حِصَّتِهِ ، وَيَكُونُ لِلْغُرَمَاءِ بِقَدْرِ حِصَّةِ الْبُنْيَانِ /10 . قَالَ /12 مَالِك /12 : /10 وَتَفْسِيرُ ذَلِكَ : أَنْ تَكُونَ قِيمَةُ ذَلِكَ كُلِّهِ أَلْفَ دِرْهَمٍ وَخَمْسَ مِائَةِ دِرْهَمٍ ، فَتَكُونُ قِيمَةُ الْبُقْعَةِ خَمْسَ مِائَةِ دِرْهَمٍ وَقِيمَةُ الْبُنْيَانِ أَلْفَ دِرْهَمٍ ، فَيَكُونُ لِصَاحِبِ الْبُقْعَةِ الثُّلُثُ وَيَكُونُ لِلْغُرَمَاءِ الثُّلُثَانِ /10 . قَالَ /12 مَالِك /12 : /10 وَكَذَلِكَ الْغَزْلُ وَغَيْرُهُ مِمَّا أَشْبَهَهُ ، إِذَا دَخَلَهُ هَذَا وَلَحِقَ الْمُشْتَرِيَ دَيْنٌ لَا وَفَاءَ لَهُ عِنْدَهُ وَهَذَا الْعَمَلُ فِيهِ /10 . قَالَ /12 مَالِك /12 : /10 فَأَمَّا مَا بِيعَ مِنَ السِّلَعِ الَّتِي لَمْ يُحْدِثْ فِيهَا الْمُبْتَاعُ شَيْئًا إِلَّا أَنَّ تِلْكَ السِّلْعَةَ نَفَقَتْ وَارْتَفَعَ ثَمَنُهَا فَصَاحِبُهَا يَرْغَبُ فِيهَا وَالْغُرَمَاءُ يُرِيدُونَ إِمْسَاكَهَا ، فَإِنَّ الْغُرَمَاءَ يُخَيَّرُونَ بَيْنَ أَنْ يُعْطُوا رَبَّ السِّلْعَةِ الثَّمَنَ الَّذِي بَاعَهَا بِهِ وَلَا يُنَقِّصُوهُ شَيْئًا ، وَبَيْنَ أَنْ يُسَلِّمُوا إِلَيْهِ سِلْعَتَهُ ، وَإِنْ كَانَتِ السِّلْعَةُ قَدْ نَقَصَ ثَمَنُهَا ، فَالَّذِي بَاعَهَا بِالْخِيَارِ إِنْ شَاءَ أَنْ يَأْخُذَ سِلْعَتَهُ وَلَا تِبَاعَةَ لَهُ فِي شَيْءٍ مِنْ مَالِ غَرِيمِهِ فَذَلِكَ لَهُ ، وَإِنْ شَاءَ أَنْ يَكُونَ غَرِيمًا مِنَ الْغُرَمَاءِ يُحَاصُّ بِحَقِّهِ وَلَا يَأْخُذُ سِلْعَتَهُ فَذَلِكَ لَهُ /10 . وَقَالَ /12 مَالِك /12 فِيمَنِ اشْتَرَى جَارِيَةً أَوْ دَابَّةً فَوَلَدَتْ عِنْدَهُ ، ثُمَّ أَفْلَسَ الْمُشْتَرِي : /10 فَإِنَّ الْجَارِيَةَ أَوِ الدَّابَّةَ وَوَلَدَهَا لِلْبَائِعِ ، إِلَّا أَنْ يَرْغَبَ الْغُرَمَاءُ فِي ذَلِكَ فَيُعْطُونَهُ حَقَّهُ كَامِلًا وَيُمْسِكُونَ ذَلِكَ /10 * \r\n E353",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1630,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 9336,
+      "book_id": 19,
+      "hadith_number": 1632,
+      "english_translation": "Narrated by مَالِك: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "زَيْدِ بْنِ أَسْلَمَ",
+              "full_name": "Zayd ibn Aslam al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَطَاءِ بْنِ يَسَارٍ",
+              "full_name": "'Ata' ibn Yasar al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي بَكْرِ بْنِ عَبْدِ",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> زَيْدِ بْنِ أَسْلَمَ -> عَطَاءِ بْنِ يَسَارٍ -> أَبِي بَكْرِ بْنِ عَبْدِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، /27 عَنْ /93 أَبِي رَافِعٍ L548 /93 مَوْلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ قَالَ : اسْتَسْلَفَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَكْرًا ، فَجَاءَتْهُ إِبِلٌ مِنَ الصَّدَقَةِ ، قَالَ أَبُو رَافِعٍ : فَأَمَرَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ أَقْضِيَ الرَّجُلَ بَكْرَهُ ، فَقُلْتُ : لَمْ أَجِدْ فِي الْإِبِلِ إِلَّا جَمَلًا خِيَارًا رَبَاعِيًا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" أَعْطِهِ إِيَّاهُ فَإِنَّ خِيَارَ النَّاسِ أَحْسَنُهُمْ قَضَاءً \" /27 * \r\n$1350  1353 /3",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1632,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 9337,
+      "book_id": 19,
+      "hadith_number": 1633,
+      "english_translation": "Narrated by حُمَيْدِ بْنِ قَيْسٍ: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "حُمَيْدِ بْنِ قَيْسٍ",
+              "full_name": "Humayd ibn Qays al-Makki",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "حُمَيْدِ بْنِ قَيْسٍ -> مُجَاهِدٍ -> مَالِك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 حُمَيْدِ بْنِ قَيْسٍ الْمَكِّيِّ L2547 /94 ، عَنْ /26 مُجَاهِدٍ L6715 /26 ، أَنَّهُ قَالَ : /27 \" اسْتَسْلَفَ عَبْدُ اللَّهِ بْنُ عُمَرَ مِنْ رَجُلٍ دَرَاهِمَ ثُمَّ قَضَاهُ دَرَاهِمَ خَيْرًا مِنْهَا . فَقَالَ الرَّجُلُ : يَا أَبَا عَبْدِ الرَّحْمَنِ ، هَذِهِ خَيْرٌ مِنْ دَرَاهِمِي الَّتِي أَسْلَفْتُكَ . فَقَالَ /93 عَبْدُ اللَّهِ بْنُ عُمَرَ L4967 /93 : /20 \" قَدْ عَلِمْتُ وَلَكِنْ نَفْسِي بِذَلِكَ طَيِّبَةٌ \" /27 . قَالَ /12 مَالِك /12 : /10 لَا بَأْسَ بِأَنْ يُقْبِضَ مَنْ أُسْلِفَ شَيْئًا مِنَ الذَّهَبِ أَوِ الْوَرِقِ أَوِ الطَّعَامِ أَوِ الْحَيَوَانِ مِمَّنْ أَسْلَفَهُ ذَلِكَ أَفْضَلَ مِمَّا أَسْلَفَهُ إِذَا لَمْ يَكُنْ ذَلِكَ عَلَى شَرْطٍ مِنْهُمَا أَوْ عَادَةٍ ، فَإِنْ كَانَ ذَلِكَ عَلَى شَرْطٍ أَوْ وَأْيٍ أَوْ عَادَةٍ ، فَذَلِكَ مَكْرُوهٌ وَلَا خَيْرَ فِيهِ . قَالَ : وَذَلِكَ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" قَضَى جَمَلًا رَبَاعِيًا خِيَارًا مَكَانَ بَكْرٍ اسْتَسْلَفَهُ \" . وَأَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ اسْتَسْلَفَ دَرَاهِمَ فَقَضَى خَيْرًا مِنْهَا . فَإِنْ كَانَ ذَلِكَ عَلَى طِيبِ نَفْسٍ مِنَ الْمُسْتَسْلِفِ وَلَمْ يَكُنْ ذَلِكَ عَلَى شَرْطٍ وَلَا وَأْيٍ وَلَا عَادَةٍ ، كَانَ ذَلِكَ حَلَالًا لَا بَأْسَ بِهِ /10 *",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1633,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 9339,
+      "book_id": 19,
+      "hadith_number": 1635,
+      "english_translation": "Narrated by مَالِك: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 أَنَّهُ بَلَغَهُ ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ /93 ، قَالَ فِي رَجُلٍ : /20 \" أَسْلَفَ رَجُلًا طَعَامًا عَلَى أَنْ يُعْطِيَهُ إِيَّاهُ فِي بَلَدٍ آخَرَ \" ، فَكَرِهَ ذَلِكَ عُمَرُ بْنُ الْخَطَّابِ . وَقَالَ : \" فَأَيْنَ الْحَمْلُ ؟ \" يَعْنِي حُمْلَانَهُ /27 * \r\n\u001dE354 \r\n$1352  1355 /3",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1635,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 9340,
+      "book_id": 19,
+      "hadith_number": 1636,
+      "english_translation": "Narrated by Unknown: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [
+            "Incomplete chain structure"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Unknown"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Incomplete chain structure",
+          "impact": "May affect hadith reliability"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 أَنَّهُ بَلَغَهُ ، أَنَّ /27 رَجُلًا أَتَى عَبْدَ اللَّهِ بْنَ عُمَرَ ، فَقَالَ : يَا أَبَا عَبْدِ الرَّحْمَنِ ، إِنِّي أَسْلَفْتُ رَجُلًا سَلَفًا وَاشْتَرَطْتُ عَلَيْهِ أَفْضَلَ مِمَّا أَسْلَفْتُهُ . فَقَالَ /93 عَبْدُ اللَّهِ بْنُ عُمَرَ /93 : \" فَذَلِكَ الرِّبَا \" . قَالَ : فَكَيْفَ تَأْمُرُنِي يَا أَبَا عَبْدِ الرَّحْمَنِ ؟ فَقَالَ عَبْدُ اللَّهِ : /20 \" السَّلَفُ عَلَى ثَلَاثَةِ وُجُوهٍ : سَلَفٌ تُسْلِفُهُ تُرِيدُ بِهِ وَجْهَ اللَّهِ فَلَكَ وَجْهُ اللَّهِ ، وَسَلَفٌ تُسْلِفُهُ تُرِيدُ بِهِ وَجْهَ صَاحِبِكَ فَلَكَ وَجْهُ صَاحِبِكَ ، وَسَلَفٌ تُسْلِفُهُ لِتَأْخُذَ خَبِيثًا بِطَيِّبٍ فَذَلِكَ الرِّبَا \" . قَالَ : فَكَيْفَ تَأْمُرُنِي يَا أَبَا عَبْدِ الرَّحْمَنِ ؟ قَالَ : \" أَرَى أَنْ تَشُقَّ الصَّحِيفَةَ ، فَإِنْ أَعْطَاكَ مِثْلَ الَّذِي أَسْلَفْتَهُ قَبِلْتَهُ وَإِنْ أَعْطَاكَ دُونَ الَّذِي أَسْلَفْتَهُ فَأَخَذْتَهُ أُجِرْتَ ، وَإِنْ أَعْطَاكَ أَفْضَلَ مِمَّا أَسْلَفْتَهُ طَيِّبَةً بِهِ نَفْسُهُ ، فَذَلِكَ شُكْرٌ شَكَرَهُ لَكَ ، وَلَكَ أَجْرُ مَا أَنْظَرْتَهُ \" /27 * \r\n$1353  1356 /3",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1636,
+      "grade": "Problematic"
+    },
+    {
+      "hadith_id": 9341,
+      "book_id": 19,
+      "hadith_number": 1637,
+      "english_translation": "Narrated by نَافِعٍ: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "نَافِعٍ",
+              "full_name": "Nafi' mawla 'Abdullah ibn 'Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "نَافِعٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، أَنَّهُ /27 سَمِعَ /93 عَبْدَ اللَّهِ بْنَ عُمَرَ L4967 /93 ، يَقُولُ : /20 \" مَنْ أَسْلَفَ سَلَفًا فَلَا يَشْتَرِطْ إِلَّا قَضَاءَهُ \" /27 * \r\n$1354  1357 /3",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1637,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 9342,
+      "book_id": 19,
+      "hadith_number": 1638,
+      "english_translation": "Narrated by مَالِك: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، أَنَّهُ بَلَغَهُ ، /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ مَسْعُودٍ /93 ، كَانَ يَقُولُ : /20 \" مَنْ أَسْلَفَ سَلَفًا ، فَلَا يَشْتَرِطْ أَفْضَلَ مِنْهُ ، وَإِنْ كَانَتْ قَبْضَةً مِنْ عَلَفٍ فَهُوَ رِبًا \" /27 . قَالَ /12 مَالِك /12 : /10 الْأَمْرُ الْمُجْتَمَعُ عَلَيْهِ عِنْدَنَا : أَنَّ مَنِ اسْتَسْلَفَ شَيْئًا مِنَ الْحَيَوَانِ بِصِفَةٍ وَتَحْلِيَةٍ مَعْلُومَةٍ ، فَإِنَّهُ لَا بَأْسَ بِذَلِكَ ، وَعَلَيْهِ أَنْ يَرُدَّ مِثْلَهُ إِلَّا مَا كَانَ مِنَ الْوَلَائِدِ ، فَإِنَّهُ يُخَافُ فِي ذَلِكَ الذَّرِيعَةُ إِلَى إِحْلَالِ مَا لَا يَحِلُّ ، فَلَا يَصْلُحُ ، وَتَفْسِيرُ مَا كُرِهَ مِنْ ذَلِكَ : أَنْ يَسْتَسْلِفَ الرَّجُلُ الْجَارِيَةَ فَيُصِيبُهَا مَا بَدَا لَهُ ، ثُمَّ يَرُدُّهَا إِلَى صَاحِبِهَا بِعَيْنِهَا ، فَذَلِكَ لَا يَصْلُحُ وَلَا يَحِلُّ ، وَلَمْ يَزَلْ أَهْلُ الْعِلْمِ يَنْهَوْنَ عَنْهُ وَلَا يُرَخِّصُونَ فِيهِ لِأَحَدٍ /10 * \r\n\u001dE355",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1638,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 9344,
+      "book_id": 19,
+      "hadith_number": 1640,
+      "english_translation": "Narrated by مَالِك: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نَافِعٍ",
+              "full_name": "Nafi' mawla 'Abdullah ibn 'Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَبْدِ اللَّهِ بْنِ عُمَرَ",
+              "full_name": "'Abdullah ibn 'Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> نَافِعٍ -> عَبْدِ اللَّهِ بْنِ عُمَرَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "حَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /94 نَافِعٍ L7863 /94 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" لَا يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ \" /27 * \r\n$1356  1359 /2",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1640,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 9345,
+      "book_id": 19,
+      "hadith_number": 1641,
+      "english_translation": "Narrated by أَبِي بَكْرِ بْنِ عَبْدِ: matters concerning Islamic commerce and trade",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي بَكْرِ بْنِ عَبْدِ",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الْأَعْرَجِ",
+              "full_name": "Abd al-Rahman ibn Hurmuz al-A'raj al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي بَكْرِ بْنِ عَبْدِ",
+              "full_name": "Abu Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي بَكْرِ بْنِ عَبْدِ -> الْأَعْرَجِ -> أَبِي بَكْرِ بْنِ عَبْدِ -> مَالِك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Commerce and Trade"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 أَبِي الزِّنَادِ L4798 /94 ، عَنْ /26 الْأَعْرَجِ L4506 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" لَا تَلَقَّوْا الرُّكْبَانَ لِلْبَيْعِ ، وَلَا يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ ، وَلَا تَنَاجَشُوا ، وَلَا يَبِعْ حَاضِرٌ لِبَادٍ ، وَلَا تُصَرُّوا الْإِبِلَ وَالْغَنَمَ ، فَمَنِ ابْتَاعَهَا بَعْدَ ذَلِكَ فَهُوَ بِخَيْرِ النَّظَرَيْنِ بَعْدَ أَنْ يَحْلُبَهَا إِنْ رَضِيَهَا أَمْسَكَهَا وَإِنْ سَخِطَهَا رَدَّهَا وَصَاعًا مِنْ تَمْرٍ \" /27 . قَالَ /12 مَالِك /12 : /10 وَتَفْسِيرُ قَوْلِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِيمَا نُرَى وَاللَّهُ أَعْلَمُ : لَا يَبِعْ بَعْضُكُمْ عَلَى بَيْعِ بَعْضٍ : أَنَّهُ إِنَّمَا نَهَى أَنْ يَسُومَ الرَّجُلُ عَلَى سَوْمِ أَخِيهِ ، إِذَا رَكَنَ الْبَائِعُ إِلَى السَّائِمِ وَجَعَلَ يَشْتَرِطُ وَزْنَ الذَّهَبِ وَيَتَبَرَّأُ مِنَ الْعُيُوبِ وَمَا أَشْبَهَ ذَلِكَ مِمَّا يُعْرَفُ بِهِ أَنَّ الْبَائِعَ قَدْ أَرَادَ مُبَايَعَةَ السَّائِمِ ، فَهَذَا الَّذِي نَهَى عَنْهُ وَاللَّهُ أَعْلَمُ /10 . قَالَ /12 مَالِك /12 : /10 وَلَا بَأْسَ بِالسَّوْمِ بِالسِّلْعَةِ تُوقَفُ لِلْبَيْعِ فَيَسُومُ بِهَا غَيْرُ وَاحِدٍ ، قَالَ : وَلَوْ تَرَكَ النَّاسُ السَّوْمَ عِنْدَ أَوَّلِ مَنْ يَسُومُ بِهَا ، أُخِذَتْ بِشِبْهِ الْبَاطِلِ مِنَ الثَّمَنِ ، وَدَخَلَ عَلَى الْبَاعَةِ فِي سِلَعِهِمُ الْمَكْرُوهُ ، وَلَمْ يَزَلِ الْأَمْرُ عِنْدَنَا عَلَى هَذَا /10 * \r\n$1357  1360 /2",
+      "collection": "Muwatta' Malik",
+      "reference_number": 1641,
+      "grade": "Acceptable"
+    }
+  ],
+  "processing_summary": {
+    "Perfect": 0,
+    "Sound": 4,
+    "Acceptable": 6,
+    "Questionable But Might Be Acceptable": 0,
+    "Weak But Might Be Acceptable": 0,
+    "Problematic": 1
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "batch_number": 2,
+  "file_number": 36,
+  "processed_hadith_count": 8,
+  "hadiths": [
+    {
+      "hadith_id": 9526,
+      "book_id": 19,
+      "hadith_number": 1822,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik: The Sunna concerning injury caused by slaves is that whatever injury a slave causes to a person, whether it be a wound he has inflicted on someone, or something he has stolen, or produce he has picked up wrongfully, or theft he has committed without amputation - all of that is on the slave's body without exceeding it, whether little or much. If the master wishes, he may give the value of what his boy took or damaged, or the compensation for what he wounded, give it and keep his boy, or if he wishes he may hand him over, and there is nothing upon him besides that - his master has the choice in this matter.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Yahya",
+              "full_name": "Yahya ibn Yahya al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Yahya -> Malik ibn Anas"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal ruling on slave liability for injury and damage",
+        "Master's rights concerning enslaved person's actions",
+        "Compensation for losses caused by enslaved persons"
+      ],
+      "arabicText": "قَالَ يَحْيَى : سَمِعْتُ مَالِكًا ، يَقُولُ : السُّنَّةُ عِنْدَنَا فِي جِنَايَةِ الْعَبِيدِ ، أَنَّ كُلَّ مَا أَصَابَ الْعَبْدُ مِنْ جُرْحٍ جَرَحَ بِهِ إِنْسَانًا ، أَوْ شَيْءٍ اخْتَلَسَهُ ، أَوْ حَرِيسَةٍ احْتَرَسَهَا ، أَوْ ثَمَرٍ مُعَلَّقٍ جَذَّهُ أَوْ أَفْسَدَهُ ، أَوْ سَرِقَةٍ سَرَقَهَا لَا قَطْعَ عَلَيْهِ فِيهَا ، إِنَّ ذَلِكَ فِي رَقَبَةِ الْعَبْدِ لَا يَعْدُو ذَلِكَ الرَّقَبَةَ قَلَّ ذَلِكَ أَوْ كَثُرَ ، فَإِنْ شَاءَ سَيِّدُهُ أَنْ يُعْطِيَ قِيمَةَ مَا أَخَذَ غُلَامُهُ أَوْ أَفْسَدَ أَوْ عَقْلَ مَا جَرَحَ أَعْطَاهُ وَأَمْسَكَ غُلَامَهُ ، وَإِنْ شَاءَ أَنْ يُسْلِمَهُ أَسْلَمَهُ وَلَيْسَ عَلَيْهِ شَيْءٌ غَيْرُ ذَلِكَ ، فَسَيِّدُهُ فِي ذَلِكَ بِالْخِيَارِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1822,
+      "grade": "Mawquf"
+    },
+    {
+      "hadith_id": 9528,
+      "book_id": 19,
+      "hadith_number": 1824,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik, from Nafi', from Abdullah ibn Umar: The Messenger of Allah ﷺ said: 'Whoever frees a share that he owns in a slave, if he has wealth that reaches the price of the slave, it shall be assessed at a just valuation, he shall give his partners their shares, and the slave shall be freed. If he does not have wealth that reaches it, then whatever he has freed shall be freed from him.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' ibn al-Harith al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Freeing a slave owned in partnership",
+        "Rights of co-owners when a partner frees their share",
+        "Monetary evaluation of slaves"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : مَنْ أَعْتَقَ شِرْكًا لَهُ فِي عَبْدٍ ، فَكَانَ لَهُ مَالٌ يَبْلُغُ ثَمَنَ الْعَبْدِ قُوِّمَ عَلَيْهِ قِيمَةَ الْعَدْلِ ، فَأَعْطَى شُرَكَاءَهُ حِصَصَهُمْ ، وَعَتَقَ عَلَيْهِ الْعَبْدُ ، وَإِلَّا فَقَدْ عَتَقَ مِنْهُ مَا عَتَقَ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1824,
+      "grade": "Hasan"
+    },
+    {
+      "hadith_id": 9530,
+      "book_id": 19,
+      "hadith_number": 1826,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik: Whoever frees a slave of his, definitively freeing him so that his testimony becomes valid and his freedom is complete and his inheritance is established, then it is not for his master to stipulate upon him like what he stipulates upon his slave, from wealth or service, and not burden him with anything from slavery, because the Messenger of Allah ﷺ said: 'Whoever frees a share he owns in a slave, it shall be valued at a just price, he gives his partners their shares, and the slave is freed upon him.' Malik said: So if the slave is exclusively his, he is more worthy to complete his freedom and not mix it with anything of slavery.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal consequences of freeing a slave",
+        "Rights and obligations of freed persons",
+        "Prohibition of imposing conditions on freed persons"
+      ],
+      "arabicText": "قَالَ مَالِك : مَنْ أَعْتَقَ عَبْدًا لَهُ ، فَبَتَّ عِتْقَهُ حَتَّى تَجُوزَ شَهَادَتُهُ وَتَتِمَّ حُرِّيَّتُهُ وَيَثْبُتَ مِيرَاثُهُ ، فَلَيْسَ لِسَيِّدِهِ أَنْ يَشْتَرِطَ عَلَيْهِ مِثْلَ مَا يَشْتَرِطُ عَلَى عَبْدِهِ ، مِنْ مَالٍ أَوْ خِدْمَةٍ وَلَا يَحْمِلَ عَلَيْهِ شَيْئًا مِنَ الرِّقِّ ، لِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : مَنْ أَعْتَقَ شِرْكًا لَهُ فِي عَبْدٍ قُوِّمَ عَلَيْهِ قِيمَةَ الْعَدْلِ ، فَأَعْطَى شُرَكَاءَهُ حِصَصَهُمْ ، وَعَتَقَ عَلَيْهِ الْعَبْدُ . قَالَ مَالِك : فَهُوَ إِذَا كَانَ لَهُ الْعَبْدُ خَالِصًا أَحَقُّ بِاسْتِكْمَالِ عَتَاقَتِهِ ، وَلَا يَخْلِطُهَا بِشَيْءٍ مِنَ الرِّقِّ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1826,
+      "grade": "Mawquf"
+    },
+    {
+      "hadith_id": 9532,
+      "book_id": 19,
+      "hadith_number": 1828,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik, from Yahya ibn Saeed and from others, from Hassan al-Basri and Muhammad ibn Sireen: A man in the time of the Messenger of Allah ﷺ freed six slaves at his death, and the Messenger of Allah ﷺ drew lots among them and freed one-third of those slaves. Malik said: And it reached me that this man had no wealth besides them.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Saeed",
+              "full_name": "Yahya ibn Saeed ibn Qays al-Qurashi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hassan al-Basri",
+              "full_name": "Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mursal - potential disconnection from companion"]
+            }
+          ],
+          "chainIssues": [
+            "Hassan al-Basri's narration of this incident uses the transmission term 'an, and Hassan al-Basri's mursal reports from companions are known to be among the weakest forms of mursal narrations according to classical methodology"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Sireen",
+              "full_name": "Muhammad ibn Sireen al-Ansari al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Yahya ibn Saeed -> Hassan al-Basri -> (Implied companion/event during Prophet's ﷺ time)",
+        "Malik ibn Anas -> Muhammad ibn Sireen -> (Implied incident from Prophet's ﷺ time)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hassan al-Basri's use of 'an (عَنْ) transmission term potentially indicates mursal (disconnected) chain",
+          "impact": "Hassan al-Basri is known to make mursal reports, and this particular chain via Hassan may be disconnected from the actual eyewitness to the event, making it potentially weak"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Freeing multiple slaves at time of death",
+        "Incident of a man freeing six enslaved persons",
+        "Drawing lots for freeing enslaved persons"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، وَعَنْ غَيْرِ وَاحِدٍ ، عَنْ الْحَسَنِ بْنِ أَبِي الْحَسَنِ الْبَصْرِيِّ ، وَعَنْ مُحَمَّدِ بْنِ سِيرِينَ ، أَنَّ رَجُلًا فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَعْتَقَ عَبِيدًا لَهُ سِتَّةً عِنْدَ مَوْتِهِ ، فَأَسْهَمَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَيْنَهُمْ ، فَأَعْتَقَ ثُلُثَ تِلْكَ الْعَبِيدِ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1828,
+      "grade": "Da'if"
+    },
+    {
+      "hadith_id": 9533,
+      "book_id": 19,
+      "hadith_number": 1829,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik, from Rabi'ah ibn Abi Abdur-Rahman: A man during the governorship of Aban ibn Uthman freed all his enslaved persons together, and he had no wealth besides them. So Aban ibn Uthman ordered concerning those enslaved persons: they were divided into thirds, then he drew lots regarding which of them the lot of the deceased would fall upon so they would be freed, and the lot fell upon one of the thirds, and the third upon which the lot fell was freed.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abdur-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abdur-Rahman al-Qurashi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Rabi'ah ibn Abi Abdur-Rahman"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of freeing all enslaved persons",
+        "Drawing lots for determining which slaves are freed",
+        "Legal judgment of Aban ibn Uthman"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّ رَجُلًا فِي إِمَارَةِ أَبَانَ بْنِ عُثْمَانَ أَعْتَقَ رَقِيقًا لَهُ كُلَّهُمْ جَمِيعًا ، وَلَمْ يَكُنْ لَهُ مَالٌ غَيْرُهُمْ ، فَأَمَرَ أَبَانُ بْنُ عُثْمَانَ بِتِلْكَ الرَّقِيقِ ، فَقُسِمَتْ أَثْلَاثًا ، ثُمَّ أَسْهَمَ عَلَى أَيِّهِمْ يَخْرُجُ سَهْمُ الْمَيِّتِ فَيَعْتِقُونَ ، فَوَقَعَ السَّهْمُ عَلَى أَحَدِ الْأَثْلَاثِ ، فَعَتَقَ الثُّلُثُ الَّذِي وَقَعَ عَلَيْهِ السَّهْمُ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1829,
+      "grade": "Athar"
+    },
+    {
+      "hadith_id": 9535,
+      "book_id": 19,
+      "hadith_number": 1831,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik, from Ibn Shihab al-Zuhri: The Sunna has passed that 'When a slave is freed, his wealth follows him.' Malik said: And from that which clarifies this is that when a slave is freed, his wealth follows him, just as when a mukatab (contractually freed person) is given his contract, his wealth follows him even if the mukatab does not stipulate it. That is because the contract of mukatabah is the contract of wala (patronage) when that is completed. The wealth of the slave and mukatab is not like the wealth they had from children, rather their children are in the position of their own selves, not in the position of their wealth, because the Sunna which has no disagreement is that when a slave is freed, his wealth follows him and his children do not follow him...",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis (category 3 by Ibn Hajar) - note indicates indirect transmission but narrator is widely considered extremely reliable"]
+            }
+          ],
+          "chainIssues": [
+            "Ibn Shihab al-Zuhri uses 'an (عَنْ) transmission term. While al-Zuhri is classified as a mudallis (category 3) by some scholars, he is widely considered extremely reliable by the majority of hadith scholars and his narrations with 'an are generally accepted"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri may be practicing tadlis (deceptive omission) with use of 'an transmission term",
+          "impact": "While al-Zuhri is classified as a mudallis by some scholars, he is extremely reliable according to the majority and this does not significantly affect the grading of the hadith. His tadlis is a minor concern compared to his overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Wealth of freed slaves and their inheritance status",
+        "Comparison between freed slaves and mukatab contracts",
+        "Legal rules concerning freed persons' property"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ أَنَّهُ سَمِعَهُ ، يَقُولُ : مَضَتِ السُّنَّةُ أَنَّ الْعَبْدَ إِذَا أُعْتِقَ ، تَبِعَهُ مَالُهُ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1831,
+      "grade": "Hasan"
+    },
+    {
+      "hadith_id": 9537,
+      "book_id": 19,
+      "hadith_number": 1833,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik, from Nafi', from Abdullah ibn Umar: Umar ibn al-Khattab said: 'Any enslaved woman who bears a child from her master - he cannot sell her, nor give her as a gift, nor make her inheritable while he is enjoying her, so when he dies, she is free.' And it reached Malik that Umar ibn al-Khattab ruled concerning an enslaved woman who was struck by her master with fire or was affected by it - he freed her. Malik said: The agreed upon matter with us is that freeing is not permitted for a man who owes a debt that encompasses his wealth, and freeing is not permitted for a boy until he reaches puberty or reaches the age of puberty, and freeing is not permitted for one under guardianship in his wealth even if he has reached puberty until he takes charge of his wealth.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' ibn al-Harith al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Qurashi al-'Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Nafi' -> Abdullah ibn Umar -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Legal status of enslaved women who bear children from their masters",
+        "Freedom upon master's death for mother of master's children",
+        "Incident of enslaved woman struck by her master",
+        "Conditions and restrictions on freeing enslaved persons"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، قَالَ : أَيُّمَا وَلِيدَةٍ وَلَدَتْ مِنْ سَيِّدِهَا ، فَإِنَّهُ لَا يَبِيعُهَا وَلَا يَهَبُهَا وَلَا يُوَرِّثُهَا وَهُوَ يَسْتَمْتِعُ بِهَا ، فَإِذَا مَاتَ ، فَهِيَ حُرَّةٌ",
+      "collection": "Muwatta Malik",
+      "reference_number": 1833,
+      "grade": "Hasan"
+    },
+    {
+      "hadith_id": 9539,
+      "book_id": 19,
+      "hadith_number": 1835,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik, from Hilal ibn Usamah, from Ata' ibn Yasar, from Umar ibn al-Hakam: I came to the Messenger of Allah ﷺ and said: O Messenger of Allah, I have an enslaved woman who was shepherding sheep for me. When I came to her, a sheep from the flock was missing. I asked her about it and she said a wolf ate it. I was grieved about it, and I was from the children of Adam, so I struck her on the face and I have an obligation of freeing a slave. Can I free her? The Messenger of Allah ﷺ said to her: 'Where is Allah?' She said: In the heaven. He said: 'Who am I?' She said: You are the Messenger of Allah. The Messenger of Allah ﷺ said: 'Free her.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hilal ibn Usamah",
+              "full_name": "Hilal ibn Usamah al-Qurashi",
+              "grade": "Da'if",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["da'if narrator - weak reliability"]
+            },
+            {
+              "name": "Ata' ibn Yasar",
+              "full_name": "Ata' ibn Yasar al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Hakam",
+              "full_name": "Umar ibn al-Hakam al-Ansari",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Hilal ibn Usamah -> Ata' ibn Yasar -> Umar ibn al-Hakam -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hilal ibn Usamah is graded as da'if (weak) in narration reliability",
+          "impact": "The presence of a weak narrator (Hilal ibn Usamah) early in the chain weakens the overall chain reliability, downgrades the hadith to questionable/weak status"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of man questioning Prophet about freeing slave woman",
+        "Woman's knowledge of Allah and faith in Prophet",
+        "Prophet's judgment to free slave woman in response to faith",
+        "Consequences of striking an enslaved person"
+      ],
+      "arabicText": "حَدَّثَنِي مَالِك ، عَنْ هِلَالِ بْنِ أُسَامَةَ ، عَنْ عَطَاءِ بْنِ يَسَارٍ ، عَنْ عُمَرَ بْنِ الْحَكَمِ ، أَنَّهُ قَالَ : أَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقُلْتُ : يَا رَسُولَ اللَّهِ ، إِنَّ جَارِيَةً لِي كَانَتْ تَرْعَى غَنَمًا لِي ، فَجِئْتُهَا وَقَدْ فُقِدَتْ شَاةٌ مِنَ الْغَنَمِ ، فَسَأَلْتُهَا عَنْهَا ، فَقَالَتْ : أَكَلَهَا الذِّئْبُ ، فَأَسِفْتُ عَلَيْهَا ، وَكُنْتُ مِنْ بَنِي آدَمَ فَلَطَمْتُ وَجْهَهَا وَعَلَيَّ رَقَبَةٌ ، أَفَأُعْتِقُهَا ؟ فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَيْنَ اللَّهُ ؟ فَقَالَتْ : فِي السَّمَاءِ . فَقَالَ : مَنْ أَنَا ؟ فَقَالَتْ : أَنْتَ رَسُولُ اللَّهِ . فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَعْتِقْهَا",
+      "collection": "Muwatta Malik",
+      "reference_number": 1835,
+      "grade": "Da'if"
+    },
+    {
+      "hadith_id": 9540,
+      "book_id": 19,
+      "hadith_number": 1836,
+      "narrator_id": null,
+      "english_translation": "Narrated by Malik, from Ibn Shihab al-Zuhri, from Ubaidullah ibn Abdullah ibn Utbah ibn Mas'ud: A man from the Ansar came to the Messenger of Allah ﷺ with a dark enslaved woman and said: O Messenger of Allah, I am obligated to free a believing slave. If you see her as believing, may I free her? The Messenger of Allah ﷺ asked her: 'Do you bear witness that there is no god but Allah?' She said: Yes. He said: 'Do you bear witness that Muhammad is the Messenger of Allah?' She said: Yes. He said: 'Do you believe in the resurrection after death?' She said: Yes. The Messenger of Allah ﷺ said: 'Free her.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik ibn Anas",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Classified as mudallis (category 3 by Ibn Hajar) - note indicates indirect transmission but narrator is widely considered extremely reliable"]
+            },
+            {
+              "name": "Ubaidullah ibn Abdullah ibn Utbah",
+              "full_name": "Ubaidullah ibn Abdullah ibn Utbah ibn Mas'ud al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn Shihab al-Zuhri uses 'an (عَنْ) transmission term. While al-Zuhri is classified as a mudallis (category 3) by some scholars, he is widely considered extremely reliable by the majority of hadith scholars and his narrations with 'an are generally accepted"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik ibn Anas -> Ibn Shihab al-Zuhri -> Ubaidullah ibn Abdullah ibn Utbah -> Ansari man -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri may be practicing tadlis (deceptive omission) with use of 'an transmission term",
+          "impact": "While al-Zuhri is classified as a mudallis by some scholars, he is extremely reliable according to the majority and this does not significantly affect the grading of the hadith. His tadlis is a minor concern compared to his overall reliability"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of man bringing enslaved woman to Prophet for assessment of faith",
+        "Prophet questioning enslaved woman about Islamic beliefs",
+        "Freeing of enslaved person based on faith profession",
+        "Conditions for fulfilling obligation of freeing a slave"
+      ],
+      "arabicText": "وَحَدَّثَنِي مَالِك ، عَنْ ابْنِ شِهَابٍ ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ ، أَنَّ رَجُلًا مِنْ الْأَنْصَارِ جَاءَ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِجَارِيَةٍ لَهُ سَوْدَاءَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، إِنَّ عَلَيَّ رَقَبَةً مُؤْمِنَةً ، فَإِنْ كُنْتَ تَرَاهَا مُؤْمِنَةً ، أُعْتِقُهَا ؟ فَقَالَ لَهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَتَشْهَدِينَ أَنْ لَا إِلَهَ إِلَّا اللَّهُ ؟ قَالَتْ : نَعَمْ . قَالَ : أَتَشْهَدِينَ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ؟ قَالَتْ : نَعَمْ . قَالَ : أَتُوقِنِينَ بِالْبَعْثِ بَعْدَ الْمَوْتِ ؟ قَالَتْ : نَعَمْ . فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَعْتِقْهَا",
+      "collection": "Muwatta Malik",
+      "reference_number": 1836,
+      "grade": "Hasan"
+    }
+  ],
+  "summary": {
+    "total_hadiths_in_file": 15,
+    "hadiths_with_empty_matn": 7,
+    "hadiths_processed": 8,
+    "processing_status": "Completed",
+    "IISGrade_distribution": {
+      "Perfect": 0,
+      "Sound": 3,
+      "Acceptable": 2,
+      "Questionable But Might Be Acceptable": 0,
+      "Weak But Might Be Acceptable": 2,
+      "Problematic": 0
+    },
+    "chain_types": {
+      "marfu'": 5,
+      "mawquf": 3,
+      "maqtu'": 0,
+      "athar": 0
+    },
+    "critical_findings": [
+      "Hadith 9532: Hassan al-Basri's mursal reports are known to be among the weakest forms and may be disconnected from the actual companion who witnessed the event",
+      "Hadith 9539: Hilal ibn Usamah is graded as da'if (weak), which weakens the overall chain reliability",
+      "Hadiths 9535 and 9540: Ibn Shihab al-Zuhri's use of 'an transmission term notes his mudallis status, but he remains widely accepted due to his exceptional reliability",
+      "Most hadiths pertain to Muwatta Malik and deal with legal rulings on freeing enslaved persons"
+    ]
+  }
+}
