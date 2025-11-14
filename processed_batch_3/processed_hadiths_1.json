@@ -1,0 +1,665 @@
+{
+  "batch_number": 3,
+  "file_number": 1,
+  "record_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 18001,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ came out to us in Ramadan and said: \"I was shown this night in Ramadan, then two men quarreled and it was lifted. So seek it in the ninth, the seventh, and the fifth [nights of the last ten nights of Ramadan].\"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حميد الطويل",
+              "full_name": "حميد بن أبي حميد الطويل البصري",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أنس بن مالك",
+              "full_name": "أنس بن مالك بن النضر الأنصاري الخزرجي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms used (3 times)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> حميد الطويل -> أنس بن مالك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) or similar ambiguous transmission terms (2 occurrences)",
+          "impact": "Ambiguous transmission terms present potential discontinuity, but narrators are all reliable and trustworthy, so the chain is acceptable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of the Night of Decree being lifted due to quarreling",
+        "Seeking Laylat al-Qadr in specific nights"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، وَحَدَّثَنِي زِيَاد ، عَنْ /12 مَالِك /12 ، عَنْ /26 حُمَيْدٍ الطَّوِيلِ L2531 /26 ، /27 عَنْ /93 أَنَسِ بْنِ مَالِكٍ L720 /93 ، أَنَّهُ قَالَ : خَرَجَ عَلَيْنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي رَمَضَانَ ، فَقَالَ : \" إِنِّي /20 أُرِيتُ هَذِهِ اللَّيْلَةَ فِي رَمَضَانَ حَتَّى تَلَاحَى رَجُلَانِ ، فَرُفِعَتْ ، فَالْتَمِسُوهَا فِي التَّاسِعَةِ ، وَالسَّابِعَةِ ، وَالْخَامِسَةِ \" /27 * \r\n$506  506 886 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 617,
+      "grade": null
+    },
+    {
+      "hadith_id": 18002,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "The hadith discusses matters related to Islamic teachings.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Islamic teachings and guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، وَحَدَّثَنِي زِيَاد ، عَنْ /12 مَالِك /12 ، عَنْ /26 أَبِي النَّضْرِ L3181 /26 مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ ، /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ أُنَيْسٍ الْجُهَنِيَّ L4662 /93 ، قَالَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : يَا رَسُولَ اللَّهِ /20 إِنِّي رَجُلٌ شَاسِعُ الدَّارِ ، فَمُرْنِي بلَيْلَةٍ أَنْزِلُ لَهَا ، فَقَالَ لَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" انْزِلْ لَيْلَةَ ثَلَاثٍ وَعِشْرِينَ مِنْ رَمَضَانَ \" /27 * \r\n$507  507 887 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 618,
+      "grade": null
+    },
+    {
+      "hadith_id": 18003,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Men from the Companions of the Messenger of Allah ﷺ were shown Laylat al-Qadr in dreams during the last seven [nights]. The Messenger of Allah ﷺ said: \"I see that your visions have converged upon the last seven, so whoever is seeking it, let him seek it in the last seven [nights].\"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "نافع مولى عبد الله بن عمر",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms used (3 times)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> نافع -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) or similar ambiguous transmission terms (1 occurrences)",
+          "impact": "Ambiguous transmission terms present potential discontinuity, but narrators are all reliable and trustworthy, so the chain is acceptable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Dreams of Companions about Laylat al-Qadr",
+        "Convergence of visions on the last seven nights"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، وَحَدَّثَنِي زِيَاد ، عَنْ /12 مَالِك /12 ، عَنْ /26 نَافِعٍ L7863 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّ رِجَالًا مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أُرُوا لَيْلَةَ الْقَدْرِ فِي الْمَنَامِ ، فِي السَّبْعِ الأَوَاخِرِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 إِنِّي أَرَى رُؤْيَاكُمْ قَدْ تَوَاطَأَتْ فِي السَّبْعِ الأَوَاخِرِ ، فَمَنْ كَانَ مُتَحَرِّيَهَا : فَلْيَتَحَرَّهَا فِي السَّبْعِ الأَوَاخِرِ \" /27 * \r\n\u000eE160 \r\n$508  508 888 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 619,
+      "grade": null
+    },
+    {
+      "hadith_id": 18004,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "The hadith discusses matters related to Islamic teachings.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms used (3 times)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Seeking Laylat al-Qadr in the last seven nights"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، وَحَدَّثَنِي زِيَاد ، عَنْ /12 مَالِك /12 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 تَحَرَّوْا لَيْلَةَ الْقَدْرِ فِي السَّبْعِ الأَوَاخِرِ \" /27 * \r\n@ حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، أَنَّهُ سَمِعَ مَنْ يَثِقُ بِهِ ، مِنْ أَهْلِ الْعِلْمِ يَقُولُ أنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أُرِيَ أَعْمَارَ النَّاسِ قَبْلَهُ ، فتقالها ، أَوْ مَا شَاءَ اللَّهُ مِنْ ذَلِكَ ، فَكَأَنَّهُ تَقَاصَرَ أَعْمَارَ أُمَّتِهِ أَنْ لا يَبْلُغُوا مِنَ الْعَمَلِ مِثْلَ الَّذِي بَلَغَ غَيْرُهُمْ فِي طُولِ الْعُمْرِ ، فَأَعْطَاهُ اللَّهُ لَيْلَةَ الْقَدْرِ خَيْرًا مِنْ أَلْفِ شَهْرٍ \" # . @ حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، أَنَّهُ بلغه : أَنَّ سَعِيدَ بْنَ الْمُسَيِّبِ ، كَانَ يَقُولُ : \" مَنْ شَهِدَ الْعِشَاءَ مِنْ لَيْلَةِ الْقَدْرِ فَقَدْ أَخَذَ بِحَظِّهِ مِنْهَا \" # .\u001fE161",
+      "collection": "كتاب رقم 22",
+      "reference_number": 620,
+      "grade": null
+    },
+    {
+      "hadith_id": 18006,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "People disputed in her presence on the Day of Arafah regarding the fasting of the Messenger of Allah ﷺ. Some of them said: \"He is fasting,\" and some of them said: \"He is not fasting.\" So Umm al-Fadl sent to him a cup of milk while he was standing on his camel at Arafah, and he drank from it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms used (3 times)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Islamic teachings and guidance"
+      ],
+      "arabicText": "$509  509 891 /2 /141 حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، عَنْ /26 أَبِي النَّضْرِ L3181 /26 مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ ، عَنْ /26 عُمَيْرٍ L6234 /26 مَوْلَى عَبْدِ اللَّهِ بْنِ عَبَّاسٍ ، /27 عَنْ /93 أُمِّ الْفَضْلِ بِنْتِ الْحَارِثِ L6630 /93 ، \" أَنَّ /20 نَاسًا تَمَارَوْا عِنْدَهَا يَوْمَ /60 عَرَفَةَ /60 ، فِي صِيَامِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ بَعْضُهُمْ : هُوَ صَائِمٌ ، وَقَالَ بَعْضُهُمْ : لَيْسَ هُوَ بِصَائِمٍ ، فَأَرْسَلَتْ إِلَيْهِ /64 أُمُّ الْفَضْلِ /64 بِقَدَحِ لَبَنٍ ، وَهُوَ وَاقِفٌ عَلَى بَعِيرِهِ /60 بِعَرَفَةَ /60 ، فَشَرِبَ مِنْهُ \" /27 * \r\n$510  510 892 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 622,
+      "grade": null
+    },
+    {
+      "hadith_id": 18007,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Aisha: Aisha, the Mother of the Believers (may Allah be pleased with her), used to fast on the Day of Arafah. Al-Qasim said: \"I saw her on the evening of Arafah when the Imam departed, she would stand until the space between her and the people became white with dust, then she would call for drink and break her fast.\" The Messenger of Allah ﷺ forbade fasting on two days: the Day of al-Adha and the Day of al-Fitr.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الأعرج",
+              "full_name": "عبد الرحمن بن هرمز الأعرج",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "عائشة بنت أبي بكر الصديق",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms used (8 times)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> أبو هريرة -> الأعرج -> يحيى بن سعيد -> عائشة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) or similar ambiguous transmission terms (4 occurrences)",
+          "impact": "Ambiguous transmission terms present potential discontinuity, but narrators are all reliable and trustworthy, so the chain is acceptable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Aisha's practice of fasting on the Day of Arafah",
+        "Breaking fast after the Imam departs from Arafah",
+        "Days when fasting is forbidden",
+        "Eid al-Adha and Eid al-Fitr"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، عَنْ /26 مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ L7319 /26 ، عَنْ /26 الأَعْرَجِ L4506 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 نَهَى عَنْ صِيَامِ يَوْمَيْنِ : يَوْمِ الأَضْحَى ، ويَوْمِ الْفِطْرِ \" /27 * \r\n$511  511 893 /3 /141 حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، عَنْ /26 يَحْيَى بْنِ سَعِيدٍ L8272 /26 ، عَنِ /26 الْقَاسِمِ بْنِ مُحَمَّدٍ L1598 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 أُمِّ الْمُؤْمِنِينَ رَضِيَ اللَّهُ عَنْهَا \" إِنَّهَا كَانَتْ /20 تَصُومُ يَوْمَ /60 عَرَفَةَ /60 ، فقَالَ الْقَاسِمُ : وَلَقَدْ رَأَيْتُهَا عَشِيَّةَ /60 عَرَفَةَ /60 ، يَدْفَعُ الْإِمَامُ ، وتَقِفُ حَتَّى يَبْيَضَّ مَا بَيْنَهَا وَبَيْنَ النَّاسِ مِنَ الأَرْضِ ، ثُمَّ تَدْعُو بالِشَرَابِ ، فَتُفْطِرُ \" /27 * \r\n@ حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، أَنَّهُ سَمِعَ أَهْلَ الْعِلْمِ ، يَقُولُونَ : لا بَأْسَ بِصِيَامِ الدَّهْرِ إِذَا أَفْطَرَ الأَيَّامَ الَّتِي نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ   صِيَامِهَا ، وَهِيَ : يَوْمُ الأَضْحَى وَأَيَّامُ مِنًى ، وَيَوْمُ الْفِطْرِ # /1 كِتَاب الْجِهَادِ /1",
+      "collection": "كتاب رقم 22",
+      "reference_number": 623,
+      "grade": null
+    },
+    {
+      "hadith_id": 18009,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "The hadith discusses matters related to Islamic teachings.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Pledge of allegiance with condition of ability"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّهُ قَالَ : \" كُنَّا /20 إِذَا بَايَعْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى السَّمْعِ ، وَالطَّاعَةِ ، يَقُولُ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : فِيمَا اسْتَطَعْتُمْ \" /27 * \r\n\u001fE162 \r\n$513  513 896 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 625,
+      "grade": null
+    },
+    {
+      "hadith_id": 18010,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "The hadith discusses matters related to Islamic teachings.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبادة بن الوليد",
+              "full_name": "عبادة بن الوليد بن عبادة بن الصامت",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الوليد بن عبادة",
+              "full_name": "الوليد بن عبادة بن الصامت الأنصاري",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple 'an (عَنْ) terms used (3 times)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> يحيى بن سعيد -> عبادة بن الوليد -> الوليد بن عبادة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) or similar ambiguous transmission terms (2 occurrences)",
+          "impact": "Ambiguous transmission terms present potential discontinuity, but narrators are all reliable and trustworthy, so the chain is acceptable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Terms of pledge of allegiance",
+        "Obedience in hardship and ease",
+        "Speaking truth without fearing blame"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، عَنْ /26 يَحْيَى بْنِ سَعِيدٍ L8272 /26 ، أَنَّهُ قَالَ : أَخْبَرَنِي /26 عُبَادَةُ بْنُ الْوَلِيدِ بْنِ عُبَادَةَ بْنِ الصَّامِتِ L4155 /26 : عَنْ /26 أَبِيهِ L1783 /26 ، أَنَّ أَبَاهُ أَخْبَرَهُ ، عَنْ /93 عُبَادَةَ بْنِ الصَّامِتِ L4153 /93 ، قَالَ : /27 \" /20 بَايَعْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى السَّمْعِ ، وَالطَّاعَةِ فِي الْعُسْرِ وَالْيُسْرِ ، وَالْمَنْشَطِ ، وَالْمَكْرَهِ ، وَأَنْ لا نُنَازِعَ الأَمْرَ أَهْلَهُ ، وَأَنْ نَقُومَ /23 أَوْ نَقُولَ /23 بِالْحَقِّ ، حَيْثُمَا كُنَّا ، لا نَخَافُ فِي اللَّهِ لَوْمَةَ لَائِمٍ \" /27 * \r\n$514  514 897 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 626,
+      "grade": null
+    },
+    {
+      "hadith_id": 18011,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Umayma bint Ruqayqa:",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أميمة بنت رقيقة",
+              "full_name": "أميمة بنت رقيقة التميمية",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهَا قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> أميمة بنت رقيقة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Islamic teachings and guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /26 مُحَمَّدِ بْنِ الْمُنْكَدِرِ L6864 /26 ، /27 عَنْ /93 أُمَيْمَةَ بِنْتِ رُقَيْقَةَ L710 /93 ، أَنَّهَا قَالَتْ : أَتَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي نِسْوَةٍ نبَايَعُهُ ، فَقُلْنَ : /20 نُبَايِعُكَ يَا رَسُولَ اللَّهِ عَلَى أَنْ لا نُشْرِكَ بِاللَّهِ شَيْئًا ، وَلَا نَسْرِقَ ، وَلَا نَزْنِيَ ، وَلَا نَقْتُلَ أَوْلَادَنَا ، وَلَا نَأْتِيَ بِبُهْتَانٍ نَفْتَرِيهِ بَيْنَ أَيْدِينَا ، وَأَرْجُلِنَا ، وَلَا نَعْصِيَكَ فِي مَعْرُوفٍ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" فِيمَا اسْتَطَعْتُنَّ ، وَأَطَقْتُنَّ ، قَالَتْ : فَقُلْتُ : اللَّهُ وَرَسُولُهُ أَرْحَمُ بِنَا مِنْ أَنْفُسِنَا ، هَلُمَّ نُبَايِعْكَ يَا رَسُولَ اللَّهِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنِّي لا أُصَافِحُ النِّسَاءَ ، إِنَّمَا قَوْلِي لِمِائَةِ امْرَأَةٍ كَقَوْلِي لِامْرَأَةٍ وَاحِدَةٍ ، أَوْ مِثْلِ قَوْلِي لِامْرَأَةٍ وَاحِدَةٍ \" /27 * \r\n$515  515 898 /3",
+      "collection": "كتاب رقم 22",
+      "reference_number": 627,
+      "grade": null
+    },
+    {
+      "hadith_id": 18012,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Abdullah ibn Umar wrote to Abd al-Malik ibn Marwan giving him the pledge of allegiance. He wrote to him: \"In the name of Allah, the Most Merciful, the Most Compassionate. As for what follows: To the servant of Allah, Abd al-Malik, the Commander of the Believers, from Abdullah ibn Umar: Peace be upon you. I praise to you Allah, there is no god but He, and I acknowledge to you hearing and obeying according to the Sunnah of Allah and the Sunnah of His Messenger ﷺ, in what I am able.\"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Islamic teachings and guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /26 /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ عُمَرَ L4967 /93 كَتَبَ إِلَى عَبْدِ الْمَلِكِ بْنِ مَرْوَانَ \" يُبَايِعُهُ ، فَكَتَبَ إِلَيْهِ : \" بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ، أَمَّا بَعْدُ ، لِعَبْدِ اللَّهِ عَبْدِ الْمَلِكِ أَمِيرِ الْمُؤْمِنِينَ مِنْ عَبْدِ اللَّهِ بْنِ عُمَرَ : سَلَامٌ عَلَيْكَ ، فَإِنِّي /20 أَحْمَدُ إِلَيْكَ اللَّهَ الَّذِي لا إِلَهَ إِلَّا هُوَ ، وَأُقِرُّ لَكَ بِالسَّمْعِ وَالطَّاعَةِ عَلَى سُنَّةِ اللَّهِ وَسُنَّةِ رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فِيمَا اسْتَطَعْتُ \" /27 * \r\n\u001cE163",
+      "collection": "كتاب رقم 22",
+      "reference_number": 628,
+      "grade": null
+    },
+    {
+      "hadith_id": 18014,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "The Messenger of Allah ﷺ said: \"Horses - goodness is in their forelocks until the Day of Resurrection.\"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "نافع مولى عبد الله بن عمر",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> نافع -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) or similar ambiguous transmission terms (1 occurrences)",
+          "impact": "Ambiguous transmission terms present potential discontinuity, but narrators are all reliable and trustworthy, so the chain is acceptable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Goodness tied in horses' forelocks until Day of Resurrection"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، عَنْ /26 نَافِعٍ L7863 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 الْخَيْلُ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ \" /27 * \r\n$517  517 900 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 630,
+      "grade": null
+    },
+    {
+      "hadith_id": 18015,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "The Messenger of Allah ﷺ was seen wiping the face of his horse with his cloak. He was asked about that, so he said: \"I was reproached last night regarding the horses.\"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبو مصعب",
+              "full_name": "أحمد بن أبي بكر بن عبد الرحمن الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مالك",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "يحيى بن سعيد بن قيس الأنصاري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبو مصعب -> مالك -> يحيى بن سعيد -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses 'an (عَنْ) or similar ambiguous transmission terms (1 occurrences)",
+          "impact": "Ambiguous transmission terms present potential discontinuity, but narrators are all reliable and trustworthy, so the chain is acceptable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "The Prophet ﷺ wiping his horse's face with his cloak",
+        "Being reproached in a dream about neglecting horses"
+      ],
+      "arabicText": "حَدَّثَنَا /22 أَبُو مُصْعَبٍ /22 ، قَالَ : حَدَّثَنَا /12 مَالِكٌ /12 ، عَنْ /26 يَحْيَى بْنِ سَعِيدٍ L8272 /26 ، /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 رُئِيَ وَهُوَ يَمْسَحُ وَجْهَ فَرَسِهِ بِرِدَائِهِ ، فَسُئِلَ عَنْ ذَلِكَ ، فَقَالَ : \" إِنِّي عُوتِبْتُ اللَّيْلَةَ فِي الْخَيْلِ \" /27 * \r\n$518  518 901 /2",
+      "collection": "كتاب رقم 22",
+      "reference_number": 631,
+      "grade": null
+    }
+  ]
+}

@@ -1,0 +1,836 @@
+{
+  "batch_number": 3,
+  "file_number": 9,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 18121,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abdullah ibn Amr ibn al-As: The deceased is clothed with a shirt, wrapped with an izar (lower garment), and wrapped in a third cloth. If there is only one cloth except, then he is shrouded in it.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            },
+            {
+              "name": "Humayd ibn Abd al-Rahman ibn Awf",
+              "full_name": "Humayd ibn Abd al-Rahman ibn Awf al-Zuhri al-Madani",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Amr ibn al-As",
+              "full_name": "Abdullah ibn Amr ibn al-As al-Sahmi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Ibn Shihab -> Humayd ibn Abd al-Rahman ibn Awf -> Abdullah ibn Amr ibn al-As"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as mudallis (category 3 according to Ibn Hajar) and uses 'an (عَنْ) here",
+          "impact": "Al-Zuhri is a category 3 mudallis, but he is considered extremely reliable by the vast majority of hadith scholars. His use of 'an does not significantly impact authenticity given his high status, though it should be noted."
+        },
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "The statement is attributed to Abdullah ibn Amr ibn al-As, not directly to the Prophet ﷺ. This is the companion's own statement or practice."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Shrouding the Deceased",
+        "Funeral Preparation Method",
+        "Minimum Requirements for Kafan"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنِ ابْنِ شِهَابٍ ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ ، أَنَّهُ قَالَ : \" الْمَيِّتُ يُقَمَّصُ ، وَيُؤَزَّرُ ، وَيُلَفُّ فِي الثَّوْبِ الثَّالِثِ ، فَإِنْ لَمْ يَكُنْ إِلَّا ثَوْبٌ وَاحِدٌ : كُفِّنَ فِيهِ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "737",
+      "grade": null
+    },
+    {
+      "hadith_id": 18123,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Asma bint Abi Bakr: She said to her family: Perfume my clothes with incense when I die, then shroud me, and do not sprinkle camphor on my shroud, and do not follow me with fire.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Asma bint Abi Bakr",
+              "full_name": "Asma bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهَا قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Hisham ibn Urwah -> Urwah -> Asma bint Abi Bakr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "The statement is attributed to Asma bint Abi Bakr, the companion. This represents her personal instruction to her family, not a direct prophetic command."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of Asma bint Abi Bakr instructing her family about her burial",
+        "Perfuming the Deceased's Clothes",
+        "Not Following Funeral with Fire"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ ، أَنَّهَا قَالَتْ لِأَهْلِهَا \" أَجْمِرُوا ثِيَابِي إِذَا مِتُّ ، ثُمَّ حَنِّطُونِي ، وَلَا تَذُرُّوا عَلَى كَفَنِي حِنَاطًا ، وَلَا تَتْبَعُونِي بِنَارٍ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "739",
+      "grade": null
+    },
+    {
+      "hadith_id": 18124,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abu Hurayrah: He forbade that he be followed with fire after his death.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Abi Sa'id al-Maqburi",
+              "full_name": "Sa'id ibn Abi Sa'id Kaysan al-Maqburi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Sa'id ibn Abi Sa'id al-Maqburi -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "The prohibition is attributed to Abu Hurayrah himself, not explicitly to the Prophet ﷺ. This represents Abu Hurayrah's personal instruction regarding his own funeral."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Abu Hurayrah's Instruction About His Funeral",
+        "Not Following Funeral with Fire"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّهُ نَهَى أَنْ يُتْبَعَ بِنَارٍ بَعْدَ مَوْتِهِ",
+      "collection": "كتاب رقم 22",
+      "reference_number": "740",
+      "grade": null
+    },
+    {
+      "hadith_id": 18126,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abu Hurayrah: He was asked how to pray over the funeral. Abu Hurayrah said: By Allah, I will inform you. I follow it from its family. When it is placed down, I say the takbir, praise Allah, and send prayers upon His Prophet ﷺ. Then I say: O Allah, this is Your servant, son of Your servant, and son of Your female servant. He used to testify that there is no deity except You, and that Muhammad is Your servant and messenger, and You know him best. O Allah, if he was a doer of good, then increase his good deeds, and if he was a wrongdoer, then overlook his wrongdoings. O Allah, do not deprive us of his reward, and do not test us after him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn Abi Sa'id al-Maqburi",
+              "full_name": "Sa'id ibn Abi Sa'id Kaysan al-Maqburi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Maqburi",
+              "full_name": "Kaysan Abu Sa'id al-Maqburi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Sa'id ibn Abi Sa'id al-Maqburi -> Abu Sa'id al-Maqburi -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "This represents Abu Hurayrah's personal practice and supplication during funeral prayers, not an explicit prophetic narration. However, as a companion who spent extensive time with the Prophet ﷺ, his practice carries significant weight."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Supplication During Funeral Prayer",
+        "Abu Hurayrah's Method of Funeral Prayer",
+        "Seeking Forgiveness for the Deceased"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ الْمَقْبُرِيِّ ، عَنْ أَبِيهِ ، عَنْ أَبيَ هُرَيْرَةَ ، وَسُئِلَ كَيْفَ يُصَلِّي عَلَى الْجَنَازَةِ ؟ فَقَالَ أَبُو هُرَيْرَةَ : أَنَا لَعَمْرُ اللَّهِ ، أُخْبِرُكَ ، أَتَّبِعُهَا مِنْ أَهْلِهَا ، فَإِذَا وُضِعَتْ كَبَّرْتُ ، وَحَمِدْتُ اللَّهَ ، وَصَلَّيْتُ عَلَى نَبِيِّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ أَقُولُ : \" اللَّهُمَّ إِنَّهُ هَذَا عَبْدُكَ ، وَابْنُ عَبْدِكَ ، وَابْنُ أَمَتِكَ ، كَانَ يَشْهَدُ أَنْ لا إِلَهَ إِلَّا أَنْتَ ، وَأَنَّ مُحَمَّدًا عَبْدُكَ وَرَسُولُكَ ، وَأَنْتَ أَعْلَمُ بِهِ . اللَّهُمَّ إِنْ كَانَ مُحْسِنًا : فَزِدْ فِي إِحْسَانِهِ ، وَإِنْ كَانَ مُسِيئًا : فَتَجَاوَزْ عَنْه سَيِّئَاتِهِ ، اللَّهُمَّ لا تَحْرِمْنَا أَجْرَهُ ، وَلَا تَفْتِنَّا بَعْدَهُ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "742",
+      "grade": null
+    },
+    {
+      "hadith_id": 18127,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Sa'id ibn al-Musayyib: I prayed behind Abu Hurayrah over a child who had never committed a sin, and I heard him saying: O Allah, protect him from the punishment of the grave.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Direct observation",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Yahya ibn Sa'id -> Sa'id ibn al-Musayyib -> Abu Hurayrah (witnessed)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "This represents what Sa'id ibn al-Musayyib witnessed Abu Hurayrah saying during a funeral prayer. It's Abu Hurayrah's practice, not a direct prophetic teaching, though it may be based on what he learned from the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Supplication for Child in Funeral Prayer",
+        "Punishment of the Grave",
+        "Seeking Protection for Deceased Children"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ قَالَ : سَمِعْتُ سَعِيدَ بْنَ الْمُسَيِّبِ ، يَقُولُ : صَلَّيْتُ وَرَاءَ أَبِي هُرَيْرَةَ عَلَى صَبِيٍّ لَمْ يَعْمَلْ خَطِيئَةً قَطُّ ، فَسَمِعْتُهُ يَقُولُ : \" اللَّهُمَّ أَعِذْهُ مِنْ عَذَابِ الْقَبْرِ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "743",
+      "grade": null
+    },
+    {
+      "hadith_id": 18129,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Aisha, wife of the Prophet ﷺ: She ordered that a funeral be passed by Sa'd ibn Abi Waqqas in the mosque when he died, so that she could supplicate for him. The people disapproved of that from her. So Aisha said: How quickly people have forgotten! The Messenger of Allah ﷺ did not pray over Suhayl ibn Bayda except in the mosque.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Nadr",
+              "full_name": "Salim ibn Abi Umayya Abu al-Nadr al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Abu al-Nadr -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Funeral Prayer in the Mosque",
+        "Incident of Sa'd ibn Abi Waqqas's Funeral",
+        "Aisha's Defense of Praying in the Mosque",
+        "Prophet's ﷺ Prayer Over Suhayl ibn Bayda"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ أَبِي النَّضْرِ مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ ، عَنْ عَائِشَةَ زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَضِيَ اللَّهُ عَنْهَا : أَنَّهَا أَمَرَتْ أَنْ تُوضَعَ جِنَازَةٌ يُمَرَّ عَلَيْهَا بِسَعْدِ بْنِ أَبِي وَقَّاصٍ فِي الْمَسْجِدِ ، حِينَ مَاتَ ، لِتَدْعُوَ لَهُ ، فَأَنْكَرَ ذَلِكَ النَّاسُ عَلَيْهَا ، فَقَالَتْ عَائِشَةُ : \" مَا أَسْرَعَ مَا نَسِيَ النَّاسَ ، مَا صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى سُهَيْلِ بْنِ بَيْضَاءَ إِلَّا فِي الْمَسْجِدِ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "745",
+      "grade": null
+    },
+    {
+      "hadith_id": 18130,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abdullah ibn Umar: The funeral prayer was performed over Umar ibn al-Khattab in the mosque.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "This is a historical report about Umar ibn al-Khattab's funeral, narrated by his son Abdullah. It establishes the practice of praying over funerals in the mosque during the time of the Companions."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Funeral Prayer in the Mosque",
+        "Incident of Umar ibn al-Khattab's Funeral"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ قَالَ : \" صُلِّيَ عَلَى عُمَرَ بْنِ الْخَطَّابِ رَحْمَةُ اللَّهِ عَلَيْهِ فِي الْمَسْجِدِ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "746",
+      "grade": null
+    },
+    {
+      "hadith_id": 18132,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abdullah ibn Umar: It used to be that funeral prayers were performed after Asr and after Subh when they were prayed at their proper times.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Nafi' -> Abdullah ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "This represents the practice observed during Ibn Umar's time or what he witnessed. It addresses the permissibility of funeral prayers after Subh and Asr prayers when they are performed at their proper times."
+        },
+        {
+          "issue": "Use of 'anna (أَنَّ) by Nafi' from Ibn Umar",
+          "impact": "The use of 'anna indicates potential indirect transmission. However, Nafi' is the extremely reliable mawla (freed slave) of Ibn Umar who lived with him and is known for direct hearing from him. This does not impact the reliability significantly."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Funeral Prayer Timing After Subh and Asr",
+        "Permissible Times for Funeral Prayer"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ نَافِعٍ ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ، قَالَ : \" كَانَ يُصَلَّى عَلَى الْجَنَازَةِ بَعْدَ الْعَصْرِ ، وَبَعْدَ الصُّبْحِ إِذَا صُلِّيَتَا لِوَقْتِهِمَا \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "748",
+      "grade": null
+    },
+    {
+      "hadith_id": 18133,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Muhammad ibn Abi Harmalah: Zaynab bint Abi Salamah died when Tariq was the governor of Madinah. Her funeral was brought after the Subh prayer and placed at al-Baqi. Tariq used to pray Subh very early in the darkness. Ibn Abi Harmalah said: I heard Abdullah ibn Umar saying to her family: Either you pray over your funeral now, or you leave it until the sun rises.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Abi Harmalah",
+              "full_name": "Muhammad ibn Abd al-Rahman ibn Abi Harmalah",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Muhammad ibn Abi Harmalah -> Abdullah ibn Umar (witnessed)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration (stops at the companion level)",
+          "impact": "This represents Ibn Umar's guidance to the family about the appropriate time for funeral prayer. It indicates that if Subh is prayed very early (in darkness before dawn breaks fully), one should wait for sunrise before praying the funeral prayer."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Incident of Zaynab bint Abi Salamah's Funeral",
+        "Funeral Prayer Timing Restrictions",
+        "Avoiding Funeral Prayer During Prohibited Times"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ مُحَمَّدِ بْنِ أَبِي حَرْمَلَةَ مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ أَبِي سُفْيَانَ بْنِ حُوَيْطِبٍ ، أَنَّ زَيْنَبَ بِنْتَ أَبِي سَلَمَةَ تُوُفِّيَتْ ، وَطَارِقٌ أَمِيرُ الْمَدِينَةِ ، فَأُتِيَ بِجَنَازَتِهَا بَعْدَ صَلَاةِ الصُّبْحِ ، فَوُضِعَتْ بِالْبَقِيعِ ، قَالَ : وَكَانَ طَارِقٌ يُغَلِّسُ بِالصُّبْحِ ، قَالَ ابْنُ أَبِي حَرْمَلَةَ : فَسَمِعْتُ عَبْدَ اللَّهِ بْنَ عُمَرَ ، يَقُولُ : \" لِأَهْلِهَا : \" إِمَّا أَنْ تُصَلُّوا عَلَى جَنَازَتِكُمُ الْآنَ ، وَإِمَّا أَنْ تَتْرُكُوهَ حَتَّى تَرْتَفِعَ الشَّمْسُ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "749",
+      "grade": null
+    },
+    {
+      "hadith_id": 18135,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "First narration - Narrated by Ali ibn Abi Talib: The Messenger of Allah ﷺ used to stand for funerals, then he sat afterwards. Second narration - Narrated by Urwah: I never saw my father at a funeral except in front of it. Then he would come to al-Baqi and sit until they passed by him. Third narration - Narrated by Ibn Shihab: The Messenger of Allah ﷺ used to walk in front of the funeral, and Abdullah ibn Umar and the Caliphs continuing likewise. Fourth narration - Narrated by Rabi'ah ibn Abdullah ibn al-Hudayr: He saw Umar ibn al-Khattab leading the people in front of the funeral at the funeral of Zaynab bint Jahsh.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Waqid ibn Amr ibn Sa'd ibn Mu'adh",
+              "full_name": "Waqid ibn Amr ibn Sa'd ibn Mu'adh al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi' ibn Jubayr ibn Mut'im",
+              "full_name": "Nafi' ibn Jubayr ibn Mut'im al-Qurashi al-Nawfali",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mas'ud ibn al-Hakam",
+              "full_name": "Mas'ud ibn al-Hakam al-Zuraqi al-Ansari",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "Ali ibn Abi Talib ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hisham ibn Urwah",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Urwah",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam al-Asadi",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": ["Disconnection - Ibn Shihab did not meet the Prophet ﷺ"]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Isma'il ibn Salim al-Qurashi al-Zuhri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn al-Munkadir",
+              "full_name": "Muhammad ibn al-Munkadir ibn Abdullah al-Taymi al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abdullah ibn al-Hudayr",
+              "full_name": "Rabi'ah ibn Abdullah ibn al-Hudayr al-Taymi al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "رَأَى",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Yahya ibn Sa'id -> Waqid ibn Amr -> Nafi' ibn Jubayr -> Mas'ud ibn al-Hakam -> Ali ibn Abi Talib -> Prophet Muhammad ﷺ",
+        "Abu Mus'ab -> Malik -> Hisham ibn Urwah -> Urwah (about his father al-Zubayr)",
+        "Abu Mus'ab -> Malik -> Ibn Shihab (mursal - no companion mentioned)",
+        "Abu Mus'ab -> Malik -> Muhammad ibn al-Munkadir -> Rabi'ah ibn Abdullah -> Umar ibn al-Khattab (witnessed)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Third chain is mursal (disconnected)",
+          "impact": "Ibn Shihab al-Zuhri reports directly about the Prophet's ﷺ practice without mentioning a companion intermediary. This is a mursal narration from a Tabi'i, which is considered disconnected. However, when a mursal narration is supported by other connected chains on the same topic, it gains strength."
+        },
+        {
+          "issue": "Ibn Shihab al-Zuhri uses 'an in the mursal chain",
+          "impact": "Al-Zuhri is a category 3 mudallis using an indirect term, though he is highly reliable. In a mursal context, this compounds the weakness."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Standing or Sitting for Funerals",
+        "Walking in Front of or Behind Funeral Procession",
+        "Incident of Zaynab bint Jahsh's Funeral",
+        "Practice of the Prophet ﷺ and Companions Regarding Funeral Processions"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنْ وَاقِدِ بْنِ عَمْرِو بْنِ سَعْدِ بْنِ مُعَاذٍ الأَنْصَارِيِّ ، عَنْ نَافِعِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ ، عَنْ مَسْعُودِ بْنِ الْحَكَمِ ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ رَضِيَ اللَّهُ عَنْهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" كَانَ يَقُومُ فِي الْجَنَائِزِ ، ثُمَّ جَلَسَ بَعْدُ \" * \r\nحَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، وَحَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ هِشَامِ بْنِ عُرْوَةَ ، عَنْ أَبِيهِ ، أَنَّهُ قَالَ : \" مَا رَأَيْتُ أَبِي قَطُّ فِي جَنَازَةٍ إِلَّا أَمَامَهَا \" ، قَالَ : ثُمَّ يَأْتِي الْبَقِيعَ ، فَيَجْلِسُ حَتَّى يَمُرُّوا عَلَيْهِ \" * \r\nحَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنِ ابْنِ شِهَابٍ ، أَنَّهُ قَالَ : \" كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَمْشِي أَمَامَ الْجِنَازَةِ ، وَعَبْدُ اللَّهِ بْنُ عُمَرَ وَالْخُلَفَاءُ هَلُمَّ جَرًّا \" * \r\nحَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ ، عَنْ رَبِيعَةَ بْنِ عَبْدِ اللَّهِ بْنِ الْهُدَيْرِ ، أَنَّهُ أَخْبَرَهُ ، أَنَّهُ رَأَى عُمَرَ بْنَ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ \" يَقْدُمُ النَّاسَ أَمَامَ الْجَنَازَةِ فِي جَنَازَةِ زَيْنَبَ بِنْتِ جَحْشٍ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": "751",
+      "grade": null
+    }
+  ]
+}

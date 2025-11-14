@@ -1,0 +1,524 @@
+{
+  "batch_number": 3,
+  "file_number": 5,
+  "processed_count": 8,
+  "hadiths": [
+    {
+      "hadith_id": 18061,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Al-Qasim ibn Muhammad: I heard a man asking Abdullah ibn Abbas about the spoils of war (al-anfal). Ibn Abbas said: 'The horse is from the extra reward, and the personal belongings taken (from the enemy) are from the extra reward.' Then the man repeated the question, and Ibn Abbas said: 'That also.' Then the man said: 'The anfal which Allah the Blessed and Exalted mentioned in His Book, what are they?' Al-Qasim said: He continued asking him until he almost embarrassed him, so Ibn Abbas said: 'Do you know what the example of this is? His example is like the example of Dabi' whom Umar ibn al-Khattab struck.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr al-Zurayri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Shihab",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 3"]
+            },
+            {
+              "name": "Al-Qasim ibn Muhammad",
+              "full_name": "Al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ (witnessed his response)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn Shihab al-Zuhri using 'an - known mudallis",
+            "Al-Qasim ibn Muhammad using 'an from Ibn Shihab",
+            "Narration includes Malik's juristic opinions at the end which are not part of the mawquf report"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Ibn Shihab al-Zuhri -> Al-Qasim ibn Muhammad -> Abdullah ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Shihab al-Zuhri is classified as a mudallis (category 3 according to Ibn Hajar) and uses 'an ('عَنْ') when narrating from Al-Qasim ibn Muhammad",
+          "impact": "While al-Zuhri is a mudallis, he is considered extremely reliable by the vast majority of scholars. His tadlis is well-documented but scholars generally accept his narrations even with 'an due to his high level of precision and trustworthiness. This is noted but does not significantly downgrade the chain."
+        },
+        {
+          "issue": "Al-Qasim ibn Muhammad uses 'an ('عَنْ') when narrating from Ibn Shihab",
+          "impact": "Al-Qasim is not known for tadlis, and 'an from a non-mudallis narrator is generally acceptable. Minimal impact on reliability."
+        },
+        {
+          "issue": "The narration ends with Malik ibn Anas (the compiler) giving his juristic opinion, which is separate from the mawquf report itself",
+          "impact": "This does not affect the chain reliability but readers should distinguish between the historical report from Ibn Abbas and Malik's later juristic interpretation."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Dialogue between a questioner and Ibn Abbas about spoils of war",
+        "Ibn Abbas's response about extra rewards in warfare",
+        "Incident of Ibn Abbas being persistently questioned",
+        "Reference to Dabi' and Umar ibn al-Khattab's action"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنِ ابْنِ شِهَابٍ ، عَنْ الْقَاسِمِ بْنِ مُحَمَّدٍ ، أَنَّهُ قَالَ : سَمِعْتُ رَجُلًا ، يَسْأَلُ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ ، عَنِ الأَنْفَالِ ؟ فَقَالَ ابْنُ عَبَّاسٍ : الْفَرَسُ مِنَ النَّفَلِ ، وَالسَّلَبُ مِنَ النَّفَلِ ، قَالَ : ثُمَّ أعَادَ الرَّجُلُ الْمَسْأَلَةَ ، فَقَالَ ابْنُ عَبَّاسٍ : ذَلِكَ أَيْضًا ، ثُمَّ فقَالَ الرَّجُلُ : الأَنْفَالُ الَّتِي قَالَ اللَّهُ تَبَارَكَ وَتَعَالَى فِي كِتَابِه مَا هِيَ ؟ قَالَ الْقَاسِمُ : فَلَمْ يَزَلْ يَسْأَلُهُ ، حَتَّى كَادَ أَنْ يُحْرِجَهُ ، فقَالَ ابْنُ عَبَّاسٍ : هَلْ تَدْرُونَ مَا مَثَلُ هَذَا ؟ مَثَلُهُ مَثَلُ ضَبِيعٍ الَّذِي ضَرَبَهُ عُمَرُ بْنُ الْخَطَّابِ",
+      "collection": "Book 22",
+      "reference_number": 677,
+      "grade": null
+    },
+    {
+      "hadith_id": 18063,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated that Sa'id ibn al-Musayyib said: 'The people were only given the extra reward (nafal) from the fifth (of the war spoils).'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr al-Zurayri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zinad",
+              "full_name": "Abdullah ibn Dhakwan Abu al-Zinad al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id ibn al-Musayyib",
+              "full_name": "Sa'id ibn al-Musayyib ibn Hazan al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Abu al-Zinad using 'an from Sa'id ibn al-Musayyib",
+            "The term 'أَنَّهُ قَالَ' (that he said) can indicate potential disconnection"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Abu al-Zinad -> Sa'id ibn al-Musayyib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Zinad uses 'an ('عَنْ') when narrating from Sa'id ibn al-Musayyib",
+          "impact": "Abu al-Zinad is not known for tadlis and is considered reliable. The use of 'an from a non-mudallis narrator is generally acceptable, particularly when narrating from well-known teachers like Sa'id ibn al-Musayyib."
+        },
+        {
+          "issue": "The transmission term 'أَنَّهُ قَالَ' (that he said) is used for Sa'id",
+          "impact": "This term can sometimes indicate indirect transmission or uncertainty about direct hearing. However, given the reliability of the narrators and that this is a mawquf statement (not attributed to the Prophet ﷺ), the impact is minimal."
+        },
+        {
+          "issue": "The narration includes Malik's juristic opinions and questions posed to him afterward",
+          "impact": "These additional statements are Malik's own ijtihad and not part of Sa'id's statement. They should be distinguished from the mawquf report itself."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Distribution of extra rewards (nafal) from war spoils",
+        "Sa'id ibn al-Musayyib's understanding of nafal allocation"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ أَبِي الزِّنَادِ ، عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ ، أَنَّهُ قَالَ يقول : كَانَ النَّاسُ إنما يُعْطَوْنَ النَّفَلَ مِنَ الْخُمُسِ",
+      "collection": "Book 22",
+      "reference_number": 679,
+      "grade": null
+    },
+    {
+      "hadith_id": 18065,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "It reached him that Umar ibn Abd al-Aziz used to say: 'It reached me that the Messenger of Allah ﷺ said: For the horseman, two shares, and for the foot soldier, one share.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "بلغه",
+              "reliabilityIssues": ["mursal - disconnected chain"]
+            },
+            {
+              "name": "Umar ibn Abd al-Aziz",
+              "full_name": "Umar ibn Abd al-Aziz ibn Marwan ibn al-Hakam al-Umawi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "بلغني",
+              "reliabilityIssues": ["mursal - did not meet the Prophet ﷺ"]
+            }
+          ],
+          "chainIssues": [
+            "Double mursal (disconnection): First, from Malik using 'balaghahu' (it reached him), meaning he doesn't name his source for what Umar ibn Abd al-Aziz said",
+            "Second mursal: Umar ibn Abd al-Aziz himself uses 'balaghani' (it reached me) without naming who told him about the Prophet ﷺ",
+            "Umar ibn Abd al-Aziz was born around 61-63 AH, after the Prophet's death (11 AH), making this definitely mursal"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik -[unknown intermediary]-> Umar ibn Abd al-Aziz -[unknown intermediary]-> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'بلغه' (it reached him) without naming his source for what Umar ibn Abd al-Aziz said",
+          "impact": "This creates a disconnection in the chain. We don't know who transmitted Umar's statement to Malik. However, Malik was extremely careful about his transmissions, and such mursal reports from Malik are considered strong among mursal narrations."
+        },
+        {
+          "issue": "Umar ibn Abd al-Aziz uses 'بلغني' (it reached me) without naming his source from the Prophet ﷺ",
+          "impact": "This is a mursal report. Umar ibn Abd al-Aziz was born decades after the Prophet's ﷺ death and never met him. He doesn't name the companion or narrator from whom he received this report. Mursal narrations are considered weak in transmission, though some scholars accept mursal reports from reliable successors (tabi'in) like Umar ibn Abd al-Aziz, who was known for his piety and knowledge."
+        },
+        {
+          "issue": "Double disconnection in the chain",
+          "impact": "The combination of two mursal transmissions makes this chain significantly weak from a technical isnad perspective, despite the high reliability of both Malik and Umar ibn Abd al-Aziz as individuals."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Distribution of war spoils shares",
+        "Cavalry and infantry shares in warfare",
+        "Umar ibn Abd al-Aziz's report about military compensation"
+      ],
+      "arabicText": "بلغه أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ ، كَانَ يَقُولُ : بلغني أن رسول الله صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قال : لِلْفَارَسِ سَهْمَانِ ، وَلِلرَّجُلِ سَهْمٌ",
+      "collection": "Book 22",
+      "reference_number": 681,
+      "grade": null
+    },
+    {
+      "hadith_id": 18067,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Malik said: 'And I view the camels, cattle, and sheep to be in the status of food, which the Muslims eat from when they enter the land of the enemy, just as they eat from the food. And if that were not to be eaten until the people attend the divisions and it is divided among them, that would harm the armies. And I see no harm in what is eaten from all of that in a reasonable manner. And I do not see that anyone should store any of that to return with it to his family.'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith but rather Malik's own juristic opinion (fiqhi opinion)",
+            "It is maqtu' - a statement from a tabi' al-tabi'in without attribution to earlier authorities"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (juristic opinion only)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but Malik's personal juristic opinion",
+          "impact": "This entry should not be evaluated using hadith chain grading criteria as it contains no attribution to the Prophet ﷺ, companions, or even earlier tabi'in. It is purely Malik's ijtihad on the matter of consuming food and livestock during military campaigns. The text includes multiple instances where Malik was asked questions and gave his legal opinions."
+        }
+      ],
+      "IISGrade": "Not Applicable - Juristic Opinion Only",
+      "Topics": [
+        "Consuming food and livestock during military campaigns",
+        "Malik's juristic ruling on war provisions",
+        "Treatment of captured animals in warfare"
+      ],
+      "arabicText": "قَالَ مَالِك : إن وَأَنَا أَرَى الْإِبِلَ ، وَالْبَقَرَ ، وَالْغَنَمَ : بِمَنْزِلَةِ الطَّعَامِ ، يَأْكُلُ مِنْهُ الْمُسْلِمُونَ ، إِذَا دَخَلُوا أَرْضَ الْعَدُوِّ ، كَمَا يَأْكُلُونَ مِنَ الطَّعَامِ ، وَلَوْ كَانَ ذَلِكَ لا يُؤْكَلُ حَتَّى يَحْضُرَ النَّاسُ الْمَقَاسِمَ ، وَيُقْسَمَ بَيْنَهُمْ أَضَرَّ ذَلِكَ بِالْجُيُوشِ ، وَلَا أَرَى بَأْسًا بِمَا أُكِلَ مِنْ ذَلِكَ كُلِّهِ عَلَى وَجْهِ الْمَعْرُوفِ ، قال : وَلَا أَرَى أَنْ يَدَّخِرَ أَحَدٌ مِنْ ذَلِكَ شَيْئًا ، يَرْجِعُ بِهِ إِلَى أَهْلِهِ",
+      "collection": "Book 22",
+      "reference_number": 683,
+      "grade": null
+    },
+    {
+      "hadith_id": 18069,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "It reached Malik that a slave belonging to Abdullah ibn Umar ran away, and that a horse of his wandered off, and the polytheists captured them, then the Muslims took them as spoils, and they were returned to Abdullah ibn Umar, and that was before the divisions reached them.",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr al-Zurayri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَنَّهُ بلغه",
+              "reliabilityIssues": ["mursal/mu'dal - unnamed intermediaries"]
+            }
+          ],
+          "chainIssues": [
+            "Malik uses 'balaghahu' (it reached him) without naming his source",
+            "This creates a disconnection between Malik and the incident involving Abdullah ibn Umar",
+            "We don't know who transmitted this report to Malik or through how many intermediaries",
+            "The incident itself is about Abdullah ibn Umar (a companion) but the chain to him is completely omitted"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -[unknown intermediary/intermediaries]-> (incident of Abdullah ibn Umar)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik uses 'بلغه' (it reached him) without naming any source in the chain",
+          "impact": "This is a mursal or potentially mu'dal (missing two or more consecutive narrators) transmission. We have no information about who transmitted this incident to Malik, whether they were reliable, or how many narrators are missing. Such narrations are considered weak from a chain perspective, though the incident itself is about a companion (Abdullah ibn Umar)."
+        },
+        {
+          "issue": "Complete disconnection from the original incident",
+          "impact": "The incident occurred during the time of Abdullah ibn Umar, but there's no documented chain showing how this information reached Malik generations later. This significantly weakens the narration from a technical isnad standpoint."
+        },
+        {
+          "issue": "The text includes extensive juristic opinions from Malik afterward",
+          "impact": "Much of the text after the initial incident is Malik's own legal reasoning and responses to hypothetical questions. These should be distinguished from the historical report itself."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Abdullah ibn Umar's slave and horse being captured",
+        "Recovery of Muslim property from enemy possession",
+        "Treatment of captured property before distribution",
+        "Status of umm walad (mother of one's child) if captured"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، أَنَّهُ بلغه ، أَنَّ عَبْدًا لِعَبْدِ اللَّهِ بْنِ عُمَرَ : أَبَقَ وَأَنَّ فَرَسًا لَهُ عَار ، فَأَصَابَهُمَا الْمُشْرِكُونَ ، ثُمَّ غَنِمَهُمَا الْمُسْلِمُونَ ، فَرُدَّا عَلَى عَبْدِ اللَّهِ بْنِ عُمَرَ ، وَذَلِكَ قَبْلَ أَنْ تُصِيبَهُمَا الْمَقَاسِمُ",
+      "collection": "Book 22",
+      "reference_number": 685,
+      "grade": null
+    },
+    {
+      "hadith_id": 18071,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abdullah ibn Umar that the Messenger of Allah ﷺ sent a military expedition in which Abdullah ibn Umar was present, toward Najd. They captured many camels, and their shares were twelve camels, or eleven camels, and they were given an extra camel as additional reward (nafal).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr al-Zurayri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Ibn Umar al-Adawi al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Nafi' using 'an ('عَنْ') when narrating from Abdullah ibn Umar",
+            "The connection to Abdullah uses 'أَنَّ' which can sometimes indicate indirect transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Nafi' uses 'an ('عَنْ') when narrating from Abdullah ibn Umar",
+          "impact": "Nafi' is not known for tadlis and is considered one of the most reliable narrators from Abdullah ibn Umar. The use of 'an from Nafi' is completely acceptable as his direct hearing from Ibn Umar is well-established and documented extensively. This is considered one of the golden chains (silsilat al-dhahab)."
+        },
+        {
+          "issue": "The transmission uses 'أَنَّ' connecting to Abdullah ibn Umar",
+          "impact": "The term 'أَنَّ' (that) can sometimes indicate indirect transmission. However, given that this is the famous Malik -> Nafi' -> Ibn Umar chain, which is known as one of the strongest chains in hadith transmission, this poses no real concern. The relationship and direct transmission are well-documented."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Military expedition toward Najd during the Prophet's ﷺ time",
+        "Distribution of war spoils among fighters",
+        "Extra reward (nafal) given to expedition participants",
+        "Abdullah ibn Umar's participation in military campaigns"
+      ],
+      "arabicText": "أَخْبَرَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : بَعَثَ سَرِيَّةً فِيهَا عَبْدُ اللَّهِ بْنُ عُمَرَ قِبَلَ نَجْدٍ ، فَغَنِمُوا إِبِلًا كَثِيرًا ، وَكَانَت سُهْمَانُهُمُ اثْنَيْ عَشَرَ بَعِيرًا ، أَوْ أَحَدَ عَشَرَ بَعِيرًا ، وَنُفِّلُوا بَعِيرًا",
+      "collection": "Book 22",
+      "reference_number": 687,
+      "grade": null
+    },
+    {
+      "hadith_id": 18072,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Narrated that Rabi'ah ibn Abi Abd al-Rahman said: Money came to Abu Bakr al-Siddiq from Bahrain, and he said: 'Whoever had a promise or agreement with the Messenger of Allah ﷺ, let him come to me.' So Jabir ibn Abdullah came to him, and he scooped for him three scoops.",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr al-Zurayri al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rabi'ah ibn Abi Abd al-Rahman",
+              "full_name": "Rabi'ah ibn Abi Abd al-Rahman Farrukh al-Taymi al-Madani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mursal - did not witness the incident with Abu Bakr"]
+            }
+          ],
+          "chainIssues": [
+            "Rabi'ah ibn Abi Abd al-Rahman is from the fourth generation and was not present during Abu Bakr's caliphate",
+            "The chain from Rabi'ah to the incident is completely missing",
+            "This is a mursal or mu'dal narration as Rabi'ah reports an incident he did not witness without naming his source"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Rabi'ah ibn Abi Abd al-Rahman -[unknown intermediary/intermediaries]-> (incident during Abu Bakr's time)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Rabi'ah ibn Abi Abd al-Rahman is reporting an incident from Abu Bakr al-Siddiq's time without any named intermediaries",
+          "impact": "Rabi'ah was born decades after Abu Bakr's death (Abu Bakr died in 13 AH, Rabi'ah was from the generation of tabi' al-tabi'in). He uses 'أَنَّهُ قَالَ' (that he said) to report the incident, but doesn't name anyone in the chain. This makes it mursal or possibly mu'dal (missing two or more narrators). Such disconnected chains are considered weak."
+        },
+        {
+          "issue": "Unknown number of missing narrators between Rabi'ah and the incident",
+          "impact": "We don't know who told Rabi'ah about this incident, how many intermediaries there were, or whether they were reliable. This creates significant uncertainty about the authenticity of the report."
+        },
+        {
+          "issue": "The second part of the hadith (about Sa'id ibn al-Musayyib) appears to be a separate report appended to the first",
+          "impact": "The hadith contains multiple distinct reports compiled together. The section about Sa'id ibn al-Musayyib saying 'People used to equate one camel with ten sheep in spoils division' is a separate mawquf statement that should be evaluated separately."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Abu Bakr al-Siddiq distributing wealth from Bahrain",
+        "Jabir ibn Abdullah claiming a promise from the Prophet ﷺ",
+        "Abu Bakr's fulfillment of the Prophet's ﷺ promises",
+        "Distribution practices during the Rightly-Guided Caliphate"
+      ],
+      "arabicText": "أَخْبَرَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ ، أَنَّهُ قَالَ : قَدِمَ عَلَى أَبِي بَكْرٍ الصِّدِّيقِ مَالٌ مِنْ الْبَحْرَيْنِ ، فَقَالَ : مَنْ كَانَ لَهُ عِنْدَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأْيٌ ، أَوْ عِدَةٌ ، فَلْيَأْتِنِي ، فَجَاءَهُ جَابِرُ بْنُ عَبْدِ اللَّهِ ، فَحَفَنَ لَهُ ثَلاثَ حَفَنَاتٍ",
+      "collection": "Book 22",
+      "reference_number": 688,
+      "grade": null
+    },
+    {
+      "hadith_id": 18074,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Malik was asked about a leader who accepted the jizyah (tribute) from a people, and they were paying it. 'What do you think about whoever becomes Muslim among them - does his land remain his, or does it become for the Muslims, and does their wealth become theirs?' Malik said: 'That differs. As for the people of peace treaty (ahl al-sulh), whoever becomes Muslim among them has more right to his land and his wealth. As for the people of conquest by force (ahl al-'anwah) who were taken by force, whoever becomes Muslim among them, his Islam protects his life, but his land becomes fay' (public property), because the people of conquest have been overcome in their lands, and it became fay' for the Muslims. As for the people of peace treaty, they are a people who protected their lands, their wealth, and themselves until they made peace over them, so there is nothing upon them except what they made peace over.'",
+      "chains": [
+        {
+          "type": "maqtu",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سُئِلَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "This is not a hadith but Malik's response to a juristic question",
+            "It is maqtu' - containing only the opinion of Malik without attribution to earlier authorities"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Malik (juristic opinion only)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is not a hadith but Malik's personal juristic opinion in response to questions",
+          "impact": "This entry should not be evaluated using hadith chain grading criteria as it contains no attribution to the Prophet ﷺ, companions, or earlier authorities. It is purely Malik's ijtihad on matters of jizyah, conquest, and treatment of non-Muslim populations who convert to Islam. The entire text consists of questions posed to Malik and his legal reasoning."
+        }
+      ],
+      "IISGrade": "Not Applicable - Juristic Opinion Only",
+      "Topics": [
+        "Malik's juristic ruling on jizyah and conversion to Islam",
+        "Treatment of conquered lands and treaty lands",
+        "Difference between ahl al-sulh and ahl al-'anwah",
+        "Treatment of enemy traders found on Muslim shores"
+      ],
+      "arabicText": "سُئِلَ مَالِك : عَنْ إِمَامٍ قَبِلَ الْجِزْيَةَ مِنْ قَوْمٍ ، فَكَانُوا يُعْطُونَ ، أَرَأَيْتَ مَنْ أَسْلَمَ مِنْهُمْ ، أَتَكُونُ لَهُ أَرْضُهُ ، أَمْ تَكُونُ لِلْمُسْلِمِينَ ، وَيَكُونُ لَهُمْ مَالُهُ ؟ فَقَالَ مَالِك ذَلِكَ يَخْتَلِفُ",
+      "collection": "Book 22",
+      "reference_number": 690,
+      "grade": null
+    }
+  ]
+}

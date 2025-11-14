@@ -1,0 +1,685 @@
+{
+  "batch_number": 3,
+  "file_number": 6,
+  "total_processed": 11,
+  "skipped_count": 4,
+  "hadiths": [
+    {
+      "hadith_id": 18076,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "Malik was asked about a man who goes out to the land of the enemy for ransom or for trade, and he buys a free person or a slave, or they are gifted to him. He said: As for the free person, what he bought him with becomes a debt upon him, and he is not enslaved. If he was gifted to the man, then he is free, and there is nothing upon him, unless the man gave something in reciprocation for him, then it becomes a debt upon the free person, like what he was bought with. He said: As for the slave, his first master has a choice regarding him. If he wishes to take him and pay to the one who bought him his price, that is for him. And if he prefers to leave him, he leaves him. And if he was gifted to him, then his first master has more right to him, and there is nothing upon him, unless the man gave something in reciprocation for him, then what he gave in it becomes a loss upon his master, if he wishes to ransom him.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سُئِلَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a legal opinion (fatwa) from Imam Malik, not a hadith with chain to the Prophet"]
+        }
+      ],
+      "plainChains": [
+        "Malik (Legal Opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf statement from Imam Malik - a legal opinion, not a marfu' hadith going back to the Prophet ﷺ",
+          "impact": "This should be treated as the jurisprudential view of Malik, not as a prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Captives and Ransom",
+        "Trading in Enemy Lands",
+        "Status of Free Persons Wrongly Enslaved",
+        "Rights of Original Masters over Enslaved Persons"
+      ],
+      "arabicText": "وَسُئِلَ مَالِك : \" عَنِ الرَّجُلِ يَخْرُجُ إِلَى أَرْضِ الْعَدُوِّ فِي الْمُفَادَاةِ ، أَوْ فِي التِّجَارَةٍ ، فَيَشْتَرِيَ الْحُرَّ ، أَوِ الْعَبْدَ ، أَوْ يُوهَبَانِ لَهُ ، فَقَالَ : أَمَّا الْحُرُّ : فَإِنَّ مَا اشْتَرَاهُ بِهِ يكون دينا عَلَيْهِ ، وَلَا يُسْتَرَقُّ ، فَإِنْ كَانَ وُهِبَ لَهُ للرجل : فَهُوَ حُرٌّ ، وَلَيْسَ عَلَيْهِ شَيْءٌ ، إِلَّا أَنْ يَكُونَ الرَّجُلُ أَعْطَى فِيهِ شَيْئًا مُكَافَأَةً فيكونَ دَيْنٌ عَلَى الْحُرِّ ، بِمَنْزِلَةِ مَا اشْتُرِيَ بِهِ ، قال : وَأَمَّا الْعَبْدُ ، فَإِنَّ سَيِّدَهُ الأَوَّلَ مُخَيَّرٌ فِيهِ إِنْ شَاءَ أَنْ يَأْخُذَهُ ، وَيَدْفَعَ إِلَى الَّذِي اشْتَرَاهُ ثَمَنَهُ ، فَذَلِكَ لَهُ ، وَإِنْ أَحَبَّ أَنْ يُسْلِمَهُ أَسْلَمَهُ ، وَإِنْ كَانَ وُهِبَ لَهُ فَسَيِّدُهُ الأَوَّلُ أَحَقُّ بِهِ ، وَلَا شَيْءَ عَلَيْهِ إِلَّا أَنْ يَكُونَ الرَّجُلُ أَعْطَى فِيهِ شَيْئًا مُكَافَأَةً ، فَيَكُونُ مَا أَعْطَى فِيهِ غُرْمًا عَلَى سَيِّدِهِ ، إِنْ أَحَبَّ أَنْ يَفْتَدِيَهُ .",
+      "collection": "كتاب رقم 22",
+      "reference_number": 692,
+      "grade": null
+    },
+    {
+      "hadith_id": 18079,
+      "book_id": 22,
+      "narrator_id": 4967,
+      "english_translation": "Narrated by Abdullah ibn Umar that he said: The Messenger of Allah ﷺ forbade that the Quran be traveled with to the land of the enemy.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Nafi' narrates from Ibn Umar using 'an (عَنْ), an ambiguous transmission term",
+          "impact": "However, Nafi' is universally recognized as extremely reliable and his connection to Ibn Umar is well-established and direct. This does not affect the grade."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Traveling with Quran to Enemy Lands",
+        "Protection of Sacred Texts"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّهُ قَالَ : \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" أَنْ يُسَافَرَ بِالْقُرْآنِ إِلَى أَرْضِ الْعَدُوِّ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 695,
+      "grade": null
+    },
+    {
+      "hadith_id": 18080,
+      "book_id": 22,
+      "narrator_id": 8272,
+      "english_translation": "Yahya ibn Sa'id said: When it was the day of Uhud, the Messenger of Allah ﷺ said: Who will bring me news of Sa'd ibn al-Rabi' al-Ansari? A man said to him: I will, O Messenger of Allah. He said: So the man went searching among the killed until he found him. Sa'd ibn al-Rabi' said to him: What is your concern? The man said to him: The Messenger of Allah ﷺ sent me to you to bring him news of you. He said: Then go to him and convey to him peace from me, and inform him that I have been stabbed twelve stabbings, and that my vital organs have been penetrated, and inform your people that they have no excuse before Allah if the Messenger of Allah ﷺ is killed while one of them is alive.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": ["mursal - disconnected chain"]
+            }
+          ],
+          "chainIssues": ["This is a mursal narration - Yahya ibn Sa'id al-Ansari (a Tabi'i who died ~143 AH) did not witness the Battle of Uhud (3 AH) and does not name his source for this incident"]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Yahya ibn Sa'id -> (disconnected from the event at Uhud)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal hadith - Yahya ibn Sa'id al-Ansari was not present at Uhud and the chain is disconnected",
+          "impact": "The narration lacks an explicit link between Yahya ibn Sa'id and the eyewitnesses of the Battle of Uhud. According to classical hadith methodology, mursal narrations are weaker than connected chains."
+        },
+        {
+          "issue": "The unnamed man who went to Sa'd ibn al-Rabi' is not identified in this narration",
+          "impact": "Lack of identification of this intermediary narrator creates additional ambiguity in the chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Battle of Uhud",
+        "Incident of Sa'd ibn al-Rabi' al-Ansari's martyrdom",
+        "Sacrifice of the Companions",
+        "Devotion to protecting the Prophet ﷺ"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّهُ قَالَ : لَمَّا كَانَ يَوْمُ أُحُدٍ ، قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ يَأْتِينِي بِخَبَرِ سَعْدِ بْنِ الرَّبِيعِ الأَنْصَارِيِّ ؟ فَقَالَ لَهُ رَجُلٌ : أَنَا يَا رَسُولَ اللَّهِ ، قَالَ : فَذَهَبَ الرَّجُلُ يَطُوفُ بَيْنَ الْقَتْلَى حَتَّى وَجَدَهُ ، فَقَالَ لَهُ سَعْدُ بْنُ الرَّبِيعِ : مَا شَأْنُكَ ؟ فَقَالَ لَهُ الرَّجُلُ : بَعَثَنِي إِلَيْكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِآتِيَهُ بِخَبَرِكَ ، قَالَ : فَاذْهَبْ إِلَيْهِ ، فَأقْرِئْهُ مِنِّي السَّلَامَ ، وَأَخْبِرْهُ أَنِّي قَدْ طُعِنْتُ اثْنَتَيْ عَشْرَةَ طَعْنَةً ، وَأَنِّي قَدْ أُنْفِذَتْ مَقَاتِلِي ، وَأَخْبِرْ قَوْمَكَ أَنَّهُ لا عُذْرَ لَهُمْ عِنْدَ اللَّهِ ، إِنْ قُتِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَوَاحِدٌ مِنْهُمْ حَيٌّ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 696,
+      "grade": null
+    },
+    {
+      "hadith_id": 18081,
+      "book_id": 22,
+      "narrator_id": 720,
+      "english_translation": "Narrated by Anas ibn Malik that when the Messenger of Allah ﷺ went out to Khaybar, he came to it at night, and he would not raid a people by night until he would wait until morning. He said: So when morning came, the Jews came out with their spades and baskets. When they saw him, they said: Muhammad, by Allah, Muhammad and the army. The Messenger of Allah ﷺ said: Allah is the Greatest, Khaybar is destroyed. Indeed, when we descend in the courtyard of a people, evil is the morning of those who were warned.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd al-Tawil",
+              "full_name": "Humayd ibn Abi Humayd Tiran al-Tawil al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - category 2"]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Khazraji al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Humayd al-Tawil -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Humayd al-Tawil narrates from Anas using 'an (عَنْ), an ambiguous transmission term, and Humayd is classified as a mudallis (category 2 according to Ibn Hajar)",
+          "impact": "Humayd al-Tawil is considered a category 2 mudallis, meaning his tadlis is light and his narrations are generally acceptable even with 'an. He is widely known for his extensive and direct narration from Anas ibn Malik. The majority of scholars accept his 'an narrations from Anas as reliable."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Battle of Khaybar",
+        "Prophet's ﷺ practice in warfare",
+        "Incident of the Jews seeing the Muslim army at Khaybar"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ حُمَيْدٍ الطَّوِيلِ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حِينَ خَرَجَ إِلَى خَيْبَرَ ، أَتَاهَا لَيْلًا ، وَكَانَ إِذَا أَتَى قَوْمًا بِلَيْلٍ ، لَمْ يُغِرْ حَتَّى يُصْبِحَ ، قَالَ : فَلَمَّا أَصْبَحَ فَخَرَجَتْ يَهُودُ بِمَسَاحِيهِمْ ، وَمَكَاتِلِهِمْ ، فَلَمَّا رَأَوْهُ ، قَالُوا : مُحَمَّدٌ ، وَاللَّهِ مُحَمَّدٌ ، وَالْخَمِيسُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" اللَّهُ أَكْبَرُ ، خَرِبَتْ خَيْبَرُ ، إِنَّا إِذَا نَزَلْنَا بِسَاحَةِ قَوْمٍ ، فَسَاءَ صَبَاحُ الْمُنْذَرِينَ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 697,
+      "grade": null
+    },
+    {
+      "hadith_id": 18082,
+      "book_id": 22,
+      "narrator_id": 5913,
+      "english_translation": "Zayd ibn Aslam said: Abu Ubaidah ibn al-Jarrah wrote to Umar ibn al-Khattab mentioning to him gatherings of Romans and what he feared from them. So Umar ibn al-Khattab wrote to him: As for what follows, indeed whatever difficulty befalls a believing servant, Allah makes for him relief after it, and indeed hardship will not overcome two eases, and indeed Allah the Blessed and Exalted says in His Book: O you who believe, be patient and excel in patience and remain stationed and fear Allah that you may succeed.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": ["mursal - did not witness the correspondence between Umar and Abu Ubaidah"]
+            }
+          ],
+          "chainIssues": ["This is a mursal/munqati' narration - Zayd ibn Aslam (born around 68 AH) did not witness the correspondence between Umar (d. 23 AH) and Abu Ubaidah (d. 18 AH), and he does not name his source"]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Zayd ibn Aslam -> (disconnected from Umar's correspondence)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal/munqati' narration - Zayd ibn Aslam was not present during Umar's caliphate to witness this correspondence",
+          "impact": "The chain is disconnected between Zayd ibn Aslam and the historical event. Zayd was born decades after Umar's death and does not specify his source for this information."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Correspondence between Umar ibn al-Khattab and Abu Ubaidah",
+        "Encouragement during military difficulties",
+        "Trust in Allah's relief after hardship",
+        "Quranic guidance for believers in adversity"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنَّهُ قَالَ : كَتَبَ أَبُو عُبَيْدَةَ بْنُ الْجَرَّاحِ ، إِلَى عُمَرَ بْنِ الْخَطَّابِ يَذْكُرُ لَهُ جُمُوعًا مِنْ الرُّومِ ، وَمَا يَتَخَوَّفُ مِنْهُمْ ، فَكَتَبَ إِلَيْهِ عُمَرُ بْنُ الْخَطَّابِ : \" أَمَّا بَعْدُ ، فَإِنَّهُ مَهْمَا يَنْزِلْ بِعَبْدٍ مُؤْمِنٍ مِنْ مُنْزَلِ شِدَّةٍ ، يَجْعَلِ اللَّهُ بَعْدَهَا فَرَجًا ، وَإِنَّهُ لَنْ يَغْلِبَ عُسْرٌ يُسْرَيْنِ ، وَأَنَّ اللَّهَ تَبَارَكَ وَتَعَالَى ، يَقُولُ فِي كِتَابِهِ : يَأَيُّهَا الَّذِينَ آمَنُوا اصْبِرُوا وَصَابِرُوا وَرَابِطُوا وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 698,
+      "grade": null
+    },
+    {
+      "hadith_id": 18083,
+      "book_id": 22,
+      "narrator_id": 5913,
+      "english_translation": "Zayd ibn Aslam narrated that Umar ibn al-Khattab, may Allah have mercy upon him, used to say: O Allah, do not make my killing at the hand of a man who prostrated to You one prostration with which he will argue against me before You on the Day of Resurrection.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["mursal - did not hear directly from Umar"]
+            }
+          ],
+          "chainIssues": ["This is a munqati'/mursal narration - Zayd ibn Aslam (born around 68 AH) did not meet Umar ibn al-Khattab (died 23 AH) and the chain is disconnected"]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Zayd ibn Aslam -> (disconnected from) Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a munqati'/mursal mawquf narration - Zayd ibn Aslam never met Umar ibn al-Khattab",
+          "impact": "The chain is disconnected. Zayd ibn Aslam was born approximately 45 years after Umar's death. Although Zayd's father Aslam was a slave of Umar and Zayd might have received information through his father, this intermediary link is not mentioned in this chain."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Supplication of Umar ibn al-Khattab",
+        "Fear of being killed by a Muslim",
+        "Umar's concern about the Day of Judgment",
+        "Foreshadowing of Umar's assassination"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ رَحْمَةُ اللَّهِ عَلَيْهِ ، كَانَ يَقُولُ : \" اللَّهُمَّ لا تَجْعَلْ قَتْلِي بِيَدِ رَجُلٍ صَلَّى لَكَ سَجْدَةً وَاحِدَةً يُحَاجُّنِي بِهَا عِنْدَكَ يَوْمَ الْقِيَامَةِ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 699,
+      "grade": null
+    },
+    {
+      "hadith_id": 18085,
+      "book_id": 22,
+      "narrator_id": 4967,
+      "english_translation": "Narrated by Abdullah ibn Umar that Umar ibn al-Khattab, may Allah have mercy upon him, donated a horse in the path of Allah, then he found it being sold. He wanted to buy it, so he asked the Messenger of Allah ﷺ about that. He said: Do not buy it, and do not return to your charity.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Nafi' -> Abdullah ibn Umar -> Prophet Muhammad ﷺ (reporting about Umar)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Nafi' narrates from Ibn Umar using 'an (عَنْ), an ambiguous transmission term",
+          "impact": "However, Nafi' is universally recognized as extremely reliable and his connection to Ibn Umar is well-established and direct. This does not affect the grade."
+        }
+      ],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Charity given for the sake of Allah",
+        "Returning to one's charity",
+        "Incident of Umar's donated horse"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ نَافِعٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ رَحْمَةُ اللَّهِ عَلَيْهِ حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ ، فَوَجَدُه يُبَاعُ ، فَأَرَادَ أَنْ يَبْتَاعَهُ فَسَأَلَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ ذَلِكَ ، فَقَالَ : \" لا تَبْتَعْهُ ، وَلَا تَعُدْ فِي صَدَقَتِكَ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 701,
+      "grade": null
+    },
+    {
+      "hadith_id": 18086,
+      "book_id": 22,
+      "narrator_id": 5913,
+      "english_translation": "Narrated that Zayd ibn Aslam said from his father: I heard Umar ibn al-Khattab, may Allah be pleased with him, while he was saying: I donated a noble horse in the path of Allah, and the man who had it had neglected it. So I wanted to buy it from him, and I thought that he would sell it cheaply. So I asked about that the Messenger of Allah ﷺ. He said: Do not buy it, even if he gives it to you for one dirham, for indeed the one who returns to his charity is like a dog that returns to its vomit.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Yahya",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-Adawi al-Umari al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aslam",
+              "full_name": "Aslam al-Habashi mawla Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umar ibn al-Khattab",
+              "full_name": "Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Yahya -> Malik -> Zayd ibn Aslam -> Aslam (his father) -> Umar ibn al-Khattab -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain - from Yahya to Malik, and from Malik to Zayd ibn Aslam",
+          "impact": "However, all narrators are extremely reliable (thiqah/thabt) and the connections are well-established. Yahya ibn Yahya al-Laythi was a direct student of Malik, and Malik's connection to Zayd ibn Aslam is firmly documented."
+        },
+        {
+          "issue": "Aslam (father of Zayd) uses explicit hearing term 'sami'tu' from Umar, which strengthens this portion of the chain",
+          "impact": "This strengthens the reliability as it confirms direct hearing from Umar"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Charity given for the sake of Allah",
+        "Returning to one's charity",
+        "Incident of Umar's donated horse",
+        "Similitude of returning to charity like a dog returning to vomit"
+      ],
+      "arabicText": "حَدَّثَنِي يَحْيَى ، عَنْ مَالِك ، عَنْ زَيْدِ بْنِ أَسْلَمَ ، عَنْ أَبِيهِ ، أَنَّهُ قَالَ : سَمِعْتُ عُمَرَ بْنَ الْخَطَّابِ رَضِيَ اللَّهُ عَنْهُ ، وَهُوَ يَقُولُ : \" حَمَلْتُ عَلَى فَرَسٍ عَتِيقٍ فِي سَبِيلِ اللَّهِ ، وَكَانَ الرَّجُلُ الَّذِي هُوَ كَانَ عِنْدَهُ ، قَدْ أَضَاعَهُ فَأَرَدْتُ أَنْ أَشْتَرِيَهُ مِنْهُ ، وَظَنَنْتُ أَنَّهُ بَائِعُهُ بِرُخْصٍ ، فَسَأَلْتُ عَنْ ذَلِكَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : \" لا تَشْتَرِهِ ، وَإِنْ أَعْطَاكَهُ بِدِرْهَمٍ وَاحِدٍ ، فَإِنَّ الْعَائِدَ فِي صَدَقَتِهِ ، كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 702,
+      "grade": null
+    },
+    {
+      "hadith_id": 18087,
+      "book_id": 22,
+      "narrator_id": 4967,
+      "english_translation": "Narrated by Abdullah ibn Umar that he used to say: A man should not pray over funerals except while he is in a state of purity.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Nafi'",
+              "full_name": "Nafi' mawla Abdullah ibn Umar al-Adawi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Nafi' -> Abdullah ibn Umar (his statement)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mawquf narration - a statement of Abdullah ibn Umar, not attributed to the Prophet ﷺ",
+          "impact": "This represents the jurisprudential opinion of the Companion Abdullah ibn Umar regarding purity required for funeral prayer, not a marfu' hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Funeral Prayer",
+        "Purity required for prayer",
+        "Opinion of Abdullah ibn Umar on funeral prayer"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ نَافِعٍ ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ ، كَانَ يَقُولُ : \" لا يُصَلِّي الرَّجُلُ عَلَى الْجَنَائزِ إِلَّا وَهُوَ طَاهِرٌ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 703,
+      "grade": null
+    },
+    {
+      "hadith_id": 18089,
+      "book_id": 22,
+      "narrator_id": null,
+      "english_translation": "It reached Malik that the Messenger of Allah ﷺ died on Monday, and was buried on Tuesday, and the people prayed over him individually with no one leading them as imam. Some people said: He should be buried near the minbar. Others said: He should be buried in al-Baqi'. Then Abu Bakr al-Siddiq, may Allah be pleased with him, came and said: I heard the Messenger of Allah ﷺ saying: No prophet has ever been buried except in the place where Allah took his soul. So they moved the Messenger of Allah ﷺ from the place where Allah took his soul, and it was dug for him there. When it was time for his washing, they wanted to remove his shirt, but they heard a voice saying: Do not remove the shirt from him. So the shirt was not removed and he was washed while it was on him ﷺ.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أخبرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a mursal/balaghat narration - Malik uses 'balagahu' (it reached him) without naming the source, indicating disconnection from the eyewitnesses of the Prophet's ﷺ death and burial"]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> (disconnected - balagahu/it reached him)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal/balaghat narration - Malik reports using 'balagahu' (it reached him) without naming his source",
+          "impact": "The chain is disconnected. Malik (d. 179 AH) was born approximately 86 years after the Prophet's ﷺ death (11 AH) and does not specify from whom he received this information. This type of transmission is considered weak according to classical hadith methodology."
+        },
+        {
+          "issue": "The narration contains extraordinary elements (hearing a voice during washing) that would require strong authentication",
+          "impact": "Such extraordinary claims require particularly strong chains of transmission, which this mursal narration lacks"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Death of Prophet Muhammad ﷺ",
+        "Burial of Prophet Muhammad ﷺ",
+        "Funeral prayer over the Prophet ﷺ",
+        "Incident of Abu Bakr's statement about prophets' burial places",
+        "Washing of the Prophet's ﷺ body"
+      ],
+      "arabicText": "أخبرنا أَبُو مُصْعَبٍ ، قال : حَدَّثَنَا مالك ، أَنَّهُ بلغه ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" تُوُفِّيَ يَوْمَ الاثْنَيْنِ ، وَدُفِنَ يَوْمَ الثُّلَاثَاءِ ، وَصَلَّى النَّاسُ عَلَيْهِ أَفْذَاذًا لا يَؤُمُّهُمْ أَحَدٌ ، فَقَالَ نَاسٌ : يُدْفَنُ عِنْدَ الْمِنْبَرِ ، وَقَالَ آخَرُونَ : يُدْفَنُ بِالْبَقِيعِ ، فَجَاءَ أَبُو بَكْرٍ الصِّدِّيقُ رَضِيَ اللَّهُ عَنْهُ ، فَقَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" مَا دُفِنَ نَبِيٌّ قَطُّ إِلَّا فِي مَكَانِهِ الَّذِي قبض الله نفسه فِيهِ \" . قال : فأخروا رسول الله صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عن مكانه الذي قبض الله نفسه فيه ، فَحُفِرَ لَهُ فِيهِ \" ، فَلَمَّا كَانَ عِنْدَ غُسْلِهِ : فأَرَادُوا نَزْعَ قَمِيصِهِ ، فَسَمِعُوا صَوْتًا ، يَقُولُ : لا تَنْزِعُوا عنه الْقَمِيصَ ، فَلَمْ يُنْزَعِ الْقَمِيصُ وَغُسِّلَ وَهُوَ عَلَيْهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \"",
+      "collection": "كتاب رقم 22",
+      "reference_number": 705,
+      "grade": null
+    },
+    {
+      "hadith_id": 18090,
+      "book_id": 22,
+      "narrator_id": 4049,
+      "english_translation": "Yahya ibn Sa'id narrated that Aisha, the wife of the Prophet ﷺ, said: I saw three moons fall in my room, so I narrated my dream to Abu Bakr al-Siddiq. She said: When the Messenger of Allah ﷺ died and was buried in her house, Abu Bakr said to her: This is one of your moons, and he is the best of them.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Mus'ab",
+              "full_name": "Ahmad ibn Abi Bakr ibn Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Yahya ibn Sa'id",
+              "full_name": "Yahya ibn Sa'id ibn Qays al-Ansari al-Madani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": ["mursal - did not hear directly from Aisha"]
+            },
+            {
+              "name": "Aisha",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq al-Qurashiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is a munqati'/mursal narration - Yahya ibn Sa'id al-Ansari (d. 143 AH) did not hear directly from Aisha (d. 58 AH), and uses the ambiguous term 'anna' without specifying his intermediary source"]
+        }
+      ],
+      "plainChains": [
+        "Abu Mus'ab -> Malik -> Yahya ibn Sa'id -> (disconnected from) Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a munqati'/mursal narration - Yahya ibn Sa'id al-Ansari did not meet Aisha and the transmission uses 'anna' (أَنَّ)",
+          "impact": "The chain is disconnected. Yahya ibn Sa'id was born around 80 AH, approximately 22 years after Aisha's death in 58 AH. The use of 'anna' indicates he did not hear this directly from her, creating a gap in the chain."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Dream of Aisha about three moons",
+        "Burial of Prophet Muhammad ﷺ in Aisha's chamber",
+        "Abu Bakr's interpretation of Aisha's dream"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو مُصْعَبٍ ، قَالَ : حَدَّثَنَا مَالِكٌ ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، أَنَّ عَائِشَةَ زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَتْ : \" رَأَيْتُ ثَلَاثَةَ أَقْمَارٍ سَقَطْنَ فِي حُجْرَتِي \" ، فَقَصَصْتُ رُؤْيَايَ عَلَى أَبِي بَكْرٍ الصِّدِّيقِ \" ، قَالَتْ : \" فَلَمَّا تُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَدُفِنَ فِي بَيْتِهَا \" ، قَالَ لَهَا أَبُو بَكْرٍ : هَذَا أَحَدُ أَقْمَارِكِ ، وَهُوَ خَيْرُهَا",
+      "collection": "كتاب رقم 22",
+      "reference_number": 706,
+      "grade": null
+    }
+  ]
+}
