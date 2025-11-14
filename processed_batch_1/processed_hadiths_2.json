@@ -1,0 +1,850 @@
+{
+  "batch_number": 1,
+  "file_number": 2,
+  "processed_count": 14,
+  "skipped_count": 1,
+  "hadiths": [
+    {
+      "hadith_id": 16,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ، قَالَ : \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنْ يُسَافَرَ بِالْقُرْآنِ إِلَى أَرْضِ الْعَدُوِّ , لِئَلا يَذْهَبُوا بِهِ فَيَنَالُوهُ \" قَالَ الرَّبِيعُ : يَعْنِي بِالْقُرْآنِ هَاهُنَا الْمُصْحَفَ",
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ forbade traveling with the Quran to the land of the enemy, lest they take it and obtain it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works", "Primarily relied upon in Ibadi tradition"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple instances of 'an ('عَنْ') which is ambiguous transmission", "Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature (not found in major works like Tahdhib al-Tahdhib with extensive detail). While he was a student of the highly reliable Jabir ibn Zayd, his own reliability assessment is less well-documented.",
+          "impact": "Moderate impact - the narrator is not widely documented in major Sunni hadith criticism works, though Ibadi sources consider him reliable. This affects the overall chain strength."
+        },
+        {
+          "issue": "The chain uses 'an ('عَنْ') transmission terms throughout, which are ambiguous and could indicate indirect transmission or tadlis, though neither Abu 'Ubaydah nor Jabir ibn Zayd are classified as mudallisun by major scholars.",
+          "impact": "Minor impact - while 'an is ambiguous, the narrators are not known for tadlis. However, it cannot be confirmed that direct hearing occurred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prohibition of carrying Quranic manuscripts to enemy territory",
+        "Preserving sanctity of the Quran from enemy hands"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 16,
+      "grade": ""
+    },
+    {
+      "hadith_id": 17,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ كَانَ قَاعِدًا ذَاتَ يَوْمٍ مَعَ أَصْحَابِهِ إِذْ ذَكَرَ حَدِيثًا ، فَقَالَ : \" ذَلِكَ أَوَانُ يُنْسَخُ الْقُرْآنُ \" فَقَالَ رَجُلٌ كَالأَعْرَابِيِّ : يَا رَسُولَ اللَّهِ ، مَا النَّسْخُ ؟ وَكَيْفَ يُنْسَخُ ؟ ، قَالَ : \" يُذْهَبُ بِأَهْلِهِ ، وَيَبْقَى رِجَالٌ كَأَنَّهُمُ الْبُغَاثُ \" ، قَالَ الرَّبِيعُ : الْبُغَاثُ : أَرْذِلَةُ الطَّيْرِ",
+      "english_translation": "Narrated by Ibn 'Abbas from the Prophet ﷺ: He was sitting one day with his Companions when he mentioned a hadith, and said: 'That is the time when the Quran will be taken away.' A man like a Bedouin said: 'O Messenger of Allah, what is this taking away? And how will it be taken away?' He said: 'Its people will be taken, and there will remain men as if they are worthless birds.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works", "Primarily relied upon in Ibadi tradition"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn 'Abbas",
+              "full_name": "Abdullah ibn 'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Multiple instances of 'an ('عَنْ') which is ambiguous transmission", "Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Ibn 'Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature.",
+          "impact": "Moderate impact - affects overall chain assessment due to limited scholarly documentation of this narrator's reliability."
+        },
+        {
+          "issue": "The chain uses 'an ('عَنْ') transmission terms throughout without explicit hearing statements.",
+          "impact": "Minor impact - creates some ambiguity about direct transmission, though the narrators are not known for tadlis."
+        },
+        {
+          "issue": "The content of this hadith regarding the 'taking away' of the Quran is unusual and requires corroboration from other authentic chains.",
+          "impact": "This is a content consideration - the meaning could be metaphorical (loss of those who memorize and understand it) but needs supporting evidence."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Signs of the Last Days",
+        "Loss of knowledge and its people",
+        "Incident of Bedouin asking Prophet ﷺ about preservation of Quran"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 17,
+      "grade": ""
+    },
+    {
+      "hadith_id": 18,
+      "arabicText": "أَبُو عُبَيْدَةَ ، قَالَ : بَلَغَنِي أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، رَضِيَ اللَّهُ عَنْهُ ، سَمِعَ هِشَامَ بْنَ حَكِيمٍ ، يَقْرَأُ سُورَةَ الْفُرْقَانِ عَلَى غَيْرِ قِرَاءَتِهِ هُوَ...",
+      "english_translation": "It reached me (balaghani) that 'Umar ibn al-Khattab, may Allah be pleased with him, heard Hisham ibn Hakim reciting Surah al-Furqan in a manner different from his own recitation. 'Umar said: The Messenger of Allah ﷺ had taught it to me. So I grabbed him by his cloak and brought him to the Messenger of Allah ﷺ and said: O Messenger of Allah, I heard this man reciting Surah al-Furqan differently from how you taught it to me. The Messenger of Allah ﷺ said to the man: 'Recite.' So he recited, and the Messenger of Allah ﷺ said: 'Thus it was revealed.' Then he said to me: 'Recite,' so I recited, and he said: 'Thus it was revealed. Indeed, this Quran was revealed in seven modes (ahruf), all of them healing and sufficient. So recite what is easy for you from it.'",
+      "chains": [
+        {
+          "type": "mawquf-mursal",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["Uses balaghani indicating incomplete chain", "Does not specify the source"]
+            }
+          ],
+          "chainIssues": ["This is a mursal/munqati' narration - Abu 'Ubaydah says 'balaghani' (it reached me) without mentioning the chain", "There is a complete break in the isnad - Abu 'Ubaydah did not meet 'Umar ibn al-Khattab", "This is effectively a report without a connected chain"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah [mursal with balaghani - chain missing] -> 'Umar ibn al-Khattab's report"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical: This narration uses 'balaghani' (بَلَغَنِي - it reached me), which explicitly indicates that Abu 'Ubaydah did not receive this narration through a connected chain. This is a clear admission of disconnection (inqita').",
+          "impact": "Severe impact - This makes the chain munqati' (disconnected) and the hadith cannot be graded as authentic through this chain alone. The narration requires corroboration from connected chains."
+        },
+        {
+          "issue": "Abu 'Ubaydah (d. ~150 AH) could not have met 'Umar ibn al-Khattab (d. 23 AH) - there is a generational gap of over 100 years.",
+          "impact": "This confirms the disconnection - multiple generations are missing from the chain."
+        },
+        {
+          "issue": "The story of 'Umar and Hisham ibn Hakim is narrated in Sahih al-Bukhari and Muslim through connected chains from 'Umar himself, which strengthens the content but does not improve this particular chain.",
+          "impact": "This specific chain remains problematic despite the narration being authentic through other routes."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Seven Modes (Ahruf) of Quran revelation",
+        "Incident of 'Umar and Hisham ibn Hakim's different recitations",
+        "Prophetic teaching about Quranic variant readings"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 18,
+      "grade": ""
+    },
+    {
+      "hadith_id": 19,
+      "arabicText": "أَبُو عُبَيْدَةَ ، قَالَ : بَلَغَنِي أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا نَزَلَتْ عَلَيْهِ آيَةٌ ، قَالَ : \" اجْعَلُوهَا فِي سُورَةِ كَذَا وَكَذَا \" ، وَمَا تُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلا وَالْقُرْآنُ مَجْمُوعٌ مَتْلُوٌّ",
+      "english_translation": "It reached me (balaghani) that the Messenger of Allah ﷺ, when a verse was revealed to him, would say: 'Place it in such-and-such surah.' And the Messenger of Allah ﷺ did not pass away except that the Quran was compiled and recited.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["Uses balaghani indicating incomplete chain", "Does not specify any source", "Mursal min Tabi' al-Tabi'in"]
+            }
+          ],
+          "chainIssues": ["This is a mursal narration - Abu 'Ubaydah says 'balaghani' (it reached me) without mentioning any chain at all", "There is no connected chain to the Prophet ﷺ", "Abu 'Ubaydah is from the fourth generation and could not have met the Prophet ﷺ or even the Companions directly in most cases"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah [mursal with balaghani - chain completely missing] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical: This is a mursal narration where Abu 'Ubaydah uses 'balaghani' (بَلَغَنِي - it reached me) without mentioning any chain whatsoever. The entire isnad is missing.",
+          "impact": "Severe impact - This makes the narration mursal (disconnected) and according to the majority of hadith scholars, mursal narrations are weak unless supported by other evidence. The chain is completely absent."
+        },
+        {
+          "issue": "Abu 'Ubaydah is from the fourth generation (Atba' al-Tabi'in) and never met the Prophet ﷺ, making this necessarily indirect.",
+          "impact": "This confirms there must be at least two missing links (Tabi'i and Companion) in the chain."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Organization of Quranic verses during revelation",
+        "Compilation of the Quran during Prophet's ﷺ lifetime",
+        "Prophetic instruction on Surah arrangement"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 19,
+      "grade": ""
+    },
+    {
+      "hadith_id": 20,
+      "arabicText": "عَنْ عَبْدِ الأَعْلَى ، عَنْ دَاوُدَ ، عَنْ عِكْرِمَةَ ، عَنِ ابْنِ عَبَّاسٍ ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" أُنْزِلَ الْقُرْآنُ كُلُّهُ جُمْلَةً وَاحِدَةً فِي لَيْلَةِ الْقَدْرِ إِلَى السَّمَاءِ الدُّنْيَا ، وَكَانَ اللَّهُ إِذَا أَرَادَ أَنْ يُحْدِثَ فِي الأَرْضِ شَيْئًا أَنْزَلَ مِنْهُ حَتَّى جَمَعَهُ \"",
+      "english_translation": "Narrated by Ibn 'Abbas from the Messenger of Allah ﷺ who said: 'The entire Quran was sent down all at once on Laylat al-Qadr to the lowest heaven, and whenever Allah wanted to bring something new on earth, He would send down from it until He completed it.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "'Abd al-A'la",
+              "full_name": "'Abd al-A'la ibn 'Abd al-A'la al-Sami al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Dawud",
+              "full_name": "Dawud ibn Abi Hind al-Qushayri al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah ibn 'Abdullah al-Barbari, mawla Ibn 'Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some Maliki scholars criticized him", "Imam Malik avoided his narrations", "However, the majority of hadith scholars consider him reliable"]
+            },
+            {
+              "name": "Ibn 'Abbas",
+              "full_name": "Abdullah ibn 'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["The entire chain uses 'an ('عَنْ') which is ambiguous", "Although none of these narrators are classified as major mudallisun, the lack of explicit hearing terms creates some ambiguity"]
+        }
+      ],
+      "plainChains": [
+        "'Abd al-A'la -> Dawud -> 'Ikrimah -> Ibn 'Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "'Ikrimah (mawla of Ibn 'Abbas) was criticized by some scholars, particularly in the Maliki school. Imam Malik avoided narrating from him. However, the vast majority of hadith scholars including Bukhari, Muslim, and the four Sunan compilers accepted his narrations and considered him thiqah.",
+          "impact": "Minor impact - While there was some controversy, the mainstream position is that 'Ikrimah is reliable, especially when narrating from his teacher Ibn 'Abbas. His narrations appear in the Sahihayn."
+        },
+        {
+          "issue": "The entire chain uses 'an ('عَنْ') transmission without explicit hearing terms like 'sami'tu' or 'haddathana'.",
+          "impact": "Minor impact - Creates some ambiguity about direct transmission. However, none of these narrators are classified as significant mudallisun, and the chain appears in mainstream collections with similar wording."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Revelation of Quran on Laylat al-Qadr",
+        "Stages of Quranic revelation",
+        "Quran sent to lowest heaven first"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 20,
+      "grade": ""
+    },
+    {
+      "hadith_id": 21,
+      "arabicText": "عَنْ يَحْيَى بْنِ كَثِيرٍ ، عَنْ شُعَيْبٍ ، عَنْ قَتَادَةَ ، عَنْ عِكْرِمَةَ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : \" الْبَقَرَةُ ، وَ آلُ عِمْرَانَ ، وَ النِّسَاءُ ، وَ الْمَائِدَةُ ، وَ التَّوْبَةُ مَدَنِيَّاتٌ...",
+      "english_translation": "Narrated by Ibn 'Abbas who said: 'Al-Baqarah, Ali 'Imran, al-Nisa', al-Ma'idah, and al-Tawbah are Medinan surahs, and al-Ra'd is Medinan except one verse...' [continues with detailed listing of Meccan and Medinan surahs]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Yahya ibn Kathir",
+              "full_name": "Yahya ibn Kathir ibn Darrasta al-Taymi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Shu'ayb",
+              "full_name": "Shu'ayb ibn al-Habhab al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known mudallis - classified as Category 3 by Ibn Hajar in Tabaqat al-Mudallisun", "When using 'an ('عَنْ'), his narrations require scrutiny"]
+            },
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah ibn 'Abdullah al-Barbari, mawla Ibn 'Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some Maliki scholars criticized him", "Majority consider him reliable"]
+            },
+            {
+              "name": "Ibn 'Abbas",
+              "full_name": "Abdullah ibn 'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Qatadah is a known mudallis (Category 3) using 'an ('عَنْ') from 'Ikrimah", "Multiple instances of 'an throughout the chain without explicit hearing terms"]
+        }
+      ],
+      "plainChains": [
+        "Yahya ibn Kathir -> Shu'ayb -> Qatadah -> 'Ikrimah -> Ibn 'Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical: Qatadah ibn Di'amah is a well-known mudallis classified as Category 3 by Ibn Hajar in his Tabaqat al-Mudallisun. When he narrates using 'an ('عَنْ') without explicit hearing terms, there is a risk of tadlis (concealment of a weak link or missing narrator).",
+          "impact": "Moderate to significant impact - Qatadah's tadlis when using 'an makes the chain questionable. Direct hearing terms would be needed to accept this chain without reservation. However, Qatadah is generally considered reliable and his tadlis was not of the worst type."
+        },
+        {
+          "issue": "'Ikrimah was criticized by some Maliki scholars though accepted by the majority.",
+          "impact": "Minor impact - The mainstream position accepts 'Ikrimah especially from Ibn 'Abbas."
+        },
+        {
+          "issue": "The entire chain uses 'an ('عَنْ') without explicit hearing terms.",
+          "impact": "Compounds the issue with Qatadah's known tadlis."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Classification of Meccan and Medinan Surahs",
+        "Statement of Ibn 'Abbas on Quranic chronology",
+        "Scholarly differences on specific verses"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 21,
+      "grade": ""
+    },
+    {
+      "hadith_id": 23,
+      "arabicText": "حَدَّثَنِي أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" اطْلُبُوا الْعِلْمَ وَلَوْ بِالصِّينِ \"",
+      "english_translation": "Narrated by Anas ibn Malik from the Prophet ﷺ who said: 'Seek knowledge even if it is in China.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works", "Uses 'an ('عَنْ') from Jabir to Anas"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature.",
+          "impact": "Moderate impact - affects overall chain assessment."
+        },
+        {
+          "issue": "The content of this hadith ('Seek knowledge even if in China') is famous but has been classified as weak (da'if) by many hadith scholars including al-Albani and others. Multiple chains exist but all have issues.",
+          "impact": "This is a content consideration - the chain issues combined with widespread scholarly criticism of this narration's authenticity suggest caution."
+        },
+        {
+          "issue": "Uses 'an ('عَنْ') in part of the chain which is ambiguous.",
+          "impact": "Minor additional impact given other issues."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Virtue and importance of seeking knowledge",
+        "Traveling far distances for learning"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 23,
+      "grade": ""
+    },
+    {
+      "hadith_id": 24,
+      "arabicText": "وَمِنْ طَرِيقِهِ عَنِ النَّبِيِّ عَلَيْهِ السَّلامُ قَالَ : \" إِنَّ الْمَلائِكَةَ لَتَضَعُ أَجْنِحَتَهَا لِطَالِبِ الْعِلْمِ رِضًا لِمَا يَطْلُبُ \" . قَالَ الرَّبِيعُ : الأَجْنِحَةُ بَدَلٌ مِنَ الأَيْدِي فِي بَابِ الدُّعَاءِ",
+      "english_translation": "And through his (same) chain from the Prophet ﷺ who said: 'Indeed, the angels lower their wings for the seeker of knowledge, pleased with what he seeks.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works", "Chain reference unclear - 'from his path' (min tariqihi)"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "[implied same chain]",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "[implied same chain]",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["The phrase 'min tariqihi' (from his path) suggests the same chain as previous hadith but doesn't explicitly state it", "This creates ambiguity about the exact chain"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik [implied] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain is not explicitly stated - it says 'from his path' (min tariqihi) which suggests the previous chain through Abu 'Ubaydah -> Jabir -> Anas, but this is not definitively clear.",
+          "impact": "Moderate impact - creates ambiguity about the exact chain of transmission."
+        },
+        {
+          "issue": "Abu 'Ubaydah has limited documentation in mainstream Sunni hadith criticism works.",
+          "impact": "Moderate impact on reliability assessment."
+        },
+        {
+          "issue": "This hadith about angels lowering wings for knowledge seekers exists in other collections with different chains, some of which are considered more authentic.",
+          "impact": "The meaning is supported by other narrations, but this particular chain has issues."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Angels honoring seekers of knowledge",
+        "Divine favor upon students of sacred knowledge"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 24,
+      "grade": ""
+    },
+    {
+      "hadith_id": 25,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ سَلَكَ طَرِيقًا يَطْلُبُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ طَرِيقَ الْجَنَّةِ \"",
+      "english_translation": "Narrated by Abu Hurayrah who said: The Messenger of Allah ﷺ said: 'Whoever travels a path seeking knowledge, Allah will make easy for him a path to Paradise.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses 'an ('عَنْ') transmission terms", "Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature.",
+          "impact": "Moderate impact - affects overall chain assessment."
+        },
+        {
+          "issue": "The chain uses 'an ('عَنْ') which is ambiguous, though the narrators are not known mudallisun.",
+          "impact": "Minor impact - creates some ambiguity about direct transmission."
+        },
+        {
+          "issue": "This hadith is narrated through multiple other chains in mainstream collections (Sahih Muslim, Sunan Abu Dawud, etc.) with better-documented chains, which supports the content.",
+          "impact": "The meaning is well-established through other routes, though this particular chain has documentation issues."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Virtue of seeking knowledge",
+        "Path to Paradise through learning"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 25,
+      "grade": ""
+    },
+    {
+      "hadith_id": 26,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ تَعَلَّمَ الْعِلْمَ لِلَّهِ عَزَّ وَجَلَّ ، وَعَمِلَ بِهِ حَشَرَهُ اللَّهُ يَوْمَ الْقِيَامَةِ آمِنًا ، وَيُرْزَقُ الْوُرُودَ عَلَى الْحَوْضِ \"",
+      "english_translation": "Narrated by Abu Hurayrah who said: The Messenger of Allah ﷺ said: 'Whoever learns knowledge for the sake of Allah Almighty and acts upon it, Allah will resurrect him on the Day of Resurrection in safety, and he will be granted access to the Hawd (Basin).'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses 'an ('عَنْ') transmission terms", "Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature.",
+          "impact": "Moderate impact - affects overall chain assessment."
+        },
+        {
+          "issue": "The chain uses 'an ('عَنْ') which is ambiguous.",
+          "impact": "Minor impact - creates some ambiguity about direct transmission."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Sincerity in seeking knowledge",
+        "Acting upon knowledge",
+        "Reward of the Hawd on Day of Judgment"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 26,
+      "grade": ""
+    },
+    {
+      "hadith_id": 27,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" تَعَلَّمُوا الْعِلْمَ ، فَإِنَّ تَعَلُّمَهُ قُرْبَةٌ إِلَى اللَّهِ عَزَّ وَجَلَّ ، وَتَعْلِيمَهُ لِمَنْ لا يَعْلَمُهُ صَدَقَةٌ ، وَإِنَّ الْعِلْمَ لَيَنْزِلُ بِصَاحِبِهِ فِي مَوْضِعِ الشَّرَفِ وَالرِّفْعَةِ ، وَالْعِلْمُ زَيْنٌ لأَهْلِهِ فِي الدُّنْيَا وَالآخِرَةِ \"",
+      "english_translation": "Jabir ibn Zayd said: The Messenger of Allah ﷺ said: 'Learn knowledge, for learning it is nearness to Allah Almighty, and teaching it to one who does not know it is charity. Indeed, knowledge places its possessor in a position of honor and elevation, and knowledge is an adornment for its people in this world and the Hereafter.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["This appears to be mursal - Jabir directly attributes to the Prophet ﷺ without mentioning a Companion"]
+            }
+          ],
+          "chainIssues": ["This is a mursal narration - Jabir ibn Zayd (a Tabi'i) directly attributes a statement to the Prophet ﷺ without mentioning the Companion through whom he heard it", "There is a missing link in the chain (the Companion is not mentioned)"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd [mursal - missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Critical: This is a mursal narration (مرسل). Jabir ibn Zayd, who is a Tabi'i (Second Generation), directly attributes this statement to the Prophet ﷺ without mentioning which Companion narrated it to him. This creates a gap in the chain.",
+          "impact": "Significant impact - Mursal narrations are considered weak by the majority of hadith scholars unless supported by other evidence. The missing link (Companion) makes authentication difficult."
+        },
+        {
+          "issue": "Abu 'Ubaydah has limited documentation in mainstream Sunni hadith criticism works.",
+          "impact": "Additional moderate impact on chain assessment."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Virtues of learning and teaching knowledge",
+        "Knowledge as charity and nearness to Allah",
+        "Elevated status of scholars"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 27,
+      "grade": ""
+    },
+    {
+      "hadith_id": 28,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" تَعْلِيمُ الصِّغَارِ يُطْفِئُ غَضَبَ الرَّبِّ \"",
+      "english_translation": "Narrated by Anas ibn Malik from the Prophet ﷺ who said: 'Teaching the young extinguishes the anger of the Lord.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses 'an ('عَنْ') transmission terms", "Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature.",
+          "impact": "Moderate impact - affects overall chain assessment."
+        },
+        {
+          "issue": "The chain uses 'an ('عَنْ') which is ambiguous.",
+          "impact": "Minor impact - creates some ambiguity about direct transmission."
+        },
+        {
+          "issue": "This particular narration is not found in major mainstream hadith collections with strong chains, and its authenticity has been questioned by some scholars.",
+          "impact": "Content consideration - requires additional corroboration."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Virtue of teaching children",
+        "Early education in Islam",
+        "Divine pleasure in instructing youth"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 28,
+      "grade": ""
+    },
+    {
+      "hadith_id": 29,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" تَعَلَّمُوا الْعِلْمَ قَبْلَ أَنْ يُرْفَعَ ، وَرَفْعُهُ ذَهَابُ أَهْلِهِ \"",
+      "english_translation": "Narrated by Abu Hurayrah who said: The Messenger of Allah ﷺ said: 'Learn knowledge before it is taken away, and its being taken away is the passing of its people.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses 'an ('عَنْ') transmission terms", "Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature.",
+          "impact": "Moderate impact - affects overall chain assessment."
+        },
+        {
+          "issue": "The chain uses 'an ('عَنْ') which is ambiguous.",
+          "impact": "Minor impact - creates some ambiguity about direct transmission."
+        },
+        {
+          "issue": "Similar narrations about knowledge being taken away through the death of scholars appear in Sahih al-Bukhari and other collections with different wording and chains, supporting the general meaning.",
+          "impact": "The content is well-supported by authentic narrations in mainstream collections."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Preservation of knowledge",
+        "Warning about loss of scholars",
+        "Urgency in seeking knowledge"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 29,
+      "grade": ""
+    },
+    {
+      "hadith_id": 30,
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مَنْ أَرَادَ اللَّهُ بِهِ خَيْرًا فَقَّهَهُ فِي الدِّينِ \"",
+      "english_translation": "Narrated by Anas ibn Malik from the Prophet ﷺ who said: 'Whomever Allah wants good for, He grants him understanding in the religion.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu 'Ubaydah",
+              "full_name": "Abu 'Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Limited documentation in mainstream Sunni hadith criticism works"]
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd al-Azdi al-Ju'fi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses 'an ('عَنْ') transmission terms", "Abu 'Ubaydah has limited documentation in major Sunni hadith criticism works"]
+        }
+      ],
+      "plainChains": [
+        "Abu 'Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu 'Ubaydah Muslim ibn Abi Karima is primarily documented in Ibadi sources with limited coverage in mainstream Sunni hadith criticism literature.",
+          "impact": "Moderate impact - affects overall chain assessment."
+        },
+        {
+          "issue": "The chain uses 'an ('عَنْ') which is ambiguous.",
+          "impact": "Minor impact - creates some ambiguity about direct transmission."
+        },
+        {
+          "issue": "This famous hadith is narrated in Sahih al-Bukhari and Muslim through Mu'awiyah ibn Abi Sufyan (not Anas), which is the more well-known and authentic chain for this particular wording.",
+          "impact": "The content is authentic through other chains, though this specific chain through Anas requires scrutiny."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Sign of divine favor",
+        "Understanding of religion as blessing",
+        "Fiqh and deep comprehension"
+      ],
+      "collection": "Musnad al-Rabi' ibn Habib",
+      "reference_number": 30,
+      "grade": ""
+    }
+  ]
+}

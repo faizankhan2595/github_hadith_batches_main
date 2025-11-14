@@ -1,0 +1,852 @@
+{
+  "batch_number": 1,
+  "file_number": 3,
+  "processed_count": 13,
+  "hadiths": [
+    {
+      "hadith_id": 31,
+      "hadith_number": 31,
+      "english_translation": "Narrated by Mu'awiyah ibn Abi Sufyan: While he was on the pulpit, he said: O people, indeed there is no preventer of what Allah gives, and no giver of what Allah prevents, and the possessor of great wealth is not benefited by his wealth against Allah. Whoever Allah intends good for, He grants him understanding in the religion. Then he said: I heard these words from the Messenger of Allah ﷺ upon these wooden planks, meaning the pulpit.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["Unknown narrator", "Disconnected chain"]
+            },
+            {
+              "name": "Mu'awiyah ibn Abi Sufyan",
+              "full_name": "Mu'awiyah ibn Abi Sufyan ibn Harb ibn Umayya al-Umawi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd uses 'بَلَغَنِي' (it reached me) indicating he did not hear this directly from Mu'awiyah",
+            "Clear disconnection (inqita') in the chain between Jabir ibn Zayd and Mu'awiyah",
+            "Unknown intermediary narrator(s) between Jabir and Mu'awiyah"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> [Unknown] -> Mu'awiyah ibn Abi Sufyan -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Disconnected chain (munqati'): Jabir ibn Zayd uses 'بَلَغَنِي' (balaghani - it reached me) indicating indirect transmission",
+          "impact": "This creates a clear gap in the chain of transmission. The intermediary narrator(s) between Jabir and Mu'awiyah are unknown, which severely affects the reliability of the chain."
+        },
+        {
+          "issue": "Jabir ibn Zayd was born around 18 AH and Mu'awiyah died in 60 AH, so direct hearing is theoretically possible, but Jabir's use of 'بَلَغَنِي' explicitly indicates he did not hear this directly",
+          "impact": "The narrator himself acknowledges the disconnection, making this a munqati' (disconnected) hadith."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of Mu'awiyah delivering a sermon on the pulpit",
+        "Divine decree and human agency",
+        "Importance of understanding religion",
+        "Description of the Prophet's ﷺ words from the pulpit"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، قَالَ : بَلَغَنِي عَنْ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ ، قَالَ : وَهُوَ عَلَى الْمِنْبَرِ \" أَيُّهَا النَّاسُ ، إِنَّهُ لا مَانِعَ لِمَا أَعْطَى اللَّهُ ، وَلا مُعْطٍ لِمَا مَنَعَ اللَّهُ وَلا يَنْفَعُ ذَا الْجَدِّ مِنْهُ الْجَدُّ ، مَنْ يُرِدْ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ ، ثُمَّ قَالَ : سَمِعْتُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ هَذِهِ الْكَلِمَاتِ عَلَى هَذِهِ الأَعْوَادِ يَعْنِي الْمِنْبَرَ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 31
+    },
+    {
+      "hadith_id": 32,
+      "hadith_number": 32,
+      "english_translation": "The Messenger of Allah ﷺ said: The trace of ink on the garment of one of you when he writes knowledge is like blood in the path of Allah, and he continues to receive reward for it as long as that ink remains in his garment.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["Unknown narrator", "Disconnected chain"]
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd uses 'بَلَغَنِي عَنْ رَسُولِ اللَّهِ' (it reached me from the Messenger of Allah) with no companion mentioned",
+            "Complete disconnection (inqita') - this is a mursal hadith from a tabi'i",
+            "Unknown intermediary narrator(s) between Jabir and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> [Unknown] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith: Jabir ibn Zayd (a tabi'i) uses 'بَلَغَنِي' to report directly from the Prophet ﷺ without mentioning a companion",
+          "impact": "This is a severely disconnected chain. Mursal hadiths are generally considered weak because the companion(s) in the chain are unknown. The reliability of the intermediary narrators cannot be assessed."
+        },
+        {
+          "issue": "No companion mentioned in the chain",
+          "impact": "Without knowing which companion(s) transmitted this, we cannot verify the authenticity of the transmission path."
+        },
+        {
+          "issue": "The content about ink stains being rewarded like blood in jihad appears unique and is not found in major hadith collections",
+          "impact": "Lack of corroboration from other reliable chains increases doubt about authenticity."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtue of writing knowledge",
+        "Reward for seeking and recording knowledge",
+        "Comparison of scholarship to jihad"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : بَلَغَنِي عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" رَسْمُ الْمِدَادِ فِي ثَوْبِ أَحَدِكُمْ إِذَا كَانَ يَكْتُبُ عِلْمًا كَالدَّمِ فِي سَبِيلِ اللَّهِ ، وَلا يَزَالُ يَنَالُ بِهِ الأَجْرَ مَا دَامَ ذَلِكَ الْمِدَادُ فِي ثَوْبِهِ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 32
+    },
+    {
+      "hadith_id": 33,
+      "hadith_number": 33,
+      "english_translation": "Narrated by Ibn Abbas: The Messenger of Allah ﷺ went out one day to the mosque and found his companions in groups discussing various branches of knowledge. The first circle he stopped at, he found them reciting the Quran, so he sat with them and said: With this my Lord sent me. Then he went to the second circle and found them speaking about the lawful and unlawful, so he sat with them and did not say anything. Then he went to the third circle and found them mentioning the Oneness of Allah the Mighty and Majestic and negating similarities and comparisons to Him, so he sat with them for a long time, then said: With this my Lord commanded me. Jabir said: Because Tawhid is the knowledge of Allah the Mighty and Majestic, and whoever does not know the Tawhid of Allah is not a believer.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd narrates from Ibn Abbas using 'عَنْ' which could indicate indirect transmission",
+            "However, it is well-documented that Jabir ibn Zayd was a direct student of Ibn Abbas"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' ('an) between Jabir ibn Zayd and Ibn Abbas",
+          "impact": "While 'عَنْ' can sometimes indicate indirect transmission, it is well-established in biographical sources that Jabir ibn Zayd was a direct student of Ibn Abbas and heard from him extensively. Therefore, this transmission term is acceptable in this context."
+        },
+        {
+          "issue": "The hadith content emphasizes Tawhid study over fiqh, which may reflect Ibadi theological priorities rather than authentic prophetic teaching",
+          "impact": "The narrative structure and emphasis might reflect later theological debates. The commentary by Jabir at the end (stating one who doesn't know Tawhid is not a believer) adds a theological position that may not have been part of the original narration."
+        },
+        {
+          "issue": "This specific incident is not found in major Sunni hadith collections with the same details",
+          "impact": "Lack of corroboration from multiple independent chains (lack of mutaba'at) raises questions about authenticity."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident of the Prophet ﷺ visiting different study circles in the mosque",
+        "Importance of Quranic recitation",
+        "Discussion of lawful and unlawful matters",
+        "Primacy of Tawhid (Islamic monotheism)",
+        "Different types of religious knowledge"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : خَرَجَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ إِلَى الْمَسْجِدِ ، فَوَجَدَ أَصْحَابَهُ عِزِينَ يَتَذَاكَرُونَ فُنُونَ الْعِلْمِ ، فَأَوَّلُ حَلْقَةٍ وَقَفَ عَلَيْهَا وَجَدَهُمْ يَقْرَءُونَ الْقُرْآنَ فَجَلَسَ إِلَيْهِمْ ، فَقَالَ : \" بِهَذَا أَرْسَلَنِي رَبِّي \" ثُمَّ قَامَ إِلَى الثَّانِيَةِ فَوَجَدَهُمْ يَتَكَلَّمُونَ فِي الْحَلالِ وَالْحَرَامِ ، فَجَلَسَ إِلَيْهِمْ وَلَمْ يَقُلْ شَيْئًا ، ثُمَّ قَامَ إِلَى الثَّالِثَةِ فَوَجَدَهُمْ يَذْكُرُونَ تَوْحِيدَ اللَّهِ عَزَّ وَجَلَّ وَنَفْيَ الأَشْبَاهِ وَالأَمْثَالِ عَنْهُ ، فَجَلَسَ إِلَيْهِمْ كَثِيرًا ، ثُمَّ قَالَ : \" بِهَذَا أَمَرَنِي رَبِّي \" . قَالَ جَابِرٌ : لأَنَّ التَّوْحِيدَ مَعْرِفَةُ اللَّهِ عَزَّ وَجَلَّ ، وَمَنْ لا يَعْرِفُ تَوْحِيدَ اللَّهِ فَلَيْسَ بِمُؤْمِنٍ",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 33
+    },
+    {
+      "hadith_id": 34,
+      "hadith_number": 34,
+      "english_translation": "Narrated by Jabir ibn Zayd: I met people from among the Companions, most of whose legal rulings were the hadith of the Prophet ﷺ. They used to say: The Prophet ﷺ said: None of you should urinate in standing water and then wash from it or perform ablution from it.",
+      "chains": [
+        {
+          "type": "mawquf/marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unspecified Companions",
+              "full_name": "Unspecified people from among the Companions",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَدْرَكْتُ",
+              "reliabilityIssues": ["Unspecified companions - no names given"]
+            }
+          ],
+          "chainIssues": [
+            "Jabir mentions 'people from the Companions' without naming them specifically",
+            "This creates ambiguity about which companions transmitted this hadith",
+            "The hadith is attributed collectively to unnamed companions"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> [Unspecified Companions] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unspecified companions: Jabir says 'I met people from the Companions' (أَدْرَكْتُ نَاسًا مِنَ الصَّحَابَةِ) without naming them",
+          "impact": "While the general principle that all Companions are trustworthy ('adalah) is accepted, the lack of specific names prevents verification of the transmission path and makes it impossible to trace the exact chain back to the Prophet ﷺ. This is a form of jahala (unknown narrator issue)."
+        },
+        {
+          "issue": "The hadith content itself (prohibition of urinating in standing water) is authentic and found in Sahih Muslim and other collections through named companions like Abu Hurayrah and Jabir ibn Abdullah",
+          "impact": "While the content is corroborated by authentic chains in other collections, this particular chain remains problematic due to the unspecified intermediaries."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Method of purification and ablution",
+        "Prohibition of urinating in standing water",
+        "Water purification rules",
+        "Companions' reliance on prophetic traditions for legal rulings"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : أَدْرَكْتُ نَاسًا مِنَ الصَّحَابَةِ أَكْثَرُ فُتْيَاهُمْ حَدِيثُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُونَ : قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لا يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ ثُمَّ يَغْتَسِلُ مِنْهُ أَوْ يَتَوَضَّأُ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 34
+    },
+    {
+      "hadith_id": 35,
+      "hadith_number": 35,
+      "english_translation": "The Messenger of Allah ﷺ said: I have left among you that which if you hold fast to it, you will never go astray: the Book of Allah the Mighty and Majestic. Whatever you do not find in the Book of Allah, then in my Sunnah. Whatever you do not find in my Sunnah, then to those in authority among you.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["Unknown narrator", "Completely disconnected chain"]
+            }
+          ],
+          "chainIssues": [
+            "Abu Ubaydah uses 'بَلَغَنِي' (it reached me) to report directly from the Prophet ﷺ",
+            "Complete disconnection - no intermediary narrators mentioned at all",
+            "This is a severely broken chain (mu'dal)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> [Unknown intermediaries] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mu'dal (معضل) chain: Abu Ubaydah (a tabi' al-tabi'in) uses 'بَلَغَنِي' to report directly from the Prophet ﷺ with no intermediaries mentioned",
+          "impact": "This is one of the weakest forms of transmission. A mu'dal hadith has two or more consecutive narrators missing from the chain. The reliability of the unknown intermediaries cannot be assessed at all."
+        },
+        {
+          "issue": "The content mentions a three-tier hierarchy (Quran, Sunnah, then 'those in authority'), which differs from the more famous hadith of Thaqalayn",
+          "impact": "The specific formulation about referring to 'those in authority' (uli al-amr) when something is not found in Quran or Sunnah appears to be unique to this narration and is not found in major collections. This raises questions about authenticity."
+        },
+        {
+          "issue": "The hierarchical structure presented may reflect later jurisprudential developments rather than authentic prophetic teaching",
+          "impact": "The systematic three-tier approach sounds more like later legal theory (usul al-fiqh) than a prophetic statement."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Sources of Islamic guidance",
+        "Hierarchy of religious authority",
+        "Role of the Quran and Sunnah",
+        "Reference to those in authority for religious matters"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، قَالَ : بَلَغَنِي عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ : \" خَلَّفْتُ فِيكُمْ مَا إِنْ تَمَسَّكْتُمْ بِهِ لَنْ تَضِلُّوا أَبَدًا : كِتَابَ اللَّهِ عَزَّ وَجَلَّ ، فَمَا لَمْ تَجِدُوهُ فِي كِتَابِ اللَّهِ فَفِي سُنَّتِي ، فَمَا لَمْ تَجِدُوهُ فِي سُنَّتِي ، فَإِلَى أُولِي الأَمْرِ مِنْكُمْ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 35
+    },
+    {
+      "hadith_id": 36,
+      "hadith_number": 36,
+      "english_translation": "While the Messenger of Allah ﷺ was sitting in the mosque, three men approached. Two of them headed toward the Messenger of Allah ﷺ, while one went about his business. When the two stood before the Messenger of Allah ﷺ, they greeted him. One of them found a gap in the circle and sat in it, while the other sat behind the circle. The Messenger of Allah ﷺ said: Shall I not inform you about the matter of the three men? They said: Yes, O Messenger of Allah. He said: As for one of them, he sought refuge with Allah, so Allah gave him refuge. As for the second, he was shy before Allah, so Allah was shy before him. As for the third, Allah turned away from him.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["Unknown narrator", "Disconnected chain"]
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd uses 'بَلَغَنِي عَنْ رَسُولِ اللَّهِ' (it reached me from the Messenger of Allah) with no companion mentioned",
+            "This is a mursal hadith from a tabi'i",
+            "Unknown intermediary narrator(s) between Jabir and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> [Unknown] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith: Jabir ibn Zayd uses 'بَلَغَنِي' to report directly from the Prophet ﷺ without mentioning a companion",
+          "impact": "The companion(s) who witnessed this incident and transmitted it are completely unknown. This severely affects the reliability of the chain."
+        },
+        {
+          "issue": "A similar hadith is found in Sahih al-Bukhari (66) and Sahih Muslim (2176) narrated by Abu Waqid al-Laythi with a complete, authentic chain",
+          "impact": "While the content is corroborated by authentic narrations in major collections, this specific chain remains problematic due to the disconnection. The authentic versions support the meaning but not this particular transmission path."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Incident of three men approaching the Prophet's ﷺ gathering",
+        "Etiquette of attending knowledge circles",
+        "Divine response to human actions",
+        "Seeking closeness to Allah",
+        "Shyness and modesty before Allah"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : بَلَغَنِي عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ بَيْنَمَا هُوَ جَالِسٌ فِي الْمَسْجِدِ إِذْ أَقْبَلَ ثَلاثَةُ نَفَرٍ ، فَقَصَدَ اثْنَانِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَذَهَبَ وَاحِدٌ فِي حَاجَتِهِ ، فَلَمَّا وَقَفَا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَلَّمَا ، فَقَصَدَ أَحَدُهُمَا إِلَى فُرْجَةٍ فِي الْحَلْقَةِ فَقَعَدَ فِيهَا ، وَجَلَسَ الآخَرُ خَلْفَ الْحَلْقَةِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَلا أُخْبِرُكُمْ بِأَمْرِ النَّفَرِ الثَّلاثَةِ \" ، فَقَالُوا : بَلَى يَا رَسُولَ اللَّهِ ، قَالَ : \" أَمَّا أَحَدُهُمْ فَآوَى إِلَى اللَّهِ فَآوَاهُ اللَّهُ إِلَيْهِ ، وَأَمَّا الثَّانِي فَاسْتَحْيَا مِنَ اللَّهِ فَاسْتَحْيَا اللَّهُ مِنْهُ ، وَأَمَّا الثَّالِثُ فَأَعْرَضَ اللَّهُ عَنْهُ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 36
+    },
+    {
+      "hadith_id": 38,
+      "hadith_number": 38,
+      "english_translation": "Narrated by Anas ibn Malik: The Prophet ﷺ said: Woe to the one who does not know, once. And woe to the one who knows but does not act, twice.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd narrates from Anas ibn Malik using 'عَنْ'",
+            "It is well-documented that Jabir heard directly from Anas, so this is acceptable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' ('an) between Jabir ibn Zayd and Anas ibn Malik",
+          "impact": "While 'عَنْ' can indicate indirect transmission, it is well-established that Jabir ibn Zayd heard directly from Anas ibn Malik. Jabir was one of Anas's prominent students in Basra. Therefore, this transmission is acceptable despite the use of 'an."
+        },
+        {
+          "issue": "This specific wording (woe once for ignorance, woe twice for knowing without acting) is not found in major hadith collections",
+          "impact": "Lack of corroboration from other chains raises questions. However, the general meaning aligns with authentic teachings about the importance of acting upon knowledge."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Warning against ignorance",
+        "Greater warning for those who have knowledge but do not act upon it",
+        "Importance of implementing knowledge",
+        "Accountability of the learned"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" وَيْلٌ لِمَنْ لَمْ يَعْلَمْ مَرَّةً ، وَوَيْلٌ لِمَنْ يَعْلَمُ وَلَمْ يَعْمَلْ مَرَّتَيْنِ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 38
+    },
+    {
+      "hadith_id": 39,
+      "hadith_number": 39,
+      "english_translation": "Narrated by Anas ibn Malik: The Prophet ﷺ said: Whoever learns knowledge to compete with scholars or to argue with the foolish will meet Allah on the Day of Resurrection while he is deprived of good deeds.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd narrates from Anas using 'عَنْ'",
+            "Well-established direct hearing between them"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' ('an) between Jabir ibn Zayd and Anas ibn Malik",
+          "impact": "Jabir was a direct student of Anas, so this is acceptable despite the use of 'an."
+        },
+        {
+          "issue": "Similar narrations exist in later hadith collections with variations in wording, but this specific version is not found in the major six books (Kutub al-Sittah)",
+          "impact": "The general theme about sincerity in seeking knowledge is supported by other authentic hadiths, though this specific wording lacks strong corroboration from multiple independent chains."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Warning against seeking knowledge for wrong intentions",
+        "Dangers of intellectual pride and showing off",
+        "Importance of sincerity in seeking knowledge",
+        "Competing with scholars for prestige",
+        "Arguing with the foolish"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَنْ تَعَلَّمَ الْعِلْمَ لِيُبَاهِيَ بِهِ الْعُلَمَاءَ أَوْ لِيُمَارِيَ بِهِ السُّفَهَاءَ لَقِيَ اللَّهَ يَوْمَ الْقِيَامَةِ وَهُوَ خَائِبٌ مِنَ الْحَسَنَاتِ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 39
+    },
+    {
+      "hadith_id": 40,
+      "hadith_number": 40,
+      "english_translation": "The Messenger of Allah ﷺ said: Whoever learns knowledge for greatness and elevation, Allah the Exalted will stop him at the station of humiliation and insignificance on the Day of Resurrection, and Allah will make it a regret and remorse for him when knowledge is an adornment for its people.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": ["Unknown narrator", "Disconnected chain"]
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd uses 'بَلَغَنِي أَنَّ رَسُولَ اللَّهِ' (it reached me that the Messenger of Allah) with no companion mentioned",
+            "This is a mursal hadith from a tabi'i",
+            "Unknown intermediary narrator(s) between Jabir and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> [Unknown] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal hadith: Jabir ibn Zayd uses 'بَلَغَنِي' to report from the Prophet ﷺ without naming a companion",
+          "impact": "The companion(s) in the chain are unknown, making it impossible to verify the transmission path. This severely weakens the chain."
+        },
+        {
+          "issue": "This specific wording about knowledge becoming regret for those who sought it for prestige is not found in major collections",
+          "impact": "While the general theme aligns with authentic teachings about sincerity, the specific formulation lacks corroboration."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Warning against seeking knowledge for worldly status",
+        "Punishment for insincere pursuit of knowledge",
+        "Knowledge as adornment versus source of regret",
+        "Day of Judgment consequences for misusing knowledge"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : بَلَغَنِي أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَنْ تَعَلَّمَ الْعِلْمَ لِلْعَظَمَةِ وَالرِّفْعَةِ ، أَوْقَفَهُ اللَّهُ تَعَالَى مَوْقِفَ الذُّلِّ وَالصَّغَارِ يَوْمَ الْقِيَامَةِ ، وَجَعَلَهُ اللَّهُ عَلَيْهِ حَسْرَةً وَنَدَامَةً حِينَ يَكُونُ الْعِلْمُ لأَهْلِهِ زَيْنًا \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 40
+    },
+    {
+      "hadith_id": 41,
+      "hadith_number": 41,
+      "english_translation": "The Messenger of Allah ﷺ said: Whoever gives a legal ruling on a question or interprets a dream without knowledge is like one who falls from the sky to the earth and encounters a well with no bottom, even if he happens to be correct.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Unknown intermediary",
+              "full_name": "Unknown intermediary narrator(s)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["Unclear attribution", "Potential disconnection"]
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd uses 'قَالَ : قَالَ رَسُولُ اللَّهِ' (he said: The Messenger of Allah said) without clear attribution of who 'he' refers to",
+            "No companion is named in the chain",
+            "This appears to be a mursal narration"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> [Unknown] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mursal or unclear attribution: Jabir says 'قَالَ : قَالَ رَسُولُ اللَّهِ' without naming who said the Prophet said this",
+          "impact": "The companion or intermediary is not identified, creating a gap in the chain. This is considered a mursal narration at minimum."
+        },
+        {
+          "issue": "The specific imagery (falling from sky into bottomless well) and the combination of fatwa and dream interpretation is unique to this narration",
+          "impact": "While authentic hadiths warn against speaking about Allah without knowledge, this specific formulation is not found in major collections."
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Warning against issuing religious rulings without knowledge",
+        "Danger of interpreting dreams without proper understanding",
+        "Severe consequences of speaking about religion without authority",
+        "Metaphor of falling into an endless abyss"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ أَفْتَى مَسْأَلَةً أَوْ فَسَّرَ رُؤْيَا بِغَيْرِ عِلْمٍ كَانَ كَمَنْ وَقَعَ مِنَ السَّمَاءِ إِلَى الأَرْضِ فَصَادَفَ بِئْرًا لا قَعْرَ لَهُ وَلَوْ أَنَّهُ أَصَابَ الْحَقَّ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 41
+    },
+    {
+      "hadith_id": 42,
+      "hadith_number": 42,
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: I heard the Messenger of Allah ﷺ saying: There will emerge among you a people - you will consider your prayer insignificant compared to their prayer, your fasting insignificant compared to their fasting, and your deeds insignificant compared to their deeds. They recite the Quran but it does not go beyond their throats. They pass through the religion as an arrow passes through game. You look at the arrowhead and see nothing, then you look at the shaft and see nothing, then you look at the feathers and see nothing, and you are in doubt about the notch. Al-Rabi' said: The nasl is the iron arrowhead, and the qidh is the arrow shaft that contains the iron, and the rish of the arrow is where the string is placed. It is also narrated: And you look at the qadidah and see nothing - and the qadidah is the tip of the arrow.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Sa'id al-Khudri",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd narrates from Abu Sa'id al-Khudri using 'عَنْ'",
+            "It is documented that Jabir met several companions, though his hearing from Abu Sa'id specifically needs verification"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' ('an) between Jabir ibn Zayd and Abu Sa'id al-Khudri",
+          "impact": "While Jabir ibn Zayd met many companions, there is scholarly discussion about whether he heard directly from Abu Sa'id al-Khudri. Some sources confirm their meeting, while others question it. Abu Sa'id died around 74 AH and Jabir died around 93 AH, making direct hearing chronologically possible. However, the use of 'an creates some ambiguity."
+        },
+        {
+          "issue": "This hadith about the Khawarij is authentic and found in Sahih al-Bukhari (3610, 5058, 6933) and Sahih Muslim (1064-1066) through multiple companions including Abu Sa'id al-Khudri, Abu Dharr, and Ali ibn Abi Talib",
+          "impact": "The content is strongly corroborated by authentic chains in major collections. However, this specific transmission path through Jabir ibn Zayd from Abu Sa'id needs the verification of their direct meeting to be fully accepted."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophecy about emergence of the Khawarij",
+        "Characteristics of extremist groups",
+        "Outward piety masking deviation",
+        "Metaphor of arrow passing through game",
+        "Warning about superficial religiosity"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" يَخْرُجُ فِيكُمْ قَوْمٌ تَحْقِرُونَ صَلاتَكُمْ مَعَ صَلاتِهِمْ ، وَصِيَامَكُمْ مَعَ صِيَامِهِمْ ، وَأَعْمَالَكُمْ مَعَ أَعْمَالِهِمْ ، يَقْرَءُونَ الْقُرْآنَ وَلا يُجَاوِزُ حَنَاجِرَهُمْ ، يَمْرُقُونَ مِنَ الدِّينِ كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ ، تَنْظُرُ فِي النَّصْلِ فَلا تَرَى شَيْئًا ، ثُمَّ تَنْظُرُ فِي الْقِدْحِ فَلا تَرَى شَيْئًا ، ثُمَّ تَنْظُرُ فِي الرِّيشِ فَلا تَرَى شَيْئًا ، وَتَتَمَارَى فِي الْفُوقِ \" . قَالَ الرَّبِيعُ : النَّصْلُ : حَدِيدَةُ السَّهْمِ ، وَالْقِدْحُ : السَّهْمُ الَّذِي فِيهِ الْحَدِيدَةُ ، وَرِيشُ السَّهْمِ : الَّذِي يُوضَعُ فِيهِ الْوَتَرُ وَيُرْوَى أَيْضًا : \" وَتَنْظُرُ إِلَى الْقَدِيدَةِ فَلا تَرَى شَيْئًا \" وَالْقَدِيدَةُ : رَأْسُ السَّهْمِ",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 42
+    },
+    {
+      "hadith_id": 43,
+      "hadith_number": 43,
+      "english_translation": "Narrated by Abdullah ibn Umar: Two men came from the East and gave speeches. The people were amazed by their eloquence. The Messenger of Allah ﷺ said: Indeed, some eloquence is magic. Al-Rabi' said: By eloquence he means speaking to people in such a way that captivates their hearts and hearing.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah ibn Umar",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab ibn Nufayl al-Adawi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd narrates from Abdullah ibn Umar using 'عَنْ'",
+            "Direct hearing between Jabir and Ibn Umar needs verification"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> Abdullah ibn Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' ('an) between Jabir ibn Zayd and Abdullah ibn Umar",
+          "impact": "Abdullah ibn Umar died in 73 AH while Jabir ibn Zayd died in 93 AH, making direct hearing chronologically possible. However, there is limited documentation of direct transmission between them. The use of 'an creates some ambiguity about whether Jabir heard this directly from Ibn Umar."
+        },
+        {
+          "issue": "This hadith is authentic and found in Sahih al-Bukhari (5146) and other collections, narrated through various companions including Abdullah ibn Umar and Abu Hurayrah",
+          "impact": "The content is strongly corroborated. The authentic versions in major collections support the meaning. However, this specific transmission path needs verification of the direct hearing between Jabir and Ibn Umar."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of two eloquent speakers from the East",
+        "Nature of eloquent speech",
+        "Power of rhetoric to influence hearts",
+        "Comparison of eloquence to magic in its effect"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ، قَالَ : قَدِمَ رَجُلانِ مِنَ الْمَشْرِقِ فَخَطَبَا ، فَأَعْجَبَ النَّاسَ بَيَانُهُمَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ مِنَ الْبَيَانِ لَسِحْرًا \" . قَالَ الرَّبِيعُ : إِنَّمَا يَعْنِي بِالْبَيَانِ : الْمَنْطِقَ بِالنَّاسِ حَتَّى يَأْخُذَ قُلُوبَهُمْ وَأَسْمَاعَهُمْ",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 43
+    },
+    {
+      "hadith_id": 45,
+      "hadith_number": 45,
+      "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: The best of my nation are a people who will come after me, believing in me and acting upon my command without having seen me. For those are the highest ranks, except for those who delve deeply into tribulation.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Abu Ubaydah",
+              "full_name": "Abu Ubaydah Muslim ibn Abi Karima al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "Compiler/Narrator",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Jabir ibn Zayd",
+              "full_name": "Jabir ibn Zayd ibn al-Harith al-Azdi Abu al-Sha'tha al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Zayd narrates from Ibn Abbas using 'عَنْ'",
+            "Well-documented direct student-teacher relationship"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of 'عَنْ' ('an) between Jabir ibn Zayd and Ibn Abbas",
+          "impact": "Jabir ibn Zayd was a well-known direct student of Ibn Abbas. This is extensively documented in biographical sources. Therefore, despite the use of 'an, the transmission is considered reliable."
+        },
+        {
+          "issue": "The ending phrase 'except for those who delve deeply into tribulation' (إِلا مَنْ تَعَمَّقَ فِي الْفِتْنَةِ) is unique to this version",
+          "impact": "Similar hadiths praising those who believe without seeing the Prophet exist in authentic collections (e.g., Musnad Ahmad, al-Mu'jam al-Kabir), but this specific ending is not found in major collections. The addition may reflect concerns about later sectarian conflicts (fitnah) during the Ibadi movement's development."
+        },
+        {
+          "issue": "The conditional exception at the end changes the meaning significantly",
+          "impact": "While the main content about believers who come after the Prophet receiving high ranks is supported by other hadiths, the exception clause appears to be either a narrator's addition or reflects a specific version unique to this transmission."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Virtue of later generations who believe without seeing the Prophet ﷺ",
+        "Faith of those who believe in the unseen",
+        "Warning against involvement in tribulations and sectarian conflicts",
+        "Ranks and degrees in Paradise"
+      ],
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" خَيْرُ أُمَّتِي قَوْمٌ يَأْتُونَ مِنْ بَعْدِي ، يُؤْمِنُونَ بِي وَيَعْمَلُونَ بِأَمْرِي وَلَمْ يَرَوْنِي ، فَأُولَئِكَ لَهُمُ الدَّرَجَاتُ الْعُلَى ، إِلا مَنْ تَعَمَّقَ فِي الْفِتْنَةِ \"",
+      "collection": "Unknown Ibadi Collection",
+      "reference_number": 45
+    }
+  ]
+}
