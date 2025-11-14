@@ -1,0 +1,162 @@
+{
+  "batch_number": 6,
+  "file_number": 37,
+  "total_hadiths": 2,
+  "skipped_count": 13,
+  "hadiths": [
+    {
+      "hadith_id": 45561,
+      "book_id": 59,
+      "hadith_number": 1719,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Whoever has three children die who have not reached puberty, the Fire will not touch him except for the fulfillment of the oath,' meaning: the passing over it.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن شهاب الزهري",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - Category 3 according to Ibn Hajar, but extremely reliable scholar"]
+            },
+            {
+              "name": "ابن المسيب",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Al-Zuhri is known for tadlis and uses 'an (عَنْ), though he is extremely reliable overall",
+            "Ibn al-Musayyib also uses 'an but is highly reliable and direct hearing is well-established",
+            "Report from Abu Hurayrah uses 'anna' (أَنَّ) indicating potential indirect transmission from companion level"
+          ]
+        }
+      ],
+      "plainChains": [
+        "معمر -> الزهري -> ابن المسيب -> أبو هريرة -> النبي ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri (الزهري) is classified as a mudallis (Category 3 per Ibn Hajar) and uses the ambiguous term 'an (عَنْ) in this chain",
+          "impact": "Al-Zuhri's tadlis is noted by scholars, however he is considered extremely reliable (Thiqah Thabt Hafiz) and one of the most authoritative scholars. The majority of scholars accept his narrations even with 'an due to his exceptional reliability and vast knowledge. His tadlis does not significantly impact the authenticity in this case."
+        },
+        {
+          "issue": "Ibn al-Musayyib uses 'an (عَنْ) when reporting from Abu Hurayrah",
+          "impact": "Sa'id ibn al-Musayyib is not known for tadlis and is extremely reliable. His hearing from Abu Hurayrah is well-documented and direct. The use of 'an here is not problematic."
+        },
+        {
+          "issue": "The narration uses 'anna' (أَنَّ) before mentioning the Prophet ﷺ",
+          "impact": "Minor grammatical form that could indicate indirect transmission, but does not affect the chain as Abu Hurayrah is the companion narrator reporting directly from the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Reward for parents who lose children",
+        "Passing over the Fire on the Day of Judgment",
+        "Virtue of patience over child loss",
+        "Interpretation of Quranic verse about entering/passing over Hellfire"
+      ],
+      "arabicText": "أرنا /94 مَعْمَرٌ L7633 /94 , عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنِ /26 ابْنِ الْمُسَيِّبِ L3299 /26 , /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 , أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" مَنْ مَاتَ لَهُ ثَلاثَةٌ مِنَ الْوَلَدِ لَمْ يَبْلُغُوا الْجُنُبَ ، لَمْ تَمَسَّهُ النَّارُ إِلا تَحِلَّةَ الْقَسَمِ \" /27 يَعْنِي : الْوُرُودَ *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1719,
+      "grade": null
+    },
+    {
+      "hadith_id": 45568,
+      "book_id": 59,
+      "hadith_number": 1726,
+      "english_translation": "Abu Salamah ibn Abd al-Rahman ibn Awf said: The Messenger of Allah ﷺ sat one day and took a dry stick, then shook off a leaf from it, then said: 'Indeed, saying: There is no god but Allah, and Allah is the Greatest, and Glory be to Allah, and Praise be to Allah, causes sins to fall away just as the leaves of this tree fell away. Take them O Abu al-Darda before you are prevented from them, for they are among the everlasting good deeds and among the treasures of Paradise.' Abu Salamah said: Abu al-Darda, whenever he mentioned this hadith, would say: I will certainly declare Allah's oneness, I will certainly magnify Allah, I will certainly praise Allah, and I will certainly glorify Allah, until the ignorant person who sees me thinks that I am insane.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "عمر بن راشد",
+              "full_name": "عمر بن راشد اليمامي",
+              "grade": "Da'if",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": ["Weak narrator, criticized by scholars"]
+            },
+            {
+              "name": "يحيى بن أبي كثير",
+              "full_name": "يحيى بن أبي كثير الطائي اليمامي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - requires explicit hearing terms"]
+            },
+            {
+              "name": "أبو سلمة بن عبد الرحمن",
+              "full_name": "عبد الله بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain is mursal - Abu Salamah (a Tabi'i) did not meet the Prophet ﷺ directly",
+            "Umar ibn Rashid is a weak narrator (Da'if)",
+            "Yahya ibn Abi Kathir is a mudallis and uses 'an (عَنْ)",
+            "The hadith is disconnected between Abu Salamah and the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عمر بن راشد -> يحيى بن أبي كثير -> أبو سلمة بن عبد الرحمن -> [DISCONNECTION] -> النبي ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Umar ibn Rashid al-Yamami is a weak narrator (Da'if) criticized by hadith scholars",
+          "impact": "The presence of a weak narrator in the chain affects reliability. However, this does not make it 'Problematic' as he is not accused of lying (Kadhdhab)."
+        },
+        {
+          "issue": "Yahya ibn Abi Kathir is a known mudallis and uses the ambiguous term 'an (عَنْ)",
+          "impact": "Yahya's tadlis combined with 'an requires caution. Explicit hearing terms would be preferred."
+        },
+        {
+          "issue": "Mursal narration - Abu Salamah ibn Abd al-Rahman is a Tabi'i (First Generation after Companions) and did not meet the Prophet ﷺ directly. There is a missing link in the chain.",
+          "impact": "This is a mursal hadith with a disconnected chain. According to the grading criteria, disconnections lead to 'Weak But Might Be Acceptable' grade, not 'Problematic' (which is reserved for liars only)."
+        },
+        {
+          "issue": "Mention of Abu al-Darda in the hadith text is problematic as he would need to be in the chain if he was the intended recipient",
+          "impact": "Creates confusion about who actually received this teaching directly from the Prophet ﷺ. The narration structure suggests Abu Salamah is reporting what happened with Abu al-Darda, but Abu Salamah himself did not witness the Prophet ﷺ."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Virtue of remembrance of Allah (Dhikr)",
+        "Explanation of the everlasting good deeds mentioned in Quran",
+        "Specific words of Tahlil, Takbir, Tahmid, and Tasbih",
+        "Incident of the Prophet ﷺ teaching about falling leaves as metaphor for sins",
+        "Description of Abu al-Darda's practice of constant remembrance"
+      ],
+      "arabicText": "أرنا /94 عُمَرُ بْنُ رَاشِدٍ L5945 /94 , عَنْ /26 يَحْيَى بْنِ أَبِي كَثِيرٍ L8208 /26 , /27 عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ L4903 /26 ، قَالَ : جَلَسَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ذَاتَ يَوْمٍ ، فَأَخَذَ عُودًا يَابِسًا ، فَحَطَّ وَرَقَةً , ثُمَّ قَالَ : \" إِنَّ /20 قَوْلَ : لا إِلَهَ إِلا اللَّهُ , وَاللَّهُ أَكْبَرُ , وَسُبْحَانَ اللَّهِ , وَالْحَمْدُ لِلَّهِ , يَحُطُّ الْخَطَايَا كَمَا انْحَطَّ وَرَقُ هَذِهِ الشَّجَرَةِ ، خُذْهُنَّ يَا أَبَا الدَّرْدَاءِ قَبْلَ أَنْ يُحَالَ بَيْنَكَ وَبَيْنَهُنَّ , فَإِنَّهُنَّ مِنَ الْبَاقِيَاتِ الصَّالِحَاتِ , وَمِنْ كُنُوزِ الْجَنَّةِ \" /27 ، قَالَ أَبُو سَلَمَةَ ، فَكَانَ /93 أَبُو الدَّرْدَاءِ L6271 /93 إِذَا ذَكَرَ هَذَا الْحَدِيثَ , قَالَ : لأُهَلِّلَنَّ اللَّهَ , وَلأُكَبِّرَنَّ اللَّهَ , وَلأُحَمِّدَنَّ اللَّهَ , وَلأُسَبِّحَنَّ اللَّهَ ، حَتَّى إِذَا رَآنِي الْجَاهِلُ حَسِبَ أَنِّي مَجْنُونٌ *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1726,
+      "grade": null
+    }
+  ]
+}

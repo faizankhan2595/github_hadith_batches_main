@@ -1,0 +1,896 @@
+{
+  "batch_number": 6,
+  "file_number": 16,
+  "record_count": 14,
+  "hadiths": [
+    {
+      "hadith_id": 45226,
+      "book_id": 59,
+      "reference_number": 1384,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "قَالَ مَعْمَرٌ : وَقَالَ الْحَسَنُ : \" قَطِرَانُ الإِبِلِ \"",
+      "english_translation": "Ma'mar said, and Al-Hassan said: 'The tar (used) for camels.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Al-Hassan's alternative interpretation (actual tar vs copper)",
+          "impact": "Scholarly tafsir offering different interpretation than Qatadah"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of 'qatiran'",
+        "Alternative Interpretation of Hellfire Garments",
+        "Camel Tar"
+      ]
+    },
+    {
+      "hadith_id": 45227,
+      "book_id": 59,
+      "reference_number": 1385,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ حَمَّادٍ , عَنْ إِبْرَاهِيمَ ، فِي قَوْلِهِ تَعَالَى : رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ سورة الحجر آية 2 , قَالَ : \" إِنَّ أَهْلَ النَّارِ ، يَقُولُونَ : كُنَّا أَهْلَ شِرْكٍ وَكُفْرٍ فَمَا شَأْنُ هَؤُلاءِ الْمُوَحِّدِينَ ، مَا أَغْنَى عَنْهُمْ عِبَادَتُهُمْ إِيَّاهُ ؟ \" ، قَالَ : \" فَيَخْرُجُ مِنَ النَّارِ مَنْ كَانَ فِيهَا مِنَ الْمُسْلِمِينَ \" , قَالَ : \" فَعِنْدَ ذَلِكَ يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ \"",
+      "english_translation": "From Ma'mar, from Hammad, from Ibrahim, regarding Allah's saying: 'Perhaps those who disbelieve will wish that they had been Muslims' (Surah al-Hijr verse 2), he said: 'The people of the Fire will say: We were people of shirk and disbelief, so what is the matter with these monotheists - what did their worship benefit them?' He said: 'Then whoever was among the Muslims will exit the Fire.' He said: 'At that point, those who disbelieved will wish they had been Muslims.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Abi Sulayman Muslim al-Ash'ari al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Yazid ibn Qays al-Nakha'i al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Hammad -> Ibrahim al-Nakha'i"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Ibrahim al-Nakha'i's interpretation of the verse",
+          "impact": "This is scholarly tafsir explaining when disbelievers will wish they were Muslims"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 2",
+        "Intercession and Exit from Hellfire",
+        "Regret of Disbelievers",
+        "Muslims Leaving Hellfire"
+      ]
+    },
+    {
+      "hadith_id": 45228,
+      "book_id": 59,
+      "reference_number": 1386,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ حَمَّادٍ , عَنْ إِبْرَاهِيمَ , وَعَنْ خُصَيْفٍ , عَنْ مُجَاهِدٍ , قَالا : يَقُولُ أَهْلُ النَّارِ لِلْمُوَحِّدِينَ : \" مَا أَغْنَى عَنْكُمْ إِيمَانُكُمْ ؟ \" , قَالَ : \" فَإِذَا قَالُوا ، قَالَ اللَّهُ : أَخْرِجُوا مَنْ كَانَ فِي قَلْبِهِ مِثْقَالُ ذَرَّةٍ ، فَعِنْدَ ذَلِكَ \" رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ سورة الحجر آية 2 , قَالَ : \" يَوْمَ الْقِيَامَةِ \"",
+      "english_translation": "From Al-Thawri, from Hammad, from Ibrahim, and from Khusayf, from Mujahid, they both said: The people of the Fire will say to the monotheists: 'What did your faith benefit you?' He said: 'When they say that, Allah will say: Bring out whoever had in his heart the weight of an atom, and at that point' - 'Perhaps those who disbelieve will wish that they had been Muslims' (Surah al-Hijr verse 2), he said: 'On the Day of Resurrection.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hammad / Khusayf",
+              "full_name": "Hammad ibn Abi Sulayman / Khusayf ibn 'Abd al-Rahman",
+              "grade": "Thiqah / Saduq Yukhti'",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Khusayf makes errors"
+              ]
+            },
+            {
+              "name": "Ibrahim / Mujahid",
+              "full_name": "Ibrahim al-Nakha'i / Mujahid ibn Jabr",
+              "grade": "Thiqah",
+              "generation": "Third / Second Generation",
+              "transmissionTerm": "قَالا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Khusayf is Saduq Yukhti' (truthful but makes errors)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> Hammad -> Ibrahim",
+        "Al-Thawri -> Khusayf -> Mujahid"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Khusayf ibn 'Abd al-Rahman is graded as Saduq Yukhti' (truthful but makes errors)",
+          "impact": "His narrations are acceptable but not of the highest grade due to occasional mistakes"
+        },
+        {
+          "issue": "Maqtu' - interpretations of Ibrahim al-Nakha'i and Mujahid",
+          "impact": "Scholarly tafsir from two different tabi'un with similar understanding"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 2",
+        "Believers Exiting Hellfire",
+        "Faith the Size of a Mustard Seed",
+        "Divine Mercy",
+        "Regret of Disbelievers on Judgment Day"
+      ]
+    },
+    {
+      "hadith_id": 45229,
+      "book_id": 59,
+      "reference_number": 1387,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , وَثَابِتٍ ، فِي قَوْلِهِ تَعَالَى : إِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَإِنَّا لَهُ لَحَافِظُونَ سورة الحجر آية 9 , قَالَ : \" حَفِظَهُ اللَّهُ مِنْ أَنْ يَزِيدَ فِيهِ الشَّيْطَانُ بَاطِلا , أَوْ يُبْطِلَ مِنْهُ حَقًّا \"",
+      "english_translation": "From Ma'mar, from Qatadah and Thabit, regarding Allah's saying: 'Indeed, it is We who sent down the Reminder (Quran), and indeed, We will be its guardian' (Surah al-Hijr verse 9), he said: 'Allah protected it so that Satan cannot add falsehood to it nor invalidate any truth from it.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah / Thabit",
+              "full_name": "Qatadah ibn Di'amah / Thabit ibn Aslam al-Bunani",
+              "grade": "Thiqah Thabt / Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Qatadah is mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah",
+        "Ma'mar -> Thabit al-Bunani"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "However, this is his tafsir interpretation; very reliable"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition, but represents understanding of two reliable tabi'un"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 9",
+        "Divine Preservation of the Quran",
+        "Protection from Satanic Corruption"
+      ]
+    },
+    {
+      "hadith_id": 45230,
+      "book_id": 59,
+      "reference_number": 1388,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : كَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ { 12 } لا يُؤْمِنُونَ بِهِ سورة الحجر آية 12-13 , قَالَ : \" إِذَا كَذَّبُوا سَلَكَ اللَّهُ فِي قُلُوبِهِمْ أنْ لا يُؤْمِنُوا بِهِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Thus do We insert it into the hearts of the criminals. They will not believe in it' (Surah al-Hijr verses 12-13), he said: 'When they denied, Allah placed in their hearts that they would not believe in it.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his tafsir interpretation"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verses 12-13",
+        "Divine Sealing of Hearts",
+        "Consequence of Denial"
+      ]
+    },
+    {
+      "hadith_id": 45231,
+      "book_id": 59,
+      "reference_number": 1389,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ حُمَيْدٍ , عَنِ الْحَسَنِ , فِي قَوْلِهِ تَعَالَى : كَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ سورة الحجر آية 12 , قَالَ : \" الشِّرْكُ \"",
+      "english_translation": "From Al-Thawri, from Humayd, from Al-Hassan, regarding Allah's saying: 'Thus do We insert it into the hearts of the criminals' (Surah al-Hijr verse 12), he said: 'Shirk (polytheism).'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd",
+              "full_name": "Humayd ibn Abi Humaid al-Tawil al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> Humayd -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Al-Hassan's interpretation identifying what is inserted",
+          "impact": "Scholarly tafsir offering different interpretation than Qatadah (who explained the process)"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 12",
+        "Shirk Placed in Hearts of Criminals"
+      ]
+    },
+    {
+      "hadith_id": 45232,
+      "book_id": 59,
+      "reference_number": 1390,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , عَنِ ابْنِ عَبَّاسٍ ، فِي قَوْلِهِ تَعَالَى : وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَاءِ فَظَلُّوا فِيهِ يَعْرُجُونَ سورة الحجر آية 14 , قَالَ : \" لَوْ فَتَحَ اللَّهُ عَلَيْهِمْ مِنَ السَّمَاءِ بَابًا ، فَظَلَّتِ الْمَلائِكَةُ تَعْرُجُ فِيهِ \" , يَقُولُ : \" يَخْتَلِفُونَ فِيهِ ذَاهِبِينَ , وَجَائِينَ ، فَقَالُوا : \" سُحِرَتْ \"",
+      "english_translation": "From Ma'mar, from Qatadah, from Ibn Abbas, regarding Allah's saying: 'And if We opened to them a gate from the heaven and they continued therein to ascend' (Surah al-Hijr verse 14), he said: 'If Allah opened for them a gate from the heaven, and the angels kept ascending through it,' meaning: 'They would go back and forth through it, coming and going, they would say: We have been bewitched.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "'Abdullah ibn al-'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Qatadah narrates from Ibn Abbas using 'an; potential disconnection"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an from Ibn Abbas, and Qatadah is a mudallis",
+          "impact": "There is scholarly discussion about whether Qatadah met Ibn Abbas directly. His narrations from Ibn Abbas are generally accepted but not the strongest."
+        },
+        {
+          "issue": "Mawquf - statement stops at companion Ibn Abbas",
+          "impact": "This is Ibn Abbas's tafsir interpretation, not from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 14",
+        "Stubbornness of Disbelievers",
+        "Angels Ascending Through Heaven's Gate",
+        "Disbelievers' Claim of Sorcery"
+      ]
+    },
+    {
+      "hadith_id": 45233,
+      "book_id": 59,
+      "reference_number": 1391,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَلَقَدْ جَعَلْنَا فِي السَّمَاءِ بُرُوجًا سورة الحجر آية 16 , قَالَ : \" الْكَوَاكِبُ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And We have placed in the sky constellations' (Surah al-Hijr verse 16), he said: 'The stars.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining word meaning"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 16",
+        "Constellations in the Sky",
+        "Celestial Signs"
+      ]
+    },
+    {
+      "hadith_id": 45234,
+      "book_id": 59,
+      "reference_number": 1392,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : مِنْ كُلِّ شَيْءٍ مَوْزُونٍ سورة الحجر آية 19 , قَالَ : \" مَعْلُومٌ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Of everything in due proportion' (Surah al-Hijr verse 19), he said: 'Known (measured).'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining word meaning"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 19",
+        "Divine Measurement and Proportion",
+        "Everything Created in Due Measure"
+      ]
+    },
+    {
+      "hadith_id": 45235,
+      "book_id": 59,
+      "reference_number": 1393,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : الرِّيَاحَ لَوَاقِحَ سورة الحجر آية 22 , قَالَ : \" تُلَقِّحُ الْمَاءِ فِي السَّحَابِ \" ، مَعْمَرٌ ، وَقَالَهُ الْكَلْبِيُّ أَيْضًا",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'The fertilizing winds' (Surah al-Hijr verse 22), he said: 'They fertilize the water in the clouds.' Ma'mar, and Al-Kalbi also said it.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah / Al-Kalbi",
+              "full_name": "Qatadah ibn Di'amah / Muhammad ibn al-Sa'ib al-Kalbi",
+              "grade": "Thiqah Thabt / Matruk",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Qatadah is mudallis",
+                "Al-Kalbi is rejected"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Al-Kalbi is mentioned as supporting this view, but he is Matruk (rejected)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah",
+        "Ma'mar -> Al-Kalbi"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "However, this is his tafsir interpretation"
+        },
+        {
+          "issue": "Al-Kalbi is also mentioned as holding this view, but he is Matruk (rejected)",
+          "impact": "The view is strengthened by Qatadah's support, not Al-Kalbi's"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Hijr verse 22",
+        "Fertilizing Winds",
+        "Cloud Formation and Rain"
+      ]
+    },
+    {
+      "hadith_id": 45236,
+      "book_id": 59,
+      "reference_number": 1394,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , عَنْ حَيَّانَ بْنِ عُمَيْرٍ , عَنِ ابْنِ عَبَّاسٍ , قَالَ : \" مَا رَاحَتْ جَنُوبٌ قَطُّ ، إِلا سَالَ فِي وَادٍ مَاءٌ رَأَيْتُمُوهُ , أَوْ لَمْ تَرَوْهُ \"",
+      "english_translation": "From Ma'mar, from Qatadah, from Hayyan ibn 'Umayr, from Ibn Abbas, he said: 'The south wind has never blown except that water flowed in a valley, whether you saw it or did not see it.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "Hayyan ibn 'Umayr",
+              "full_name": "Hayyan ibn 'Umayr al-'Adawi",
+              "grade": "La Ba'sa Bihi",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "'Abdullah ibn al-'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Qatadah uses 'an and is a mudallis",
+            "Hayyan ibn 'Umayr is La Ba'sa Bihi (acceptable but not of highest grade)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> Hayyan ibn 'Umayr -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "Potential weakness in connection"
+        },
+        {
+          "issue": "Hayyan ibn 'Umayr is graded as La Ba'sa Bihi (acceptable, no harm in him)",
+          "impact": "Not of the highest reliability but acceptable"
+        },
+        {
+          "issue": "Mawquf - statement of Ibn Abbas",
+          "impact": "This is Ibn Abbas's statement about natural phenomena, not from Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "South Wind and Rain",
+        "Natural Phenomena",
+        "Ibn Abbas's Knowledge of Weather"
+      ]
+    },
+    {
+      "hadith_id": 45237,
+      "book_id": 59,
+      "reference_number": 1395,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ عَمْرِو بْنِ دِينَارٍ , عَنِ ابْنِ عَبَّاسٍ , قَالَ : \" الْجَنُوبُ سَيِّدَةُ الرِّيَاحِ , وَاسْمُهَا عِنْدَ اللَّهِ الأَزِيبُ , وَمِنْ دُونِهَا سَبْعَةٌ أُنْزِلَتْ , وَإِنَّمَا يَأْتِيكُمْ مِنْ خَلْفِهَا ، لَوْ فُتِحَ مِنْهَا بَابٌ وَاحِدٌ لأَذْرَتْ مَا بَيْنَ السَّمَاءِ , وَالأَرْضِ , وَهِيَ رِيحُ الْجَنَّةِ \"",
+      "english_translation": "From Ma'mar, from 'Amr ibn Dinar, from Ibn Abbas, he said: 'The south wind is the master of winds, and its name with Allah is al-Azib (the strong one). Below it, seven (levels) were sent down, and what reaches you is only from behind it. If one gate of it were opened, it would scatter everything between heaven and earth, and it is the wind of Paradise.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Amr ibn Dinar",
+              "full_name": "'Amr ibn Dinar al-Makki al-Jumahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "'Abdullah ibn al-'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> 'Amr ibn Dinar -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - statement of Ibn Abbas about cosmological matters",
+          "impact": "This is Ibn Abbas's statement about winds, not directly from Prophet ﷺ. Some details may be from his interpretation or Isra'iliyyat knowledge."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Description of the South Wind",
+        "Winds of Paradise",
+        "Divine Names for Natural Phenomena",
+        "Cosmological Knowledge"
+      ]
+    },
+    {
+      "hadith_id": 45238,
+      "book_id": 59,
+      "reference_number": 1396,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ ، عَنْ عَائِشَةَ , قَالَتْ : كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، إِذَا رَأَى مَخِيلَةً تَغَيَّرَ وَجْهُهُ وَدَخَلَ ، وَخَرَجَ , وَأَقْبَلَ ، وَأَدْبَرَ ، فَإِذَا أَمْطَرَتْ سُرِّيَ عَنْهُ ، فَذَكَرْتُ ذَلِكَ لَهُ , فَقَالَ : \" مَا أَمِنْتُ أَنْ تَكُونَ كَمَا قَالَ اللَّهُ : فَلَمَّا رَأَوْهُ عَارِضًا مُسْتَقْبِلَ أَوْدِيَتِهِمْ سورة الأحقاف آية 24 إِلَى قَوْلِهِ رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ سورة الأحقاف آية 24",
+      "english_translation": "From Ma'mar, from Ibn Tawus, from his father, from Aisha, she said: When the Prophet ﷺ saw clouds gathering, his face would change and he would enter, exit, come forward and go back. When it rained, his anxiety would be relieved. I mentioned this to him, and he said: 'I cannot be certain it might not be as Allah said: When they saw it as a cloud approaching their valleys... a wind wherein is a painful punishment' (Surah al-Ahqaf verse 24).",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Tawus",
+              "full_name": "'Abdullah ibn Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Tawus)",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "'A'ishah bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn 'Abdullah ﷺ",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ibn Tawus -> Tawus -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident where Aisha observed the Prophet's ﷺ behavior during storms",
+        "Prophet's ﷺ Fear of Divine Punishment",
+        "Clouds as Potential Warning Signs",
+        "Remembrance of Previous Nations' Destruction",
+        "Prophetic Piety and Caution"
+      ]
+    },
+    {
+      "hadith_id": 45239,
+      "book_id": 59,
+      "reference_number": 1397,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ أَيُّوبَ , عَنِ الْقَاسِمِ , عَنْ عَائِشَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، كَانَ إِذَا رَأَى الْغَيْثَ , قَالَ : \" اللَّهُمَّ صَيِّبًا هَنِيًّا ، أَوْ صَيِّبًا \"",
+      "english_translation": "From Ma'mar, from Ayyub, from Al-Qasim, from Aisha, that the Prophet ﷺ, when he saw rain, would say: 'O Allah, (make it) a beneficial downpour, or a downpour.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ayyub",
+              "full_name": "Ayyub ibn Abi Tamimah Kaysan al-Sakhtiyani al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Qasim",
+              "full_name": "Al-Qasim ibn Muhammad ibn Abi Bakr al-Siddiq",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aisha",
+              "full_name": "'A'ishah bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn 'Abdullah ﷺ",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ayyub -> Al-Qasim -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Supplication When Seeing Rain",
+        "Prophetic Dua for Beneficial Rain",
+        "Seeking Blessings from Rainfall"
+      ]
+    },
+    {
+      "hadith_id": 45240,
+      "book_id": 59,
+      "reference_number": 1398,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ مَنْصُورٍ , عَنْ إِبْرَاهِيمَ , قَالَ : \" كَانَ يُقَالُ إِذَا هَاجَتْ رِيحٌ ، أَوْ ظُلْمَةٌ \" , قَالَ : \" اللَّهُمَّ اجْعَلْهَا رِيَاحًا لَوَاقِحَ ، لا رِيحًا عَقِيمًا \"",
+      "english_translation": "From Ma'mar, from Mansur, from Ibrahim, he said: 'It used to be said when wind stirred up or darkness (came): O Allah, make it fertilizing winds, not a barren wind.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mansur",
+              "full_name": "Mansur ibn al-Mu'tamir al-Sulami al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibrahim",
+              "full_name": "Ibrahim ibn Yazid ibn Qays al-Nakha'i al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibrahim says 'it used to be said' without clear attribution"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Mansur -> Ibrahim al-Nakha'i"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibrahim uses 'kana yuqal' (it used to be said) without identifying who said it",
+          "impact": "This is a saying transmitted by Ibrahim without clear attribution to a specific person"
+        },
+        {
+          "issue": "Maqtu' or possibly mursal - unclear source",
+          "impact": "Cannot determine if this goes back to Prophet ﷺ or is just a saying from early Muslims"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Supplication During Storms",
+        "Seeking Beneficial Winds",
+        "Protection from Destructive Winds",
+        "Early Muslim Practices"
+      ]
+    }
+  ]
+}

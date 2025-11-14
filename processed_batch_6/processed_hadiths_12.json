@@ -1,0 +1,1080 @@
+{
+  "batch_number": 6,
+  "file_number": 12,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45166,
+      "book_id": 59,
+      "narrator_id": 4883,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "إِسْرَائِيلَ",
+              "full_name": "إِسْرَائِيلَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "سِمَاكِ بْنِ حَرْبٍ",
+              "full_name": "سِمَاكِ بْنِ حَرْبٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "عِكْرِمَةَ",
+              "full_name": "عِكْرِمَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "ابْنِ عَبَّاسٍ",
+              "full_name": "ابْنِ عَبَّاسٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" لا إِلَهَ إِلا اللَّهُ \" *",
+              "full_name": ": \" لا إِلَهَ إِلا اللَّهُ \" *",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "إِسْرَائِيلَ -> سِمَاكِ بْنِ حَرْبٍ -> عِكْرِمَةَ -> ابْنِ عَبَّاسٍ -> : \" لا إِلَهَ إِلا اللَّهُ \" *"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ إِسْرَائِيلَ , عَنْ سِمَاكِ بْنِ حَرْبٍ , عَنْ عِكْرِمَةَ , عَنِ ابْنِ عَبَّاسٍ , فِي قَوْلِهِ تَعَالَى : لَهُ دَعْوَةُ الْحَقِّ  , قَالَ : \" لا إِلَهَ إِلا اللَّهُ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1324,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45167,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" كَبَاسِطٍ يَدَيْهِ إِلَى الْمَاءِ ، فَلَيْسَ بِبَالِغٍ فَاهُ مَا دَامَ بَاسِطًا كَفَّيْهِ لا يَقْبِضُهُمَا وَمَا هُوَ بِبَالِغِهِ وَمَا دُعَاءُ الْكَافِرِينَ إِلا فِي ضَلالٍ",
+              "full_name": ": \" كَبَاسِطٍ يَدَيْهِ إِلَى الْمَاءِ ، فَلَيْسَ بِبَالِغٍ فَاهُ مَا دَامَ بَاسِطًا كَفَّيْهِ لا يَقْبِضُهُمَا وَمَا هُوَ بِبَالِغِهِ وَمَا دُعَاءُ الْكَافِرِينَ إِلا فِي ضَلالٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" هَذَا مَثَلٌ ضَرَبَهُ اللَّهُ لِمَنِ اتَّخَذَ مِنْ دُونِ اللَّهِ إِلَهًا ، أَنَّ غَيْرَ اللَّهِ لا يَدْفَعُ",
+              "full_name": ": \" هَذَا مَثَلٌ ضَرَبَهُ اللَّهُ لِمَنِ اتَّخَذَ مِنْ دُونِ اللَّهِ إِلَهًا ، أَنَّ غَيْرَ اللَّهِ لا يَدْفَعُ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "هُ شَيْئًا حَتَّى يَمُوتَ عَلَى ذَلِكَ \" * \u001b",
+              "full_name": "هُ شَيْئًا حَتَّى يَمُوتَ عَلَى ذَلِكَ \" * \u001b",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> : \" كَبَاسِطٍ يَدَيْهِ إِلَى الْمَاءِ ، فَلَيْسَ بِبَالِغٍ فَاهُ مَا دَامَ بَاسِطًا كَفَّيْهِ لا يَقْبِضُهُمَا وَمَا هُوَ بِبَالِغِهِ وَمَا دُعَاءُ الْكَافِرِينَ إِلا فِي ضَلالٍ -> : \" هَذَا مَثَلٌ ضَرَبَهُ اللَّهُ لِمَنِ اتَّخَذَ مِنْ دُونِ اللَّهِ إِلَهًا ، أَنَّ غَيْرَ اللَّهِ لا يَدْفَعُ -> هُ شَيْئًا حَتَّى يَمُوتَ عَلَى ذَلِكَ \" * \u001b"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : إِلا كَبَاسِطِ كَفَّيْهِ إِلَى الْمَاءِ  , قَالَ : \" كَبَاسِطٍ يَدَيْهِ إِلَى الْمَاءِ ، فَلَيْسَ بِبَالِغٍ فَاهُ مَا دَامَ بَاسِطًا كَفَّيْهِ لا يَقْبِضُهُمَا وَمَا هُوَ بِبَالِغِهِ وَمَا دُعَاءُ الْكَافِرِينَ إِلا فِي ضَلالٍ  , قَالَ : \" هَذَا مَثَلٌ ضَرَبَهُ اللَّهُ لِمَنِ اتَّخَذَ مِنْ دُونِ اللَّهِ إِلَهًا ، أَنَّ غَيْرَ اللَّهِ لا يَدْفَعُ عَنْهُ شَيْئًا حَتَّى يَمُوتَ عَلَى ذَلِكَ \" * \u001b",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1325,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45168,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" الْكَبِيرُ",
+              "full_name": ": \" الْكَبِيرُ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> : \" الْكَبِيرُ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : فَسَالَتْ أَوْدِيَةٌ بِقَدَرِهَا  , قَالَ : \" الْكَبِيرُ , وَالصَّغِيرُ بِقَدَرِهِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1326,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45169,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" رَبَا فَوْقَ الْمَاءِ الزَّبَدُ \"",
+              "full_name": ": \" رَبَا فَوْقَ الْمَاءِ الزَّبَدُ \"",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ",
+              "full_name": ": وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" هُوَ الذَّهَبُ إِذَا أُدْخِلَ النَّارَ بَقِيَ صَفْوُهُ",
+              "full_name": ": \" هُوَ الذَّهَبُ إِذَا أُدْخِلَ النَّارَ بَقِيَ صَفْوُهُ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" يَتَعَلَّقُ بِالشَّجَرِ فَلا يَكُونُ شَيْئًا فَهَذَا مَثَلُ الْبَاطِلِ \"",
+              "full_name": ": \" يَتَعَلَّقُ بِالشَّجَرِ فَلا يَكُونُ شَيْئًا فَهَذَا مَثَلُ الْبَاطِلِ \"",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> : \" رَبَا فَوْقَ الْمَاءِ الزَّبَدُ \" -> : وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ -> : \" هُوَ الذَّهَبُ إِذَا أُدْخِلَ النَّارَ بَقِيَ صَفْوُهُ -> : \" يَتَعَلَّقُ بِالشَّجَرِ فَلا يَكُونُ شَيْئًا فَهَذَا مَثَلُ الْبَاطِلِ \""
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : فَاحْتَمَلَ السَّيْلُ زَبَدًا رَابِيًا  , قَالَ : \" رَبَا فَوْقَ الْمَاءِ الزَّبَدُ \" , قَالَ : وَمِمَّا يُوقِدُونَ عَلَيْهِ فِي النَّارِ  , قَالَ : \" هُوَ الذَّهَبُ إِذَا أُدْخِلَ النَّارَ بَقِيَ صَفْوُهُ , وَذَهَبَ مَا كَانَ مِنْ كَدَرٍ , فَهَذَا مَثَلٌ ضَرَبَهُ اللَّهُ لِلْحَقِّ وَالْبَاطِلِ , فَأَمَّا الزَّبَدُ فَيَذْهَبُ جُفَاءً ، قَالَ : \" يَتَعَلَّقُ بِالشَّجَرِ فَلا يَكُونُ شَيْئًا فَهَذَا مَثَلُ الْبَاطِلِ \" , وَأَمَّا مَا يَنْفَعُ النَّاسَ فَيَمْكُثُ فِي الأَرْضِ فَهَذَا يُخْرِجُ النَّبَاتَ , وَهُوَ مَثَلُ الْحَقِّ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1327,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45170,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" الْمَتَاعُ الصُّفْرُ ، وَالْحَدِيدُ \" *",
+              "full_name": ": \" الْمَتَاعُ الصُّفْرُ ، وَالْحَدِيدُ \" *",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> : \" الْمَتَاعُ الصُّفْرُ ، وَالْحَدِيدُ \" *"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : أَوْ مَتَاعٍ زَبَدٌ مِثْلُهُ  , قَالَ : \" الْمَتَاعُ الصُّفْرُ ، وَالْحَدِيدُ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1328,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45171,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "جَعْفَرِ بْنِ سُلَيْمَانَ",
+              "full_name": "جَعْفَرِ بْنِ سُلَيْمَانَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": أَخْبَرَنِي عَمْرُو بْنُ مَالِكٍ",
+              "full_name": ": أَخْبَرَنِي عَمْرُو بْنُ مَالِكٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "أَبَا الْجَوْزَاءِ",
+              "full_name": "أَبَا الْجَوْزَاءِ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" الْمُنَاقَشَةُ فِي الأَعْمَالِ \" *",
+              "full_name": ": \" الْمُنَاقَشَةُ فِي الأَعْمَالِ \" *",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "جَعْفَرِ بْنِ سُلَيْمَانَ -> : أَخْبَرَنِي عَمْرُو بْنُ مَالِكٍ -> أَبَا الْجَوْزَاءِ -> : \" الْمُنَاقَشَةُ فِي الأَعْمَالِ \" *"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ جَعْفَرِ بْنِ سُلَيْمَانَ , فِي قَوْلِهِ تَعَالَى : وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ  , قَالَ : أَخْبَرَنِي عَمْرُو بْنُ مَالِكٍ , قَالَ : سَمِعْتُ أَبَا الْجَوْزَاءِ , يَقُولُ فِي قَوْلِهِ تَعَالَى : وَيَخْشَوْنَ رَبَّهُمْ وَيَخَافُونَ سُوءَ الْحِسَابِ  , قَالَ : \" الْمُنَاقَشَةُ فِي الأَعْمَالِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1329,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45172,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "[Tafsir statement regarding Quranic interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "جَعْفَرٍ",
+              "full_name": "جَعْفَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "أَبِي عِمْرَانَ الْجَوْنِيِّ",
+              "full_name": "أَبِي عِمْرَانَ الْجَوْنِيِّ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "فِي هَذِهِ الآيَةِ : سَلامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ  \" عَلَى دِينِكُمْ \"",
+              "full_name": "فِي هَذِهِ الآيَةِ : سَلامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ  \" عَلَى دِينِكُمْ \"",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "جَعْفَرٍ -> أَبِي عِمْرَانَ الْجَوْنِيِّ -> فِي هَذِهِ الآيَةِ : سَلامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ  \" عَلَى دِينِكُمْ \""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ جَعْفَرٍ , عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ ، قَالَ فِي هَذِهِ الآيَةِ : سَلامٌ عَلَيْكُمْ بِمَا صَبَرْتُمْ  \" عَلَى دِينِكُمْ \" , فَنِعْمَ عُقْبَى الدَّارِ  \" النَّجَاةُ مِنَ النَّارِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1330,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45173,
+      "book_id": 59,
+      "narrator_id": 5079,
+      "english_translation": "[Tafsir statement regarding Quranic interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابْنِ عُيَيْنَةَ",
+              "full_name": "ابْنِ عُيَيْنَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "الأَعْمَشِ",
+              "full_name": "الأَعْمَشِ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "عَبْدِ اللَّهِ بْنِ مُرَّةَ",
+              "full_name": "عَبْدِ اللَّهِ بْنِ مُرَّةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "مَسْرُوقٍ",
+              "full_name": "مَسْرُوقٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "عَبْدِ اللَّهِ بْنِ مَسْعُودٍ",
+              "full_name": "عَبْدِ اللَّهِ بْنِ مَسْعُودٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" جَنَّاتُ عَدْنٍ  : بُطْنَانُ الْجَنَّةِ ، يَعْنِي : بَطْنَهَا \" *",
+              "full_name": ": \" جَنَّاتُ عَدْنٍ  : بُطْنَانُ الْجَنَّةِ ، يَعْنِي : بَطْنَهَا \" *",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابْنِ عُيَيْنَةَ -> الأَعْمَشِ -> عَبْدِ اللَّهِ بْنِ مُرَّةَ -> مَسْرُوقٍ -> عَبْدِ اللَّهِ بْنِ مَسْعُودٍ -> : \" جَنَّاتُ عَدْنٍ  : بُطْنَانُ الْجَنَّةِ ، يَعْنِي : بَطْنَهَا \" *"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنِ ابْنِ عُيَيْنَةَ , عَنِ الأَعْمَشِ ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ , عَنْ مَسْرُوقٍ , عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ , قَالَ : \" جَنَّاتُ عَدْنٍ  : بُطْنَانُ الْجَنَّةِ ، يَعْنِي : بَطْنَهَا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1331,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45174,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" هَذِهِ كَلِمَةٌ عَرَبِيَّةٌ ، يَقُولُ الرَّجُلُ : \" طُوبَى لَكَ إِنْ أَصَبْتَ خَيْرًا \" *",
+              "full_name": ": \" هَذِهِ كَلِمَةٌ عَرَبِيَّةٌ ، يَقُولُ الرَّجُلُ : \" طُوبَى لَكَ إِنْ أَصَبْتَ خَيْرًا \" *",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> : \" هَذِهِ كَلِمَةٌ عَرَبِيَّةٌ ، يَقُولُ الرَّجُلُ : \" طُوبَى لَكَ إِنْ أَصَبْتَ خَيْرًا \" *"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : طُوبَى لَهُمْ  , قَالَ : \" هَذِهِ كَلِمَةٌ عَرَبِيَّةٌ ، يَقُولُ الرَّجُلُ : \" طُوبَى لَكَ إِنْ أَصَبْتَ خَيْرًا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1332,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45175,
+      "book_id": 59,
+      "narrator_id": 4396,
+      "english_translation": "[Tafsir statement regarding Quranic interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "الأَشْعَثِ بْنِ عَبْدِ اللَّهِ",
+              "full_name": "الأَشْعَثِ بْنِ عَبْدِ اللَّهِ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "شَهْرِ بْنِ حَوْشَبٍ",
+              "full_name": "شَهْرِ بْنِ حَوْشَبٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "أَبِي هُرَيْرَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "\" طُوبَى شَجَرَةٌ فِي الْجَنَّةِ",
+              "full_name": "\" طُوبَى شَجَرَةٌ فِي الْجَنَّةِ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "الْخَيْلِ بِسُرُوجِهَ",
+              "full_name": "الْخَيْلِ بِسُرُوجِهَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "الإِبِلِ بِرِحَالِهَا",
+              "full_name": "الإِبِلِ بِرِحَالِهَا",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> الأَشْعَثِ بْنِ عَبْدِ اللَّهِ -> شَهْرِ بْنِ حَوْشَبٍ -> أَبِي هُرَيْرَةَ -> \" طُوبَى شَجَرَةٌ فِي الْجَنَّةِ -> الْخَيْلِ بِسُرُوجِهَ -> الإِبِلِ بِرِحَالِهَا"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ الأَشْعَثِ بْنِ عَبْدِ اللَّهِ , عَنْ شَهْرِ بْنِ حَوْشَبٍ , عَنْ أَبِي هُرَيْرَةَ , قَالَ : \" طُوبَى شَجَرَةٌ فِي الْجَنَّةِ , يَقُولُ اللَّهُ لَهَا تَفَتَّقِي لِعَبَادِي عَمَّا شَاءُوا ، فَتَتَفَتَّقُ لَهُ عَنِ الْخَيْلِ بِسُرُوجِهَ , وَلُجْمِهَا , وَعَنِ الإِبِلِ بِرِحَالِهَا , وَأَزِمَّتِهَا ، وَعَمَّا شَاءُوا مِنَ الْكِسْوَةِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1333,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45176,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "[Tafsir statement regarding Quranic interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "الْحَكَمِ بْنِ أَبَانَ ، أَنَّهُ سَمِعَ عِكْرِمَةَ",
+              "full_name": "الْحَكَمِ بْنِ أَبَانَ ، أَنَّهُ سَمِعَ عِكْرِمَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> الْحَكَمِ بْنِ أَبَانَ ، أَنَّهُ سَمِعَ عِكْرِمَةَ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنِ الْحَكَمِ بْنِ أَبَانَ ، أَنَّهُ سَمِعَ عِكْرِمَةَ , يَقُولُ : \" إِنَّ الرَّجُلَ لَيَلْبَسُ الْحُلَّةَ فَتَكُونُ فِي سَاعَةٍ سَبْعِينَ لَوْنًا , وَإِنَّ الرَّجُلَ مِنْهُمْ لَيَرَى وَجْهَهُ فِي وَجْهِ زَوْجَتِهِ , وَإِنَّهَا لَتَرَى وَجْهَهَا فِي وَجْهِهِ ، وَإِنَّهُ لَيَرَى وَجْهَهُ فِي نَحْرِهَا , وَإِنَّهَا لَتَرَى وَجْهَهَا فِي نَحْرِهِ , وَإِنَّهُ لَيَرَى وَجْهَهُ فِي مِعْصَمِهَا , وَإِنَّهَا لَتَرَى وَجْهَهَا فِي سَاعِدِهِ , وَإِنَّهُ لَيَرَى وَجْهَهُ فِي سَاقِهَا , وَإِنَّهَا لَتَرَى وَجْهَهَا فِي سَاقِهِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1334,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45177,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "[Tafsir statement regarding Quranic interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أَنَسٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "\" يَقُولُ أَهْلُ الْجَنَّةِ : انْطَلِقُوا بِنَا إِلَى السُّوقِ ،",
+              "full_name": "\" يَقُولُ أَهْلُ الْجَنَّةِ : انْطَلِقُوا بِنَا إِلَى السُّوقِ ،",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": فَيَنْطَلِقُونَ إِلَى كُثْبَانٍ مِنْ مِسْكٍ ، فَيَجْلِسُونَ عَلَيْهَا ، وَعَلَيْهِمْ تِلْكَ الرِّيحُ",
+              "full_name": ": فَيَنْطَلِقُونَ إِلَى كُثْبَانٍ مِنْ مِسْكٍ ، فَيَجْلِسُونَ عَلَيْهَا ، وَعَلَيْهِمْ تِلْكَ الرِّيحُ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> أَنَسٍ -> \" يَقُولُ أَهْلُ الْجَنَّةِ : انْطَلِقُوا بِنَا إِلَى السُّوقِ ، -> : فَيَنْطَلِقُونَ إِلَى كُثْبَانٍ مِنْ مِسْكٍ ، فَيَجْلِسُونَ عَلَيْهَا ، وَعَلَيْهِمْ تِلْكَ الرِّيحُ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , عَنْ أَنَسٍ , قَالَ : \" يَقُولُ أَهْلُ الْجَنَّةِ : انْطَلِقُوا بِنَا إِلَى السُّوقِ ، قَالَ : فَيَنْطَلِقُونَ إِلَى كُثْبَانٍ مِنْ مِسْكٍ ، فَيَجْلِسُونَ عَلَيْهَا ، وَعَلَيْهِمْ تِلْكَ الرِّيحُ , ثُمَّ يَرْجِعُونَ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1335,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45178,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "الثَّوْرِيِّ",
+              "full_name": "الثَّوْرِيِّ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "مَنْصُورٍ",
+              "full_name": "مَنْصُورٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "مُجَاهِدٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": \" الْخَيْرُ \" *",
+              "full_name": ": \" الْخَيْرُ \" *",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "الثَّوْرِيِّ -> مَنْصُورٍ -> مُجَاهِدٍ -> : \" الْخَيْرُ \" *"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنِ الثَّوْرِيِّ , عَنْ مَنْصُورٍ , عَنْ مُجَاهِدٍ , فِي قَوْلِهِ تَعَالَى : طُوبَى لَهُمْ وَحُسْنُ مَآبٍ  , قَالَ : \" الْخَيْرُ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1336,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45179,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "[Tafsir statement regarding Quranic interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ أَنَّ كُفَّارَ قُرَيْشٍ قَالُوا لِلنَّبِيِّ عَلَيْهِ السَّلامُ : \" أَذْهِبْ عَنَّا جِبَالَ تِهَامَةَ حَتَّى نَتَّخِذَهَا زَرْعًا",
+              "full_name": "قَتَادَةَ أَنَّ كُفَّارَ قُرَيْشٍ قَالُوا لِلنَّبِيِّ عَلَيْهِ السَّلامُ : \" أَذْهِبْ عَنَّا جِبَالَ تِهَامَةَ حَتَّى نَتَّخِذَهَا زَرْعًا",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "اللَّهُ : وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَى  ، يَقُولُ : \" لَوْ كَانَ فُعِلَ ذَلِكَ بِشَيْءٍ مِنَ الْكِتَابِ فِيمَا مَضَى لَكَانَ ذَلِكَ \" * \u0019",
+              "full_name": "اللَّهُ : وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَى  ، يَقُولُ : \" لَوْ كَانَ فُعِلَ ذَلِكَ بِشَيْءٍ مِنَ الْكِتَابِ فِيمَا مَضَى لَكَانَ ذَلِكَ \" * \u0019",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ أَنَّ كُفَّارَ قُرَيْشٍ قَالُوا لِلنَّبِيِّ عَلَيْهِ السَّلامُ : \" أَذْهِبْ عَنَّا جِبَالَ تِهَامَةَ حَتَّى نَتَّخِذَهَا زَرْعًا -> اللَّهُ : وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَى  ، يَقُولُ : \" لَوْ كَانَ فُعِلَ ذَلِكَ بِشَيْءٍ مِنَ الْكِتَابِ فِيمَا مَضَى لَكَانَ ذَلِكَ \" * \u0019"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ ، أَنَّ كُفَّارَ قُرَيْشٍ قَالُوا لِلنَّبِيِّ عَلَيْهِ السَّلامُ : \" أَذْهِبْ عَنَّا جِبَالَ تِهَامَةَ حَتَّى نَتَّخِذَهَا زَرْعًا , وَتَكُونَ لَنَا أَرَضِينَ ، وَأَحْيِ لَنَا فُلانًا وَفُلانًا حَتَّى يُخْبِرُونَا أَحَقًّا مَا تَقُولُ ؟ \" , فَقَالَ اللَّهُ : وَلَوْ أَنَّ قُرْءَانًا سُيِّرَتْ بِهِ الْجِبَالُ أَوْ قُطِّعَتْ بِهِ الأَرْضُ أَوْ كُلِّمَ بِهِ الْمَوْتَى  ، يَقُولُ : \" لَوْ كَانَ فُعِلَ ذَلِكَ بِشَيْءٍ مِنَ الْكِتَابِ فِيمَا مَضَى لَكَانَ ذَلِكَ \" * \u0019",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1337,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45180,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Regarding the verse",
+      "chains": [
+        {
+          "type": "tafsir",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "مَعْمَرٍ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            },
+            {
+              "name": ": يَعْنِي النَّبِيَّ عَلَيْهِ الصَّلاةُ وَالسَّلامُ : \" يَحُلُّ قَرِيبًا مِنْ دَارِهِمْ \" *",
+              "full_name": ": يَعْنِي النَّبِيَّ عَلَيْهِ الصَّلاةُ وَالسَّلامُ : \" يَحُلُّ قَرِيبًا مِنْ دَارِهِمْ \" *",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not well-documented"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is a tafsir statement explaining a Quranic verse, not a hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> : يَعْنِي النَّبِيَّ عَلَيْهِ الصَّلاةُ وَالسَّلامُ : \" يَحُلُّ قَرِيبًا مِنْ دَارِهِمْ \" *"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a tafsir statement explaining a Quranic verse, not a hadith",
+          "impact": "Treated as scholarly interpretation rather than prophetic narration"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : تُصِيبُهُمْ بِمَا صَنَعُوا قَارِعَةٌ أَوْ تَحُلُّ قَرِيبًا مِنْ دَارِهِمْ  , قَالَ : يَعْنِي النَّبِيَّ عَلَيْهِ الصَّلاةُ وَالسَّلامُ : \" يَحُلُّ قَرِيبًا مِنْ دَارِهِمْ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1338,
+      "grade": "Acceptable"
+    }
+  ]
+}

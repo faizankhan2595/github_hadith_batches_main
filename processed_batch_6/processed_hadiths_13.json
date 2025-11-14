@@ -1,0 +1,888 @@
+{
+  "batch_number": 6,
+  "file_number": 13,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45181,
+      "book_id": 59,
+      "reference_number": 1339,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , وَقَالَ الْحَسَنُ : \" تَحُلُّ الْقَارِعَةُ قَرِيبًا مِنْ دَارِهِمْ \"",
+      "english_translation": "From Ma'mar, and Al-Hassan said: 'The calamity will descend near their dwelling.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' narration - statement of a tabi'i (successor), not from the Prophet ﷺ or a companion",
+          "impact": "This represents Al-Hassan al-Basri's scholarly interpretation of a Quranic concept, not a prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis",
+        "Interpretation of Divine Calamity",
+        "Signs of Punishment"
+      ]
+    },
+    {
+      "hadith_id": 45182,
+      "book_id": 59,
+      "reference_number": 1340,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : حَتَّى يَأْتِيَ وَعْدُ اللَّهِ سورة الرعد آية 31 , قَالَ : \" فَتْحُ مَكَّةَ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Until the promise of Allah comes' (Surah al-Ra'd verse 31), he said: 'The conquest of Makkah.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is classified as a category 3 mudallis by Ibn Hajar and uses 'an (عَنْ) transmission term",
+          "impact": "However, this is his tafsir opinion, and Qatadah is considered very reliable (Thiqah Thabt) despite occasional tadlis. His tafsir statements are generally accepted."
+        },
+        {
+          "issue": "Maqtu' narration - Qatadah's interpretation of the verse",
+          "impact": "This represents scholarly exegesis rather than a prophetic or companion tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 31",
+        "Conquest of Makkah",
+        "Divine Promise Fulfillment"
+      ]
+    },
+    {
+      "hadith_id": 45183,
+      "book_id": 59,
+      "reference_number": 1341,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : أَفَمَنْ هُوَ قَائِمٌ عَلَى كُلِّ نَفْسٍ بِمَا كَسَبَتْ سورة الرعد آية 33 , قَالَ : \" اللَّهُ تَعَالَى قَائِمٌ عَلَى كُلِّ نَفْسٍ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Is then He Who stands over every soul (to watch) what it earns?' (Surah al-Ra'd verse 33), he said: 'Allah Most High is standing over every soul.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a category 3 mudallis and uses 'an",
+          "impact": "Despite tadlis, Qatadah is extremely reliable (Thiqah Thabt), and this is his tafsir interpretation which is generally accepted"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation of Quranic verse",
+          "impact": "Not from Prophet or companion, represents Qatadah's exegetical understanding"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 33",
+        "Divine Watchfulness",
+        "Allah's Knowledge of Human Deeds"
+      ]
+    },
+    {
+      "hadith_id": 45184,
+      "book_id": 59,
+      "reference_number": 1342,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَإِلَيْهِ مَآبِ سورة الرعد آية 36 , قَالَ اللَّهُ \" إِلَيْهِ مَآبُ مَصِيرِ كُلِّ عَبْدٍ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And to Him is the final return' (Surah al-Ra'd verse 36), he said: 'To Him is the return, the destination of every servant.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an transmission and is a known mudallis",
+          "impact": "However, very reliable in tafsir matters; this is his scholarly interpretation"
+        },
+        {
+          "issue": "Maqtu' - Qatadah's exegetical statement",
+          "impact": "Not a prophetic or companion tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 36",
+        "Final Return to Allah",
+        "Afterlife Destination"
+      ]
+    },
+    {
+      "hadith_id": 45185,
+      "book_id": 59,
+      "reference_number": 1343,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : يَمْحُو اللَّهُ مَا يَشَاءُ وَيُثْبِتُ سورة الرعد آية 39 , قَالَ ابْنُ عَبَّاسٍ : \" هُوَ الْقُرْآنُ ، كَانَ اللَّهُ يَمْحُو مَا يَشَاءُ وَيُثْبِتُ ، وَيُنْسِي نَبِيَّهُ صلى الله عليه وسلم مَا شَاءَ , وَيَنْسَخُ مَا شَاءَ ، وَهُوَ الْمُحْكَمُ ، وَعِنْدَهُ أُمُّ الْكِتَابِ \" , قَالَ : \" جُمْلَةُ الْكِتَابِ وَأَصْلُهُ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Allah erases what He wills and confirms' (Surah al-Ra'd verse 39), Ibn Abbas said: 'It is the Quran. Allah used to erase what He willed and confirm, and cause His Prophet ﷺ to forget what He willed, and abrogate what He willed. And it is the firm (part), and with Him is the Mother of the Book.' He said: 'The totality of the Book and its foundation.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "'Abdullah ibn al-'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Potential disconnection between Qatadah and Ibn Abbas using 'an"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah narrates from Ibn Abbas using 'an, and Qatadah is a known mudallis",
+          "impact": "There is scholarly discussion about whether Qatadah met Ibn Abbas directly. Some accept it, others question the connection."
+        },
+        {
+          "issue": "Mawquf - statement stops at the companion Ibn Abbas",
+          "impact": "This is Ibn Abbas's interpretation of the verse, not directly from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 39",
+        "Abrogation in the Quran",
+        "Preservation and Erasure of Revelation",
+        "The Preserved Tablet (Lawh Mahfuz)"
+      ]
+    },
+    {
+      "hadith_id": 45186,
+      "book_id": 59,
+      "reference_number": 1344,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنِ ابْنِ أَبِي لَيْلَى , عَنِ الْمِنْهَالِ , عَنْ سَعِيدِ بْنِ سورة الرعد آية 39 , قَالَ : \" إِلا الشَّقَوَةَ ، وَالسَّعَادَةَ ، وَالْحَيَاةَ ، وَالْمَوْتَ \"",
+      "english_translation": "From Al-Thawri, from Ibn Abi Layla, from Al-Minhal, from Sa'id ibn... (regarding Surah al-Ra'd verse 39), he said: 'Except wretchedness, happiness, life, and death.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abi Layla",
+              "full_name": "Muhammad ibn 'Abd al-Rahman ibn Abi Layla al-Ansari al-Kufi",
+              "grade": "Saduq Sayyi' al-Hifz",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "poor memory"
+              ]
+            },
+            {
+              "name": "Al-Minhal",
+              "full_name": "Al-Minhal ibn 'Amr al-Asadi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'id (incomplete)",
+              "full_name": "Identity unclear from text",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator identity unclear"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Text appears incomplete - narrator's full name not provided",
+            "Ibn Abi Layla is known for poor memory (Sayyi' al-Hifz)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> Ibn Abi Layla -> Al-Minhal -> Sa'id (unidentified)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Abi Layla is graded as Saduq Sayyi' al-Hifz (truthful but with poor memory)",
+          "impact": "His narrations are considered weak due to memory issues, though he is not accused of lying"
+        },
+        {
+          "issue": "The narrator 'Sa'id' is not fully identified in the text",
+          "impact": "Cannot properly assess the full chain without knowing who Sa'id is"
+        },
+        {
+          "issue": "Text appears incomplete or corrupted",
+          "impact": "The narration's reliability is questionable due to textual issues"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 39",
+        "Divine Decree",
+        "Predestination of Happiness and Misery"
+      ]
+    },
+    {
+      "hadith_id": 45187,
+      "book_id": 59,
+      "reference_number": 1345,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مُعْتَمِرٍ , عَنْ أَبِيهِ , عَنْ عِكْرِمَةَ , قَالَ : \" الْكِتَابُ كِتَابَانِ : كِتَابٌ يَمْحُو اللَّهُ مِنْهُ مَا يَشَاءُ وَيُثْبِتُ , وَعِنْدَهُ الأَصْلُ أُمُّ الْكِتَابِ \"",
+      "english_translation": "From Al-Mu'tamir, from his father, from 'Ikrimah, he said: 'The Book is two books: a book from which Allah erases what He wills and confirms, and with Him is the original, the Mother of the Book.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Al-Mu'tamir",
+              "full_name": "Al-Mu'tamir ibn Sulayman ibn Tarkan al-Taymi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Sulayman al-Taymi)",
+              "full_name": "Sulayman ibn Tarkan al-Taymi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah Abu 'Abdullah mawla Ibn 'Abbas al-Berberi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Some controversy among Maliki scholars"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Al-Mu'tamir -> Sulayman al-Taymi -> 'Ikrimah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "'Ikrimah (freed slave of Ibn Abbas) had some controversy; Imam Malik avoided his narrations",
+          "impact": "However, the majority of hadith scholars (including Bukhari) considered him reliable (Thiqah)"
+        },
+        {
+          "issue": "Maqtu' - 'Ikrimah's interpretation of the verse",
+          "impact": "This is scholarly exegesis, not a prophetic or companion tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Divine Decree",
+        "The Preserved Tablet",
+        "The Mother of the Book (Umm al-Kitab)"
+      ]
+    },
+    {
+      "hadith_id": 45188,
+      "book_id": 59,
+      "reference_number": 1346,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مُعْتَمِرٍ , عَنْ أَبِيهِ , قَالَ : سُئِلَ ابْنُ عَبَّاسٍ , عَنْ أُمِّ الْكِتَابِ , فَقَالَ : قَالَ كَعْبٌ : \" خَلَقَ اللَّهُ الْخَلْقَ وَعَلِمَ مَا هُمْ عَامِلُونَ , ثُمَّ قَالَ لِعِلْمِهِ : كُنْ كِتَابًا ، فَكَانَ كِتَابًا \"",
+      "english_translation": "From Al-Mu'tamir, from his father, he said: Ibn Abbas was asked about the Mother of the Book, so he said: Ka'b said: 'Allah created the creation and knew what they would do, then He said to His knowledge: Be a book, and it became a book.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Al-Mu'tamir",
+              "full_name": "Al-Mu'tamir ibn Sulayman ibn Tarkan al-Taymi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Sulayman al-Taymi)",
+              "full_name": "Sulayman ibn Tarkan al-Taymi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "'Abdullah ibn al-'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ka'b al-Ahbar",
+              "full_name": "Ka'b ibn Mati' al-Himyari al-Yamani",
+              "grade": "Tabi'i",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Known for Israelite traditions (Isra'iliyyat)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Attribution goes through Ka'b al-Ahbar who is known for Isra'iliyyat"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Al-Mu'tamir -> Sulayman al-Taymi -> Ibn Abbas -> Ka'b al-Ahbar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The statement originates from Ka'b al-Ahbar, a tabi'i known for transmitting Isra'iliyyat (Israelite traditions)",
+          "impact": "While Ka'b was a learned man, his statements about cosmological matters often came from Jewish sources rather than Islamic revelation"
+        },
+        {
+          "issue": "This is a mawquf report where Ibn Abbas quotes Ka'b, not a prophetic tradition",
+          "impact": "The content represents theological speculation rather than revealed knowledge"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Incident where Ibn Abbas was asked about Umm al-Kitab",
+        "The Preserved Tablet (Lawh Mahfuz)",
+        "Divine Knowledge and Predestination",
+        "Isra'iliyyat (Israelite Traditions)"
+      ]
+    },
+    {
+      "hadith_id": 45189,
+      "book_id": 59,
+      "reference_number": 1347,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ الزُّهْرِيِّ ، وَعَنِ ابْنِ طَاوُسٍ ، عَنْ أَبِيهِ , قَالَ : \" لَقِيَ عِيسَى ابْنُ مَرْيَمَ إِبْلِيسَ , فَقَالَ : أَمَا عَلِمْتَ أَنَّهُ لا يُصِيبُكَ إِلا مَا قُدِّرَ لَكَ ؟ ، قَالَ : نَعَمْ , قَالَ إِبْلِيسُ : فَأَوْفِ بِذِرْوَةِ هَذَا الْجَبَلَ , فَتَرَدَّ مِنْهُ فَانْظُرْ أَتَعِيشُ أَمْ لا ؟ \" ، قَالَ : قَالَ ابْنُ طَاوُسٍ , عَنْ أَبِيهِ , فَقَالَ : \" أَمَا عَلِمْتَ أَنَّ اللَّهَ ، قَالَ : لا يُجَرِّبُنِي عَبْدِي ، فَإِنِّي أَفْعَلُ مَا شِئْتُ ؟ \" ، قَالَ : وَأَمَّا الزُّهْرِيُّ ، فَقَالَ : \" إِنَّ الْعَبْدَ لا يَبْتَلِي رَبَّهُ , وَلَكِنَّ اللَّهَ يَبْتَلِي عَبْدَهُ \" ، قَالَ : \" فَخَصَمَهُ \"",
+      "english_translation": "From Ma'mar, from Al-Zuhri, and from Ibn Tawus, from his father, he said: 'Jesus son of Mary met Iblis, and he (Iblis) said: Do you not know that nothing will befall you except what has been decreed for you? He said: Yes. Iblis said: Then climb to the peak of this mountain and throw yourself down from it and see if you will live or not.' He said: Ibn Tawus said, from his father, so he (Jesus) said: 'Do you not know that Allah said: My servant shall not test Me, for I do what I will?' He said: As for Al-Zuhri, he said: 'Indeed, the servant does not test his Lord, but Allah tests His servant.' He said: 'So he defeated him.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Zuhri / Ibn Tawus",
+              "full_name": "Muhammad ibn Muslim al-Zuhri / 'Abdullah ibn Tawus",
+              "grade": "Thiqah Thabt / Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Al-Zuhri is a mudallis category 2-3"
+              ]
+            },
+            {
+              "name": "Tawus ibn Kaysan",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple transmission paths presented",
+            "Story about Jesus and Iblis without clear attribution to prophetic source"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Zuhri",
+        "Ma'mar -> Ibn Tawus -> Tawus"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a story about Prophet Jesus عليه السلام without a connected chain to an Islamic source",
+          "impact": "The story may be from Isra'iliyyat or scholarly interpretation rather than authentic Islamic tradition"
+        },
+        {
+          "issue": "Al-Zuhri is known for some tadlis and uses 'an",
+          "impact": "However, Al-Zuhri is extremely reliable overall; this appears to be his own interpretation"
+        },
+        {
+          "issue": "Maqtu' - statements of tabi'un scholars about theological matters",
+          "impact": "Represents scholarly understanding rather than revelation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Story of Jesus and Satan's Temptation",
+        "Prohibition of Testing Allah",
+        "Divine Decree and Human Responsibility",
+        "Response to Satanic Whispers"
+      ]
+    },
+    {
+      "hadith_id": 45190,
+      "book_id": 59,
+      "reference_number": 1348,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , عَنِ الْحَسَنِ , قَالَ : \" مَنْ كَذَّبَ بِالْقَدَرِ ، فَقَدْ كَذَّبَ بِالْقُرْآنِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, from Al-Hassan, he said: 'Whoever denies the divine decree has denied the Quran.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a known mudallis, narrating from Al-Hassan",
+          "impact": "However, Qatadah definitely met and learned from Al-Hassan al-Basri, and both are very reliable"
+        },
+        {
+          "issue": "Maqtu' - Al-Hassan's theological statement",
+          "impact": "This is a scholarly position on belief in divine decree, not a prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Belief in Divine Decree (Qadar)",
+        "Denial of Predestination",
+        "Connection Between Quranic Belief and Qadar"
+      ]
+    },
+    {
+      "hadith_id": 45191,
+      "book_id": 59,
+      "reference_number": 1349,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : نَنْقُصُهَا مِنْ أَطْرَافِهَا سورة الرعد آية 41 , قَالَ : كَانَ عِكْرِمَةُ , يَقُولُ : \" هُوَ قَبْضُ النَّاسِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'We reduce it from its outlying borders' (Surah al-Ra'd verse 41), he said: 'Ikrimah used to say: It is the taking away of people.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah Abu 'Abdullah mawla Ibn 'Abbas",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": [
+                "Some controversy"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah reports 'Ikrimah's opinion, connection unclear"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> 'Ikrimah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "Connection to 'Ikrimah's statement is not explicit"
+        },
+        {
+          "issue": "This is 'Ikrimah's tafsir opinion reported by Qatadah",
+          "impact": "Represents scholarly exegesis, not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 41",
+        "Death of Scholars and Righteous People",
+        "Decline of Nations"
+      ]
+    },
+    {
+      "hadith_id": 45192,
+      "book_id": 59,
+      "reference_number": 1350,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "قَالَ مَعْمَرٌ ، وَقَالَ الْحَسَنُ : \" هُوَ ظُهُورُ الْمُسْلِمِينَ عَلَى الْمُشْرِكِينَ \"",
+      "english_translation": "Ma'mar said, and Al-Hassan said: 'It is the dominance of Muslims over the polytheists.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Al-Hassan's alternative interpretation of the same verse",
+          "impact": "This is scholarly tafsir opinion, not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 41",
+        "Muslim Victory Over Polytheists",
+        "Expansion of Islam"
+      ]
+    },
+    {
+      "hadith_id": 45193,
+      "book_id": 59,
+      "reference_number": 1351,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ مَنْصُورٍ , عَنْ مُجَاهِدٍ : نَنْقُصُهَا مِنْ أَطْرَافِهَا سورة الرعد آية 41 , قَالَ : \" الْمَوْتُ مَوْتُ عُلَمَائِهَا ، وَفُقَهَائِهَا \"",
+      "english_translation": "From Al-Thawri, from Mansur, from Mujahid: 'We reduce it from its outlying borders' (Surah al-Ra'd verse 41), he said: 'Death, the death of its scholars and jurists.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mansur",
+              "full_name": "Mansur ibn al-Mu'tamir al-Sulami al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> Mansur -> Mujahid"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Mujahid's tafsir interpretation",
+          "impact": "This is scholarly exegesis from one of the greatest tafsir authorities, student of Ibn Abbas"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 41",
+        "Death of Scholars and Jurists",
+        "Loss of Knowledge"
+      ]
+    },
+    {
+      "hadith_id": 45194,
+      "book_id": 59,
+      "reference_number": 1352,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَمَنْ عِنْدَهُ عِلْمُ الْكِتَابِ سورة الرعد آية 43 , قَالَ : \" كَانَ مِنْهُمْ عَبْدُ اللَّهِ بْنُ سَلامٍ , وَسَلْمَانُ الْفَارِسِيُّ , وَتَمِيمٌ الدَّارِيُّ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And whoever has knowledge of the Scripture' (Surah al-Ra'd verse 43), he said: 'Among them were Abdullah ibn Salam, Salman al-Farisi, and Tamim al-Dari.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "However, this is his own tafsir interpretation identifying specific companions"
+        },
+        {
+          "issue": "Maqtu' - Qatadah's identification of who had knowledge of scripture",
+          "impact": "Scholarly interpretation about companions who converted from other faiths"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 43",
+        "Companions Who Had Knowledge of Previous Scriptures",
+        "Abdullah ibn Salam",
+        "Salman al-Farisi",
+        "Tamim al-Dari"
+      ]
+    },
+    {
+      "hadith_id": 45195,
+      "book_id": 59,
+      "reference_number": 1353,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "قَالَ مَعْمَرٌ : وَقَالَ الْحَسَنُ : \" وَمِنْ عِنْدِ اللَّهِ عِلْمُ الْكِتَابِ \"",
+      "english_translation": "Ma'mar said, and Al-Hassan said: 'And from Allah is the knowledge of the Book.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Al-Hassan's alternative interpretation of the same verse",
+          "impact": "Scholarly tafsir offering different understanding than Qatadah's interpretation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah al-Ra'd verse 43",
+        "Source of Knowledge of Scripture",
+        "Divine Knowledge"
+      ]
+    }
+  ]
+}

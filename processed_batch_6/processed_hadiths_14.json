@@ -1,0 +1,795 @@
+{
+  "batch_number": 6,
+  "file_number": 14,
+  "record_count": 14,
+  "hadiths": [
+    {
+      "hadith_id": 45197,
+      "book_id": 59,
+      "reference_number": 1355,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ سورة إبراهيم آية 5 , قَالَ : \" بِنِعَمِ اللَّهِ \"",
+      "english_translation": "From Qatadah, regarding Allah's saying: 'And remind them of the days of Allah' (Surah Ibrahim verse 5), he said: 'The favors of Allah.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Incomplete chain - starts with Qatadah without mentioning earlier narrator"
+          ]
+        }
+      ],
+      "plainChains": [
+        "[Incomplete] -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "The chain is incomplete - the narrator from whom this is transmitted is not mentioned",
+          "impact": "Cannot fully assess the chain reliability"
+        },
+        {
+          "issue": "Maqtu' - Qatadah's tafsir interpretation",
+          "impact": "Scholarly exegesis, not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 5",
+        "The Days of Allah",
+        "Divine Favors and Blessings"
+      ]
+    },
+    {
+      "hadith_id": 45198,
+      "book_id": 59,
+      "reference_number": 1356,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ عُبَيْدٍ , عَنْ مُجَاهِدٍ ، فِي قَوْلِهِ تَعَالَى : وَذَكِّرْهُمْ بِأَيَّامِ اللَّهِ سورة إبراهيم آية 5 , قَالَ : \" بِنِعَمِ اللَّهِ \"",
+      "english_translation": "From Al-Thawri, from 'Ubayd, from Mujahid, regarding Allah's saying: 'And remind them of the days of Allah' (Surah Ibrahim verse 5), he said: 'The favors of Allah.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Ubayd",
+              "full_name": "'Ubayd ibn Abi 'Ubayd",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> 'Ubayd -> Mujahid"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Mujahid's tafsir interpretation",
+          "impact": "Scholarly exegesis from a great tafsir authority"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 5",
+        "The Days of Allah",
+        "Divine Favors and Blessings"
+      ]
+    },
+    {
+      "hadith_id": 45199,
+      "book_id": 59,
+      "reference_number": 1357,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : فَرَدُّوا أَيْدِيَهُمْ فِي أَفْوَاهِهِمْ سورة إبراهيم آية 9 , قَالَ : \" رَدُّوا عَلَى الرُّسُلِ مَا جَاءَتْ بِهِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'So they returned their hands to their mouths' (Surah Ibrahim verse 9), he said: 'They rejected what the messengers brought.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a known mudallis",
+          "impact": "However, very reliable for tafsir; this is his interpretation"
+        },
+        {
+          "issue": "Maqtu' - Qatadah's exegetical interpretation",
+          "impact": "Scholarly tafsir, not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 9",
+        "Rejection of Messengers",
+        "Disbelievers' Response to Revelation"
+      ]
+    },
+    {
+      "hadith_id": 45200,
+      "book_id": 59,
+      "reference_number": 1358,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ أَبِي إِسْحَاقَ ، عَنْ أَبِي الأَحْوَصِ ، عَنْ عَبْدِ اللَّهِ , قَالَ : فِي قَوْلِهِ تَعَالَى : فَرَدُّوا أَيْدِيَهُمْ فِي أَفْوَاهِهِمْ سورة إبراهيم آية 9 , قَالَ : \" هَكَذَا \" ، وَرَدَّ يَدَهُ فِي فِيهِ , قَالَ : \" غَيْظًا ، وَعَضَّ يَدَهُ \"",
+      "english_translation": "From Al-Thawri, from Abu Ishaq, from Abu al-Ahwas, from Abdullah, he said: Regarding Allah's saying: 'So they returned their hands to their mouths' (Surah Ibrahim verse 9), he said: 'Like this,' and he put his hand in his mouth, he said: 'In rage, and he bit his hand.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ishaq",
+              "full_name": "'Amr ibn 'Abdullah al-Hamdani al-Sabi'i al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ikhtilat in old age"
+              ]
+            },
+            {
+              "name": "Abu al-Ahwas",
+              "full_name": "'Awf ibn Malik ibn Nadlah al-Jushami",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abdullah (ibn Mas'ud)",
+              "full_name": "'Abdullah ibn Mas'ud al-Hudhali",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Abu Ishaq experienced ikhtilat in old age"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> Abu Ishaq -> Abu al-Ahwas -> Abdullah ibn Mas'ud"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Sabi'i experienced memory confusion (ikhtilat) in his old age",
+          "impact": "Al-Thawri narrated from Abu Ishaq early, before his ikhtilat, so this is generally considered reliable"
+        },
+        {
+          "issue": "Mawquf - stops at the companion Abdullah ibn Mas'ud",
+          "impact": "This is Ibn Mas'ud's interpretation with a physical demonstration, not from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 9",
+        "Incident where Abdullah ibn Mas'ud demonstrated the meaning",
+        "Disbelievers' Rage Against Messengers"
+      ]
+    },
+    {
+      "hadith_id": 45201,
+      "book_id": 59,
+      "reference_number": 1359,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَاسْتَفْتَحُوا سورة إبراهيم آية 15 , قَالَ : \" اسْتَنْصَرَتِ الرُّسُلُ عَلَى قَوْمِهَا ، وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ بَعِيدٌ عَنِ الْحَقِّ مُعْرِضٌ عَنْهُ ، أَبَى أَنْ يَقُولُ : لا إِلَهَ إِلا اللَّهُ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And they sought victory' (Surah Ibrahim verse 15), he said: 'The messengers sought victory against their people, and every obstinate tyrant failed, distant from the truth, turning away from it, refusing to say: there is no deity except Allah.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his tafsir interpretation; very reliable for exegesis"
+        },
+        {
+          "issue": "Maqtu' - Qatadah's scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 15",
+        "Messengers Seeking Divine Victory",
+        "Failure of Obstinate Tyrants",
+        "Tawhid Declaration"
+      ]
+    },
+    {
+      "hadith_id": 45202,
+      "book_id": 59,
+      "reference_number": 1360,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَيُسْقَى مِنْ مَاءٍ صَدِيدٍ سورة إبراهيم آية 16 , قَالَ : \" مَاءٌ يَسِيلُ مِنْ بَيْنِ جِلْدِهِ وَلَحْمِهِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And he will be given to drink of purulent water' (Surah Ibrahim verse 16), he said: 'Water that flows from between his skin and his flesh.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his tafsir interpretation of Hellfire punishment"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 16",
+        "Description of Hellfire Punishment",
+        "Purulent Water in Hell"
+      ]
+    },
+    {
+      "hadith_id": 45203,
+      "book_id": 59,
+      "reference_number": 1361,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : مَا أَنَا بِمُصْرِخِكُمْ سورة إبراهيم آية 22 , قَالَ : \" مَا أَنَا بِمُغِيثِكُمْ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'I cannot be your helper' (Surah Ibrahim verse 22), he said: 'I am not your rescuer.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining the meaning of a word"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 22",
+        "Satan's Speech on Judgment Day",
+        "Lack of Help for Disbelievers"
+      ]
+    },
+    {
+      "hadith_id": 45204,
+      "book_id": 59,
+      "reference_number": 1362,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : كَشَجَرَةٍ طَيِّبَةٍ سورة إبراهيم آية 24 , قَالَ : \" يَذْكُرُونَ أَنَّهَا النَّخْلَةُ ، تُؤْتِي أُكُلَهَا كُلَّ حِينٍ بِإِذْنِ رَبِّهَا سورة إبراهيم آية 25 , قَالَ : \" تُؤْكَلُ ثِمَارُهَا فِي الشِّتَاءِ , وَالصَّيْفِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Like a good tree' (Surah Ibrahim verse 24), he said: 'They mention that it is the date-palm tree. It brings forth its fruit at all times by permission of its Lord' (Surah Ibrahim verse 25), he said: 'Its fruits are eaten in winter and summer.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his tafsir interpretation identifying the metaphor"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verses 24-25",
+        "Parable of the Good Tree",
+        "Date-Palm Tree as Symbol",
+        "Continuous Benefit of Faith"
+      ]
+    },
+    {
+      "hadith_id": 45205,
+      "book_id": 59,
+      "reference_number": 1363,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "قَالَ مَعْمَرٌ : وَقَالَ الْحَسَنُ : \" مَا بَيْنَ السِّتَّةِ الأَشْهُرِ , وَالسَّبْعَةِ \"",
+      "english_translation": "Ma'mar said, and Al-Hassan said: 'What is between six months and seven.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Al-Hassan's interpretation of fruiting period",
+          "impact": "Scholarly tafsir about the date-palm's fruiting cycle"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis regarding date-palm fruiting cycle",
+        "Agricultural Knowledge",
+        "Continuous Productivity"
+      ]
+    },
+    {
+      "hadith_id": 45206,
+      "book_id": 59,
+      "reference_number": 1364,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ , عَنْ أَنَسِ بْنِ مَالِكٍ , قَالَ : \" الشَّجَرَةُ الطَّيِّبَةُ النَّخْلَةُ , وَالشَّجَرَةُ الْخَبِيثَةُ الْحَنْظَلَةُ \"",
+      "english_translation": "From Ma'mar, from Shu'ayb ibn al-Habhab, from Anas ibn Malik, he said: 'The good tree is the date-palm, and the evil tree is the colocynth.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Shu'ayb ibn al-Habhab",
+              "full_name": "Shu'ayb ibn al-Habhab al-Makki",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some weakness in precision"
+              ]
+            },
+            {
+              "name": "Anas ibn Malik",
+              "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Shu'ayb ibn al-Habhab is Saduq (truthful) but has some precision issues"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Shu'ayb ibn al-Habhab -> Anas ibn Malik"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Shu'ayb ibn al-Habhab is graded as Saduq (truthful) but with some weaknesses in precision",
+          "impact": "The narration is acceptable but not of the highest grade"
+        },
+        {
+          "issue": "Mawquf - statement of companion Anas ibn Malik",
+          "impact": "This is Anas's tafsir interpretation, not directly from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Good and Evil Trees",
+        "Date-Palm as Symbol of Good",
+        "Colocynth as Symbol of Evil"
+      ]
+    },
+    {
+      "hadith_id": 45207,
+      "book_id": 59,
+      "reference_number": 1365,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : اجْتُثَّتْ مِنْ فَوْقِ الأَرْضِ سورة إبراهيم آية 26 , قَالَ : \" اسْتُؤْصِلَتْ مِنْ فَوْقِ الأَرْضِ مَا لَهَا مِنْ قَرَارٍ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Uprooted from above the earth' (Surah Ibrahim verse 26), he said: 'Completely removed from above the earth, it has no stability.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining the meaning"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 26",
+        "Evil Tree Without Stability",
+        "Instability of Disbelief"
+      ]
+    },
+    {
+      "hadith_id": 45208,
+      "book_id": 59,
+      "reference_number": 1366,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ , فِي قَوْلِهِ تَعَالَى : يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا سورة إبراهيم آية 27 , قَالَ : \" لا إِلَهَ إِلا اللَّهُ , وَفِي الآخِرَةِ الْمَسْأَلَةُ فِي الْقَبْرِ \"",
+      "english_translation": "From Ma'mar, from Ibn Tawus, from his father, regarding Allah's saying: 'Allah keeps firm those who believe with the firm word in the worldly life' (Surah Ibrahim verse 27), he said: 'There is no deity except Allah, and in the Hereafter means the questioning in the grave.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Tawus",
+              "full_name": "'Abdullah ibn Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Tawus)",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ibn Tawus -> Tawus"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Tawus's interpretation of the verse",
+          "impact": "Scholarly tafsir, not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 27",
+        "The Firm Word (Tawhid)",
+        "Questioning in the Grave",
+        "Steadfastness in Faith"
+      ]
+    },
+    {
+      "hadith_id": 45209,
+      "book_id": 59,
+      "reference_number": 1367,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : يُثَبِّتُ اللَّهُ الَّذِينَ آمَنُوا بِالْقَوْلِ الثَّابِتِ فِي الْحَيَاةِ الدُّنْيَا وَفِي الآخِرَةِ سورة إبراهيم آية 27 , قَالَ : \" بَلَغَنَا أَنَّ هَذِهِ الأُمَّةَ تُسْأَلُ فِي قُبُورِهَا , فَيُثَبِّتُ اللَّهُ الْمُؤْمِنَ فِي قَبْرِهِ حِينَ يُسْأَلُ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Allah keeps firm those who believe with the firm word in the worldly life and in the Hereafter' (Surah Ibrahim verse 27), he said: 'It has reached us that this Ummah will be questioned in their graves, and Allah will make the believer steadfast in his grave when he is questioned.'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "بَلَغَنَا",
+              "reliabilityIssues": [
+                "mudallis",
+                "uses balagha (it reached us) without clear chain"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mursal/disconnected - Qatadah uses 'balagha' (it reached us) without identifying source"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> [Unknown source]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'balaghana' (it has reached us) indicating a mursal/disconnected transmission",
+          "impact": "The source is not identified, making this a mursal report which is weaker than a connected chain"
+        },
+        {
+          "issue": "Mursal narration with disconnected chain",
+          "impact": "Cannot trace to a specific source; represents what Qatadah heard about the matter"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 27",
+        "Questioning in the Grave",
+        "Divine Support for Believers",
+        "Trial of the Grave"
+      ]
+    },
+    {
+      "hadith_id": 45210,
+      "book_id": 59,
+      "reference_number": 1368,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ وَهْبِ بْنِ عَبْدِ اللَّهِ , عَنْ أَبِي الطُّفَيْلِ ، أَنَّ ابْنَ الْكَوَّاءِ سَأَلَ عَلِيًّا , قَالَ : مَنِ الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ سورة إبراهيم آية 28 ؟ قَالَ : \" الأَفْجَرَانِ \" , وَقَالَ : \" قُرَيْشٌ \" , أَوْ قَالَ : \" أَهْلُ مَكَّةَ بَنُو مَخْزُومٍ , وَبَنُو أُمَيَّةَ , وَبَقِيَّتُهُمْ يَوْمَ بَدْرٍ \"",
+      "english_translation": "From Ma'mar, from Wahb ibn Abdullah, from Abu al-Tufayl, that Ibn al-Kawwa' asked Ali: 'Who are those who changed the blessing of Allah into disbelief and caused their people to dwell in the abode of ruin?' (Surah Ibrahim verse 28), he said: 'The two wicked ones,' and he said: 'Quraysh,' or he said: 'The people of Makkah, Banu Makhzum and Banu Umayyah, and their remnant at the day of Badr.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Wahb ibn Abdullah",
+              "full_name": "Wahb ibn 'Abdullah al-Makki",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "little known, acceptable when supported"
+              ]
+            },
+            {
+              "name": "Abu al-Tufayl",
+              "full_name": "'Amir ibn Wathilah al-Laythi al-Kinani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ali ibn Abi Talib",
+              "full_name": "'Ali ibn Abi Talib ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Wahb ibn Abdullah is Maqbul (acceptable when supported), little-known narrator"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Wahb ibn Abdullah -> Abu al-Tufayl -> Ali ibn Abi Talib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Wahb ibn 'Abdullah is graded as Maqbul (acceptable when supported by other narrations), indicating he is little-known",
+          "impact": "This weakens the chain somewhat, though not critically"
+        },
+        {
+          "issue": "Mawquf - statement stops at the companion Ali",
+          "impact": "This is Ali's tafsir interpretation identifying specific tribes, not from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident where Ali was asked about Quranic verse interpretation",
+        "Quranic Exegesis of Surah Ibrahim verse 28",
+        "Identification of Quraysh Leaders at Badr",
+        "Historical Context of Battle of Badr"
+      ]
+    }
+  ]
+}

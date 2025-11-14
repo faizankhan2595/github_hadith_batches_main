@@ -1,0 +1,569 @@
+{
+  "batch_number": 6,
+  "file_number": 33,
+  "record_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 45481,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Qatadah said regarding the verse 'huquban' (Surah Al-Kahf 18:60): It means 'a period of time'.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": ["Qatadah used 'an (عَنْ) - he is a known mudallis (category 3), though generally reliable"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a category 3 mudallis according to Ibn Hajar's classification, and here he uses the ambiguous term 'an (عَنْ)",
+          "impact": "While Qatadah is highly reliable (Thiqah Thabt), his tadlis when using 'an creates potential concern. However, this is only a statement of Qatadah about Quranic exegesis, not a prophetic hadith, so the impact is minimal."
+        },
+        {
+          "issue": "This is a maqtu' report (statement of a Tabi'i) about Quranic interpretation, not a prophetic hadith",
+          "impact": "This represents Qatadah's scholarly opinion on the meaning of a Quranic word, not a transmitted prophetic tradition."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Kahf",
+        "Interpretation of the word 'huquban'"
+      ],
+      "arabicText": "أنا مَعْمَرٌ , عَنْ قَتَادَةَ : حُقُبًا سورة الكهف آية 60 , قَالَ : \" زَمَانًا \"",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1639,
+      "grade": null
+    },
+    {
+      "hadith_id": 45482,
+      "book_id": 59,
+      "narrator_id": 4883,
+      "english_translation": "Narrated by Ibn Abbas: Moses addressed the Children of Israel and said: 'No one is more knowledgeable about Allah and His command than me.' So he was commanded to meet this man, meaning al-Khidr.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ishaq al-Hamdani",
+              "full_name": "Amr ibn Abdullah al-Hamdani al-Sabi'i al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["ikhtilat_late_in_life"]
+            },
+            {
+              "name": "Sa'id ibn Jubayr",
+              "full_name": "Sa'id ibn Jubayr ibn Hisham al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu Ishaq used 'an (عَنْ), and he experienced ikhtilat later in life, but Ma'mar heard from him early so this narration should be acceptable"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Abu Ishaq al-Hamdani -> Sa'id ibn Jubayr -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Hamdani (Amr ibn Abdullah al-Sabi'i) experienced ikhtilat (memory confusion) later in life",
+          "impact": "Ma'mar ibn Rashid heard from Abu Ishaq early before the ikhtilat, so this narration is generally accepted as reliable."
+        },
+        {
+          "issue": "Use of 'an (عَنْ) by Abu Ishaq and Sa'id ibn Jubayr",
+          "impact": "Both are reliable narrators, and 'an is acceptable from them as they are not known for problematic tadlis."
+        },
+        {
+          "issue": "This is a mawquf report from Ibn Abbas about the story of Moses and al-Khidr",
+          "impact": "This is Ibn Abbas's interpretation/knowledge of the Quranic story, not necessarily attributed to the Prophet ﷺ directly."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Story of Moses and al-Khidr",
+        "Quranic Exegesis of Surah Al-Kahf",
+        "Incident of Moses claiming to be most knowledgeable"
+      ],
+      "arabicText": "أنا مَعْمَرٌ , عَنْ أَبِي إِسْحَاقَ الْهَمْدَانِيِّ , عَنْ سَعِيدِ بْنِ جُبَيْرٍ , عَنِ ابْنِ عَبَّاسٍ , قَالَ : خَطَبَ مُوسَى بَنِي إِسْرَائِيلَ , فَقَالَ : \" مَا أَحَدٌ أَعْلَمَ بِاللَّهِ وَبِأَمْرِهِ مِنِّي ، فَأُمِرَ أَنْ يَلْقَى هَذَا الرَّجُلَ \" ، يَعْنِي الْخَضِرَ",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1640,
+      "grade": null
+    },
+    {
+      "hadith_id": 45483,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Qatadah said: It was said to him (Moses): 'Indeed, the sign of your meeting him is that you will forget some of your provisions. So he and his servant Yusha' ibn Nun set out, and they took a salted fish as provision. When they reached where Allah willed, Allah restored the soul to the fish, and it made its way into the sea...' (continuing the story of Moses and the fish).",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": ["Qatadah used 'an (عَنْ) and he is a known mudallis"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a category 3 mudallis and uses 'an (عَنْ)",
+          "impact": "While Qatadah is highly reliable, his use of 'an raises potential tadlis concerns. However, this is his tafsir of the Quranic story, not a prophetic transmission."
+        },
+        {
+          "issue": "This is a maqtu' report (Qatadah's interpretation of the Quranic story)",
+          "impact": "This represents Qatadah's understanding of the story of Moses and the fish from Surah Al-Kahf, not a prophetic hadith."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Story of Moses and al-Khidr",
+        "Incident of the fish that came back to life",
+        "Quranic Exegesis of Surah Al-Kahf"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ ، أَنَّهُ قِيلَ لَهُ : \" إِنَّ آيَةَ لُقِيِّكَ إِيَّاهُ ، أَنْ تَنْسَى بَعْضَ مَتَاعِكَ ، فَخَرَجَ هُوَ وَفَتَاهُ يُوشَعُ بْنُ نُونٍ ، وَتَزَوَّدُوا حُوتًا مَمْلُوحًا ، حَتَّى إِذَا كَانَا حَيْثُ شَاءَ اللَّهُ ، رَدَّ اللَّهُ إِلَى الْحُوتِ رُوحَهُ ، فَسَرَبَ فِي الْبَحْرِ...",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1641,
+      "grade": null
+    },
+    {
+      "hadith_id": 45484,
+      "book_id": 59,
+      "narrator_id": 4883,
+      "english_translation": "Narrated by Ibn Abbas: When Moses followed the trace of the fish, he reached a man who was sleeping, covered with his garment. Moses greeted him with salam, and the man uncovered his face from the garment and returned the salam. Then he said to Moses: 'Who are you?' He said: 'I am Moses.' He said: 'The one of the Children of Israel?' He said: 'Yes.' He said: 'Did you not have enough occupation with the Children of Israel?' He said: 'Indeed, but I was commanded to come to you and accompany you.' He said: 'Indeed you will not be able to have patience with me' (Surah Al-Kahf 18:67)...' (continuing with the story of Moses and al-Khidr).",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ishaq",
+              "full_name": "Amr ibn Abdullah al-Hamdani al-Sabi'i al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["ikhtilat_late_in_life"]
+            },
+            {
+              "name": "Sa'id ibn Jubayr",
+              "full_name": "Sa'id ibn Jubayr ibn Hisham al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu Ishaq used 'an (عَنْ), and he experienced ikhtilat later in life"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Abu Ishaq -> Sa'id ibn Jubayr -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Hamdani experienced ikhtilat later in life",
+          "impact": "Ma'mar heard from Abu Ishaq early, so this is acceptable. This is a detailed narration from Ibn Abbas about the story of Moses and al-Khidr."
+        },
+        {
+          "issue": "This is a mawquf report from Ibn Abbas",
+          "impact": "This is Ibn Abbas's detailed knowledge of the Quranic story of Moses and al-Khidr, likely based on his own understanding or what he learned from companions."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Detailed story of Moses and al-Khidr",
+        "Dialogue between Moses and al-Khidr",
+        "Incident of the damaged boat",
+        "Incident of the killed boy",
+        "Quranic Exegesis of Surah Al-Kahf"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ أَبِي إِسْحَاقَ , عَنْ سَعِيدِ بْنِ جُبَيْرٍ , عَنِ ابْنِ عَبَّاسٍ , قَالَ : \" لَمَّا اقْتَفَى مُوسَى أَثَرَ الْحُوتِ ، انْتَهَى إِلَى رَجُلٍ رَاقِدٍ وَقَدْ سَجَّى عَلَيْهِ ثَوْبَهُ...",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1642,
+      "grade": null
+    },
+    {
+      "hadith_id": 45485,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Tawus said: A man bought wine and carried it to the land of India. When he approached them, he poured water equal to it upon it, then sold it, and put its price in a pouch, then tied it to a mast. Then they sailed. There was a monkey with them on the ship, so the monkey climbed until it reached the top of the mast, then took the pouch and opened it, and began throwing one dirham in the ship and one dirham in the sea until it finished all of it.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Layth",
+              "full_name": "Layth ibn Abi Sulaym ibn Zunaym al-Kufi",
+              "grade": "Da'if",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["weak_memory", "poor_precision"]
+            },
+            {
+              "name": "Tawus",
+              "full_name": "Tawus ibn Kaysan al-Khawlani al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Layth ibn Abi Sulaym is Da'if (weak) with memory issues"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Layth ibn Abi Sulaym -> Tawus"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Layth ibn Abi Sulaym is classified as Da'if (weak) by hadith critics due to poor memory and precision",
+          "impact": "This significantly weakens the chain. Layth was considered unreliable in his narrations despite being truthful. This story about the monkey and wine merchant is questionable."
+        },
+        {
+          "issue": "This is a maqtu' report (statement of Tawus, a Tabi'i) about an anecdote",
+          "impact": "This appears to be a moral story about divine justice for fraud, but the weak chain makes it questionable."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of the wine merchant who diluted wine",
+        "Incident of the monkey distributing money",
+        "Divine retribution for fraud"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ لَيْثٍ ، عَنْ طَاوُسٍ : \" أَنَّ رَجُلا ابْتَاعَ خَمْرًا ، وَحَمَلَهُ إِلَى أَرْضِ الْهِنْدِ...",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1643,
+      "grade": null
+    },
+    {
+      "hadith_id": 45486,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Ma'mar said, and Qatadah said: 'In front of them. Do you not see that He says: Behind them is Hell (Surah Al-Jathiyah 45:10).' And in the recitation of Ibn Mas'ud: 'And there was behind them a king who would seize every sound ship by force.' As for the boy, he was a disbeliever. And in the recitation of Ubayy ibn Ka'b: 'And his parents were believers, so We intended that their Lord should substitute for them one better than him in purity and closer in affection' (Surah Al-Kahf 18:81): meaning 'more dutiful to his parents.' 'And as for the wall, it belonged to two orphan boys in the city, and beneath it was a treasure belonging to them' (Surah Al-Kahf 18:82). He said: 'Wealth belonging to them.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Qatadah's tafsir explaining variant Quranic readings (qira'at)",
+          "impact": "This is scholarly Quranic exegesis explaining the meanings in different variant readings of Ibn Mas'ud and Ubayy ibn Ka'b, not a prophetic hadith."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Kahf",
+        "Variant Quranic readings (qira'at)",
+        "Explanation of the story of al-Khidr"
+      ],
+      "arabicText": "وَقَالَ مَعْمَرٌ , وَقَالَ قَتَادَةُ : \" أَمَامَهُمْ أَلا تَرَى أَنَّهُ يَقُولُ : مِنْ وَرَائِهِمْ جَهَنَّمُ...",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1644,
+      "grade": null
+    },
+    {
+      "hadith_id": 45487,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Qatadah said: 'The treasure (kanz) was permissible for those before us, but prohibited for us. And booty (ghanimah) was prohibited for those before us, but made permissible for us.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Qatadah's statement comparing Islamic law with previous divine laws",
+          "impact": "This is Qatadah's understanding of the differences between the Shariah of Muhammad ﷺ and previous divine laws, not necessarily a directly transmitted prophetic statement."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Differences between Islamic law and previous divine laws",
+        "Permissibility of war booty in Islam",
+        "Hoarding treasure (kanz) in previous nations vs Islam"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , قَالَ قَتَادَةَ : \" أُحِلَّ الْكَنْزُ لِمَنْ كَانَ قَبْلَنَا ، وَحُرِّمَ عَلَيْنَا ، وَحُرِّمَتِ الْغَنِيمَةُ عَلَى مَنْ كَانَ قَبْلَنَا ، وَأُحِلَّتْ لَنَا \"",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1645,
+      "grade": null
+    },
+    {
+      "hadith_id": 45488,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Qatadah said regarding the verse 'fa-atba'a sababan' (Surah Al-Kahf 18:85): It means 'the regions of the earth'.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": ["Qatadah used 'an (عَنْ) and he is a known mudallis"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a mudallis using 'an",
+          "impact": "Minor concern, as this is only his tafsir opinion about word meaning."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Kahf",
+        "Interpretation of 'fa-atba'a sababan'",
+        "Story of Dhul-Qarnayn"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : فَأَتْبَعَ سَبَبًا سورة الكهف آية 85 , قَالَ : \" مَنَازِلُ الأَرْضِ \"",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1646,
+      "grade": null
+    },
+    {
+      "hadith_id": 45489,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Qatadah said regarding the verse 'sa'idan zalaqan' (Surah Al-Kahf 18:40): It means 'what was in it was harvested, and nothing was left in it'.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis"]
+            }
+          ],
+          "chainIssues": ["Qatadah used 'an (عَنْ) and he is a known mudallis"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a mudallis using 'an",
+          "impact": "Minor concern, as this is only his tafsir opinion."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Kahf",
+        "Interpretation of 'sa'idan zalaqan'"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : صَعِيدًا زَلَقًا سورة الكهف آية 40 , قَالَ : \" حُصِدَ مَا فِيهَا ، فَلَمْ يُتْرَكْ فِيهَا شَيْءٌ \"",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1647,
+      "grade": null
+    },
+    {
+      "hadith_id": 45490,
+      "book_id": 59,
+      "narrator_id": null,
+      "english_translation": "Mujahid said regarding the verse 'And beneath it was a treasure for them' (Surah Al-Kahf 18:82): 'Scrolls of knowledge'.",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ibn Uyaynah",
+              "full_name": "Sufyan ibn Uyaynah ibn Abi Imran al-Hilali al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "أرنا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Humayd",
+              "full_name": "Humayd ibn Qays al-Makki al-A'raj",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Uyaynah -> Humayd -> Mujahid"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Mujahid's tafsir opinion about the nature of the 'kanz' (treasure) in the story",
+          "impact": "Mujahid was a famous student of Ibn Abbas and expert in tafsir. This represents his scholarly interpretation that the treasure was knowledge rather than gold/silver."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Kahf",
+        "Interpretation of the treasure (kanz) in the story of al-Khidr",
+        "Knowledge as treasure"
+      ],
+      "arabicText": "أرنا ابْنُ عُيَيْنَةَ , عَنْ حُمَيْدٍ , عَنْ مُجَاهِدٍ ، فِي قَوْلِهِ تَعَالَى : وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا سورة الكهف آية 82 , قَالَ : \" صُحُفٌ مِنْ عِلْمٍ \"",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1648,
+      "grade": null
+    }
+  ]
+}

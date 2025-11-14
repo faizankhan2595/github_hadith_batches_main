@@ -1,0 +1,745 @@
+{
+  "batch_number": 6,
+  "file_number": 6,
+  "record_count": 15,
+  "skipped_count": 0,
+  "hadiths": [
+    {
+      "hadith_id": 45076,
+      "book_id": 59,
+      "hadith_number": 1234,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 غَيَابَتِ الْجُبِّ سورة يوسف آية 10 /4 , قَالَ : \" بِئْرٌ بِبَيْتِ الْمَقْدِسِ ، بِئْرٌ فِي بَعْضِ نَوَاحِيهَا \" /27 * \r\n$1242  1242 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1234,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45077,
+      "book_id": 59,
+      "hadith_number": 1235,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 يَرْتَعْ وَيَلْعَبْ سورة يوسف آية 12 /4 , قَالَ : \" نَسْمُرُ وَنَلْهُو \" /27 * \r\n\u001dE220 \r\n$1243  1243 /3",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1235,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45078,
+      "book_id": 59,
+      "hadith_number": 1236,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Unknown chain",
+              "full_name": "Chain narrators not fully identified",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Incomplete chain information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown chain"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 إِسْرَائِيلَ /94 , عَنْ /26 سِمَاكِ بْنِ حَرْبٍ /26 , عَنْ /26 عِكْرِمَةَ /26 , /27 عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 : /20 /4 وَجَاءُوا عَلَى قَمِيصِهِ بِدَمٍ كَذِبٍ سورة يوسف آية 18 /4 , قَالَ : \" كَانَ دَمَ سَخْلَةٍ \" /27 * \r\n$1244  1244 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1236,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45079,
+      "book_id": 59,
+      "hadith_number": 1237,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 وَأَوْحَيْنَا إِلَيْهِ لَتُنَبِّئَنَّهُمْ بِأَمْرِهِمْ هَذَا وَهُمْ لا يَشْعُرُونَ سورة يوسف آية 15 /4 , قَالَ : \" فَأَوْحَى اللَّهُ تَعَالَى إِلَى يُوسُفَ , وَهُوَ فِي الْجُبِّ أَنْ سَيُنَبِّئُهُمْ بِمَا صَنَعُوا بِهِ , وَهُمْ لا يَشْعُرُونَ بِذَلِكَ الْوَحْيِ \" /27 * \r\n$1245  1245 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1237,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45080,
+      "book_id": 59,
+      "hadith_number": 1238,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 وَجَاءُوا عَلَى قَمِيصِهِ بِدَمٍ كَذِبٍ سورة يوسف آية 18 /4 , قَالَ : \" كَانَ ذَلِكَ الدَّمُ كَاذِبًا لَمْ يَكُنْ دَمَ يُوسُفَ \" /27 * \r\n@ 2 : 208 @ \r\n$1246  1246 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1238,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45081,
+      "book_id": 59,
+      "hadith_number": 1239,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 لا تَقْتُلُوا يُوسُفَ سورة يوسف آية 10 /4 , قَالَ : \" كَانَ أَكْبَرَ إِخْوَتِهِ , وَكَانَ ابْنَ خَالَةِ يُوسُفَ ، فَنَهَاهُمْ عَنْهُ \" /27 * \r\n$1247  1247 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1239,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45082,
+      "book_id": 59,
+      "hadith_number": 1240,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Unknown chain",
+              "full_name": "Chain narrators not fully identified",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Incomplete chain information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown chain"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 إِسْرَائِيلَ /94 , عَنْ /26 سِمَاكِ بْنِ حَرْبٍ /26 , /27 عَنْ /26 عَامِرٍ الشَّعْبِيِّ /26 , قَالَ : /20 \" كَانَ فِي قَمِيصِ يُوسُفَ ثَلاثُ آيَاتٍ الشَّقُّ , وَالدَّمُ ، وَإِلْقَاؤُهُ عَلَى وَجْهِهِ , يَعْنِي أَبَاهُ , فَارْتَدَّ بَصِيرًا \" /27 * \r\n$1248  1248 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1240,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45083,
+      "book_id": 59,
+      "hadith_number": 1241,
+      "english_translation": "Regarding the saying of Allah (interpretation of Quranic verse)",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Rajul (unknown man)",
+              "full_name": "Unknown narrator",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul (unknown narrator)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Chain contains unknown narrator (rajul/man)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Rajul (unknown man)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains unknown narrator (rajul/man)",
+          "impact": "Presence of unknown narrator weakens the chain significantly"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /18 /26 رَجُلٍ /26 /18 , /27 عَنْ /26 مُجَاهِدٍ /26 ، فِي قَوْلِهِ تَعَالَى : /20 /4 فَصَبْرٌ جَمِيلٌ سورة يوسف آية 18 /4 , قَالَ : \" فِي غَيْرِ جَزَعٍ \" /27 * \r\n$1249  1249 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1241,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45084,
+      "book_id": 59,
+      "hadith_number": 1242,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Rajul (unknown man)",
+              "full_name": "Unknown narrator",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul (unknown narrator)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Chain contains unknown narrator (rajul/man)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Rajul (unknown man)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains unknown narrator (rajul/man)",
+          "impact": "Presence of unknown narrator weakens the chain significantly"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic exegesis"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، /27 عَنْ /18 /26 بَعْضِ أَصْحَابِهِ /26 /18 ، قَالَ : /20 \" يُقَالُ : ثَلاثٌ مِنَ الصَّبْرِ أَلا تُحَدِّثَ بِمَوْجِعِكَ , وَلا بِمُصِيبَتِكَ , وَلا تُزَكِّيَ نَفْسَكَ \" /27 * \r\n$1250  1250 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1242,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45085,
+      "book_id": 59,
+      "hadith_number": 1243,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Unknown chain",
+              "full_name": "Chain narrators not fully identified",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Incomplete chain information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Unknown chain"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Story of Prophet Ya'qub (Jacob)"
+      ],
+      "arabicText": "/24 عَنِ /94 الثَّوْرِيِّ /94 ، /27 عَنْ /26 حَبِيبِ بْنِ أَبِي ثَابِتٍ /26 ، /20 أَنَّ يَعْقُوبَ النَّبِيَّ عَلَيْهِ السَّلامُ ، كَانَ قَدْ سَقَطَ حَاجِبَاهُ , فَكَانَ يَرْفَعُهُمَا بِخِرْقَةٍ , فَقِيلَ لَهُ : مَا هَذَا ؟ , فَقَالَ : \" طُولُ الزَّمَانِ ، وَكَثْرَةُ الأَحْزَانِ \" , فَأَوْحَى اللَّهُ تَعَالَى إِلَيْهِ يَا يَعْقُوبُ أَتَشْكُونِي ؟ ، قَالَ : \" يَا رَبِّ خَطِيئَةٌ أَخْطَأْتُهَا فَاغْفِرْهَا لِي \" /27 * \r\n\u001bE221 @ 2 : 209 @ \r\n$1251  1251 /2",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1243,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45086,
+      "book_id": 59,
+      "hadith_number": 1244,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Rajul (unknown man)",
+              "full_name": "Unknown narrator",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Majhul (unknown narrator)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Chain contains unknown narrator (rajul/man)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Rajul (unknown man)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains unknown narrator (rajul/man)",
+          "impact": "Presence of unknown narrator weakens the chain significantly"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic exegesis"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ عُيَيْنَةَ L3443 /94 , عَنْ /26 إِسْرَائِيلَ L982 /26 , عَنْ /18 /26 رَجُلٍ L1131 /26 /18 , /27 عَنْ /26 فَاطِمَةَ بِنْتِ الْحُسَيْنِ L6385 /26 , عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" مَنْ أُصِيبَ بِمُصِيبَةٍ , فَذَكَرَهَا وَاسْتَرْجَعَ كَانَ لَهُ مِنَ الأَجْرِ مِثْلُهُ حِينَ أُصِيبَ بِهَا أَوَّلَ مَا أُصِيبَ بِهَا فَاسْتَرْجَعَ \" /27 * \r\n$1252  1252 /2",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1244,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45087,
+      "book_id": 59,
+      "hadith_number": 1245,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of martyrdom of Hamzah and companions"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 , /27 عَنِ /26 الْجَحْشِيِّ L18023 /26 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , قَالَ : لِحَمْنَةَ بِنْتِ جَحْشٍ : /20 \" قُولِي : إِنَّا لِلَّهِ ، وَإِنَّا إِلَيْهِ رَاجِعُونَ \" , فَقَالَتْ : إِنَّا لِلَّهِ ، وَإِنَّا إِلَيْهِ رَاجِعُونَ , قَالَ : \" قُتِلَ أَخُوكِ عَبْدُ اللَّهِ بْنُ جَحْشٍ \" , قَالَتْ : يَرْحَمُهُ اللَّهُ , ثُمَّ قَالَ لَهَا : قُولِي : \" إِنَّا لِلَّهِ , وَإِنَّا إِلَيْهِ رَاجِعُونَ \" , فَقَالَتْ : ذَلِكَ , فَقَالَ : \" قُتِلَ حَمْزَةُ بْنُ عَبْدِ الْمُطَّلِبِ \" , قَالَتْ : يَرْحَمُهُ اللَّهُ , ثُمَّ قَالَ لَهَا : \" قُولِي : إِنَّا لِلَّهِ ، وَإِنَا إِلَيْهِ رَاجِعُونَ \" , فَقَالَتْ : ذَلِكَ , فَقَالَ : \" قُتِلَ زَوْجُكِ مُصْعَبُ بْنُ عُمَيْرٍ , فَصَاحَتْ وَبَكَتْ , فَعَجِبَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , وَقَالَ : \" إِنَّ الزَّوْجَ لَيَقَعُ مِنَ الْمَرْأَةِ مَوْقِعًا مَا يَقَعُهُ شَيْءٌ \" /27 * \r\n$1253  1253 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1245,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45088,
+      "book_id": 59,
+      "hadith_number": 1246,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَى دَلْوَهُ سورة يوسف آية 19 /4 , قَالَ : \" فَتَشَبَّثَ الْغُلامُ بِالدَّلْوِ \" ، فَلَمَّا خَرَجَ , قَالَ : /4 يَا بُشْرَى هَذَا غُلامٌ سورة يوسف آية 19 /4 , قَالَ قَتَادَةُ : \" بَشَّرَهُمْ وَارِدُهُمْ حِينَ وَجَدَ يُوسُفَ \" /27 * \r\n@ 2 : 210 @ \r\n$1254  1254 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1246,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45089,
+      "book_id": 59,
+      "hadith_number": 1247,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ : /20 /4 وَأَسَرُّوهُ بِضَاعَةً سورة يوسف آية 19 /4 , قَالَ : \" أَسَرُّوا بَيْعَهُ \" /27 * \r\n$1255  1255 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1247,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45090,
+      "book_id": 59,
+      "hadith_number": 1248,
+      "english_translation": "Statement of tabi'i or Quranic interpretation",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "معمر بن راشد الأزدي مولاهم أبو عروة البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Ma'mar is a known mudallis using 'an (عَنْ)",
+            "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ma'mar is a known mudallis using 'an (عَنْ)",
+          "impact": "Ma'mar is generally very reliable (category 2-3 mudallis), so this is noted but doesn't significantly impact grading"
+        },
+        {
+          "issue": "Qatadah is a famous mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Qatadah is highly reliable in tafsir narrations, but his tadlis should be noted. Generally acceptable given his expertise."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah يوسف",
+        "Story of Prophet Yusuf (Joseph)"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 وَشَرَوْهُ بِثَمَنٍ بَخْسٍ سورة يوسف آية 20 /4 , قَالَ : \" ظُلْمٌ , وَهُمُ السَّيَّارَةُ الَّذِينَ بَاعُوهُ بِعِشْرِينَ دِرْهَمًا , وَكَانُوا فِيهِ مِنَ الزَّاهِدِينَ \" /27 * \r\n\u001aE222 \r\n$1256  1256 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1248,
+      "grade": "Acceptable"
+    }
+  ]
+}

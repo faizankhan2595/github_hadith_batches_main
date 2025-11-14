@@ -1,0 +1,1322 @@
+{
+  "batch_number": 6,
+  "file_number": 18,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45256,
+      "book_id": 59,
+      "hadith_number": 1414,
+      "english_translation": "Narrated by مَعْمَرٍ: [Statement or interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "ابْنِ طَاوُسٍ",
+              "full_name": "طاوس بن كيسان اليماني المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable Tabi'i, student of Ibn Abbas"
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "Father of the previous narrator",
+              "grade": "Maqbul",
+              "generation": "Variable",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "needs-context"
+              ],
+              "details": "Depends on who the son is"
+            },
+            {
+              "name": "ابْنِ أَبِي نَجِيحٍ",
+              "full_name": "عبد الله بن أبي نجيح المكي",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable in tafsir"
+            },
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "مجاهد بن جبر المكي المخزومي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Leading Tabi'i in tafsir, student of Ibn Abbas"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "ابْنِ طَاوُسٍ",
+              "full_name": "طاوس بن كيسان اليماني المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable Tabi'i, student of Ibn Abbas"
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "Father of the previous narrator",
+              "grade": "Maqbul",
+              "generation": "Variable",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "needs-context"
+              ],
+              "details": "Depends on who the son is"
+            },
+            {
+              "name": "ابْنِ أَبِي نَجِيحٍ",
+              "full_name": "عبد الله بن أبي نجيح المكي",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable in tafsir"
+            },
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "مجاهد بن جبر المكي المخزومي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Leading Tabi'i in tafsir, student of Ibn Abbas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> ابْنِ طَاوُسٍ -> أَبِيهِ -> ابْنِ أَبِي نَجِيحٍ -> مُجَاهِدٍ -> مَعْمَرٍ -> ابْنِ طَاوُسٍ -> أَبِيهِ -> ابْنِ أَبِي نَجِيحٍ -> مُجَاهِدٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown/little-known narrator: أَبِيهِ (Maqbul)",
+          "impact": "Limited information about narrator reliability"
+        },
+        {
+          "issue": "Unknown/little-known narrator: أَبِيهِ (Maqbul)",
+          "impact": "Limited information about narrator reliability"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , عَنِ /26 ابْنِ طَاوُسٍ /26 , عَنْ /26 أَبِيهِ /26 , وَعَنِ /26 ابْنِ أَبِي نَجِيحٍ /26 , /27 عَنْ /26 مُجَاهِدٍ /26 , قَالَ : /20 \" الْقُرْآنُ كُلُّهُ يُثَنَّى \" /27 * \r\n$1421  1421 /3",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1414
+    },
+    {
+      "hadith_id": 45257,
+      "book_id": 59,
+      "hadith_number": 1415,
+      "english_translation": "Narrated by مَعْمَرٍ: [Statement or interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "ابْنِ خُثَيْمٍ",
+              "full_name": "عبد الله بن عثمان بن خثيم المكي",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable Meccan narrator"
+            },
+            {
+              "name": "ابْنِ لَبِيبَةَ",
+              "full_name": "محمد بن عبد الرحمن بن لبيبة",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ],
+              "details": "Unknown narrator with little documentation"
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "أَبِي هُرَيْرَةَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown-narrator"
+              ],
+              "details": "Narrator not found in database"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "ابْنِ خُثَيْمٍ",
+              "full_name": "عبد الله بن عثمان بن خثيم المكي",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable Meccan narrator"
+            },
+            {
+              "name": "ابْنِ لَبِيبَةَ",
+              "full_name": "محمد بن عبد الرحمن بن لبيبة",
+              "grade": "Majhul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ],
+              "details": "Unknown narrator with little documentation"
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "أَبِي هُرَيْرَةَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown-narrator"
+              ],
+              "details": "Narrator not found in database"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> ابْنِ خُثَيْمٍ -> ابْنِ لَبِيبَةَ -> أَبِي هُرَيْرَةَ -> مَعْمَرٍ -> ابْنِ خُثَيْمٍ -> ابْنِ لَبِيبَةَ -> أَبِي هُرَيْرَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown/little-known narrator: ابْنِ لَبِيبَةَ (Majhul)",
+          "impact": "Limited information about narrator reliability"
+        },
+        {
+          "issue": "Unknown/little-known narrator: أَبِي هُرَيْرَةَ (Majhul)",
+          "impact": "Limited information about narrator reliability"
+        },
+        {
+          "issue": "Unknown/little-known narrator: ابْنِ لَبِيبَةَ (Majhul)",
+          "impact": "Limited information about narrator reliability"
+        },
+        {
+          "issue": "Unknown/little-known narrator: أَبِي هُرَيْرَةَ (Majhul)",
+          "impact": "Limited information about narrator reliability"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , عَنِ /26 ابْنِ خُثَيْمٍ /26 , عَنِ /26 ابْنِ لَبِيبَةَ /26 , /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 , قَالَ : /20 \" فَاتِحَةُ الْكِتَابِ هِيَ سَبْعٌ مِنَ الْمَثَانِي ، لَيْسَ فِيهَا بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ \" /27 * \r\n$1422  1422 /3",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1415
+    },
+    {
+      "hadith_id": 45258,
+      "book_id": 59,
+      "hadith_number": 1416,
+      "english_translation": "Narrated by ابْنِ جُرَيْجِ: [Statement or interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابْنِ جُرَيْجِ",
+              "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Meccan scholar, known for tadlis but generally reliable"
+            },
+            {
+              "name": "ابْنِ جُرَيْجِ",
+              "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Meccan scholar, known for tadlis but generally reliable"
+            },
+            {
+              "name": "أَبِي",
+              "full_name": "داود بن أبي هند القشيري البصري",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": [],
+              "details": "Reliable Basran narrator"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابْنِ جُرَيْجِ -> ابْنِ جُرَيْجِ -> أَبِي"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابْنِ جُرَيْجِ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "ابْنِ جُرَيْجِ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah الفاتحة verse 1",
+        "Tafsir of Surah الحجر verse 87"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجِ /94 , قَالَ : أَخْبَرَنِي /26 أَبِي /26 ، أَنَّ /26 سَعِيدَ بْنَ جُبَيْرٍ /26 أَخْبَرَهُ ، /27 أَنَّ /93 ابْنَ عَبَّاسٍ L4883 /93 , قَالَ : /20 /4 وَلَقَدْ آتَيْنَاكَ سَبْعًا مِنَ الْمَثَانِي سورة الحجر آية 87 /4 , قَالَ : \" أُمُّ الْقُرْآنِ ، وَقَرَأَهَا عَلَى سَعِيدِ بْنِ جُبَيْرٍ : /4 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ سورة الفاتحة آية 1 /4 ، حَتَّى خَتَمَهَا \" , ثُمَّ قَالَ : \" /4 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ سورة الفاتحة آية 1 /4 الآيَةُ السَّابِعَةُ \" , قَالَ ابْنُ عَبَّاسٍ : \" فَقَدْ أَخْرَجَهَا اللَّهُ لَكُمْ ، فَمَا أَخْرَجَهَا لأَحَدٍ قَبْلَكُمْ \" /27 * \r\n@ 2 : 261 @ \r\n$1423  1423 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1416
+    },
+    {
+      "hadith_id": 45259,
+      "book_id": 59,
+      "hadith_number": 1417,
+      "english_translation": "Narrated by ابْنِ جُرَيْجٍ: [Statement or interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابْنِ جُرَيْجٍ",
+              "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Meccan scholar, known for tadlis but generally reliable"
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Leading Meccan Tabi'i"
+            },
+            {
+              "name": "ابْنِ جُرَيْجٍ",
+              "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Meccan scholar, known for tadlis but generally reliable"
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Leading Meccan Tabi'i"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابْنِ جُرَيْجٍ -> عَطَاءٍ -> ابْنِ جُرَيْجٍ -> عَطَاءٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابْنِ جُرَيْجٍ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "ابْنِ جُرَيْجٍ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah الفاتحة verse 1"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 , /27 عَنْ /26 عَطَاءٍ /26 , قَالَ : /20 \" هِيَ أُمُّ الْقُرْآنِ \" , وَالآيَةُ السَّابِعَةُ : /4 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ سورة الفاتحة آية 1 /4 /27 * \r\n$1424  1424 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1417
+    },
+    {
+      "hadith_id": 45260,
+      "book_id": 59,
+      "hadith_number": 1418,
+      "english_translation": "Narrated by مَعْمَرٍ: Regarding the verse (Surah الحجر, verse 90), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> مَعْمَرٍ -> قَتَادَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah الحجر verse 90"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 كَمَا أَنْزَلْنَا عَلَى الْمُقْتَسِمِينَ سورة الحجر آية 90 /4 , قَالَ : \" فَرَّقُوهُ \" , فَقَالَ بَعْضُهُمْ : \" سِحْرٌ \" , وَقَالَ بَعْضُهُمْ : \" سَقَرُ \" /27 * \r\n$1425  1425 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1418
+    },
+    {
+      "hadith_id": 45261,
+      "book_id": 59,
+      "hadith_number": 1419,
+      "english_translation": "Narrated by مَعْمَرٍ: Regarding the verse (Surah الحجر, verse 91), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> مَعْمَرٍ -> قَتَادَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah الحجر verse 91"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 جَعَلُوا الْقُرْءَانَ عِضِينَ سورة الحجر آية 91 /4 , قَالَ : \" عَضَّهُوهُ \" , قَالَ : \" بَهَتُوهُ \" /27 , قَالَ مَعْمَرٌ : وَكَانَ عِكْرِمَةُ ، يَقُولُ : \" الْعَضَهُ السِّحْرُ بِلِسَانِ قُرَيْشٍ \" ، يَقُولُونَ لِلْعَاضِهَةِ : \" السَّاحَرَةُ \" * \r\n\u001cE249 @ 2 : 262 @ \r\n$1426  1426 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1419
+    },
+    {
+      "hadith_id": 45262,
+      "book_id": 59,
+      "hadith_number": 1420,
+      "english_translation": "Narrated by الثَّوْرِيِّ: Regarding the verse (Surah الحجر, verse 94), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثَّوْرِيِّ",
+              "full_name": "سفيان بن سعيد بن مسروق الثوري",
+              "grade": "Thiqah Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Among the most reliable narrators, imam of hadith"
+            },
+            {
+              "name": "لَيْثٍ",
+              "full_name": "ليث بن أبي سليم الكوفي",
+              "grade": "Saduq Sayyi' al-Hifz",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak-memory"
+              ],
+              "details": "Truthful but poor memory"
+            },
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "مجاهد بن جبر المكي المخزومي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Leading Tabi'i in tafsir, student of Ibn Abbas"
+            },
+            {
+              "name": "الثَّوْرِيِّ",
+              "full_name": "سفيان بن سعيد بن مسروق الثوري",
+              "grade": "Thiqah Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Among the most reliable narrators, imam of hadith"
+            },
+            {
+              "name": "لَيْثٍ",
+              "full_name": "ليث بن أبي سليم الكوفي",
+              "grade": "Saduq Sayyi' al-Hifz",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak-memory"
+              ],
+              "details": "Truthful but poor memory"
+            },
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "مجاهد بن جبر المكي المخزومي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Leading Tabi'i in tafsir, student of Ibn Abbas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الثَّوْرِيِّ -> لَيْثٍ -> مُجَاهِدٍ -> الثَّوْرِيِّ -> لَيْثٍ -> مُجَاهِدٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah الحجر verse 94"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 , عَنْ /26 لَيْثٍ /26 , /27 عَنْ /26 مُجَاهِدٍ /26 ، فِي قَوْلِهِ تَعَالَى : /20 /4 فَاصْدَعْ بِمَا تُؤْمَرُ سورة الحجر آية 94 /4 , قَالَ : \" بِالْقُرْآنِ \" /27 * \r\n$1427  1427 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1420
+    },
+    {
+      "hadith_id": 45263,
+      "book_id": 59,
+      "hadith_number": 1421,
+      "english_translation": "Narrated by الثَّوْرِيِّ: Regarding the verse (Surah الحجر, verse 92), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثَّوْرِيِّ",
+              "full_name": "سفيان بن سعيد بن مسروق الثوري",
+              "grade": "Thiqah Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Among the most reliable narrators, imam of hadith"
+            },
+            {
+              "name": "الثَّوْرِيِّ",
+              "full_name": "سفيان بن سعيد بن مسروق الثوري",
+              "grade": "Thiqah Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Among the most reliable narrators, imam of hadith"
+            },
+            {
+              "name": "لَيْثٍ",
+              "full_name": "ليث بن أبي سليم الكوفي",
+              "grade": "Saduq Sayyi' al-Hifz",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak-memory"
+              ],
+              "details": "Truthful but poor memory"
+            },
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "مجاهد بن جبر المكي المخزومي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Leading Tabi'i in tafsir, student of Ibn Abbas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الثَّوْرِيِّ -> الثَّوْرِيِّ -> لَيْثٍ -> مُجَاهِدٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah الحجر verse 92"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 لَيْثٍ /26 , /27 عَنْ /26 مُجَاهِدٍ /26 ، فِي قَوْلِهِ تَعَالَى : /20 /4 فَوَرَبِّكَ لَنَسْأَلَنَّهُمْ أَجْمَعِينَ { 92 } عَمَّا كَانُوا يَعْمَلُونَ سورة الحجر آية 92-93 /4 , قَالَ : \" عَنْ لا إِلَهَ إِلا اللَّهُ \" /27 * \r\n$1428  1428 /2",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1421
+    },
+    {
+      "hadith_id": 45264,
+      "book_id": 59,
+      "hadith_number": 1422,
+      "english_translation": "Narrated by مَعْمَرٍ: Regarding the verse (Surah الحجر, verse 95), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            },
+            {
+              "name": "مِقْسَمٍ",
+              "full_name": "مقسم بن بُجرة مولى ابن عباس",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-weakening"
+              ],
+              "details": "Acceptable but some scholars weakened him"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            },
+            {
+              "name": "مِقْسَمٍ",
+              "full_name": "مقسم بن بُجرة مولى ابن عباس",
+              "grade": "Saduq/Sadooq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-weakening"
+              ],
+              "details": "Acceptable but some scholars weakened him"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> مِقْسَمٍ -> مَعْمَرٍ -> قَتَادَةَ -> مِقْسَمٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah الحجر verse 95",
+        "Incident of the Mockers of Prophet Muhammad ﷺ and their Deaths"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 , عَنْ /26 قَتَادَةَ L6458 /26 , /26 وَعُثْمَانَ الْجَزَرِيِّ L41486 /26 , /27 عَنْ /26 مِقْسَمٍ L7655 /26 مَوْلَى ابْنِ عَبَّاسٍ ، فِي قَوْلِهِ تَعَالَى : /20 /4 إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ سورة الحجر آية 95 /4 , قَالَ : \" الْمُسْتَهْزِئُونَ \" : الْوَلِيدُ بْنُ الْمُغِيرَةِ , وَالْعَاصِ بْنُ وَائِلٍ , وَعَدِيُّ بْنُ قَيْسٍ , وَالأَسْوَدُ بْنُ عَبْدِ يَغُوثَ , وَالأَسْوَدُ بْنُ الْمُطَّلِبِ ، مَرُّوا رَجُلا عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَمَعَهُ /57 جِبْرِيلُ /57 , فَإِذَا مَرَّ رَجُلٌ مِنْهُمْ ، قَالَ لَهُ /57 جِبْرِيلُ /57 : كَيْفَ تَجِدُ هَذَا ؟ ، فَيَقُولُ : بِئْسَ عَبْدُ اللَّهِ , فَيَقُولُ /57 جِبْرِيلُ /57 : كَفَيْنَاكَهُ , فَأَمَّا الْوَلِيدُ بْنُ الْمُغِيرَةِ ، فَتَرَدَّى فَتَعَلَّقَ سَهْمٌ بِرِدَائِهِ ، فَذَهَبَ يَجْلِسُ فَقَطَعَ أَكْحَلَهُ فَنَزَفَ فَمَاتَ , وَأَمَّا الأَسْوَدُ بْنُ عَبْدِ يَغُوثَ ، فَأَتَى بِغُصْنٍ فِيهِ شَوْكٌ ، فَضَرَبَ بِهِ وَجْهَهُ فَسَالَتْ حَدَقَتَاهُ عَلَى وَجْهِهِ , فَكَانَ يَقُولُ : دَعَوْتُ عَلَى مُحَمَّدٍ دَعْوَةً ، وَدَعَا عَلَيَّ دَعْوَةً ، فَاسْتُجِيبَ لِي ، وَاسْتُجِيبَ لَهُ , دَعَا عَلَيَّ أَنْ أَعْمَى , فَعَمِيتُ ، وَدَعَوْتُ عَلَيْهِ أَنْ يَكُونَ وَحِيدًا طَرِيدًا فِي أَهْلِ /60 يَثْرِبَ /60 فَكَانَ كَذَلِكَ , وَأَمَّا الْعَاصُ بْنُ وَائِلٍ ، فَوَطِئَ عَلَى شَوْكَةٍ , فَتَسَاقَطَ لَحْمُهُ عَنْ عِظَامِهِ حَتَّى هَلَكَ , وَأَمَّا الأَسْوَدُ   @ 2 : 263 @    ابْنُ الْمُطَّلِبِ , وَعَدِيُّ بْنُ قَيْسٍ , فَإِنَّ أَحَدَهُمَا قَامَ مِنَ اللَّيْلِ , وَهُوَ ظَمْآنُ لِيَشْرَبَ مِنْ جَرَّةٍ , فَلَمْ يَزَلْ يَشْرَبُ حَتَّى تَفَتَّقَ بَطْنُهُ فَمَاتَ , وَأَمَّا الآخَرُ فَلَدَغَتْهُ حَيَّةٌ فَمَاتَ \" /27 * \r\n\bE250 \r\n$1429  1429 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1422
+    },
+    {
+      "hadith_id": 45265,
+      "book_id": 59,
+      "hadith_number": 1423,
+      "english_translation": "Narrated by ابْنِ عُيَيْنَةَ: [Statement or interpretation]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابْنِ عُيَيْنَةَ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Meccan narrator"
+            },
+            {
+              "name": "عَمْرِو بْنِ دِينَارٍ",
+              "full_name": "عمرو بن دينار الجمحي المكي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Meccan narrator"
+            },
+            {
+              "name": "عِكْرِمَةَ",
+              "full_name": "عكرمة مولى ابن عباس البربري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-maliki-criticism"
+              ],
+              "details": "Reliable in tafsir despite some criticism from Malikis"
+            },
+            {
+              "name": "ابْنِ عُيَيْنَةَ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Meccan narrator"
+            },
+            {
+              "name": "عَمْرِو بْنِ دِينَارٍ",
+              "full_name": "عمرو بن دينار الجمحي المكي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Meccan narrator"
+            },
+            {
+              "name": "عِكْرِمَةَ",
+              "full_name": "عكرمة مولى ابن عباس البربري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-maliki-criticism"
+              ],
+              "details": "Reliable in tafsir despite some criticism from Malikis"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابْنِ عُيَيْنَةَ -> عَمْرِو بْنِ دِينَارٍ -> عِكْرِمَةَ -> ابْنِ عُيَيْنَةَ -> عَمْرِو بْنِ دِينَارٍ -> عِكْرِمَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Tafsir of Surah الحجر verse 95",
+        "Incident of the Mockers of Prophet Muhammad ﷺ and their Deaths"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ عُيَيْنَةَ /94 , عَنْ /26 عَمْرِو بْنِ دِينَارٍ /26 , /27 عَنْ /26 عِكْرِمَةَ /26 : /20 /4 إِنَّا كَفَيْنَاكَ الْمُسْتَهْزِئِينَ سورة الحجر آية 95 /4 , قَالَ : \" هُمْ خَمْسَةٌ كُلُّهُمْ هَلَكَ قَبْلَ يَوْمِ بَدْرٍ الْعَاصِي بْنُ وَائِلٍ , وَالْوَلِيدُ بْنُ الْمُغِيرَةِ , وَأَبُو زَمْعَةَ بْنُ عَبْدِ الأَسَدِ , وَالْحَارِثُ بْنُ قَيْسِ بْنِ الطَّلاطِلَةِ , وَالأَسْوَدُ بْنُ عَبْدِ يَغُوثَ \" /27 * \r\n$1430  1430 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1423
+    },
+    {
+      "hadith_id": 45266,
+      "book_id": 59,
+      "hadith_number": 1424,
+      "english_translation": "Narrated by مَعْمَرٍ: Regarding the verse (Surah الحجر, verse 99), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> مَعْمَرٍ -> قَتَادَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah الحجر verse 99"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 حَتَّى يَأْتِيَكَ الْيَقِينُ سورة الحجر آية 99 /4 , قَالَ : \" الْيَقِينُ الْمَوْتُ \" /27 * \r\n@ 2 : 264 @\u001bE251",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1424
+    },
+    {
+      "hadith_id": 45267,
+      "book_id": 59,
+      "hadith_number": 1425,
+      "english_translation": "Narrated by مَعْمَرٍ: Regarding the verse (Surah النحل, verse 2), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> مَعْمَرٍ -> قَتَادَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah النحل verse 2"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 يُنَزِّلُ الْمَلائِكَةَ بِالرُّوحِ سورة النحل آية 2 /4 , قَالَ : \" بِالْوَحْيِ , وَالرَّحْمَةِ \" /27 * \r\n$1432  1432 /3",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1425
+    },
+    {
+      "hadith_id": 45268,
+      "book_id": 59,
+      "hadith_number": 1426,
+      "english_translation": "Narrated by إِسْرَائِيلَ: Regarding the verse (Surah النحل, verse 5), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "إِسْرَائِيلَ",
+              "full_name": "إسرائيل بن يونس بن أبي إسحاق السبيعي",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable Kufan narrator"
+            },
+            {
+              "name": "سِمَاكِ بْنِ حَرْبٍ",
+              "full_name": "سماك بن حرب بن أوس الذهلي",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-memory-issues"
+              ],
+              "details": "Generally acceptable with some memory concerns"
+            },
+            {
+              "name": "عِكْرِمَةَ",
+              "full_name": "عكرمة مولى ابن عباس البربري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-maliki-criticism"
+              ],
+              "details": "Reliable in tafsir despite some criticism from Malikis"
+            },
+            {
+              "name": "ابْنِ عَبَّاسٍ",
+              "full_name": "عبد الله بن عباس بن عبد المطلب الهاشمي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Great Companion, interpreter of Quran"
+            },
+            {
+              "name": "إِسْرَائِيلَ",
+              "full_name": "إسرائيل بن يونس بن أبي إسحاق السبيعي",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Reliable Kufan narrator"
+            },
+            {
+              "name": "سِمَاكِ بْنِ حَرْبٍ",
+              "full_name": "سماك بن حرب بن أوس الذهلي",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-memory-issues"
+              ],
+              "details": "Generally acceptable with some memory concerns"
+            },
+            {
+              "name": "عِكْرِمَةَ",
+              "full_name": "عكرمة مولى ابن عباس البربري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "some-maliki-criticism"
+              ],
+              "details": "Reliable in tafsir despite some criticism from Malikis"
+            },
+            {
+              "name": "ابْنِ عَبَّاسٍ",
+              "full_name": "عبد الله بن عباس بن عبد المطلب الهاشمي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Great Companion, interpreter of Quran"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "إِسْرَائِيلَ -> سِمَاكِ بْنِ حَرْبٍ -> عِكْرِمَةَ -> ابْنِ عَبَّاسٍ -> إِسْرَائِيلَ -> سِمَاكِ بْنِ حَرْبٍ -> عِكْرِمَةَ -> ابْنِ عَبَّاسٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf report (stops at Companion level)",
+          "impact": "Companion's statement, not directly from Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Tafsir of Surah النحل verse 5"
+      ],
+      "arabicText": "عَنْ /94 إِسْرَائِيلَ /94 , عَنْ /26 سِمَاكِ بْنِ حَرْبٍ /26 , عَنْ /26 عِكْرِمَةَ /26 , /27 عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 , فِي قَوْلِهِ تَعَالَى : /20 /4 لَكُمْ فِيهَا دِفْءٌ وَمَنَافِعُ سورة النحل آية 5 /4 , قَالَ : \" نَسْلُ كُلِّ دَابَّةٍ \" /27 * \r\n$1433  1433 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1426
+    },
+    {
+      "hadith_id": 45269,
+      "book_id": 59,
+      "hadith_number": 1427,
+      "english_translation": "Narrated by مَعْمَرٍ: Regarding the verse (Surah النحل, verse 6), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> مَعْمَرٍ -> قَتَادَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah النحل verse 6"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ سورة النحل آية 6 /4 , قَالَ : \" إِذَا رَاحَتْ ، كَأَعْظَمِ مَا تَكُونُ أَسْنِمَةً , وَأَحْسَنِ مَا تَكُونُ ضُرُوعًا \" /27 * \r\n@ 2 : 265 @ \r\n$1434  1434 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1427
+    },
+    {
+      "hadith_id": 45270,
+      "book_id": 59,
+      "hadith_number": 1428,
+      "english_translation": "Narrated by مَعْمَرٍ: Regarding the verse (Surah النحل, verse 7), he explained [interpretation of the verse].",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            },
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "details": "Highly reliable Basran narrator, student of Al-Zuhri"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "details": "Reliable but known mudallis, especially from Anas"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مَعْمَرٍ -> قَتَادَةَ -> مَعْمَرٍ -> قَتَادَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "قَتَادَةَ is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Requires explicit hearing term for full acceptance"
+        },
+        {
+          "issue": "Maqtu' report (stops at Tabi'i level, not from Prophet ﷺ)",
+          "impact": "This is scholarly opinion/interpretation, not prophetic hadith"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Tafsir of Surah النحل verse 7"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 , /27 عَنْ /26 قَتَادَةَ /26 , فِي قَوْلِهِ تَعَالَى : /20 /4 إِلا بِشِقِّ الأَنْفُسِ سورة النحل آية 7 /4 , قَالَ : \" بِجَهْدِ الأَنْفُسِ \" /27 * \r\n$1435  1435 /8",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1428
+    }
+  ]
+}

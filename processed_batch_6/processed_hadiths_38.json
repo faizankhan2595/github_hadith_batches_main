@@ -1,0 +1,230 @@
+{
+  "batch_number": 6,
+  "file_number": 38,
+  "total_hadiths": 3,
+  "skipped_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 45559,
+      "book_id": 59,
+      "hadith_number": 1718,
+      "english_translation": "Narrated by Qatadah: Jibril stayed away from the Prophet ﷺ, and when he came to him, the Prophet ﷺ had been waiting for him. So Jibril said to him: 'We do not descend except by the command of your Lord. To Him belongs what is before us and what is behind us' [Quran 19:64]. He (Qatadah) says: 'What is before us means in the Hereafter, and what is behind us means from this world, and what is between that means between the two trumpet blasts.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - Category 3 according to Ibn Hajar"]
+            }
+          ],
+          "chainIssues": [
+            "Chain is maqtu' - stops at Qatadah (a Tabi'i) without mentioning source",
+            "Qatadah uses 'an (عَنْ) and is known as a mudallis",
+            "No chain provided from Qatadah to the Prophet ﷺ - this is Qatadah's tafsir explanation"
+          ]
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة -> [DISCONNECTION - tafsir statement]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (Category 3 per Ibn Hajar) and uses 'an (عَنْ)",
+          "impact": "Qatadah's tadlis is significant. However, this is not a marfu' hadith but rather Qatadah's own tafsir explanation of the verse, so the tadlis issue is less critical here."
+        },
+        {
+          "issue": "This is a maqtu' narration (Qatadah's own explanation of Quran), not a marfu' hadith from the Prophet ﷺ",
+          "impact": "The narration is Qatadah's tafsir of the Quranic verse about why revelation was delayed. It includes reference to a known incident (Jibril staying away) but the interpretation is Qatadah's own. This is disconnected from prophetic authority."
+        },
+        {
+          "issue": "No chain provided from Qatadah back to the Prophet ﷺ or any companion who witnessed this event",
+          "impact": "Makes this a disconnected report. Following the grading rules, disconnections result in 'Weak But Might Be Acceptable' not 'Problematic'."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of revelation delay to the Prophet ﷺ",
+        "Jibril's explanation for delayed descent",
+        "Tafsir of Surah Maryam verse 64",
+        "Explanation of what is before and behind the angels",
+        "Time between the two trumpet blasts"
+      ],
+      "arabicText": "أرنا /94 مَعْمَرٌ /94 , /27 عَنْ /26 قَتَادَةَ /26 , قَالَ : /20 لَبِثَ جِبْرِيلُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , فَلَمَّا أَتَاهُ وَكَانَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَدِ اسْتَبْطَأَهُ ، فَقَالَ لَهُ /57 جِبْرِيلُ /57 : /4 وَمَا نَتَنَزَّلُ إِلا بِأَمْرِ رَبِّكَ سورة مريم آية 64 /4 ، /4 لَهُ مَا بَيْنَ أَيْدِينَا وَمَا خَلْفَنَا سورة مريم آية 64 /4 , يَقُولُ : \" مَا بَيْنَ أَيْدِينَا فِي الآخِرَةِ , وَمَا خَلْفَنَا مِنَ الدُّنْيَا , وَمَا بَيْنَ ذَلِكَ ، يَقُولُ : مَا بَيْنَ النَّفْخَتَيْنِ \" /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1718,
+      "grade": null
+    },
+    {
+      "hadith_id": 45562,
+      "book_id": 59,
+      "hadith_number": 1720,
+      "english_translation": "Qays said: Abdullah ibn Rawahah was lying with his head in his wife's lap, and he cried. His wife cried, so he said: 'What makes you cry?' She said: 'I saw you crying, so I cried.' He said: 'I remembered the saying of Allah: \"And there is none of you except he will come to it\" [Quran 19:71], and we do not know whether we will be saved from it or not.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابن عيينة",
+              "full_name": "سفيان بن عيينة الهلالي المكي",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": ["practiced minor tadlis with distant narrators"]
+            },
+            {
+              "name": "إسماعيل",
+              "full_name": "إسماعيل بن أبي خالد البجلي الكوفي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قيس",
+              "full_name": "قيس بن أبي حازم البجلي الكوفي",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن رواحة",
+              "full_name": "عبد الله بن رواحة الأنصاري الخزرجي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain uses 'an (عَنْ) multiple times",
+            "Ibn Uyaynah is known for minor tadlis but reliable",
+            "This is mawquf - a statement/incident from a companion, not from the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "ابن عيينة -> إسماعيل -> قيس -> عبد الله بن رواحة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Uyaynah practiced minor tadlis and uses an implied transmission here ('أرنا' which means 'narrated to us' but can sometimes be ambiguous)",
+          "impact": "Ibn Uyaynah is extremely reliable (Thiqah Thabt Hafiz) and his minor tadlis with certain narrators is well-documented. His narration from Isma'il is generally sound."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "While 'an is ambiguous, all narrators in this chain are reliable and not known for problematic tadlis. The use of 'an here is acceptable given their reliability."
+        },
+        {
+          "issue": "This is a mawquf narration (statement of companion Ibn Rawahah), not a marfu' hadith",
+          "impact": "The report documents Abdullah ibn Rawahah's reflection on the Quranic verse, not a direct prophetic statement. It is a historical incident about a companion."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Abdullah ibn Rawahah crying with his wife",
+        "Reflection on passing over/entering the Fire",
+        "Companion's fear of the Hereafter",
+        "Interpretation of Quranic verse 19:71",
+        "Emotional display of piety"
+      ],
+      "arabicText": "أرنا /94 ابْنُ عُيَيْنَةَ /94 , عَنْ /26 إِسْمَاعِيلَ /26 , عَنْ /26 قَيْسٍ /26 , قَالَ : /27 كَانَ /93 عَبْدُ اللَّهِ بْنُ رَوَاحَةَ L4808 /93 /20 وَاضِعًا رَأْسَهُ فِي حِجْرِ امْرَأَتِهِ , فَبَكَى ، فَبَكَتِ امْرَأَتُهُ , فَقَالَ \" مَا يُبْكِيكِ ؟ \" , قَالَتْ : رَأَيْتُكَ تَبْكِي ، فَبَكَيْتُ , فَقَالَ : \" إِنِّي ذَكَرْتُ قَوْلَ اللَّهِ : /4 وَإِنْ مِنْكُمْ إِلا وَارِدُهَا سورة مريم آية 71 /4 فَلا نَدْرِي أَنَنْجُو مِنْهَا ، أَمْ لا ؟ \" /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1720,
+      "grade": null
+    },
+    {
+      "hadith_id": 45563,
+      "book_id": 59,
+      "hadith_number": 1721,
+      "english_translation": "'Amr ibn Dinar said: Someone informed me who heard Ibn Abbas disputing with Nafi' ibn al-Azraq. Ibn Abbas said: 'Al-wurud (الورود) means entering.' Nafi' said: 'No.' So Ibn Abbas recited: 'Indeed, you and what you worship other than Allah are the firewood of Hell; you will be coming to it' [Quran 21:98]. 'Did these enter or not?' And he recited: 'He will precede his people on the Day of Resurrection and lead them into the Fire' [Quran 11:98]. 'Did these enter or not? As for me and you, we will enter it, so see whether you will be brought out from it or not. And I do not see Allah bringing you out from it because of your denial.' So Nafi' laughed, and Ibn Abbas said: 'Then what is the laughter for?'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابن عيينة",
+              "full_name": "سفيان بن عيينة الهلالي المكي",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": ["practiced minor tadlis with distant narrators"]
+            },
+            {
+              "name": "عمرو بن دينار",
+              "full_name": "عمرو بن دينار المكي الجمحي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَنْ (unknown narrator)",
+              "full_name": "Unknown narrator - not named",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": ["Unknown narrator - creates disconnection"]
+            },
+            {
+              "name": "ابن عباس",
+              "full_name": "عبد الله بن عباس بن عبد المطلب",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Contains an unnamed narrator (مَنْ - 'someone') between 'Amr ibn Dinar and Ibn Abbas",
+            "This creates a major disconnection in the chain",
+            "Ibn Uyaynah uses 'an with 'Amr ibn Dinar",
+            "This is mawquf - Ibn Abbas's own interpretation and debate, not from the Prophet ﷺ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "ابن عيينة -> عمرو بن دينار -> [UNKNOWN NARRATOR] -> ابن عباس"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains an unnamed narrator (مَنْ) between 'Amr ibn Dinar and Ibn Abbas, making this narrator Majhul (unknown)",
+          "impact": "A Majhul narrator creates significant weakness in the chain. The identity and reliability of this intermediary cannot be verified. This is a serious disconnection."
+        },
+        {
+          "issue": "The chain is disconnected due to the unknown link",
+          "impact": "Following grading rules, disconnections lead to 'Weak But Might Be Acceptable' grade, not 'Problematic' (which is reserved for liars)."
+        },
+        {
+          "issue": "This is a mawquf narration documenting Ibn Abbas's debate with Nafi' ibn al-Azraq about Quranic interpretation",
+          "impact": "This is not a marfu' hadith. It records Ibn Abbas's scholarly opinion and his debate, which is valuable for tafsir but not prophetic authority."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Debate between Ibn Abbas and Nafi' ibn al-Azraq",
+        "Interpretation of the word 'wurud' (entering/passing over Hellfire)",
+        "Ibn Abbas's method of Quranic exegesis using Quran to interpret Quran",
+        "Incident of scholarly dispute about meaning of Quranic verse",
+        "Discussion of whether all people will enter or pass over the Fire"
+      ],
+      "arabicText": "أرنا /94 ابْنُ عُيَيْنَةَ /94 , عَنْ /26 عَمْرِو بْنِ دِينَارٍ /26 , قَالَ : أَخْبَرَنِي /18 /26 مَنْ /26 /18 , /27 سَمِعَ /93 ابْنَ عَبَّاسٍ L4883 /93 ، يُخَاصِمُ نَافِعَ بْنَ الأَزْرَقِ , فَقَالَ ابْنُ عَبَّاسٍ : /20 \" الْوُرُودُ : الدُّخُولُ \" , فَقَالَ نَافِعٌ : لا , قَالَ : فَقَرَأَ ابْنُ عَبَّاسٍ : /4 إِنَّكُمْ وَمَا تَعْبُدُونَ مِنْ دُونِ اللَّهِ حَصَبُ جَهَنَّمَ أَنْتُمْ لَهَا وَارِدُونَ سورة الأنبياء آية 98 /4 , \" أَوَرَدَ هَؤُلاءِ ، أَمْ لا ؟ \" وَقَرَأَ : /4 يَقْدُمُ قَوْمَهُ يَوْمَ الْقِيَامَةِ فَأَوْرَدَهُمُ النَّارَ سورة هود آية 98 /4 أَوَرَدَ هَؤُلاءِ ، أَمْ لا ؟ أَمَّا أَنَا ، وَأَنْتَ فَسَنَدْخُلُهَا , فَانْظُرْ هَلْ تُخْرَجُ مِنْهَا ، أَمْ لا ؟ وَمَا أَرَى اللَّهَ مُخْرِجَكَ مِنْهَا لِتَكْذِيبِكَ \" ، قَالَ : فَضَحِكَ نَافِعٌ , فَقَالَ ابْنُ عَبَّاسٍ : \" فَفِيمَ الضَّحِكُ إِذًا ؟ \" /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1721,
+      "grade": null
+    }
+  ]
+}

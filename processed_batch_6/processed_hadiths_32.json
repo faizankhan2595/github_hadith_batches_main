@@ -1,0 +1,708 @@
+{
+  "batch_number": 6,
+  "file_number": 32,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45466,
+      "book_id": 59,
+      "hadith_number": 1624,
+      "english_translation": "عُرْوَةَ said: ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "عُرْوَةَ",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عَائِشَةَ",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Urwah ibn al-Zubayr ibn al-Awwam -> Aisha bint Abi Bakr al-Siddiq"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 2 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "قَالَ : أَخْبَرَنَا مَعْمَرٌ , عَنِ الزُّهْرِيِّ , عَنْ عُرْوَةَ , عَنْ عَائِشَةَ , قَالَتْ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" خُلِقَتِ الْمَلائِكَةُ مِنْ نُورٍ , وَخُلِقَ الْجَانُّ مِنْ مَارِجٍ مِنْ نَارٍ , وَخُلِقَ آدَمُ مِمَّا وُصِفَ لَكُمْ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1624,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45467,
+      "book_id": 59,
+      "hadith_number": 1625,
+      "english_translation": ": said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنِ الْكَلْبِيِّ ، فِي قَوْلِهِ تَعَالَى : مِنْ سُنْدُسٍ وَإِسْتَبْرَقٍ سورة الكهف آية 31 , قَالَ : \" الإِسْتَبْرَقُ هُوَ : الدِّيبَاجُ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1625,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 45468,
+      "book_id": 59,
+      "hadith_number": 1626,
+      "english_translation": ": said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنِ الْكَلْبِيِّ ، فِي قَوْلِهِ تَعَالَى : عَلَى الأَرَائِكِ سورة الكهف آية 31 , قَالَ : \" عَلَى السُّرُرِ فِي الْحِجَالِ \" ، قَالَ قَتَادَةُ : \" هِيَ الْحِجَالُ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1626,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 45469,
+      "book_id": 59,
+      "hadith_number": 1627,
+      "english_translation": "هَمَّامِ بْنِ مُنَبِّهٍ said: ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "أَبَا هُرَيْرَةَ",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "reliabilityIssues": [],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Abd al-Rahman ibn Sakhr al-Dawsi"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ هَمَّامِ بْنِ مُنَبِّهٍ , قَالَ : سَمِعْتُ أَبَا هُرَيْرَةَ , يَقُولُ : قَال أَبُو الْقَاسِمِ عَلَيْهِ الصَّلاةُ وَالسَّلامُ : \" أَوَّلُ زُمْرَةٍ تَلِجُ الْجَنَّةَ , وُجُوهُهُمْ عَلَى صُورَةِ الْقَمَرِ لَيْلَةَ الْبَدْرِ لا يَمْتَخِطُونَ , وَلا يَبْصُقُونَ , وَلا يَتَغَوَّطُونَ , آنِيَتُهُمْ , وَأَمْشَاطُهُمْ مِنَ الذَّهَبِ ، وَالْفِضَّةِ , وَمَجَامِرُهُمُ الأَلُوَّةُ , وَرَشْحُهُمُ الْمِسْكُ ، لِكُلِّ امْرِئٍ مِنْهُمْ زَوْجَتَانِ ، يُرَى مُخُّ سَاقِهَا مِنْ وَرَاءِ اللَّحْمِ مِنَ الْحُسْنِ , لا اخْتِلافَ بَيْنَهُمْ ، وَلا تَبَاغُضَ , قُلُوبُهُمْ عَلَى قَلْبٍ وَاحِدٍ ، يُسَبِّحُونَ اللَّهَ بُكْرَةً وَعَشِيًّا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1627,
+      "grade": "Questionable But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45470,
+      "book_id": 59,
+      "hadith_number": 1628,
+      "english_translation": "أَبِيهِ said: ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "ابْنِ طَاوُسٍ",
+              "full_name": "Abdullah ibn Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Abdullah ibn Tawus ibn Kaysan al-Yamani -> Tawus ibn Kaysan al-Yamani"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 2 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ , قَالَ : \" أَهْلُ الْجَنَّةِ يَنْكِحُونَ النِّسَاءَ لا يَلِدْنَ , وَلَيْسَ فِيهَا مَنِيٌّ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1628,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45471,
+      "book_id": 59,
+      "hadith_number": 1629,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ : حُسْبَانًا مِنَ السَّمَاءِ سورة الكهف آية 40 , قَالَ : \" عَذَابًا مِنَ السَّمَاءِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1629,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45472,
+      "book_id": 59,
+      "hadith_number": 1630,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : وَأُحِيطَ بِثَمَرِهِ سورة الكهف آية 42 , قَالَ : \" الثَّمَرُ مِنَ الْمَالِ كُلِّهِ , يَعْنِي الثَّمَرَ , وَغَيْرَهُ مِنَ الْمَالِ كُلِّهِ \" * E290",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1630,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45473,
+      "book_id": 59,
+      "hadith_number": 1631,
+      "english_translation": "رَجُلٍ said: ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "رَجُلٍ",
+              "full_name": "Unknown narrator",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "reliabilityIssues": [
+                "completely unknown"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Mujahid ibn Jabr al-Makki -> Unknown narrator"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator(s) in the chain",
+          "impact": "Unknown narrators weaken the chain as their reliability cannot be established"
+        },
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 2 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "أرنا الثَّوْرِيُّ , عَنْ رَجُلٍ , عَنْ مُجَاهِدٍ , وَكَانَ لَهُ ثَمَرٌ , قَالَ : \" الذَّهَبُ ، وَالْفِضَّةُ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1631,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 45474,
+      "book_id": 59,
+      "hadith_number": 1632,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف",
+        "Angels and their Creation",
+        "Story of Iblis"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : إِلا إِبْلِيسَ كَانَ مِنَ الْجِنِّ سورة الكهف آية 50 , قَالَ : \" مِنْ قَبِيلٍ مِنَ الْمَلائِكَةِ ، يُقَالُ لَهُمُ : الْجِنُّ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1632,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45475,
+      "book_id": 59,
+      "hadith_number": 1633,
+      "english_translation": "مَعْمَرٍ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : مَوْبِقًا سورة الكهف آية 52 , قَالَ : \" هَلاكًا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1633,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45476,
+      "book_id": 59,
+      "hadith_number": 1634,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : مُتَّخِذَ الْمُضِلِّينَ عَضُدًا سورة الكهف آية 51 , قَالَ : \" أَعْوَانًا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1634,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45477,
+      "book_id": 59,
+      "hadith_number": 1635,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : فَظَنُّوا أَنَّهُمْ مُوَاقِعُوهَا سورة الكهف آية 53 , قَالَ : \" عَلِمُوا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1635,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45478,
+      "book_id": 59,
+      "hadith_number": 1636,
+      "english_translation": "عَلِيِّ بْنِ حُسَيْنٍ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنِ الزُّهْرِيِّ ، عَنْ عَلِيِّ بْنِ حُسَيْنٍ , قَالَ : \" دَخَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى عَلِيٍّ ، وَفَاطِمَةَ ، وَهُمَا نَائِمَانِ , فَقَالَ : \" أَلا تُصَلُّونَ ؟ \" , فَقَالَ عَلِيٌّ : يَا رَسُولَ اللَّهِ ، إِنَّمَا أَنْفُسُنَا بِيَدِ اللَّهِ , فَإِذَا شَاءَ أَنْ يَبْعَثَهَا بَعَثَهَا , فَانْصَرَفَ عَنْهُمْ وَهُوَ يَقُولُ : وَكَانَ الإِنْسَانُ أَكْثَرَ شَيْءٍ جَدَلا سورة الكهف آية 54 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1636,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 45479,
+      "book_id": 59,
+      "hadith_number": 1637,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ : مَوْئِلا سورة الكهف آية 58 , قَالَ : \" مَلْجَأً \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1637,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45480,
+      "book_id": 59,
+      "hadith_number": 1638,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الكهف"
+      ],
+      "arabicText": "أنا مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : مَجْمَعَ الْبَحْرَيْنِ سورة الكهف آية 60 , قَالَ : \" فَارِسُ , وَبَحْرُ الرُّومِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1638,
+      "grade": "Acceptable"
+    }
+  ]
+}

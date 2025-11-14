@@ -1,0 +1,175 @@
+{
+  "batch_number": 6,
+  "file_number": 39,
+  "total_hadiths": 2,
+  "skipped_count": 13,
+  "hadiths": [
+    {
+      "hadith_id": 45574,
+      "book_id": 59,
+      "hadith_number": 1732,
+      "english_translation": "Narrated by Aisha: The most hated of men to the Messenger of Allah was the one who is fierce in disputation.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن جريج",
+              "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - Category 3 according to Ibn Hajar, requires explicit hearing terms"]
+            },
+            {
+              "name": "ابن أبي مليكة",
+              "full_name": "عبد الله بن عبيد الله بن أبي مليكة",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "عائشة بنت أبي بكر الصديق",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn Jurayj is a known mudallis (Category 3) and uses 'an (عَنْ)",
+            "Multiple uses of 'an throughout the chain",
+            "Ibn Abi Mulaykah's hearing from Aisha needs verification given the 'an usage"
+          ]
+        }
+      ],
+      "plainChains": [
+        "معمر -> ابن جريج -> ابن أبي مليكة -> عائشة -> النبي ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj (ابن جريج) is classified as a mudallis (Category 3 per Ibn Hajar) and uses the ambiguous term 'an (عَنْ)",
+          "impact": "Ibn Jurayj's tadlis is significant (Category 3), and he requires explicit hearing terms for full acceptance. His use of 'an here creates uncertainty about whether he heard directly from Ibn Abi Mulaykah. Despite his being Thiqah, this tadlis with 'an affects reliability."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "The accumulation of 'an usage, especially from a known mudallis like Ibn Jurayj, reduces confidence in the chain's continuity."
+        },
+        {
+          "issue": "Ibn Abi Mulaykah's connection to Aisha also uses 'an",
+          "impact": "While Ibn Abi Mulaykah is Thiqah and not known for tadlis, the combined effect of multiple 'an terms in the chain creates cumulative ambiguity."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Character traits disliked by the Prophet ﷺ",
+        "Disapproval of excessive argumentation",
+        "Description of al-aladd al-khasm (fierce disputant)",
+        "Prophetic preferences in human conduct",
+        "Avoidance of contentious debate"
+      ],
+      "arabicText": "أرنا /94 مَعْمَرٌ /94 , عَنِ /26 ابْنِ جُرَيْجٍ /26 , عَنِ /26 ابْنِ أَبِي مُلَيْكَةَ /26 , /27 عَنْ /93 عَائِشَةَ L4049 /93 , قَالَتْ : /20 \" كَانَ أَبْغَضَ الرِّجَالِ إِلَى رَسُولِ اللَّهِ ، الأَلَدُّ الْخَصِمُ \" /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1732,
+      "grade": null
+    },
+    {
+      "hadith_id": 45576,
+      "book_id": 59,
+      "hadith_number": 1734,
+      "english_translation": "Masruq said: Khabbab ibn al-Aratt said: 'I was a young man, and I used to work for al-'As ibn Wa'il. Money was owed to me by him, so I came to collect my debt.' He said: 'I will not pay you until you disbelieve in Muhammad.' I said: 'I will not disbelieve in Muhammad until you die and then are resurrected.' He said: 'If I am resurrected, I will have wealth and children.' He said: 'So I mentioned that to the Messenger of Allah ﷺ,' and Allah the Exalted revealed: 'Have you seen he who disbelieved in Our verses and said, I will surely be given wealth and children?' [Quran 19:77] up to His saying: 'And will come to Us alone' [Quran 19:80].",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "سفيان بن سعيد الثوري الكوفي",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الأعمش",
+              "full_name": "سليمان بن مهران الأعمش الكوفي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - Category 2, generally acceptable even with 'an"]
+            },
+            {
+              "name": "أبو الضحى",
+              "full_name": "مسلم بن صبيح الهمداني الكوفي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مسروق",
+              "full_name": "مسروق بن الأجدع الهمداني الكوفي",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "خباب بن الأرت",
+              "full_name": "خباب بن الأرت التميمي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Al-A'mash is a mudallis (Category 2) and uses 'an (عَنْ)",
+            "Multiple uses of 'an throughout the chain",
+            "However, Al-A'mash's Category 2 tadlis is generally acceptable even with 'an"
+          ]
+        }
+      ],
+      "plainChains": [
+        "الثوري -> الأعمش -> أبو الضحى -> مسروق -> خباب بن الأرت -> النبي ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-A'mash (الأعمش) is classified as a mudallis (Category 2 per Ibn Hajar) and uses 'an (عَنْ)",
+          "impact": "Al-A'mash's tadlis is Category 2, which means it is generally acceptable even when he uses 'an. Category 2 mudallisun are those whose tadlis is minimal and does not significantly affect acceptance. Therefore, this does not substantially weaken the hadith."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "While 'an is used multiple times, all narrators are reliable (Thiqah or better) and none besides Al-A'mash is known for problematic tadlis. The cumulative effect is minimal given their reliability."
+        },
+        {
+          "issue": "The narration includes both historical dialogue and mention of revelation, creating a complex narrative structure",
+          "impact": "This is a well-known incident documented in the books of tafsir. The chain is strong with all reliable narrators. The complexity of the narrative does not affect the chain's integrity."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Incident of Khabbab ibn al-Aratt seeking payment from al-'As ibn Wa'il",
+        "Al-'As ibn Wa'il's arrogant claim about resurrection",
+        "Context of revelation for Surah Maryam verses 77-80",
+        "Story of early Muslim persecution in Makkah",
+        "Steadfastness of Khabbab in faith despite economic pressure",
+        "Quranic response to disbelievers' claims about afterlife"
+      ],
+      "arabicText": "/40 أرنا /94 الثَّوْرِيُّ L3436 /94 , عَنِ /26 الأَعْمَشِ L3629 /26 , عَنْ /26 أَبِي الضُّحَى L7469 /26 ، عَنْ /26 مَسْرُوقٍ L7430 /26 , قَالَ : /27 قَالَ /93 خَبَّابُ بْنُ الأَرَتِّ L2698 /93 : /20 \" كُنْتُ فَتِيًّا ، وَكُنْتُ أَعْمَلُ لِلْعَاصِ بْنِ وَائِلٍ , فَاجْتَمَعَتْ عَلَيْهِ دَرَاهِمُ فَجِئْتُ لأَتَقَاضَاهُ \" , فَقَالَ : لا أَقْضِيكَ حَتَّى تَكْفُرَ بِمُحَمَّدٍ قَالَ : قُلْتُ : \" لا أَكْفُرُ بِمُحَمَّدٍ حَتَّى تَمُوتَ , ثُمَّ تُبْعَثَ \" , قَالَ : فَإِذَا بُعِثْتُ كَانَ لِي مَالٌ وَوَلَدٌ , قَالَ : \" فَذَكَرْتُ ذَلِكَ لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" ، فَأَنْزَلَ اللَّهُ تَعَالَى : /4 أَفَرَأَيْتَ الَّذِي كَفَرَ بِآيَاتِنَا وَقَالَ لأُوتَيَنَّ مَالا سورة مريم آية 77 /4 إِلَى قَوْلِهِ : /4 وَيَأْتِينَا فَرْدًا سورة مريم آية 80 /4 /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1734,
+      "grade": null
+    }
+  ]
+}

@@ -1,0 +1,711 @@
+{
+  "batch_number": 6,
+  "file_number": 29,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45421,
+      "book_id": 59,
+      "hadith_number": 1579,
+      "english_translation": "مَعْمَرٌ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "الْحَسَنُ",
+              "full_name": "Al-Hasan ibn Abi al-Hasan al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [
+                "known for mursal reports"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Al-Hasan ibn Abi al-Hasan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator known for mursal reports",
+          "impact": "Potential disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الأعراف",
+        "Story of Prophet Musa"
+      ],
+      "arabicText": "قَالَ مَعْمَرٌ ، وَقَالَ الْحَسَنُ : وَلَقَدْ أَخَذْنَا آلَ فِرْعَوْنَ بِالسِّنِينَ وَنَقْصٍ مِنَ الثَّمَرَاتِ سورة الأعراف آية 130 , قَالَ : \" هَذِهِ آيَةٌ وَاحِدَةٌ , وَالطُّوفَانُ , وَالْجَرَادُ , وَالْقُمَّلُ , وَالضَّفَادِعُ , وَالدَّمُ ، وَيَدُ مُوسَى ، وَعَصَا مُوسَى إِذْ أَلْقَاهَا فَإِذَا هِيَ ثُعْبَانٌ مُبِينٌ , وَإِذْ أَلْقَاهَا فَإِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1579,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45422,
+      "book_id": 59,
+      "hadith_number": 1580,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٍ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ : مَثْبُورًا سورة الإسراء آية 102 , قَالَ : \" مُهْلَكًا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1580,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45423,
+      "book_id": 59,
+      "hadith_number": 1581,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : جِئْنَا بِكُمْ لَفِيفًا سورة الإسراء آية 104 , قَالَ : \" جَمِيعًا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1581,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45424,
+      "book_id": 59,
+      "hadith_number": 1582,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَقُرْءَانًا فَرَقْنَاهُ سورة الإسراء آية 106 , قَالَ : \" نَزَلَ مُتَفَرِّقًا ، وَلَمْ يَنْزِلْ جَمْعًا ، وَكَانَ بَيْنَ أَوَّلِهِ ، وَآخِرِهِ نَحْوٌ مِنْ عِشْرِينَ سَنَةً \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1582,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45425,
+      "book_id": 59,
+      "hadith_number": 1583,
+      "english_translation": "عُبَيْدٍ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Mujahid ibn Jabr al-Makki"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 1 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا الثَّوْرِيُّ , عَنْ عُبَيْدٍ ، عَنْ مُجَاهِدٍ , فِي قَوْلِهِ تَعَالَى : لِتَقْرَأَهُ عَلَى النَّاسِ عَلَى مُكْثٍ سورة الإسراء آية 106 , قَالَ : \" عَلَى تُؤَدَةٍ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1583,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45426,
+      "book_id": 59,
+      "hadith_number": 1584,
+      "english_translation": "مُجَاهِدٍ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مُجَاهِدٍ",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Mujahid ibn Jabr al-Makki"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 1 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا الثَّوْرِيُّ أَيْضًا , قَالَ : أَخْبَرَنِي مَنْصُورٌ ، عَنْ مُجَاهِدٍ , فِي قَوْلِهِ تَعَالَى : وَنَزَّلْنَاهُ تَنْزِيلا سورة الإسراء آية 106 , قَالَ : \" بَعْضُهُ عَلَى إِثْرِ بَعْضٍ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1584,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45427,
+      "book_id": 59,
+      "hadith_number": 1585,
+      "english_translation": ": said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابْنُ جُرَيْجٍ",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "أَخْبَرَنَا"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Exegesis of Surah الفرقان"
+      ],
+      "arabicText": "أرنا ابْنُ جُرَيْجٍ , قَالَ : قُلْتُ لِعَطَاءٍ : مَا قَوْلُهُ تَعَالَى : وَرَتَّلْنَاهُ تَرْتِيلا سورة الفرقان آية 32 ؟ , قَالَ : \" الطَّرْحُ : هُوَ النَّبْذُ ، فَإِذَا هُوَ لا يُوجِبُ التَّرْتِيلَ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1585,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 45428,
+      "book_id": 59,
+      "hadith_number": 1586,
+      "english_translation": "أَبِيهِ said: ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابْنُ جُرَيْجٍ",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "أَخْبَرَنِي"
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki -> Tawus ibn Kaysan al-Yamani"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 1 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "وَأَخْبَرَنِي ابْنُ جُرَيْجٍ ، قَالَ : وَأَخْبَرَنِي ابْنُ طَاوُسٍ , عَنْ أَبِيهِ , قَالَ : \" التَّرْتِيلُ تَبْيِينُهُ حَتَّى تُفْهِمَهُ \" * E281",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1586,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45429,
+      "book_id": 59,
+      "hadith_number": 1587,
+      "english_translation": "بَعْضِ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنِي"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أَخْبَرَنِي مَعْمَرٌ , قَالَ : أَخْبَرَنِي سِمَاكُ بْنُ الْفَضْلِ , عَنْ بَعْضِ أَهْلِ الْمَدِينَةِ ، فِي قَوْلِهِ تَعَالَى : وَلا تَجْهَرْ بِصَلاتِكَ سورة الإسراء آية 110 , قَالَ : \" هِيَ مَنْسُوخَةٌ نَسَخَهَا \" قَوْلُهُ تَعَالَى : وَاذْكُرْ رَبَّكَ فِي نَفْسِكَ سورة الأعراف آية 205 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1587,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45430,
+      "book_id": 59,
+      "hadith_number": 1588,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "الْحَسَنُ",
+              "full_name": "Al-Hasan ibn Abi al-Hasan al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [
+                "known for mursal reports"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri -> Al-Hasan ibn Abi al-Hasan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        },
+        {
+          "issue": "Narrator known for mursal reports",
+          "impact": "Potential disconnection in the chain"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : يَخِرُّونَ لِلأَذْقَانِ سورة الإسراء آية 107 , قَالَ : \" لِلْوُجُوهِ \" ، وَقَالَ مَعْمَرٌ : وَقَالَ الْحَسَنُ : \" لِلِّحَى \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1588,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45431,
+      "book_id": 59,
+      "hadith_number": 1589,
+      "english_translation": "قَتَادَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "mudallis category 3"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Qatadah ibn Di'amah al-Sadusi al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah ibn Di'amah al-Sadusi al-Basri is a known mudallis (category 3) and uses the ambiguous term 'عَنْ'",
+          "impact": "This creates uncertainty about whether direct hearing occurred, though the narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ قَتَادَةَ , فِي قَوْلِهِ : وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا سورة الإسراء آية 110 , قَالَ : \" كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَرْفَعُ صَوْتَهُ فِي الصَّلاةِ فَيُرْمَى بِالْخَبَثِ \" , فَقَالَ : \" لا تَرْفَعْ صَوْتَكَ فَتُؤْذَى ، وَلا تُخَافِتْ , وَابْتَغِ بَيْنَ ذَلِكَ سَبِيلا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1589,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45432,
+      "book_id": 59,
+      "hadith_number": 1590,
+      "english_translation": "هِشَامِ بْنِ عُرْوَةَ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "هِشَامِ بْنِ عُرْوَةَ",
+              "full_name": "Hisham ibn Urwah ibn al-Zubayr",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "some criticized his later narrations in Iraq"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عُرْوَةَ",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Tawus ibn Kaysan al-Yamani -> Hisham ibn Urwah ibn al-Zubayr -> Urwah ibn al-Zubayr ibn al-Awwam"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 3 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنْ هِشَامِ بْنِ عُرْوَةَ , عَنْ أَبِيهِ , فِي قَوْلِهِ : وَلا تَجْهَرْ بِصَلاتِكَ وَلا تُخَافِتْ بِهَا سورة الإسراء آية 110 , قَالَ : \" فِي الدُّعَاءِ \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1590,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45433,
+      "book_id": 59,
+      "hadith_number": 1591,
+      "english_translation": "مَعْمَرٌ said: ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "الْحَسَنُ",
+              "full_name": "Al-Hasan ibn Abi al-Hasan al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [
+                "known for mursal reports"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Al-Hasan ibn Abi al-Hasan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator known for mursal reports",
+          "impact": "Potential disconnection in the chain"
+        },
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 1 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "قَالَ مَعْمَرٌ : وَكَانَ الْحَسَنُ , يَقُولُ : \" لا تُحْسِنْ عَلانِيَتَهَا ، وَتُسِئْ سَرِيرَتَهَا \" *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1591,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45434,
+      "book_id": 59,
+      "hadith_number": 1592,
+      "english_translation": "أَبِيهِ said: Regarding the interpretation of the Quranic verse...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مَعْمَرٌ",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "ابْنِ طَاوُسٍ",
+              "full_name": "Abdullah ibn Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar ibn Rashid al-Azdi al-Basri -> Abdullah ibn Tawus ibn Kaysan al-Yamani -> Tawus ibn Kaysan al-Yamani"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of ambiguous transmission term 'an (عَنْ) - 2 occurrence(s)",
+          "impact": "While 'an is generally acceptable from non-mudallis narrators, it is less explicit than haddathana or sami'tu"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Exegesis of Surah الإسراء"
+      ],
+      "arabicText": "أرنا مَعْمَرٌ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ , قَالَ : لِدُلُوكِ الشَّمْسِ سورة الإسراء آية 78 \" غُرُوبُهَا \" , إِلَى غَسَقِ اللَّيْلِ سورة الإسراء آية 78 : \" الْمَغْرِبُ \" ، وَقُرْءَانَ الْفَجْرِ سورة الإسراء آية 78 : \" صَلاةُ الْفَجْرِ \" , وَقَوْلُهُ : كَانَ مَشْهُودًا سورة الإسراء آية 78 , \" تَجْتَمِعُ فِيهِ مَلائِكَةُ اللَّيْلِ ، وَمَلائِكَةُ النَّهَارِ فِي صَلاةِ الْفَجْرِ , ثُمَّ يَصْعَدُونَ , فَيَقُولُونَ : نَقَصَ فُلانٌ مِنْ صَلاتِهِ الرُّبُعَ , وَنَقَصَ فُلانٌ الشَّطْرَ , وَيَقُولُونَ : زَادَ فُلانٌ كَذَا وَكَذَا \" * E282",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1592,
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 45435,
+      "book_id": 59,
+      "hadith_number": 1593,
+      "english_translation": ": said: ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis"
+      ],
+      "arabicText": "أَخْبَرَنِي بَكَّارٌ , قَالَ : سَمِعْتُ وَهْبَ بْنَ مُنَبِّهٍ يُحَدِّثُ ، أَنَّ بُخْتَنَصَّرَ ، مُسِخَ أَسَدًا ، فَكَانَ مَلِكَ السِّبَاعِ , ثُمَّ مُسِخَ نَسْرًا ، فَكَانَ مَلِكَ الطَّيْرِ , ثُمَّ مُسِخَ ثَوْرًا ، فَكَانَ مَلِكَ الدَّوَابِ , وَقَالَ : هُوَ يَعْقِلُ فِي ذَلِكَ عَقْلَ الإِنْسَانِ , وَكَانَ مُلْكُهُ قَائِمًا يُدَبَّرُ لَهُ ، ثُمَّ رَدَّ اللَّهُ رُوحَهُ , فَدَعَا النَّاسَ إِلَى تَوْحِيدِ اللَّهِ , وَقَالَ : إِنَّ كُلَّ إِلَهٍ بَاطِلٌ ، إِلا إِلَهَ السَّمَاءِ , قَالَ : فَقِيلَ لِوَهْبِ بْنِ مُنَبِّهٍ : أَمُؤْمَنٌ مَاتَ ؟ ، قَالَ : وَجَدْتُ أَهْلَ الْكِتَابِ قَدِ اخْتَلَفُوا فِيهِ , فَقَالَ بَعْضُهُمْ : قَدْ آمَنَ قَبْلَ أَنْ يَمُوتَ , وَقَالَ بَعْضُهُمْ : قَتَلَ الأَنْبِيَاءَ ، وَحَرَّقَ الْكُتُبَ ، وَخَرَّبَ بَيْتَ الْمَقْدِسِ ، فَلَمْ تُقْبَلْ مِنْهُ التَّوْبَةُ \" * !E283",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1593,
+      "grade": "Sound"
+    }
+  ]
+}

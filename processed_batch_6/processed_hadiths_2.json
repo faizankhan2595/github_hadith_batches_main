@@ -1,0 +1,820 @@
+{
+  "batch_number": 6,
+  "file_number": 2,
+  "processed_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45016,
+      "book_id": 59,
+      "english_translation": "'Ikrimah said: The mentioned statement.",
+      "arabicText": "نا سَلَمَةُ , عَنْ إِبْرَاهِيمَ بْنِ الْحَكَمِ , قَالَ : حَدَّثَنِي أَبِي , عَنْ عِكْرِمَةَ , فِي قَوْلِهِ : فَضَحِكَتْ سورة هود آية 71 , قَالَ : حَاضَتْ * 2 : 190 1182 1182",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah mawla Ibn 'Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "criticized by Malik"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "'Ikrimah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ]
+    },
+    {
+      "hadith_id": 45017,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Explanation of the mentioned Quranic verse.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : هَؤُلاءِ بَنَاتِي هُنَّ أَطْهَرُ لَكُمْ سورة هود آية 78 , قَالَ : أَمَرَهُمْ لُوطٌ أَنْ يَتَزَوَّجُوا مِنَ النِّسَاءِ , وَقَالَ : هُنَّ أَطْهُرُ لَكُمْ , قَالَ مَعْمَرٌ : وَبَلَغَنِي مِثْلُ ذَلِكَ , عَنْ مُجَاهِدٍ * 1183 1183",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            },
+            {
+              "name": "Mujahid",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "Contains balaghani (بَلَغَنِي) - disconnected transmission",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> Mujahid"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "Contains balaghani (بَلَغَنِي) - disconnected transmission",
+          "impact": "This is a mursal/disconnected report, not connected chain to source"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Hud"
+      ]
+    },
+    {
+      "hadith_id": 45018,
+      "book_id": 59,
+      "english_translation": "Qatadah said: The mentioned statement.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , قَالَ : كُنْتُ عِنْدَ الْحَسَنِ , فَقَالَ : وَنَادَى نُوحٌ ابْنَهُ سورة هود آية 42 ، لَعَمْرُ اللَّهِ مَا هُوَ ابْنُهُ ، قَالَ : قُلْتُ : يَا أَبَا سَعِيدٍ , يَقُولُ اللَّهُ تَعَالَى : وَنَادَى نُوحٌ ابْنَهُ سورة هود آية 42 , وَتَقُولُ : لَيْسَ بِابْنِهِ ، قَالَ : أَفَرَأَيْتَ قَوْلَهُ : إِنَّهُ لَيْسَ مِنْ أَهْلِكَ سورة هود آية 46 ؟ , قَالَ : قُلْتُ : إِنَّهُ لَيْسَ مِنْ أَهْلِكِ الَّذِينَ وَعَدْتُكَ أَنْ أُنَجِّيَهُمْ مَعَكَ , وَلا يَخْتَلِفُ أَهْلُ الْكِتَابِ أَنَّهُ ابْنُهُ , قَالَ : إِنَّ أَهْلَ الْكِتَابِ يَكْذِبُونَ * 2 : 191 1184 1184",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            },
+            {
+              "name": "al-Hasan al-Basri",
+              "full_name": "al-Hasan ibn Abi al-Hasan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mursal reports"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> al-Hasan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Debate about Prophet Nuh's son",
+        "Incident between Qatadah and al-Hasan al-Basri"
+      ]
+    },
+    {
+      "hadith_id": 45019,
+      "book_id": 59,
+      "english_translation": "Qatadah said: The mentioned statement.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ ، وَغَيْرِهِ ، عَنْ عِكْرِمَةَ , عَنِ ابْنِ عَبَّاسٍ , قَالَ : هُوَ ابْنُهُ ، غَيْرَ أَنَّهُ خَالَفَهُ فِي الْعَمَلِ وَالنِّيَّةِ * 1185 1185",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            },
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah mawla Ibn 'Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "criticized by Malik"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> 'Ikrimah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ]
+    },
+    {
+      "hadith_id": 45020,
+      "book_id": 59,
+      "english_translation": "'Ikrimah said: The mentioned statement.",
+      "arabicText": "قَالَ : وَقَالَ عِكْرِمَةُ : فِي بَعْضِ الْحُرُوفِ ، أَنَّهُ عَمِلَ عَمَلا غَيْرَ صَالِحٍ , فَالْخِيَانَةُ تَكُونُ عَلَى غَيْرِ بَابٍ * 1186 1186",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah mawla Ibn 'Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "criticized by Malik"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "'Ikrimah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ]
+    },
+    {
+      "hadith_id": 45021,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Hudhayfah said: The angels came to Lut while he was working in his land. They said: We will be your guests tonight. He went with them, and after walking a while, he turned to them and said: Do you not know what the people of this town do? I do not know worse people on earth than them. He said this three times, and they had been commanded not to punish them until he testified against them three times. When they entered his home, the evil old woman went to her people and said: Lut has guests tonight - I have never seen people with more beautiful faces. They came hastily and Lut met them at the door. An angel stood and blocked the door. Jibril sought permission from his Lord to punish them, and He permitted him. Jibril struck them with his wing and left them blind, and they spent a terrible night. Then they said: We are messengers of your Lord, so set out with your family in a portion of the night, and let none of you look back except your wife - indeed, what strikes them will strike her. It reached us that she heard a sound and turned back, and a stone struck her, and she is separate from the people in a known place. It reached us that Jibril took hold of the middle town and lifted it to the sky until the people of the sky heard the barking of their dogs, then he turned it upside down, making its heights its depths, then the stones followed them. It reached us that they were four million people.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , قَالَ : قَالَ حُذَيْفَةُ : جَاءَتِ الْمَلائِكَةُ لُوطًا , وَهُوَ يَعْمَلُ فِي أَرْضٍ لَهُ , فَقَالُوا : إِنَّا مُتَضَيِّفُوكَ اللَّيْلَةَ , فَانْطَلَقَ مَعَهُمْ ، فَلَمَّا مَشَى مَعَهُمْ سَاعَةً الْتَفَتَ إِلَيْهِمْ , فَقَالَ : أَمَا تَعْلَمُونَ مَا يَعْمَلُ أَهْلُ هَذِهِ الْقَرْيَةِ ؟ مَا أَعْلَمُ عَلَى وَجْهِ الأَرْضِ أَهْلَ قَرْيَةٍ أَشَرَّ مِنْهُمْ , ثُمَّ مَشَى سَاعَةً , فَقَالَ : أَمَا تَعْلَمُونَ مَا يَعْمَلُ أَهْلُ هَذِهِ 2 : 192 الْقَرْيَةِ ؟ مَا أَعْلَمُ عَلَى وَجْهِ الأَرْضِ أَهْلَ قَرْيَةٍ شَرًّا مِنْهُمْ , فَقَالَ ذَلِكَ ثَلاثَةَ مَرَّاتٍ , وَكَانُوا أُمِرُوا أَلا يُعَذِّبُوهُمْ حَتَّى يَشْهَدَ عَلَيْهِمْ ثَلاثَ مَرَّاتٍ , فَلَمَّا دَخَلُوا عَلَيْهِ ، ذَهَبَتْ عَجُوزُ السُّوءِ , فَأَتَتْ قَوْمَهَا , فَقَالَتْ : يُضَيَّفُ لُوطٌ اللَّيْلَةَ قَوْمًا مَا رَأَيْتُ قَوْمًا قَطُّ أَحْسَنَ وُجُوهًا مِنْهُمْ , قَالَ : فَجَاءُوا يُسْرِعُونَ فَعَاجَلَهُمْ لُوطٌ عَلَى الْبَابِ , قَالَ : فَقَامَ مَلَكٌ فَلَزَّ الْبَابَ , يَقُولُ : فَسَدَّهُ وَاسْتَأْذَنَ جِبْرِيلُ رَبَّهُ فِي عُقُوبَتِهِمْ , فَأَذِنَ لَهُ فَضَرَبَهُمْ جِبْرِيلُ بِجَنَاحِهِ فَتَرَكَهُمْ عُمْيًا , فَبَاتُوا بِشَرِّ لَيْلَةٍ , ثُمَّ قَالُوا : إِنَّا رُسُلُ رَبِّكَ ، فَأَسْرِ بِأَهْلِكِ بِقِطْعٍ مِنَ اللَّيْلِ , وَلا يَلْتَفِتْ مِنْكُمْ أَحَدٌ إِلا امْرَأَتَكَ إِنَّهُ مُصِيبُهَا مَا أَصَابَهُمْ , قَالَ : فَبَلَغَنَا أَنَّهَا سَمِعَتْ صَوْتًا فَالْتَفَتَتْ فَأَصَابَهَا حَجَرٌ , وَهِيَ شَاذَّةٌ مِنَ الْقَوْمِ مَعْلُومٌ مَكَانُهَا ، قَالَ قَتَادَةُ : وَبَلَغَنَا أَنَّ جِبْرِيلَ أَخَذَ بِعُرْوَةِ الْقَرْيَةِ الْوُسْطَى , ثُمَّ أَلْوَى بِهَا إِلَى السَّمَاءِ حَتَّى سَمِعَ أَهْلُ السَّمَاءِ ضَوَاغِيَ كِلابِهِمْ , ثُمَّ دَمْدَمَ بَعْضَهَا عَلَى بَعْضٍ , فَجَعَلَ عَالِيَهَا سَافِلَهَا , ثُمَّ تَبِعَتْهُمُ الْحِجَارَةُ ، قَالَ مَعْمَرٌ : وَقَالَ قَتَادَةُ : وَبَلَغَنَا أَنَّهُمْ كَانُوا أَرْبَعَةَ آلافِ أَلْفٍ * 1187 1187",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            },
+            {
+              "name": "Hudhayfah",
+              "full_name": "Hudhayfah ibn al-Yaman al-'Absi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "Contains balaghani (بَلَغَنِي) - disconnected transmission"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> Hudhayfah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "Contains balaghani (بَلَغَنِي) - disconnected transmission",
+          "impact": "This is a mursal/disconnected report, not connected chain to source"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Story of angels visiting Prophet Lut",
+        "Destruction of people of Lut",
+        "Jibril lifting the town"
+      ]
+    },
+    {
+      "hadith_id": 45022,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Explanation of the mentioned Quranic verse.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : وَجَاءَتْهُ الْبُشْرَى سورة هود آية 74 ، قَالَ : حِينَ أَخْبَرُوهُ ، أَنَّهُمْ أُرْسِلُوا إِلَى قَوْمِ لُوطٍ , أَنَّهُمْ لَيْسُوا إِيَّاهُ يُرِيدُونَ ، قَالَ مَعْمَرٌ : وَقَالَ آخَرُونَ : بُشِّرَ بِإِسْحَاقَ * 2 : 193 1188 1188",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Hud"
+      ]
+    },
+    {
+      "hadith_id": 45023,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Regarding \"He disputed with Us about the people of Lut\" (Surah Hud 11:74): He said to them that day: What if there are fifty Muslims among them? They said: If there are fifty, We will not punish them. He said: Forty? They said: Forty. He said: Thirty? They said: And thirty. He said: Twenty? Until they reached ten. He said: What if there are ten? They said: What people do not have ten good people among them.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : يُجَادِلُنَا فِي قَوْمِ لُوطٍ سورة هود آية 74 , قَالَ : إِنَّهُ قَالَ لَهُمْ يَوْمَئِذٍ : أَرَأَيْتُمْ إِنْ كَانَ فِيهِمْ خَمْسُونَ مِنَ الْمُسْلِمِينَ ؟ , قَالَ : إِنْ كَانَ فِيهِمْ خَمْسُونَ لَمْ نُعَذِّبْهُمْ , قَالَ : أَرْبَعُونَ ؟ , قَالُوا : أَرْبَعُونَ , قَالَ : ثَلاثُونَ ؟ , قَالُوا : وَثَلاثُونَ , قَالَ : عِشْرُونَ ؟ , قَالَ : حَتَّى بَلَغُوا عَشَرَةً , قَالَ : فَإِنْ كَانَ فِيهِمْ عَشَرَةٌ , قَالَ : مَا قَوْمٌ لا يَكُونُ فِيهِمْ عَشَرَةٌ فِيهِمْ خَيْرٌ * 1189 1189",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Hud"
+      ]
+    },
+    {
+      "hadith_id": 45024,
+      "book_id": 59,
+      "english_translation": "Qatadah said: The mentioned statement.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , قَالَ : بَلَغَنِي أَنَّهُ كَانَ فِي قَرْيَةِ لُوطٍ أَرْبَعَةُ آلافِ أَلْفِ إِنْسَانٍ ، أَوْ مَا شَاءَ اللَّهُ مِنْ ذَلِكَ * 1190 1190",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "Contains balaghani (بَلَغَنِي) - disconnected transmission",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "Contains balaghani (بَلَغَنِي) - disconnected transmission",
+          "impact": "This is a mursal/disconnected report, not connected chain to source"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ]
+    },
+    {
+      "hadith_id": 45025,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Explanation of the mentioned Quranic verse.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : هَذَا يَوْمٌ عَصِيبٌ سورة هود آية 77 , قَالَ : شَدِيدٌ * 1191 1191",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Hud"
+      ]
+    },
+    {
+      "hadith_id": 45026,
+      "book_id": 59,
+      "english_translation": "Qatadah said: The mentioned statement.",
+      "arabicText": "عَنْ مُحَمَّدِ بْنِ مُسْلِمٍ , عَنْ عَمْرِو بْنِ دِينَارٍ ، أَنَّ عُبَيْدَ بْنَ عُمَيْرٍ , كَانَ إِذَا ذَكَرَ النَّارَ , قَالَ أَوَّهْ ، أَوَّهْ , وَذَلِكَ قَوْلُهُ : أَوَّاهٌ مُنِيبٌ سورة هود آية 75 * 1192 1192",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ]
+    },
+    {
+      "hadith_id": 45027,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Explanation of the mentioned Quranic verse.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : يُهْرَعُونَ إِلَيْهِ سورة هود آية 78 , قَالَ : يُسْرِعُونَ إِلَيْهِ * 2 : 194 1193 1193",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Hud"
+      ]
+    },
+    {
+      "hadith_id": 45028,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Explanation of the mentioned Quranic verse.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : بِقِطْعٍ مِنَ اللَّيْلِ سورة هود آية 81 ، قَالَ : بِطَائِفَةٍ مِنَ اللَّيْلِ * 1194 1194",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Hud"
+      ]
+    },
+    {
+      "hadith_id": 45029,
+      "book_id": 59,
+      "english_translation": "Qatadah said: Explanation of the mentioned Quranic verse.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , وَعِكْرِمَةَ , فِي قَوْلِهِ تَعَالَى : مِنْ سِجِّيلٍ سورة هود آية 82 , قَالا : مِنْ طِينٍ ، مُسَوَّمَةً سورة هود آية 83 , قَالا : مُطَوَّقَةٌ بِهَا نَضْحٌ مِنْ حُمْرَةٍ ، مَنْضُودٍ سورة هود آية 82 , يَقُولُ : مَصْفُوفَةٌ , قَالَ : وَمَا هِيَ مِنَ الظَّالِمِينَ بِبَعِيدٍ سورة هود آية 83 , يَقُولُ : لَمْ يَبْرَأْ مِنْهَا ظَالِمٌ بَعْدَهُمْ * \u0019 1195 1195",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            },
+            {
+              "name": "'Ikrimah",
+              "full_name": "'Ikrimah mawla Ibn 'Abbas",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "criticized by Malik"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> 'Ikrimah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Hud"
+      ]
+    },
+    {
+      "hadith_id": 45030,
+      "book_id": 59,
+      "english_translation": "Qatadah said: The mentioned statement.",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , قَالَ : مَنْ عَمِلَ عَمَلَ قَوْمِ لُوطٍ ، رُجِمَ إِنْ كَانَ مُحْصَنًا , فَإِنْ كَانَ بِكْرًا جُلِدَ مِائَةً * 1196 1196",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis - category 3"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+            "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (category 3 per Ibn Hajar) and uses 'an ('عَنْ')",
+          "impact": "Minor concern - narrator is generally reliable but indirect term noted"
+        },
+        {
+          "issue": "This is maqtu' (stopped at Tabi'i level) - Quranic exegesis statement, not prophetic hadith",
+          "impact": "Not attributed to the Prophet ﷺ; represents scholarly opinion on Quranic interpretation"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholarly Statement"
+      ]
+    }
+  ]
+}

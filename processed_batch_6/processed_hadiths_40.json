@@ -1,0 +1,226 @@
+{
+  "batch_number": 6,
+  "file_number": 40,
+  "total_hadiths": 3,
+  "skipped_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 45587,
+      "book_id": 59,
+      "hadith_number": 1745,
+      "english_translation": "Narrated by Ali: They (the sandals) were made from the skin of a donkey, so it was said to him: 'Take them off.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جابر بن يزيد",
+              "full_name": "جابر بن يزيد بن الحارث الجعفي الكوفي",
+              "grade": "Da'if",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Weak narrator, known for confusion, errors, and Shi'i tendencies", "Many scholars declared him weak"]
+            },
+            {
+              "name": "عمير بن سعيد",
+              "full_name": "عمير بن سعيد النخعي الكوفي",
+              "grade": "Saduq",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "علي",
+              "full_name": "علي بن أبي طالب بن عبد المطلب",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Jabir ibn Yazid al-Ju'fi is a weak narrator (Da'if)",
+            "Multiple uses of 'an throughout the chain",
+            "This is mawquf - a statement attributed to Ali, not the Prophet ﷺ",
+            "Context suggests this is about Moses' sandals based on Quranic context"
+          ]
+        }
+      ],
+      "plainChains": [
+        "معمر -> جابر بن يزيد -> عمير بن سعيد -> علي"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Jabir ibn Yazid al-Ju'fi (جابر بن يزيد الجعفي) is a weak narrator (Da'if) criticized by major hadith scholars",
+          "impact": "Jabir al-Ju'fi is known for poor memory, confusion in narration, and Shi'i tendencies. Scholars like Yahya ibn Ma'in and others declared him weak. His presence in the chain significantly weakens the narration. However, he is not accused of lying (Kadhdhab), so this results in 'Weak But Might Be Acceptable' not 'Problematic'."
+        },
+        {
+          "issue": "This is a mawquf narration - a statement from Ali about Moses' sandals in context of Quranic interpretation",
+          "impact": "The narration is Ali's tafsir commentary on the Quranic verse about Moses being commanded to remove his sandals. It is not a marfu' hadith from the Prophet ﷺ."
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) in the chain",
+          "impact": "Combined with the weak narrator, the multiple 'an terms add to the chain's weakness."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ali's explanation of Moses' sandals",
+        "Commentary on why Moses was commanded to remove sandals",
+        "Explanation that sandals were made from donkey skin",
+        "Tafsir of Surah Ta-Ha verse 12"
+      ],
+      "arabicText": "أرنا /94 مَعْمَرٌ /94 , عَنْ /26 جَابِرِ بْنِ يَزِيدَ /26 , عَنْ /26 عُمَيْرِ بْنِ سَعِيدٍ /26 , /27 عَنْ /93 عَلِيٍّ L5722 /93 , قَالَ : /20 \" كَانَتَا مِنْ جِلْدِ حِمَارٍ , فَقِيلَ لَهُ : اخْلَعْهُمَا \" /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1745,
+      "grade": null
+    },
+    {
+      "hadith_id": 45588,
+      "book_id": 59,
+      "hadith_number": 1746,
+      "english_translation": "Ibn al-Musayyib reported that the Prophet ﷺ said: 'Whoever forgets a prayer, let him pray it when he remembers it.' For indeed Allah says: 'And establish prayer for My remembrance' [Quran 20:14].",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن شهاب الزهري",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis - Category 3 according to Ibn Hajar, but extremely reliable scholar"]
+            },
+            {
+              "name": "ابن المسيب",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Chain is mursal - Ibn al-Musayyib is a Tabi'i who did not meet the Prophet ﷺ (though he saw him as a very young child according to some reports)",
+            "Missing link between Ibn al-Musayyib and the Prophet ﷺ",
+            "Al-Zuhri uses 'an (عَنْ) and is classified as mudallis",
+            "No companion mentioned in the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "معمر -> الزهري -> ابن المسيب -> [DISCONNECTION] -> النبي ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as a mudallis (Category 3 per Ibn Hajar) and uses 'an (عَنْ)",
+          "impact": "While Al-Zuhri's tadlis is noted, he is extremely reliable (Thiqah Thabt Hafiz). However, in a mursal narration, this adds another layer of ambiguity."
+        },
+        {
+          "issue": "Mursal narration - Sa'id ibn al-Musayyib is reporting directly from the Prophet ﷺ without mentioning an intermediary companion",
+          "impact": "This is a mursal hadith. Ibn al-Musayyib is from the First Generation of Tabi'in and, although he saw the Prophet ﷺ as a very young child (around 8 years old at the Prophet's death), he did not reach the age to actively learn from him. There is a missing companion in the chain. Following grading rules, mursal narrations (disconnections) result in 'Weak But Might Be Acceptable' not 'Problematic'."
+        },
+        {
+          "issue": "Ibn al-Musayyib's mursal narrations are considered among the strongest mursal reports by scholars",
+          "impact": "Despite being mursal, Ibn al-Musayyib's mursalat are given special consideration by hadith scholars due to his exceptional reliability and careful methodology. However, it remains mursal and thus disconnected."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ruling on forgotten prayer",
+        "Method of making up missed prayers",
+        "Obligation to pray when one remembers",
+        "Tafsir of Surah Ta-Ha verse 14",
+        "Connection between Quranic verse and prophetic guidance"
+      ],
+      "arabicText": "أرنا /94 مَعْمَرٌ L7633 /94 , عَنِ /26 الزُّهْرِيِّ L7272 /26 ، /27 عَنِ /26 ابْنِ الْمُسَيِّبِ L3299 /26 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" مَنْ نَسِيَ صَلاةً , فَلْيُصَلِّهَا إِذَا ذَكَرَهَا \" ، فَإِنَّ اللَّهَ يَقُولُ : /4 وَأَقِمِ الصَّلاةَ لِذِكْرِي سورة طه آية 14 /4 /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1746,
+      "grade": null
+    },
+    {
+      "hadith_id": 45593,
+      "book_id": 59,
+      "hadith_number": 1751,
+      "english_translation": "Malik ibn Dinar said: 'It reached me (بَلَغَنِي) that the distance between the two jaws of Moses' staff when it became a snake was fifty cubits.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "جعفر",
+              "full_name": "جعفر بن سليمان الضبعي البصري",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": ["Shi'i tendency"]
+            },
+            {
+              "name": "مالك بن دينار",
+              "full_name": "مالك بن دينار البصري",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "بَلَغَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Uses 'balaghanī' (بَلَغَنِي) which indicates receiving information without a direct chain",
+            "This creates a major disconnection - the source is unknown",
+            "No chain provided beyond Malik ibn Dinar",
+            "This is maqtu' - a statement from a Tabi'i without proper attribution"
+          ]
+        }
+      ],
+      "plainChains": [
+        "جعفر -> مالك بن دينار -> [DISCONNECTION - balaghanī]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Malik ibn Dinar uses the term 'balaghanī' (بَلَغَنِي - 'it reached me') which indicates indirect transmission without a known chain",
+          "impact": "The use of 'balaghanī' creates a severe disconnection. The original source of this information is unknown, making it impossible to verify. This is similar to a mursal narration but even weaker since the intermediaries are completely unknown."
+        },
+        {
+          "issue": "Ja'far ibn Sulayman is Saduq with Shi'i tendencies",
+          "impact": "While not weak enough to make the hadith 'Problematic', Ja'far's Shi'i leanings are noted. However, the main issue is the disconnection, not his grade."
+        },
+        {
+          "issue": "This appears to be an Israeli narration (Isra'iliyyat) about Prophet Moses",
+          "impact": "Details about Moses' staff transforming into a snake with specific measurements are likely from Jewish or Christian sources rather than authentic Islamic transmission. Following grading rules, disconnections result in 'Weak But Might Be Acceptable'."
+        },
+        {
+          "issue": "The narration is maqtu' - Malik ibn Dinar's own report without proper chain",
+          "impact": "This is not traced back to the Prophet ﷺ or even to a companion. It is a report from a Tabi' al-Tabi'i about an event from Moses' time, likely based on Isra'iliyyat."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Description of Moses' staff transformation",
+        "Size of the snake that Moses' staff became",
+        "Israeli narrations about Moses",
+        "Miracle of Moses' staff"
+      ],
+      "arabicText": "أرنا /94 جَعْفَرٌ /94 , /27 عَنْ /26 مَالِكِ بْنِ دِينَارٍ /26 , قَالَ : /20 \" بَلَغَنِي أَنَّهُ كَانَ بَيْنَ لَحْيَيْ عَصَا مُوسَى حِينَ عَادَتْ حَيَّةً خَمْسُونَ ذِرَاعًا \" /27 *",
+      "collection": "كتاب رقم 59",
+      "reference_number": 1751,
+      "grade": null
+    }
+  ]
+}

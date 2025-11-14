@@ -1,0 +1,843 @@
+{
+  "batch_number": 6,
+  "file_number": 15,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45211,
+      "book_id": 59,
+      "reference_number": 1369,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ ابْنِ عُيَيْنَةَ , عَنْ عَمْرِو بْنِ دِينَارٍ , عَنْ عَطَاءٍ , قَالَ : سَمِعْتُ ابْنَ عَبَّاسٍ , يَقُولُ : \" هُمْ وَاللَّهِ الَّذِينَ بَدَّلُوا نِعْمَةَ اللَّهِ كُفْرًا , وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ \" ، قَالَ : \" قُرَيْشٌ \" ، أَوْ قَالَ : \" أَهْلُ مَكَّةَ \"",
+      "english_translation": "From Ibn 'Uyaynah, from 'Amr ibn Dinar, from 'Ata', he said: I heard Ibn Abbas saying: 'They are, by Allah, those who changed the blessing of Allah into disbelief and caused their people to dwell in the abode of ruin.' He said: 'Quraysh,' or he said: 'The people of Makkah.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn 'Uyaynah",
+              "full_name": "Sufyan ibn 'Uyaynah ibn Abi 'Imran al-Hilali al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Amr ibn Dinar",
+              "full_name": "'Amr ibn Dinar al-Makki al-Jumahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Ata'",
+              "full_name": "'Ata' ibn Abi Rabah Aslam al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn Abbas",
+              "full_name": "'Abdullah ibn al-'Abbas ibn 'Abd al-Muttalib al-Hashimi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn 'Uyaynah -> 'Amr ibn Dinar -> 'Ata' -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Mawquf - statement stops at companion Ibn Abbas",
+          "impact": "This is Ibn Abbas's tafsir interpretation, not directly from the Prophet ﷺ"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 28",
+        "Identification of Quraysh as Those Who Changed Blessings",
+        "Historical Context of Makkah"
+      ]
+    },
+    {
+      "hadith_id": 45212,
+      "book_id": 59,
+      "reference_number": 1370,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ سورة إبراهيم آية 28 , قَالَ : \" هُمْ قَادَةُ الْمُشْرِكِينَ يَوْمَ بَدْرٍ , وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ ، جَهَنَّمَ يَصْلَوْنَهَا هِيَ دَارُهُمْ فِي الآخِرَةِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And caused their people to dwell in the abode of ruin' (Surah Ibrahim verse 28), he said: 'They are the leaders of the polytheists on the day of Badr, and they caused their people to dwell in the abode of ruin, Hellfire they will enter; it is their abode in the Hereafter.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his tafsir interpretation; very reliable despite tadlis"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 28",
+        "Leaders of Polytheists at Badr",
+        "Hellfire as Final Destination",
+        "Historical Context of Battle of Badr"
+      ]
+    },
+    {
+      "hadith_id": 45213,
+      "book_id": 59,
+      "reference_number": 1371,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَآتَاكُمْ مِنْ كُلِّ مَا سَأَلْتُمُوهُ سورة إبراهيم آية 34 , قَالَ : \" لَمْ تَسْأَلُوهُ كُلَّ الَّذِي آتَاكُمْ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And He gave you from all that you asked of Him' (Surah Ibrahim verse 34), he said: 'You did not ask Him for all that He gave you.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic/grammatical tafsir interpretation"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 34",
+        "Allah's Blessings Beyond What is Asked",
+        "Divine Generosity"
+      ]
+    },
+    {
+      "hadith_id": 45214,
+      "book_id": 59,
+      "reference_number": 1372,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "قَالَ مَعْمَرٌ : وَقَالَ الْحَسَنُ : \" آتَاكُمْ مِنْ كُلِّ الَّذِي سَأَلْتُمُوهُ \"",
+      "english_translation": "Ma'mar said, and Al-Hassan said: 'He gave you from all that you asked of Him.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Al-Hassan's alternative grammatical reading of the verse",
+          "impact": "Scholarly tafsir offering different interpretation than Qatadah"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 34",
+        "Grammatical Interpretation of Quranic Verse"
+      ]
+    },
+    {
+      "hadith_id": 45215,
+      "book_id": 59,
+      "reference_number": 1373,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "مَعْمَرٌ , عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : بِوَادٍ غَيْرِ ذِي زَرْعٍ سورة إبراهيم آية 37 , قَالَ : \" مَكَّةُ ، لَمْ يَكُنْ فِيِهَا زَرْعٌ يَوْمَئِذٍ \"",
+      "english_translation": "Ma'mar, from Qatadah, regarding Allah's saying: 'In a valley without vegetation' (Surah Ibrahim verse 37), he said: 'Makkah, there was no vegetation in it at that time.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his tafsir interpretation identifying the location"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 37",
+        "Ibrahim's Prayer for Makkah",
+        "Barren Valley of Makkah",
+        "Historical Geography of Makkah"
+      ]
+    },
+    {
+      "hadith_id": 45216,
+      "book_id": 59,
+      "reference_number": 1374,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : أَفْئِدَةً مِنَ النَّاسِ تَهْوِي إِلَيْهِمْ سورة إبراهيم آية 37 , قَالَ : \" تَنْزِعُ إِلَيْهِمْ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Hearts among the people incline toward them' (Surah Ibrahim verse 37), he said: 'Drawn to them.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining word meaning"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 37",
+        "Hearts Drawn to Makkah",
+        "Pilgrimage Yearning"
+      ]
+    },
+    {
+      "hadith_id": 45217,
+      "book_id": 59,
+      "reference_number": 1375,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : مُهْطِعِينَ سورة إبراهيم آية 43 , قَالَ : \" مُسْرِعِينَ \" ، مُقْنِعِي رُءُوسِهِمْ سورة إبراهيم آية 43 , قَالَ : \" الْمُقَنِّعُ الَّذِي يَرْفَعُ رَأْسَهُ شَاخِصًا بَصَرُهُ لا يُطْرِقُ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Racing ahead' (Surah Ibrahim verse 43), he said: 'Hastening.' 'With their heads raised' (Surah Ibrahim verse 43), he said: 'The one who raises his head with his gaze fixed, not looking down.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining word meanings"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 43",
+        "Description of People on Judgment Day",
+        "State of Terror on Day of Resurrection"
+      ]
+    },
+    {
+      "hadith_id": 45218,
+      "book_id": 59,
+      "reference_number": 1376,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَأَفْئِدَتُهُمْ هَوَاءٌ سورة إبراهيم آية 43 , قَالَ : \" خَرَجَتْ مِنْ صُدُورِهِمْ , فَنَشَبَتْ فِي حُلُوقِهِمْ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And their hearts are void' (Surah Ibrahim verse 43), he said: 'They came out of their chests and lodged in their throats.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his vivid tafsir description of terror"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 43",
+        "Hearts Lodged in Throats from Fear",
+        "Terror of Judgment Day"
+      ]
+    },
+    {
+      "hadith_id": 45219,
+      "book_id": 59,
+      "reference_number": 1377,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَإِنْ كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ سورة إبراهيم آية 46 , قَالَ : \" ذَلِكَ حِينَ دَعَوْا لِلَّهِ وَلَدًا \" , وَقَالَ فِي آيَةٍ أُخْرَى : تَكَادُ السَّمَوَاتُ يَتَفَطَّرْنَ مِنْهُ وَتَنْشَقُّ الأَرْضُ وَتَخِرُّ الْجِبَالُ هَدًّا { 90 } أَنْ دَعَوْا لِلرَّحْمَنِ وَلَدًا سورة مريم آية 90-91",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'And even if their plan was such that mountains would be removed by it' (Surah Ibrahim verse 46), he said: 'That is when they attributed a son to Allah,' and He said in another verse: 'The heavens are almost torn therefrom and the earth splits open and the mountains collapse in devastation, that they attribute to the Most Merciful a son' (Surah Maryam verses 90-91).",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is his tafsir connecting verses"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 46",
+        "Severity of Attributing a Son to Allah",
+        "Connection Between Quranic Verses",
+        "Cosmic Reaction to Shirk"
+      ]
+    },
+    {
+      "hadith_id": 45220,
+      "book_id": 59,
+      "reference_number": 1378,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "قَالَ مَعْمَرٌ , عَنِ الْحَسَنِ فِي قَوْلِهِ : وَإِنْ كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ سورة إبراهيم آية 46 , قَالَ : \" مَا كَانَ مَكْرُهُمْ لِتَزُولَ مِنْهُ الْجِبَالُ \"",
+      "english_translation": "Ma'mar said, from Al-Hassan regarding his saying: 'And even if their plan was such that mountains would be removed by it' (Surah Ibrahim verse 46), he said: 'Their plan was not such that mountains would be removed by it.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Hassan al-Basri",
+              "full_name": "Al-Hassan ibn Abi al-Hassan Yasar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Hassan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Maqtu' - Al-Hassan's alternative grammatical reading (negation vs affirmation)",
+          "impact": "Scholarly tafsir offering different interpretation than Qatadah"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 46",
+        "Grammatical Interpretation Dispute",
+        "Limits of Disbelievers' Plots"
+      ]
+    },
+    {
+      "hadith_id": 45221,
+      "book_id": 59,
+      "reference_number": 1379,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , وَأَخْبَرَنِي الْكَلْبِيُّ : \" أَنَّ نُمْرُودَ عَمَدَ إِلَى صُنْدُوقٍ ، فَجَعَلَ فِيهِ رَجُلا ، وَجَعَلَ فِي نَوَاحِيهِ نُسُورًا , وَجَعَلَ فِي وَسَطِهِ رُمْحًا , وَفِي طَرَفِ الرُّمْحِ لَحْمًا ، فَكَانَتِ النُّسُورُ تَرُومُ تَلْحَقُ اللَّحْمَ , وَهِيَ تَصْعَدُ بِالصِّنْدُوقِ ، حَتَّى خَالَطَ الرَّجُلَ الظُّلْمَةُ فَلَمْ يَرَ شَيْئًا ، فَنَكَّسَ الرُّمْحَ ، فَانْحَطَّتِ النُّسُورُ حَتَّى وَقَعَتْ قَرِيبًا مِنْ جَبَلٍ ، فَظَنَّ الْجَبَلُ أَنَّهُ حَدَثَ شَيْءٌ , فَزَالَ الْجَبَلُ عَنْ مَكَانِهِ \"",
+      "english_translation": "From Ma'mar, and Al-Kalbi informed me: 'That Nimrod took a chest and put a man in it, and placed eagles at its corners, and put a spear in its middle with meat at the tip of the spear. The eagles tried to reach the meat while ascending with the chest, until darkness overtook the man and he could not see anything. So he reversed the spear, and the eagles descended until they landed near a mountain. The mountain thought something had happened, so the mountain moved from its place.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "وَأَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Kalbi",
+              "full_name": "Muhammad ibn al-Sa'ib ibn Bishr al-Kalbi",
+              "grade": "Matruk",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": [
+                "Rejected by most scholars",
+                "Known for weakness and unreliability"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Al-Kalbi is Matruk (rejected narrator), known for fabrications"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Kalbi"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Kalbi (Muhammad ibn al-Sa'ib) is graded as Matruk (rejected) by hadith scholars",
+          "impact": "He is known for extreme weakness, fabrications, and unreliability. His narrations are generally rejected."
+        },
+        {
+          "issue": "This appears to be a legend or story from Isra'iliyyat without authentic Islamic basis",
+          "impact": "The content itself is fantastical and lacks any prophetic or scriptural foundation"
+        },
+        {
+          "issue": "Maqtu' - and likely fabricated story attributed to historical figure Nimrod",
+          "impact": "Not authentic Islamic tradition"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Story of Nimrod's Attempted Ascent to Heaven",
+        "Isra'iliyyat (Israelite Traditions)",
+        "Fabricated Legends",
+        "Mountains Moving"
+      ]
+    },
+    {
+      "hadith_id": 45222,
+      "book_id": 59,
+      "reference_number": 1380,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ قَتَادَةَ ، فِي قَوْلِهِ تَعَالَى : يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ وَالسَّمَوَاتُ سورة إبراهيم آية 48 , قَالَ : بَلَغَنَا أَنَّ عَائِشَةَ سَأَلَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ هَذِهِ الآيَةِ , فَقَالَتْ : أَيْنَ النَّاسُ يَوْمَئِذٍ , قَالَ : \" هُمْ عَلَى الصِّرَاطِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'The Day the earth will be replaced by another earth, and the heavens' (Surah Ibrahim verse 48), he said: It has reached us that Aisha asked the Prophet ﷺ about this verse, and she said: 'Where will the people be on that day?' He said: 'They will be on the Bridge (al-Sirat).'",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "بَلَغَنَا",
+              "reliabilityIssues": [
+                "mudallis",
+                "uses mursal transmission 'balaghana'"
+              ]
+            },
+            {
+              "name": "Aisha",
+              "full_name": "'A'ishah bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Prophet Muhammad ﷺ",
+              "full_name": "Muhammad ibn 'Abdullah ﷺ",
+              "grade": "Prophet",
+              "generation": "Prophet",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal/disconnected - Qatadah uses 'balaghana' (it reached us) without clear chain between himself and Aisha"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah -> [Unknown intermediary] -> Aisha -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'balaghana' (it has reached us) indicating a mursal/disconnected transmission",
+          "impact": "There are missing narrators between Qatadah and Aisha, making this a mursal hadith which is weaker"
+        },
+        {
+          "issue": "Mursal hadith - chain has a gap",
+          "impact": "Cannot verify the complete chain back to the Prophet ﷺ; weaker than a fully connected chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident where Aisha asked the Prophet ﷺ about earth transformation",
+        "Quranic Exegesis of Surah Ibrahim verse 48",
+        "Day of Judgment Events",
+        "Location of People During Earth's Transformation",
+        "The Bridge (al-Sirat)"
+      ]
+    },
+    {
+      "hadith_id": 45223,
+      "book_id": 59,
+      "reference_number": 1381,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ أَبِي إِسْحَاقَ ، عَنْ عَمْرِو بْنِ مَيْمُونٍ الأَوْدِيِّ , فِي قَوْلِهِ تَعَالَى : يَوْمَ تُبَدَّلُ الأَرْضُ غَيْرَ الأَرْضِ سورة إبراهيم آية 48 , قَالَ : \" تُبَدَّلُ أَرْضًا بَيْضَاءَ كَالْفِضَّةِ ، لَمْ تُعْمَلْ فِيهَا خَطِيئَةٌ ، وَلَمْ يُسْفَكْ فِيهَا دَمٌ حَرَامٌ \"",
+      "english_translation": "From Al-Thawri, from Abu Ishaq, from 'Amr ibn Maymun al-Awdi, regarding Allah's saying: 'The Day the earth will be replaced by another earth' (Surah Ibrahim verse 48), he said: 'It will be replaced by a white earth like silver, in which no sin was committed and no forbidden blood was shed.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri al-Kufi",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Ishaq",
+              "full_name": "'Amr ibn 'Abdullah al-Hamdani al-Sabi'i al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ikhtilat in old age"
+              ]
+            },
+            {
+              "name": "'Amr ibn Maymun al-Awdi",
+              "full_name": "'Amr ibn Maymun ibn Mihran al-Awdi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Abu Ishaq experienced ikhtilat in old age, but Al-Thawri narrated from him early"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> Abu Ishaq -> 'Amr ibn Maymun al-Awdi"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq experienced memory confusion in old age, but Al-Thawri was among his early students",
+          "impact": "Al-Thawri's narrations from Abu Ishaq are generally considered reliable as they preceded his ikhtilat"
+        },
+        {
+          "issue": "Maqtu' - 'Amr ibn Maymun's interpretation (a tabi'i)",
+          "impact": "This is scholarly tafsir describing the new earth, not directly from Prophet ﷺ or companion"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 48",
+        "Description of the New Earth",
+        "Day of Judgment Transformation",
+        "Pure Earth on Resurrection Day"
+      ]
+    },
+    {
+      "hadith_id": 45224,
+      "book_id": 59,
+      "reference_number": 1382,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : مُقَرَّنِينَ فِي الأَصْفَادِ سورة إبراهيم آية 49 , قَالَ : \" مُقَرَّنِينَ فِي الْقُيُودِ ، وَفِي الأَغْلالِ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Bound together in shackles' (Surah Ibrahim verse 49), he said: 'Bound together in fetters and in chains.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining word meaning"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 49",
+        "Punishment of Disbelievers in Hellfire",
+        "Shackles and Chains in Hell"
+      ]
+    },
+    {
+      "hadith_id": 45225,
+      "book_id": 59,
+      "reference_number": 1383,
+      "collection": "Tafsir Collection (Book 59)",
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : سَرَابِيلُهُمْ مِنْ قَطِرَانٍ سورة إبراهيم آية 50 , قَالَ : \" مِنْ نُحَاسٍ \"",
+      "english_translation": "From Ma'mar, from Qatadah, regarding Allah's saying: 'Their garments of tar' (Surah Ibrahim verse 50), he said: 'Of copper.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Abi 'Amr Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah ibn Qatadah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah uses 'an and is a mudallis",
+          "impact": "This is linguistic tafsir explaining word meaning (qatiran vs nuhas)"
+        },
+        {
+          "issue": "Maqtu' - scholarly interpretation",
+          "impact": "Not prophetic tradition"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Ibrahim verse 50",
+        "Garments of Hellfire Dwellers",
+        "Tar or Copper Garments",
+        "Punishment Description"
+      ]
+    }
+  ]
+}

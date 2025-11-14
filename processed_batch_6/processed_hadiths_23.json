@@ -1,0 +1,744 @@
+{
+  "batch_number": 6,
+  "file_number": 23,
+  "record_count": 15,
+  "hadiths": [
+    {
+      "hadith_id": 45331,
+      "book_id": 59,
+      "hadith_number": 1489,
+      "english_translation": "Regarding the saying of Allah the Exalted: 'You will surely cause corruption in the land twice' (Surah Al-Isra 17:4). Qatadah said: 'As for the first time, Allah empowered Goliath over them until He sent Saul, and David was with him, so David killed him. Then the turn came back to the Children of Israel. Then came the promise of the second of the two times.' 'To mar your faces' (17:7), he said: 'To disfigure your faces.' 'And to destroy all that they conquered with utter destruction' (17:7), he said: 'To utterly demolish what they conquered.' He said: 'It is Nebuchadnezzar who was sent against them in the second time.' Then he said: 'Perhaps your Lord will have mercy on you, but if you return, We will return' (17:8). 'So they returned, and Allah sent Muhammad ﷺ against them, and they give the jizyah (tribute) with their own hands while they are subdued.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Isra"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : لَتُفْسِدُنَّ فِي الأَرْضِ مَرَّتَيْنِ سورة الإسراء آية 4 , قَالَ : \" أَمَّا الْمَرَّةُ الأُولَى ، فَسَلَّطَ اللَّهُ عَلَيْهِمْ جَالُوتَ حَتَّى بَعَثَ طَالُوتَ , وَمَعَهُ دَاوُدُ فَقَتَلَهُ دَاوُدُ , ثُمَّ رُدَّتِ الْكَرَّةُ لِبَنِي إِسْرَائِيلَ , ثُمَّ جَاءَ وَعْدُ الآخِرَةِ مِنَ الْمَرَّتَيْنِ \" ، لِيَسُوءُوا وُجُوهَكُمْ سورة الإسراء آية 7 , قَالَ : \" لِيُقَبِّحُوا وُجُوهَكُمْ \" ، وَلِيُتَبِّرُوا مَا عَلَوْا تَتْبِيرًا سورة الإسراء آية 7 , قَالَ : \" لِيُدَمِّرُوا مَا عَلَوْا تَدْمِيرًا \" , قَالَ : \" هُوَ بُخْتَنَصَّرُ ، بُعِثَ عَلَيْهِمْ فِي الْمَرَّةِ الآخِرَةِ \" ، ثُمَّ قَالَ : عَسَى رَبُّكُمْ أَنْ يَرْحَمَكُمْ وَإِنْ عُدْتُمْ عُدْنَا سورة الإسراء آية 8 , \" فَعَادُوا ، فَبَعَثَ اللَّهُ عَلَيْهِمْ مُحَمَّدًا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَهُمْ يُعْطُونَ الْجِزْيَةَ عَنْ يَدٍ ، وَهُمْ صَاغِرُونَ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1489,
+      "grade": null
+    },
+    {
+      "hadith_id": 45332,
+      "book_id": 59,
+      "hadith_number": 1490,
+      "english_translation": "Regarding the saying of Allah the Exalted: 'Indeed, he was a grateful servant' (Surah Al-Isra 17:3). Qatadah said: 'He would say when wearing a garment: In the name of Allah. And when it wore out, he would say: All praise is for Allah.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Isra"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : إِنَّهُ كَانَ عَبْدًا شَكُورًا سورة الإسراء آية 3 , قَالَ : \" كَانَ إِذَا لَبِسَ ثَوْبًا \" , قَالَ : \" بِسْمِ اللَّهِ , وَإِذَا أَخْلَقَهُ , قَالَ : الْحَمْدُ لِلَّهِ \" * E266",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1490,
+      "grade": null
+    },
+    {
+      "hadith_id": 45333,
+      "book_id": 59,
+      "hadith_number": 1491,
+      "english_translation": "From Mansur ibn al-Mu'tamir, from Ibrahim al-Nakha'i, he said: 'His gratitude was that he would say the name (of Allah) when he ate, and he would praise Him when he finished.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Interpretation"
+      ],
+      "arabicText": "عَنْ مَنْصُورِ بْنِ الْمُعْتَمِرِ , عَنْ إِبْرَاهِيمَ النَّخَعِيِّ , قَالَ : \" شُكْرُهُ ، أَنْ يُسَمِّيَ إِذَا أَكَلَ , وَيَحْمَدَهُ إِذَا فَرَغَ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1491,
+      "grade": null
+    },
+    {
+      "hadith_id": 45334,
+      "book_id": 59,
+      "hadith_number": 1492,
+      "english_translation": "From Ma'mar, from Ibn Tawus, from his father, from Abu Hurayrah, he said: 'When it is the Day of Resurrection, Allah will gather the people of the interval period (between prophets), and the insane, and the deaf, and the mute, and the elderly who did not reach (the era of) Islam. Then He will send a messenger [commanding] that they enter the Fire.' He said: 'They will say: How can this be when no messenger came to us?' He said: 'By Allah, if they had entered it, it would have been cool and peaceful for them. Then He will send to them, and whoever was going to obey Him will obey him.' Then Abu Hurayrah said: 'Recite if you wish: 'And We would not punish until We sent a messenger' (17:15).'",
+      "chains": [
+        {
+          "type": "marfu",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن طاوس",
+              "full_name": "عبد الله بن طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "طاوس",
+              "full_name": "طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> ابن طاوس -> طاوس -> أبو هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain uses ambiguous transmission term 'an (عَنْ) throughout",
+          "impact": "While all narrators are reliable (Thiqah), the use of 'an throughout the chain means potential for tadlis cannot be completely ruled out. However, none of these narrators are known as prominent mudallisun, and the chain is otherwise strong."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "People of the Interval Period on Day of Judgment"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ , عَنْ أَبِي هُرَيْرَةَ , قَالَ : \" إِذَا كَانَ يَوْمُ الْقِيَامَةِ ، جَمَعَ اللَّهُ أَهْلَ الْفَتْرَةِ ، وَالْمَعْتُوهَ , وَالأَصَمَّ , وَالأَبْكَمَ , وَالشِّيُوخَ الَّذِينَ لَمْ يُدْرِكُوا الإِسْلامَ , ثُمَّ يُرْسِلُ رَسُولا أَنْ يَدْخُلُوا النَّارَ \" , قَالَ : \" فَيَقُولُونَ : كَيْفَ وَلَمْ يَأْتِنَا رَسُولٌ ؟ , قَالَ : \" وَايْمِ اللَّهِ ، لَوْ دَخَلُوهَا لَكَانَتْ عَلَيْهِمْ بَرْدًا وَسَلامًا , ثُمَّ يُرْسِلُ إِلَيْهِمْ ، فَيُطِيعُهُ مَنْ كَانَ يُرِيدُ أَنْ يُطِيعَهُ \" ، قَالَ : ثُمَّ قَالَ أَبُو هُرَيْرَةَ : \" اقْرَءُوا إِنْ شِئْتُمْ \" : وَمَا كُنَّا مُعَذِّبِينَ حَتَّى نَبْعَثَ رَسُولا سورة الإسراء آية 15 *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1492,
+      "grade": null
+    },
+    {
+      "hadith_id": 45335,
+      "book_id": 59,
+      "hadith_number": 1493,
+      "english_translation": "From Ma'mar, from Qatadah, regarding the saying of Allah the Exalted: 'And We have made Hell for the disbelievers a prison-bed (hasiran)' (Surah Al-Isra 17:8). Muhib said: 'They are confined in it.' And al-Hasan said: 'Hasiran - a bed and resting place.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Isra"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَجَعَلْنَا جَهَنَّمَ لِلْكَافِرِينَ حَصِيرًا سورة الإسراء آية 8 , قَالَ مُحِبٌّ : \" حُصِرُوا فِيهَا \" , وَقَالَ الْحَسَنُ : \" حَصِيرًا فِرَاشًا مِهَادًا \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1493,
+      "grade": null
+    },
+    {
+      "hadith_id": 45336,
+      "book_id": 59,
+      "hadith_number": 1494,
+      "english_translation": "Regarding the saying of Allah the Exalted: 'And man supplicates for evil as he supplicates for good' (Surah Al-Isra 17:11). Qatadah said: 'He supplicates against himself with that which, if it were answered for him, he would perish. Or against his servant, or against his wealth.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Isra"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَيَدْعُ الإِنْسَانُ بِالشَّرِّ دُعَاءَهُ بِالْخَيْرِ سورة الإسراء آية 11 , قَالَ : \" يَدْعُو عَلَى نَفْسِهِ بِمَا لَوِ اسْتُجِيبَ لَهُ هَلَكَ , أَوْ عَلَى خَادِمِهِ , أَوْ عَلَى مَالِهِ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1494,
+      "grade": null
+    },
+    {
+      "hadith_id": 45337,
+      "book_id": 59,
+      "hadith_number": 1495,
+      "english_translation": "Regarding the saying of Allah the Exalted: 'And every person We have fastened to him his bird (omen) on his neck' (Surah Al-Isra 17:13). Qatadah said: 'His deed, and We will bring forth for him that deed as a book he will find spread open.' Ma'mar said: And al-Hasan said: 'His bird - his deed, his misery, or his happiness.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Isra"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَكُلَّ إِنْسَانٍ أَلْزَمْنَاهُ طَائِرَهُ فِي عُنُقِهِ سورة الإسراء آية 13 , قَالَ : \" عَمَلُهُ ، وَنُخْرِجُ لَهُ ذَلِكَ الْعَمَلَ كِتَابًا يَلْقَاهُ مَنْشُورًا \" , قَالَ مَعْمَرٌ : وَقَالَ الْحَسَنُ : \" طَائِرُهُ عَمَلُهُ , شَقَاؤُهُ , أَوْ سَعَادَتُهُ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1495,
+      "grade": null
+    },
+    {
+      "hadith_id": 45338,
+      "book_id": 59,
+      "hadith_number": 1496,
+      "english_translation": "Regarding the saying of Allah the Exalted: 'And when We intend to destroy a town, We command its affluent' (Surah Al-Isra 17:16). He said: 'We multiply them.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Isra"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَإِذَا أَرَدْنَا أَنْ نُهْلِكَ قَرْيَةً أَمَرْنَا مُتْرَفِيهَا سورة الإسراء آية 16 ، قَالَ : \" أَكْثَرْنَا \" * E267",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1496,
+      "grade": null
+    },
+    {
+      "hadith_id": 45339,
+      "book_id": 59,
+      "hadith_number": 1497,
+      "english_translation": "From Ma'mar, from al-Zuhri, from Urwah, from Zaynab bint Abi Salamah, from Zaynab bint Jahsh, she said: The Prophet ﷺ entered upon Zaynab one day while he was saying: 'There is no deity except Allah. Woe to the Arabs from an evil that has drawn near. Today an opening has been made in the barrier of Gog and Magog like this' - and he made a circle with his thumb and the one next to it. Zaynab said: O Messenger of Allah, shall we perish while there are righteous people among us? He said: 'Yes, when wickedness becomes abundant.'",
+      "chains": [
+        {
+          "type": "marfu",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن شهاب الزهري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            },
+            {
+              "name": "عروة",
+              "full_name": "عروة بن الزبير بن العوام الأسدي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "زينب بنت أبي سلمة",
+              "full_name": "زينب بنت أبي سلمة بن عبد الأسد المخزومية",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "زينب بنت جحش",
+              "full_name": "زينب بنت جحش بن رئاب الأسدية",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> الزهري -> عروة -> زينب بنت أبي سلمة -> زينب بنت جحش -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "Al-Zuhri is classified as a mudallis by some scholars (category 3 in Ibn Hajar's classification), and here uses the ambiguous term 'an (عَنْ). However, al-Zuhri is generally considered extremely reliable (Thiqah Thabt) and one of the greatest scholars of his generation. His use of 'an is generally accepted by the majority of scholars. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Signs of the Hour - Gog and Magog",
+        "Dialogue between the Prophet ﷺ and Zaynab bint Jahsh",
+        "Destruction when wickedness becomes abundant"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ الزُّهْرِيِّ ، عَنْ عُرْوَةَ , عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ , عَنْ زَيْنَبَ بِنْتِ جَحْشٍ , قَالَتْ : دَخَلََ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَوْمًا عَلَى زَيْنَبَ وَهُوَ يَقُولُ : \" لا إِلَهَ إِلا اللَّهُ ، وَيْلٌ لِلْعَرَبِ مِنْ شَرٍّ قَدِ اقْتَرَبَ ، فُتِحَ الْيَوْمَ مِنْ رَدْمِ يَأْجُوجَ , وَمَأْجُوجَ مِثْلُ هَذَا \" ، وَحَلَّقَ إِبْهَامَهُ وَالَّتِي تَلِيَهَا , قَالَتْ زَيْنَبَ : يَا رَسُولَ اللَّهِ , أَنَهْلِكُ وَفِينَا الصَّالِحُونَ ؟ , قَالَ : \" نَعَمْ إِذَا كَثُرَ الْخَبَثُ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1497,
+      "grade": null
+    },
+    {
+      "hadith_id": 45340,
+      "book_id": 59,
+      "hadith_number": 1498,
+      "english_translation": "From Ma'mar, from Ibn Tawus, from his father, he said: Mu'adh ibn Jabal said: 'Leave Yemen before three things: before the emergence of the fire, before the cutting off of stratagems, and before there will be no provision for its people except locusts.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن طاوس",
+              "full_name": "عبد الله بن طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "طاوس",
+              "full_name": "طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> ابن طاوس -> طاوس"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Interpretation"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ , قَالَ : قَالَ مُعَاذُ بْنُ جَبَلٍ : \" اخْرُجُوا مِنَ الْيَمَنِ قَبْلَ ثَلاثٍ ، قَبْلَ خُرُوجِ النَّارِ , وَقَبْلَ انْقِطَاعِ الْحِيَلِ , وَقَبْلَ أَلا يَكُونَ لأَهْلِهَا زَادٌ إِلا الْجَرَادَ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1498,
+      "grade": null
+    },
+    {
+      "hadith_id": 45341,
+      "book_id": 59,
+      "hadith_number": 1499,
+      "english_translation": "From Ma'mar, from Ibn Tawus, from his father, he said: 'A fire will emerge from Yemen that will drive the people. It will go forth in the morning and rest, and will rage.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن طاوس",
+              "full_name": "عبد الله بن طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "طاوس",
+              "full_name": "طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> ابن طاوس -> طاوس"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Interpretation"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ , قَالَ : \" تَخْرُجُ نَارٌ مِنَ الْيَمَنِ ، تَسُوقُ النَّاسَ ، وَتَغْدُو ، وَتَرُوحُ ، وَتَلِجُ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1499,
+      "grade": null
+    },
+    {
+      "hadith_id": 45342,
+      "book_id": 59,
+      "hadith_number": 1500,
+      "english_translation": "From Ma'mar, from al-Zuhri, he said: 'A fire will emerge in the land of Hijaz that will illuminate the necks of camels in Busra.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Quranic Interpretation"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ الزُّهْرِيِّ , قَالَ : \" تَخْرُجُ نَارٌ بِأَرْضِ الْحِجَازِ ، تُضِيءُ أَعْنَاقَ الإِبِلِ بِبُصْرَى \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1500,
+      "grade": null
+    },
+    {
+      "hadith_id": 45343,
+      "book_id": 59,
+      "hadith_number": 1501,
+      "english_translation": "From Ma'mar, from Qatadah, who narrates it, he said: 'A fire will emerge from the east of the earth that will drive people to its west like the driving of scattered cattle. It will rest with them when they rest, and spend the night with them when they spend the night, and it will consume whoever falls behind.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Interpretation"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , يَرْوِيهِ قَالَ : \" تَخْرُجُ نَارٌ مِنْ مَشَارِقِ الأَرْضِ ، تَسُوقُ النَّاسَ إِلَى مَغَارِبِهَا سَوْقَ الْبَرْقِ الْكَسِيرِ , تَقِيلُ مَعَهُمْ إِذَا قَالُوا , وَتَبِيتُ مَعَهُمْ إِذَا بَاتُوا , وَتَأْكُلُ مَنْ تَخَلَّفَ \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1501,
+      "grade": null
+    },
+    {
+      "hadith_id": 45344,
+      "book_id": 59,
+      "hadith_number": 1502,
+      "english_translation": "Regarding the saying of Allah the Exalted: 'And the gift of your Lord is not restricted' (Surah Al-Isra 17:20). Qatadah said: 'Not diminished.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> قتادة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is a known mudallis (category 3) using 'an (عَنْ)",
+          "impact": "قتادة is classified as a mudallis by Ibn Hajar (category 3), and here uses the ambiguous term 'an (عَنْ). However, قتادة is generally considered highly reliable (Thiqah Thabt), so this does not significantly affect the grade. Direct transmission terms would be preferred."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Quranic Exegesis of Surah Al-Isra"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنْ قَتَادَةَ , فِي قَوْلِهِ تَعَالَى : وَمَا كَانَ عَطَاءُ رَبِّكَ مَحْظُورًا سورة الإسراء آية 20 , قَالَ : \" مَنْقُوصًا \" *",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1502,
+      "grade": null
+    },
+    {
+      "hadith_id": 45345,
+      "book_id": 59,
+      "hadith_number": 1503,
+      "english_translation": "From Ma'mar, from Ibn Tawus, from his father, he said: 'A time will surely come upon people when the best of their dwellings will be the desert, which the Messenger of Allah ﷺ forbade.'",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "معمر بن راشد الأزدي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن طاوس",
+              "full_name": "عبد الله بن طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "طاوس",
+              "full_name": "طاوس بن كيسان اليماني",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "معمر -> ابن طاوس -> طاوس"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Living in the Desert"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ , عَنِ ابْنِ طَاوُسٍ , عَنْ أَبِيهِ , قَالَ : \" لَيَأْتِيَنَّ عَلَى النَّاسِ زَمَانٌ ، وَخَيْرُ مَنَازِلِهِمُ الَّتِي نَهَى عَنْهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْبَادِيَةُ \" * E268",
+      "collection": "Tafsir Abd al-Razzaq",
+      "reference_number": 1503,
+      "grade": null
+    }
+  ]
+}
