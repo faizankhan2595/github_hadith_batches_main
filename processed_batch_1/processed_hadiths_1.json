@@ -5,6 +5,7 @@
   "hadiths": [
     {
       "hadith_id": 2,
+      "book_id": 1,
       "hadith_number": 2,
       "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: 'The intention of the believer is better than his deed.'",
       "chains": [
@@ -17,7 +18,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -25,7 +27,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Abdullah ibn Abbas",
@@ -33,7 +36,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 4883
             }
           ],
           "chainIssues": [
@@ -67,6 +71,7 @@
     },
     {
       "hadith_id": 3,
+      "book_id": 1,
       "hadith_number": 3,
       "english_translation": "Narrated by Ibn Abbas: With this same chain in another narration from him (the Prophet ﷺ), he said: 'Actions are only by intentions, and for every person is what they intended.'",
       "chains": [
@@ -79,7 +84,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -87,7 +93,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Abdullah ibn Abbas",
@@ -95,7 +102,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 4883
             }
           ],
           "chainIssues": [
@@ -129,6 +137,7 @@
     },
     {
       "hadith_id": 5,
+      "book_id": 1,
       "hadith_number": 5,
       "english_translation": "Narrated by Aisha, Mother of the Believers (may Allah be pleased with her): Al-Harith ibn Hisham asked the Messenger of Allah ﷺ: 'How does revelation come to you, O Messenger of Allah?' He said: 'Sometimes it comes to me like the ringing of a bell, and this is the hardest on me, then it leaves me and I have retained what was said. And sometimes the angel appears to me as a man and speaks to me, and I retain what he says.' Aisha (may Allah be pleased with her) said: 'I saw him when revelation was descending upon him on an extremely cold day, and it would leave him with his forehead dripping with sweat.' Al-Rabi' said: 'It leaves him' means 'it becomes clear.'",
       "chains": [
@@ -141,7 +150,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -149,7 +159,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Aisha",
@@ -157,7 +168,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 4049
             }
           ],
           "chainIssues": [
@@ -188,6 +200,7 @@
     },
     {
       "hadith_id": 7,
+      "book_id": 1,
       "hadith_number": 7,
       "english_translation": "Jabir ibn Zayd said: It reached me from the Messenger of Allah ﷺ that he said: 'Teach your children the Quran, for it is the first thing that should be learned from the knowledge of Allah.'",
       "chains": [
@@ -200,7 +213,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -210,7 +224,8 @@
               "transmissionTerm": "بَلَغَنِي",
               "reliabilityIssues": [
                 "Uses mursal transmission (balaghani - 'it reached me') without mentioning the intermediary narrator"
-              ]
+              ],
+              "narrator_id": 2063
             }
           ],
           "chainIssues": [
@@ -230,10 +245,10 @@
         },
         {
           "issue": "Unknown intermediary",
-          "impact": "Since we don't know who the missing link(s) in the chain are, we cannot evaluate their reliability. The missing narrator(s) could be reliable or unreliable, making the hadith problematic for authentication."
+          "impact": "Since we don't know who the missing link(s) in the chain are, we cannot evaluate their reliability. The missing narrator(s) could be reliable or unreliable, making the hadith questionable for authentication. However, this is a disconnection issue, not an issue of narrator dishonesty."
         }
       ],
-      "IISGrade": "Problematic",
+      "IISGrade": "Weak But Might Be Acceptable",
       "Topics": [
         "Teaching Children the Quran",
         "Priority of Quranic Education"
@@ -245,6 +260,7 @@
     },
     {
       "hadith_id": 8,
+      "book_id": 1,
       "hadith_number": 8,
       "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'When you recite the Quran, recite it with tarteel (measured recitation), and beautify your voices with it, for Allah loves that the angels hear His remembrance.'",
       "chains": [
@@ -257,7 +273,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -265,7 +282,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Abu Hurayrah",
@@ -273,7 +291,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 4396
             }
           ],
           "chainIssues": [
@@ -303,6 +322,7 @@
     },
     {
       "hadith_id": 9,
+      "book_id": 1,
       "hadith_number": 9,
       "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ said: 'The example of the companion of the Quran is like the example of the owner of hobbled camels. If he tends to them, he keeps them, and if he releases them, they go away.'",
       "chains": [
@@ -315,7 +335,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -323,7 +344,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Abu Sa'id al-Khudri",
@@ -331,7 +353,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 3260
             }
           ],
           "chainIssues": [
@@ -361,6 +384,7 @@
     },
     {
       "hadith_id": 10,
+      "book_id": 1,
       "hadith_number": 10,
       "english_translation": "Narrated by Ibn Abbas: The Messenger of Allah ﷺ said: 'Whoever learns the Quran then forgets it will be resurrected on the Day of Judgment as one with leprosy (ajdham).' Al-Rabi' said: Al-Ajdham means the one whose hand is cut off.",
       "chains": [
@@ -373,7 +397,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -381,7 +406,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Abdullah ibn Abbas",
@@ -389,7 +415,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 4883
             }
           ],
           "chainIssues": [
@@ -422,6 +449,7 @@
     },
     {
       "hadith_id": 11,
+      "book_id": 1,
       "hadith_number": 11,
       "english_translation": "Narrated by Anas ibn Malik, he said: 'The Quran was not compiled during the lifetime of the Messenger of Allah ﷺ except by six people, all of them from the Ansar: Ubayy, Mu'adh, Zayd, Abu Zayd, Abu Ayyub, and Uthman. As for the rest of the Companions, some would memorize several numbered chapters from the Quran, and some would memorize one chapter or two chapters.'",
       "chains": [
@@ -434,7 +462,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -442,7 +471,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Anas ibn Malik",
@@ -450,7 +480,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "قَالَ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 720
             }
           ],
           "chainIssues": [
@@ -485,6 +516,7 @@
     },
     {
       "hadith_id": 12,
+      "book_id": 1,
       "hadith_number": 12,
       "english_translation": "Narrated by Abu Sa'id al-Khudri: A man heard another man reciting 'Say: He is Allah, the One. Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent' (Surah al-Ikhlas), and he was repeating it. When morning came, he went to the Messenger of Allah ﷺ and mentioned that to him, as if the man was considering it insignificant. The Messenger of Allah ﷺ said: 'By the One in whose hand is my soul, it is equal to one-third of the Quran.'",
       "chains": [
@@ -497,7 +529,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -505,7 +538,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Abu Sa'id al-Khudri",
@@ -513,7 +547,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "أَنَّ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 3260
             }
           ],
           "chainIssues": [
@@ -548,6 +583,7 @@
     },
     {
       "hadith_id": 13,
+      "book_id": 1,
       "hadith_number": 13,
       "english_translation": "Narrated by Abu Hurayrah, he said: I was walking with the Messenger of Allah ﷺ, and he heard a man reciting 'Say: He is Allah, the One' (Surah al-Ikhlas) to its end. The Messenger of Allah ﷺ said: 'It is obligatory.' I said: 'What is obligatory, O Messenger of Allah?' He said: 'Paradise.' Abu Hurayrah said: 'I wanted to go to the man and give him glad tidings, but then I feared that I would miss the meal with the Messenger of Allah ﷺ, so I gave preference to the meal with the Messenger of Allah ﷺ. Then I went to the man and found that he had gone.'",
       "chains": [
@@ -560,7 +596,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -568,7 +605,8 @@
               "grade": "Thiqah",
               "generation": "First Generation",
               "transmissionTerm": "عَنْ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 2063
             },
             {
               "name": "Abu Hurayrah",
@@ -576,7 +614,8 @@
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "قَالَ",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 4396
             }
           ],
           "chainIssues": [
@@ -599,13 +638,14 @@
         "Virtue of Surah al-Ikhlas Leading to Paradise",
         "Abu Hurayrah's Preference for the Prophet's ﷺ Company"
       ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : أَقْبَلْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" فَسَمِعَ رَجُلا يَقْرَأُ : قُلْ هُوَ اللَّهُ أَحَدٌ سورة الإخلاص آية 1 ، إِلَى آخِرِهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَجَبَتْ \" ، فَقُلْتُ : مَاذَا يَا رَسُولَ اللَّهِ ؟ ، فَقَالَ : \" الْجَنَّةُ \" ، قَالَ أَبُو هُرَيْرَةَ : فَأَرَدْتُ أَنْ أَذْهَبَ إِلَى الرَّجُلِ فَأُبَشِّرَهُ ، ثُمَّ خِفْتُ أَنْ يَفُوتَنِي الْغَدَاءُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَآثَرْتُ الْغَدَاءَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ ذَهَبْتُ إِلَى الرَّجُلِ فَوَجَدْتُهُ قَدْ ذَهَبَ \"",
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : أَقْبَلْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" فَسَمِعَ رَجُلا يَقْرَأُ : قُلْ هُوَ اللَّهُ أَحَدٌ سورة الإخلاص آية 1 ، إِلَى آخِرِهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَجَبَتْ \" ، فَقُلْتُ : مَاذَا يَا رَسُولَ اللَّهِ ؟ ، فَقَالَ : \" الْجَنَّةُ \" ، قَالَ أَبُو هُرَيْرَةَ : فَأَرَدْتُ أَنْ أَذْهَبَ إِلَى الرَّجُلِ فَأُبَشِّرَهُ ، ثُمَّ خِفْتُ أَنْ يَفُوتَنِي الْغَدَاءُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَآثَرْتُ الْغَدَاءُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ ذَهَبْتُ إِلَى الرَّجُلِ فَوَجَدْتُهُ قَدْ ذَهَبَ \"",
       "collection": "كتاب رقم 1",
       "reference_number": 13,
       "grade": "Acceptable - with minor uncertainty about direct hearing"
     },
     {
       "hadith_id": 14,
+      "book_id": 1,
       "hadith_number": 14,
       "english_translation": "Jabir ibn Zayd said: It reached me that Umar ibn al-Khattab (may Allah be pleased with him) went out with the Messenger of Allah ﷺ on one of his journeys. Umar ibn al-Khattab (may Allah be pleased with him) asked him about something, but the Messenger of Allah ﷺ did not answer him. Then he asked him three times, but he did not answer him. So Umar said to himself: 'May your mother be bereaved of you, O Umar! You have pestered the Messenger of Allah ﷺ three times, and each time he did not answer you.' Umar said: 'So I urged my camel forward until I was ahead of the people, and I feared that Quran would be revealed about me. I had not walked far when I heard a caller calling, so I hurried until I came to the Messenger of Allah ﷺ and greeted him. He said: 'A surah has been revealed to me that is dearer to me than anything over which the sun rises.' Then he recited: 'Indeed, We have given you a clear conquest' (Surah al-Fath 48:1).'",
       "chains": [
@@ -618,7 +658,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -628,7 +669,8 @@
               "transmissionTerm": "بَلَغَنِي",
               "reliabilityIssues": [
                 "Uses mursal transmission (balaghani - 'it reached me') without mentioning the intermediary narrator"
-              ]
+              ],
+              "narrator_id": 2063
             }
           ],
           "chainIssues": [
@@ -648,10 +690,10 @@
         },
         {
           "issue": "Unknown intermediary between Jabir ibn Zayd and Umar",
-          "impact": "Without knowing who transmitted this report to Jabir ibn Zayd from Umar ibn al-Khattab (who died in 23 AH, before Jabir was likely born or when he was very young), we cannot evaluate the reliability of that link. The missing narrator could be reliable or weak, making authentication impossible through this particular chain."
+          "impact": "Without knowing who transmitted this report to Jabir ibn Zayd from Umar ibn al-Khattab (who died in 23 AH, before Jabir was likely born or when he was very young), we cannot evaluate the reliability of that link. The missing narrator could be reliable or weak, making authentication through this particular chain uncertain. However, this is a disconnection issue, not an issue of narrator dishonesty."
         }
       ],
-      "IISGrade": "Problematic",
+      "IISGrade": "Weak But Might Be Acceptable",
       "Topics": [
         "Incident of Revelation of Surah al-Fath",
         "Umar ibn al-Khattab's Fear of Divine Rebuke",
@@ -664,6 +706,7 @@
     },
     {
       "hadith_id": 15,
+      "book_id": 1,
       "hadith_number": 15,
       "english_translation": "Jabir ibn Zayd said: The Messenger of Allah ﷺ said concerning the one in a state of janabah (major ritual impurity), the menstruating woman, and those who are not in a state of purity: 'They should not recite the Quran, nor should they touch a mushaf (Quran manuscript) with their hands until they have performed wudu (ablution).'",
       "chains": [
@@ -676,7 +719,8 @@
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "حَدَّثَنِي",
-              "reliabilityIssues": []
+              "reliabilityIssues": [],
+              "narrator_id": 31544
             },
             {
               "name": "Jabir ibn Zayd",
@@ -686,7 +730,8 @@
               "transmissionTerm": "قَالَ",
               "reliabilityIssues": [
                 "Direct statement 'The Messenger of Allah said' without mentioning a companion intermediary, indicating mursal transmission"
-              ]
+              ],
+              "narrator_id": 2063
             }
           ],
           "chainIssues": [
@@ -706,15 +751,15 @@
         },
         {
           "issue": "Unknown intermediary identity and reliability",
-          "impact": "Since we don't know which companion (if any) transmitted this to Jabir ibn Zayd, or if there were additional intermediaries, we cannot evaluate the reliability of the complete chain. This makes the hadith problematic for authentication through this particular chain, even though the known narrators (Abu Ubaydah and Jabir ibn Zayd) are reliable."
+          "impact": "Since we don't know which companion (if any) transmitted this to Jabir ibn Zayd, or if there were additional intermediaries, we cannot evaluate the reliability of the complete chain. This makes the hadith uncertain for authentication through this particular chain, even though the known narrators (Abu Ubaydah and Jabir ibn Zayd) are reliable. However, this is a disconnection issue, not an issue of narrator dishonesty."
         }
       ],
-      "IISGrade": "Problematic",
+      "IISGrade": "Weak But Might Be Acceptable",
       "Topics": [
         "Ritual Purity Requirements for Reciting and Touching the Quran",
-        "Rulings on Quran Recitation During Janabah and Menstruation"
+        "Conditions for Quran Recitation During Janabah and Menstruation"
       ],
-      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنِ زَيْدٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْجُنُبِ , وَالْحَائِضِ , وَالَّذِينَ لَمْ يَكُونُوا عَلَى طَهَارَةٍ : \" لا يَقْرَءُونَ الْقُرْآنَ ، وَلا يَطْوُونَ مُصْحَفًا بِأَيْدِيهِمْ حَتَّى يَكُونُوا مُتَوَضِّئِينَ \"",
+      "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرِ بْنُ زَيْدٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي الْجُنُبِ , وَالْحَائِضِ , وَالَّذِينَ لَمْ يَكُونُوا عَلَى طَهَارَةٍ : \" لا يَقْرَءُونَ الْقُرْآنَ ، وَلا يَطْوُونَ مُصْحَفًا بِأَيْدِيهِمْ حَتَّى يَكُونُوا مُتَوَضِّئِينَ \"",
       "collection": "كتاب رقم 1",
       "reference_number": 15,
       "grade": "Weak - Mursal hadith without named intermediary"
@@ -734,6 +779,7 @@
       "Jabir ibn Zayd al-Azdi": "Thiqah by consensus - prominent First Generation Tabi'i, famous student of Ibn Abbas, known for his knowledge and reliability",
       "Companions mentioned": "All Companions are considered reliable by default according to classical hadith methodology"
     },
-    "overall_assessment": "The collection contains 12 actual hadiths (excluding 3 chapter headings). The reliability varies significantly: 3 hadiths are clearly mursal/problematic (#7, #14, #15), 1 is a sound mawquf statement (#11), and the rest range from acceptable to questionable depending on the strength of the Jabir-Companion connection. The mursal hadiths require supporting evidence from other chains for acceptance. Many of these hadiths are known through other chains in the classical hadith literature, so their acceptance often depends on those alternative transmissions rather than this particular collection's chains."
+    "overall_assessment": "The collection contains 12 actual hadiths (excluding 3 chapter headings). The reliability varies significantly: 3 hadiths are mursal/disconnected (#7, #14, #15), 1 is a sound mawquf statement (#11), and the rest range from acceptable to questionable depending on the strength of the Jabir-Companion connection. The mursal hadiths are graded as 'Weak But Might Be Acceptable' rather than 'Problematic' because the issue is disconnection in the chain, not narrator dishonesty. Many of these hadiths are known through other chains in the classical hadith literature, so their acceptance often depends on those alternative transmissions rather than this particular collection's chains.",
+    "grading_criteria_update": "This reprocessed version applies the updated CLAUDE.md grading criteria where 'Problematic' is reserved ONLY for narrators accused of lying (Kadhdhab, Wadda'). Disconnected chains (mursal, balaghani) and weak memory narrators are now graded as 'Weak But Might Be Acceptable' instead of 'Problematic'."
   }
 }

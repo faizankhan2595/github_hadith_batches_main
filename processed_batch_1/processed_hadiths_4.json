@@ -5,6 +5,7 @@
   "hadiths": [
     {
       "hadith_id": 46,
+      "book_id": 1,
       "hadith_number": 46,
       "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: 'Allah would not gather my Ummah upon misguidance.'",
       "chains": [
@@ -13,15 +14,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -29,6 +32,7 @@
             },
             {
               "name": "Ibn Abbas",
+              "narrator_id": 4883,
               "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
               "grade": "Companion",
               "generation": "Companion",
@@ -37,40 +41,42 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd is unclear - may indicate missing narrators",
-            "Abu Ubaydah ibn Abdullah did not meet his father Abdullah ibn Masud, raising questions about his other transmissions"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term indicating possible indirect transmission",
+            "The beginning of the chain is unclear - how Abu Ubaydah received this narration is not specified",
+            "Potential missing narrator(s) between the compiler/author and Abu Ubaydah"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Ibn Abbas -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "While Jabir ibn Zayd is not known as a mudallis, the repeated use of 'an weakens the certainty of direct transmission"
+          "impact": "While neither Abu Ubaydah nor Jabir ibn Zayd are classified as mudallisun, the use of 'an leaves room for potential indirect transmission at multiple points in the chain"
         },
         {
-          "issue": "The opening of the chain is unclear - Abu Ubaydah's connection to Jabir ibn Zayd is not well-documented",
-          "impact": "Potential missing link in the chain, though both narrators are individually considered reliable"
+          "issue": "The beginning of the chain lacks clarity - no transmission term between compiler and Abu Ubaydah",
+          "impact": "Suggests potential missing link at the start of the chain, though individual narrators are reliable"
         },
         {
-          "issue": "Abu Ubaydah ibn Abdullah is known not to have met his father Abdullah ibn Masud (died before his birth), which raises questions about claims of direct transmission in his other narrations",
-          "impact": "While this doesn't directly affect this chain, it suggests caution is needed when evaluating his narrations"
+          "issue": "Abu Ubaydah ibn Abdullah is famously known not to have met his father Abdullah ibn Mas'ud",
+          "impact": "While this doesn't affect THIS specific chain (as it doesn't involve his father), it demonstrates caution is needed when evaluating claims of direct hearing in his narrations"
         }
       ],
-      "IISGrade": "Questionable But Might Be Acceptable",
+      "IISGrade": "Acceptable",
       "Topics": [
-        "Unity of the Ummah",
-        "Divine protection from collective misguidance"
+        "Unity of the Ummah on truth",
+        "Divine protection from collective misguidance",
+        "Consensus of the Ummah"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" مَا كَانَ اللَّهُ لِيَجْمَعَ أُمَّتِي عَلَى ضَلالٍ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 46
     },
     {
       "hadith_id": 47,
+      "book_id": 1,
       "hadith_number": 47,
       "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: 'You will differ after me, so whatever comes to you from me, then present it to the Book of Allah. Whatever agrees with it is from me, and whatever contradicts it is not from me.'",
       "chains": [
@@ -79,15 +85,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -95,6 +103,7 @@
             },
             {
               "name": "Ibn Abbas",
+              "narrator_id": 4883,
               "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
               "grade": "Companion",
               "generation": "Companion",
@@ -103,39 +112,41 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term",
+            "The beginning of the chain is unclear - how Abu Ubaydah received this is not specified",
+            "Potential missing narrator(s) at the start of the chain"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Ibn Abbas -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "This hadith is known to be problematic in its attribution to the Prophet ﷺ - it is widely considered fabricated (mawdu') by hadith scholars",
-          "impact": "The content contradicts authentic methodology - the Sunnah is also revelation and cannot be rejected based solely on apparent contradiction with Quran"
-        },
-        {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "Weakens the certainty of direct transmission at multiple points"
+          "impact": "Leaves room for potential indirect transmission, though the narrators themselves are individually reliable"
         },
         {
-          "issue": "The opening of the chain lacks clarity regarding Abu Ubaydah's source",
-          "impact": "Potential disconnection or missing narrator at the beginning of the chain"
+          "issue": "The beginning of the chain lacks clarity",
+          "impact": "Potential missing link between compiler and Abu Ubaydah"
+        },
+        {
+          "issue": "CONTENT NOTE (not affecting chain grade): This hadith is widely considered fabricated (mawdu') by hadith scholars due to its problematic methodology",
+          "impact": "The content contradicts authentic Islamic methodology where Sunnah is also revelation and cannot be rejected based solely on apparent contradiction with Quran. However, per updated criteria, content issues do not affect the IISGrade which focuses solely on chain analysis"
         }
       ],
-      "IISGrade": "Problematic",
+      "IISGrade": "Acceptable",
       "Topics": [
-        "Verification of narrations against the Quran",
-        "Prediction of differences after the Prophet ﷺ"
+        "Prediction of differences after the Prophet ﷺ",
+        "Verification methodology for narrations"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِنَّكُمْ سَتَخْتَلِفُونَ مِنْ بَعْدِي ، فَمَا جَاءَكُمْ عَنِّي فَاعْرِضُوهُ عَلَى كِتَابِ اللَّهِ ، فَمَا وَافَقَهُ فَعَنِّي ، وَمَا خَالَفَهُ فَلَيْسَ عَنِّي \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 47
     },
     {
       "hadith_id": 48,
+      "book_id": 1,
       "hadith_number": 48,
       "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: 'My Ummah will divide into seventy-three sects, all of them to the Fire except one that will be saved, and all of them will claim to be that one.'",
       "chains": [
@@ -144,15 +155,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -160,6 +173,7 @@
             },
             {
               "name": "Ibn Abbas",
+              "narrator_id": 4883,
               "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
               "grade": "Companion",
               "generation": "Companion",
@@ -168,40 +182,42 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term",
+            "The beginning of the chain is unclear",
+            "Potential missing narrator(s) at the start"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Ibn Abbas -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "The basic hadith about sects exists in authentic collections, but this specific wording with 'all of them will claim to be that one' is not found in the strongest versions",
-          "impact": "This addition appears to be an insertion, making the exact wording questionable even if the general concept has authentic basis"
-        },
-        {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "Weakens the certainty of direct transmission"
+          "impact": "Weakens certainty of direct transmission, though narrators are individually reliable"
         },
         {
-          "issue": "Unclear connection at the beginning of the chain",
-          "impact": "Potential missing narrator between the compiler and Jabir ibn Zayd"
+          "issue": "The beginning of the chain lacks transmission term specification",
+          "impact": "Potential missing narrator between compiler and Abu Ubaydah"
+        },
+        {
+          "issue": "CONTENT NOTE: The basic hadith about sects exists in authentic collections, but the specific addition 'all of them will claim to be that one' is not found in the strongest versions",
+          "impact": "This particular wording may be an insertion, though chain quality alone determines IISGrade"
         }
       ],
-      "IISGrade": "Questionable But Might Be Acceptable",
+      "IISGrade": "Acceptable",
       "Topics": [
         "Prediction of sectarian division in the Ummah",
         "The saved sect",
-        "Signs of the Last Days"
+        "Warning about religious divisions"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" سَتَفْتَرِقُ أُمَّتِي عَلَى ثَلاثٍ وَسَبْعِينَ فِرْقَةً ، كُلُّهُنَّ إِلَى النَّارِ مَا خَلا وَاحِدَةً نَاجِيَةً ، وَكُلُّهُمْ يَدَّعِي تِلْكَ الْوَاحِدَةَ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 48
     },
     {
       "hadith_id": 49,
+      "book_id": 1,
       "hadith_number": 49,
       "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: 'Allah has cursed whoever introduces an innovation in Islam or gives shelter to an innovator.'",
       "chains": [
@@ -210,15 +226,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -226,6 +244,7 @@
             },
             {
               "name": "Ibn Abbas",
+              "narrator_id": 4883,
               "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
               "grade": "Companion",
               "generation": "Companion",
@@ -234,40 +253,41 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term",
+            "The beginning of the chain is unclear",
+            "Potential missing narrator(s) at the start"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Ibn Abbas -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "This hadith is more famously narrated from Aisha, not Ibn Abbas, in the authentic collections (Bukhari and Muslim). The wording here differs from the authentic versions",
-          "impact": "The attribution to Ibn Abbas with this specific wording raises questions about accuracy, though the general meaning has authentic basis through other chains"
-        },
-        {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "Weakens the certainty of direct transmission"
+          "impact": "Weakens certainty of direct transmission, though individual narrators are reliable"
         },
         {
-          "issue": "Unclear connection at the beginning of the chain",
-          "impact": "Potential missing narrator or disconnection"
+          "issue": "The beginning of the chain lacks clarity",
+          "impact": "Potential missing narrator at the start of the chain"
+        },
+        {
+          "issue": "CONTENT NOTE: This hadith is more famously narrated from Aisha (not Ibn Abbas) in Sahih Bukhari and Muslim with different wording",
+          "impact": "The attribution to Ibn Abbas with this specific wording requires scrutiny, though chain quality determines IISGrade"
         }
       ],
-      "IISGrade": "Questionable But Might Be Acceptable",
+      "IISGrade": "Acceptable",
       "Topics": [
-        "Religious innovation",
-        "Protection of Islamic teachings",
-        "Supporting innovators"
+        "Religious innovation and its rejection",
+        "Supporting or sheltering innovators"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" لَعَنَ اللَّهُ مَنْ أَحْدَثَ فِي الإِسْلامِ حَدَثًا أَوْ آوَى مُحْدِثًا \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 49
     },
     {
       "hadith_id": 50,
+      "book_id": 1,
       "hadith_number": 50,
       "english_translation": "Narrated by Abu Hurayrah: The Prophet ﷺ went out to the graveyard and said: 'Peace be upon you, dwelling place of believing people. We, if Allah wills, will join you. I wish that I had seen my brothers.' They said: 'O Messenger of Allah, are we not your brothers?' He said: 'Rather, you are my Companions. My brothers are those who will come after me, and I am their forerunner at the Hawd (Pool).' They said: 'O Messenger of Allah, how will you recognize those who come after you?' He said: 'Do you not see that if a man had horses with white blazes and white feet among entirely black horses, would he not recognize his horses?' They said: 'Yes, O Messenger of Allah.' He said: 'They will come on the Day of Resurrection with white blazes and white feet from the traces of wudu, and I am their forerunner at the Hawd. Men will be driven away from my Hawd just as a stray camel is driven away. I will call to them: Come here! But it will be said: They changed after you. So I will say: Away with them, away with them!'",
       "chains": [
@@ -276,15 +296,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -292,6 +314,7 @@
             },
             {
               "name": "Abu Hurayrah",
+              "narrator_id": 4396,
               "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
               "grade": "Companion",
               "generation": "Companion",
@@ -300,27 +323,27 @@
             }
           ],
           "chainIssues": [
-            "The chain uses ambiguous transmission terms including عَنْ (an) and أنَّ (anna)",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation",
-            "The use of أنَّ (anna) between Jabir and Abu Hurayrah suggests potential disconnection"
+            "Chain uses ambiguous transmission terms including عَنْ (an) and أنَّ (anna)",
+            "The use of أنَّ (anna) between Jabir and Abu Hurayrah often suggests indirect transmission or missing link",
+            "The beginning of the chain is unclear"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Abu Hurayrah -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "The use of أنَّ (anna) transmission term often indicates a broken chain or indirect transmission",
-          "impact": "This raises questions about whether Jabir ibn Zayd heard this directly from Abu Hurayrah, though both are reliable narrators and Jabir is known to have narrated from Abu Hurayrah"
+          "issue": "The use of أنَّ (anna) transmission term between Jabir and Abu Hurayrah",
+          "impact": "Often indicates indirect transmission or narration through intermediary, though Jabir ibn Zayd is documented to have narrated from Abu Hurayrah directly and is not a mudallis"
         },
         {
-          "issue": "This hadith exists in authentic collections but through different chains. The specific wording here differs from the Sahih Muslim version",
-          "impact": "While the general content is authentic, this specific wording and chain requires careful evaluation"
+          "issue": "Multiple ambiguous transmission terms in the chain",
+          "impact": "Weakens absolute certainty of direct hearing at each level, though narrators are individually reliable"
         },
         {
-          "issue": "The connection at the beginning of the chain (Abu Ubaydah to Jabir) is unclear",
-          "impact": "Potential missing narrator or unclear transmission method"
+          "issue": "The beginning of the chain lacks clarity",
+          "impact": "Potential missing narrator between compiler and Abu Ubaydah"
         }
       ],
       "IISGrade": "Acceptable",
@@ -329,15 +352,16 @@
         "Distinction between Companions and later believers",
         "Description of the Hawd on Day of Resurrection",
         "Signs of believers from traces of wudu",
-        "Warning about apostasy and changing the religion",
+        "Warning about apostasy and changing religion",
         "Incident of the Prophet ﷺ visiting the graveyard"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، خَرَجَ إِلَى الْمَقْبَرَةِ ، فَقَالَ : \" السَّلامُ عَلَيْكُمْ دَارَ قَوْمٍ مُؤْمِنِينَ ، وَإِنَّا إِنْ شَاءَ اللَّهُ بِكُمْ لاحِقُونَ ، وَدِدْتُ أَنِّي رَأَيْتُ إِخْوَانِي \" ، قَالُوا : يَا رَسُولَ اللَّهِ ، أَلَسْنَا بِإِخْوَانِكَ ؟ ، قَالَ : \" بَلْ أَنْتُمْ أَصْحَابِي ، وَإِنَّمَا إِخْوَانِي الَّذِينَ يَأْتُونَ مِنْ بَعْدِي ، وَأَنَا فَرَطُهُمْ عَلَى الْحَوْضِ \" ، قَالُوا : يَا رَسُولَ اللَّهِ ، كَيْفَ تَعْرِفُ مَنْ يَأْتِي بَعْدَكَ ؟ ، قَالَ : \" أَرَأَيْتُمْ لَوْ كَانَ لِرَجُلٍ خَيْلٌ غُرٌّ مُحَجَّلَةٌ فِي خَيْلٍ دُهْمٍ بُهْمٍ ، أَلا يَعْرِفُ خَيْلَهُ ؟ \" قَالُوا : بَلَى يَا رَسُولَ اللَّهِ ، قَالَ : \" فَإِنَّهُمْ يَأْتُونَ يَوْمَ الْقِيَامَةِ غُرًّا مُحَجَّلِينَ مِنْ أَثَرِ الْوُضُوءِ ، وَأَنَا فَرَطُهُمْ عَلَى الْحَوْضِ ، وَلَيُذَادَنَّ رِجَالٌ عَنْ حَوْضِي كَمَا يُزَادُ الْبَعِيرُ الضَّالُّ فَأُنَادِيهِمْ : أَلا هَلُمَّ ، فَيُقَالَ : إِنَّهُمْ قَدْ بَدَّلُوا بَعْدَكَ ، فَأَقُولُ : فَسُحْقًا فَسُحْقًا \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 50
     },
     {
       "hadith_id": 52,
+      "book_id": 1,
       "hadith_number": 52,
       "english_translation": "Narrated by Ibn Abbas: The Prophet ﷺ said: 'This matter (meaning authority) will not cease to be in Quraysh as long as there remain two of them,' and he pointed with his two fingers, 'but woe to whoever is tempted by kingship.'",
       "chains": [
@@ -346,15 +370,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -362,6 +388,7 @@
             },
             {
               "name": "Ibn Abbas",
+              "narrator_id": 4883,
               "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
               "grade": "Companion",
               "generation": "Companion",
@@ -370,57 +397,61 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term",
+            "The beginning of the chain is unclear",
+            "Potential missing narrator(s) at the start"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Ibn Abbas -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "Weakens the certainty of direct transmission"
+          "impact": "Weakens certainty of direct transmission, though narrators are individually reliable"
         },
         {
-          "issue": "The specific wording 'as long as there remain two of them' and the addition about 'kingship' is not found in the most authentic versions of this hadith",
-          "impact": "While the basic concept of leadership being in Quraysh is authentic, this specific formulation requires additional scrutiny"
+          "issue": "The beginning of the chain lacks clarity",
+          "impact": "Potential missing narrator between compiler and Abu Ubaydah"
         },
         {
-          "issue": "Unclear connection at the beginning of the chain",
-          "impact": "Potential missing narrator between the compiler and Jabir ibn Zayd"
+          "issue": "CONTENT NOTE: The specific wording 'as long as there remain two of them' and addition about 'kingship' differs from most authentic versions",
+          "impact": "While basic concept of leadership in Quraysh is authentic, this specific formulation may be variant wording"
         }
       ],
-      "IISGrade": "Questionable But Might Be Acceptable",
+      "IISGrade": "Acceptable",
       "Topics": [
-        "Leadership in Quraysh",
-        "Warning against seeking power",
+        "Leadership remaining in Quraysh",
+        "Warning against seeking power and kingship",
         "Incident where the Prophet ﷺ gestured with fingers"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" لا يَزَالُ الأَمْرُ ، يَعْنِي الْوِلايَةَ ، فِي قُرَيْشٍ مَا دَامَ فِيهِمْ رَجُلانِ ، وَأَشَارَ بِأُصْبُعَيْهِ ، وَلَكِنَّ الْوَيْلَ لِمَنِ افْتَتَنَ بِالْمُلْكِ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 52
     },
     {
       "hadith_id": 53,
+      "book_id": 1,
       "hadith_number": 53,
-      "english_translation": "Narrated by Abu Masud al-Ansari: The Messenger of Allah ﷺ said to Quraysh: 'This matter will not cease to be among you and you are its guardians as long as you do not introduce new things. If you do so, Allah will empower over you the worst of His creation, and they will peel you as this stick is peeled' - referring to a stick that was in his hand.",
+      "english_translation": "Narrated by Abu Mas'ud al-Ansari: The Messenger of Allah ﷺ said to Quraysh: 'This matter will not cease to be among you and you are its guardians as long as you do not introduce new things. If you do so, Allah will empower over you the worst of His creation, and they will peel you as this stick is peeled' - referring to a stick that was in his hand.",
       "chains": [
         {
           "type": "marfu'",
           "narrators": [
             {
               "name": "Unknown narrator (compiler)",
-              "full_name": "Unknown narrator",
+              "narrator_id": null,
+              "full_name": "Unknown narrator - identity not specified",
               "grade": "Majhul",
               "generation": "Unknown",
               "transmissionTerm": "بَلَغَنِي",
-              "reliabilityIssues": ["Complete disconnection - balaghani indicates the narrator did not receive this through a connected chain", "Unknown narrator at the beginning"]
+              "reliabilityIssues": ["Complete disconnection - balaghani explicitly indicates narrator did not receive through connected chain", "Identity unknown"]
             },
             {
-              "name": "Abu Masud al-Ansari",
-              "full_name": "Uqbah ibn Amr ibn Thalabah al-Ansari al-Khazraji",
+              "name": "Abu Mas'ud al-Ansari",
+              "narrator_id": 5680,
+              "full_name": "Uqbah ibn Amr ibn Tha'labah al-Ansari al-Khazraji al-Badri",
               "grade": "Companion",
               "generation": "Companion",
               "transmissionTerm": "عَنْ",
@@ -428,43 +459,44 @@
             }
           ],
           "chainIssues": [
-            "The hadith begins with بَلَغَنِي (balaghani - 'it reached me'), which is the weakest form of transmission",
-            "This indicates a mursal or completely disconnected chain",
-            "There are missing narrators between the compiler and Abu Masud",
-            "The use of 'an after balaghani compounds the disconnection problem"
+            "The hadith begins with بَلَغَنِي (balaghani - 'it reached me'), which explicitly indicates disconnection",
+            "This makes the chain munqati' (disconnected) with unknown number of missing narrators",
+            "The identity of the narrator who says 'balaghani' is completely unknown",
+            "The use of عَنْ after balaghani compounds the problem"
           ]
         }
       ],
       "plainChains": [
-        "Unknown narrator (بَلَغَنِي) -> [Missing narrators] -> Abu Masud al-Ansari -> Prophet Muhammad ﷺ"
+        "Unknown narrator (بَلَغَنِي) -> [Multiple missing narrators] -> Abu Mas'ud al-Ansari -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "The hadith begins with بَلَغَنِي (balaghani), which is an explicit statement of disconnection in the chain",
-          "impact": "This makes the hadith munqati' (disconnected) or mursal, severely weakening its authenticity. The narrator admits he did not receive this through a connected chain"
+          "issue": "The hadith begins with بَلَغَنِي (balaghani), which is explicit admission of disconnection in the chain",
+          "impact": "This makes the hadith munqati' (disconnected) or mursal at best, with unknown number of missing links. The narrator openly admits not receiving this through a connected chain"
         },
         {
-          "issue": "The identity of the first narrator who says 'balaghani' is unknown",
-          "impact": "Cannot evaluate the reliability of the initial transmitter, adding another layer of weakness"
+          "issue": "The identity of the first narrator is completely unknown (Majhul)",
+          "impact": "Cannot evaluate the reliability of the initial transmitter who made this disconnected claim"
         },
         {
-          "issue": "Unknown number of missing narrators between the first narrator and Abu Masud",
-          "impact": "Complete break in the chain of transmission makes authentication impossible"
+          "issue": "Unknown number of missing narrators between the compiler and Abu Mas'ud al-Ansari",
+          "impact": "Complete break in chain makes proper authentication impossible through isnad analysis alone"
         }
       ],
-      "IISGrade": "Problematic",
+      "IISGrade": "Weak But Might Be Acceptable",
       "Topics": [
-        "Leadership remaining in Quraysh",
-        "Warning against innovation",
-        "Consequences of introducing new matters in religion",
+        "Leadership remaining in Quraysh conditionally",
+        "Warning against religious innovation",
+        "Consequences of introducing new matters",
         "Incident where the Prophet ﷺ used a stick as example"
       ],
       "arabicText": "بَلَغَنِي عَنْ أَبِي مَسْعُودٍ الأَنْصَارِيِّ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لِقُرَيْشٍ : \" لَنْ يَزَالَ هَذَا الأَمْرُ فِيكُمْ وَأَنْتُمْ وُلاتُهُ مَا لَمْ تُحْدِثُوا ، فَإِذَا فَعَلْتُمْ سَلَّطَ اللَّهُ عَلَيْكُمْ شِرَارَ خَلْقِهِ فَيَلْحُونَكُمْ كَمَا يُلْحَى هَذَا الْقَضِيبُ \" لِقَضِيبٍ كَانَ فِي يَدِهِ",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 53
     },
     {
       "hadith_id": 54,
+      "book_id": 1,
       "hadith_number": 54,
       "english_translation": "It is reported that Ubadah ibn al-Samit came as a pilgrim from Syria, and arrived in Madinah. He came to Uthman ibn Affan and said: 'Shall I not inform you of something I heard from the Messenger of Allah ﷺ?' He said: 'Yes.' He said: 'I heard him say: There will be after me rulers who recite as you recite, and they will do what you disapprove. There is no obedience to those people upon you.'",
       "chains": [
@@ -473,14 +505,16 @@
           "narrators": [
             {
               "name": "Unknown narrator (compiler)",
-              "full_name": "Unknown narrator",
+              "narrator_id": null,
+              "full_name": "Unknown narrator - identity not specified",
               "grade": "Majhul",
               "generation": "Unknown",
               "transmissionTerm": "بَلَغَنِي",
-              "reliabilityIssues": ["Complete disconnection - balaghani indicates the narrator did not receive this through a connected chain", "Unknown narrator at the beginning"]
+              "reliabilityIssues": ["Complete disconnection - balaghani explicitly indicates narrator did not receive through connected chain", "Identity unknown"]
             },
             {
               "name": "Ubadah ibn al-Samit",
+              "narrator_id": 4153,
               "full_name": "Ubadah ibn al-Samit ibn Qays al-Ansari al-Khazraji",
               "grade": "Companion",
               "generation": "Companion",
@@ -489,46 +523,48 @@
             }
           ],
           "chainIssues": [
-            "The hadith begins with بَلَغَنِي (balaghani - 'it reached me'), indicating complete disconnection",
+            "The hadith begins with بَلَغَنِي (balaghani), indicating complete disconnection",
             "The use of أنَّ (anna) after balaghani compounds the weakness",
             "Multiple missing narrators between the compiler and Ubadah",
-            "The narration describes an incident between Ubadah and Uthman, but the chain doesn't identify who witnessed or transmitted this conversation"
+            "The narration describes an incident between Ubadah and Uthman, but chain doesn't identify who witnessed or transmitted this conversation",
+            "Unknown narrator at the beginning"
           ]
         }
       ],
       "plainChains": [
-        "Unknown narrator (بَلَغَنِي) -> [Missing narrators] -> Ubadah ibn al-Samit -> Prophet Muhammad ﷺ"
+        "Unknown narrator (بَلَغَنِي) -> [Multiple missing narrators] -> Ubadah ibn al-Samit -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
           "issue": "The hadith begins with بَلَغَنِي (balaghani), explicitly indicating disconnection in the chain",
-          "impact": "This makes the hadith munqati' (disconnected), rendering it unreliable for attribution"
+          "impact": "This makes the hadith munqati' (disconnected), with unknown number of missing links making authentication through isnad impossible"
         },
         {
-          "issue": "The content contradicts authentic hadiths about obeying rulers even if they commit injustice, as long as they do not command clear kufr",
-          "impact": "This raises serious questions about the authenticity of this specific wording, as it appears to contradict mutawatir teachings"
-        },
-        {
-          "issue": "Unknown narrator at the beginning and unknown number of missing links in the chain",
-          "impact": "Multiple breaks make authentication impossible"
+          "issue": "The identity of the first narrator who says 'balaghani' is unknown (Majhul)",
+          "impact": "Cannot evaluate the reliability of the initial transmitter"
         },
         {
           "issue": "No identification of who transmitted this conversation between Ubadah and Uthman",
-          "impact": "Even if the conversation happened, we don't know who witnessed it and passed it down"
+          "impact": "Even if the conversation occurred, we don't know who witnessed it and passed it down through the chain"
+        },
+        {
+          "issue": "CONTENT NOTE: The content appears to contradict authentic hadiths about obeying rulers even if they commit injustice, as long as they don't command clear kufr",
+          "impact": "Content raises questions, though IISGrade focuses solely on chain quality per updated criteria"
         }
       ],
-      "IISGrade": "Problematic",
+      "IISGrade": "Weak But Might Be Acceptable",
       "Topics": [
         "Prediction about future rulers",
         "Incident of Ubadah visiting Uthman from Syria",
-        "Dialogue between a Companion and a Caliph"
+        "Dialogue between Companion and Caliph"
       ],
       "arabicText": "بَلَغَنِي أَنَّ عُبَادَةَ بْنَ الصَّامِتِ أَقْبَلَ حَاجًّا مِنَ الشَّامِ ، فَقَدِمَ الْمَدِينَةَ فَأَتَى عُثْمَانَ بْنَ عَفَّانَ ، فَقَالَ : أَلا أُخْبِرُكَ بِشَيْءٍ سَمِعْتُهُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ؟ ، قَالَ : بَلَى ، قَالَ : سَمِعْتُهُ يَقُولُ : \" سَيَكُونُ مِنْ بَعْدِي أُمَرَاءُ يَقْرَءُونَ كَمَا تَقْرَءُونَ ، وَيَعْمَلُونَ مَا تُنْكِرُونَ ، فَلَيْسَ لأُولَئِكَ عَلَيْكُمْ طَاعَةٌ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 54
     },
     {
       "hadith_id": 55,
+      "book_id": 1,
       "hadith_number": 55,
       "english_translation": "Narrated by Anas ibn Malik: The Prophet ﷺ said: 'Whoever obeys my commander has obeyed me, and whoever disobeys my commander has disobeyed me. Beware, the fitnah is here' - and he pointed with his hand three times toward the east.",
       "chains": [
@@ -537,15 +573,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -553,6 +591,7 @@
             },
             {
               "name": "Anas ibn Malik",
+              "narrator_id": 720,
               "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
               "grade": "Companion",
               "generation": "Companion",
@@ -561,26 +600,27 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term",
+            "The beginning of the chain is unclear",
+            "Potential missing narrator(s) at the start"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Anas ibn Malik -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "While Jabir ibn Zayd is known to have narrated from Anas and is not a mudallis, the repeated 'an weakens certainty"
+          "impact": "While Jabir ibn Zayd is documented to have narrated from Anas and is not a mudallis, repeated 'an weakens absolute certainty"
         },
         {
-          "issue": "The opening of the chain lacks clarity regarding how Abu Ubaydah received this narration",
-          "impact": "Potential missing link at the beginning of the chain"
+          "issue": "The beginning of the chain lacks clarity regarding how Abu Ubaydah received this",
+          "impact": "Potential missing link at the start of the chain"
         },
         {
-          "issue": "The specific wording combines two different authentic hadiths - one about obeying commanders and another about fitnah coming from the east",
-          "impact": "This combination is not found in the most authentic sources, raising questions about conflation of separate narrations"
+          "issue": "CONTENT NOTE: The specific wording combines elements from two different authentic hadiths - one about obeying commanders and another about fitnah from the east",
+          "impact": "This combination is not found in most authentic sources, suggesting possible conflation"
         }
       ],
       "IISGrade": "Acceptable",
@@ -590,11 +630,12 @@
         "Incident where the Prophet ﷺ pointed toward the east"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَنْ أَطَاعَ أَمِيرِي فَقَدْ أَطَاعَنِي ، وَمَنْ عَصَى أَمِيرِي فَقَدْ عَصَانِي ، أَلا وَإِنَّ الْفِتْنَةَ هَاهُنَا \" وَأَشَارَ بِيَدِهِ ثَلاثًا نَحْوَ الْمَشْرِقِ",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 55
     },
     {
       "hadith_id": 56,
+      "book_id": 1,
       "hadith_number": 56,
       "english_translation": "Narrated by Anas ibn Malik: The Prophet ﷺ said: 'Seven whom Allah will shade with His shade on the Day when there is no shade except His shade: a just ruler, a youth who grew up in the worship of Allah the Mighty and Majestic, a man whose heart is attached to the mosque - when he leaves it until he returns to it, two men who love each other for the sake of Allah, they meet and part upon that, a man who remembers Allah in private and his eyes overflow with tears from the fear of Allah, a man who is called by a woman of beauty and rank, but he says: I fear Allah the Lord of the worlds, and a man who gives charity and conceals it such that his left hand does not know what his right hand has spent.'",
       "chains": [
@@ -603,15 +644,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -619,6 +662,7 @@
             },
             {
               "name": "Anas ibn Malik",
+              "narrator_id": 720,
               "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
               "grade": "Companion",
               "generation": "Companion",
@@ -627,45 +671,48 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term",
+            "The beginning of the chain is unclear",
+            "Potential missing narrator(s) at the start"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Anas ibn Malik -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "This famous hadith is most authentically narrated from Abu Hurayrah in Bukhari and Muslim, not from Anas",
-          "impact": "While the content is authentic through other chains, this specific attribution to Anas requires scrutiny"
-        },
-        {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "Weakens certainty of direct transmission, though narrators are individually reliable"
+          "impact": "Weakens absolute certainty of direct transmission, though individual narrators are reliable"
         },
         {
-          "issue": "The opening of the chain lacks clarity",
-          "impact": "Potential missing link between the compiler and Jabir ibn Zayd"
+          "issue": "The beginning of the chain lacks clarity",
+          "impact": "Potential missing narrator at the start"
+        },
+        {
+          "issue": "CONTENT NOTE: This famous hadith is most authentically narrated from Abu Hurayrah in Sahih Bukhari and Muslim, not from Anas",
+          "impact": "While content is authentic through other chains, this specific attribution to Anas requires scrutiny"
         }
       ],
       "IISGrade": "Acceptable",
       "Topics": [
-        "Seven types who will receive Allah's shade",
+        "Seven types who will receive Divine shade",
         "Characteristics of righteous people",
         "Just leadership",
-        "Youth in worship",
-        "Love for Allah's sake",
-        "Fear of Allah in private",
+        "Youth growing in worship",
+        "Attachment to mosques",
+        "Love for sake of Allah",
+        "Weeping from fear of Allah",
         "Resisting temptation",
         "Secret charity"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" سَبْعَةٌ يُظِلُّهُمُ اللَّهُ فِي ظِلِّهِ يَوْمَ لا ظِلَّ إِلا ظِلُّهُ : إِمَامٌ عَادِلٌ ، وَشَابٌّ نَشَأَ فِي عِبَادَةِ اللَّهِ عَزَّ وَجَلَّ ، وَرَجُلٌ مُتَعَلِّقٌ قَلْبُهُ بِالْمَسْجِدِ إِذَا خَرَجَ مِنْهُ حَتَّى يَعُودَ إِلَيْهِ ، وَرَجُلانِ تَحَابَّا فِي اللَّهِ ، اجْتَمَعَا وَتَفَرَّقَا عَلَى ذَلِكَ ، وَرَجُلٌ ذَكَرَ اللَّهَ خَالِيًا فَفَاضَتْ عَيْنَاهُ بِالدُّمُوعِ مِنْ خَشْيَةِ اللَّهِ ، وَرَجُلٌ دَعَتْهُ امْرَأَةٌ ذَاتَ حُسْنٍ وَجَمَالٍ ، فَقَالَ : إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ ، وَرَجُلٌ تَصَدَّقَ بِصَدَقَةٍ فَأَخْفَاهَا حَتَّى لا تَعْلَمَ شِمَالُهُ مَا أَنْفَقَتْ يَمِينُهُ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 56
     },
     {
       "hadith_id": 57,
+      "book_id": 1,
       "hadith_number": 57,
       "english_translation": "Narrated by Ibn Abbas: The Messenger of Allah ﷺ said: 'Whoever does a deed that is not in accordance with our command, then it is rejected.'",
       "chains": [
@@ -674,15 +721,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -690,6 +739,7 @@
             },
             {
               "name": "Ibn Abbas",
+              "narrator_id": 4883,
               "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib al-Qurashi al-Hashimi",
               "grade": "Companion",
               "generation": "Companion",
@@ -698,40 +748,41 @@
             }
           ],
           "chainIssues": [
-            "The chain uses ambiguous transmission terms including عَنْ (an) and قَالَ (qala)",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses ambiguous transmission terms including عَنْ (an) and قَالَ (qala)",
+            "The beginning of the chain is unclear"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Ibn Abbas -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Ibn Abbas -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "This hadith is most famously narrated from Aisha in Bukhari and Muslim with slightly different wording ('whoever introduces into this matter of ours...')",
-          "impact": "While the general meaning is authentic, this specific attribution to Ibn Abbas and exact wording requires scrutiny"
-        },
-        {
           "issue": "Multiple instances of ambiguous transmission terms (عَنْ and قَالَ) throughout the chain",
-          "impact": "Weakens certainty of direct transmission"
+          "impact": "Weakens certainty of direct transmission, though narrators are individually reliable"
         },
         {
-          "issue": "The opening of the chain lacks clarity",
-          "impact": "Potential missing link at the beginning"
+          "issue": "The beginning of the chain lacks clarity",
+          "impact": "Potential missing narrator at the start"
+        },
+        {
+          "issue": "CONTENT NOTE: This hadith is most famously narrated from Aisha in Sahih Bukhari and Muslim with slightly different wording",
+          "impact": "While general meaning is authentic, this specific attribution to Ibn Abbas and exact wording requires scrutiny"
         }
       ],
       "IISGrade": "Acceptable",
       "Topics": [
         "Rejection of innovated deeds",
-        "Following the Prophetic command",
+        "Following Prophetic command",
         "Religious innovation"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ عَمِلَ عَمَلا لَيْسَ عَلَيْهِ أَمْرُنَا فَهُوَ رَدٌّ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 57
     },
     {
       "hadith_id": 59,
+      "book_id": 1,
       "hadith_number": 59,
       "english_translation": "Narrated by Abu Hurayrah: The Prophet ﷺ used to, when he finished the dawn prayer, say: 'Did any of you see a dream last night?' And he would say: 'Nothing remains after me of prophethood except the righteous dream.'",
       "chains": [
@@ -740,15 +791,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -756,6 +809,7 @@
             },
             {
               "name": "Abu Hurayrah",
+              "narrator_id": 4396,
               "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi al-Yamani",
               "grade": "Companion",
               "generation": "Companion",
@@ -764,41 +818,42 @@
             }
           ],
           "chainIssues": [
-            "The chain uses ambiguous transmission terms including عَنْ (an) and أنَّ (anna)",
-            "The use of أنَّ (anna) often indicates potential disconnection",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses ambiguous transmission terms including عَنْ (an) and أنَّ (anna)",
+            "The use of أنَّ (anna) often indicates potential indirect transmission",
+            "The beginning of the chain is unclear"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Abu Hurayrah -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
-          "issue": "The use of أنَّ (anna) transmission term suggests potential indirect transmission",
-          "impact": "Raises questions about whether Jabir heard this directly from Abu Hurayrah, though both are reliable and Jabir is known to have narrated from Abu Hurayrah"
+          "issue": "The use of أنَّ (anna) transmission term between Jabir and Abu Hurayrah",
+          "impact": "Often suggests indirect transmission, though Jabir ibn Zayd is documented to have narrated from Abu Hurayrah and is not a mudallis"
         },
         {
           "issue": "Multiple instances of ambiguous transmission terms throughout the chain",
-          "impact": "Weakens certainty of direct transmission at multiple points"
+          "impact": "Weakens absolute certainty of direct hearing at each level, though narrators are individually reliable"
         },
         {
-          "issue": "The opening of the chain lacks clarity",
-          "impact": "Potential missing narrator between compiler and Jabir"
+          "issue": "The beginning of the chain lacks clarity",
+          "impact": "Potential missing narrator between compiler and Abu Ubaydah"
         }
       ],
       "IISGrade": "Acceptable",
       "Topics": [
         "Righteous dreams as remnants of prophethood",
-        "The Prophet's ﷺ practice after Fajr prayer",
-        "Incident of the Prophet ﷺ asking about dreams"
+        "Prophet's ﷺ practice after Fajr prayer",
+        "Incident of Prophet ﷺ asking about dreams"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا انْصَرَفَ مِنْ صَلاةِ الْغَدَاةِ ، قَالَ : \" هَلْ رَأَى أَحَدٌ مِنْكُمُ اللَّيْلَةَ رُؤْيَا \" ، وَيَقُولُ : \" إِنَّهُ لَيْسَ يَبْقَى مِنْ بَعْدِي مِنَ النُّبُوَّةِ إِلا الرُّؤْيَا الصَّالِحَةُ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 59
     },
     {
       "hadith_id": 60,
+      "book_id": 1,
       "hadith_number": 60,
       "english_translation": "Narrated by Anas ibn Malik: The Messenger of Allah ﷺ said: 'The good dream from a righteous man is one part from forty-six parts of prophethood.'",
       "chains": [
@@ -807,15 +862,17 @@
           "narrators": [
             {
               "name": "Abu Ubaydah",
-              "full_name": "Abu Ubaydah ibn Abdullah ibn Masud al-Hadhali",
+              "narrator_id": 31544,
+              "full_name": "Abu Ubaydah ibn Abdullah ibn Mas'ud al-Hadhali",
               "grade": "Thiqah",
               "generation": "Second Generation",
-              "transmissionTerm": "Unknown",
-              "reliabilityIssues": ["Chain incomplete - unclear how Abu Ubaydah received this"]
+              "transmissionTerm": "Unknown - chain begins here",
+              "reliabilityIssues": ["Famous for not having met his father Abdullah ibn Mas'ud who died before or shortly after his birth"]
             },
             {
               "name": "Jabir ibn Zayd",
-              "full_name": "Jabir ibn Zayd ibn al-Azdi al-Jaufi al-Basri",
+              "narrator_id": 2063,
+              "full_name": "Jabir ibn Zayd al-Azdi al-Jaufi al-Basri",
               "grade": "Thiqah",
               "generation": "Second Generation",
               "transmissionTerm": "عَنْ",
@@ -823,6 +880,7 @@
             },
             {
               "name": "Anas ibn Malik",
+              "narrator_id": 720,
               "full_name": "Anas ibn Malik ibn al-Nadr al-Ansari al-Khazraji",
               "grade": "Companion",
               "generation": "Companion",
@@ -831,25 +889,26 @@
             }
           ],
           "chainIssues": [
-            "The chain uses عَنْ (an) throughout, which is an ambiguous transmission term",
-            "The connection between Abu Ubaydah and Jabir ibn Zayd lacks clear documentation"
+            "Chain uses عَنْ (an) throughout - ambiguous transmission term",
+            "The beginning of the chain is unclear",
+            "Potential missing narrator(s) at the start"
           ]
         }
       ],
       "plainChains": [
-        "Abu Ubaydah -> Jabir ibn Zayd -> Anas ibn Malik -> Prophet Muhammad ﷺ"
+        "Abu Ubaydah ibn Abdullah ibn Mas'ud -> Jabir ibn Zayd al-Azdi -> Anas ibn Malik -> Prophet Muhammad ﷺ"
       ],
       "potential_issues": [
         {
           "issue": "Multiple instances of ambiguous transmission term عَنْ (an) throughout the chain",
-          "impact": "While Jabir is known to have narrated from Anas and is not a mudallis, repeated 'an weakens certainty"
+          "impact": "While Jabir is documented to have narrated from Anas and is not a mudallis, repeated 'an weakens absolute certainty"
         },
         {
-          "issue": "The opening of the chain lacks clarity regarding Abu Ubaydah's source",
-          "impact": "Potential missing narrator at the beginning"
+          "issue": "The beginning of the chain lacks clarity regarding Abu Ubaydah's source",
+          "impact": "Potential missing narrator at the start"
         },
         {
-          "issue": "This hadith exists in authentic collections but with variations in the number (some say 1/46, others 1/70, etc.)",
+          "issue": "CONTENT NOTE: This hadith exists in authentic collections but with variations in the number (some say 1/46, others 1/70, etc.)",
           "impact": "The specific number '46' is found in authentic sources, making this version potentially acceptable"
         }
       ],
@@ -859,7 +918,7 @@
         "Righteous person's dreams"
       ],
       "arabicText": "أَبُو عُبَيْدَةَ ، عَنْ جَابِرُ بْنُ زَيْدٍ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" الرُّؤْيَا الْحَسَنَةُ مِنَ الرَّجُلِ الصَّالِحِ جُزْءٌ مِنْ سِتَّةٍ وَأَرْبَعِينَ جُزْءًا مِنَ النُّبُوَّةِ \"",
-      "collection": "Unknown Collection",
+      "collection": "كتاب رقم 1",
       "reference_number": 60
     }
   ]
