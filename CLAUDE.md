@@ -169,17 +169,12 @@ Also our translation should be very literal, unlike other translation which tran
 "narrators": [
 {
 //this step is VERY VERY VERY VERY Important in this whole context, you need to use your best knowledge for grading the narrators and their reliability, use your best knowledge before marking someone as good, because this is the most important part of the whole process. BE AS CRITICAL and THOUGHTFUL AS POSSIBLE AND DO NOT MAKE ANY MISTAKE HERE BECAUSE IF HE IS RELIABLE AND U MARK HIM WRONG IT WILL DO WRONG IMPACT AND IF HE IS NOT RELIABLE AND U MARK HIM AS RELIABLE THEN ALSO IT WILL DO WRONG IMPACE PLEASE PLEASE, PLEASE BE AS CRITICAL AND THOUGHTFUL AS POSSIBLE TO GRADE NARRATORS PROPERLY AND DO NOT MAKE ANY MISTAKE HERE. TRY TO GET THE MAJORITY VIEW OF SCHOLARS ON EACH NARRATOR PLUS IF THERE ARE ANY CRITICS FOR THIS SCHOLAR THEN DO UNDERSTAND THEIR CRITICISM AND BASED ON THEIR AUTHENTICITY AND CRITIC LOGIC/REASONING, GRADE HIM PROPERLY WITH ["Awthaq al-Nas", "Thabt Hujjah", "Thabt Hafiz", "Thiqah Thabt", "Thiqah", "Thiqah Yukhti'", "La Ba'sa Bihi", "Saduq/Sadooq", "Saduq Yahim", "Saduq Lahu Awham", "Saduq Sayyi' al-Hifz", "Saduq Yugrib", "Saduq Yukhtī", "Maqbul", "Layyin al-Hadith", "Majhul", "Majhul al-Hal", "Da'if", "Da'if Jiddan", "Munkar al-Hadith", "Matruk", "Matruk al-Hadith", "Kadhdhab", "Wadda'"]
-"id": "string", // Unique identifier for the narrator
 "name": "string",
 "full_name": "string", // use your best knowledge to tell the full name of this scholar (for example, don't just write Malik ibn Anas instead it should be Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi)
 "grade": "string" // use your best knowledge to generate this with only these options ["Awthaq al-Nas", "Thabt Hujjah", "Thabt Hafiz", "Thiqah Thabt", "Thiqah", "Thiqah Yukhti'", "La Ba'sa Bihi", "Saduq/Sadooq", "Saduq Yahim", "Saduq Lahu Awham", "Saduq Sayyi' al-Hifz", "Saduq Yugrib", "Saduq Yukhtī", "Maqbul", "Layyin al-Hadith", "Majhul", "Majhul al-Hal", "Da'if", "Da'if Jiddan", "Munkar al-Hadith", "Matruk", "Matruk al-Hadith", "Kadhdhab", "Wadda'"]
 "generation": "string", // Use descriptive categories like "Companion", "First Generation", etc.
 "transmissionTerm": "string", // How they received it (e.g., "حَدَّثَنَا", "عَنْ") // it must be from the list of transmission terms mentioned in the prompt above.
-"reliabilityIssues": ["string"], // e.g., ["mudallis", "ikhtilat", "majhul"... or any other issues]
-"book_id": "string", // Identifier for the book/collection
-"book_name": "string", // Name of the book/collection (same as collection field)
-"hadith_id": "string", // Identifier for the specific hadith
-"chapter_id": "string" // Identifier for the chapter
+"reliabilityIssues": ["string"] // e.g., ["mudallis", "ikhtilat", "majhul"... or any other issues]
 }
 ],
 "chainIssues": ["string"] // IMPORTANT: Include ANY transmission term differences between chains here
@@ -221,422 +216,61 @@ Again mentioning (Very very Important) If someone is known or classified for doi
 Example Ibn Shihab al-Zuhri is a classified as mudallis by some scholars however he is also a reliable narrator by majority of scholars. So for such cases mention that he is a might be a mudallis but is also a reliable narrator and do not affect the grade of the hadith. This is just an example, you need to use your best knowledge to identify each narrators and mention them in the analysis and if someone is a known mudallis but is not considered reliable by majority of scholars then do mention that and affect the grade of the hadith as well. This is very important that for an, qala, anna, we reduce the grade of hadith only if the narrator is not reliable or is a known mudallis and is not considered reliable by majority of scholars, however we need to mention the tadlis no matter what where ever it is done.
 
 Sample outputs.
-```{
-  "english_translation": "Ali ibn Abdullah narrated to us: Sufyan narrated to us, from Abi Hazim, from Sahl bin Saad al-Sa'idi, who said: The Messenger of Allah ﷺ said: 'A place equal to the size of a whip in Paradise is better than the world and what is in it.'",
-  "chains": [
-    {
-      "type": "marfu'",
-      "narrators": [
-        {
-          "id": "001",
-          "name": "Ali ibn Abdullah",
-          "full_name": "Ali ibn Abdullah ibn Ja'far as-Sa'di",
-          "grade": "Thiqah Thabt",
-          "generation": "Sixth Generation",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3250",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "002",
-          "name": "Sufyan",
-          "full_name": "Sufyan ibn Uyaynah",
-          "grade": "Thiqah Thabt",
-          "generation": "Fifth Generation",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3250",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "003",
-          "name": "Abu Hazim",
-          "full_name": "Salama ibn Dinar al-A'raj al-Madani",
-          "grade": "Thiqah",
-          "generation": "Third Generation",
-          "transmissionTerm": "عَنْ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3250",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "004",
-          "name": "Sahl bin Saad al-Sa'idi",
-          "full_name": "Sahl bin Saad bin Malik al-Ansari al-Sa'idi",
-          "grade": "Companion",
-          "generation": "Companion",
-          "transmissionTerm": "قَالَ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3250",
-          "chapter_id": "chapter_xyz"
-        }
-      ],
-      "chainIssues": []
-    }
-  ],
-  "plainChains": [
-    "Ali ibn Abdullah -> Sufyan -> Abu Hazim -> Sahl bin Saad al-Sa'idi -> Prophet Muhammad ﷺ"
-  ],
-  "potential_issues": [],
-  "IISGrade": "Perfect",
-  "Topics": [
-    "Description of Paradise",
-    "Value of Paradise compared to the World"
-  ],
-  "arabicText": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ ، حَدَّثَنَا سُفْيَانُ ، عَنْ أَبِي حَازِمٍ ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :   مَوْضِعُ سَوْطٍ فِي الْجَنَّةِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا    .\n\r\nصحیح بخاری حدیث: 3250",
-  "collection": "Sahih Bukhari",
-  "reference_number": 3250,
-  "grade": "Sahih"
-}
-  {
-  "english_translation": "Muhammad narrated to us, saying: Ibn 'Uyaynah narrated to us, from Sulaiman bin Abi Muslim Al-Ahwal, who heard Sa'id bin Jubair, who heard Ibn 'Abbas, may Allah be pleased with them both, saying: 'And what is the day of Thursday?' Then he wept until his tears wet the pebbles. 'The day of Thursday!' I said: 'O Abu 'Abbas, what is the day of Thursday?' He said: 'The Messenger of Allah ﷺ became severely ill, and he said: 'Bring me a shoulder blade, so I may write for you a book after which you will never go astray.' But they disputed, and it is not fitting to dispute in the presence of a prophet. So they said: 'What is wrong with him? Has he gone delirious? Ask him.' So he said: 'Leave me, for what I am in is better than what you are calling me to.' Then he commanded them with three things, saying: 'Expel the polytheists from the Arabian Peninsula, and reward the delegations in the manner I used to reward them.' And the third thing was good, either he was silent about it, or he said it and I forgot it.' Sufyan said: 'This is from the saying of Sulaiman.'",
-  "chains": [
-    {
-      "type": "marfu'",
-      "narrators": [
-        {
-          "id": "005",
-          "name": "Muhammad",
-          "full_name": "Muhammad",
-          "grade": "Thiqah",
-          "generation": "Later Narrator",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3168",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "006",
-          "name": "Ibn 'Uyaynah",
-          "full_name": "Sufyan ibn 'Uyaynah",
-          "grade": "Thiqah Thabt",
-          "generation": "Fifth Generation",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3168",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "007",
-          "name": "Sulaiman bin Abi Muslim Al-Ahwal",
-          "full_name": "Sulaiman bin Abi Muslim Al-Ahwal",
-          "grade": "Saduq/Sadooq",
-          "generation": "Fourth Generation",
-          "transmissionTerm": "عَنْ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3168",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "008",
-          "name": "Sa'id bin Jubair",
-          "full_name": "Sa'id bin Jubair",
-          "grade": "Thiqah Thabt",
-          "generation": "Third Generation",
-          "transmissionTerm": "سَمِعَ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3168",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "009",
-          "name": "Ibn 'Abbas",
-          "full_name": "Abdullah ibn Abbas",
-          "grade": "Companion",
-          "generation": "Companion",
-          "transmissionTerm": "سَمِعَ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3168",
-          "chapter_id": "chapter_xyz"
-        }
-      ],
-      "chainIssues": []
-    }
-  ],
-  "plainChains": [
-    "Muhammad -> Ibn 'Uyaynah -> Sulaiman bin Abi Muslim Al-Ahwal -> Sa'id bin Jubair -> Ibn 'Abbas"
-  ],
-  "potential_issues": [
-    {
-      "issue": "Sulaiman bin Abi Muslim Al-Ahwal uses 'an.",
-      "impact": "Although he is considered Saduq, the 'an (عن) can introduce a slight ambiguity in the chain but it is not significant due to his general reliability."
-    }
-  ],
-  "IISGrade": "Sound",
-  "Topics": [
-    "Prophet's Illness",
-    "Dispute Among Companions",
-    "Writing a Book to Prevent Error",
-    "Expulsion of Polytheists from Arabian Peninsula",
-    "Honoring Delegations",
-    "Ibn 'Abbas' Lament",
-    "Prophet's ﷺ Final Commands",
-    "Incident of the Prophet's Illness on Thursday"
-  ],
-  "arabicText": "حَدَّثَنَا مُحَمَّدٌ ، حَدَّثَنَا ابْنُ عُيَيْنَةَ ، عَنْ سُلَيْمَانَ بْنِ أَبِي مُسْلِمٍ الْأَحْوَلِ ، سَمِعَ سَعِيدَ بْنَ جُبَيْرٍ ، سَمِعَ ابْنَ عَبَّاسٍ رَضِيَ اللَّهُ عَنْهُمَا ، يَقُولُ وَمَا يَوْمُ الْخَمِيسِ ثُمَّ بَكَى حَتَّى بَلَّ دَمْعُهُ الْحَصَى : يَوْمُ الْخَمِيسِ قُلْتُ : يَا أَبَا عَبَّاسٍ مَا يَوْمُ الْخَمِيسِ ؟ قَالَ : اشْتَدَّ بِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَجَعُهُ ، فَقَالَ    ائْتُونِي بِكَتِفٍ أَكْتُبْ لَكُمْ كِتَابًا لَا تَضِلُّوا بَعْدَهُ أَبَدًا فَتَنَازَعُوا وَلَا يَنْبَغِي عِنْدَ نَبِيٍّ تَنَازُعٌ ، فَقَالُوا : مَا لَهُ أَهَجَرَ اسْتَفْهِمُوهُ ، فَقَالَ : ذَرُونِي فَالَّذِي أَنَا فِيهِ خَيْرٌ مِمَّا تَدْعُونِي إِلَيْهِ فَأَمَرَهُمْ بِثَلَاثٍ ، قَالَ : أَخْرِجُوا الْمُشْرِكِينَ مِنْ جَزِيرَةِ الْعَرَبِ وَأَجِيزُوا الْوَفْدَ بِنَحْوِ مَا كُنْتُ أُجِيزُهُمْ وَالثَّالِثَةُ خَيْرٌ إِمَّا أَنْ سَكَتَ عَنْهَا وَإِمَّا أَنْ قَالَهَا فَنَسِيتُهَا ، قَالَ سُفْيَانُ : هَذَا مِنْ قَوْلِ سُلَيْمَانَ .\n\r\nصحیح بخاری حدیث: 3168",
-  "collection": "Sahih Bukhari",
-  "reference_number": 3168,
-  "grade": "Sahih"
-}
-  {
-  "english_translation": "Allah guarantees for the one who strives in His cause and whom nothing compels to go out except Jihad in His cause and belief in His words that He will admit him to Paradise, or return him to his dwelling place from where he came out, with what he gains of reward or booty.",
-  "chains": [
-    {
-      "type": "marfu'",
-      "narrators": [
-        {
-          "id": "010",
-          "name": "Isma'il",
-          "full_name": "Isma'il ibn Abi Uways",
-          "grade": "Saduq/Sadooq",
-          "generation": "Sixth Generation",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3123",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "011",
-          "name": "Malik",
-          "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
-          "grade": "Thiqah Thabt",
-          "generation": "Fourth Generation",
-          "transmissionTerm": "حَدَّثَنِي",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3123",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "012",
-          "name": "Abu Al-Zinad",
-          "full_name": "Abdullah ibn Dhakwan Abu Al-Zinad",
-          "grade": "Thiqah Thabt",
-          "generation": "Fourth Generation",
-          "transmissionTerm": "عَنْ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3123",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "013",
-          "name": "Al-A'raj",
-          "full_name": "Abdur Rahman ibn Hurmuz al-A'raj",
-          "grade": "Thiqah Thabt",
-          "generation": "Third Generation",
-          "transmissionTerm": "عَنْ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3123",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "014",
-          "name": "Abu Hurayrah",
-          "full_name": "Abdur Rahman ibn Sakhr Abu Hurayrah Ad-Dausi",
-          "grade": "Awthaq al-Nas",
-          "generation": "Companion",
-          "transmissionTerm": "عَنْ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3123",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "015",
-          "name": "Muhammad ﷺ",
-          "full_name": "Muhammad ibn Abdullah ﷺ",
-          "grade": "Awthaq al-Nas",
-          "generation": "Companion",
-          "transmissionTerm": "قَالَ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3123",
-          "chapter_id": "chapter_xyz"
-        }
-      ],
-      "chainIssues": []
-    }
-  ],
-  "plainChains": [
-    "Isma'il -> Malik -> Abu Al-Zinad -> Al-A'raj -> Abu Hurayrah -> Muhammad ﷺ"
-  ],
-  "potential_issues": [
-    {
-      "issue": "Abu Al-Zinad uses 'an",
-      "impact": "While Abu Al-Zinad is reliable, the use of 'an introduces a slight ambiguity as it doesn't explicitly confirm direct hearing."
-    },
-    {
-      "issue": "Al-A'raj uses 'an",
-      "impact": "While Al-A'raj is reliable, the use of 'an introduces a slight ambiguity as it doesn't explicitly confirm direct hearing."
-    },
-    {
-      "issue": "Abu Hurayrah uses 'an",
-      "impact": "While Abu Hurayrah is reliable, the use of 'an introduces a slight ambiguity as it doesn't explicitly confirm direct hearing."
-    }
-  ],
-  "IISGrade": "Sound",
-  "Topics": [
-    "Guarantee for those who strive in the path of Allah",
-    "Virtues of Jihad",
-    "Reward of Mujahid",
-    "Booty in Jihad",
-    "Entering Paradise for Mujahid",
-    "Promise of Allah for Mujahid"
-  ],
-  "arabicText": "حَدَّثَنَا إِسْمَاعِيلُ ، قَالَ : حَدَّثَنِي مَالِكٌ ، عَنْ أَبِي الزِّنَادِ ، عَنْ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ :    تَكَفَّلَ اللَّهُ لِمَنْ جَاهَدَ فِي سَبِيلِهِ لَا يُخْرِجُهُ إِلَّا الْجِهَادُ فِي سَبِيلِهِ وَتَصْدِيقُ كَلِمَاتِهِ بِأَنْ يُدْخِلَهُ الْجَنَّةَ أَوْ يَرْجِعَهُ إِلَى مَسْكَنِهِ الَّذِي خَرَجَ مِنْهُ مَعَ مَا نَالَ مِنْ أَجْرٍ أَوْ غَنِيمَةٍ    .\n\r\nصحیح بخاری حدیث: 3123",
-  "collection": "Sahih Bukhari",
-  "reference_number": 3123,
-  "grade": "Sahih"
-}
-  {
-  "english_translation": "Ali ibn Abdullah narrated to us: Sufyan ibn Uyaynah narrated to us: Salih ibn Hayy Abu Hasan narrated to us, he said: I heard Al-Sha'bi saying: Abu Burda narrated to me that he heard his father from the Prophet ﷺ, said: \"Three people will be given their reward twice: a man who has a female slave and teaches her, making her teaching excellent, and disciplines her, making her discipline excellent, then sets her free and marries her, so he will have two rewards. And a believer among the People of the Book who was a believer and then believed in the Prophet ﷺ, so he will have two rewards. And a slave who fulfills the right of Allah and is sincere to his master.\" Then Al-Sha'bi said: \"I have given it to you without anything, and a man would travel to Medina for something less significant than this.\"",
-  "chains": [
-    {
-      "type": "marfu'",
-      "narrators": [
-        {
-          "id": "016",
-          "name": "Ali ibn Abdullah",
-          "full_name": "Ali ibn Abdullah ibn Ja'far al-Sa'di",
-          "grade": "Thiqah Thabt",
-          "generation": "Sixth Generation",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3011",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "017",
-          "name": "Sufyan ibn Uyaynah",
-          "full_name": "Sufyan ibn Uyaynah ibn Abi Imran Maimun al-Hilali al-Kufi, Abu Muhammad",
-          "grade": "Thiqah Thabt",
-          "generation": "Fifth Generation",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3011",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "018",
-          "name": "Salih ibn Hayy Abu Hasan",
-          "full_name": "Salih ibn Hayy Abu Hasan al-Hamedani al-Kufi",
-          "grade": "Saduq/Sadooq",
-          "generation": "Fourth Generation",
-          "transmissionTerm": "حَدَّثَنَا",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3011",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "019",
-          "name": "Al-Sha'bi",
-          "full_name": "Amir ibn Sharahil al-Sha'bi al-Kufi",
-          "grade": "Thiqah",
-          "generation": "Third Generation",
-          "transmissionTerm": "قَالَ : سَمِعْتُ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3011",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "020",
-          "name": "Abu Burda",
-          "full_name": "Abu Burda ibn Abi Musa al-Ash'ari",
-          "grade": "Thiqah",
-          "generation": "Second Generation",
-          "transmissionTerm": "حَدَّثَنِي",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3011",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "021",
-          "name": "Abu Musa al-Ash'ari",
-          "full_name": "Abdullah ibn Qays Abu Musa al-Ash'ari",
-          "grade": "Companion",
-          "generation": "Companion",
-          "transmissionTerm": "أَنَّهُ سَمِعَ أَبَاهُ عَنِ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3011",
-          "chapter_id": "chapter_xyz"
-        },
-        {
-          "id": "022",
-          "name": "Prophet Muhammad ﷺ",
-          "full_name": "Muhammad ibn Abdullah ﷺ",
-          "grade": "Awthaq al-Nas",
-          "generation": "Companion",
-          "transmissionTerm": "قَالَ",
-          "reliabilityIssues": [],
-          "book_id": "sahih_bukhari_001",
-          "book_name": "Sahih Bukhari",
-          "hadith_id": "3011",
-          "chapter_id": "chapter_xyz"
-        }
-      ],
-      "chainIssues": []
-    }
-  ],
-  "plainChains": [
-    "Ali ibn Abdullah -> Sufyan ibn Uyaynah -> Salih ibn Hayy Abu Hasan -> Al-Sha'bi -> Abu Burda -> Abu Musa al-Ash'ari -> Prophet Muhammad ﷺ"
-  ],
-  "potential_issues": [
-    {
-      "issue": "Salih ibn Hayy Abu Hasan is graded as Saduq/Sadooq, which indicates he is truthful but might have some minor issues with memory or precision. This is below the highest level of reliability (Thiqah Thabt).",
-      "impact": "This slightly lowers the confidence in the narration's exact wording but doesn't significantly undermine its overall reliability."
-    }
-  ],
-  "IISGrade": "Acceptable",
-  "Topics": [
-    "Rewards for teaching and marrying a slave girl",
-    "Rewards for believing People of the Book",
-    "Rewards for a slave fulfilling his duties",
-    "Encouragement of learning and good manners",
-    "Importance of sincerity to master"
-  ],
-  "arabicText": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ ، حَدَّثَنَا صَالِحُ بْنُ حَيٍّ أَبُو حَسَنٍ ، قَالَ : سَمِعْتُ الشَّعْبِيَّ ، يَقُولُ : حَدَّثَنِي أَبُو بُرْدَةَ ، أَنَّهُ سَمِعَ أَبَاهُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ :    ثَلَاثَةٌ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ الرَّجُلُ تَكُونُ لَهُ الْأَمَةُ ، فَيُعَلِّمُهَا فَيُحْسِنُ تَعْلِيمَهَا ، وَيُؤَدِّبُهَا فَيُحْسِنُ أَدَبَهَا ، ثُمَّ يُعْتِقُهَا فَيَتَزَوَّجُهَا فَلَهُ أَجْرَانِ ، وَمُؤْمِنُ أَهْلِ الْكِتَابِ الَّذِي كَانَ مُؤْمِنًا ثُمَّ آمَنَ بِالنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَلَهُ أَجْرَانِ ، وَالْعَبْدُ الَّذِي يُؤَدِّي حَقَّ اللَّهِ وَيَنْصَحُ لِسَيِّدِهِ    ، ثُمَّ قَالَ الشَّعْبِيُّ : وَأَعْطَيْتُكَهَا بِغَيْرِ شَيْءٍ وَقَدْ كَانَ الرَّجُلُ يَرْحَلُ فِي أَهْوَنَ مِنْهَا إِلَى الْمَدِينَةِ .\n\r\nصحیح بخاری حدیث: 3011",
-  "collection": "Sahih Bukhari",
-  "reference_number": 3011,
-  "grade": "Sahih"
-}
+```
+{
+    "english_translation": "Ali ibn Abdullah narrated to us: Sufyan narrated to us, from Abi Hazim, from Sahl bin Saad al-Sa'idi, who said: The Messenger of Allah ﷺ said: 'A place equal to the size of a whip in Paradise is better than the world and what is in it.'",
+    "chains": [
+      {
+        "type": "marfu'",
+        "narrators": [
+          {
+            "name": "Ali ibn Abdullah",
+            "full_name": "Ali ibn Abdullah ibn Ja'far as-Sa'di",
+            "grade": "Thiqah Thabt",
+            "generation": "Sixth Generation",
+            "transmissionTerm": "حَدَّثَنَا",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "Sufyan",
+            "full_name": "Sufyan ibn Uyaynah",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "حَدَّثَنَا",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "Abu Hazim",
+            "full_name": "Salama ibn Dinar al-A'raj al-Madani",
+            "grade": "Thiqah",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "Sahl bin Saad al-Sa'idi",
+            "full_name": "Sahl bin Saad bin Malik al-Ansari al-Sa'idi",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "plainChains": [
+      "Ali ibn Abdullah -> Sufyan -> Abu Hazim -> Sahl bin Saad al-Sa'idi -> Prophet Muhammad ﷺ"
+    ],
+    "potential_issues": [],
+    "IISGrade": "Perfect",
+    "Topics": [
+      "Description of Paradise",
+      "Value of Paradise compared to the World"
+    ],
+    "arabicText": "حَدَّثَنَا عَلِيُّ بْنُ عَبْدِ اللَّهِ ، حَدَّثَنَا سُفْيَانُ ، عَنْ أَبِي حَازِمٍ ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :   مَوْضِعُ سَوْطٍ فِي الْجَنَّةِ خَيْرٌ مِنَ الدُّنْيَا وَمَا فِيهَا    .\n\r\nصحیح بخاری حدیث: 3250",
+    "collection": "Sahih Bukhari",
+    "reference_number": 3250,
+    "grade": "Sahih"
+  }
 ```
