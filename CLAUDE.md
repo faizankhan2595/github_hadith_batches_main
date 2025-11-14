@@ -182,7 +182,7 @@ Also our translation should be very literal, unlike other translation which tran
 "generation": "string", // Use descriptive categories like "Companion", "First Generation", etc.
 "transmissionTerm": "string", // How they received it (e.g., "حَدَّثَنَا", "عَنْ") // it must be from the list of transmission terms mentioned in the prompt above.
 "reliabilityIssues": ["string"] // e.g., ["mudallis", "ikhtilat", "majhul"... or any other issues],
-// all other keys from enriched_hadiths_X.json about this narrator like narrator_id, and other fields. 
+// all other keys from enriched_hadiths_X.json about this narrator like narrator_id, and other fields, except for position_in_isnad and appears_in_chains
 "narrator_id": "integer", // as per enriched_hadiths_X.json,
 "alternative_names": "string", // as per enriched_hadiths_X.json
 "original_id": "integer", // as per enriched_hadiths_X.json
@@ -248,19 +248,11 @@ Sample outputs (it is missing narrator extra information from enriched_hadiths_X
         "type": "marfu'",
         "narrators": [
           {
-            "name": "Ali ibn Abdullah",
-            "full_name": "Ali ibn Abdullah ibn Ja'far as-Sa'di",
-            "grade": "Thiqah Thabt",
-            "generation": "Sixth Generation",
-            "transmissionTerm": "حَدَّثَنَا",
-            "reliabilityIssues": []
-          },
-          {
-            "name": "Sufyan",
-            "full_name": "Sufyan ibn Uyaynah",
-            "grade": "Thiqah Thabt",
-            "generation": "Fifth Generation",
-            "transmissionTerm": "حَدَّثَنَا",
+            "name": "Sahl bin Saad al-Sa'idi",
+            "full_name": "Sahl bin Saad bin Malik al-Ansari al-Sa'idi",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
             "reliabilityIssues": []
           },
           {
@@ -272,13 +264,21 @@ Sample outputs (it is missing narrator extra information from enriched_hadiths_X
             "reliabilityIssues": []
           },
           {
-            "name": "Sahl bin Saad al-Sa'idi",
-            "full_name": "Sahl bin Saad bin Malik al-Ansari al-Sa'idi",
-            "grade": "Companion",
-            "generation": "Companion",
-            "transmissionTerm": "قَالَ",
+            "name": "Sufyan",
+            "full_name": "Sufyan ibn Uyaynah",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "حَدَّثَنَا",
             "reliabilityIssues": []
-          }
+          },
+          {
+            "name": "Ali ibn Abdullah",
+            "full_name": "Ali ibn Abdullah ibn Ja'far as-Sa'di",
+            "grade": "Thiqah Thabt",
+            "generation": "Sixth Generation",
+            "transmissionTerm": "حَدَّثَنَا",
+            "reliabilityIssues": []
+          },
         ],
         "chainIssues": []
       }
