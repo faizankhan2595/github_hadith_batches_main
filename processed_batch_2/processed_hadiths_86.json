@@ -1,0 +1,263 @@
+{
+  "batch_number": 2,
+  "file_number": 86,
+  "processed_count": 4,
+  "hadiths": [
+    {
+      "hadith_id": 10281,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by عيسى بن المنذر: وَقَالَ مَالِكٌ : لَا بَأْسَ فِي غَيْرِ الْجُمُعَةِ أَنْ يُصَلِّيَ الرَّجُلُ بِصَلَاةِ الْإِمَامِ عَلَى ظَهْرِ الْمَسْجِدِ ، وَالْإِمَامُ فِي دَاخِلِ ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Isa ibn al-Mundhir",
+              "full_name": "Isa ibn al-Mundhir",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ziyad",
+              "full_name": "Ziyad",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "Sulayman ibn Arqam",
+              "full_name": "Sulayman ibn Arqam",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Isa ibn al-Mundhir -> Ziyad -> Sulayman ibn Arqam"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ziyad: unknown",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ فِي غَيْرِ الْجُمُعَةِ أَنْ يُصَلِّيَ الرَّجُلُ بِصَلَاةِ الْإِمَامِ عَلَى ظَهْرِ الْمَسْجِدِ ، وَالْإِمَامُ فِي دَاخِلِ الْمَسْجِدِ . قَالَ : وَكَانَ آخَرُ مَا فَارَقْنَا مَالِكًا أَنَّهُ كَرِهَ أَنْ يُصَلِّيَ الرَّجُلُ خَلْفَ الْإِمَامِ بِصَلَاةِ الْإِمَامِ عَلَى ظَهْرِ الْمَسْجِدِ , قَالَ : وَلَا يُعْجِبُنِي هَذَا مِنْ قَوْلِهِ , وَقَوْلُهُ الْأَوَّلُ بِهِ آخُذُ . قُلْتُ : مَا قَوْلُ مَالِكٍ فِي صَلَاةِ الرَّجُلِ عَلَى قُعَيْقِعَانِ ، وَعَلَى أَبِي قُبَيْسٍ بِصَلَاةِ الْإِمَامِ فِي الْمَسْجِدِ الْحَرَامِ ؟ قَالَ : لَمْ أَسْمَعْ فِيهِ شَيْئًا وَلَا يُعْجِبُنِي . قَالَ : وَقَالَ الْإِمَامُ يُصَلِّيَ فِي السَّفِينَةِ يُصَلِّيَ عَلَى السَّقْفِ وَالْقَوْمُ تَحْتَهُ , قَالَ : لَا يُعْجِبُنِي , قَالَ : وَإِنْ صَلَّى الْإِمَامُ أَسْفَلَ ، وَالنَّاسُ فَوْقَ السَّقْفِ ، فَلَا بَأْسَ بِذَلِكَ إِذَا كَانَ إِمَامُهُمْ قُدَّامَهُمْ . قَالَ : فَقُلْنَا لِمَالِكٍ : كَيْفَ يَجْمَعُ هَؤُلَاءِ الَّذِينَ أَمَامَهُمْ فَوْقَ السَّقْفِ ؟ قَالَ : يُصَلِّي الَّذِينَ فَوْقَ السَّقْفِ بِإِمَامٍ ، وَالَّذِينَ أَسْفَلُ بِإِمَامٍ آخَرَ . قَالَ : وَقَالَ مَالِكٌ فِي الْقَوْمِ يَكُونُونَ فِي السُّفُنِ يُصَلِّي بَعْضُهُمْ بِصَلَاةِ بَعْضٍ ، وَإِمَامُهُمْ فِي إِحْدَى السَّفَائِنِ ، وَهُمْ يُصَلُّونَ بِصَلَاتِهِ ، وَهُمْ فِي غَيْرِ سَفِينَتِهِ , قَالَ : فَإِنْ كَانَتِ السُّفُنُ بَعْضُهَا قَرِيبَةً مِنْ بَعْضٍ ، فَلَا بَأْسَ بِذَلِكَ . قَالَ : وَقَالَ مَالِكٌ : لَوْ أَنَّ دُورًا مَحْجُورًا عَلَيْهَا صَلَّى قَوْمٌ فِيهَا بِصَلَاةِ الْإِمَامِ فِي غَيْرِ الْجُمُعَةِ ، فَصَلَاتُهُمْ تَامَّةٌ إِذَا كَانَ لِتِلْكَ الدُّورِ كُوًى أَوْ مَقَاصِيرُ   يَرَوْنَ مِنْهَا مَا يَصْنَعُ النَّاسُ وَالْإِمَامُ , فَيَرْكَعُونَ بِرُكُوعِهِ ، وَيَسْجُدُونَ بِسُجُودِهِ ، فَذَلِكَ جَائِزٌ ، وَإِنْ لَمْ يَكُنْ لَهَا كُوًى وَلَا مَقَاصِيرُ يَرَوْنَ مِنْهَا مَا تَصْنَعُ النَّاسُ وَالْإِمَامُ إِلَّا أَنَّهُمْ يَسْمَعُونَ الْإِمَامَ ، فَيَرْكَعُونَ بِرُكُوعِهِ ، وَيَسْجُدُونَ بِسُجُودِهِ فَذَلِكَ جَائِزٌ . قَالَ : وَسَأَلْنَا مَالِكًا عن النَّهْرِ الصَّغِيرِ يَكُونُ بَيْنَ الْإِمَامِ وَبَيْنَ قَوْمٍ وَهُمْ يُصَلُّونَ بِصَلَاةِ الْإِمَامِ ؟ قَالَ : لَا بَأْسَ بِذَلِكَ إِذَا كَانَ النَّهْرُ صَغِيرًا , قَالَ : وَإِذَا صَلَّى رَجُلٌ بِقَوْمٍ ، فَصَلَّى بِصَلَاةِ ذَلِكَ الرَّجُلِ قَوْمٌ آخَرُونَ بَيْنَهُمْ وَبَيْنَ ذَلِكَ الْإِمَامِ طَرِيقٌ ، فَلَا بَأْسَ بِذَلِكَ , قَالَ : وَذَلِكَ أَنِّي سَأَلْتُهُ عن ذَلِكَ فَقُلْتُ لَهُ : إِنَّ أَصْحَابَ الْأَسْوَاقِ يَفْعَلُونَ ذَلِكَ عندَنَا فِي حَوَانِيتِهِمْ , فَقَالَ : لَا بَأْسَ بِذَلِكَ . \r\n$84  85 /3 /141 /11 قَالَ /22 سَحْنُونٌ /22 : وَأَخْبَرَنِي /22 ابْنُ وَهْبٍ /22 ، عن سَعِيدِ بْنِ أَبِي أَيُّوبَ ، عن مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ ، /27 \" أَنَّ أَزْوَاجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كُنَّ /20 يُصَلِّينَ فِي بُيُوتِهِنَّ بِصَلَاةِ أَهْلِ الْمَسْجِدِ \" /27 . قَالَ /22 سَحْنُونٌ /22 : وَأَخْبَرَنِي ابْنُ وَهْبٍ ، عن رِجَالٍ مِنْ أَهْلِ الْعِلْمِ ، عن عُمَرَ بْنِ الْخَطَّابِ ، وَأَبِي هُرَيْرَةَ ، وَعُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، وَزَيْدِ بْنِ أَسْلَمَ ، وَرَبِيعَةَ مِثْلَهُ , إِلَّا أَنَّ عُمَرَ بْنَ الْخَطَّابِ قَالَ : \" مَا لَمْ تَكُنْ جُمُعَةٌ * \r\n$85  86 /3 /141 /11 قَالَ /22 سَحْنُونٌ /22 : وَأَخْبَرَنِي /22 ابْنُ وَهْبٍ /22 ، عن /94 ابْنِ أَبِي ذِئْبٍ L7063 /94 ، عن /26 صَالِحٍ L3898 /26 مَوْلَى /64 التَّوْأَمَةِ /64 ، قَالَ : /27 /20 \" صَلَّيْتُ مَعَ /93 أَبِي هُرَيْرَةَ L4396 /93 فَوْقَ ظَهْرِ الْمَسْجِدِ بِصَلَاةِ الْإِمَامِ وَهُوَ أَسْفَلُ \" /27 ، وَقَالَهُ إِبْرَاهِيمُ النَّخَعِيُّ * \r\n@ 1 : 118 @3E79",
+      "collection": "كتاب رقم 20",
+      "reference_number": 204
+    },
+    {
+      "hadith_id": 10284,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by أبو سلمة: عن  رِجَالٍ   مِنْ أَهْلِ الْعِلْمِ ، عن  ابْنِ شِهَابٍ   ، عن  حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ   ، عن  عُبَيْدِ اللَّهِ بْنِ عَدِيِّ بْنِ الْخِيَارِ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman al-Homsi",
+              "grade": "Daif",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "reliability issues"
+              ]
+            },
+            {
+              "name": "Qays ibn al-Rabi",
+              "full_name": "Qays ibn al-Rabi ibn Habib",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "weak narrator"
+              ]
+            },
+            {
+              "name": "Mughirah ibn Hadhf",
+              "full_name": "Mughirah ibn Hadhf",
+              "grade": "Layyin al-Hadith",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Karim ibn Sulit",
+              "full_name": "Abd al-Karim ibn Sulit ibn Uqbah",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Walid ibn Bashr",
+              "full_name": "Walid ibn Bashr",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Salamah -> Qays ibn al-Rabi -> Mughirah ibn Hadhf -> Abd al-Karim ibn Sulit -> Walid ibn Bashr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Salamah: reliability issues",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Qays ibn al-Rabi: weak narrator",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 رِجَالٍ L1131 /94 مِنْ أَهْلِ الْعِلْمِ ، عن /26 ابْنِ شِهَابٍ L7272 /26 ، عن /26 حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ L2542 /26 ، عن /26 عُبَيْدِ اللَّهِ بْنِ عَدِيِّ بْنِ الْخِيَارِ L5415 /26 ، قَالَ : /27 \" دَخَلْتُ عَلَى عُثْمَانَ بْنِ عَفَّانَ وَهُوَ مَحْصُورٌ فَقُلْتُ لَهُ : إِنَّكَ إِمَامُ الْعَامَّةِ ، وَقَدْ نزل بِكَ مَا تَرَى ، وَإِنَّهُ يُصَلِّي لَنَا إِمَامُ فِتْنَةٍ ، وَإِنَّا نَتَحَرَّجُ مِنَ الصَّلَاةِ خَلْفَهُ , فَقَالَ /93 عُثْمَانُ L5543 /93 : \" فَلَا تَفْعَلْ فَإِنَّ /20 الصَّلَاةَ أَحْسَنُ مَا يَعْمَلُ النَّاسُ ، فَإِذَا أَحْسَنَ النَّاسُ فَأَحْسَنَ مَعَهُمْ ، وَإِذَا أَسَاءُوا فَاجْتَنِبْ إِسَاءَتَهُمْ \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 207
+    },
+    {
+      "hadith_id": 10289,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by محمد بن الحسن بن عطية بن سعد: قَالَ : سَمِعْتُ  مُعَاوِيَةَ بْنَ صَالِحٍ   ، يَذْكُرُ عن  ابْنِ الْمُسَيِّبِ   ،  أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ :  \" فَلْي...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn al-Hassan",
+              "full_name": "Muhammad ibn al-Hassan ibn Atiyyah",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Hafsa ibn Umar",
+              "full_name": "Hafsa ibn Umar ibn Abd al-Rahman ibn Awf",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Muhammad ibn al-Hassan -> Hafsa ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، قَالَ : سَمِعْتُ /94 مُعَاوِيَةَ بْنَ صَالِحٍ L7584 /94 ، يَذْكُرُ عن /26 ابْنِ الْمُسَيِّبِ L3299 /26 ، /27 أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" فَلْيَؤُمَّهُمْ أَفْقَهُهُمْ \" /27 , قَالَ : فَذَلِكَ أَمِيرٌ أَمَرَّهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ * \r\nقَالَ ابْنُ وَهْبٍ : وَقَدْ كَانَ سَالِمٌ مَوْلَى أَبِي حُذَيْفَةَ يَؤُمُّ الْمُهَاجِرِينَ الْأَوَّلِينَ ، وَأَصْحَابَ رَسُولِ   اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْأَنْصَارِ فِي /60 مَسْجِدِ قُبَاءَ /60 فِيهِمْ : أَبُو بَكْرٍ ، وَعُمَرُ ، وَأَبُو سَلَمَةَ ، وَزَيْدٌ ، وَعَامِرُ بْنُ رَبِيعَةَ , قَالَ ابْنُ وَهْبٍ وَقَالَ مَالِكٌ : يَؤُمُّ الْقَوْمَ أَهْلُ الصَّلَاحِ وَالْفَضْلِ مِنْهُمْ . قَالَ ابْنُ وَهْبٍ ، عن عَلِيِّ بْنِ زِيَادٍ ، عن سُفْيَانَ ، عن الْمُغِيرَةِ ، عن إِبْرَاهِيمَ ، قَالَ : كَانُوا يَكْرَهُونَ أَنْ يَؤُمَّ الْغُلَامُ حَتَّى يَحْتَلِمَ . \r\n$88  89 /3",
+      "collection": "كتاب رقم 20",
+      "reference_number": 212
+    },
+    {
+      "hadith_id": 10290,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by عيسى بن المنذر: عن  ابْنِ أَبِي ذِئْبٍ   ، عن   مَوْلًى لِبَنِي هَاشِمٍ    ، أَخْبَرَهُ  عن  عَلِيِّ بْنِ أَبِي طَالِبٍ   ، أَنَّهُ قَالَ :  \" لَا تَؤُمُّ الْمَرْأَةُ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Isa ibn al-Mundhir",
+              "full_name": "Isa ibn al-Mundhir",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman al-Homsi",
+              "grade": "Daif",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "reliability issues"
+              ]
+            },
+            {
+              "name": "Abdullah ibn Ubaid",
+              "full_name": "Abdullah ibn Ubaid ibn Umayr",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Isa ibn al-Mundhir -> Abu Salamah -> Abdullah ibn Ubaid"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Salamah: reliability issues",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 قَالَ /22 ابْنُ وَهْبٍ /22 ، عن /94 ابْنِ أَبِي ذِئْبٍ L7063 /94 ، عن /18 /26 مَوْلًى لِبَنِي هَاشِمٍ L1131 /26 /18 ، أَخْبَرَهُ /27 عن /93 عَلِيِّ بْنِ أَبِي طَالِبٍ L5722 /93 ، أَنَّهُ قَالَ : /20 \" لَا تَؤُمُّ الْمَرْأَةُ \" /27 , وَقَالَ إِبْرَاهِيمُ النَّخَعِيُّ : لَا تَؤُمُّ فِي الْفَرِيضَةِ ، وَقَالَهُ يَحْيَى بْنُ سَعِيدٍ ، وَرَبِيعَةُ بْنُ أَبِي عَبْدِ الرَّحْمَنِ ، وَابْنُ شِهَابٍ * \r\nقَالَ ابْنُ وَهْبٍ ، عن عُثْمَانَ بْنِ الْحَكَمِ ، عن ابْنِ جُرَيْجٍ ، عن عُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، قَالَ : لَا يُؤَمُّ مَنْ لَمْ يَحْتَلِمْ . وَقَالَهُ عَطَاءُ بْنُ أَبِي رَبَاحٍ ، وَيَحْيَى بْنُ سَعِيدٍ . قَالَ ابْنُ وَهْبٍ ، عن مَالِكٍ ، عن يَحْيَى بْنِ سَعِيدٍ : إِنَّ رَجُلًا كَانَ    @ 1 : 120 @    لَا يَعْرِفُ وَلَدَهُ كَانَ يَؤُمُّ قَوْمًا بِالْعَقِيقِ ، فَنَهَاهُ عُمَرُ بْنُ عَبْدِ الْعَزِيزِ . قَالَ وَكِيعٌ ، عن هِشَامِ بْنِ عُرْوَةَ ، عن أَبِي بَكْرِ بْنِ أَبِي مُلَيْكَةَ ، \" أَنَّ عَائِشَةَ كَانَ يَؤُمُّهَا مُدَبَّرٌ لَهَا يُقَالُ لَهُ : ذَكْوَانُ أَبُو عَمْرٍو \" .\u001eE83",
+      "collection": "كتاب رقم 20",
+      "reference_number": 213
+    }
+  ]
+}

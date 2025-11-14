@@ -1,0 +1,531 @@
+{
+  "batch_number": 2,
+  "file_number": 85,
+  "processed_count": 7,
+  "hadiths": [
+    {
+      "hadith_id": 10261,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by عبد الجبار بن محمد بن عبد الرحمن بن زيد : قَالَ  ابْنُ وَهْبٍ  : أَخْبَرَنِي  عَبْدُ اللَّهِ بْنُ لَهِيعَةَ   ، أَنَّ  أَبَا الزُّبَيْرِ الْمَكِّيَّ   حَدَّثَهُ ،  عن  جَابِرِ بْنِ عَبْدِ اللّ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Jabbar ibn Muhammad",
+              "full_name": "Abd al-Jabbar ibn Muhammad ibn Abd al-Rahman ibn Zaid",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qays ibn al-Harith",
+              "full_name": "Qays ibn al-Harith ibn Jidar",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Junaid ibn Amin",
+              "full_name": "Junaid ibn Amin ibn Dharwah",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd Rabbuh ibn Bariq",
+              "full_name": "Abd Rabbuh ibn Bariq",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ismail ibn Abd al-Rahman",
+              "full_name": "Ismail ibn Abd al-Rahman ibn Dhu'ayb",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zakariya ibn Yahya",
+              "full_name": "Zakariya ibn Yahya ibn Salih",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Isa ibn al-Mundhir",
+              "full_name": "Isa ibn al-Mundhir",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Rafdah",
+              "full_name": "Rafdah bint Quda'ah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Asim ibn Raja ibn Haywa",
+              "full_name": "Asim ibn Raja ibn Haywa al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abd al-Jabbar ibn Muhammad -> Qays ibn al-Harith -> Junaid ibn Amin -> Abd Rabbuh ibn Bariq -> Ismail ibn Abd al-Rahman -> Zakariya ibn Yahya -> Isa ibn al-Mundhir -> Rafdah -> Asim ibn Raja ibn Haywa"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 قَالَ /22 سَحْنُونٌ /22 ، قَالَ /22 ابْنُ وَهْبٍ /22 : أَخْبَرَنِي /94 عَبْدُ اللَّهِ بْنُ لَهِيعَةَ L5033 /94 ، أَنَّ /26 أَبَا الزُّبَيْرِ الْمَكِّيَّ L7270 /26 حَدَّثَهُ ، /27 عن /93 جَابِرِ بْنِ عَبْدِ اللَّهِ L2069 /93 ، قَالَ : \" سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 يَأْمُرُ أَنْ يَعْتَدِلَ الرَّجُلُ فِي السُّجُودِ ، وَلَا يَسْجُدُ الرَّجُلُ بَاسِطًا ذِرَاعَيْهِ كَالْكَلْبِ \" /27 * \r\n$73  74 /2 /141 /11 قَالَ /22 سَحْنُونٌ /22 : وَذَكَرَ /22 ابْنُ وَهْبٍ /22 , /27 \" أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 رَأَى رَجُلًا يَسْجُدُ إِلَى جَنْبِهِ ، وَقَدِ اعْتَمَّ عَلَى جَبْهَتِهِ , فَحَسَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عن جَبْهَتِهِ \" , مِنْ حَدِيثِ /94 ابْنِ لَهِيعَةَ L5033 /94 ، /94 وَعَمْرِو بْنِ الْحَارِثِ L6080 /94 ، عن /26 بَكْرٍ بْنِ سَوَادَةَ L1931 /26 ، عن /26 صَالِحِ بْنِ خَيْوَانَ الشَّيْبَانِيِّ L3868 /26 /27 * \r\n$74  75 /2 /143 /11 قَالَ /22 ابْنُ وَهْبٍ /22 : وَذَكَرَ /27 \" أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ /20 إِذَا سَجَدَ يُرَى بَيَاضُ إِبْطَيْهِ \" , مِنْ حَدِيثِ /22 ابْنِ وَهْبٍ /22 ، عن /94 ابْنِ أَبِي ذِئْبٍ L7063 /94 ، عن /26 شُعْبَةَ L3797 /26 مَوْلَى ابْنِ عَبَّاسٍ ، عن /93 ابْنِ عَبَّاسٍ L4883 /93 /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 184
+    },
+    {
+      "hadith_id": 10263,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by حوثرة بن الأشرس بن عون بن المجشر بن حريث: وَسَأَلْتُ مَالِكًا عن الرَّجُلِ يُصَلِّي إِلَى جَنْبِ حَائِطٍ ، فَيَتَّكِئُ عَلَى الْحَائِطِ ؟ فَقَالَ : أَمَّا فِي الْمَكْتُوبَةِ فَلَا يُعْجِبُنِي ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Hawthrah ibn al-Ashras",
+              "full_name": "Hawthrah ibn al-Ashras ibn Awn",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman al-Homsi",
+              "grade": "Daif",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "reliability issues"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Hawthrah ibn al-Ashras -> Abu Salamah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Salamah: reliability issues",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "قَالَ : وَسَأَلْتُ مَالِكًا عن الرَّجُلِ يُصَلِّي إِلَى جَنْبِ حَائِطٍ ، فَيَتَّكِئُ عَلَى الْحَائِطِ ؟ فَقَالَ : أَمَّا فِي الْمَكْتُوبَةِ فَلَا يُعْجِبُنِي ، وَأَمَّا فِي النَّافِلَةِ ، فَلَا أَرَى بِهِ بَأْسًا , قَالَ ابْنُ الْقَاسِمِ : وَالْعَصَا تَكُونُ فِي يَدِهِ عندِي بِمَنْزِلَةِ الْحَائِطِ , قَالَ وَقَالَ مَالِكٌ : إِنْ شَاءَ اعْتَمَدَ ، وَإِنْ شَاءَ لَمْ يَعْتَمِدْ ، وَكَانَ لَا يَكْرَهُ الِاعْتِمَادَ , قَالَ : وَذَلِكَ عَلَى قَدْرِ مَا يَرْتَفِقُ بِهِ ، فَلْيَنْظُرْ أَرْفَقَ ذَلِكَ بِهِ فَيَصْنَعُهُ . قَالَ : وَقَالَ مَالِكٌ : فِي وَضْعِ الْيُمْنَى عَلَى الْيُسْرَى فِي الصَّلَاةِ ؟ قَالَ : لَا أَعْرِفُ ذَلِكَ فِي الْفَرِيضَةِ ، وَكَانَ يَكْرَهُهُ ، وَلَكِنْ فِي النَّوَافِلِ إِذَا طَالَ الْقِيَامُ ، فَلَا بَأْسَ بِذَلِكَ يُعِينُ بِهِ نَفْسَهُ . \r\n$75  76 /2 /141 /11 قَالَ /22 سَحْنُونٌ /22 ، عن /22 ابْنِ وَهْبٍ /22 ، عن /94 سُفْيَانَ الثَّوْرِيِّ L3436 /94 ، عن /93 غَيْرِ وَاحِدٍ L1131 /93 مِنْ أَصْحَابِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ , /27 \" أَنَّهُمْ رَأَوْا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 وَاضِعًا يَدَهُ الْيُمْنَى عَلَى الْيُسْرَى فِي الصَّلَاةِ \" /27 * \r\n@ 1 : 112 @6E69",
+      "collection": "كتاب رقم 20",
+      "reference_number": 186
+    },
+    {
+      "hadith_id": 10265,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by أبو سلمة: وَقَالَ مَالِكٌ : أَرَى أَنْ لَا يَضَعَ الرَّجُلُ كَفَّيْهِ إِلَّا عَلَى الَّذِي يَضَعُ عَلَيْهِ جَبْهَتَهُ , قَالَ : وَإِنْ كَانَ حَرٌّ أَوْ بَرْدٌ ،...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman al-Homsi",
+              "grade": "Daif",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "reliability issues"
+              ]
+            },
+            {
+              "name": "Asim ibn Raja ibn Haywa",
+              "full_name": "Asim ibn Raja ibn Haywa al-Qurashi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd al-Jabbar ibn Muhammad",
+              "full_name": "Abd al-Jabbar ibn Muhammad ibn Abd al-Rahman ibn Zaid",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abd Rabbuh ibn Bariq",
+              "full_name": "Abd Rabbuh ibn Bariq",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ismail ibn Abd al-Rahman",
+              "full_name": "Ismail ibn Abd al-Rahman ibn Dhu'ayb",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Zakariya ibn Yahya",
+              "full_name": "Zakariya ibn Yahya ibn Salih",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Abu Salamah -> Asim ibn Raja ibn Haywa -> Abd al-Jabbar ibn Muhammad -> Abd Rabbuh ibn Bariq -> Ismail ibn Abd al-Rahman -> Zakariya ibn Yahya"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Salamah: reliability issues",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "قَالَ : وَقَالَ مَالِكٌ : أَرَى أَنْ لَا يَضَعَ الرَّجُلُ كَفَّيْهِ إِلَّا عَلَى الَّذِي يَضَعُ عَلَيْهِ جَبْهَتَهُ , قَالَ : وَإِنْ كَانَ حَرٌّ أَوْ بَرْدٌ ، فَلَا بَأْسَ بِأَنْ يَبْسُطَ ثَوْبًا يَسْجُدُ عَلَيْهِ ، وَيَجْعَلَ كَفَّيْهِ عَلَيْهِ . قَالَ : وَقَالَ مَالِكٌ : بَلَغَنِي أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، وَعَبْدَ اللَّهِ بْنَ عُمَرَ كَانَا يَفْعَلَانِ ذَلِكَ . قَالَ : وَقَالَ مَالِكٌ : تُبْدِي الْمَرْأَةُ كَفَّيْهَا فِي السُّجُودِ حَتَّى تَضَعَهُمَا عَلَى مَا تَضَعُ عَلَيْهِ جَبْهَتَهَا . قَالَ : وَقَالَ مَالِكٌ : فِيمَنْ سَجَدَ عَلَى كَوْرِ الْعِمَامَةِ قَالَ : أَحَبُّ إِلَيَّ أَنْ يَرْفَعَ عن بَعْضِ جَبْهَتِهِ حَتَّى يَمَسَّ بَعْضُ جَبْهَتِهِ الْأَرْضَ . قُلْتُ لَهُ : فَإِنْ سَجَدَ عَلَى كَوْرِ الْعِمَامَةِ ؟ قَالَ : أَكْرَهَهُ ، فَإِنْ فَعَلَ فَلَا إِعَادَةَ عَلَيْهِ . قَالَ : وَقَالَ مَالِكٌ : وَلَا يُعْجِبُنِي أَنْ يَحْمِلَ الرَّجُلُ الْحَصْبَاءَ أَوِ التُّرَابَ مِنْ مَوْضِعِ الظِّلِّ إِلَى مَوْضِعِ الشَّمْسِ يَسْجُدُ عَلَيْهِ , قَالَ : وَكَانَ مَالِكٌ يَكْرَهُ أَنْ يَسْجُدَ الرَّجُلُ عَلَى الطَّنَافِسِ ، وَبُسُطِ الشَّعْرِ ، وَالثِّيَابِ ، وَالْإِدَامِ ، وَكَانَ يَقُولُ : لَا بَأْسَ أَنْ يَقُومَ عَلَيْهَا ، وَيَرْكَعَ عَلَيْهَا ، وَيَقْعُدَ عَلَيْهَا ، وَلَا يَسْجُدَ عَلَيْهَا ، وَلَا يَضَعَ كَفَّيْهِ عَلَيْهَا , وَكَانَ لَا يَرَى بَأْسًا بِالْحُصْرِ ، وَمَا أَشْبَهَهَا مِمَّا تُنْبِتُ الْأَرْضُ أَنْ يَسْجُدَ عَلَيْهَا ، وَأَنْ يَضَعَ كَفَّيْهِ عَلَيْهَا . قَالَ : وَقَالَ مَالِكٌ : لَا يَسْجُدُ عَلَى الثَّوْبِ إِلَّا مِنْ حَرٍّ   أَوْ بَرْدٍ كَتَّانًا كَانَ أَوْ قُطْنًا . قَالَ مَالِكٌ : وَبَلَغَنِي أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ /93 ، /15 /93 وَعَبْدَ اللَّهِ بْنَ عُمَرَ /93 /15 كَانَا يَسْجُدَانِ عَلَى الثَّوْبِ مِنَ الْحَرِّ وَالْبَرْدِ ، وَيَضَعَانِ أَيْدِيَهُمَا عَلَيْهِ قُلْتُ لِابْنِ الْقَاسِمِ : فَهَلْ يَسْجُدُ عَلَى اللَّبَدِ وَالْبُسُطِ مِنَ الْحَرِّ وَالْبَرْدِ ؟ قَالَ : مَا سَأَلْنَا مَالِكًا عن هَذَا , وَلَكِنَّ مَالِكًا كَرِهَ الثِّيَابَ ، فَإِنْ كَانَتْ مِنْ قُطْنٍ أَوْ كَتَّانٍ فَهِيَ عندِي بِمَنْزِلَةِ الْبُسُطِ وَاللُّبُودِ ، فَقَدْ وَسِعَ مَالِكٌ أَنْ يَسْجُدَ عَلَى الثَّوْبِ مِنْ حَرٍّ أَوْ بَرْدٍ . قُلْتُ : أَفَتَرَى أَنْ يَكُونَ اللَّبَدُ بِتِلْكَ الْمَنْزِلَةِ ؟ قَالَ : نَعَمْ . قَالَ : وَقَالَ مَالِكٌ فِي الْحَصِيرَةِ يَكُونُ فِي نَاحِيَةٍ مِنْهَا قَذَرٌ ، وَيُصَلِّي الرَّجُلُ عَلَى النَّاحِيَةِ الْأُخْرَى لَا بَأْسَ بِذَلِكَ . قَالَ : وَقَالَ مَالِكٌ : لَا بَأْسَ بِالرَّجُلِ يَقُومُ فِي الصَّلَاةِ عَلَى أَحْلَاسِ الدَّوَابِّ الَّتِي قَدْ حَلِسَتْ بِهَا مثل اللُّبُودُ الَّتِي فِي السُّرُوجِ ، وَيَرْكَعُ عَلَيْهَا وَيَسْجُدُ عَلَى الْأَرْضِ , وَيَقُومُ عَلَى الثِّيَابِ وَالْبُسُطِ ، وَمَا أَشْبَهَ ذَلِكَ مِنَ الْمُصَلَّيَاتِ ، وَغَيْرِ ذَلِكَ ، وَيَسْجُدُ عَلَى الْخُمْرَةِ وَالْحَصِيرَةِ ، وَمَا أَشْبَهَ ذَلِكَ ، وَيَضَعُ يَدَيْهِ عَلَى الَّذِي يَضَعُ عَلَيْهِ جَبْهَتَهُ . قَالَ وَسَأَلْنَا مَالِكًا عن الْفِرَاشِ يَكُونُ فِيهِ النَّجَسُ ، هَلْ يُصَلِّي عَلَيْهِ الْمَرِيضُ ؟ قَالَ : إِذَا جَعَلَ فَوْقَهُ ثَوْبًا طَاهِرًا ، فَلَا بَأْسَ بِالصَّلَاةِ عَلَيْهِ إِذَا بَسَطَ عَلَيْهِ ثَوْبًا طَاهِرًا كَثِيفًا . \r\n$76  77 /2 /141 /11 /22 سَحْنُونٌ /22 قَالَ : قَالَ /22 ابْنُ وَهْبٍ /22 : أَخْبَرَنِي /26 رَجُلٌ L1131 /26 ، /27 عن /93 ابْنِ عَبَّاسٍ L4883 /93 \" أَنَّ النَّبِيَّ عَلَيْهِ السَّلامُ كَانَ /20 يَتَّقِي بِفُضُولِ ثِيَابِهِ بَرْدَ الْأَرْضِ وَحَرَّهَا \" /27 * \r\n$77  78 /2 /141 /11 وَذَكَرَ /27 \" أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 رَأَى رَجُلًا يَسْجُدُ إِلَى جَنْبِهِ وَقَدِ اعْتَمَّ عَلَى جَبْهَتِهِ ، فَحَسَرَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عن جَبْهَتِهِ \" , مِنْ حَدِيثِ /22 ابْنِ وَهْبٍ /22 ، عن /94 ابْنِ لَهِيعَةَ L5033 /94 ، /94 وَعَمْرِو بْنِ الْحَارِثِ L6080 /94 ، عن /26 بَكْرٍ بْنِ سَوَادَةَ L1931 /26 ، عن /26 صَالِحِ بْنِ خَيْوَانَ الشَّيْبَانِيِّ L3868 /26 /27 * \r\n!E70",
+      "collection": "كتاب رقم 20",
+      "reference_number": 188
+    },
+    {
+      "hadith_id": 10268,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by محمد بن عبد الله بن سلام بن الحارث: عن  نَافِعٍ   ،  أَنَّ  ابْنَ عُمَرَ   , كَانَ يَقُولُ :  \" إِذَا لَمْ يَسْتَطِعِ الْمَرِيضُ السُّجُودَ أَوْمَأَ بِرَأْسِهِ إِيمَاءً ، وَلَمْ يَرْفَعْ...",
+      "chains": [
+        {
+          "type": "marfu",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Abdullah",
+              "full_name": "Muhammad ibn Abdullah ibn Salam al-Isra'ili",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abbad ibn Maysarah",
+              "full_name": "Abbad ibn Maysarah al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Muhammad ibn Hisham",
+              "full_name": "Muhammad ibn Hisham ibn Isa",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weakness in hadith"
+              ]
+            },
+            {
+              "name": "Abdullah ibn Dinar",
+              "full_name": "Abdullah ibn Dinar al-Atqani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sabrah ibn Mu'abbad",
+              "full_name": "Sabrah ibn Mu'abbad ibn Awsajah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Muhammad ibn Abdullah -> Abbad ibn Maysarah -> Muhammad ibn Hisham -> Abdullah ibn Dinar -> Sabrah ibn Mu'abbad -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Muhammad ibn Hisham: weakness in hadith",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/12 مَالِكٌ /12 ، عن /94 نَافِعٍ L7863 /94 ، /27 أَنَّ /93 ابْنَ عُمَرَ L4967 /93 , كَانَ يَقُولُ : /20 \" إِذَا لَمْ يَسْتَطِعِ الْمَرِيضُ السُّجُودَ أَوْمَأَ بِرَأْسِهِ إِيمَاءً ، وَلَمْ يَرْفَعْ إِلَى جَبْهَتِهِ شَيْئًا \" /27 * \r\n$79  80 /2 /141 /12 مَالِكٌ /12 ، عن /94 هِشَامِ بْنِ عُرْوَةَ L8055 /94 ، عن /26 أَبِيهِ L5594 /26 ، /27 عن /93 عَائِشَةَ L4049 /93 ، أَنَّهَا قَالَتْ : /20 \" صَلَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَيْتِهِ وَهُوَ شَاكٍ فَصَلَّى جَالِسًا \" /27 * \r\n$80  81 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 191
+    },
+    {
+      "hadith_id": 10269,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by عبد الملك بن المغيرة بن نوفل بن الحارث ب: عن  عُمَرَ بْنِ قَيْسٍ   ، عن  ابْنِ شِهَابٍ   ،  أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ  \" نَهَى أَنْ يُصَلِّيَ عَلَى عُودٍ \"   \r\n81 ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abd al-Malik ibn al-Mughirah",
+              "full_name": "Abd al-Malik ibn al-Mughirah ibn Nawfal",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qays ibn al-Rabi",
+              "full_name": "Qays ibn al-Rabi ibn Habib",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abd al-Malik ibn al-Mughirah -> Qays ibn al-Rabi"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qays ibn al-Rabi: weak narrator",
+          "impact": "May affect chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 /22 ابْنُ وَهْبٍ /22 ، عن /94 عُمَرَ بْنِ قَيْسٍ L5995 /94 ، عن /26 ابْنِ شِهَابٍ L7272 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" نَهَى أَنْ يُصَلِّيَ عَلَى عُودٍ \" /27 * \r\n$81  82 /2",
+      "collection": "كتاب رقم 20",
+      "reference_number": 192
+    },
+    {
+      "hadith_id": 10270,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by أبو سلمة: وَقَالَ  غَيْرُهُ   ، عن  ابْنِ شِهَابٍ   ،  أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ :  \" مَنْ لَمْ يَسْتَطِعْ أَنْ يَسْجُدَ أَوْ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman al-Homsi",
+              "grade": "Daif",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "reliability issues"
+              ]
+            },
+            {
+              "name": "Qays ibn al-Rabi",
+              "full_name": "Qays ibn al-Rabi ibn Habib",
+              "grade": "Daif",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak narrator"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Abu Salamah -> Qays ibn al-Rabi"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Salamah: reliability issues",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Qays ibn al-Rabi: weak narrator",
+          "impact": "May affect chain reliability"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 /22 ابْنِ وَهْبٍ /22 ، وَقَالَ /26 غَيْرُهُ L1131 /26 ، عن /26 ابْنِ شِهَابٍ L7272 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 \" مَنْ لَمْ يَسْتَطِعْ أَنْ يَسْجُدَ أَوْمَأَ بِرَأْسِهِ إِيمَاءً \" /27 * \r\n'E74",
+      "collection": "كتاب رقم 20",
+      "reference_number": 193
+    },
+    {
+      "hadith_id": 10273,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by معاذ بن معاذ بن نصر بن حسان بن الحر بن م: وَسَمِعْتُ مَالِكًا ، وَعَبْدَ الْعَزِيزِ بْنَ أَبِي سَلَمَةَ ، قَالَ : وَلَمْ أَسْمَعْ مِنْ عَبْدِ الْعَزِيزِ غَيْرَ هَذِهِ الْمَسْأَلَةِ وَحْدَهَا ي...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Mu'adh ibn Mu'adh",
+              "full_name": "Mu'adh ibn Mu'adh ibn Nasr",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ubaidah",
+              "full_name": "Ubaidah",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "Humaidah bint Yasir",
+              "full_name": "Humaidah bint Yasir ibn Amr",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abbad ibn Maysarah",
+              "full_name": "Abbad ibn Maysarah al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman al-Homsi",
+              "grade": "Daif",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "reliability issues"
+              ]
+            },
+            {
+              "name": "Junaid ibn Amin",
+              "full_name": "Junaid ibn Amin ibn Dharwah",
+              "grade": "Saduq",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Sa'd ibn Ubaidah",
+              "full_name": "Sa'd ibn Ubaidah",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Mu'adh ibn Mu'adh -> Ubaidah -> Humaidah bint Yasir -> Abbad ibn Maysarah -> Abu Salamah -> Junaid ibn Amin -> Sa'd ibn Ubaidah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ubaidah: unknown",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Abu Salamah: reliability issues",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "قَالَ : وَسَمِعْتُ مَالِكًا ، وَعَبْدَ الْعَزِيزِ بْنَ أَبِي سَلَمَةَ ، قَالَ : وَلَمْ أَسْمَعْ مِنْ عَبْدِ الْعَزِيزِ غَيْرَ هَذِهِ الْمَسْأَلَةِ وَحْدَهَا يَقُولَانِ فِي صَلَاةِ الْجَالِسِ فِي الْمَحْمَلِ : قِيَامُهُ تَرَبُّعٌ ، فَإِذَا رَكَعَ رَكَعَ مُتَرَبِّعًا ، فَوَضَعَ يَدَيْهِ عَلَى رُكْبَتَيْهِ ، فَإِذَا رَفَعَ رَأْسَهُ مِنْ رُكُوعِهِ ، قَالَ لِي مَالِكٌ : يَرْفَعُ يَدَيْهِ عن رُكْبَتَيْهِ , قَالَ : وَلَا أَحْفَظُ هَذَا الْحَرْفَ رَفَعَ يَدَيْهِ عن رُكْبَتَيْهِ عن عَبْدِ الْعَزِيزِ بْنِ أَبِي سَلَمَةَ ، ثُمَّ رَجَعَ إِلَى قَوْلِهِمَا جَمِيعًا , قَالَا : فَإِذَا أَهْوَى إِلَى الْإِيمَاءِ لِلسُّجُودِ ، ثَنَى رِجْلَيْهِ وَسَجَدَ ، إِلَّا أَنْ يَكُونَ لَا يَقْدِرُ أَنْ يَثْنِيَ رِجْلَيْهِ عندَ الْإِيمَاءِ لِلسُّجُودِ ، فَيُومِئَ مُتَرَبِّعًا . E75 قَالَ مَالِكٌ : وَالْمَحْمَلُ أَشَدُّهُ عندِي يَشْتَدُّ عَلَيْهِ أَنْ يَثْنِيَ رِجْلَيْهِ مِنْ تَرَبُّعِهِ عندَ سُجُودِهِ ، فَلَا أَرَى بَأْسًا إِذَا شَقَّ ذَلِكَ عَلَيْهِ أَنْ يُومِئَ لِسُجُودِهِ مُتَرَبِّعًا , قَالَ : وَسَأَلْتُ مَالِكًا عن الْمَرِيضِ الشَّدِيدِ الَّذِي لَا يَسْتَطِيعُ الْجُلُوسَ أَيُصَلِّي فِي مَحْمَلِهِ الْمَكْتُوبَةَ ؟ قَالَ : لَا يُعْجِبُنِي ، وَيُصَلِّي عَلَى الْأَرْضِ , قَالَ مَالِكٌ : وَمَنْ خَافَ عَلَى نَفْسِهِ السِّبَاعَ وَاللُّصُوصَ وَغَيْرَهَا ، فَإِنَّهُ يُصَلِّي عَلَى دَابَّتِهِ إِيمَاءً حَيْثُمَا تَوَجَّهَتْ دَابَّتُهُ , وَكَانَ أَحَبَّ إِلَيْهِ إِنْ أَمِنَ فِي الْوَقْتِ أَنْ يُعِيدَ ، وَلَمْ يَكُنْ يَرَاهُ مثل الْعَدُوِّ . قَالَ : وَقَالَ لِي مَالِكٌ : لَا يُصَلِّي عَلَى دَابَّتِهِ التَّطَوُّعَ إِلَّا مَنْ هُوَ مُسَافِرٌ مِمَّنْ يَجُوزُ لَهُ قَصْرُ الصَّلَاةِ ، فَأَمَّا مَنْ   خَرَجَ فَرْسَخًا ، أَوْ فَرْسَخَيْنِ أَوْ ثَلَاثَةً ، فَإِنَّهُ لَا يُصَلِّي عَلَى دَابَّتِهِ تَطَوُّعًا . قَالَ : وَقَالَ مَالِكٌ : وَلَا يُصَلِّي عَلَى دَابَّتِهِ فِي الْحَضَرِ ، وَإِنْ كَانَ وَجْهُهُ إِلَى الْقِبْلَةِ , قَالَ : وَلَا يُصَلِّي مُضْطَجِعًا إِلَّا مَرِيضٌ , قَالَ : وَلَا يَتَنَفَّلُ عَلَى دَابَّتِهِ إِلَّا فِي السَّفَرِ الَّذِي تُقْصَرُ فِي مِثْلِهِ الصَّلَاةُ . قَالَ : وَقَالَ مَالِكٌ : يَتَنَفَّلُ الرَّجُلُ فِي السَّفَرِ لَيْلًا أَوْ نَهَارًا عَلَى دَابَّتِهِ حَيْثُمَا تَوَجَّهَتْ بِهِ , قَالَ : وَكَذَلِكَ عَلَى الْأَرْضِ يَتَنَفَّلُ لَيْلًا أَوْ نَهَارًا فِي السَّفَرِ . قَالَ : وَقَالَ مَالِكٌ : يُصَلِّي الْمُسَافِرُ رَكْعَتَيِ الْفَجْرِ عَلَى    @ 1 : 116 @    الرَّاحِلَةِ ، وَيُوتِرُ أَيْضًا عَلَيْهَا فِي السَّفَرِ . قَالَ : وَقَالَ مَالِكٌ : لَا يُصَلِّي أَحَدٌ فِي غَيْرِ سَفَرٍ تُقْصَرُ فِي مِثْلِهِ الصَّلَاةُ عَلَى دَابَّتِهِ لِلْقِبْلَةِ ، وَلَا يَسْجُدُ عَلَيْهَا سَجْدَةَ تِلَاوَةٍ لِلْقِبْلَةِ وَلَا لِغَيْرِ الْقِبْلَةِ . قَالَ : وَقَالَ مَالِكٌ فِيمَنْ قَرَأَ سَجْدَةً وَهُوَ عَلَى دَابَّتِهِ مُسَافِرٌ , قَالَ : يُومِئُ إِيمَاءً . وَكِيعٌ ، عن سُفْيَانَ ، عن عُمَرَ شَيْخٍ مِنَ الْأَنْصَارِ ، قَالَ : \" رَأَيْتُ /93 أَنَسَ بْنَ مَالِكٍ /93 يُصَلِّي عَلَى طَنْفَسَةٍ مُتَرَبِّعًا مُتَطَوِّعًا ، وَبَيْنَ يَدَيْهِ خُمْرَةٌ يَسْجُدُ عَلَيْهَا \" وَحَدَّثَ عن عَلِيٍّ ، عن سُفْيَانَ ، عن رَجُلٍ ، عن إِبْرَاهِيمَ النَّخَعِيِّ ، قَالَ : صَلَاةُ الْجَالِسِ مُتَرَبِّعًا ، فَإِذَا أَرَادَ أَنْ يَسْجُدَ ثَنَى رِجْلَيْهِ .\u000bE76 \r\n$82  83 /2 /141 وَأَخْبَرَنِي عن /22 ابْنِ وَهْبٍ /22 ، عن /12 مَالِكِ بْنِ أَنَسٍ /12 ، /26 وَيَحْيَى بْنِ عَبْدِ اللَّهِ L8299 /26 ، عن /26 عَمْرِو بْنِ يَحْيَى وَالْمَازِنِيِّ L6220 /26 ، عن /26 سَعِيدِ بْنِ يَسَارٍ L3418 /26 ، /27 عن /93 عَبْدِ اللَّهِ بْنِ عُمَرَ L4967 /93 ، قَالَ : \" رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 يُصَلِّي عَلَى حِمَارٍ مُتَوَجِّهًا إِلَى خَيْبَرَ وَهُوَ يَسِيرُ \" /27 * \r\n$83  84 /2 /141 /11 قَالَ /22 ابْنُ وَهْبٍ /22 : وَأَخْبَرَنِي /94 غَيْرُ وَاحِدٍ L1131 /94 ، /27 عن ، /93 جَابِرِ بْنِ عَبْدِ اللَّهِ L2069 /93 ، /15 /93 وَعَامِرِ بْنِ رَبِيعَةَ L4095 /93 /15 ، /15 /93 وَأَنَسِ بْنِ مَالِكٍ L720 /93 /15 ، عن رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَنَّهُ كَانَ /20 يُصَلِّي السُّبْحَةَ بِاللَّيْلِ فِي السَّفَرِ عَلَى ظَهْرِ رَاحِلَتِهِ حَيْثُ تَوَجَّهَتْ بِهِ إِلَى غَيْرِ الْقِبْلَةِ \" /27 * \r\n!E77",
+      "collection": "كتاب رقم 20",
+      "reference_number": 196
+    }
+  ]
+}

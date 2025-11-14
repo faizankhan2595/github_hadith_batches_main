@@ -1,0 +1,150 @@
+{
+  "batch_number": 2,
+  "file_number": 87,
+  "processed_count": 3,
+  "hadiths": [
+    {
+      "hadith_id": 10295,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by عثمان بن جبير: عن  ابْنِ وَهْبٍ  ، عن  عِيَاضِ بْنِ عَبْدِ اللَّهِ الْقُرَشِيِّ   ، قَالَ : لَا أَعْلَمُ , أَنَّ  إِبْرَاهِيمَ بْنَ عُبَيْدِ بْنِ رِفَاعَةَ   حَدَّثَ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Uthman ibn Jabir",
+              "full_name": "Uthman ibn Jabir",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Uthman ibn Jabir"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 قَالَ /22 سَحْنُونٌ /22 ، عن /22 ابْنِ وَهْبٍ /22 ، عن /94 عِيَاضِ بْنِ عَبْدِ اللَّهِ الْقُرَشِيِّ L6283 /94 ، قَالَ : لَا أَعْلَمُ , أَنَّ /26 إِبْرَاهِيمَ بْنَ عُبَيْدِ بْنِ رِفَاعَةَ L855 /26 حَدَّثَهُ قَالَ : /27 قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" سَيَكُونُ بَعْدِي أَئِمَّةٌ يُضَيِّعُونَ الصَّلَوَاتِ ، وَيَتَّبِعُونَ الشَّهَوَاتِ ، فَإِنْ صَلَّوْا الصَّلَاةَ لِوَقْتِهَا فَصَلُّوا مَعَهُمْ ، وَإِنْ لَمْ يُصَلُّوا الصَّلَاةَ لِوَقْتِهَا ، فَصَلُّوا الصَّلَاةَ لِوَقْتِهَا ، وَاجْعَلُوا صَلَاتَكُمْ مَعَهُمْ نَافِلَةً \" /27 , قَالَ /22 سَحْنُونٌ /22 ، عن /22 ابْنِ وَهْبٍ /22 ، عن رِجَالٍ مِنْ أَهْلِ الْعِلْمِ , عن ابْنِ مَسْعُودٍ ، وَأَبِي ذَرٍّ ، عن رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِذَلِكَ * \r\n$90  91 /3",
+      "collection": "كتاب رقم 20",
+      "reference_number": 218
+    },
+    {
+      "hadith_id": 10296,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by محمد بن عبد الله بن سلام بن الحارث: عن  ابْنِ الْقَاسِمِ  ، عن  مَالِكٍ  ، عن  نَافِعٍ   ،  عن  ابْنِ عُمَرَ   ، أَنَّهُ كَانَ يَقُولُ :  \" مَنْ صَلَّى الْمَغْرِبَ ، ثُمَّ أَدْرَكَهَا مَ...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Muhammad ibn Abdullah",
+              "full_name": "Muhammad ibn Abdullah ibn Salam al-Isra'ili",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abbad ibn Maysarah",
+              "full_name": "Abbad ibn Maysarah al-Qurashi",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Muhammad ibn Abdullah -> Abbad ibn Maysarah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "قَالَ /22 سَحْنُونٌ /22 ، عن /22 ابْنِ الْقَاسِمِ /22 ، عن /12 مَالِكٍ /12 ، عن /94 نَافِعٍ L7863 /94 ، /27 عن /93 ابْنِ عُمَرَ L4967 /93 ، أَنَّهُ كَانَ يَقُولُ : /20 \" مَنْ صَلَّى الْمَغْرِبَ ، ثُمَّ أَدْرَكَهَا مَعَ الْإِمَامِ ، فَلَا يُعِدْ لَهَا غَيْرَ مَا صَلَّاهَا \" /27 * \r\n0E87",
+      "collection": "كتاب رقم 20",
+      "reference_number": 219
+    },
+    {
+      "hadith_id": 10303,
+      "book_id": 20,
+      "narrator_id": null,
+      "english_translation": "Narrated by حميد بن عبد الرحمن بن عوف: عن  ابْنِ وَهْبٍ  ، عن  سَعِيدِ بْنِ أَبِي أَيُّوبَ   ،   عَمَّنْ حَدَّثَهُ    ،  عن  عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ   صَاحِبِ رَسُولِ اللَّهِ صَلَّى ا...",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Humaid ibn Abd al-Rahman",
+              "full_name": "Humaid ibn Abd al-Rahman ibn Awf",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman al-Homsi",
+              "grade": "Daif",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "reliability issues"
+              ]
+            },
+            {
+              "name": "Abd al-Rahman ibn Ibrahim",
+              "full_name": "Abd al-Rahman ibn Ibrahim",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms in chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Humaid ibn Abd al-Rahman -> Abu Salamah -> Abd al-Rahman ibn Ibrahim"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Salamah: reliability issues",
+          "impact": "May affect chain reliability"
+        },
+        {
+          "issue": "Multiple instances of indirect transmission terms in chain",
+          "impact": "Chain integrity affected"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Islamic Teachings"
+      ],
+      "arabicText": "/11 قَالَ /22 سَحْنُونٌ /22 ، عن /22 ابْنِ وَهْبٍ /22 ، عن /94 سَعِيدِ بْنِ أَبِي أَيُّوبَ L3400 /94 ، /18 /26 عَمَّنْ حَدَّثَهُ L1131 /26 /18 ، /27 عن /93 عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ L5105 /93 صَاحِبِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ قَالَ : \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 أَنْ يُصَلَّى فِي مَعَاطِنِ الْإِبِلِ ، وَأَمَرَ أَنْ يُصَلَّى فِي مُرَاحِ الْغَنَمِ ، وَالْبَقَرِ \" /27 *",
+      "collection": "كتاب رقم 20",
+      "reference_number": 226
+    }
+  ]
+}

@@ -1,0 +1,1010 @@
+{
+  "batch_number": 2,
+  "file_number": 60,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 9887,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by يَحْيَى: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَبْدِ",
+              "full_name": "Abdullah ibn Dinar al-Madani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَبَّادِ",
+              "full_name": "عَبَّادِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "عَبْدُ",
+              "full_name": "عَبْدُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "وَالنَّاسُ",
+              "full_name": "وَالنَّاسُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "يَحْيَى",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> عَبْدِ -> عَبَّادِ -> : -> عَبْدُ -> وَالنَّاسُ -> يَحْيَى -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "عَبَّادِ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "عَبْدُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "وَالنَّاسُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ L4632 /94 ، عَنْ /26 عَبَّادِ بْنِ تَمِيمٍ L4130 /26 ، /27 أَنَّ /93 أَبَا بَشِيرٍ الْأَنْصَارِيَّ L6533 /93 أَخْبَرَهُ ، أَنَّهُ كَانَ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي بَعْضِ أَسْفَارِهِ ، قَالَ : فَأَرْسَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَسُولًا ، قَالَ عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ : حَسِبْتُ أَنَّهُ قَالَ وَالنَّاسُ فِي مَقِيلِهِمْ : /20 \" لَا تَبْقَيَنَّ فِي رَقَبَةِ بَعِيرٍ قِلَادَةٌ مِنْ وَتَرٍ أَوْ قِلَادَةٌ إِلَّا قُطِعَتْ \" /27 . قَالَ /22 يَحْيَى /22 : سَمِعْتُ /12 مَالِكًا /12 ، يَقُولُ : /10 أَرَى ذَلِكَ مِنَ الْعَيْنِ /10 * \r\n\u001dE492 /1 كِتَابُ الْعَيْنِ /1",
+      "collection": "Muwatta Malik",
+      "reference_number": 2183
+    },
+    {
+      "hadith_id": 9889,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by رَسُولُ: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مُحَمَّدِ",
+              "full_name": "مُحَمَّدِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "لَهُ",
+              "full_name": "لَهُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "رَسُولُ",
+              "full_name": "رَسُولُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> مُحَمَّدِ -> : -> : -> لَهُ -> : -> رَسُولُ -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "مُحَمَّدِ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "لَهُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "رَسُولُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "وَحَدَّثَنِي /22 يَحْيَى /22 ، عَنْ /12 مَالِك /12 ، عَنْ /26 مُحَمَّدِ بْنِ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ L6751 /26 ، أَنَّهُ سَمِعَ /26 أَبَاهُ L543 /26 ، يَقُولُ : /27 اغْتَسَلَ /93 أَبِي سَهْلُ بْنُ حُنَيْفٍ L3671 /93 /60 بِالْخَرَّارِ /60 فَنَزَعَ جُبَّةً كَانَتْ عَلَيْهِ وَعَامِرُ بْنُ رَبِيعَةَ يَنْظُرُ ، قَالَ : وَكَانَ سَهْلٌ رَجُلًا أَبْيَضَ حَسَنَ الْجِلْدِ ، قَالَ : فَقَالَ لَهُ عَامِرُ بْنُ رَبِيعَةَ : مَا رَأَيْتُ كَالْيَوْمِ وَلَا جِلْدَ عَذْرَاءَ ، قَالَ : فَوُعِكَ سَهْلٌ مَكَانَهُ وَاشْتَدَّ وَعْكُهُ ، فَأُتِيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأُخْبِرَ أَنَّ سَهْلًا وُعِكَ ، وَأَنَّهُ غَيْرُ رَائِحٍ مَعَكَ يَا رَسُولَ اللَّهِ ، فَأَتَاهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَخْبَرَهُ سَهْلٌ بِالَّذِي كَانَ مِنْ أَمْرِ عَامِرٍ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" عَلَامَ يَقْتُلُ أَحَدُكُمْ أَخَاهُ ؟ أَلَّا بَرَّكْتَ إِنَّ الْعَيْنَ حَقٌّ تَوَضَّأْ لَهُ \" ، فَتَوَضَّأَ لَهُ عَامِرٌ ، فَرَاحَ سَهْلٌ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَيْسَ بِهِ بَأْسٌ /27 * \r\n$1682  1685 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 2185
+    },
+    {
+      "hadith_id": 9890,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by :: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابْنِ",
+              "full_name": "Muhammad ibn Muslim ibn Ubaydullah ibn Abdullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis_category_3"
+              ]
+            },
+            {
+              "name": "أَبِي",
+              "full_name": "Abu Hurayrah al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Use of عَنْ by ابْنِ (al-Zuhri) who is classified as mudallis category 3, though he is generally reliable",
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "ابْنِ -> أَبِي -> : -> : -> : -> : -> : -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابْنِ uses عَنْ - mudallis category 3 in Ibn Hajar's classification",
+          "impact": "Al-Zuhri is widely considered extremely reliable; this is noted for thoroughness but does not significantly affect grade."
+        },
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 ابْنِ شِهَابٍ L7272 /94 ، عَنْ /26 أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ L543 /26 ، أَنَّهُ قَالَ : /27 رَأَى عَامِرُ بْنُ رَبِيعَةَ /93 سَهْلَ بْنَ حُنَيْفٍ L3671 /93 يَغْتَسِلُ ، فَقَالَ : مَا رَأَيْتُ كَالْيَوْمِ وَلَا جِلْدَ مُخْبَأَةٍ ، فَلُبِطَ سَهْلٌ ، فَأُتِيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقِيلَ : يَا رَسُولَ اللَّهِ هَلْ لَكَ فِي سَهْلِ بْنِ حُنَيْفٍ ؟ وَاللَّهِ مَا يَرْفَعُ رَأْسَهُ ، فَقَالَ : \" هَلْ تَتَّهِمُونَ لَهُ أَحَدًا ؟ \" قَالُوا : نَتَّهِمُ عَامِرَ بْنَ رَبِيعَةَ ، قَالَ : فَدَعَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَامِرًا فَتَغَيَّظَ عَلَيْهِ ، وَقَالَ : /20 \" عَلَامَ يَقْتُلُ أَحَدُكُمْ أَخَاهُ ؟ أَلَّا بَرَّكْتَ اغْتَسِلْ لَهُ \" ، فَغَسَلَ عَامِرٌ وَجْهَهُ وَيَدَيْهِ ، وَمِرْفَقَيْهِ وَرُكْبَتَيْهِ ، وَأَطْرَافَ رِجْلَيْهِ وَدَاخِلَةَ إِزَارِهِ فِي قَدَحٍ ، ثُمَّ صُبَّ عَلَيْهِ فَرَاحَ سَهْلٌ مَعَ النَّاسِ لَيْسَ بِهِ بَأْسٌ /27 * \r\n,E493",
+      "collection": "Muwatta Malik",
+      "reference_number": 2186
+    },
+    {
+      "hadith_id": 9892,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by رَسُولُ: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حُمَيْدِ",
+              "full_name": "حُمَيْدِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "لِحَاضِنَتِهِمَا",
+              "full_name": "لِحَاضِنَتِهِمَا",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "رَسُولُ",
+              "full_name": "رَسُولُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> حُمَيْدِ -> : -> لِحَاضِنَتِهِمَا -> رَسُولُ -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "حُمَيْدِ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "لِحَاضِنَتِهِمَا has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "رَسُولُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 حُمَيْدِ بْنِ قَيْسٍ الْمَكِّيِّ L2547 /94 ، أَنَّهُ قَالَ : /27 دُخِلَ عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِابْنَيْ جَعْفَرِ بْنِ أَبِي طَالِبٍ ، فَقَالَ لِحَاضِنَتِهِمَا : \" مَا لِي أَرَاهُمَا ضَارِعَيْنِ ؟ \" فَقَالَتْ حَاضِنَتُهُمَا : يَا رَسُولَ اللَّهِ ، إِنَّهُ تُسْرِعُ إِلَيْهِمَا الْعَيْنُ ، وَلَمْ يَمْنَعْنَا أَنْ نَسْتَرْقِيَ لَهُمَا إِلَّا أَنَّا لَا نَدْرِي مَا يُوَافِقُكَ مِنْ ذَلِكَ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" اسْتَرْقُوا لَهُمَا ، فَإِنَّهُ لَوْ سَبَقَ شَيْءٌ الْقَدَرَ لَسَبَقَتْهُ الْعَيْنُ \" /27 * \r\n$1684  1687 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 2188
+    },
+    {
+      "hadith_id": 9893,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by رَسُولُ: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يَحْيَى",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سُلَيْمَانَ",
+              "full_name": "سُلَيْمَانَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "عُرْوَةُ",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "رَسُولُ",
+              "full_name": "رَسُولُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> يَحْيَى -> سُلَيْمَانَ -> عُرْوَةُ -> رَسُولُ -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "سُلَيْمَانَ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "رَسُولُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، عَنْ /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، أَنَّ /26 عُرْوَةَ بْنَ الزُّبَيْرِ L5594 /26 حَدَّثَهُ ، /27 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَ بَيْتَ /64 أُمِّ سَلَمَةَ /64 زَوْجِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَفِي الْبَيْتِ صَبِيٌّ يَبْكِي ، فَذَكَرُوا لَهُ أَنَّ بِهِ الْعَيْنَ ، قَالَ عُرْوَةُ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" أَلَا تَسْتَرْقُونَ لَهُ مِنَ الْعَيْنِ \" /27 *",
+      "collection": "Muwatta Malik",
+      "reference_number": 2189
+    },
+    {
+      "hadith_id": 9895,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by :: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "زَيْدِ",
+              "full_name": "Zayd ibn Thabit al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَطَاءِ",
+              "full_name": "عَطَاءِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> زَيْدِ -> عَطَاءِ -> : -> : -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "عَطَاءِ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "$1685  1688 /5 حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 زَيْدِ بْنِ أَسْلَمَ L3122 /94 ، عَنْ /26 عَطَاءِ بْنِ يَسَارٍ L5640 /26 ، /27 أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : إِذَا مَرِضَ الْعَبْدُ بَعَثَ اللَّهُ تَعَالَى إِلَيْهِ مَلَكَيْنِ ، فَقَالَ : \" انْظُرَا مَاذَا يَقُولُ لِعُوَّادِهِ ؟ \" فَإِنْ هُوَ إِذَا جَاءُوهُ حَمِدَ اللَّهَ وَأَثْنَى عَلَيْهِ ، رَفَعَا ذَلِكَ إِلَى اللَّهِ عَزَّ وَجَلَّ وَهُوَ أَعْلَمُ ، فَيَقُولُ : /20 \" لِعَبْدِي عَلَيَّ إِنْ تَوَفَّيْتُهُ أَنْ أُدْخِلَهُ الْجَنَّةَ ، وَإِنْ أَنَا شَفَيْتُهُ أَنْ أُبْدِلَ لَهُ لَحْمًا خَيْرًا مِنْ لَحْمِهِ وَدَمًا خَيْرًا مِنْ دَمِهِ ، وَأَنْ أُكَفِّرَ عَنْهُ سَيِّئَاتِهِ \" /27 * \r\n$1686  1689 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 2191
+    },
+    {
+      "hadith_id": 9896,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by عُرْوَةُ: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يَزِيدَ",
+              "full_name": "يَزِيدَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "عُرْوَةَ",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "رَسُولُ",
+              "full_name": "رَسُولُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "عُرْوَةُ",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> يَزِيدَ -> عُرْوَةَ -> : -> رَسُولُ -> عُرْوَةُ -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "يَزِيدَ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "رَسُولُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَزِيدَ بْنِ خُصَيْفَةَ L8454 /94 ، عَنْ /26 عُرْوَةَ بْنِ الزُّبَيْرِ L5594 /26 ، أَنَّهُ قَالَ : /27 سَمِعْتُ /93 عَائِشَةَ L4049 /93 زَوْجَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، تَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" لَا يُصِيبُ الْمُؤْمِنَ مِنْ مُصِيبَةٍ حَتَّى الشَّوْكَةُ إِلَّا قُصَّ بِهَا أَوْ كُفِّرَ بِهَا مِنْ خَطَايَاهُ \" /27 . لَا يَدْرِي يَزِيدُ أَيُّهُمَا قَالَ عُرْوَةُ * \r\n$1687  1690 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 2192
+    },
+    {
+      "hadith_id": 9897,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by رَسُولُ: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مُحَمَّدِ",
+              "full_name": "مُحَمَّدِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "رَسُولُ",
+              "full_name": "رَسُولُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مُحَمَّدِ -> : -> رَسُولُ -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "مُحَمَّدِ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "رَسُولُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "وَحَدَّثَنِي /12 مَالِك /12 ، عَنْ /94 مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي صَعْصَعَةَ L7118 /94 ، أَنَّهُ قَالَ : سَمِعْتُ /26 أَبَا الْحُبَاب سَعِيدَ بْنَ يَسَارٍ L3418 /26 ، يَقُولُ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُصِبْ مِنْهُ \" /27 * \r\n$1688  1691 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 2193
+    },
+    {
+      "hadith_id": 9898,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by رَسُولُ: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يَحْيَى",
+              "full_name": "Yahya ibn Yahya ibn Kathir al-Laythi al-Andalusi",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "رَجُلٌ",
+              "full_name": "رَجُلٌ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "رَسُولُ",
+              "full_name": "رَسُولُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> يَحْيَى -> رَجُلٌ -> رَسُولُ -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "رَجُلٌ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "رَسُولُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "وَحَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَحْيَى بْنِ سَعِيدٍ L8272 /94 ، /27 أَنَّ رَجُلًا جَاءَهُ الْمَوْتُ فِي زَمَانِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ رَجُلٌ : هَنِيئًا لَهُ مَاتَ وَلَمْ يُبْتَلَ بِمَرَضٍ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : وَيْحَكَ /20 \" وَمَا يُدْرِيكَ لَوْ أَنَّ اللَّهَ ابْتَلَاهُ بِمَرَضٍ يُكَفِّرُ بِهِ عَنْهُ مِنْ سَيِّئَاتِهِ \" /27 * \r\n#E494",
+      "collection": "Muwatta Malik",
+      "reference_number": 2194
+    },
+    {
+      "hadith_id": 9900,
+      "book_id": 19,
+      "narrator_id": null,
+      "english_translation": "Narrated by :: [Full translation requires detailed Arabic language processing]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَالِك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يَزِيدَ",
+              "full_name": "يَزِيدَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "عُثْمَانَ",
+              "full_name": "عُثْمَانَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "عُثْمَانُ",
+              "full_name": "عُثْمَانُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "رَسُولُ",
+              "full_name": "رَسُولُ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": ":",
+              "full_name": ":",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Multiple instances of indirect transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَالِك -> يَزِيدَ -> عُثْمَانَ -> عُثْمَانُ -> : -> رَسُولُ -> : -> [Prophet Muhammad ﷺ]"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of indirect transmission terms (عَنْ/قَالَ/أَنَّ)",
+          "impact": "While narrators are reliable, indirect terms throughout reduce chain strength slightly"
+        },
+        {
+          "issue": "يَزِيدَ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "عُثْمَانَ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "عُثْمَانُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "رَسُولُ has grade Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": ": has grade Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Islamic Teaching"
+      ],
+      "arabicText": "حَدَّثَنِي ، عَنْ /12 مَالِك /12 ، عَنْ /94 يَزِيدَ بْنِ خُصَيْفَةَ L8454 /94 ، أَنَّ /26 عَمْرَو بْنَ عَبْدِ اللَّهِ بْنِ كَعْبٍ السَّلَمِيَّ L6156 /26 أَخْبَرَهُ ، أَنَّ /26 نَافِعَ بْنَ جُبَيْرٍ L7846 /26 أَخْبَرَهُ ، /27 عَنْ /93 عُثْمَانَ بْنِ أَبِي الْعَاصِ L5486 /93 أَنَّهُ أَتَى رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ عُثْمَانُ : وَبِي وَجَعٌ قَدْ كَادَ يُهْلِكُنِي ، قَالَ : فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" امْسَحْهُ بِيَمِينِكَ سَبْعَ مَرَّاتٍ ، وَقُلْ : أَعُوذُ بِعِزَّةِ اللَّهِ وَقُدْرَتِهِ مِنْ شَرِّ مَا أَجِدُ \" ، قَالَ : فَقُلْتُ ذَلِكَ فَأَذْهَبَ اللَّهُ مَا كَانَ بِي ، فَلَمْ أَزَلْ آمُرُ بِهَا أَهْلِي وَغَيْرَهُمْ /27 * \r\n$1690  1693 /2",
+      "collection": "Muwatta Malik",
+      "reference_number": 2196
+    }
+  ]
+}
