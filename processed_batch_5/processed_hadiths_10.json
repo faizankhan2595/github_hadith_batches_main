@@ -1,0 +1,1041 @@
+{
+  "batch_number": 5,
+  "file_number": 10,
+  "processed_count": 15,
+  "skipped_count": 0,
+  "hadiths": [
+    {
+      "hadith_id": 36136,
+      "book_id": 52,
+      "hadith_number": 2186,
+      "narrator_id": [],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَنَسٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "وَعَلِيُّ بْنُ زَيْدِ بْنِ جُدْعَانَ ، عَنْ أَنَسٍ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2186,
+      "grade": null
+    },
+    {
+      "hadith_id": 36137,
+      "book_id": 52,
+      "hadith_number": 2187,
+      "narrator_id": [
+        2492,
+        5770
+      ],
+      "english_translation": "Narrated by أَنَسِ بْنِ مَالِكِ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عَلِيِّ بْنِ زَيْدِ بْنِ جُدْعَانَ",
+              "full_name": "علي بن زيد بن عبد الله بن زهير بن عبد الله بن جدعان التيمي أبو الحسن البصري",
+              "grade": "Da'if",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak memory",
+                "errors in narration",
+                "not used as primary evidence"
+              ]
+            },
+            {
+              "name": "أَنَسِ بْنِ مَالِكِ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "\" مَا تَعْجَبُونَ مِنْهَا",
+              "full_name": "\" مَا تَعْجَبُونَ مِنْهَا",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            },
+            {
+              "name": "مَا أَصْنَعُ بِهَا ؟ : أَرْسِلْ بِهَا إِلَى أَخِيكَ النَّجَاشِيِّ \" *",
+              "full_name": "مَا أَصْنَعُ بِهَا ؟ : أَرْسِلْ بِهَا إِلَى أَخِيكَ النَّجَاشِيِّ \" *",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Weak narrator: عَلِيِّ بْنِ زَيْدِ بْنِ جُدْعَانَ (graded Da'if)",
+            "Unknown narrator: \" مَا تَعْجَبُونَ مِنْهَا",
+            "Unknown narrator: مَا أَصْنَعُ بِهَا ؟ : أَرْسِلْ بِهَا إِلَى أَخِيكَ النَّجَاشِيِّ \" *"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عَلِيِّ بْنِ زَيْدِ بْنِ جُدْعَانَ -> أَنَسِ بْنِ مَالِكِ -> \" مَا تَعْجَبُونَ مِنْهَا -> مَا أَصْنَعُ بِهَا ؟ : أَرْسِلْ بِهَا إِلَى أَخِيكَ النَّجَاشِيِّ \" * -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak narrator: عَلِيِّ بْنِ زَيْدِ بْنِ جُدْعَانَ (graded Da'if)",
+          "impact": "Reduces chain reliability significantly"
+        },
+        {
+          "issue": "Unknown narrator: \" مَا تَعْجَبُونَ مِنْهَا",
+          "impact": "Cannot verify narrator's reliability"
+        },
+        {
+          "issue": "Unknown narrator: مَا أَصْنَعُ بِهَا ؟ : أَرْسِلْ بِهَا إِلَى أَخِيكَ النَّجَاشِيِّ \" *",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 عَلِيِّ بْنِ زَيْدِ بْنِ جُدْعَانَ L5770 /26 ، /27 عَنْ /93 أَنَسِ بْنِ مَالِكِ L720 /93 ، أَنَّ مَلِكَ الرُّومِ أَهْدَى إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُسْتُقَةَ سُنْدُسٍ ، فَلَبِسَهَا ، فَكَأَنِّي أَنْظُرُ إِلَى ثَدْيَيْهِ يَتَذَبْذَبَانِ ، فَجَعَلَ أَصْحَابُهُ يَلْمِسُونَهَا ، وَيَقُولُونَ : لأُنْزِلَ    @ 3 : 537 @   عَلَيْكَ هَذَا مِنَ السَّمَاءِ ، فَقَالَ : \" مَا تَعْجَبُونَ مِنْهَا ، فَوَالَّذِي نَفْسِي بِيَدِهِ /20 لَمِنْدِيلٌ مِنْ مَنَادِيلِ سَعْدِ بْنِ مُعَاذٍ فِي الْجَنَّةِ أَلْيَنُ مِنْ هَذَا ، ثُمَّ بَعَثَهُ بِهَا إِلَى جَعْفَرٍ ، فَلَبِسَهَا ، ثُمَّ جَاءَ ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنِّي لَمْ أُعْطِكَهَا لِتَلْبَسَهَا ، قَالَ : مَا أَصْنَعُ بِهَا ؟ قَالَ : أَرْسِلْ بِهَا إِلَى أَخِيكَ النَّجَاشِيِّ \" /27 * \r\n$2157  2157 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2187,
+      "grade": null
+    },
+    {
+      "hadith_id": 36138,
+      "book_id": 52,
+      "hadith_number": 2188,
+      "narrator_id": [
+        3795,
+        5770
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عَلِيِّ بْنِ زَيْدٍ",
+              "full_name": "علي بن زيد بن عبد الله بن زهير بن عبد الله بن جدعان التيمي أبو الحسن البصري",
+              "grade": "Da'if",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak memory",
+                "errors in narration",
+                "not used as primary evidence"
+              ]
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "full_name": "النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            },
+            {
+              "name": "\" لا يَتَمَنَّ أَحَدُكُمُ الْمَوْتَ",
+              "full_name": "\" لا يَتَمَنَّ أَحَدُكُمُ الْمَوْتَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Weak narrator: عَلِيِّ بْنِ زَيْدٍ (graded Da'if)",
+            "Unknown narrator: النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+            "Unknown narrator: \" لا يَتَمَنَّ أَحَدُكُمُ الْمَوْتَ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عَلِيِّ بْنِ زَيْدٍ -> أَنَسٍ -> النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ -> \" لا يَتَمَنَّ أَحَدُكُمُ الْمَوْتَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak narrator: عَلِيِّ بْنِ زَيْدٍ (graded Da'if)",
+          "impact": "Reduces chain reliability significantly"
+        },
+        {
+          "issue": "Unknown narrator: النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+          "impact": "Cannot verify narrator's reliability"
+        },
+        {
+          "issue": "Unknown narrator: \" لا يَتَمَنَّ أَحَدُكُمُ الْمَوْتَ",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 عَلِيِّ بْنِ زَيْدٍ L5770 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 لا يَتَمَنَّ أَحَدُكُمُ الْمَوْتَ ، فَإِنْ كَانَ لا بُدَّ فَاعِلا ، فَلْيَقُلْ : اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي ، وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي \" /27 * \r\n@ 3 : 538 @ \r\n$2158  2158 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2188,
+      "grade": null
+    },
+    {
+      "hadith_id": 36139,
+      "book_id": 52,
+      "hadith_number": 2189,
+      "narrator_id": [
+        2492,
+        5770,
+        6706
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عَلِيِّ بْنِ زَيْدٍ",
+              "full_name": "علي بن زيد بن عبد الله بن زهير بن عبد الله بن جدعان التيمي أبو الحسن البصري",
+              "grade": "Da'if",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak memory",
+                "errors in narration",
+                "not used as primary evidence"
+              ]
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَلِيِّ بْنِ زَيْدٍ",
+              "full_name": "علي بن زيد بن عبد الله بن زهير بن عبد الله بن جدعان التيمي أبو الحسن البصري",
+              "grade": "Da'if",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak memory",
+                "errors in narration",
+                "not used as primary evidence"
+              ]
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "full_name": "النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            },
+            {
+              "name": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَمَّا أُسْرِيَ بِي أَتَيْتُ عَلَى قَوْمٍ تُقْطَعُ شِفَاهُهُمْ بِمَقَارِيضَ مِنَ نَارٍ",
+              "full_name": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَمَّا أُسْرِيَ بِي أَتَيْتُ عَلَى قَوْمٍ تُقْطَعُ شِفَاهُهُمْ بِمَقَارِيضَ مِنَ نَارٍ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            },
+            {
+              "name": "هَؤُلاءِ الْخُطَبَاءُ مِنْ أُمَّتِكَ \" *",
+              "full_name": "هَؤُلاءِ الْخُطَبَاءُ مِنْ أُمَّتِكَ \" *",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Weak narrator: عَلِيِّ بْنِ زَيْدٍ (graded Da'if)",
+            "Weak narrator: عَلِيِّ بْنِ زَيْدٍ (graded Da'if)",
+            "Unknown narrator: النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+            "Unknown narrator: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَمَّا أُسْرِيَ بِي أَتَيْتُ عَلَى قَوْمٍ تُقْطَعُ شِفَاهُهُمْ بِمَقَارِيضَ مِنَ نَارٍ",
+            "Unknown narrator: هَؤُلاءِ الْخُطَبَاءُ مِنْ أُمَّتِكَ \" *"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عَلِيِّ بْنِ زَيْدٍ -> أَنَسٍ -> عَلِيِّ بْنِ زَيْدٍ -> أَنَسٍ -> النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ -> قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَمَّا أُسْرِيَ بِي أَتَيْتُ عَلَى قَوْمٍ تُقْطَعُ شِفَاهُهُمْ بِمَقَارِيضَ مِنَ نَارٍ -> هَؤُلاءِ الْخُطَبَاءُ مِنْ أُمَّتِكَ \" * -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Weak narrator: عَلِيِّ بْنِ زَيْدٍ (graded Da'if)",
+          "impact": "Reduces chain reliability significantly"
+        },
+        {
+          "issue": "Weak narrator: عَلِيِّ بْنِ زَيْدٍ (graded Da'if)",
+          "impact": "Reduces chain reliability significantly"
+        },
+        {
+          "issue": "Unknown narrator: النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+          "impact": "Cannot verify narrator's reliability"
+        },
+        {
+          "issue": "Unknown narrator: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَمَّا أُسْرِيَ بِي أَتَيْتُ عَلَى قَوْمٍ تُقْطَعُ شِفَاهُهُمْ بِمَقَارِيضَ مِنَ نَارٍ",
+          "impact": "Cannot verify narrator's reliability"
+        },
+        {
+          "issue": "Unknown narrator: هَؤُلاءِ الْخُطَبَاءُ مِنْ أُمَّتِكَ \" *",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 عَلِيِّ بْنِ زَيْدٍ L5770 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ كَانَ \" يَمُرُّ عَلَى بَابِ فَاطِمَةَ شَهْرًا قَبْلَ صَلاةِ الصُّبْحِ ، فَيَقُولُ : /20 الصَّلاةَ يَا أَهْلَ الْبَيْتِ ، إِنَّمَا يُرِيدُ اللَّهُ لِيُذْهِبَ عَنْكُمُ الرِّجْسَ أَهْلَ الْبَيْتِ \" /27 * \r\n$2159  2159 /2 /143 حَدَّثَنَا /94 ابْنُ فَضَالَةَ L6706 /94 ، عَنْ /26 عَلِيِّ بْنِ زَيْدٍ L5770 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لَمَّا أُسْرِيَ بِي أَتَيْتُ عَلَى قَوْمٍ تُقْطَعُ شِفَاهُهُمْ بِمَقَارِيضَ مِنَ نَارٍ ، قُلْتُ : يَا /57 جِبْرِيلُ /57 ، مَا هَؤُلاءِ ؟ قَالَ : هَؤُلاءِ الْخُطَبَاءُ مِنْ أُمَّتِكَ \" /27 * \r\n@ 3 : 539 @    @ 3 : 540 @\u001eE543",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2189,
+      "grade": null
+    },
+    {
+      "hadith_id": 36140,
+      "book_id": 52,
+      "hadith_number": 2190,
+      "narrator_id": [],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَنَسٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "وَعَبْدُ الْعَزِيزِ بْنُ صُهَيْبٍ ، عَنْ أَنَسٍ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2190,
+      "grade": null
+    },
+    {
+      "hadith_id": 36141,
+      "book_id": 52,
+      "hadith_number": 2191,
+      "narrator_id": [
+        3795,
+        4574
+      ],
+      "english_translation": "Narrated by أَنَسًا: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَنَسًا",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ",
+              "full_name": "عبد العزيز بن صهيب بن بكر القرشي القيشاني أبو سهل البصري",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "full_name": "النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            },
+            {
+              "name": "سَمِعْتُ أَنَسًا",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "\" مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا",
+              "full_name": "\" مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+            "Unknown narrator: \" مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَنَسًا -> عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ -> النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ -> سَمِعْتُ أَنَسًا -> \" مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+          "impact": "Cannot verify narrator's reliability"
+        },
+        {
+          "issue": "Unknown narrator: \" مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ L4574 /26 ، قَالَ : /27 سَمِعْتُ /93 أَنَسًا L720 /93 ، يُحَدِّثُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ قَالَ : \" /20 مَنْ لَبِسَ الْحَرِيرَ فِي الدُّنْيَا ، لَمْ يَلْبَسْهُ فِي الآخِرَةِ \" /27 * \r\n$2161  2161 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2191,
+      "grade": null
+    },
+    {
+      "hadith_id": 36142,
+      "book_id": 52,
+      "hadith_number": 2192,
+      "narrator_id": [
+        3795,
+        4574
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ",
+              "full_name": "عبد العزيز بن صهيب بن بكر القرشي القيشاني أبو سهل البصري",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حَدَّثَنَا شُعْبَةُ",
+              "full_name": "شعبة بن الحجاج بن الورد العتكي الأزدي أبو بسطام الواسطي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "\" لا يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ",
+              "full_name": "\" لا يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: \" لا يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ -> أَنَسٍ -> حَدَّثَنَا شُعْبَةُ -> \" لا يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: \" لا يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "قَالَ : حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ L4574 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 لا يَتَمَنَّيَنَّ أَحَدُكُمُ الْمَوْتَ لِضُرٍّ نَزَلَ بِهِ ، فَإِنْ كَانَ لا بُدَّ فَاعِلا ، فَلْيَقُلْ : اللَّهُمَّ أَحْيِنِي مَا كَانَتِ الْحَيَاةُ خَيْرًا لِي ، وَتَوَفَّنِي إِذَا كَانَتِ الْوَفَاةُ خَيْرًا لِي \" /27 * \r\n@ 3 : 541 @ \r\n$2162  2162 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2192,
+      "grade": null
+    },
+    {
+      "hadith_id": 36143,
+      "book_id": 52,
+      "hadith_number": 2193,
+      "narrator_id": [
+        3795,
+        4574
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ",
+              "full_name": "عبد العزيز بن صهيب بن بكر القرشي القيشاني أبو سهل البصري",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَرُّوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِجِنَازَةٍ",
+              "full_name": "مَرُّوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِجِنَازَةٍ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: مَرُّوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِجِنَازَةٍ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ -> أَنَسٍ -> مَرُّوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِجِنَازَةٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: مَرُّوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِجِنَازَةٍ",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ L4574 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، قَالَ : مَرُّوا عَلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِجِنَازَةٍ ، فَأَثْنَوْا عَلَيْهِ خَيْرًا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" وَجَبَتْ ، وَمَرُّوا بِجِنَازَةٍ أُخْرَى ، فَأَثْنَوْا عَلَيْهَا شَرًّا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : وَجَبَتْ ، فَقَالَ لَهُ عُمَرُ : يَا رَسُولَ اللَّهِ ، مَا وَجَبَتْ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 أَنْتُمْ شُهَدَاءُ اللَّهِ فِي الأَرْضِ ، فَمَنْ أَثْنَيْتُمْ عَلَيْهِ خَيْرًا وَجَبَتْ لَهُ الْجَنَّةُ ، وَمَنْ أَثْنَيْتُمْ عَلَيْهِ شَرًّا وَجَبَتْ لَهُ النَّارُ \" /27 * \r\n@ 3 : 542 @ \r\n$2163  2163 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2193,
+      "grade": null
+    },
+    {
+      "hadith_id": 36144,
+      "book_id": 52,
+      "hadith_number": 2194,
+      "narrator_id": [
+        5270,
+        4574,
+        1373,
+        2009
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عَبْدِ الْعَزِيزِ",
+              "full_name": "عبد العزيز بن صهيب بن بكر القرشي القيشاني أبو سهل البصري",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَبْدِ الْعَزِيزِ",
+              "full_name": "عبد العزيز بن صهيب بن بكر القرشي القيشاني أبو سهل البصري",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يَخْرُجُ إِلَى الْمُهَاجِرِينَ وَالأَنْصَارِ",
+              "full_name": "كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يَخْرُجُ إِلَى الْمُهَاجِرِينَ وَالأَنْصَارِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يَخْرُجُ إِلَى الْمُهَاجِرِينَ وَالأَنْصَارِ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عَبْدِ الْعَزِيزِ -> أَنَسٍ -> عَبْدِ الْعَزِيزِ -> أَنَسٍ -> كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يَخْرُجُ إِلَى الْمُهَاجِرِينَ وَالأَنْصَارِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يَخْرُجُ إِلَى الْمُهَاجِرِينَ وَالأَنْصَارِ",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 عَبْدُ الْوَارِثِ L5270 /94 ، عَنْ /26 عَبْدِ الْعَزِيزِ L4574 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /20 نَهَى أَنْ يَتَزَعْفَرَ الرَّجُلُ \" /27 * \r\n$2164  2164 /2 /141 حَدَّثَنَا /94 الْحَكَمُ بْنُ عَطِيَّةَ L1373 /94 ، عَنْ /26 عَبْدِ الْعَزِيزِ L4574 /26 ، أَوْ /26 ثَابِتٍ L2009 /26 شَكَّ أَبُو دَاوُدَ ، /27 عَنْ /93 أَنَسٍ L720 /93 ، قَالَ : كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /20 يَخْرُجُ إِلَى الْمُهَاجِرِينَ وَالأَنْصَارِ ، مَا مِنْهُمْ أَحَدٌ يَحُلُّ حُبْوَتَهُ إِلا أَبُو بَكْرٍ وَعُمَرُ رَضِيَ اللَّهُ عَنْهُمَا ، يَتَبَسَّمُ إِلَيْهِمَا وَيَتَبَسَّمَانِ إِلَيْهِ \" /27 * \r\n@ 3 : 543 @\"E544",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2194,
+      "grade": null
+    },
+    {
+      "hadith_id": 36145,
+      "book_id": 52,
+      "hadith_number": 2195,
+      "narrator_id": [],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَنَسٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "سُلَيْمَانُ التَّيَمِيُّ ، عَنْ أَنَسٍ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2195,
+      "grade": null
+    },
+    {
+      "hadith_id": 36146,
+      "book_id": 52,
+      "hadith_number": 2196,
+      "narrator_id": [
+        3795,
+        3601
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "التِّيَمِيُّ",
+              "full_name": "سليمان بن طرخان التيمي أبو المعتمر البصري",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَطَسَ رَجُلانِ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "full_name": "عَطَسَ رَجُلانِ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            },
+            {
+              "name": "يَا رَسُولَ اللَّهِ",
+              "full_name": "يَا رَسُولَ اللَّهِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: عَطَسَ رَجُلانِ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+            "Unknown narrator: يَا رَسُولَ اللَّهِ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَنَسٍ -> التِّيَمِيُّ -> عَطَسَ رَجُلانِ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ -> يَا رَسُولَ اللَّهِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: عَطَسَ رَجُلانِ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+          "impact": "Cannot verify narrator's reliability"
+        },
+        {
+          "issue": "Unknown narrator: يَا رَسُولَ اللَّهِ",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنِ /26 التِّيَمِيُّ L3601 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، قَالَ : عَطَسَ رَجُلانِ عِنْدَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَشَمَّتَ أَحَدَهُمَا ، وَلَمْ يُشَمِّتِ الآخَرَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، \" شَمَّتَّ هَذَا وَلَمْ تُشَمِّتْنِي ! ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنَّهُ /20 حَمِدَ اللَّهَ ، فَشَمَّتُّهُ ، وَأَنْتَ لَمْ تَحْمَدِ اللَّهَ فَلَمْ أُشَمِّتْكَ \" /27 * \r\n@ 3 : 544 @",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2196,
+      "grade": null
+    },
+    {
+      "hadith_id": 36147,
+      "book_id": 52,
+      "hadith_number": 2197,
+      "narrator_id": [],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَنَسٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "وَهِشَامُ بْنُ زَيْدٍ ، عَنْ أَنَسٍ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2197,
+      "grade": null
+    },
+    {
+      "hadith_id": 36148,
+      "book_id": 52,
+      "hadith_number": 2198,
+      "narrator_id": [
+        3795,
+        8046
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "هِشَامِ بْنِ زَيْدٍ",
+              "full_name": "هشام بن زيد بن أنس بن مالك الأنصاري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "\" أَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ",
+              "full_name": "\" أَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            },
+            {
+              "name": "قَبِلَهُ \" *",
+              "full_name": "قَبِلَهُ \" *",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: \" أَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ",
+            "Unknown narrator: قَبِلَهُ \" *"
+          ]
+        }
+      ],
+      "plainChains": [
+        "هِشَامِ بْنِ زَيْدٍ -> أَنَسٍ -> \" أَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ -> قَبِلَهُ \" * -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: \" أَنْفَجْنَا أَرْنَبًا بِمَرِّ الظَّهْرَانِ",
+          "impact": "Cannot verify narrator's reliability"
+        },
+        {
+          "issue": "Unknown narrator: قَبِلَهُ \" *",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "$2166  2166 /2 /141 حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 هِشَامِ بْنِ زَيْدٍ L8046 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، قَالَ : \" /20 أَنْفَجْنَا أَرْنَبًا بِمَرِّ /60 الظَّهْرَانِ /60 ، فَسَعَى خَلْفَهَا أَصْحَابُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَلَغَبُوا ، وَأَدْرَكْتُهَا أَنَا ، فَذَبَحْتُهَا بِمَرْوَةٍ ، فَأَتَيْتُ بِهَا أَبَا طَلْحَةَ ، فَبَعَثَ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِفَخِذٍ مِنْهَا أَوْ وَرِكَيْهَا ، فَأَكَلَهُ ، قُلْتُ : أَكَلَهُ ؟ قَالَ : قَبِلَهُ \" /27 * \r\n@ 3 : 545 @ \r\n$2167  2167 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2198,
+      "grade": null
+    },
+    {
+      "hadith_id": 36149,
+      "book_id": 52,
+      "hadith_number": 2199,
+      "narrator_id": [
+        3795,
+        8046
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "هِشَامُ بْنُ زَيْدٍ",
+              "full_name": "هشام بن زيد بن أنس بن مالك الأنصاري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَخْبَرَنِي هِشَامُ بْنُ زَيْدٍ",
+              "full_name": "هشام بن زيد بن أنس بن مالك الأنصاري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يَعْنِي الأَنْصَارَ *",
+              "full_name": "يَعْنِي الأَنْصَارَ *",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: يَعْنِي الأَنْصَارَ *"
+          ]
+        }
+      ],
+      "plainChains": [
+        "هِشَامُ بْنُ زَيْدٍ -> أَنَسٍ -> أَخْبَرَنِي هِشَامُ بْنُ زَيْدٍ -> يَعْنِي الأَنْصَارَ * -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: يَعْنِي الأَنْصَارَ *",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 هِشَامُ بْنُ زَيْدٍ L8046 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، \" أَنّ /20 امْرَأَةً مِنَ الأَنْصَارِ أَتَتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ تُكَلِّمُهُ فِي شَيْءٍ ، فَخَلَتْ بِهِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : وَالَّذِي نَفْسِي بِيَدِهِ ، إِنَّكُمْ لأُحِبُّ النَّاسِ إِلَيَّ /27 ، قَالَ : يَعْنِي الأَنْصَارَ * \r\n$2168  2168 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2199,
+      "grade": null
+    },
+    {
+      "hadith_id": 36150,
+      "book_id": 52,
+      "hadith_number": 2200,
+      "narrator_id": [
+        2492,
+        8046
+      ],
+      "english_translation": "Narrated by أَنَسٍ: (Hadith content to be translated)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "هِشَامِ بْنِ زَيْدٍ",
+              "full_name": "هشام بن زيد بن أنس بن مالك الأنصاري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَنَسٍ",
+              "full_name": "أنس بن مالك بن النضر بن ضمضم بن زيد الأنصاري الخزرجي النجاري أبو حمزة المدني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنْ قَامَتِ السَّاعَةُ وَفِي يَدِ أَحَدِكُمْ فَسِيلٌ",
+              "full_name": "قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنْ قَامَتِ السَّاعَةُ وَفِي يَدِ أَحَدِكُمْ فَسِيلٌ",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "narrator not found in database"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Unknown narrator: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنْ قَامَتِ السَّاعَةُ وَفِي يَدِ أَحَدِكُمْ فَسِيلٌ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "هِشَامِ بْنِ زَيْدٍ -> أَنَسٍ -> قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنْ قَامَتِ السَّاعَةُ وَفِي يَدِ أَحَدِكُمْ فَسِيلٌ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Unknown narrator: قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنْ قَامَتِ السَّاعَةُ وَفِي يَدِ أَحَدِكُمْ فَسِيلٌ",
+          "impact": "Cannot verify narrator's reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 هِشَامِ بْنِ زَيْدٍ L8046 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنْ /20 قَامَتِ السَّاعَةُ وَفِي يَدِ أَحَدِكُمْ فَسِيلٌ ، فَإِنِ اسْتَطَاعَ أَلا تَقُومَ السَّاعَةُ حَتَّى يَغْرِسَهَا ، فَلْيَفْعَلْ \" /27 * \r\n@ 3 : 546 @ \r\n$2169  2169 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2200,
+      "grade": null
+    }
+  ]
+}

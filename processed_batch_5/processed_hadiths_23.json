@@ -1,0 +1,1340 @@
+{
+  "file": "processed_hadiths_23.json",
+  "batch": 5,
+  "total_hadiths": 11,
+  "hadiths": [
+    {
+      "hadith_id": 36331,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 8097,
+          "original_id": "7352",
+          "primary_name": "محمود بن غيلان",
+          "alternative_names": "محمود بن غيلان العدوي\tأبو أحمد المروزي\tأبو أحمد",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 6458,
+          "original_id": "5683",
+          "primary_name": "عقبة بن مكرم بن أفلح بن جراد",
+          "alternative_names": "عقبة بن مكرم العمي\tعقبة بن مكرم بن أفلح العمي\tأبو عبد الملك",
+          "kunya": "الحافظ",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 8330,
+          "original_id": "7592",
+          "primary_name": "معاوية بن عتبة",
+          "alternative_names": "معاوية بن عتبة الهذلي\tمعاوية بن معتب الهذلي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36331]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis-cat3"
+              ]
+            },
+            {
+              "name": "ابي ايوب الازدي",
+              "full_name": "ابي ايوب الازدي",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "قتادة -> ابي ايوب الازدي -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is mudallis (cat 3) using 'an",
+          "impact": "Requires scrutiny but narrator is highly reliable (Thiqah Thabt)"
+        },
+        {
+          "issue": "ابي ايوب الازدي is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، /94 وَهَمَّامٌ L8097 /94 ، عَنْ /26 قَتَادَةَ L6458 /26 ، عَنْ /26 أَبِي أَيُّوبَ الأَزْدِيِّ L8330 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" /20 وَقْتُ الظُّهْرِ إِذَا زَالَتِ الشَّمْسُ وَكَانَ ظِلُّ الرَّجُلِ كَطُولِهِ مَا لَمْ يَحْضُرِ الْعَصْرُ ، وَوَقْتُ الْعَصْرِ مَا لَمْ تَصْفَرَّ الشَّمْسُ ، وَوَقْتُ الْمَغْرِبِ مَا لَمْ يَغِبِ الشَّفَقُ \" /27 ، وَقَالَ شُعْبَةُ : \" مَا لَمْ يَقَعْ نُورُ    @ 4 : 9 @   الشَّفَقِ ، وَوَقْتُ الْعِشَاءِ مَا بَيْنَكَ وَبَيْنَ نِصْفِ اللَّيْلِ ، وَوَقْتُ الصُّبْحِ إِذَا طَلَعَ الْفَجْرُ مَا لَمْ تَطْلُعِ الشَّمْسُ \" ، قَالَ أَبُو دَاوُدَ : قَالَ شُعْبَةُ : أَحْيَانًا يَرْفَعُهُ ، وَأَحْيَانًا لا يَرْفَعُهُ * \r\n$2350  2351 /5",
+      "collection": "Book 52",
+      "reference_number": 2381,
+      "grade": "Questionable But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36334,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 4716,
+          "original_id": "3887",
+          "primary_name": "صالح بن عجلان",
+          "alternative_names": "صالح بن عجلان الحجازي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4364,
+          "original_id": "3532",
+          "primary_name": "سلمى",
+          "alternative_names": "سلمى",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4359,
+          "original_id": "3527",
+          "primary_name": "سلمى",
+          "alternative_names": "سلمى البكرية",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36334]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن زياد",
+              "full_name": "عبد الرحمن بن زياد",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عبد الرحمن بن رافع",
+              "full_name": "عبد الرحمن بن رافع",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الرحمن بن رافع",
+              "full_name": "عبد الرحمن بن رافع",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن زياد -> عبد الرحمن بن رافع -> عبد الله بن عمرو -> عبد الرحمن بن رافع -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عبد الرحمن بن زياد is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "عبد الرحمن بن رافع is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "عبد الرحمن بن رافع is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ L4716 /94 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ زِيَادٍ L4364 /26 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ L4359 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، قَالَ : دَخَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الْمَسْجِدَ وَقَوْمٌ يَذْكُرُونَ اللَّهَ عَزَّ وَجَلَّ وَقَوْمٌ يَتَذَاكَرُونَ الْفِقْهَ ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 كِلا الْمَجْلِسَيْنِ إِلَى خَيْرٍ ، أَمَّا الَّذِينَ يَذْكُرُونَ اللَّهَ عَزَّ وَجَلَّ ، وَيَسْأَلُونَ رَبَّهُمْ فَإِنْ شَاءَ أَعْطَاهُمْ وَإِنْ شَاءَ مَنَعَهُمْ ، وَهَؤُلاءِ يُعَلِّمُونَ النَّاسَ وَيَتَعَلَّمُونَ ، وَإِنَّمَا بُعِثْتُ مُعَلِّمًا ، وَهَذَا أَفْضَلُ \" , فَقَعَدَ مَعَهُمْ /27 * \r\n@ 4 : 12 @ \r\n$2352  2353 /2 /141 حَدَّثَنَا /94 عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ L4716 /94 ، قَالَ : حَدَّثَنَا /26 عَبْدُ الرَّحْمَنِ بْنُ زِيَادِ بْنِ أَنْعُمٍ L4364 /26 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ L4359 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 إِذَا رَفَعَ رَأْسَهُ مِنْ آخِرِ السُّجُودِ ، ثُمَّ أَحْدَثَ ، فَقَدْ تَمَّتْ صَلاتُهُ \" /27 * \r\n$2353  2354 /2",
+      "collection": "Book 52",
+      "reference_number": 2384,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36335,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 4716,
+          "original_id": "3887",
+          "primary_name": "صالح بن عجلان",
+          "alternative_names": "صالح بن عجلان الحجازي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4364,
+          "original_id": "3532",
+          "primary_name": "سلمى",
+          "alternative_names": "سلمى",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4359,
+          "original_id": "3527",
+          "primary_name": "سلمى",
+          "alternative_names": "سلمى البكرية",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36335]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن رافع",
+              "full_name": "عبد الرحمن بن رافع",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن رافع -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عبد الرحمن بن رافع is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ L4716 /94 ، عَنْ    @ 4 : 13 @   /26 عَبْدِ الرَّحْمَنِ بْنِ زِيَادِ بْنِ أَنْعُمٍ L4364 /26 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ رَافِعٍ L4359 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /20 خَرَجَ وَمَعَهُ حَرِيرٌ وَذَهَبٌ ، فَقَالَ : هَذَانِ مُحَرَّمَانِ عَلَى ذُكُورِ أُمَّتِي حَلالٌ لإِنَاثِهِمْ \" /27 * \r\n\u001dE586",
+      "collection": "Book 52",
+      "reference_number": 2385,
+      "grade": "Questionable But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36337,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2244,
+          "original_id": "1351",
+          "primary_name": "حسين بن معاذ بن خليف",
+          "alternative_names": "الحسين بن معاذ البصري\tالحسين بن معاذ بن حليف البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 1448,
+          "original_id": "537",
+          "primary_name": "أسباط بن عبد الواحد",
+          "alternative_names": "أسباط البصري\tأبو اليسع البصري\tأبو اليسع",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36337]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابي العباس المكي",
+              "full_name": "ابي العباس المكي",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابي العباس المكي -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابي العباس المكي is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 حَبِيبُ بْنُ أَبِي ثَابِتٍ L2244 /26 ، قَالَ : سَمِعْتُ /26 أَبَا الْعَبَّاسِ الْمَكِّيَّ L1448 /26 ، وَكَانَ شَاعِرًا وَكَانَ لا يُتَّهَمُ عَلَى الْحَدِيثِ ، قَالَ : /27 سَمِعْتُ /93 عَبْدَ اللَّهِ بْنَ عَمْرٍو L4980 /93 ، يَقُولُ : أَتَى رَجُلٌ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْتَأْذِنُهُ فِي الْجِهَادِ ، فَقَالَ لَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ :    @ 4 : 14 @   \" /20 أَحَيٌّ وَالِدَاكَ ؟ قَالَ : نَعَمْ ، قَالَ : فَفِيهِمَا فَجَاهِدْ \" /27 * \r\n$2355  2356 /2",
+      "collection": "Book 52",
+      "reference_number": 2387,
+      "grade": "Questionable But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36338,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2244,
+          "original_id": "1351",
+          "primary_name": "حسين بن معاذ بن خليف",
+          "alternative_names": "الحسين بن معاذ البصري\tالحسين بن معاذ بن حليف البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 1448,
+          "original_id": "537",
+          "primary_name": "أسباط بن عبد الواحد",
+          "alternative_names": "أسباط البصري\tأبو اليسع البصري\tأبو اليسع",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36338]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابي العباس",
+              "full_name": "ابي العباس",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابي العباس -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابي العباس is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "/24 حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 حَبِيبُ بْنُ أَبِي ثَابِتٍ L2244 /26 ، قَالَ : سَمِعْتُ /26 أَبَا الْعَبَّاسِ L1448 /26 ، يَقُولُ : /27 سَمِعْتُ /93 عَبْدَ اللَّهِ بْنَ عَمْرٍو L4980 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 أَلَمْ أُخْبَرْ أَنَّكَ تَقُومُ اللَّيْلَ وَتَصُومُ النَّهَارَ ؟ وَإِنَّكَ إِذَا فَعَلْتَ ذَلِكَ هَجَمَتْ لَهُ الْعَيْنُ ، وَنَفَثَتْ أَوْ نَفِهَتْ لَهُ النَّفْسُ ، لا صَامَ مَنْ صَامَ الأَبَدَ ، الصَّوْمُ ثَلاثَةُ أَيَّامٍ مِنْ كُلِّ    @ 4 : 15 @   شَهْرٍ صَوْمُ الدَّهْرِ \" ، قُلْتُ : يَا رَسُولَ اللَّهِ ، إِنِّي أُطِيقُ ، قَالَ : \" فَصُمْ صَوْمَ دَاوُدَ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، كَانَ يَصُومُ يَوْمًا وَيُفْطِرُ يَوْمًا ، وَلا يَفِرُّ إِذَا لاقَى \" /27 * \r\n@ 4 : 16 @ \r\n$2356  2357 /2",
+      "collection": "Book 52",
+      "reference_number": 2388,
+      "grade": "Questionable But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36339,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 6197,
+          "original_id": "5416",
+          "primary_name": "عبيد الله بن عدي بن عدي",
+          "alternative_names": "عبيد الله بن عدي بن عدي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 1448,
+          "original_id": "537",
+          "primary_name": "أسباط بن عبد الواحد",
+          "alternative_names": "أسباط البصري\tأبو اليسع البصري\tأبو اليسع",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36339]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عمرو بن مرة",
+              "full_name": "عمرو بن مرة الجملي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عمرو بن مرة -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 عَمْرِو بْنِ مُرَّةَ L6197 /26 , سَمِعَ /26 أَبَا الْعَبَّاسِ L1448 /26 ، /27 يُحَدِّثُ عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /20 أَمَرَهُ أَنْ يَقْرَأَ الْقُرْآنَ فِي خَمْسٍ \" /27 *",
+      "collection": "Book 52",
+      "reference_number": 2389,
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 36341,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 2491,
+          "original_id": "1604",
+          "primary_name": "قاسم بن مهران",
+          "alternative_names": "القاسم بن مهران",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 6144,
+          "original_id": "5362",
+          "primary_name": "عبيد الله بن يسار",
+          "alternative_names": "عبيد الله بن أبي جعفر المصري\tعبيد الله بن أبي جعفر الفقيه",
+          "kunya": "ابن أبي جعفر",
+          "nisba": "الفقيه",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3815,
+          "original_id": "2968",
+          "primary_name": "روح بن عابد",
+          "alternative_names": "روح بن عابد الشامي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36341]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ايوب",
+              "full_name": "ايوب",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "عمري بن شعيب",
+              "full_name": "عمري بن شعيب",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "أبيه (يحيى بن عمارة)",
+              "full_name": "يحيي بن عمارة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ايوب -> عمري بن شعيب -> أبيه (يحيى بن عمارة) -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ايوب is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "عمري بن شعيب is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ زَيْدٍ L2491 /94 ، عَنْ /26 أَيُّوبَ L746 /26 ، عَنْ /26 عَمْرِو بْنِ شُعَيْبٍ L6144 /26 ، عَنْ /26 أَبِيهِ L3815 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، قَالَ : \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 عَنْ : سَلَفٍ وَبَيْعٍ ، وَعَنْ شَرْطَيْنِ فِي بَيْعٍ ، وَعَنْ بَيْعِ مَا لَيْسَ عِنْدَكَ ، وَعَنْ رِبْحِ مَا لَمْ تَضْمَنْ \" /27 * \r\n\u001dE587 @ 4 : 17 @ \r\n$2358  2359 /2",
+      "collection": "Book 52",
+      "reference_number": 2391,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36342,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 16526,
+          "original_id": "20958",
+          "primary_name": "عبد الرحمن بن محمد بن يحيى بن ياسر",
+          "alternative_names": "عبد الرحمن بن محمد الجوبري\tأبو الحسن التميمي\tأبو الحسن",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 6144,
+          "original_id": "5362",
+          "primary_name": "عبيد الله بن يسار",
+          "alternative_names": "عبيد الله بن أبي جعفر المصري\tعبيد الله بن أبي جعفر الفقيه",
+          "kunya": "ابن أبي جعفر",
+          "nisba": "الفقيه",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3815,
+          "original_id": "2968",
+          "primary_name": "روح بن عابد",
+          "alternative_names": "روح بن عابد الشامي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36342]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عمري بن شعيب",
+              "full_name": "عمري بن شعيب",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "أبيه (يحيى بن عمارة)",
+              "full_name": "يحيي بن عمارة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جده",
+              "full_name": "جده",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عمري بن شعيب -> أبيه (يحيى بن عمارة) -> جده -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عمري بن شعيب is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "جده is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 خَلِيفَةُ الْخَيَّاطُ L16526 /94 ، /27 عَنْ /26 عَمْرِو بْنِ شُعَيْبٍ L6144 /26 ، عَنْ /26 أَبِيهِ L3815 /26 ، عَنْ /93 جَدِّهِ L4980 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 الْمُؤْمِنُونَ تَكَافَأُ دِمَاؤُهُمْ ، وَهُمْ يَدٌ عَلَى مَنْ سِوَاهُمْ \" /27 * \r\n@ 4 : 18 @ \r\n$2359  2360 /2",
+      "collection": "Book 52",
+      "reference_number": 2392,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36343,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 16526,
+          "original_id": "20958",
+          "primary_name": "عبد الرحمن بن محمد بن يحيى بن ياسر",
+          "alternative_names": "عبد الرحمن بن محمد الجوبري\tأبو الحسن التميمي\tأبو الحسن",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 6144,
+          "original_id": "5362",
+          "primary_name": "عبيد الله بن يسار",
+          "alternative_names": "عبيد الله بن أبي جعفر المصري\tعبيد الله بن أبي جعفر الفقيه",
+          "kunya": "ابن أبي جعفر",
+          "nisba": "الفقيه",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3815,
+          "original_id": "2968",
+          "primary_name": "روح بن عابد",
+          "alternative_names": "روح بن عابد الشامي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36343]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبيه (يحيى بن عمارة)",
+              "full_name": "يحيي بن عمارة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جده",
+              "full_name": "جده",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبيه (يحيى بن عمارة) -> جده -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "جده is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 خَلِيفَةُ الْخَيَّاطُ وَيُكَنَّى أَبَا هُبَيْرَةَ L16526 /94 ، عَنْ /27 /26 عَمْرِو بْنِ شُعَيْبٍ L6144 /26 ، عَنْ /26 أَبِيهِ L3815 /26 ، عَنْ /93 جَدِّهِ L4980 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنْ حَلَفَ عَلَى يَمِينٍ فَرَأَى غَيْرَهَا خَيْرًا مِنْهَا فَلْيَأْتِهَا هِيَ كَفَّارَتُهَا \" /27 * \r\n@ 4 : 19 @ \r\n$2360  2361 /2",
+      "collection": "Book 52",
+      "reference_number": 2393,
+      "grade": "Questionable But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36344,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 16526,
+          "original_id": "20958",
+          "primary_name": "عبد الرحمن بن محمد بن يحيى بن ياسر",
+          "alternative_names": "عبد الرحمن بن محمد الجوبري\tأبو الحسن التميمي\tأبو الحسن",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 6144,
+          "original_id": "5362",
+          "primary_name": "عبيد الله بن يسار",
+          "alternative_names": "عبيد الله بن أبي جعفر المصري\tعبيد الله بن أبي جعفر الفقيه",
+          "kunya": "ابن أبي جعفر",
+          "nisba": "الفقيه",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3815,
+          "original_id": "2968",
+          "primary_name": "روح بن عابد",
+          "alternative_names": "روح بن عابد الشامي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36344]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عمري بن شعيب",
+              "full_name": "عمري بن شعيب",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            },
+            {
+              "name": "أبيه (يحيى بن عمارة)",
+              "full_name": "يحيي بن عمارة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جده",
+              "full_name": "جده",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عمري بن شعيب -> أبيه (يحيى بن عمارة) -> جده -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عمري بن شعيب is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "جده is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Forbidden Prayer Times"
+      ],
+      "arabicText": "حَدَّثَنَا /94 خَلِيفَةُ L16526 /94 ، /27 عَنْ /26 عَمْرِو بْنِ شُعَيْبٍ L6144 /26 ، عَنْ /26 أَبِيهِ L3815 /26 ، عَنْ /93 جَدِّهِ L4980 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَسْنَدَ ظَهْرَهُ إِلَى الْكَعْبَةِ ، فَقَالَ : \" /20 لا صَلاةَ بَعْدَ الصُّبْحِ ، حَتَّى تَطْلُعَ الشَّمْسُ ، وَلا بَعْدَ الْعَصْرِ ، حَتَّى تَغْرُبَ \" /27 * \r\n$2361  2362 /2",
+      "collection": "Book 52",
+      "reference_number": 2394,
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 36345,
+      "book_id": 52,
+      "narrator_id": [
+        {
+          "narrator_id": 8097,
+          "original_id": "7352",
+          "primary_name": "محمود بن غيلان",
+          "alternative_names": "محمود بن غيلان العدوي\tأبو أحمد المروزي\tأبو أحمد",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 1131,
+          "original_id": "212",
+          "primary_name": "أبو سلمة",
+          "alternative_names": "أبو سلمة الحمصي\tأبو سلمة الحراني\tأبو سلمة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 6144,
+          "original_id": "5362",
+          "primary_name": "عبيد الله بن يسار",
+          "alternative_names": "عبيد الله بن أبي جعفر المصري\tعبيد الله بن أبي جعفر الفقيه",
+          "kunya": "ابن أبي جعفر",
+          "nisba": "الفقيه",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3815,
+          "original_id": "2968",
+          "primary_name": "روح بن عابد",
+          "alternative_names": "روح بن عابد الشامي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4980,
+          "original_id": "4164",
+          "primary_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+          "alternative_names": "العباس بن الفضل الأنصاري\tأبو الفضل البصري\tأبو الفضل",
+          "kunya": "",
+          "nisba": "المقرئ ، القاضي : قاضي الموصل",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ],
+      "english_translation": "[Translation pending - hadith 36345]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبيه (يحيى بن عمارة)",
+              "full_name": "يحيي بن عمارة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جده",
+              "full_name": "جده",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبيه (يحيى بن عمارة) -> جده -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "جده is graded as Majhul",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Traditions"
+      ],
+      "arabicText": "حَدَّثَنَا /94 هَمَّامٌ L8097 /94 ، عَنْ /18 /26 رَجُلٍ L1131 /26 /18 ، /27 عَنْ    @ 4 : 20 @   /26 عَمْرِو بْنِ شُعَيْبٍ L6144 /26 ، عَنْ /26 أَبِيهِ L3815 /26 ، عَنْ /93 جَدِّهِ L4980 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 كُلُوا وَاشْرَبُوا وَالْبَسُوا وَتَصَدَّقُوا ، فَإِنَّ اللَّهَ عَزَّ وَجَلَّ يُحِبُّ أَنْ يَرَى أَثَرَ نِعْمَتِهِ عَلَى عَبْدِهِ \" /27 * \r\n$2362  2363 /2",
+      "collection": "Book 52",
+      "reference_number": 2395,
+      "grade": "Questionable But Might Be Acceptable"
+    }
+  ]
+}

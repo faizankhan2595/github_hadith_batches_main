@@ -1,0 +1,1965 @@
+{
+  "batch_number": 5,
+  "file_number": 36,
+  "processed_count": 15,
+  "skipped_count": 0,
+  "hadiths": [
+    {
+      "hadith_id": 36526,
+      "book_id": 52,
+      "hadith_number": 2576,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ذَكْوَانَ",
+              "full_name": "ذكوان أبو صالح السمان المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ذَكْوَانَ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Death of the Believer and Angels",
+        "Punishment for Suicide in Different Forms"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنِ /26 الأَعْمَشِ L3629 /26 ، عَنْ /26 ذَكْوَانَ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 مَنْ قَتَلَ نَفْسَهُ بِحَدِيدَةٍ ، فَحَدِيدَتُهُ فِي يَدِهِ يَجَأُ بِهَا بَطْنَهُ يَوْمَ الْقِيَامَةِ فِي نَارِ جَهَنَّمَ خَالِدًا مُخَلَّدًا فِيهَا أَبَدًا ، وَمَنْ قَتَلَ نَفْسَهُ بِسُمٍّ فَسُمُّهُ فِي يَدِهِ يَتَحَسَّاهُ فِي نَارِ جَهَنَّمَ خَالِدًا مُخَلَّدًا فِيهَا أَبَدًا ، وَمَنْ تَرَدَّى مِنْ جَبَلٍ فَقَتَلَ نَفْسَهُ ، فَهُوَ يَتَرَدَّى فِي نَارِ جَهَنَّمَ خَالِدًا مُخَلَّدًا فِيهَا أَبَدًا \" /27 * \r\n@ 4 : 167 @ \r\n$2529  2530 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2576,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3629,
+          "original_id": "2777",
+          "primary_name": "داود بن المحبر بن قحذم بن سليمان بن ذكوان",
+          "alternative_names": "داود بن المحبر الطائي\tأبو سليمان البصري\tأبو سليمان",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36527,
+      "book_id": 52,
+      "hadith_number": 2577,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ذَكْوَانَ",
+              "full_name": "ذكوان أبو صالح السمان المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ذَكْوَانَ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : حَدَّثَنَا /26 الأَعْمَشُ L3629 /26 ، عَنْ /26 ذَكْوَانَ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 إِذَا وَلَغَ الْكَلْبُ فِي إِنَاءِ أَحَدِكُمْ فَلْيَغْسِلْهُ سَبْعَ مَرَّاتٍ \" /27 * \r\n@ 4 : 168 @ \r\n$2530  2531 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2577,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3629,
+          "original_id": "2777",
+          "primary_name": "داود بن المحبر بن قحذم بن سليمان بن ذكوان",
+          "alternative_names": "داود بن المحبر الطائي\tأبو سليمان البصري\tأبو سليمان",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36528,
+      "book_id": 52,
+      "hadith_number": 2578,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ذَكْوَانَ",
+              "full_name": "ذكوان أبو صالح السمان المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ذَكْوَانَ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 الأَعْمَشُ L3629 /26 ، عَنْ /26 ذَكْوَانَ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 إِذَا اسْتَيْقَظَ أَحَدُكُمْ مِنْ مَنَامِهِ ، فَلا يَغْمِسْ يَدَهُ فِي الإِنَاءِ ، حَتَّى يَصُبَّ عَلَيْهَا صَبَّةً أَوْ صَبَّتَيْنِ ، فَإِنَّهُ لا يَدْرِي أَيْنَ بَاتَتْ يَدُهُ \" /27 * \r\n\u001cE625 @ 4 : 169 @ \r\n$2531  2532 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2578,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3629,
+          "original_id": "2777",
+          "primary_name": "داود بن المحبر بن قحذم بن سليمان بن ذكوان",
+          "alternative_names": "داود بن المحبر الطائي\tأبو سليمان البصري\tأبو سليمان",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36529,
+      "book_id": 52,
+      "hadith_number": 2579,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي حُصَيْنٍ",
+              "full_name": "أَبِي حُصَيْنٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِي صَالِحٍ",
+              "full_name": "ذكوان أبو صالح السمان الزيات المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "أَبِي حُصَيْنٍ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَبِي حُصَيْنٍ -> أَبِي صَالِحٍ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أَبِي حُصَيْنٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، /94 وَأَبُو عَوَانَةَ L8153 /94 ، عَنْ /26 أَبِي حُصَيْنٍ L5526 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 سَمُّوا بِاسْمِي ، وَلا تَكْتَنُوا بِكُنْيَتِي \" /27 * \r\n@ 4 : 170 @ \r\n$2532  2533 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2579,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 8153,
+          "original_id": "7410",
+          "primary_name": "مريح بن مسروق",
+          "alternative_names": "مريح بن مسروق الهوزاني\tأبو الحسن الهوزاني\tأبو الحسن",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 5526,
+          "original_id": "4726",
+          "primary_name": "عبد الله بن مهاجر",
+          "alternative_names": "عبد الله بن مهاجر الشعيثي\tعبد الله بن المهاجر النصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36530,
+      "book_id": 52,
+      "hadith_number": 2580,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي حُصَيْنٍ",
+              "full_name": "أَبِي حُصَيْنٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِي صَالِحٍ",
+              "full_name": "ذكوان أبو صالح السمان الزيات المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "أَبِي حُصَيْنٍ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَبِي حُصَيْنٍ -> أَبِي صَالِحٍ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أَبِي حُصَيْنٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، /94 وَأَبُو عَوَانَةَ L8153 /94 ، عَنْ /26 أَبِي حُصَيْنٍ L5526 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 مَنْ رَآنِي فِي الْمَنَامِ ، فَقَدْ رَآنِي فِي الْيَقَظَةِ فَإِنَّ الشَّيْطَانَ لا يَتَمَثَّلُ فِي صُورَتِي \" /27 ، وَقَالَ شُعْبَةُ : \" لا يَتَخَيَّلُ فِي صُورَتِي \" * \r\n$2533  2534 /2 /143 حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، /94 وَأَبُو عَوَانَةَ L8153 /94 ، عَنْ /26 أَبِي حُصَيْنٍ L5526 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ شُعْبَةُ : أَحْسَبُهُ عَنِ النَّبِيِّ    @ 4 : 171 @   صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 مَنْ كَذَبَ عَلَيَّ مُتَعَمِّدًا ، فَلْيَتَبَوَّأْ مَقْعَدَهُ مِنَ النَّارِ \" /27 * \r\n$2534  2535 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2580,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 8153,
+          "original_id": "7410",
+          "primary_name": "مريح بن مسروق",
+          "alternative_names": "مريح بن مسروق الهوزاني\tأبو الحسن الهوزاني\tأبو الحسن",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 5526,
+          "original_id": "4726",
+          "primary_name": "عبد الله بن مهاجر",
+          "alternative_names": "عبد الله بن مهاجر الشعيثي\tعبد الله بن المهاجر النصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36531,
+      "book_id": 52,
+      "hadith_number": 2581,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُهَيْلِ بْنِ أَبِي صَالِحٍ",
+              "full_name": "سُهَيْلِ بْنِ أَبِي صَالِحٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سُهَيْلِ بْنِ أَبِي صَالِحٍ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُهَيْلِ بْنِ أَبِي صَالِحٍ -> أَبِيهِ -> أَبِيهِ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سُهَيْلِ بْنِ أَبِي صَالِحٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 سُهَيْلِ بْنِ أَبِي صَالِحٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 لا وُضُوءَ إِلا مِنْ صَوْتٍ أَوْ رِيحٍ \" /27 * \r\n@ 4 : 172 @ \r\n$2535  2536 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2581,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3687,
+          "original_id": "2835",
+          "primary_name": "دينار بن عمر",
+          "alternative_names": "دينار بن عمر الأسدي\tأبو عمر الكوفي\tأبو عمر",
+          "kunya": "",
+          "nisba": "البزار",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "الرافضة",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36532,
+      "book_id": 52,
+      "hadith_number": 2582,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُهَيْلٍ",
+              "full_name": "سُهَيْلٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "سُمَيٍّ",
+              "full_name": "سُمَيٍّ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِي صَالِحٍ",
+              "full_name": "ذكوان أبو صالح السمان الزيات المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سُهَيْلٍ is unknown (Majhul) in our database",
+            "سُمَيٍّ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُهَيْلٍ -> سُمَيٍّ -> أَبِي صَالِحٍ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سُهَيْلٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        },
+        {
+          "issue": "سُمَيٍّ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 سُهَيْلٍ L3687 /26 ، عَنْ /26 سُمَيٍّ L3648 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 الْعُمْرَةُ إِلَى الْعُمْرَةِ تُكَفِّرُ مَا بَيْنَهُمَا ، وَالْحَجَّةُ الْبَرَّةُ لَيْسَ لَهَا جَزَاءٌ إِلا الْجَنَّةَ \" /27 * \r\n$2536  2537 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2582,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3687,
+          "original_id": "2835",
+          "primary_name": "دينار بن عمر",
+          "alternative_names": "دينار بن عمر الأسدي\tأبو عمر الكوفي\tأبو عمر",
+          "kunya": "",
+          "nisba": "البزار",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "الرافضة",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3648,
+          "original_id": "2796",
+          "primary_name": "داود بن عمرو بن زهير بن عمرو بن جميل بن الأعرج",
+          "alternative_names": "داود بن عمرو الضبي\tداود بن عمرو المدني\tأبو سليمان",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36533,
+      "book_id": 52,
+      "hadith_number": 2583,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُهَيْلِ بْنِ أَبِي صَالِحٍ",
+              "full_name": "سُهَيْلِ بْنِ أَبِي صَالِحٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سُهَيْلِ بْنِ أَبِي صَالِحٍ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُهَيْلِ بْنِ أَبِي صَالِحٍ -> أَبِيهِ -> أَبِيهِ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سُهَيْلِ بْنِ أَبِي صَالِحٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 سُهَيْلِ بْنِ أَبِي صَالِحٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّهُ قَالَ فِي أَهْلِ    @ 4 : 173 @   الْكِتَابِ : \" /20 لا تَبْدَءُوهُمُ بِالسَّلامِ ، وَإِذَا لَقِيتُمُوهُمْ فِي طَرِيقٍ فَاضْطَرُّوهُمْ إِلَى أَضْيَقِهَا \" /27 * \r\n\u001cE626 \r\n$2537  2538 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2583,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3795,
+          "original_id": "2945",
+          "primary_name": "رفاعة بن يثربي",
+          "alternative_names": "حبيب بن حيان البلوي\tأبو رمثة البلوي\tأبو رمثة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3687,
+          "original_id": "2835",
+          "primary_name": "دينار بن عمر",
+          "alternative_names": "دينار بن عمر الأسدي\tأبو عمر الكوفي\tأبو عمر",
+          "kunya": "",
+          "nisba": "البزار",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "الرافضة",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36534,
+      "book_id": 52,
+      "hadith_number": 2584,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُمَيٍّ",
+              "full_name": "سُمَيٍّ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِي صَالِحٍ",
+              "full_name": "ذكوان أبو صالح السمان الزيات المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سُمَيٍّ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُمَيٍّ -> أَبِي صَالِحٍ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سُمَيٍّ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْعُمَرِيُّ L5421 /94 ، عَنْ /26 سُمَيٍّ L3648 /26 مَوْلَى أَبِي بَكْرٍ ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 الْعُمْرَةُ تُكَفِّرُ مَا بَيْنَهَا وَبَيْنَ الْعُمْرَةِ ، وَالْحَجُّ الْمَبْرُورُ لَيْسَ لَهُ جَزَاءٌ إِلا الْجَنَّةَ \" /27 * \r\n@ 4 : 174 @ \r\n$2538  2539 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2584,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 5421,
+          "original_id": "4615",
+          "primary_name": "عبد الله بن يسار",
+          "alternative_names": "عبد الله بن يسار البهي\tعبد الله مولى مصعب بن الزبير\tأبو محمد",
+          "kunya": "البهي",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3648,
+          "original_id": "2796",
+          "primary_name": "داود بن عمرو بن زهير بن عمرو بن جميل بن الأعرج",
+          "alternative_names": "داود بن عمرو الضبي\tداود بن عمرو المدني\tأبو سليمان",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36535,
+      "book_id": 52,
+      "hadith_number": 2585,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُهَيْلٍ",
+              "full_name": "سُهَيْلٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سُهَيْلٍ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُهَيْلٍ -> أَبِيهِ -> أَبِيهِ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سُهَيْلٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 أَوْ /94 حَمَّادٌ L2492 /94 ، عَنْ /26 سُهَيْلٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنِ اطَّلَعَ عَلَى قَوْمٍ بِغَيْرِ إِذْنِهِمْ فَلَهُمْ أَنْ يَفْقَئُوا عَيْنَهُ \" /27 * \r\n$2539  2540 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2585,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 8186,
+          "original_id": "7445",
+          "primary_name": "مسكين بن بكير",
+          "alternative_names": "مسكين بن بكير الحراني\tأبو عبد الرحمن الحذاء\tأبو عبد الرحمن",
+          "kunya": "",
+          "nisba": "الحذاء",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2492,
+          "original_id": "1605",
+          "primary_name": "قاسم بن مهران",
+          "alternative_names": "القاسم بن مهران القيسي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3687,
+          "original_id": "2835",
+          "primary_name": "دينار بن عمر",
+          "alternative_names": "دينار بن عمر الأسدي\tأبو عمر الكوفي\tأبو عمر",
+          "kunya": "",
+          "nisba": "البزار",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "الرافضة",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36536,
+      "book_id": 52,
+      "hadith_number": 2586,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُهَيْلٍ",
+              "full_name": "سُهَيْلٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سُهَيْلٍ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُهَيْلٍ -> أَبِيهِ -> أَبِيهِ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سُهَيْلٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 أَوْ /94 حَمَّادٌ L2492 /94 ، عَنْ /26 سُهَيْلٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لا يَسْتُرُ اللَّهُ عَبْدًا إِلا سَتَرَ اللَّهُ عَزَّ وَجَلَّ عَلَيْهِ يَوْمَ الْقِيَامَةِ \" /27 * \r\n@ 4 : 175 @ \r\n$2540  2541 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2586,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 8186,
+          "original_id": "7445",
+          "primary_name": "مسكين بن بكير",
+          "alternative_names": "مسكين بن بكير الحراني\tأبو عبد الرحمن الحذاء\tأبو عبد الرحمن",
+          "kunya": "",
+          "nisba": "الحذاء",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2492,
+          "original_id": "1605",
+          "primary_name": "قاسم بن مهران",
+          "alternative_names": "القاسم بن مهران القيسي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3687,
+          "original_id": "2835",
+          "primary_name": "دينار بن عمر",
+          "alternative_names": "دينار بن عمر الأسدي\tأبو عمر الكوفي\tأبو عمر",
+          "kunya": "",
+          "nisba": "البزار",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "الرافضة",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 5,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36537,
+      "book_id": 52,
+      "hadith_number": 2587,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُهَيْلِ بْنِ أَبِي صَالِحٍ",
+              "full_name": "سُهَيْلِ بْنِ أَبِي صَالِحٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سُهَيْلِ بْنِ أَبِي صَالِحٍ is unknown (Majhul) in our database"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُهَيْلِ بْنِ أَبِي صَالِحٍ -> أَبِيهِ -> أَبِيهِ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سُهَيْلِ بْنِ أَبِي صَالِحٍ is unknown (Majhul) in our database",
+          "impact": "Cannot authenticate narrator - requires research into classical sources"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادٌ L2492 /94 ، عَنْ /26 سُهَيْلِ بْنِ أَبِي صَالِحٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لَيْسَ الْقَحْطُ أَنْ لا تُمْطِرَ السَّنَةُ ، وَلَكِنَّ الْقَحْطَ أَنْ تُمْطِرَ السَّمَاءُ ، وَلا تُنْبِتَ فِي الأَرْضِ \" /27 * \r\n$2541  2542 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2587,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 2492,
+          "original_id": "1605",
+          "primary_name": "قاسم بن مهران",
+          "alternative_names": "القاسم بن مهران القيسي",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3687,
+          "original_id": "2835",
+          "primary_name": "دينار بن عمر",
+          "alternative_names": "دينار بن عمر الأسدي\tأبو عمر الكوفي\tأبو عمر",
+          "kunya": "",
+          "nisba": "البزار",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "الرافضة",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36538,
+      "book_id": 52,
+      "hadith_number": 2588,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي صَالِحٍ",
+              "full_name": "ذكوان أبو صالح السمان الزيات المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي صَالِحٍ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 سَلامٌ L3457 /94 ، عَنِ /26 الأَعْمَشِ L3629 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : لَمَّا كَانَ يَوْمُ بَدْرٍ تَعَجَّلَ النَّاسُ إِلَى    @ 4 : 176 @   الْغَنَائِمِ فَأَصَابُوهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ /20 الْغَنِيمَةَ لَمْ تَحِلَّ لأَحَدٍ سُودِ الرُّءُوسِ غَيْرَكُمْ \" ، وَكَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَصْحَابُهُ ، إِذَا غَنِمُوا الْغَنِيمَةَ جَمَعُوهَا ، فَنَزَلَتْ نَارٌ مِنَ السَّمَاءِ فَأَكَلَتْهَا ، فَأَنْزَلَ اللَّهُ هَذِهِ الآيَةَ : /4 لَوْلا كِتَابٌ مِنَ اللَّهِ سَبَقَ سورة الأنفال آية 68 /4 إِلَى آخِرِ الآيَتَيْنِ /27 * \r\n'E627 \r\n$2542  2543 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2588,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3457,
+          "original_id": "2601",
+          "primary_name": "حي بن يؤمن بن حجيل بن حديج بن أسعد",
+          "alternative_names": "حي بن يؤمن المعافري\tأبو عشانة المصري\tأبو عشانة",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3629,
+          "original_id": "2777",
+          "primary_name": "داود بن المحبر بن قحذم بن سليمان بن ذكوان",
+          "alternative_names": "داود بن المحبر الطائي\tأبو سليمان البصري\tأبو سليمان",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36539,
+      "book_id": 52,
+      "hadith_number": 2589,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي صَالِحٍ",
+              "full_name": "ذكوان أبو صالح السمان الزيات المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي صَالِحٍ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 سَعِيدُ بْنُ سِنَانٍ أَبُو سِنَانٍ L3343 /94 ،    @ 4 : 177 @   قَالَ : حَدَّثَنَا /26 حَبِيبُ بْنُ أَبِي ثَابِتٍ L2244 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قِيلَ : يَا رَسُولَ اللَّهِ ، \" /20 الرَّجُلُ يَعْمَلُ الْعَمَلَ يُسِرُّهُ ، فَإِذَا اطُّلِعَ عَلَيْهِ سَرَّهُ ذَلِكَ وَأَعْجَبَهُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : لَهُ أَجْرَانِ ، أَجْرُ الْعَلانِيَةِ وَأَجْرُ السِّرِّ \" /27 ، قَالَ أَبُو بِشْرٍ : ذُكِرَ عَنْ أَبِي عُبَيْدٍ أَنَّهُ سَرَّهُ أَنْ لا يَكُونَ اطُّلِعَ عَلَيْهِ عَلَى عَمَلِ سُوءٍ * \r\n@ 4 : 178 @ \r\n$2543  2544 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2589,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 3343,
+          "original_id": "2486",
+          "primary_name": "حماد بن الجعد",
+          "alternative_names": "حماد بن الجعد الهذلي\tحماد بن الجعد البصري",
+          "kunya": "ابن أبي الجعد",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2244,
+          "original_id": "1351",
+          "primary_name": "حسين بن معاذ بن خليف",
+          "alternative_names": "الحسين بن معاذ البصري\tالحسين بن معاذ بن حليف البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    },
+    {
+      "hadith_id": 36540,
+      "book_id": 52,
+      "hadith_number": 2590,
+      "english_translation": "Narrated by أَبِي هُرَيْرَةَ: [The Prophet ﷺ said...] (Full literal translation to be provided)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "عبد الرحمن بن صخر الدوسي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِيهِ -> أَبِيهِ -> أَبِي هُرَيْرَةَ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "General Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، حَدَّثَنَا /26 سُهَيْلُ بْنُ أَبِي صَالِحٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنْ صَلَّى مِنَ الْعَصْرَ رَكْعَتَيْنِ أَوْ رَكْعَةً ، /23 الشَّكُّ مِنْ أَبِي بِشْرٍ /23 قَبْلَ أَنْ تَغْرُبَ الشَّمْسُ فَقَدْ أَدْرَكَ ، وَمَنْ أَدْرَكَ مِنَ الصُّبْحِ رَكْعَةً قَبْلَ أَنْ تَطْلُعَ الشَّمْسُ فَقَدْ أَدْرَكَ \" /27 * \r\n$2544  2545 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2590,
+      "narrators_in_isnad": [
+        {
+          "narrator_id": 8186,
+          "original_id": "7445",
+          "primary_name": "مسكين بن بكير",
+          "alternative_names": "مسكين بن بكير الحراني\tأبو عبد الرحمن الحذاء\tأبو عبد الرحمن",
+          "kunya": "",
+          "nisba": "الحذاء",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 1,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 3687,
+          "original_id": "2835",
+          "primary_name": "دينار بن عمر",
+          "alternative_names": "دينار بن عمر الأسدي\tأبو عمر الكوفي\tأبو عمر",
+          "kunya": "",
+          "nisba": "البزار",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "الرافضة",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 2,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 2840,
+          "original_id": "1962",
+          "primary_name": "بلال بن بقطر",
+          "alternative_names": "بلال بن بقطر البصري",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 3,
+          "appears_in_chains": []
+        },
+        {
+          "narrator_id": 4396,
+          "original_id": "3565",
+          "primary_name": "سليمان بن أرقم",
+          "alternative_names": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+          "kunya": "",
+          "nisba": "",
+          "death_year": null,
+          "birth_year": null,
+          "reliability_grade": "",
+          "tabaqat": null,
+          "location": null,
+          "position_in_isnad": 4,
+          "appears_in_chains": []
+        }
+      ]
+    }
+  ]
+}

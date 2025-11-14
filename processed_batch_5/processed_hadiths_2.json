@@ -1,0 +1,521 @@
+{
+  "batch_number": 5,
+  "file_number": 2,
+  "record_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 36017,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مُسْلِمٍ",
+              "full_name": "مُسْلِمٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "رَجُلا",
+              "full_name": "رَجُلا",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مُسْلِمٍ → رَجُلا → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مُسْلِمٍ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "رَجُلا is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Forbidden Prayer Times"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ مُسْلِمٍ الْحَنَّاطِ ، قَالَ : سَمِعْتُ رَجُلا مِنْ أَهْلِ الْعِرَاقِ سَأَلَ ابْنَ عُمَرَ ، فَقَالَ ابْنُ عُمَرَ : \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الصَّلاةِ بَعْدَ الصُّبْحِ حَتَّى تَطْلُعَ الشَّمْسُ ، وَيَرْتَفِعَ النَّهَارُ وَعَنِ الصَّلاةِ بَعْدَ الْعَصْرِ حَتَّى تَغْرُبَ الشَّمْسُ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2067,
+      "grade": null
+    },
+    {
+      "hadith_id": 36018,
+      "book_id": 52,
+      "english_translation": "Narrated: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مُسْلِمٍ",
+              "full_name": "مُسْلِمٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "ابْنَ",
+              "full_name": "ابْنَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مُسْلِمٍ → ابْنَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مُسْلِمٍ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "ابْنَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Trade Ethics",
+        "Marriage Proposal Etiquette"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ مُسْلِمٍ الْحَنَّاطِ ، قَالَ : سَمِعْتُ ابْنَ عُمَرَ ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لا تَلَقَّوْا الرُّكْبَانَ ، وَلا يَبِيعُ حَاضِرٌ لِبَادٍ ، وَلا يَخْطُبُ الرَّجُلُ عَلَى خِطْبَةِ أَخِيهِ حَتَّى يَنْكِحَ أَوْ يَدَعَ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2068,
+      "grade": null
+    },
+    {
+      "hadith_id": 36020,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "أَبِي",
+              "full_name": "أَبِي",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عَلِيِّ",
+              "full_name": "عَلِيِّ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي → عَلِيِّ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أَبِي is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "عَلِيِّ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Travel Supplication"
+      ],
+      "arabicText": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ ، عَنْ أَبِي الزُّبَيْرِ ، عَنْ عَلِيِّ بْنِ عَبْدِ اللَّهِ الْبَارِقِيِّ ، عَنِ ابْنِ عُمَرَ ، قَالَ : كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" إِذَا أَرَادَ سَفَرًا فَرَكِبَ رَاحِلَتَهُ كَبَّرَ ثَلاثًا ، ثُمَّ قَالَ : سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا سورة الزخرف آية 13 ، اللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِي هَذَا الْبِرَّ وَالتَّقْوَى ، وَمِنَ الْعَمَلِ مَا تُحِبُّ وَتَرْضَى ، اللَّهُمَّ اطْوِ لَنَا بُعْدَ الأَرْضِ ، وَهَوِّنْ عَلَيْنَا السَّفَرَ ، اللَّهُمَّ اصْحَبْنَا فِي سَفَرِنَا ، وَاخْلُفْنَا فِي أَهَالِينَا ، وَإِذَا رَجَعَ ، قَالَ : آيِبُونَ تَائِبُونَ لِرَبِّنَا حَامِدُونَ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2070,
+      "grade": null
+    },
+    {
+      "hadith_id": 36021,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يَعْلَى",
+              "full_name": "يَعْلَى",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عَلِيَّ",
+              "full_name": "عَلِيَّ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يَعْلَى → عَلِيَّ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "يَعْلَى is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "عَلِيَّ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Adhan and Iqamah Method",
+        "Voluntary Prayer"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ يَعْلَى بْنِ عَطَاءٍ ، قَالَ : سَمِعْتُ عَلِيَّ بْنَ عَبْدِ اللَّهِ ، يُحَدِّثُ عَنِ ابْنِ عُمَرَ يَرَاهُ شُعْبَةُ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ قَالَ : \" صَلاةُ اللَّيْلِ وَالنَّهَارِ مَثْنَى \" * E516",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2071,
+      "grade": null
+    },
+    {
+      "hadith_id": 36023,
+      "book_id": 52,
+      "english_translation": "Narrated: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Description of Al-Kawthar River"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو عَوَانَةَ ، حَدَّثَنَا عَطَاءُ بْنُ السَّائِبِ ، قَالَ : قَالَ لِي مُحَارِبُ بْنُ دِثَارٍ : مَا كَانَ سَعِيدُ بْنُ جُبَيْرٍ يَقُولُ فِي الْكَوْثَرِ ؟ قُلْتُ : كَانَ سَعِيدُ بْنُ جُبَيْرٍ يُحَدِّثُ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : هُوَ الْخَيْرُ الْكَثِيرُ ، قَالَ مُحَارِبٌ : أَيْنَ يَقَعُ رَأْيُ ابْنِ عَبَّاسٍ ؟ قَالَ : مُحَارِبٌ ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ ، قَالَ : \" لَمَّا أُنْزِلَتْ : إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ ، قَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : هُوَ نَهَرٌ فِي الْجَنَّةِ ، حَافَّتَاهُ مِنْ ذَهَبٍ يَجْرِي عَلَى الدُّرِّ وَالْيَاقُوتِ ، تُرْبَتُهُ أَطْيَبُ رِيحًا مِنَ الْمِسْكِ ، وَطَعْمُهُ أَحْلَى مِنَ الْعَسَلِ ، وَمَاؤُهُ أَشَدُّ بَيَاضًا مِنَ الثَّلْجِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2073,
+      "grade": null
+    },
+    {
+      "hadith_id": 36024,
+      "book_id": 52,
+      "english_translation": "Narrated: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Forbidden Prayer Times",
+        "Incident about Dragging Garment",
+        "Containers for Nabidh"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، قَالَ : أَخْبَرَنِي مُحَارِبُ بْنُ دِثَارٍ ، سَمِعَ ابْنَ عُمَرَ ، يَقُولُ : \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الدُّبَّاءِ ، وَالْحَنْتَمِ ، وَالْمُزَفَّتِ ، وَالْجَرِّ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2074,
+      "grade": null
+    },
+    {
+      "hadith_id": 36025,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مُحَارِبٍ",
+              "full_name": "مُحَارِبٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مُحَارِبٍ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مُحَارِبٍ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا الْمَسْعُودِيُّ ، عَنْ مُحَارِبٍ ، عَنِ ابْنِ عُمَرَ ، قَالَ : قَالَ لَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الْتَمِسُوا لَيْلَةَ الْقَدْرِ فِي الْعَشْرِ الأَوَاخِرِ مِنْ رَمَضَانَ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2075,
+      "grade": null
+    },
+    {
+      "hadith_id": 36026,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "أَبِيهِ",
+              "full_name": "أَبِيهِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "جَدِّهِ",
+              "full_name": "جَدِّهِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِيهِ → جَدِّهِ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أَبِيهِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "جَدِّهِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Forbidden Prayer Times"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو إِبْرَاهِيمَ مُحَمَّدُ بْنُ الْمُثَنَّى ، عَنْ أَبِيهِ ، عَنْ جَدِّهِ ، عَنِ ابْنِ عُمَرَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" رَحِمَ اللَّهُ امْرَأً صَلَّى قَبْلَ الْعَصْرِ أَرْبَعًا \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2076,
+      "grade": null
+    },
+    {
+      "hadith_id": 36027,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابن عمر"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "General Hadith"
+      ],
+      "arabicText": "بَكْرُ بْنُ عَبْدِ اللَّهِ ، وَبِشْرُ بْنُ عَائِذٍ ، عَنِ ابْنِ عُمَرَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2077,
+      "grade": null
+    },
+    {
+      "hadith_id": 36028,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "بَكْرِ",
+              "full_name": "بَكْرِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "قَتَادَةَ → بَكْرِ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "بَكْرِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا هَمَّامٌ ، عَنْ قَتَادَةَ ، عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ ، وَبِشْرِ بْنِ عَائِذٍ الْهُذَلِيِّ ، عَنِ ابْنِ عُمَرَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّمَا يَلْبَسُ الْحَرِيرَ مَنْ لا خَلاقَ لَهُ \" * E517",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2078,
+      "grade": null
+    },
+    {
+      "hadith_id": 36029,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابن عمر"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "General Hadith"
+      ],
+      "arabicText": "ابْنُ الْفَضْلِ ، أَوْ أَبُو الْفَضْلِ ، عَنِ ابْنِ عُمَرَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2079,
+      "grade": null
+    },
+    {
+      "hadith_id": 36030,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "يُونُسَ",
+              "full_name": "يُونُسَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "أَبَا",
+              "full_name": "أَبَا",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يُونُسَ → أَبَا → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "يُونُسَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "أَبَا is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ يُونُسَ بْنِ خَبَّابٍ ، قَالَ : سَمِعْتُ أَبَا الْفَضْلِ ، أَوِ ابْنَ الْفَضْلِ ، يُحَدِّثُ عَنِ ابْنِ عُمَرَ ، قَالَ : \" كُنْتُ مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَقَالَ : اللَّهُمَّ إِنِّي أَسْتَغْفِرُكَ ، وَأَتُوبُ إِلَيْكَ ، فَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الْغَفُورُ ، فَلَوْ أَنَّ إِنْسَانًا عَدَّ لَعَدَّ مِائَةً فِي يَدِهِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2080,
+      "grade": null
+    }
+  ]
+}

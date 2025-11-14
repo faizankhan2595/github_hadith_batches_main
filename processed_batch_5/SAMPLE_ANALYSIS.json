@@ -1,0 +1,78 @@
+{
+  "hadith_id": 36361,
+  "book_id": 52,
+  "english_translation": "Narrated by Abdullah ibn Amr: The Messenger of Allah ﷺ cursed the one who gives bribes and the one who takes bribes.",
+  "chains": [
+    {
+      "type": "marfu'",
+      "narrators": [
+        {
+          "name": "ابْنُ أَبِي ذِئْبٍ",
+          "full_name": "محمد بن عبد الرحمن بن المغيرة بن الحارث بن أبي ذئب القرشي العامري المدني",
+          "grade": "Thiqah Thabt",
+          "generation": "Fifth Generation",
+          "transmissionTerm": "حَدَّثَنَا",
+          "reliabilityIssues": []
+        },
+        {
+          "name": "الْحَارِثُ بْنُ عَبْدِ الرَّحْمَنِ",
+          "full_name": "الحارث بن عبد الرحمن بن أبي ذباب الأنصاري المدني",
+          "grade": "Thiqah",
+          "generation": "Third Generation",
+          "transmissionTerm": "حَدَّثَنِي",
+          "reliabilityIssues": []
+        },
+        {
+          "name": "أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ",
+          "full_name": "عبد الله بن عبد الرحمن بن عوف الزهري المدني",
+          "grade": "Thiqah Thabt",
+          "generation": "Second Generation",
+          "transmissionTerm": "عَنْ",
+          "reliabilityIssues": []
+        },
+        {
+          "name": "عَبْدِ اللَّهِ بْنِ عَمْرٍو",
+          "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+          "grade": "Companion",
+          "generation": "Companion",
+          "transmissionTerm": "عَنْ",
+          "reliabilityIssues": []
+        }
+      ],
+      "chainIssues": [
+        "Mix of explicit terms (حَدَّثَنَا, حَدَّثَنِي) and ambiguous term (عَنْ) present in chain",
+        "The use of عَنْ from Abu Salamah (Second Generation) is generally acceptable as he is not known as a mudallis"
+      ]
+    }
+  ],
+  "plainChains": [
+    "Ibn Abi Dhi'b -> al-Harith ibn Abd al-Rahman -> Abu Salamah ibn Abd al-Rahman -> Abdullah ibn Amr -> Prophet Muhammad ﷺ"
+  ],
+  "potential_issues": [
+    {
+      "issue": "Use of ambiguous transmission term 'an (عَنْ) from Abu Salamah ibn Abd al-Rahman",
+      "impact": "Minor concern as Abu Salamah is not classified as a mudallis and is highly reliable (Thiqah Thabt), one of the seven jurists of Medina"
+    },
+    {
+      "issue": "Use of ambiguous transmission term 'an (عَنْ) from Abdullah ibn Amr",
+      "impact": "No significant concern as he is a Companion, and all Companions are considered trustworthy ('udul)"
+    }
+  ],
+  "IISGrade": "Sound",
+  "IISGrade_reasoning": "All narrators are highly reliable (Thiqah Thabt or Thiqah), with one being a Companion. The chain uses mostly explicit transmission terms (حَدَّثَنَا, حَدَّثَنِي) with some use of 'an (عَنْ) from reliable non-mudallis narrators. No disconnections, weak narrators, or significant reliability issues. The minor use of ambiguous terms from highly reliable narrators does not significantly impact the grade.",
+  "topics": [
+    "Bribery",
+    "Corruption",
+    "Business Ethics"
+  ],
+  "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، قَالَ : حَدَّثَنِي خَالِي الْحَارِثُ بْنُ عَبْدِ الرَّحْمَنِ ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ، قَالَ : لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الرَّاشِيَ وَالْمُرْتَشِيَ",
+  "collection": "Unknown Collection 52",
+  "reference_number": 2411,
+  "original_grade": null,
+  "narrators_in_isnad_ids": [
+    7063,
+    1198,
+    4903,
+    4980
+  ]
+}

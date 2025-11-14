@@ -1,0 +1,1127 @@
+{
+  "batch_number": 5,
+  "file_number": 25,
+  "processed_count": 15,
+  "skipped_count": 0,
+  "hadiths": [
+    {
+      "hadith_id": 36361,
+      "book_id": 52,
+      "hadith_number": 2411,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": ": حدثني خالي الحارث بن عبد الرحمن",
+              "full_name": "الحارث بن عبد الرحمن بن أبي ذباب الأنصاري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 1198
+            },
+            {
+              "name": "أبي سلمة بن عبد الرحمن",
+              "full_name": "عبد الله بن عبد الرحمن بن عوف الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4903
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ": حدثني خالي الحارث بن عبد الرحمن -> أبي سلمة بن عبد الرحمن -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : حدثني خالي الحارث بن عبد الرحمن",
+          "impact": "Minor concern. : حدثني خالي الحارث بن عبد الرحمن has reliability grade 'Thiqah' and generation 'Third Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from أبي سلمة بن عبد الرحمن",
+          "impact": "Minor concern. أبي سلمة بن عبد الرحمن has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "Bribery and Corruption"
+      ],
+      "arabicText": "حَدَّثَنَا /94 ابْنُ أَبِي ذِئْبٍ L7063 /94 ، قَالَ : حَدَّثَنِي خَالِي /26 الْحَارِثُ بْنُ عَبْدِ الرَّحْمَنِ L1198 /26 ، عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ L4903 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، قَالَ : \" /20 لَعَنَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ الرَّاشِيَ وَالْمُرْتَشِيَ \" /27 * \r\n@ 4 : 35 @ \r\n$2377  2378 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2411,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        1198,
+        4903,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36362,
+      "book_id": 52,
+      "hadith_number": 2412,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "العلاء بن عبد الله بن رافع",
+              "full_name": "العلاء بن عبد الله بن رافع (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 1527
+            },
+            {
+              "name": "حنان بن خارجة",
+              "full_name": "حنان بن خارجة (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 2563
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "العلاء بن عبد الله بن رافع -> حنان بن خارجة -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from العلاء بن عبد الله بن رافع",
+          "impact": "Minor concern. العلاء بن عبد الله بن رافع has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from حنان بن خارجة",
+          "impact": "Minor concern. حنان بن خارجة has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 2 narrator(s) requiring research: العلاء بن عبد الله بن رافع, حنان بن خارجة",
+      "topics": [
+        "Migration and Hijrah"
+      ],
+      "arabicText": "حَدَّثَنَا /94 مُحَمَّدُ بْنُ مُسْلِمِ بْنِ أَبِي الْوَضَّاحِ L7268 /94 ، عَنِ /26 الْعَلاءِ بْنِ عَبْدِ اللَّهِ بْنِ رَافِعٍ L1527 /26 ، عَنْ /26 حَنَانَ بْنِ خَارِجَةَ L2563 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، قَالَ : جَاءَ أَعْرَابِيٌّ عُلْوِيٌّ جَرِيءٌ جَافٍ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، أَخْبِرْنَا عَنِ الْهِجْرَةِ ، أَهِيَ إِلَيْكَ حَيْثُ كُنْتَ ؟ أَمْ إِلَى أَرْضٍ مَعْرُوفَةٍ ؟ أَمْ لِقَوْمٍ خَاصَّةً ؟ أَمْ إِذَا مِتَّ انْقَطَعَتْ ؟ قَالَ : فَسَكَتَ عَنْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ قَالَ : \" أَيْنَ السَّائِلُ ؟ \" قَالَ : هَأَنَذَا يَا رَسُولَ اللَّهِ ، قَالَ : \" /20 الْهِجْرَةُ أَنْ تَهْجُرَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا ، وَمَا بَطَنَ ، ثُمَّ أَنْتَ مُهَاجِرٌ ، وَإِنْ مِتَّ فِي الْحَضَرِ \" /27 * \r\n\u001dE591 \r\n$2378  2379 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2412,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        1527,
+        2563,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36363,
+      "book_id": 52,
+      "hadith_number": 2413,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "Migration and Hijrah"
+      ],
+      "arabicText": "/34 /27 قَالَ /93 عَبْدُ اللَّهِ بْنُ عَمْرٍو L4980 /93 : فَقَالَ رَجُلٌ : يَا رَسُولَ اللَّهِ ، أَخْبِرْنَا عَنْ ثِيَابِ أَهْلِ الْجَنَّةِ ، أَخَلْقٌ تُخْلَقُ ، أَمْ نَسْجٌ تُنْسَجُ ؟ فَسَكَتَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَضَحِكَ بَعْضُ الْقَوْمِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مِمَّ تَضْحَكُونَ ؟ ! أَمِنْ جَاهِلٍ يَسْأَلُ عَالِمًا ؟ \" ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" أَيْنَ السَّائِلُ ؟ \" قَالَ : هَأَنَذَا يَا رَسُولَ اللَّهِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" بَلْ تَتَشَقَّقُ عَنْهَا ثَمَرُ الْجَنَّةِ ، بَلْ تَتَشَقَّقُ عَنْهَا ثَمَرُ الْجَنَّةِ \" مَرَّتَيْنِ ، فَقُلْتُ : يَا رَسُولَ اللَّهِ ، وَمَا تَقُولُ فِي الْهِجْرَةِ وَالْجِهَادِ ؟ فَقَالَ :    @ 4 : 36 @   \" يَا عَبْدَ اللَّهِ ، /20 ابْدَأْ بِنَفْسِكَ فَاغْزُهَا ، وَابْدَأْ بِنَفْسِكَ فَجَاهِدْهَا ، فَإِنَّكَ إِنْ قُتِلْتَ فَارًّا بَعَثَكَ اللَّهُ فَارًّا ، وَإِنْ قُتِلْتَ مُرَائِيًا بَعَثَكَ اللَّهُ مُرَائِيًا ، وَإِنْ قُتِلْتَ صَابِرًا مُحْتَسِبًا بَعَثَكَ اللَّهُ صَابِرًا مُحْتَسِبًا \" /27 * \r\n$2379  2380 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2413,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36364,
+      "book_id": 52,
+      "hadith_number": 2414,
+      "english_translation": "Narrated by خالد بن معدان: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يحيى",
+              "full_name": "يحيى بن أبي كثير الطائي اليمامي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "narrator_id": 8208
+            },
+            {
+              "name": "محمد بن إبراهيم",
+              "full_name": "محمد بن إبراهيم بن الحارث التيمي المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 6796
+            },
+            {
+              "name": "خالد بن معدان",
+              "full_name": "خالد بن معدان (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 2681
+            }
+          ],
+          "chainIssues": [
+            "يحيى is classified as mudallis (category-3) and uses ambiguous term 'عَنْ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "يحيى -> محمد بن إبراهيم -> خالد بن معدان -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from يحيى",
+          "impact": "Minor concern. يحيى has reliability grade 'Thiqah Thabt' and generation 'Fourth Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from محمد بن إبراهيم",
+          "impact": "Minor concern. محمد بن إبراهيم has reliability grade 'Thiqah' and generation 'Third Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from خالد بن معدان",
+          "impact": "Minor concern. خالد بن معدان has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: خالد بن معدان",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 هِشَامٌ L8035 /94 ، عَنْ /26 يَحْيَى L8208 /26 ، عَنْ /26 مُحَمَّدِ بْنِ إِبْرَاهِيمَ L6796 /26 ، عَنْ /26 خَالِدِ بْنِ مَعْدَانَ L2681 /26 ، أَنَّ /26 جُبَيْرَ بْنَ نُفَيْرٍ L2097 /26 ، حَدَّثَهُ /27 أَنَّ /93 عَبْدَ اللَّهِ بْنَ عَمْرٍو L4980 /93 حَدَّثَهُ ، قَالَ : /20 رَأَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَيَّ ثَوْبَيْنِ مُعَصْفَرَيْنِ ، فَقَالَ : يَا عَبْدَ اللَّهِ بْنَ عَمْرٍو ، إِنَّ هَذِهِ ثِيَابُ الْكُفَّارِ ، فَلا تَلْبَسْهَا \" /27 * \r\n@ 4 : 37 @ \r\n$2380  2381 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2414,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        8208,
+        6796,
+        2681
+      ]
+    },
+    {
+      "hadith_id": 36365,
+      "book_id": 52,
+      "hadith_number": 2415,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عمرو بن دينار",
+              "full_name": "عمرو بن دينار الجمحي المكي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 6123
+            },
+            {
+              "name": "صهيب",
+              "full_name": "صهيب (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 19718
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عمرو بن دينار -> صهيب -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from عمرو بن دينار",
+          "impact": "Minor concern. عمرو بن دينار has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from صهيب",
+          "impact": "Minor concern. صهيب has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: صهيب",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، /94 وَابْنُ عُيَيْنَةَ L3443 /94 ، وَحَدِيثُ ابْنِ عُيَيْنَةَ أَتَمُّ ، عَنْ /26 عَمْرِو بْنِ دِينَارٍ L6123 /26 ، عَنْ /26 صُهَيْبٍ L19718 /26 مَوْلَى ابْنِ عَامِرٍ ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 مَنْ قَتَلَ عُصْفُورًا بِغَيْرِ حَقِّهِ سَأَلَهُ اللَّهُ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ عَنْهُ \" ، فَقِيلَ : وَمَا حَقُّهُ ؟ قَالَ : \" يَذْبَحُهُ ، فَيَأْكُلُهُ ، وَلا يَقْطَعْ رَأْسَهُ فَيُرْمَى بِهِ \" /27 * \r\n\"E592 @ 4 : 38 @ \r\n$2381  2382 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2415,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        6123,
+        19718,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36366,
+      "book_id": 52,
+      "hadith_number": 2416,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سعد بن إبراهيم",
+              "full_name": "سعد بن إبراهيم بن عبد الرحمن بن عوف الزهري المدني",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3236
+            },
+            {
+              "name": ": سمعت طلحة بن هلال",
+              "full_name": ": سمعت طلحة بن هلال (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4025
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعَ",
+              "transmissionType": "explicit",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سعد بن إبراهيم -> : سمعت طلحة بن هلال -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعد بن إبراهيم",
+          "impact": "Minor concern. سعد بن إبراهيم has reliability grade 'Thiqah' and generation 'Fourth Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : سمعت طلحة بن هلال",
+          "impact": "Minor concern. : سمعت طلحة بن هلال has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: : سمعت طلحة بن هلال",
+      "topics": [
+        "Fasting Method"
+      ],
+      "arabicText": "/24 حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 سَعْدِ بْنِ إِبْرَاهِيمَ L3236 /26 ، قَالَ : سَمِعْتُ /26 طَلْحَةَ بْنَ هِلالٍ L4025 /26 ، أَوْ هِلالَ بْنَ طَلْحَةَ L4025 ، /27 سَمِعَ /93 عَبْدَ اللَّهِ بْنَ عَمْرٍو L4980 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 صَوْمُ ثَلاثَةٍ أَيَّامٍ مِنَ الشَّهْرِ صَوْمُ الدَّهْرِ ، مَنْ جَاءَ بِالْحَسَنَةِ فَلَهُ عَشْرُ أَمْثَالِهَا \" ، فَقُلْتُ : إِنِّي أُطِيقُ ، قَالَ : \" فَصُمْ صَوْمَ دَاوُدَ ، كَانَ يَصُومُ يَوْمًا ، وَيُفْطِرُ يَوْمًا \" /27 * \r\n$2382  2383 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2416,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3236,
+        4025,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36367,
+      "book_id": 52,
+      "hadith_number": 2417,
+      "english_translation": "Narrated by : سمعت وهب بن جابر: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي إسحاق",
+              "full_name": "أبي إسحاق (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 6155
+            },
+            {
+              "name": ": سمعت وهب بن جابر",
+              "full_name": ": سمعت وهب بن جابر (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 8168
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي إسحاق -> : سمعت وهب بن جابر -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from أبي إسحاق",
+          "impact": "Minor concern. أبي إسحاق has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : سمعت وهب بن جابر",
+          "impact": "Minor concern. : سمعت وهب بن جابر has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 2 narrator(s) requiring research: أبي إسحاق, : سمعت وهب بن جابر",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 أَبِي إِسْحَاقَ L6155 /26 ، قَالَ : سَمِعْتُ /26 وَهْبَ بْنَ جَابِرٍ L8168 /26 ، يَقُولُ : /27 شَهِدْتُ /93 عَبْدَ اللَّهِ بْنَ عَمْرٍو L4980 /93 فِي بَيْتِ الْمَقْدِسِ وَأَتَاهُ مَوْلًى لَهُ ، فَقَالَ : إِنِّي أُرِيدُ أَنْ أُقِيمَ هَذَا الشَّهْرَ هَاهُنَا ، يَعْنِي : رَمَضَانَ ، فَقَالَ لَهُ عَبْدُ اللَّهِ : هَلْ تَرَكْتَ لأَهْلِكَ مَا يَقُوتُهُمْ ؟ قَالَ : لا ، قَالَ : إمَّا لا ، فَارْجِعْ فَدَعْ لَهُمْ مَا يَقُوتُهُمْ ، فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ،    @ 4 : 39 @   يَقُولُ : \" /20 كَفَى بِالْمَرْءِ إِثْمًا أَنْ يُضَيِّعَ مَنْ يَقُوتُ \" /27 * \r\n$2383  2384 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2417,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        6155,
+        8168
+      ]
+    },
+    {
+      "hadith_id": 36368,
+      "book_id": 52,
+      "hadith_number": 2418,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": ": حدثنا أبو إسحاق",
+              "full_name": ": حدثنا أبو إسحاق (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 6155
+            },
+            {
+              "name": "وهب بن جابر",
+              "full_name": "وهب بن جابر (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 8168
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ": حدثنا أبو إسحاق -> وهب بن جابر -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : حدثنا أبو إسحاق",
+          "impact": "Minor concern. : حدثنا أبو إسحاق has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from وهب بن جابر",
+          "impact": "Minor concern. وهب بن جابر has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 2 narrator(s) requiring research: : حدثنا أبو إسحاق, وهب بن جابر",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْمُغِيرَةُ بْنُ مُسْلِمٍ L1674 /94 ، وَكَانَ صَدُوقًا مُسْلِمًا ، قَالَ : حَدَّثَنَا /26 أَبُو إِسْحَاقَ L6155 /26 ، عَنْ /26 وَهْبِ بْنِ جَابِرٍ L8168 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِثْلَ هَذَا الْحَدِيثِ ، غَيْرَ أَنَّهُ قَالَ : ثُمَّ أَنْشَأَ يُحَدِّثُنَا : \" أَنَّ /20 يَأْجُوجَ وَمَأْجُوجَ مِنْ وَلَدِ آدَمَ ، وَأَنَّهُمْ لَوْ أُرْسِلُوا عَلَى النَّاسِ لأَفْسَدُوا عَلَيْهِمْ مَعَايِشَهُمْ ، وَلَنْ يَمُوتَ مِنْهُمْ أَحَدٌ إِلا تَرَكَ مِنْ ذُرِّيَّتِهِ أَلْفًا    @ 4 : 40 @   فَصَاعِدًا ، وَأَنَّ مِنْ وَرَائِهِمْ ثَلاثَ أُمَمٍ ، تَاوِيلَ ، وَتَارِيسَ ، وَمَنْسَكَ \" /27 * \r\n$2384  2385 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2418,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        6155,
+        8168,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36369,
+      "book_id": 52,
+      "hadith_number": 2419,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "إبراهيم بن المهاجر",
+              "full_name": "إبراهيم بن المهاجر (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 887
+            },
+            {
+              "name": "عبد الله بن باباه",
+              "full_name": "عبد الله بن باباه (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4733
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "إبراهيم بن المهاجر -> عبد الله بن باباه -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from إبراهيم بن المهاجر",
+          "impact": "Minor concern. إبراهيم بن المهاجر has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from عبد الله بن باباه",
+          "impact": "Minor concern. عبد الله بن باباه has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 2 narrator(s) requiring research: إبراهيم بن المهاجر, عبد الله بن باباه",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زُهَيْرُ بْنُ مُعَاوِيَةَ L3044 /94 ، عَنْ /26 إِبْرَاهِيمَ بْنِ الْمُهَاجِرِ L887 /26 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ بَابَاهُ L4733 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، قَالَ : حَضَرْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَذُكِرَ عِنْدَهُ أَيَّامُ الْعَشْرِ ، فَقَالَ : \" /20 مَا مِنْ أَيَّامٍ    @ 4 : 41 @   أَحَبُّ إِلَى اللَّهِ عَزَّ وَجَلَّ الْعَمَلُ فِيهِ مِنْ عَشْرِ ذِي الْحِجَّةِ \" ، قِيلَ : يَا رَسُولَ اللَّهِ ، وَلا الْجِهَادُ فِي سَبِيلِ اللَّهِ ؟ فَأَكْبَرَهُ وَقَالَ : \" وَلا الْجِهَادُ فِي سَبِيلِ اللَّهِ ، إِلا رَجُلٌ خَرَجَ بِنَفْسِهِ وَمَالِهِ وكَانَ مُهْجَتُهُ فِيهِ \" /27 * \r\n\u001cE593 \r\n$2385  2386 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2419,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        887,
+        4733,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36370,
+      "book_id": 52,
+      "hadith_number": 2420,
+      "english_translation": "Narrated by : سمعت عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": ": حدثني رجل",
+              "full_name": ": حدثني رجل (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 1131
+            },
+            {
+              "name": ": حدثني رجل منا يقال له أيوب",
+              "full_name": ": حدثني رجل منا يقال له أيوب (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 1131
+            },
+            {
+              "name": ": سمعت عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ": حدثني رجل -> : حدثني رجل منا يقال له أيوب -> : سمعت عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : حدثني رجل",
+          "impact": "Minor concern. : حدثني رجل has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : حدثني رجل منا يقال له أيوب",
+          "impact": "Minor concern. : حدثني رجل منا يقال له أيوب has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 2 narrator(s) requiring research: : حدثني رجل, : حدثني رجل منا يقال له أيوب",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، حَدَّثَنِي /26 إِبْرَاهِيمُ بْنُ مَيْمُونٍ L895 /26 ، قَالَ : حَدَّثَنِي /18 /26 رَجُلٌ L1131 /26 /18 مِنْ بَنِي الْحَارِثِ ، قَالَ : حَدَّثَنِي رَجُلٌ مِنَّا يُقَالُ لَهُ /26 أَيُّوبُ L1131 /26 ، قَالَ : /27 سَمِعْتُ /93 عَبْدَ اللَّهِ بْنَ عَمْرٍو L4980 /93 ، يَقُولُ : \" /20 مَنْ تَابَ قَبْلَ مَوْتِهِ بِعَامٍ تِيبَ عَلَيْهِ ، وَمَنْ تَابَ قَبْلَ مَوْتِهِ بِيَوْمٍ تِيبَ عَلَيْهِ ، وَمَنْ تَابَ قَبْلَ مَوْتِهِ بِسَاعَةٍ تِيبَ عَلَيْهِ \" /27 ، فَقُلْتُ لَهُ : إِنَّمَا قَالَ اللَّهُ عَزَّ وَجَلَّ : /4 إِنَّمَا التَّوْبَةُ عَلَى اللَّهِ لِلَّذِينَ يَعْمَلُونَ السُّوءَ بِجَهَالَةٍ سورة النساء آية 17 /4 ، قَالَ : إِنَّمَا أُحَدِّثُكَ مَا سَمِعْتُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ * \r\n@ 4 : 42 @ \r\n$2386  2387 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2420,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        1131,
+        1131,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36371,
+      "book_id": 52,
+      "hadith_number": 2421,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "عيسى بن طلحة",
+              "full_name": "عيسى بن طلحة (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 6313
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> عيسى بن طلحة -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from عيسى بن طلحة",
+          "impact": "Minor concern. عيسى بن طلحة has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: عيسى بن طلحة",
+      "topics": [
+        "Prophet Isa (Jesus)"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زَمْعَةُ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 عِيسَى بْنِ طَلْحَةَ L6313 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ يَوْمَ النَّحْرِ وَهُوَ عَلَى رَاحِلَتِهِ ، وَطَفِقَ النَّاسُ يَسْأَلُونَهُ ، يَقُولُ الرَّجُلُ : \" يَا رَسُولَ اللَّهِ ، /20 إِنِّي لَمْ أَكُنْ أَرَى أَنَّ الرَّمْيَ قَبْلَ النَّحْرِ فَنَحَرْتُ قَبْلَ أَنْ أَرْمِيَ ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" ارْمِ وَلا حَرَجَ \" , وَطَفِقَ آخَرُ ، يَقُولُ : يَا رَسُولَ اللَّهِ ، إِنِّي لَمْ أَشْعُرْ أَنَّ الْحَلْقَ قَبْلَ النَّحْرِ فَنَحَرْتُ قَبْلَ أَنْ أَحْلِقَ ، فَقَالَ : \" احْلِقْ وَلا حَرَجَ \" ، قَالَ : فَمَا سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سُئِلَ يَوْمَئِذٍ عَمَّا يَنْسَى الْمَرْءُ ، أَوْ يَجْهَلُ مِنْ تَقْدِيمِ الأُمُورِ بَعْضِهَا قَبْلَ بَعْضٍ وَأَشْبَاهُ ذَلِكَ ، إِلا    @ 4 : 43 @   قَالَ : افْعَلُوا ذَلِكَ وَلا حَرَجَ \" /27 * \r\n$2387  2388 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2421,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        6313,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36372,
+      "book_id": 52,
+      "hadith_number": 2422,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سالم أبي النضر",
+              "full_name": "سالم أبي النضر (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3181
+            },
+            {
+              "name": "سليمان بن يسار",
+              "full_name": "سليمان بن يسار (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3634
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سالم أبي النضر -> سليمان بن يسار -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سالم أبي النضر",
+          "impact": "Minor concern. سالم أبي النضر has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سليمان بن يسار",
+          "impact": "Minor concern. سليمان بن يسار has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 2 narrator(s) requiring research: سالم أبي النضر, سليمان بن يسار",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 فُلَيْحُ بْنُ سُلَيْمَانَ L6437 /94 ، عَنْ /26 سَالِمٍ أَبِي النَّضْرِ L3181 /26 ، عَنْ /26 سُلَيْمَانَ بْنِ يَسَارٍ L3634 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 لا تُجَادِلُوا فِي الْقُرْآنِ فَإِنَّ جِدَالا فِيهِ كُفْرٌ \" /27 * \r\n\u001cE594 @ 4 : 44 @ \r\n$2388  2389 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2422,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3181,
+        3634,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36373,
+      "book_id": 52,
+      "hadith_number": 2423,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "narrator_id": 6458
+            },
+            {
+              "name": "محمد بن سيرين",
+              "full_name": "محمد بن سيرين (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 7016
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": [
+            "قتادة is classified as mudallis (category-3) and uses ambiguous term 'عَنْ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "قتادة -> محمد بن سيرين -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from قتادة",
+          "impact": "Minor concern. قتادة has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from محمد بن سيرين",
+          "impact": "Minor concern. محمد بن سيرين has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: محمد بن سيرين",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 هَمَّامٌ L8097 /94 ، عَنْ /26 قَتَادَةَ L6458 /26 ، عَنْ /26 مُحَمَّدِ بْنِ سِيرِينَ L7016 /26 ، /26 وَمُحَمَّدِ بْنِ عُبَيْدٍ الْحَنَفِيِّ L7147 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ فِي حُشٍّ مِنْ حُشَّانِ الْمَدِينَةِ ، فَاسْتَأْذَنَ رَجُلٌ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 ائْذَنْ لَهُ وَبَشِّرْهُ بِالْجَنَّةِ \" ، فَإِذَا هُوَ أَبُو بَكْرٍ رَضِيَ اللَّهُ عَنْهُ ، فَأَذِنْتُ لَهُ وَبَشَّرْتُهُ بِالْجَنَّةِ ، فَقَرُبَ يَحْمَدُ اللَّهَ حَتَّى جَلَسَ ، ثُمَّ اسْتَأْذَنَ رَجُلٌ رَفِيعُ الصَّوْتِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" ائْذَنْ لَهُ وَبَشِّرْهُ بِالْجَنَّةِ \" فَإِذَا عُمَرُ رَضِيَ اللَّهُ عَنْهُ ، فَأَذِنْتُ لَهُ وَبَشَّرْتُهُ بِالْجَنَّةِ ، فَقَرُبَ يَحْمَدُ اللَّهَ ، ثُمَّ اسْتَأْذَنَ رَجُلٌ خَفِيضُ الصَّوْتِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" ائْذَنْ لَهُ وَبَشِّرْهُ بِالْجَنَّةِ عَلَى بَلْوَى تُصِيبُهُ \" فَإِذَا هُوَ عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ ، فَقَرُبَ يَحْمَدُ اللَّهَ حَتَّى جَلَسَ ، فَقَالَ عَبْدُ اللَّهِ بْنُ عَمْرٍو ،    @ 4 : 45 @   أَيْنَ أَنَا ؟ قَالَ : \" أَنْتَ مَعَ أَبِيكَ \" /27 * \r\n$2389  2390 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2423,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        6458,
+        7016,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36374,
+      "book_id": 52,
+      "hadith_number": 2424,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "زياد بن فياض",
+              "full_name": "زياد بن فياض (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3098
+            },
+            {
+              "name": ": قال سمعت أبا عياض",
+              "full_name": ": قال سمعت أبا عياض (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 298
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "زياد بن فياض -> : قال سمعت أبا عياض -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from زياد بن فياض",
+          "impact": "Minor concern. زياد بن فياض has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : قال سمعت أبا عياض",
+          "impact": "Minor concern. : قال سمعت أبا عياض has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 2 narrator(s) requiring research: زياد بن فياض, : قال سمعت أبا عياض",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 زِيَادِ بْنِ فَيَّاضٍ L3098 /26 ، قَالَ : قَالَ سَمِعْتُ /26 أَبَا عِيَاضٍ L298 /26 ، /27 يُحَدِّثُ عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَهُ : \" /20 صُمْ يَوْمًا مِنَ الشَّهْرِ وَلَكَ أَجْرُ مَا بَقِيَ ، صُمْ يَوْمَيْنِ وَلَكَ أَجْرُ مَا بَقِيَ ، صُمْ ثَلاثَةَ أَيَّامٍ وَلَكَ أَجْرُ مَا بَقِيَ \" /27 * \r\n$2390  2391 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2424,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3098,
+        298,
+        4980
+      ]
+    },
+    {
+      "hadith_id": 36375,
+      "book_id": 52,
+      "hadith_number": 2425,
+      "english_translation": "Narrated by عبد الله بن عمرو: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "منصور",
+              "full_name": "منصور بن المعتمر السلمي الكوفي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 7673
+            },
+            {
+              "name": ": سمعت هلال بن يساف",
+              "full_name": ": سمعت هلال بن يساف (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 8090
+            },
+            {
+              "name": "أبي يحيى الأعرج",
+              "full_name": "يحيى بن أبي كثير الطائي اليمامي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-3"
+              ],
+              "narrator_id": 379
+            },
+            {
+              "name": "عبد الله بن عمرو",
+              "full_name": "عبد الله بن عمرو بن العاص السهمي القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4980
+            }
+          ],
+          "chainIssues": [
+            "أبي يحيى الأعرج is classified as mudallis (category-3) and uses ambiguous term 'عَنْ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "منصور -> : سمعت هلال بن يساف -> أبي يحيى الأعرج -> عبد الله بن عمرو -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from منصور",
+          "impact": "Minor concern. منصور has reliability grade 'Thiqah Thabt' and generation 'Fourth Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : سمعت هلال بن يساف",
+          "impact": "Minor concern. : سمعت هلال بن يساف has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from أبي يحيى الأعرج",
+          "impact": "Minor concern. أبي يحيى الأعرج has reliability grade 'Thiqah Thabt' and generation 'Fourth Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: : سمعت هلال بن يساف",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 مَنْصُورٍ L7673 /26 ، قَالَ : سَمِعْتُ /26 هِلالَ بْنَ يَسَافٍ L8090 /26 ، يُحَدِّثُ عَنْ /26 أَبِي يَحْيَى الأَعْرَجِ L379 /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرٍو L4980 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 صَلاةُ الْقَاعِدِ عَلَى النِّصْفِ مِنْ    @ 4 : 46 @   صَلاةِ الْقَائِمِ \" /27 * \r\n\"E595 \r\n$2391  2392 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2425,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7673,
+        8090,
+        379,
+        4980
+      ]
+    }
+  ],
+  "processing_notes": [
+    "Narrator names extracted directly from Arabic text (text_ar field)",
+    "Narrators marked 'Requires Research' need verification in classical hadith sources",
+    "English translations are placeholders requiring professional Arabic translation",
+    "Topics extracted via keyword matching",
+    "IISGrade follows Isnad Integrity Scale per CLAUDE.md specifications",
+    "Tadlis analysis performed: reliable mudallis narrators using 'an are noted but generally accepted",
+    "Data quality issue: Original narrator_ids database has incorrect mappings"
+  ]
+}

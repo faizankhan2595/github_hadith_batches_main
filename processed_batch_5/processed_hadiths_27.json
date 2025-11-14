@@ -1,0 +1,887 @@
+{
+  "batch_number": 5,
+  "file_number": 27,
+  "processed_count": 13,
+  "skipped_count": 2,
+  "hadiths": [
+    {
+      "hadith_id": 36391,
+      "book_id": 52,
+      "hadith_number": 2441,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "Prophet Isa (Jesus)"
+      ],
+      "arabicText": "حَدَّثَنَا /94 ابْنُ أَبِي زَمْعَةَ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لَيُوشِكَنَّ أَنْ يَنْزِلَ فِيكُمْ عِيسَى ابْنُ مَرْيَمَ عَلَيْهِ السَّلامُ حَكَمًا مُقْسِطًا ، يَقْتُلُ الْخِنْزِيرَ ، وَيَكْسِرُ الصَّلِيبَ ، وَيَضَعُ الْجِزْيَةَ وَيَفِيضُ الْمَالُ ، حَتَّى لا يَقْبَلَهُ أَحَدٌ \" /27 * \r\n@ 4 : 61 @ \r\n$2405  2406 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2441,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36392,
+      "book_id": 52,
+      "hadith_number": 2442,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "Funeral Prayer"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زَمْعَةُ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 حَقُّ الْمُسْلِمِ عَلَى أَخِيهِ الْمُسْلِمِ خَمْسٌ ، رَدُّ السَّلامِ ، وَعِيَادَةُ الْمَرِيضِ ، وَاتِّبَاعُ الْجِنَازَةِ ، وَإِجَابَةُ الدَّاعِي ، وَتَشْمِيتُ الْعَاطِسِ \" /27 * \r\n@ 4 : 62 @ \r\n$2406  2407 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2442,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36393,
+      "book_id": 52,
+      "hadith_number": 2443,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زَمْعَةُ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لا فَرَعَ وَلا عَتِيرَةَ \" /27 ، قَالَ سَعِيدٌ : فَالْفَرَعُ : أَوَّلُ نِتَاجٍ يُنْتَجُ كَانُوا يَذْبَحُونَهُ لِطَوَاغِيتِهِمْ ، نَهَاهُمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْهَا ، وَالْعَتِيرَةُ ذَبِيحَةُ مُضَرَ فِي رَجَبٍ ، فَنَهَاهُمْ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْهَا * \r\n\u001eE599 \r\n$2407  2408 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2443,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36395,
+      "book_id": 52,
+      "hadith_number": 2445,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد بن المسيب",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد بن المسيب -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد بن المسيب",
+          "impact": "Minor concern. سعيد بن المسيب has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "Women"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زَمْعَةُ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدِ بْنِ الْمُسَيِّبِ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، \" أَنَّ /20 امْرَأَتَيْنِ ، مِنْ هُذَيْلٍ رَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَجَرٍ فَقَتَلَتْهَا وَمَا فِي بَطْنِهَا ، فَاخْتَصَمُوا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَجَعَلَ فِي جَنِينِهَا غُرَّةَ عَبْدٍ أَوْ وَلِيدَةٍ ، وَقَضَى بِدِيَةِ الْمَرْأَةِ عَلَى عَاقِلَتِهَا وَوَرَّثَهَا وَوَرَّثَهُ وَلَدَهَا وَمَنْ مَعَهُمْ ، فَجَاءَ ابْنُ النَّابِغَةِ الْهُذَلِيُّ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، غَرِمَ مَنْ لا أَكَلَ وَلا شَرِبَ وَلا نَطَقَ وَلا اسْتَهَلَّ فَمِثْلُ ذَلِكَ بَطَلَ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : هَذَا مِنْ إِخْوَانِ الْكُهَّانِ \" /27 مِنْ أَجْلِ سَجْعِهِ الَّذِي قَالَ * \r\n@ 4 : 64 @ \r\n$2409  2410 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2445,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36396,
+      "book_id": 52,
+      "hadith_number": 2446,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زَمْعَةُ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 شِدَّةُ الْحَرِّ مِنْ فَيْحِ    @ 4 : 65 @   جَهَنَّمَ ، فَأَبْرِدُوا عَنِ الصَّلاةِ \" /27 * \r\n$2410  2411 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2446,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36397,
+      "book_id": 52,
+      "hadith_number": 2447,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زَمْعَةُ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، أَوْ غَيْرِهِ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : \" /20 شَرُّ الطَّعَامِ طَعَامُ الْوَلِيمَةِ ، يُدْعَى إِلَيْهِ الأَغْنِيَاءُ وَيُتْرَكُ الْفُقَرَاءُ ، وَمَنْ لَمْ يُجِبِ الدَّعْوَةَ ، فَقَدْ عَصَى اللَّهَ وَرَسُولَهُ \" /27 * \r\n@ 4 : 66 @ \r\n$2411  2412 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2447,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36398,
+      "book_id": 52,
+      "hadith_number": 2448,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِه /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" /20 لا يَمُوتُ لِمُسْلِمٍ ثَلاثَةٌ مِنَ الْوَلَدِ فَتَمَسَّهُ النَّارُ إِلا تَحِلَّةَ الْقَسَمِ \" /27 ، قَالَ الزُّهْرِيُّ : كَأَنَّهُ يُرِيدُ هَذِهِ الآيَةَ : /4 وَإِنْ مِنْكُمْ إِلا وَارِدُهَا سورة مريم آية 71 /4 الآيَةَ * \r\n\u0017E600 @ 4 : 67 @ \r\n$2412  2413 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2448,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36399,
+      "book_id": 52,
+      "hadith_number": 2449,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 الدَّابَّةُ الْعَجْمَاءُ جَرْحُهَا جُبَارٌ ، وَالْمَعْدِنُ جُبَارٌ ، وَالْبِئْرُ جُبَارٌ ، وَفِي الرِّكَازِ الْخُمُسُ \" /27 * \r\n@ 4 : 68 @    @ 4 : 69 @ \r\n$2413  2414 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2449,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36400,
+      "book_id": 52,
+      "hadith_number": 2450,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 ابْنُ سَعْدٍ L823 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 صُومُوا لِرُؤْيَتِهِ ، وَأَفْطِرُوا لِرُؤْيَتِهِ ، فَإِنْ غُمَّ فَعُدُّوا ثَلاثِينَ \" /27 * \r\n@ 4 : 70 @ \r\n$2414  2415 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2450,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36401,
+      "book_id": 52,
+      "hadith_number": 2451,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": ": حدثت أبا إسحاق ، عن معمر بن راشد",
+              "full_name": ": حدثت أبا إسحاق ، عن معمر بن راشد (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 7633
+            },
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        ": حدثت أبا إسحاق ، عن معمر بن راشد -> الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : حدثت أبا إسحاق ، عن معمر بن راشد",
+          "impact": "Minor concern. : حدثت أبا إسحاق ، عن معمر بن راشد has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: : حدثت أبا إسحاق ، عن معمر بن راشد",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : حَدَّثْتُ أَبَا إِسْحَاقَ ، عَنْ /26 مَعْمَرِ بْنِ رَاشِدٍ L7633 /26 ، /26 وَسُفْيَانَ بْنِ حُسَيْنٍ L3431 /26 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ شُعْبَةُ قَالَ أَحَدُهُمَا : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لا فَرَعَ وَلا عَتِيرَةَ \" ، وَقَالَ الآخَرُ : \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْفَرَعِ وَالْعَتِيرَةِ \" /27 * \r\n$2415  2416 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2451,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7633,
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36402,
+      "book_id": 52,
+      "hadith_number": 2452,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الزهري",
+              "full_name": "محمد بن مسلم بن عبيد الله بن عبد الله بن شهاب الزهري المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [
+                "mudallis-category-2-3"
+              ],
+              "narrator_id": 7272
+            },
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3299
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": [
+            "الزهري is classified as mudallis (category-2-3) and uses ambiguous term 'عَنِ'. However, given their high reliability grade (Thiqah Thabt), this is noted but generally acceptable."
+          ]
+        }
+      ],
+      "plainChains": [
+        "الزهري -> سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنِ' from الزهري",
+          "impact": "Minor concern. الزهري has reliability grade 'Thiqah Thabt' and generation 'Third Generation'. They are noted as practicing tadlis, but their high reliability mitigates this concern."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 3 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "Jews"
+      ],
+      "arabicText": "حَدَّثَنَا /94 زَمْعَةُ L3028 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 سَعِيدٍ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" /20 لَعَنَ اللَّهُ الْيَهُودَ أَوْ قَاتَلَ اللَّهُ الْيَهُودَ ، حُرِّمَتْ عَلَيْهِمُ الشُّحُومُ فَبَاعُوهَا وَأَكَلُوا أَثْمَانَهَا \" /27 * \r\n@ 4 : 71 @ \r\n$2416  2417 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2452,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        7272,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36403,
+      "book_id": 52,
+      "hadith_number": 2453,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" يَا حَسَّانُ ، /20 أَجِبْ عَنْ رَسُولِ اللَّهِ ، اللَّهُمَّ أَيِّدْهُ بِرُوحِ الْقُدُسِ \" /27 * \r\n\u001aE601",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2453,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36405,
+      "book_id": 52,
+      "hadith_number": 2455,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "صالح",
+              "full_name": "صالح مولى التوأمة الحجازي المدني",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3898
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "صالح -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from صالح",
+          "impact": "Minor concern. صالح has reliability grade 'Saduq' and generation 'Third Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains generally acceptable narrators with minor concerns that don't significantly impact authenticity",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 ابْنُ أَبِي ذِئْبٍ L7063 /94 ، عَنْ /26 صَالِحٍ L3898 /26 مَوْلَى التَّوْأَمَةِ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ    @ 4 : 72 @   صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنْ صَلَّى عَلَى جِنَازَةٍ فِي الْمَسْجِدِ فَلا شَيْءَ لَهُ \" /27 ، قَالَ صَالِحٌ : وَأَدْرَكْتُ رِجَالا مِمَّنْ أَدْرَكُوا النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأَبَا بَكْرٍ إِذَا جَاءُوا ، فَلَمْ يَجِدُوا إِلا أَنْ يُصَلُّوا فِي الْمَسْجِدِ رَجَعُوا فَلَمْ يُصَلُّوا * \r\n@ 4 : 73 @ \r\n$2418  2419 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2455,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3898,
+        4396
+      ]
+    }
+  ],
+  "processing_notes": [
+    "Narrator names extracted directly from Arabic text (text_ar field)",
+    "Narrators marked 'Requires Research' need verification in classical hadith sources",
+    "English translations are placeholders requiring professional Arabic translation",
+    "Topics extracted via keyword matching",
+    "IISGrade follows Isnad Integrity Scale per CLAUDE.md specifications",
+    "Tadlis analysis performed: reliable mudallis narrators using 'an are noted but generally accepted",
+    "Data quality issue: Original narrator_ids database has incorrect mappings"
+  ]
+}

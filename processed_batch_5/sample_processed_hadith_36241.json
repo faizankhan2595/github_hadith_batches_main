@@ -1,0 +1,90 @@
+{
+  "hadith_id": 36241,
+  "book_id": 52,
+  "hadith_number": 2291,
+  "narrator_ids": [2492, 2531, 1698, 3260],
+  "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ said: 'Seek it (Laylat al-Qadr) in the last seven nights remaining, or five nights remaining, or three nights remaining.'",
+  "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 حُمَيْدٍ L2531 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 الْتَمِسُوهَا لِسَبْعٍ يَبْقَيْنَ ، أَوْ خَمْسٍ يَبْقَيْنَ ، أَوْ ثَلاثٍ يَبْقَيْنَ \" /27",
+  "chains": [
+    {
+      "type": "marfu'",
+      "narrators": [
+        {
+          "name": "حَمَّادُ بْنُ سَلَمَةَ",
+          "full_name": "Hammad ibn Salamah ibn Dinar al-Basri Abu Salamah",
+          "grade": "Thiqah",
+          "generation": "Fifth Generation",
+          "transmissionTerm": "حَدَّثَنَا",
+          "reliabilityIssues": [
+            "Experienced ikhtilat (memory confusion) in later life",
+            "Narrations through early students like Affan ibn Muslim and 'Abd al-Samad are highly reliable",
+            "Later narrations need careful evaluation"
+          ]
+        },
+        {
+          "name": "حُمَيْدٍ",
+          "full_name": "Humayd ibn Abi Humayd Tawil al-Basri (Humayd al-Tawil)",
+          "grade": "Thiqah",
+          "generation": "Fourth Generation",
+          "transmissionTerm": "عَنْ",
+          "reliabilityIssues": [
+            "Uses 'an transmission term which is potentially indirect",
+            "Generally considered reliable despite occasional tadlis concerns",
+            "His narrations from Anas ibn Malik are particularly strong"
+          ]
+        },
+        {
+          "name": "أَبِي نَضْرَةَ",
+          "full_name": "Al-Mundhir ibn Malik ibn Qit'ah al-'Abdi Abu Nadrah",
+          "grade": "Thiqah",
+          "generation": "Third Generation",
+          "transmissionTerm": "عَنْ",
+          "reliabilityIssues": [
+            "Uses 'an transmission term",
+            "Reliable narrator according to consensus of hadith scholars",
+            "Known for precision in narration"
+          ]
+        },
+        {
+          "name": "أَبِي سَعِيدٍ الْخُدْرِيِّ",
+          "full_name": "Sa'd ibn Malik ibn Sinan al-Ansari al-Khudri Abu Sa'id",
+          "grade": "Companion",
+          "generation": "Companion",
+          "transmissionTerm": "عَنْ",
+          "reliabilityIssues": []
+        }
+      ],
+      "chainIssues": [
+        "Multiple uses of 'an ('عَنْ') which could indicate indirect transmission",
+        "Chain contains Humayd al-Tawil and Abu Nadrah both using 'an - requires attention"
+      ]
+    }
+  ],
+  "plainChains": [
+    "Hammad ibn Salamah -> Humayd al-Tawil -> Abu Nadrah -> Abu Sa'id al-Khudri -> Prophet Muhammad ﷺ"
+  ],
+  "potential_issues": [
+    {
+      "issue": "Humayd al-Tawil uses 'an ('عَنْ') transmission term and has been noted for occasional tadlis by some scholars",
+      "impact": "Generally considered acceptable as Humayd is widely regarded as reliable (thiqah), but the use of 'an without explicit hearing terms introduces minor ambiguity"
+    },
+    {
+      "issue": "Abu Nadrah also uses 'an transmission term",
+      "impact": "Minimal impact as Abu Nadrah is consistently graded as thiqah and is not known for problematic tadlis"
+    },
+    {
+      "issue": "Hammad ibn Salamah experienced ikhtilat in later life",
+      "impact": "Would need to verify which student narrated from him - if through early reliable students like 'Affan, this is not a concern; if through later students, requires additional scrutiny. Without this information, we treat with caution."
+    }
+  ],
+  "IISGrade": "Acceptable",
+  "IISGradeJustification": "The chain contains reliable narrators (all thiqah or companion), but has multiple instances of the ambiguous transmission term 'an without explicit hearing terms. Hammad ibn Salamah's ikhtilat issue requires verification of the transmission path. Despite these concerns, all narrators are fundamentally reliable, and the issues are relatively minor, warranting an 'Acceptable' grade rather than 'Sound' or 'Perfect'.",
+  "Topics": [
+    "Laylat al-Qadr (Night of Decree)",
+    "Seeking Laylat al-Qadr in the last ten nights of Ramadan",
+    "Timing guidance for worship in Ramadan"
+  ],
+  "collection": "كتاب رقم 52",
+  "reference_number": 2291,
+  "note": "This hadith provides guidance on when to seek Laylat al-Qadr specifically in the last seven, five, or three nights of Ramadan."
+}

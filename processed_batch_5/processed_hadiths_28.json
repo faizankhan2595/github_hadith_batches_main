@@ -1,0 +1,610 @@
+{
+  "batch_number": 5,
+  "file_number": 28,
+  "processed_count": 12,
+  "skipped_count": 3,
+  "hadiths": [
+    {
+      "hadith_id": 36406,
+      "book_id": 52,
+      "hadith_number": 2456,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَا جَلَسَ قَوْمٌ مَجْلِسًا لا يَذْكُرُونَ اللَّهَ فِيهِ وَيُصَلُّونَ عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلا كَانَ عَلَيْهِمْ تِرَةً \" /27 * \r\n$2419  2420 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2456,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36407,
+      "book_id": 52,
+      "hadith_number": 2457,
+      "english_translation": "Narrated by : قال رسول الله صلى الله عليه وسلم لأزواجه في حجة الوداع : \" إنما هي هذه ، ثم ظهور الحصر \" ، @ 4 : 74 @ قال : فكن كلهن يسافرن ، إلا زينب وسودة ، قالتا : لا تحركنا دابة بعدما سمعنا من رسول الله صلى الله عليه وسلم * $2420 2421 وبإسناده عن أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            },
+            {
+              "name": ": قال رسول الله صلى الله عليه وسلم لأزواجه في حجة الوداع : \" إنما هي هذه ، ثم ظهور الحصر \" ، @ 4 : 74 @ قال : فكن كلهن يسافرن ، إلا زينب وسودة ، قالتا : لا تحركنا دابة بعدما سمعنا من رسول الله صلى الله عليه وسلم * $2420 2421 وبإسناده عن أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> : قال رسول الله صلى الله عليه وسلم لأزواجه في حجة الوداع : \" إنما هي هذه ، ثم ظهور الحصر \" ، @ 4 : 74 @ قال : فكن كلهن يسافرن ، إلا زينب وسودة ، قالتا : لا تحركنا دابة بعدما سمعنا من رسول الله صلى الله عليه وسلم * $2420 2421 وبإسناده عن أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 2 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لأَزْوَاجِهِ فِي حَجَّةِ الْوَدَاعِ : \" /20 إِنَّمَا هِيَ هَذِهِ ، ثُمَّ ظُهُورُ الْحُصُرِ \" /27 ،    @ 4 : 74 @   قَالَ : فَكُنَّ كُلُّهُنَّ يُسَافِرْنَ ، إِلا زَيْنَبَ وَسَوْدَةَ ، قَالَتَا : لا تُحَرِّكُنَا دَابَّةٌ بَعْدَمَا سَمِعْنَا مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ * \r\n$2420  2421 /2 /143 /34 وَبِإِسْنَادِهِ /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : \" كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 شَبْحَ الذِّرَاعَيْنِ ، بَعِيدَ مَا بَيْنَ الْمَنْكِبَيْنِ ، هَدِبَ الأَشْفَارِ ، أَشْفَارِ الْعَيْنِ ، لَمْ يَكُنْ سَخَّابًا فِي الأَسْوَاقِ ، وَلَمْ يَكُنْ فَاحِشًا وَلا مُتَفَحِّشًا ، كَانَ يُقْبِلُ جَمِيعًا وَيُدْبِرُ جَمِيعًا \" /27 * \r\n@ 4 : 75 @ \r\n$2421  2422 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2457,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36408,
+      "book_id": 52,
+      "hadith_number": 2458,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنْ غَسَّلَ مَيِّتًا فَلْيَغْتَسِلْ ، وَمَنْ حَمَلَ جِنَازَةً فَلْيَتَوَضَّأْ \" /27 * \r\n@ 4 : 76 @\u001cE602",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2458,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36410,
+      "book_id": 52,
+      "hadith_number": 2460,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": ": حدثنا سعيد بن أبي سعيد المقبري",
+              "full_name": "سعيد بن أبي سعيد كيسان المقبري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3280
+            },
+            {
+              "name": "أبيه",
+              "full_name": "أبيه (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 6624
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ": حدثنا سعيد بن أبي سعيد المقبري -> أبيه -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : حدثنا سعيد بن أبي سعيد المقبري",
+          "impact": "Minor concern. : حدثنا سعيد بن أبي سعيد المقبري has reliability grade 'Thiqah' and generation 'Third Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from أبيه",
+          "impact": "Minor concern. أبيه has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: أبيه",
+      "topics": [
+        "Sneezing and Yawning Etiquette"
+      ],
+      "arabicText": "حَدَّثَنَا /94 ابْنُ أَبِي ذِئْبٍ L7063 /94 ، قَالَ : حَدَّثَنَا /26 سَعِيدُ بْنُ أَبِي سَعِيدٍ الْمَقْبُرِيُّ L3280 /26 ، عَنْ /26 أَبِيهِ L6624 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ /20 اللَّهَ عَزَّ وَجَلَّ يُحِبُّ الْعُطَاسَ ،    @ 4 : 77 @   وَيَكْرَهُ التَّثَاؤُبَ ، فَإِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلْ : الْحَمْدُ لِلَّهِ حَقًّا عَلَى مَنْ سَمِعَهُ ، أَنْ يَقُولَ : يَرْحَمُكَ اللَّهُ ، وَإِذَا تَثَاءَبَ ضَحِكَ الشَّيْطَانُ ، وَلْيُخْفِهِ مَا اسْتَطَاعَ \" /27 * \r\n@ 4 : 78 @ \r\n$2423  2424 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2460,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3280,
+        6624,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36411,
+      "book_id": 52,
+      "hadith_number": 2461,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "Women"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" يَا نِسَاءَ الْمُؤْمِنَاتِ ، /20 لا تَحْقِرَنَّ جَارَةٌ لِجَارَتِهَا ، وَلَوْ بِفِرْسِنِ شَاةٍ \" /27 * \r\n$2424  2425 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2461,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36412,
+      "book_id": 52,
+      "hadith_number": 2462,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": ": حدثنا سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3280
+            },
+            {
+              "name": "أبيه",
+              "full_name": "أبيه (requires research)",
+              "grade": "Requires Research",
+              "generation": "Requires Research",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 6624
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ": حدثنا سعيد -> أبيه -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'قَالَ' from : حدثنا سعيد",
+          "impact": "Minor concern. : حدثنا سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from أبيه",
+          "impact": "Minor concern. أبيه has reliability grade 'Requires Research' and generation 'Requires Research'. This is acceptable as they are not known as a problematic mudallis."
+        },
+        {
+          "issue": "Chain contains narrator(s) requiring research in classical sources",
+          "impact": "These narrators need verification in Tahdhib al-Tahdhib, Taqrib al-Tahdhib, and other classical sources"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "IISGrade_reasoning": "Chain contains 1 narrator(s) requiring research: أبيه",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 ابْنُ أَبِي ذِئْبٍ L7063 /94 ، قَالَ : حَدَّثَنَا /26 سَعِيدٌ L3280 /26 ، عَنْ /26 أَبِيهِ L6624 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لا يَحِلُّ لامْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ تُسَافِرُ يَوْمًا ، إِلا وَمَعَهَا ذُو مَحْرَمٍ \" /27 * \r\n@ 4 : 79 @    @ 4 : 80 @",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2462,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3280,
+        6624,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36414,
+      "book_id": 52,
+      "hadith_number": 2464,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سعيد بن أبي سعيد",
+              "full_name": "سعيد بن أبي سعيد كيسان المقبري المدني",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3280
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سعيد بن أبي سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد بن أبي سعيد",
+          "impact": "Minor concern. سعيد بن أبي سعيد has reliability grade 'Thiqah' and generation 'Third Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 2 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 ابْنُ أَبِي ذِئْبٍ L7063 /94 ، عَنْ /26 سَعِيدِ بْنِ أَبِي سَعِيدٍ L3280 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 السَّبْعُ الْمَثَانِي هِيَ فَاتِحَةُ الْكِتَابِ \" /27 * \r\n@ 4 : 81 @ \r\n$2426  2427 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2464,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3280,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36415,
+      "book_id": 52,
+      "hadith_number": 2465,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، \" أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 صَلَّى رَكْعَتَيْنِ ، ثُمَّ سَلَّمَ ، فَقِيلَ : يَا رَسُولَ اللَّهِ ، أَقُصِرَتِ الصَّلاةُ أَمْ نَسِيتَ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : لَمْ تُقْصَرِ وَلَمْ أَنَسَ ، فَقَالَ الْقَوْمُ : بَلَى يَا رَسُولَ اللَّهِ ، فَرَجَعَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَصَلَّى رَكْعَتَيْنِ ، ثُمَّ سَجَدَ سَجْدَتَيْنِ \" /27 * \r\n\u001cE603 @ 4 : 82 @ \r\n$2427  2428 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2465,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36416,
+      "book_id": 52,
+      "hadith_number": 2466,
+      "english_translation": "Narrated by : قال أبو هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": ": قال أبو هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ": قال أبو هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ قَالَ : /27 قَالَ /93 أَبُو هُرَيْرَةَ L4396 /93 أَنَا وَاللَّهِ أَعْلَمُكُمْ بِصَلاةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /20 إِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ قَالَ : اللَّهُمَّ رَبَّنَا لَكَ الْحَمْدُ ، وَكَانَ يُكَبِّرُ بَيْنَ السَّجْدَتَيْنِ وَإِذَا رَفَعَ وَإِذَا خَفَضَ \" /27 * \r\n$2428  2429 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2466,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36417,
+      "book_id": 52,
+      "hadith_number": 2467,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنْ كَانَتْ عِنْدَهُ مَظْلَمَةٌ لأَخِيهِ مِنْ عِرْضِهِ ، أَوْ مَالِهِ فَلْيُؤَدِّهَا إِلَيْهِ قَبْلَ    @ 4 : 83 @   أَنْ يَأْتِيَ إِلَيْهِ يَوْمُ الْقِيَامَةِ ، لا يُقْبَلُ فِيهِ دِينَارٌ وَلا دِرْهَمٌ ، إِنْ كَانَ لَهُ عَمَلٌ صَالِحٌ أُخِذَ مِنْهُ وَأُعْطِيَ صَاحِبُهُ ، وَإِنْ لَمْ يَكُنْ لَهُ عَمَلٌ صَالِحٌ أُخِذَ مِنْ سَيِّئَاتِ صَاحِبِهِ فَحُمِلَتْ عَلَيْهِ \" /27 * \r\n$2429  2430 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2467,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36418,
+      "book_id": 52,
+      "hadith_number": 2468,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 1 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "/34 وَبِإِسْنَادِهِ /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَا مِنْكُمْ أَحَدٌ يُنَجِّيهِ عَمَلُهُ \" ، قَالُوا : وَلا أَنْتَ يَا رَسُولَ اللَّهِ ؟ قَالَ :    @ 4 : 84 @   \" وَلا أَنَا ، إِلا أَنْ يَتَغَمَّدَنِيَ اللَّهُ مِنْهُ بِرَحْمَةٍ ، سَدِّدُوا وَقَارِبُوا ، أَوْ قَرِّبُوا ، وَرُوحُوا وَاغْدُوا ، وَحَظٌّ مِنَ الدُّلْجَةِ ، وَالْقَصْدَ الْقَصْدَ تَبْلُغُوا \" /27 * \r\n$2430  2431 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2468,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36420,
+      "book_id": 52,
+      "hadith_number": 2470,
+      "english_translation": "Narrated by أبي هريرة: [Professional Arabic translation required - see Arabic text for full meaning]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سعيد",
+              "full_name": "سعيد بن المسيب بن حزن القرشي المخزومي المدني",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 3280
+            },
+            {
+              "name": "أبي هريرة",
+              "full_name": "عبد الرحمن بن صخر الدوسي اليماني",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "transmissionType": "ambiguous",
+              "reliabilityIssues": [],
+              "narrator_id": 4396
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سعيد -> أبي هريرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Use of ambiguous transmission term 'عَنْ' from سعيد",
+          "impact": "Minor concern. سعيد has reliability grade 'Thiqah Thabt' and generation 'Second Generation'. This is acceptable as they are not known as a problematic mudallis."
+        }
+      ],
+      "IISGrade": "Sound",
+      "IISGrade_reasoning": "All narrators are highly reliable, but 2 use ambiguous transmission term(s) (عَنْ). None are known problematic mudallis.",
+      "topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا /94 أَبُو مَعْشَرٍ L7877 /94 ، عَنْ /26 سَعِيدٍ L3280 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لَوْلا مَا فِي الْبُيُوتِ مِنَ النِّسَاءِ وَالصِّبْيَانِ لأَمَرْتُ مَنْ يُنَادِي بِالصَّلاةِ ، يَعْنِي : صَلاةَ الْعِشَاءِ الآخِرَةِ ، ثُمَّ أُحَرِّقُ عَلَى قَوْمٍ يَتَخَلَّفُونَ عَنِ الصَّلاةِ ، يَعْنِي صَلاةَ الْعِشَاءِ الآخِرَةِ ، فِي بُيُوتِهِمْ \" /27 * \r\n\u001dE604 @ 4 : 86 @ \r\n$2432  2433 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2470,
+      "original_grade": null,
+      "narrators_in_isnad_ids": [
+        3280,
+        4396
+      ]
+    }
+  ],
+  "processing_notes": [
+    "Narrator names extracted directly from Arabic text (text_ar field)",
+    "Narrators marked 'Requires Research' need verification in classical hadith sources",
+    "English translations are placeholders requiring professional Arabic translation",
+    "Topics extracted via keyword matching",
+    "IISGrade follows Isnad Integrity Scale per CLAUDE.md specifications",
+    "Tadlis analysis performed: reliable mudallis narrators using 'an are noted but generally accepted",
+    "Data quality issue: Original narrator_ids database has incorrect mappings"
+  ]
+}

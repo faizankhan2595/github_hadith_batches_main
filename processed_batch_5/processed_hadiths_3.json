@@ -1,0 +1,446 @@
+{
+  "batch_number": 5,
+  "file_number": 3,
+  "record_count": 8,
+  "hadiths": [
+    {
+      "hadith_id": 36032,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "زَاذَانَ",
+              "full_name": "زَاذَانَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "زَاذَانَ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "زَاذَانَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Forbidden Prayer Times",
+        "Incident about Dragging Garment",
+        "Containers for Nabidh"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، قَالَ : أَخْبَرَنِي عَمْرُو بْنُ مُرَّةَ ، قَالَ : سَمِعْتُ زَاذَانَ ، يَقُولُ : قُلْتُ لابْنِ عُمَرَ أَخْبِرْنَا مَا نَهَى عَنْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الأَوْعِيَةِ ، أَخْبِرْنَا بِلُغَتِكُمُ وَفَسِّرْهُ لَنَا بِلُغَتِنَا ، قَالَ : \" نَهَى عَنِ الْحَنْتَمِ ، وَهِيَ الْجَرَّةُ ، وَنَهَى عَنِ الْمُزَفَّتِ ، وَهُوَ الْمُقَيَّرُ ، وَنَهَى عَنِ الدُّبَّاءِ ، وَهُوَ الْقَرْعُ ، وَنَهَى عَنِ النَّقِيرِ ، وَهِيَ أَصْلُ النَّخْلَةِ تُنْقَرُ نَقْرًا ، وَتُنْسَحُ نَسْحًا ، وَأَمَرَ أَنْ يُنْتَبَذَ فِي الأَسْقِيَةِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2082,
+      "grade": null
+    },
+    {
+      "hadith_id": 36034,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "أَبِي",
+              "full_name": "أَبِي",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "رَجُلا",
+              "full_name": "رَجُلا",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي → رَجُلا → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أَبِي is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "رَجُلا is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Forbidden Prayer Times",
+        "Salam Transaction in Palm Trees",
+        "Mixing Dates and Raisins",
+        "Hadd Punishment for Intoxication",
+        "Aslam and Ghifar Tribes"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ أَبِي إِسْحَاقَ ، قَالَ : سَمِعْتُ رَجُلا مِنْ أَهْلِ نَجْرَانَ ، يَقُولُ : قُلْتُ لابْنِ عُمَرَ : إِنَّمَا أَسْأَلُكَ عَنِ اثْنَتَيْنِ : عَنِ السَّلَمِ فِي النَّخْلِ ، وَعَنِ الزَّبِيبِ وَالتَّمْرِ ، فَقَالَ : \" أَمَّا السَّلَمُ فِي النَّخْلِ فَإِنَّ رَجُلا أَسْلَمَ فِي نَخْلٍ لِرَجُلٍ ، فَلَمْ يَحْمِلْ ذَلِكَ الْعَامَ ، فَذُكِرَ ذَلِكَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : بِمَ يَأْكُلُ مَالَهُ ؟ فَأَمَرَهُ فَرَدَّهُ عَلَيْهِ ، ثُمَّ نَهَى عَنِ السَّلَمِ فِي النَّخْلِ حَتَّى يَبْدُوَ صَلاحُهُ ، وَأَمَّا الزَّبِيبُ وَالتَّمْرُ فَإِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أُتِيَ بِرَجُلٍ سَكْرَانَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، إِنِّي لَمْ أَشْرَبْ خَمْرًا ، إِنَّمَا شَرِبْتُ زَبِيبًا وَتَمْرًا ، فَأَمَرَ بِهِ ، فَضُرِبَ الْحَدَّ ، وَنَهَى عَنْهُمَا أَنْ يُخْلَطَا \" * %E518",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2084,
+      "grade": null
+    },
+    {
+      "hadith_id": 36036,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عَبْدِ",
+              "full_name": "عَبْدِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سَعِيدِ",
+              "full_name": "سَعِيدِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عَبْدِ → سَعِيدِ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عَبْدِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "سَعِيدِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ عَبْدِ الْخَالِقِ الشَّيْبَانِيِّ ، عَنْ سَعِيدِ بْنِ الْمُسَيِّبِ ، عَنِ ابْنِ عُمَرَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ \" يُنْبَذُ لَهُ فِي السِّقَاءِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2086,
+      "grade": null
+    },
+    {
+      "hadith_id": 36038,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قَتَادَةَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "يُونُسَ",
+              "full_name": "يُونُسَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "قَتَادَةَ → يُونُسَ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قَتَادَةَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "يُونُسَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Divorce During Menstruation"
+      ],
+      "arabicText": "حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ ، وَهِشَامٌ ، وَشُعْبَةُ ، عَنْ قَتَادَةَ ، عَنْ يُونُسَ بْنِ جُبَيْرٍ ، قَالَ : سَأَلْتُ ابْنَ عُمَرَ عَنْ رَجُلٍ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ ، فَقَالَ : تَعْرِفُ \" ابْنَ عُمَرَ ، فَإِنَّهُ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ ، فَذَكَرَ عُمَرُ ذَلِكَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : لِيُرَاجِعْهَا \" ، قَالَ حَمَّادٌ فِي حَدِيثِهِ : عَنْ قَتَادَةَ ، عَنْ يُونُسَ بْنِ جُبَيْرٍ ، قَالَ : قُلْتُ لابْنِ عُمَرَ : فَحُسِبَتْ عَلَيْكَ بِتَطْلِيقَةٍ ؟ قَالَ : نَعَمْ ، أَرَأَيْتَ إِنْ عَجَزَ ابْنُ عُمَرَ وَاسْتَحْمَقَ لا يُعَدُّ طَلاقًا *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2088,
+      "grade": null
+    },
+    {
+      "hadith_id": 36040,
+      "book_id": 52,
+      "english_translation": "Narrated: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عَطَاءِ",
+              "full_name": "عَطَاءِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "كَثِيرِ",
+              "full_name": "كَثِيرِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "ذَلِكَ",
+              "full_name": "ذَلِكَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عَطَاءِ → كَثِيرِ → ذَلِكَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عَطَاءِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "كَثِيرِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "ذَلِكَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Walking Between Safa and Marwa"
+      ],
+      "arabicText": "حَدَّثَنَا سُفْيَانُ الثَّوْرِيُّ ، عَنْ عَطَاءِ بْنِ السَّائِبِ ، عَنْ كَثِيرِ بْنِ جُمْهَانَ ، قَالَ : رَأَيْتُ ابْنَ عُمَرَ يَمْشِي فِي الْمَسْعَى بَيْنَ الصَّفَا وَالْمَرْوَةِ ، فَسَأَلْتُهُ عَنْ ذَلِكَ ، فَقَالَ : إِنْ أَمْشِ ، فَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يَمْشِي ، وَإِنْ أَسْعَ ، فَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْعَى \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2090,
+      "grade": null
+    },
+    {
+      "hadith_id": 36042,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "جَابِرٍ",
+              "full_name": "جَابِرٍ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قَوْلِ",
+              "full_name": "قَوْلِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "جَابِرٍ → قَوْلِ → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "جَابِرٍ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "قَوْلِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Divorce During Menstruation"
+      ],
+      "arabicText": "حَدَّثَنَا شَيْبَانُ ، عَنْ جَابِرٍ ، قَالَ : سَأَلْتُ الشَّعْبِيَّ عَنْ رَجُلٍ طَلَّقَ امْرَأَتَهُ وَهِيَ حَائِضٌ ، فَقَالَ : \" تَعْتَدُّ بِالتَّطْلِيقَةِ ، وَلا تَعْتَدُّ بِالْحَيْضَةِ \" ، أَقُولُهُ عَنْ قَوْلِ ابْنِ عُمَرَ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2092,
+      "grade": null
+    },
+    {
+      "hadith_id": 36043,
+      "book_id": 52,
+      "english_translation": "Narrated: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "تَوْبَةَ",
+              "full_name": "تَوْبَةَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "رَسُولِ",
+              "full_name": "رَسُولِ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "تَوْبَةَ → رَسُولِ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "تَوْبَةَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "رَسُولِ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Wife's Rights and Obligations",
+        "Incident of Questioning Eating Lizard"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ تَوْبَةَ الْعَنْبَرِيِّ ، قَالَ : قَالَ لِيَ الشَّعْبِيُّ : الْحُسْنُ حَيْثُ يُحَدِّثُ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ؟ وَاللَّهِ لَقَدْ جَالَسْتُ ابْنَ عُمَرَ بِالْمَدِينَةِ كَذَا وَكَذَا مَا سَمِعْتُهُ يُحَدِّثُ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلا حَدِيثًا وَاحِدًا ، فَإِنَّهُ قَالَ : \" كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي نَاسٍ مِنْ أَصْحَابِهِ ، فَأُتُوا بِلَحْمٍ ، فَقَالَتِ امْرَأَةٌ مِنْ أَزْوَاجِهِ : أَمْسِكُوا ، فَإِنَّهُ ضَبٌّ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : كُلُوهُ فَإِنَّهُ حَلالٌ ، أَوْ قَالَ : كُلُوا فَإِنَّهُ لا بَأْسَ بِهِ \" * 'E519",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2093,
+      "grade": null
+    },
+    {
+      "hadith_id": 36045,
+      "book_id": 52,
+      "english_translation": "Narrated by Ibn Umar: [Full translation requires expert Arabic-English translation]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "تَوْبَةَ",
+              "full_name": "تَوْبَةَ",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "مُوَرِّقًا",
+              "full_name": "مُوَرِّقًا",
+              "grade": "Majhul",
+              "generation": "Unknown Generation",
+              "reliabilityIssues": [
+                "unknown_narrator"
+              ],
+              "transmissionTerm": "سَمِعْتُ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "تَوْبَةَ → مُوَرِّقًا → ابن عمر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "تَوْبَةَ is unknown",
+          "impact": "Unknown narrator weakens chain"
+        },
+        {
+          "issue": "مُوَرِّقًا is unknown",
+          "impact": "Unknown narrator weakens chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "General Hadith"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ تَوْبَةَ الْعَنْبَرِيِّ ، قَالَ : سَمِعْتُ مُوَرِّقًا الْعِجْلِيَّ ، قَالَ : قَالَ رَجُلٌ لابْنِ عُمَرَ : أَخْبِرْنِي عَنْ \" صَلاةِ الضُّحَى أَتُصَلِّيهَا ؟ قَالَ : لا ، قَالَ : فَصَلاهَا عُمَرُ ؟ قَالَ : لا ، قَالَ : فَصَلاهَا أَبُو بَكْرٍ ؟ قَالَ : لا ، قَالَ : فَصَلاهَا النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ؟ قَالَ : لا إِخَالُ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2095,
+      "grade": null
+    }
+  ]
+}

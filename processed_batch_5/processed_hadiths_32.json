@@ -1,0 +1,759 @@
+{
+  "batch_number": 5,
+  "file_number": 32,
+  "total_processed": 15,
+  "hadiths": [
+    {
+      "hadith_id": 36466,
+      "book_id": 52,
+      "hadith_number": 2516,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "شبل بن عباد",
+              "full_name": "شبل بن عباد",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "محمد بن سليمان بن محمد بن سليمان بن هارون بن عيسى بن إبراهيم بن بشر",
+              "full_name": "محمد بن سليمان بن محمد بن سليمان بن هارون بن عيسى بن إبراهيم بن بشر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "شبل بن عباد -> محمد بن سليمان بن محمد بن سليمان بن هارون بن عيسى بن إبراهيم بن بشر -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" لا تُفَضِّلُوا بَيْنَ أَنْبِيَاءِ اللَّهِ \" ، أَوْ \" بَيْنَ الأَنْبِيَاءِ صَلَّى اللَّهُ عَلَيْهِمْ وَسَلَّمَ \" * E615",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2516,
+      "narrator_ids": [
+        4577,
+        21586,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36467,
+      "book_id": 52,
+      "hadith_number": 2517,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        " -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain information is incomplete or missing",
+          "impact": "Cannot fully assess reliability without complete chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "مَا رَوَى عَجْلانُ ، عَنْ أَبِي هُرَيْرَةَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2517,
+      "narrator_ids": []
+    },
+    {
+      "hadith_id": 36468,
+      "book_id": 52,
+      "hadith_number": 2518,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عبد الله بن حبيب بن قيس بن دينار",
+              "full_name": "عبد الله بن حبيب بن قيس بن دينار",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> عبد الله بن حبيب بن قيس بن دينار -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ عَجْلانَ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لا تُسَابَّ وَأَنْتَ صَائِمٌ ، وَإِنْ كُنْتَ قَائِمًا فَاجْلِسْ ، فَوَالَّذِي نَفْسِي بِيَدِهِ ، لَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ عَزَّ وَجَلَّ مِنْ رِيحِ الْمِسْكِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2518,
+      "narrator_ids": [
+        7063,
+        5568,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36469,
+      "book_id": 52,
+      "hadith_number": 2519,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عبد الله بن حبيب بن قيس بن دينار",
+              "full_name": "عبد الله بن حبيب بن قيس بن دينار",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> عبد الله بن حبيب بن قيس بن دينار -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ عَجْلانَ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" أَبْصَرَ رَجُلا يَسُوقُ بَدَنَةً ، فَقَالَ : ارْكَبْهَا \" ، فَقَالَ : يَا رَسُولَ اللَّهِ إِنَّهَا بَدَنَةٌ ، فَقَالَ : \" ارْكَبْهَا ، وَيْحَكَ ! \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2519,
+      "narrator_ids": [
+        7063,
+        5568,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36470,
+      "book_id": 52,
+      "hadith_number": 2520,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عبد الله بن حبيب بن قيس بن دينار",
+              "full_name": "عبد الله بن حبيب بن قيس بن دينار",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> عبد الله بن حبيب بن قيس بن دينار -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ عَجْلانَ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الْمَمْلُوكُ أَخُوكَ ، فَإِذَا صَنَعَ لَكَ طَعَامًا فَأَجْلِسْهُ مَعَكَ ، فَإِنْ أَبِي فَأَطْعِمْهُ ، وَلا تَضْرِبُوا وُجُوهَهُمْ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2520,
+      "narrator_ids": [
+        7063,
+        5568,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36471,
+      "book_id": 52,
+      "hadith_number": 2521,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        " -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain information is incomplete or missing",
+          "impact": "Cannot fully assess reliability without complete chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "أَبُو الْوَلِيدِ ، عَنْ أَبِي هُرَيْرَةَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2521,
+      "narrator_ids": []
+    },
+    {
+      "hadith_id": 36472,
+      "book_id": 52,
+      "hadith_number": 2522,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، قَالَ : أَخْبَرَنِي أَبُو الْوَلِيدِ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِذَا أَمَمْتُمُ النَّاسَ فَأَخِفُّوا ، فَإِنَّ فِيهِمُ الصَّغِيرَ وَالْكَبِيرَ وَالضَّعِيفَ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2522,
+      "narrator_ids": [
+        7063,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36473,
+      "book_id": 52,
+      "hadith_number": 2523,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ أَبِي الْوَلِيدِ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لَيْسَ الْمِسْكِينُ الَّذِي تَرُدُّهُ اللُّقْمَةُ وَاللُّقْمَتَانِ ، وَلَكِنَّ الْمِسْكِينَ الْمُتَعَفِّفُ الَّذِي لا يَسْأَلُ النَّاسَ إِلْحَافًا \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2523,
+      "narrator_ids": [
+        7063,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36474,
+      "book_id": 52,
+      "hadith_number": 2524,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ أَبُو الْوَلِيدِ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَا يَسُرُّنِي أَنَّ لِيَ أُحُدًا ذَهَبًا ، أَمُوتُ يَوْمَ أَمُوتُ وَعِنْدِي مِنْهُ دِينَارٌ ، إِلا أَنْ أَرْصُدَهُ لِغَرِيمٍ \" * E616",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2524,
+      "narrator_ids": [
+        7063,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36475,
+      "book_id": 52,
+      "hadith_number": 2525,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        " -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain information is incomplete or missing",
+          "impact": "Cannot fully assess reliability without complete chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "وَمَا رَوَى سَعِيدُ بْنُ سَمْعَانَ ، عَنْ أَبِي هُرَيْرَةَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2525,
+      "narrator_ids": []
+    },
+    {
+      "hadith_id": 36476,
+      "book_id": 52,
+      "hadith_number": 2526,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "حماد بن إسماعيل بن إبراهيم بن مقسم",
+              "full_name": "حماد بن إسماعيل بن إبراهيم بن مقسم",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> حماد بن إسماعيل بن إبراهيم بن مقسم -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، قَالَ : أَخْبَرَنِي سَعِيدُ بْنُ سَمْعَانَ مَوْلَى الْمُشْمَعِلِّ ، قَالَ : سَمِعْتُ أَبَا هُرَيْرَةَ ، يُحَدِّثُ أَبَا قَتَادَةَ وَهُوَ يَطُوفُ بِالْبَيْتِ ، فَقَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" يُبَايَعُ لِرَجُلٍ بَيْنَ الرُّكْنِ وَالْمَقَامِ ، وَأَوَّلُ مَنْ يَسْتَحِلُّ هَذَا الْبَيْتَ أَهْلُهُ ، فَإِذَا اسْتَحَلُّوهُ فَلا تَسْأَلْ عَنْ هَلَكَةِ الْعَرَبِ ، ثُمَّ يَجِيءُ الْحَبَشَةُ فَيُخَرِّبُونَهُ خَرَابًا لا يَعْمُرُ بَعْدَهُ ، وَهُمُ الَّذِينَ يَسْتَخْرِجُونَ كَنْزَهُ \" * حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنْ سَعِيدِ بْنِ سَمْعَانَ ، قَالَ : دَخَلَ عَلَيْنَا أَبُو هُرَيْرَةَ مَسْجِدَ الزُّرَقِيِّينَ ، فَقَالَ : \" تَرَكَ النَّاسُ ثَلاثَةً مِمَّا كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَفْعَلُ : كَانَ إِذَا دَخَلَ الصَّلاةَ رَفَعَ يَدَيْهِ مَدًّا ثُمَّ سَكَتَ هُنَيَّةً يَسْأَلُ اللَّهَ عَزَّ وَجَلَّ مِنْ فَضْلِهِ ، وَكَانَ يُكَبِّرُ إِذَا خَفَضَ وَرَفَعَ وَإِذَا رَكَعَ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2526,
+      "narrator_ids": [
+        7063,
+        3342,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36477,
+      "book_id": 52,
+      "hadith_number": 2527,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        " -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain information is incomplete or missing",
+          "impact": "Cannot fully assess reliability without complete chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "نَافِعُ بْنُ أَبِي نَافِعٍ ، عَنْ أَبِي هُرَيْرَةَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2527,
+      "narrator_ids": []
+    },
+    {
+      "hadith_id": 36478,
+      "book_id": 52,
+      "hadith_number": 2528,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "محمد بن عبد الله بن أبي يعقوب",
+              "full_name": "محمد بن عبد الله بن أبي يعقوب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> محمد بن عبد الله بن أبي يعقوب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، قَالَ : أَنْبَأَنَا نَافِعُ بْنُ أَبِي نَافِعٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" لا سَبَقَ إِلا فِي خُفٍّ ، أَوْ حَافِرٍ ، أَوْ نَصْلٍ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2528,
+      "narrator_ids": [
+        7063,
+        7844,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36479,
+      "book_id": 52,
+      "hadith_number": 2529,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        " -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain information is incomplete or missing",
+          "impact": "Cannot fully assess reliability without complete chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "عُمَرُ بْنُ خَلْدَةَ ، عَنْ أَبِي هُرَيْرَةَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2529,
+      "narrator_ids": []
+    },
+    {
+      "hadith_id": 36480,
+      "book_id": 52,
+      "hadith_number": 2530,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عبد الله بن يحيى",
+              "full_name": "عبد الله بن يحيى",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> عبد الله بن يحيى -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، قَالَ : حَدَّثَنِي أَبُو الْمُعْتَمِرِ ، عَنْ عُمَرَ بْنِ خَلْدَةَ ، قَالَ : أَتَيْنَا أَبَا هُرَيْرَةَ فِي صَاحِبٍ لَنَا أُصِيبَ ، يَعْنِي أَفْلَسَ ، فَأَصَابَ رَجُلٌ مَتَاعَهُ بِعَيْنِهِ ، قَالَ أَبُو هُرَيْرَةَ : هَذَا الَّذِي قَضَى فِيهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَنَّ : \" مَنْ أَفْلَسَ أَوْ مَاتَ فَأَدْرَكَ رَجُلٌ مَتَاعَهُ بِعَيْنِهِ فَهُوَ أَحَقُّ بِهِ ، إِلا أَنْ يَدَعَ الرَّجُلُ وَفَاءً \" * $E617",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2530,
+      "narrator_ids": [
+        7063,
+        5942,
+        4396
+      ]
+    }
+  ]
+}

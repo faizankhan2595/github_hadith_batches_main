@@ -1,0 +1,698 @@
+{
+  "batch_number": 5,
+  "file_number": 40,
+  "record_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 36586,
+      "book_id": 52,
+      "hadith_number": 2636,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah ibn Dinar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu al-Zubayr",
+              "full_name": "Muhammad ibn Muslim ibn Tadrus al-Asadi al-Makki",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            },
+            {
+              "name": "عبد الرحمن بن هضاض",
+              "full_name": "عبد الرحمن بن هضاض",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "عبد الرحمن بن هضاض is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Hammad -> Abu al-Zubayr -> عبد الرحمن بن هضاض -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu al-Zubayr is mudallis (category 3) using ambiguous term 'عَنْ'",
+          "impact": "Requires explicit transmission term for acceptance"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Ma'iz ibn Malik's confession",
+        "Hudud punishment application",
+        "Backbiting prohibition",
+        "Paradise description"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادٌ L2492 /94 ، عَنْ /26 أَبِي الزُّبَيْرِ L7270 /26 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ هَضَّاضٍ L4307 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : \" جَاءَ مَاعِزُ بْنُ مَالِكٍ إِلَى هَزَّالٍ ، فَقَالَ : /20 إِنَّ الآخِرَ زَنَا ، قَالَ : فَأْتِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَخْبِرْهُ قَبْلَ أَنْ يَنْزِلَ فِيكَ قُرْآنٌ ، قَالَ : فَأَتَاهُ ، فَأَخْبَرَهُ حَتَّى شَهِدَ أَرْبَعًا ، فَأَمَرَ بِرَجْمِهِ فَرُجِمَ ، فَأَتَى عَلَيْهِ رَجُلانِ ، فَقَالا : يَا حَيْنَ هَذَا ، سَتَرَ اللَّهُ عَلَيْهِ    @ 4 : 219 @   فَلَمْ يَسْتُرْ عَلَى نَفْسِهِ ، فَأُهِيجَ كَمَا يُهَيَّجُ الْكَلْبُ ، فَأَتَيَا النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَإِذَا جِيفَةٌ ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" انْهَسَا مِنْ هَذِهِ الْجِيفَةِ \" ، فَقَالا : يَا رَسُولَ اللَّهِ ، هَذِهِ جِيفَةٌ وَلا نَسْتَطِيعُهَا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَا أَصَبْتُمَا مِنْ أَخِيكُمَا أَنْتَنُ مِنْ هَذِهِ ، فَوَالَّذِي نَفْسِي بِيَدِهِ ، لَقَدْ رَأَيْتُهُ يَتَقَمَّصُ فِي نَهَرِ الْجَنَّةِ \" ، وَقَالَ : \" أَلا رَحِمْتَهُ يَا هَزَّالُ \" /27 * \r\n@ 4 : 220 @",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2636,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36588,
+      "book_id": 52,
+      "hadith_number": 2638,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "al-Mas'udi",
+              "full_name": "Abd al-Rahman ibn Abdullah ibn Utbah al-Mas'udi",
+              "grade": "Saduq Sayyi' al-Hifz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "ikhtilat"
+              ]
+            },
+            {
+              "name": "داود بن عبد الله الاودي",
+              "full_name": "داود بن عبد الله الاودي",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابوه",
+              "full_name": "ابوه",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "داود بن عبد الله الاودي is Unknown",
+            "ابوه is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "al-Mas'udi -> داود بن عبد الله الاودي -> ابوه -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "al-Mas'udi experienced ikhtilat (memory confusion)",
+          "impact": "Need verification if narration is from early (reliable) or late (questionable) period"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Causes of entering Hellfire",
+        "Causes of entering Paradise",
+        "Guarding the tongue",
+        "Guarding chastity"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْمَسْعُودِيُّ L4425 /94 ، عَنْ /26 دَاوُدَ بْنِ عَبْدِ اللَّهِ الأَوْدِيِّ L2807 /26 ، عَنْ /26 أَبِيهِ L8444 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قِيلَ : يَا رَسُولَ اللَّهِ ، \" /20 مَا أَكْثَرُ مَا يَلِجُ بِهِ النَّاسُ النَّارَ ؟ قَالَ : الأَجَوَفَانِ : الْفَرْجُ وَالْفَمُ \" ، قِيلَ : فَمَا أَكْثَرُ مَا يَلِجُ بِهِ النَّاسُ الْجَنَّةَ ؟ قَالَ : \" تَقْوَى اللَّهِ ، وَحُسْنُ الْخُلُقِ \" /27 * \r\n@ 4 : 221 @",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2638,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36589,
+      "book_id": 52,
+      "hadith_number": 2639,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah ibn Dinar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "علي بن زيد",
+              "full_name": "علي بن زيد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ammar",
+              "full_name": "Ammar ibn Abi Ammar Mawla Bani Hashim",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "علي بن زيد is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Hammad -> علي بن زيد -> Ammar -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "War spoils distribution"
+      ],
+      "arabicText": "$2587  2588 /2 /141 حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 عَلِيِّ بْنِ زَيْدٍ L5770 /26 ، عَنْ /26 عَمَّارِ بْنِ أَبِي عَمَّارٍ L5847 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : \" /20 مَا شَهِدْتُ مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ غَنِيمَةً ، إِلا قَسَمَ لِي مِنْهَا إِلا خَيْبَرَ ، فَإِنَّهَا كَانَتْ لأَهْلِ الْحُدَيْبِيَةِ خَاصَّةً \" /27 ، وَكَانَ أَبُو مُوسَى ، وَأَبُو هُرَيْرَةَ جَاءَا بَيْنَ حُنَيْنٍ وَالْحُدَيْبِيَةِ * \r\n$2588  2589 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2639,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36590,
+      "book_id": 52,
+      "hadith_number": 2640,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah ibn Dinar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ammar",
+              "full_name": "Ammar ibn Abi Ammar Mawla Bani Hashim",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Hammad -> Ammar -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Human nature and nobility"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 عَمَّارٍ L5847 /26 ،   @ 4 : 222 @    /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 النَّاسُ مَعَادِنُ ، فَخِيَارُهُمْ فِي الْجَاهِلِيَّةِ خِيَارُهُمْ فِي الإِسْلامِ إِذَا فَقُهُوا \" /27 * \r\n$2589  2590 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2640,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36591,
+      "book_id": 52,
+      "hadith_number": 2641,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah ibn Dinar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ammar",
+              "full_name": "Ammar ibn Abi Ammar Mawla Bani Hashim",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Hammad -> Ammar -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Virtues of Madinah"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 عَمَّارٍ L5847 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 يَخْرُجُ قَوْمٌ مِنَ الْمَدِينَةِ ، /60 وَالْمَدِينَةُ /60 خَيْرٌ لَهُمْ لَوْ كَانُوا يَعْلَمُونَ \" /27 * \r\n@ 4 : 223 @\u001dE639",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2641,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36592,
+      "book_id": 52,
+      "hadith_number": 2642,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hammam",
+              "full_name": "Hammam ibn Yahya ibn Dinar al-Awdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Qatadah",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis (category 3)"
+              ]
+            },
+            {
+              "name": "Abd al-Malik",
+              "full_name": "Abd al-Malik ibn Umayr al-Lakhmi al-Kufi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Hammam -> Qatadah -> Abd al-Malik -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is mudallis using 'عَنْ' but is generally reliable",
+          "impact": "Minor concern as narrator is trustworthy overall"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Accepting gifts without asking"
+      ],
+      "arabicText": "حَدَّثَنَا /94 هَمَّامٌ L8097 /94 ، عَنْ /26 قَتَادَةَ L6458 /26 ، عَنْ /26 عَبْدِ الْمَلِكِ L41903 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 مَنْ أُعْطِيَ مَالا مِنْ غَيْرِ مَسْأَلَةٍ فَلْيَقْبَلْهُ ، فَإِنَّمَا هُوَ رِزْقٌ رَزَقَهُ اللَّهُ عَزَّ وَجَلَّ \" /27 *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2642,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36594,
+      "book_id": 52,
+      "hadith_number": 2644,
+      "english_translation": "Narrated by Unknown: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن ابو حميد",
+              "full_name": "محمد بن ابو حميد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umayr",
+              "full_name": "Umayr Mawla Bani Adi",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "محمد بن ابو حميد is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن ابو حميد -> Umayr -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Virtues of Surah al-Ikhlas"
+      ],
+      "arabicText": "حَدَّثَنَا /94 مُحَمَّدُ بْنُ أَبِي حُمَيْدٍ L6766 /94 ، عَنْ /26 عُمَيْرٍ L6227 /26 مَوْلَى بَنِي عَدِيٍّ ، /27 سَمِعَ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 أَيَعْجِزُ أَحَدُكُمْ أَنْ يَقْرَأَ ثُلُثَ الْقُرْآنِ قَبْلَ أَنْ يَنَامَ ؟ \" قِيلَ : يَا رَسُولَ اللَّهِ ، وَمَنْ يُطِيقُ ثُلُثَ الْقُرْآنِ قَبْلَ أَنْ يَنَامَ ؟ ! قَالَ : \" يَقْرَأُ :    @ 4 : 224 @   /65 قُلْ هُوَ اللَّهُ أَحَدٌ /65 ، وَ /65 قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ /65 ، وَ /65 قُلْ أَعُوذُ بِرَبِّ النَّاسِ /65 ، فَكَأَنَّمَا قَرَأَ ثُلُثَ الْقُرْآنِ \" /27 *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2644,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36596,
+      "book_id": 52,
+      "hadith_number": 2646,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن ابو حميد",
+              "full_name": "محمد بن ابو حميد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Abdullah al-Qarraz",
+              "full_name": "Abu Abdullah al-Qarraz al-Madani",
+              "grade": "Majhul al-Hal",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "majhul (unknown narrator)"
+              ]
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "محمد بن ابو حميد is Unknown",
+            "Abu Abdullah al-Qarraz is Majhul al-Hal"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن ابو حميد -> Abu Abdullah al-Qarraz -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Signs of hypocrisy",
+        "Congregational prayer importance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 مُحَمَّدُ بْنُ أَبِي حُمَيْدٍ L6766 /94 ، عَنْ /26 أَبِي عَبْدِ اللَّهِ الْقَرَّاظِ L2831 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لا يُحَافِظُ الْمُنَافِقُ أَرْبَعِينَ لَيْلَةً عَلَى صَلاةِ الْعِشَاءِ الآخِرَةِ \" /27 ، يَعْنِي : فِي جَمَاعَةٍ * \r\n@ 4 : 225 @",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2646,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36598,
+      "book_id": 52,
+      "hadith_number": 2648,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن زياد",
+              "full_name": "محمد بن زياد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن زياد القرشي",
+              "full_name": "محمد بن زياد القرشي",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "محمد بن زياد is Unknown",
+            "محمد بن زياد القرشي is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Shu'bah -> محمد بن زياد -> Abu Hurayrah -> Shu'bah -> محمد بن زياد القرشي -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of al-Hasan taking charity dates",
+        "Charity prohibition for Prophet's family"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، /94 وَحَمَّادٌ L2492 /94 ، عَنْ /26 مُحَمَّدِ بْنِ زِيَادٍ L6971 /26 ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ أَبُو الْقَاسِمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 صُومُوا لِرُؤْيَتِهِ ، وَأَفْطِرُوا لِرُؤْيَتِهِ ، فَإِنْ غُمَّ عَلَيْكُمْ فَعُدُّوا ثَلاثِينَ \" /27 * \r\n$2594  2595 /2 /143 حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 مُحَمَّدُ بْنُ زِيَادٍ الْقُرَشِيُّ L6971 /26 ،  @ 4 : 226 @    قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : أَخَذَ الْحَسَنُ بْنُ عَلِيٍّ تَمْرَةً مِنْ تَمْرِ الصَّدَقَةِ فَأَلْقَاهَا فِي فِيهِ ، فَجَعَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" كَخْ كَخْ ، أَلْقِهَا ، أَمَا عَلِمْتَ /20 أَنَّا لا نَأْكُلُ الصَّدَقَةَ ؟ ! \" /27 * \r\n\u001cE640 \r\n$2595  2596 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2648,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36599,
+      "book_id": 52,
+      "hadith_number": 2649,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن زياد",
+              "full_name": "محمد بن زياد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "محمد بن زياد is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Shu'bah -> محمد بن زياد -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Supplications for tribes"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 مُحَمَّدُ بْنُ زِيَادٍ L6971 /26 ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : سَمِعْتُ أَبَا الْقَاسِمِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" /20 غِفَارُ غَفَرَ اللَّهُ لَهَا ، وَأَسْلَمُ سَالَمَهَا اللَّهُ \" /27 * \r\n@ 4 : 227 @ \r\n$2596  2597 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2649,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36600,
+      "book_id": 52,
+      "hadith_number": 2650,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن زياد",
+              "full_name": "محمد بن زياد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن زياد",
+              "full_name": "محمد بن زياد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ربكم تبارك وتعالى",
+              "full_name": "ربكم تبارك وتعالى",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "محمد بن زياد is Unknown",
+            "محمد بن زياد is Unknown",
+            "ربكم تبارك وتعالى is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Shu'bah -> محمد بن زياد -> Abu Hurayrah -> Abu Hurayrah -> Shu'bah -> محمد بن زياد -> Abu Hurayrah -> ربكم تبارك وتعالى -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Virtues of the Ansar",
+        "Prophet's ﷺ love for Ansar"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 مُحَمَّدُ بْنُ زِيَادٍ L6971 /26 ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لَوْ سَلَكَ النَّاسُ وَادِيًا أَوْ شِعْبًا ، وَسَلَكَتِ الأَنْصَارُ شِعْبًا أَوْ وَادِيًا ، سَلَكْتُ شِعْبَ الأَنْصَارِ \" /27 ، قَالَ أَبُو هُرَيْرَةَ : مَا ظَلَمَ بِأَبِي وَأُمِّي ، لَقَدْ وَاسَوْهُ ، وَآوَوْهُ ، وَنَصَرُوهُ * \r\n$2597  2598 /5 حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 مُحَمَّدِ بْنِ زِيَادٍ L6971 /26 ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : قَالَ رَبُّكُمْ تَبَارَكَ وَتَعَالَى : \" /20 كُلُّ الْعَمَلِ كَفَّارَةٌ إِلا الصَّوْمَ ، هُوَ لِي وَأَنَا أَجْزِي بِهِ ، وَلَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ عَزَّ وَجَلَّ مِنْ رِيحِ الْمِسْكِ \" /27 * \r\n@ 4 : 228 @ \r\n$2598  2599 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2650,
+      "original_grade": null
+    }
+  ]
+}

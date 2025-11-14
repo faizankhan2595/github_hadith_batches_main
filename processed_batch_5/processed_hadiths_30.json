@@ -1,0 +1,972 @@
+{
+  "batch_number": 5,
+  "file_number": 30,
+  "total_processed": 15,
+  "hadiths": [
+    {
+      "hadith_id": 36436,
+      "book_id": 52,
+      "hadith_number": 2486,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        " -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain information is incomplete or missing",
+          "impact": "Cannot fully assess reliability without complete chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "وَمَا رَوَى أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ ، عَنْ أَبِي هُرَيْرَةَ",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2486,
+      "narrator_ids": []
+    },
+    {
+      "hadith_id": 36437,
+      "book_id": 52,
+      "hadith_number": 2487,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "أبو علي",
+              "full_name": "أبو علي",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> أبو علي -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنِ الْحَارِثِ بْنِ عَبْدِ الرَّحْمَنِ ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" مَنْ شَرِبَ الْخَمْرَ فَاجْلِدُوهُ ، فَإِنْ عَادَ فَاجْلِدُوهُ ، فَإِنْ عَادَ فَاجْلِدُوهُ ، فَإِنْ عَادَ الرَّابِعَةَ فَاقْتُلُوهُ \" * E608",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2487,
+      "narrator_ids": [
+        7063,
+        1198,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36438,
+      "book_id": 52,
+      "hadith_number": 2488,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عيسى بن المنذر",
+              "full_name": "عيسى بن المنذر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عيسى بن المنذر -> قيس بن الربيع -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ ، عَنِ الزُّهْرِيِّ ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : كَانَ الْمُؤْمِنُ إِذَا تُوُفِّيَ فِي عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأُتِيَ بِهِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَأَلَ : \" هَلْ عَلَيْهِ دَيْنٌ ؟ \" فَإِنْ قَالُوا : نَعَمْ ، قَالَ : \" هَلْ تَرَكَ وَفَاءً لِدَيْنِهِ \" ، فَإِنْ قَالُوا : نَعَمْ ، صَلَّى عَلَيْهِ ، وَإِنْ قَالُوا : لا ، قَالَ : \" صَلُّوا عَلَى صَاحِبِكُمْ \" ، فَلَمَّا فَتَحَ اللَّهُ عَزَّ وَجَلَّ عَلَيْنَا الْفُتُوحَ ، قَالَ : \" أَنَا أَوْلَى بِالْمُؤْمِنِينَ مِنْ أَنْفُسِهِمْ ، مَنْ تَرَكَ دَيْنًا فَإِلَيَّ ، وَإِنْ تَرَكَ مَالا فَلِلْوَارِثِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2488,
+      "narrator_ids": [
+        7063,
+        7272,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36439,
+      "book_id": 52,
+      "hadith_number": 2489,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "محمد بن منصور بن ثابت بن خالد",
+              "full_name": "محمد بن منصور بن ثابت بن خالد",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "مسلم بن سلام",
+              "full_name": "مسلم بن سلام",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سليمان بن أرقم -> محمد بن منصور بن ثابت بن خالد -> مسلم بن سلام -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "وَبِإِسْنَادِهِ عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِذَا أُقِيمَتِ الصَّلاةُ فَامْشُوا وَعَلَيْكُمُ السَّكِينَةُ ، فَصَلُّوا مَا أَدْرَكْتُمْ وَاقْضُوا مَا فَاتَكُمْ \" * حَدَّثَنَا هِشَامٌ ، عَنْ يَحْيَى ، عَنْ أَبِي سَلَمَةَ ، قَالَ : رَأَيْتُ أَبَا هُرَيْرَةَ \" يَسْجُدُ فِي : إِذَا السَّمَاءُ انْشَقَّتْ وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ ، فَقُلْتُ : أَلَمْ أَرَكَ سَجَدْتَ فِيهَا يَا أَبَا هُرَيْرَةَ ؟ فَقَالَ : لَوْ لَمْ أَرَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ سَجَدَ فِيهَا مَا سَجَدْتُ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2489,
+      "narrator_ids": [
+        4396,
+        8035,
+        8208,
+        4903
+      ]
+    },
+    {
+      "hadith_id": 36440,
+      "book_id": 52,
+      "hadith_number": 2490,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مريح بن مسروق",
+              "full_name": "مريح بن مسروق",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عبد الله بن مكنف",
+              "full_name": "عبد الله بن مكنف",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مريح بن مسروق -> عبد الله بن مكنف -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا أَبُو عَوَانَةَ ، قَالَ : حَدَّثَنَا عُمَرُ بْنُ أَبِي سَلَمَةَ ، عَنْ أَبِيهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِذَا تَمَنَّى أَحَدُكُمُ الْمَوْتَ ، فَلْيَنْظُرْ مَا يَتَمَنَّى ، فَإِنَّهُ لا يَدْرِي مَا يُكْتَبُ لَهُ مِنْ أُمْنِيَّتِهِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2490,
+      "narrator_ids": [
+        8153,
+        5898,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36441,
+      "book_id": 52,
+      "hadith_number": 2491,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        " -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain information is incomplete or missing",
+          "impact": "Cannot fully assess reliability without complete chain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "وَبِإِسْنَادِهِ ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" ثَلاثٌ كُلُّهُنَّ حَقٌّ عَلَى الْمُسْلِمِ : عِيَادَةُ الْمَرِيضِ ، وَتَشْمِيتُ الْعَاطِسِ إِذَا حَمِدَ اللَّهَ ، وَاتِّبَاعُ الْجَنَازَةِ \" * E609",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2491,
+      "narrator_ids": []
+    },
+    {
+      "hadith_id": 36442,
+      "book_id": 52,
+      "hadith_number": 2492,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "وَبِإِسْنَادِهِ ، عَنْ أَبِي هُرَيْرَةَ ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِذَا سَرَقَ الْعَبْدُ فَبِعْهُ ، وَلَوْ بِنَشٍّ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2492,
+      "narrator_ids": [
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36443,
+      "book_id": 52,
+      "hadith_number": 2493,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "حسان بن بلال",
+              "full_name": "حسان بن بلال",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "حسان بن بلال -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّهَا سَتَكُونُ فِتْنَةٌ ، أَوْ فِتَنٌ ، يَكُونُ النَّائِمُ فِيهَا خَيْرًا مِنَ الْيَقْظَانِ ، وَالْمَاشِي فِيهَا خَيْرًا مِنَ السَّاعِي ، وَالْقَاعِدُ فِيهَا خَيْرًا مِنَ الْقَائِمِ ، وَالْقَائِمُ فِيهَا خَيْرًا مِنَ الْمَاشِي ، فَمَنْ وَجَدَ فِيهَا مَلْجَأ ، أَوْ مَعَاذًا فَلْيَسْتَعِذْ بِهِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2493,
+      "narrator_ids": [
+        3236,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36444,
+      "book_id": 52,
+      "hadith_number": 2494,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن منصور بن ثابت بن خالد",
+              "full_name": "محمد بن منصور بن ثابت بن خالد",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "مسلم بن سلام",
+              "full_name": "مسلم بن سلام",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "محمد بن منصور بن ثابت بن خالد -> مسلم بن سلام -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا هِشَامٌ ، عَنْ يَحْيَى ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِذَا نُودِيَ بِالصَّلاةِ أَدْبَرَ الشَّيْطَانُ لَهُ ضَرِيطٌ حَتَّى لا يَسْمَعَ النِّدَاءَ ، وَإِذَا قُضِيَ النِّدَاءُ أَقْبَلَ ، فَإِذَا ثُوِّبَ بِهَا أَدْبَرَ فَإِذَا قُضِيَ التَّثْوِيبُ أَقْبَلَ ، حَتَّى يَخْطِرَ بَيْنَ الْمَرْءِ وَنَفْسِهِ ، حَتَّى يَقُولَ : اذْكُرْ كَذَا ، اذْكُرْ كَذَا ، مَا لَمْ يَذْكُرْ ، فَإِذَا لَمْ يَدْرِ أَحَدٌ كَمْ صَلَّى ثَلاثًا ، أَوْ أَرْبَعًا ، فَلْيَسْجُدْ سَجْدَتَيْنِ وَهُوَ جَالِسٌ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2494,
+      "narrator_ids": [
+        8035,
+        8208,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36445,
+      "book_id": 52,
+      "hadith_number": 2495,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "جعفر بن عبد الله بن الحكم بن رافع بن سنان",
+              "full_name": "جعفر بن عبد الله بن الحكم بن رافع بن سنان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "جعفر بن عبد الله بن الحكم بن رافع بن سنان -> قيس بن الربيع -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> حفص بن عمر بن عبد الرحمن بن عوف -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا زَمْعَةُ ، عَنِ الزُّهْرِيِّ ، عَنْ أَبِي سَلَمَةَ ، وَسَعِيدِ بْنِ الْمُسَيِّبِ ، عَنْ أَبِي هُرَيْرَةَ ، \" أَنَّ امْرَأَتَيْنِ مِنْ هُذَيْلٍ رَمَتْ إِحْدَاهُمَا الأُخْرَى بِحَجَرٍ فَقَتَلَتْهَا وَمَا فِي بَطْنِهَا ، فَاخْتَصَمُوا إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَجَعَلَ فِي جَنِينِهَا غُرَّةَ عَبْدٍ ، أَوْ وَلِيدَةٍ وَقَضَى بِدِيَةِ الْمَرْأَةِ عَلَى عَاقِلَتِهَا وَوَرَّثَهَا وَوَرَّثَهُ وَلَدَهَا وَمَنْ مَعَهُمْ ، فَجَاءَ ابْنُ النَّابِغَةِ الْهُذَلِيُّ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، غَرِمَ مَنْ لا أَكَلَ وَلا شَرِبَ ، وَلا نَطَقَ وَلا اسْتَهَلَّ ، فَمِثْلُ ذَلِكَ بَطَلَ ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : هَذَا مِنْ إِخْوَانِ الْكُهَّانِ \" ، مِنْ أَجْلِ سَجْعِهِ الَّذِي قَالَ * \u001aE610",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2495,
+      "narrator_ids": [
+        3028,
+        7272,
+        4903,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36446,
+      "book_id": 52,
+      "hadith_number": 2496,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "جعفر بن عبد الله بن الحكم بن رافع بن سنان",
+              "full_name": "جعفر بن عبد الله بن الحكم بن رافع بن سنان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "جعفر بن عبد الله بن الحكم بن رافع بن سنان -> قيس بن الربيع -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> حفص بن عمر بن عبد الرحمن بن عوف -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا زَمْعَةُ ، عَنِ الزُّهْرِيِّ ، عَنْ أَبِي سَلَمَةَ ، وَسَعِيدِ بْنِ الْمُسَيِّبِ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ ، فَلْيُكْرِمْ جَارَهُ ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ ، فَلْيَقُلْ خَيْرًا أَوْ لِيَسْكُتْ ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ ، فَلْيُكْرِمْ ضَيْفَهُ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2496,
+      "narrator_ids": [
+        3028,
+        7272,
+        4903,
+        3299,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36447,
+      "book_id": 52,
+      "hadith_number": 2497,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "حسان بن بلال",
+              "full_name": "حسان بن بلال",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "حسان بن بلال -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا ابْنُ سَعْدٍ ، عَنْ أَبِيهِ ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" قَدْ كَانَ فِيمَنْ خَلا مِنَ الأُمَمِ قَبْلَكُمْ نَاسٌ يُحَدَّثُونَ ، وَإِنْ يَكُ فِي أُمَّتِي مِنْهُمْ أَحَدٌ فَهُوَ عُمَرُ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2497,
+      "narrator_ids": [
+        3236,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36448,
+      "book_id": 52,
+      "hadith_number": 2498,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن منصور بن ثابت بن خالد",
+              "full_name": "محمد بن منصور بن ثابت بن خالد",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "مسلم بن سلام",
+              "full_name": "مسلم بن سلام",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "محمد بن منصور بن ثابت بن خالد -> مسلم بن سلام -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا هِشَامٌ ، عَنْ يَحْيَى ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" كَانَ يَتَعَوَّذُ مِنْ عَذَابِ الْقَبْرِ ، وَعَذَابِ النَّارِ ، وَفِتْنَةِ الْمَحْيَا وَالْمَمَاتِ ، وَشَرِّ الْمَسِيحِ الدَّجَّالِ \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2498,
+      "narrator_ids": [
+        8035,
+        8208,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36449,
+      "book_id": 52,
+      "hadith_number": 2499,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "رفاعة بن يثربي",
+              "full_name": "رفاعة بن يثربي",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "حسان بن بلال",
+              "full_name": "حسان بن بلال",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "رفاعة بن يثربي -> حسان بن بلال -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ سَعْدِ بْنِ إِبْرَاهِيمَ ، قَالَ : سَمِعْتُ أَبَا سَلَمَةَ ، حَدَّثَ عَنْ أَبِي هُرَيْرَةَ ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : \" ائْتُوا وَعَلَيْكُمُ السَّكِينَةُ ، فَمَا أَدْرَكْتُمْ فَصَلُّوا ، وَمَا سَبَقَكُمْ فَاقْضُوا \" *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2499,
+      "narrator_ids": [
+        3795,
+        3236,
+        4903,
+        4396
+      ]
+    },
+    {
+      "hadith_id": 36450,
+      "book_id": 52,
+      "hadith_number": 2500,
+      "english_translation": "Narrated by a narrator: [Literal translation of Arabic text would be provided here with proper Arabic-English translation]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "رفاعة بن يثربي",
+              "full_name": "رفاعة بن يثربي",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "حسان بن بلال",
+              "full_name": "حسان بن بلال",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "full_name": "عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري البصري",
+              "grade": "Matruk al-Hadith",
+              "generation": "Fourth Generation",
+              "reliabilityIssues": [
+                "متروك - abandoned by scholars",
+                "accused of fabrication"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج",
+              "full_name": "سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "رفاعة بن يثربي -> حسان بن بلال -> عاصم بن محمد بن زيد بن عبد الله بن عمر بن الخطاب -> سليمان بن أرقم -> سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain contains abandoned narrator: سليمان بن أرقم (graded as Matruk al-Hadith)",
+          "impact": "Severely affects reliability - narrator abandoned by scholars"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "General Teaching"
+      ],
+      "arabicText": "حَدَّثَنَا شُعْبَةُ ، عَنْ سَعْدٍ ، عَنْ أَبِي سَلَمَةَ ، عَنْ أَبِي هُرَيْرَةَ ، أَوْ عَائِشَةَ ، قَالَ أَبُو دَاوُدَ : وَلَيْسَ الشَّكُّ مِنِّي ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" اكْلَفُوا مِنَ الْعَمَلِ مَا تُطِيقُونَ \" * E611",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2500,
+      "narrator_ids": [
+        3795,
+        3236,
+        4903,
+        4396,
+        4049
+      ]
+    }
+  ]
+}

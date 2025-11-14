@@ -1,0 +1,781 @@
+{
+  "batch_number": 5,
+  "file_number": 16,
+  "processed_count": 14,
+  "skipped_count": 1,
+  "grade_distribution": {
+    "Questionable But Might Be Acceptable": 4,
+    "Acceptable": 10
+  },
+  "hadiths": [
+    {
+      "hadith_id": 36227,
+      "book_id": 52,
+      "narrator_id": [
+        3795,
+        6458,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: لا يَمْنَعَنَّ أَحَدَكُمْ مَخَافَةُ النَّاسِ ، أَوْ مَهَابَةُ النَّاسِ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis_cat3"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "قتادة is known for tadlis and uses عَنْ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "قتادة -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is known for tadlis and uses عَنْ",
+          "impact": "Possible hidden narrator, but narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 قَتَادَةَ L6458 /26 سَمِعَ /26 أَبَا نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 لا يَمْنَعَنَّ أَحَدَكُمْ مَخَافَةُ النَّاسِ ، أَوْ مَهَابَةُ النَّاسِ \" /27 ، قَالَ شُعْبَةُ : أَحَدَهُمَا أَنْ يَتَكَلَّمَ بِحَقٍّ يَعْلَمُهُ ، فَمَا زَالَ الأَمْرُ يُنْسَى حَتَّى قَصَّرْنَا * \r\n@ 3 : 610 @ \r\n$2252  2253 /2"
+    },
+    {
+      "hadith_id": 36228,
+      "book_id": 52,
+      "narrator_id": [
+        8035,
+        6458,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: إِذَا كَانُوا ثَلاثَةً فِي سَفَرٍ ، فَلْيَؤُمَّهُمْ أَحَدُهُمْ ، وَأَحَقُّهُمْ بِالإِمَامَةِ أَقْرَؤُهُمْ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis_cat3"
+              ]
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "قتادة is known for tadlis and uses عَنْ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "قتادة -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قتادة is known for tadlis and uses عَنْ",
+          "impact": "Possible hidden narrator, but narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 هِشَامٌ L8035 /94 ، عَنْ /26 قَتَادَةَ L6458 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 إِذَا كَانُوا ثَلاثَةً فِي سَفَرٍ ، فَلْيَؤُمَّهُمْ أَحَدُهُمْ ، وَأَحَقُّهُمْ بِالإِمَامَةِ أَقْرَؤُهُمْ \" /27 * \r\n$2253  2254 /2"
+    },
+    {
+      "hadith_id": 36229,
+      "book_id": 52,
+      "narrator_id": [
+        3795,
+        1907,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: إِنِّي فِي حَائِطٍ مَضَبَّةٍ ، وَإِنَّهُ عَامَّةُ طَعَامِ أَهْلِي ، فَسَكَتَ عَنْهُ ، فَقُلْنَا : عَاوِدْهُ ، فَعَاوَدَهُ ، فَسَكَتَ ، ثُمَّ قُلْنَا : عَاوِدْهُ ، فَعَاوَدَهُ الثَّالِثَةَ ، فَقَالَ : يَا أَعْرَابِيُّ ، إِنَّ اللَّهَ عَزَّ وَجَلَّ غَضِبَ عَلَى سِبْطَيْنِ مِنْ بَنِي إِسْرَائِيلَ ، فَمَسَخَهُمْ دَوَابًّا يَدِبُّونَ فِي الأَرْضِ ، فَلا أَدْرِي لَعَلَّهَا بَعْضُهَا ، وَلَسْتُ بِنَاهِيكَ ، وَلا آمُرُكَ بِهَا \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : حَدَّثَنَا /26 أَبُو عَقِيلٍ بَشِيرُ بْنُ عُقْبَةَ L1907 /26 ، قَالَ : حَدَّثَنَا /26 أَبُو نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنَّ أَعْرَابِيًّا سَأَلَ    @ 3 : 611 @   رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، \" /20 إِنِّي فِي حَائِطٍ مَضَبَّةٍ ، وَإِنَّهُ عَامَّةُ طَعَامِ أَهْلِي ، فَسَكَتَ عَنْهُ ، فَقُلْنَا : عَاوِدْهُ ، فَعَاوَدَهُ ، فَسَكَتَ ، ثُمَّ قُلْنَا : عَاوِدْهُ ، فَعَاوَدَهُ الثَّالِثَةَ ، فَقَالَ : يَا أَعْرَابِيُّ ، إِنَّ اللَّهَ عَزَّ وَجَلَّ غَضِبَ عَلَى سِبْطَيْنِ مِنْ بَنِي إِسْرَائِيلَ ، فَمَسَخَهُمْ دَوَابًّا يَدِبُّونَ فِي الأَرْضِ ، فَلا أَدْرِي لَعَلَّهَا بَعْضُهَا ، وَلَسْتُ بِنَاهِيكَ ، وَلا آمُرُكَ بِهَا \" /27 * \r\n@ 3 : 612 @ \r\n$2254  2255 /2"
+    },
+    {
+      "hadith_id": 36230,
+      "book_id": 52,
+      "narrator_id": [
+        2492,
+        5292,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: فَإِذَا أَتَى أَحَدُكُمُ الْمَسْجِدَ فَلْيَنْظُرْ فَإِنْ رَأَى فِي نَعْلَيْهِ أَذًى ، وَإِلا فَلْيُصَلِّ فِيهِمَا \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، قَالَ : حَدَّثَنَا /26 أَبُو نَعَامَةَ السَّعْدِيُّ L5292 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" صَلَّى فِي نَعْلَيْهِ ، فَصَلَّى النَّاسُ فِي نِعَالِهِمْ ، ثُمَّ أَلْقَى نَعْلَيْهِ ، فَأَلْقَى النَّاسُ نِعَالَهُمْ وَهُمْ فِي الصَّلاةِ ، فَلَمَّا قَضَى صَلاتَهُ ، قَالَ : مَا حَمَلَكُمْ عَلَى إِلْقَاءِ نِعَالِكُمْ فِي الصَّلاةِ ؟ قَالُوا : يَا رَسُولَ اللَّهِ ، رَأَيْنَاكَ فَعَلْتَ فَفَعَلْنَا ، قَالَ : إِنَّ /57 جِبْرِيلَ /57 عَلَيْهِ السَّلامُ أَخْبَرَنِي أَنَّ فِيهَا أَذًى ، /20 فَإِذَا أَتَى أَحَدُكُمُ الْمَسْجِدَ فَلْيَنْظُرْ فَإِنْ رَأَى فِي نَعْلَيْهِ أَذًى ، وَإِلا فَلْيُصَلِّ فِيهِمَا \" /27 * \r\n&E563 @ 3 : 613 @ \r\n$2255  2256 /2"
+    },
+    {
+      "hadith_id": 36231,
+      "book_id": 52,
+      "narrator_id": [
+        6514,
+        4006,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: تَوَضَّئُوا وَاشْرَبُوا ، فَإِنَّ الْمَاءَ لا يُنَجِّسُهُ شَيْءٌ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "طريف بن سفيان",
+              "full_name": "طريف بن سفيان الضبي",
+              "grade": "Layyin al-Hadith",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak"
+              ]
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "طريف بن سفيان is graded as Layyin al-Hadith"
+          ]
+        }
+      ],
+      "plainChains": [
+        "طريف بن سفيان -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "طريف بن سفيان is graded as Layyin al-Hadith",
+          "impact": "Weakens chain reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 قَيْسٌ L6514 /94 ، عَنْ /26 طَرِيفِ بْنِ سُفْيَانَ L4006 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : \" كُنَّا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَتَيْنَا عَلَى غَدِيرٍ فِيهِ جِيفَةٌ ، فَتَوَضَّأَ بَعْضُ الْقَوْمِ ، وَأَمْسَكَ بَعْضُ الْقَوْمِ حَتَّى    @ 3 : 614 @   يَجِيءَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَجَاءَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أُخْرَيَاتِ النَّاسِ ، فَقَالَ : /20 تَوَضَّئُوا وَاشْرَبُوا ، فَإِنَّ الْمَاءَ لا يُنَجِّسُهُ شَيْءٌ \" /27 * \r\n$2256  2257 /2"
+    },
+    {
+      "hadith_id": 36232,
+      "book_id": 52,
+      "narrator_id": [
+        2492,
+        5770,
+        1698,
+        3260,
+        8035,
+        6458
+      ],
+      "english_translation": "Narrated by the Companion: الدُّنْيَا خَضِرَةٌ حُلْوَةٌ ، وَإِنَّ اللَّهَ مُسْتَخْلِفُكُمْ فِيهَا فَيَنْظُرُ كَيْفَ تَعْمَلُونَ ، أَلا فَاتَّقُوا الدُّنْيَا ، وَاتَّقُوا النِّسَاءَ ، أَلا إِنَّ بَنِي آدَمَ خُلِقُوا عَلَى طَبَقَاتٍ شَتَّى ، مِنْهُمْ مَنْ يُولَدُ مُؤْمِنًا ، وَيَحْيَا مُؤْمِنًا ، وَيَمُوتُ مُؤْمِنًا ، وَمِنْهُمْ مَنْ يُولَدُ كَافِرًا ، وَيَحْيا كَافِرًا ، وَيَمُوتُ كَافِرًا ، وَمِنْهُمْ مَنْ يُولَدُ كَافِرًا ، وَيَحْيَى كَافِرًا ، وَيَمُوتُ مُؤْمِنًا ، وَمِنْهُمْ مَنْ يُولَدُ مُؤْمِنًا ، وَيَحْيَا مُؤْمِنًا ، وَيَمُوتُ كَافِرًا ، أَلا إِنَّ خَيْرَ التُّجَّارِ مَنْ كَانَ حَسَنَ الْقَضَاءِ حَسَنَ الطَّلَبِ ، أَلا وَشَرُّ التُّجَّارِ مَنْ كَانَ سَيِّئَ الْقَضَاءِ سَيِّئَ الطَّلَبِ ، فَإِذَا كَانَ حَسَنَ الْقَضَاءِ سَيِّئَ الطَّلَبِ ، أَوْ حَسَنَ الطَّلَبِ سَيِّئَ الْقَضَاءِ فَإِنَّهَا بِهَا ، أَلا وَإِنَّ شَرَّ الرِّجَالِ مَنْ كَانَ سَرِيعَ الْغَضَبِ بَطِيءَ الْفَيْءِ ، أَلا وَخَيْرُ الرِّجَالِ مَنْ كَانَ بَطِيءَ الْغَضَبِ سَرِيعَ الْفَيْءِ ، فَإِذَا كَانَ سَرِيعَ الْغَضَبِ سَرِيعَ الْفَيْءِ فَإِنَّهَا بِهَا ، وَإِذَا كَانَ بَطِيءَ الْغَضَبِ بَطِيءَ الْفَيْءِ فَإِنَّهَا بِهَا ، أَلا إِنَّ الْغَضَبَ جَمْرَةٌ تَوَقَّدُ فِي جَوْفِ ابْنِ آدَمَ ، أَلَمْ تَرَ إِلَى حُمْرَةِ عَيْنَيْهِ ، وَانْتِفَاخِ أَوْدَاجِهِ ، فَإِذَا كَانَ ذَلِكَ فَالأَرْضَ الأَرْضَ ، أَلا إِنَّ لِكُلَّ غَادِرٍ لِوَاءً بِقَدْرِ غَدْرَتِهِ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "علي بن زيد",
+              "full_name": "علي بن زيد بن عبد الله بن زهير بن عبد الله بن جدعان",
+              "grade": "Da'if",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "weak_memory"
+              ]
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ الْخُدْرِيِّ",
+              "full_name": "أَبِي سَعِيدٍ الْخُدْرِيِّ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "قتادة",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "mudallis_cat3"
+              ]
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "علي بن زيد is graded as Da'if",
+            "قتادة is known for tadlis and uses عَنْ"
+          ]
+        }
+      ],
+      "plainChains": [
+        "علي بن زيد -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ الْخُدْرِيِّ -> قتادة -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "علي بن زيد is graded as Da'if",
+          "impact": "Weakens chain reliability"
+        },
+        {
+          "issue": "قتادة is known for tadlis and uses عَنْ",
+          "impact": "Possible hidden narrator, but narrator is generally reliable"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 عَلِيِّ بْنِ زَيْدٍ L5770 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ الْخُدْرِيِّ L3260 /93 ، قَالَ : \" خَطَبَنَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خُطْبَةً بَعْدَ الْعَصْرِ إِلَى مُغَيْرِبَانِ الشَّمْسِ ، حَفِظَهَا مَنْ حَفِظَهَا ، وَنَسِيَهَا مَنْ نَسِيَهَا ، فَقَالَ : أَلا إِنَّ /20 الدُّنْيَا خَضِرَةٌ حُلْوَةٌ ، وَإِنَّ اللَّهَ مُسْتَخْلِفُكُمْ فِيهَا فَيَنْظُرُ كَيْفَ تَعْمَلُونَ ، أَلا فَاتَّقُوا الدُّنْيَا ، وَاتَّقُوا النِّسَاءَ ، أَلا إِنَّ بَنِي آدَمَ خُلِقُوا عَلَى طَبَقَاتٍ شَتَّى ، مِنْهُمْ مَنْ يُولَدُ مُؤْمِنًا ، وَيَحْيَا مُؤْمِنًا ، وَيَمُوتُ مُؤْمِنًا ، وَمِنْهُمْ مَنْ يُولَدُ كَافِرًا ، وَيَحْيا كَافِرًا ، وَيَمُوتُ كَافِرًا ، وَمِنْهُمْ مَنْ يُولَدُ كَافِرًا ، وَيَحْيَى كَافِرًا ، وَيَمُوتُ مُؤْمِنًا ، وَمِنْهُمْ مَنْ يُولَدُ مُؤْمِنًا ، وَيَحْيَا مُؤْمِنًا ، وَيَمُوتُ كَافِرًا ، أَلا إِنَّ خَيْرَ التُّجَّارِ مَنْ كَانَ حَسَنَ الْقَضَاءِ حَسَنَ الطَّلَبِ ،    @ 3 : 615 @   أَلا وَشَرُّ التُّجَّارِ مَنْ كَانَ سَيِّئَ الْقَضَاءِ سَيِّئَ الطَّلَبِ ، فَإِذَا كَانَ حَسَنَ الْقَضَاءِ سَيِّئَ الطَّلَبِ ، أَوْ حَسَنَ الطَّلَبِ سَيِّئَ الْقَضَاءِ فَإِنَّهَا بِهَا ، أَلا وَإِنَّ شَرَّ الرِّجَالِ مَنْ كَانَ سَرِيعَ الْغَضَبِ بَطِيءَ الْفَيْءِ ، أَلا وَخَيْرُ الرِّجَالِ مَنْ كَانَ بَطِيءَ الْغَضَبِ سَرِيعَ الْفَيْءِ ، فَإِذَا كَانَ سَرِيعَ الْغَضَبِ سَرِيعَ الْفَيْءِ فَإِنَّهَا بِهَا ، وَإِذَا كَانَ بَطِيءَ الْغَضَبِ بَطِيءَ الْفَيْءِ فَإِنَّهَا بِهَا ، أَلا إِنَّ الْغَضَبَ جَمْرَةٌ تَوَقَّدُ فِي جَوْفِ ابْنِ آدَمَ ، أَلَمْ تَرَ إِلَى حُمْرَةِ عَيْنَيْهِ ، وَانْتِفَاخِ أَوْدَاجِهِ ، فَإِذَا كَانَ ذَلِكَ فَالأَرْضَ الأَرْضَ ، أَلا إِنَّ لِكُلَّ غَادِرٍ لِوَاءً بِقَدْرِ غَدْرَتِهِ \" /27 ، قَالَ الْحَسَنُ : يُنْصَبُ عِنْدَ اسْتِهِ ، ثُمَّ رَجَعَ إِلَى حَدِيثِ أَبِي سَعِيدٍ ، ثُمَّ قَالَ : أَلا وَلا غَادِرَ أَعْظَمُ غَدْرًا مِنْ أَمِيرِ عَامَّةٍ ، أَلا لا يَمْنَعَنَّ رَجُلا مَهَابَةُ النَّاسِ أَنْ يَتَكَلَّمَ بِحَقٍّ إِذَا عَلِمَهُ ، أَلا إِنَّهُ لَمْ يَبْقَ مِنَ الدُّنْيَا فِيمَا مَضَى مِنْهَا إِلا كَمَا بَقِّيَ مِنْ يَوْمِكُمْ هَذَا فِيمَا مَضَى مِنْهُ * \r\n\u001bE564 @ 3 : 616 @ \r\n$2257  2258 /2 /142 حَدَّثَنَا /94 هِشَامٌ L8035 /94 ، عَنْ /26 قَتَادَةَ L6458 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : \" /20 خَرَجْنَا مَعَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِلَى حُنَيْنٍ لِثَمَانِ عَشْرَةَ لَيْلَةً خَلَتْ مِنْ رَمَضَانَ ، فَصَامَ طَوَائِفُ مِنَ النَّاسِ ، وَأَفْطَرَ آخَرُونَ ، فَلَمْ يُعَبْ ، أَوْ قَالَ : وَلَمْ يَعِبْ عَلَى الصَّائِمِ صَوْمَهُ ، وَلا عَلَى الْمُفْطِرِ إِفْطَارَهُ \" /27 * \r\n@ 3 : 617 @ \r\n$2258  2259 /2"
+    },
+    {
+      "hadith_id": 36233,
+      "book_id": 52,
+      "narrator_id": [
+        1629,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: أَلا لا يَمْنَعَنَّ رَجُلا مَخَافَةُ النَّاسِ أَنْ يَقُولَ الْحَقَّ إِذَا عَلِمَهُ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْمُسْتَمِرُّ بْنُ الرَّيَّانِ L1629 /94 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ فِي خُطْبَتِهِ : \" /20 أَلا لا يَمْنَعَنَّ رَجُلا مَخَافَةُ النَّاسِ أَنْ يَقُولَ الْحَقَّ إِذَا عَلِمَهُ \" /27 * \r\n$2259  2260 /2"
+    },
+    {
+      "hadith_id": 36234,
+      "book_id": 52,
+      "narrator_id": [
+        1629,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: لِكُلَّ غَادِرٍ لِوَاءً يَوْمَ الْقِيَامَةِ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْمُسْتَمِرُّ L1629 /94 ، قَالَ : حَدَّثَنَا /26 أَبُو نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" إِنَّ /20 لِكُلَّ غَادِرٍ لِوَاءً يَوْمَ الْقِيَامَةِ \" /27 * \r\n@ 3 : 618 @ \r\n$2260  2261 /2"
+    },
+    {
+      "hadith_id": 36235,
+      "book_id": 52,
+      "narrator_id": [
+        1629,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: أَطْيَبُ الطِّيبِ الْمِسْكُ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْمُسْتَمِرُّ L1629 /94 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 أَطْيَبُ الطِّيبِ الْمِسْكُ \" /27 * \r\n$2261  2262 /2"
+    },
+    {
+      "hadith_id": 36236,
+      "book_id": 52,
+      "narrator_id": [
+        3795,
+        8062,
+        2138,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: مَنْ يَسْتَغْنِ يُغْنِهِ اللَّهُ ، وَمَنْ يَسْتَعْفِفْ يُعِفَّهُ اللَّهُ ، وَمَنْ سَأَلْنَا فَوَجَدْنَا شَيْئًا أَعْطَيْنَاهُ ، قَالَ : فَرَجَعَ ، فَمَا سَأَلَهُ ، وَلا سَأَلَ أَحَدًا بَعْدَهُ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي بِشْرٍ",
+              "full_name": "أَبِي بِشْرٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي بِشْرٍ -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، /94 وَهُشَيْمٌ L8062 /94 ، عَنْ /26 أَبِي بِشْرٍ L2138 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنَّهُ أَصَابَهُ جُوعٌ ، أَوْ أَصَابَ رَجُلا جُوعٌ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ لَهُ بَعْضُ أَهْلِهِ : لَوْ أَتَيْتَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَرَضَخَ لَكَ ، فَانْطَلَقَ ، فَوَجَدَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَخْطُبُ وَهُوَ يَقُولُ : \" /20 مَنْ يَسْتَغْنِ يُغْنِهِ اللَّهُ ، وَمَنْ يَسْتَعْفِفْ يُعِفَّهُ اللَّهُ ، وَمَنْ سَأَلْنَا فَوَجَدْنَا شَيْئًا أَعْطَيْنَاهُ ، قَالَ : فَرَجَعَ ، فَمَا سَأَلَهُ ، وَلا سَأَلَ أَحَدًا بَعْدَهُ \" /27 * \r\n\u001bE565 @ 3 : 619 @ \r\n$2262  2263 /2"
+    },
+    {
+      "hadith_id": 36237,
+      "book_id": 52,
+      "narrator_id": [
+        2146,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: ائْتَمُّوا بِي ، وَلْيَأْتَمَّ بِكُمْ مَنْ بَعْدَكُمْ ، وَلا يَزَالُ قَوْمٌ يَتَأَخَّرُونَ حَتَّى يُؤَخِّرَهُمُ اللَّهُ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 أَبُو الأَشْهَبِ L2146 /94 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" رَأَى فِي أَصْحَابِهِ تَأَخُّرًا ، فَقَالَ : /20 ائْتَمُّوا بِي ، وَلْيَأْتَمَّ بِكُمْ مَنْ بَعْدَكُمْ ، وَلا يَزَالُ قَوْمٌ يَتَأَخَّرُونَ حَتَّى يُؤَخِّرَهُمُ اللَّهُ \" /27 * \r\n$2263  2264 /2"
+    },
+    {
+      "hadith_id": 36238,
+      "book_id": 52,
+      "narrator_id": [
+        8208,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: أَوْتِرُوا قَبْلَ الْفَجْرِ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يحيى بن أبي كثير",
+              "full_name": "يحيى بن أبي كثير الطائي",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "يحيى بن أبي كثير -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 أَبَانُ بْنُ يَزِيدَ L18 /94 ، عَنْ /26 يَحْيَى بْنِ أَبِي كَثِيرٍ L8208 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 أَوْتِرُوا قَبْلَ الْفَجْرِ \" /27 * \r\n@ 3 : 620 @ \r\n$2264  2265 /2"
+    },
+    {
+      "hadith_id": 36239,
+      "book_id": 52,
+      "narrator_id": [
+        8186,
+        2772,
+        1698,
+        3260,
+        5021
+      ],
+      "english_translation": "Narrated by the Companion: إِذَا اسْتَأْذَنَ الْمُسْتَأْذِنُ ثَلاثًا فَلَمْ يُؤْذَنْ لَهُ فَلْيَرْجِعْ",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "داود بن أبي هند",
+              "full_name": "داود بن أبي هند القشيري",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "أَبِي نَضْرَةَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            },
+            {
+              "name": "رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "full_name": "رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "داود بن أبي هند -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، عَنْ /26 دَاوُدَ L2772 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، عَنْ /26 أَبِي سَعِيدٍ L3260 /26 ، /27 أَنَّ /93 الأَشْعَرِيَّ L5021 /93 ، اسْتَأْذَنَ عَلَى عُمَرَ ، فَلَمْ يَأْذَنْ لَهُ ، فَرَجَعَ ، فَأَرْسَلَ إِلَيْهِ : مَا رَدَّكَ ؟ فَقَالَ : إِنِّي اسْتَأْذَنْتُ ثَلاثًا فَلَمْ يُؤْذَنْ لِي ، وَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : \" /20 إِذَا اسْتَأْذَنَ الْمُسْتَأْذِنُ ثَلاثًا فَلَمْ يُؤْذَنْ لَهُ فَلْيَرْجِعْ /27 ، فَقَالَ : لَتَأْتِيَنِّي بِمَنْ يَعْلَمُ هَذَا أَوْ لأَفْعَلَنَّ بِكَ وَلأَفْعَلَنَّ ، فَقَالَ أَبُو سَعِيدٍ : فَجَاءَنِي الأَشْعَرِيُّ يُرْعَدُ قَدِ اصْفَرَّ وَجْهُهُ ، فَقَامَ عَلَى حَلْقَةٍ مِنْ أَصْحَابِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : أَنْشُدُ اللَّهَ رَجُلا عَلِمَ مِنْ هَذَا عِلْمًا إِلا قَامَ بِهِ ، فَإِنِّي قَدْ خِفْتُ هَذَا الرَّجُلَ عَلَى نَفْسِي ، قَالَ أَبُو سَعِيدٍ : فَقُلْتُ : أَنَا مَعَكَ ، فَقَالَ آخَرُ : وَأَنَا مَعَكَ ، فَسُرِّيَ عَنْهُ \" * \r\n@ 3 : 621 @ \r\n$2265  2266 /2"
+    },
+    {
+      "hadith_id": 36240,
+      "book_id": 52,
+      "narrator_id": [
+        1570,
+        1698,
+        3260
+      ],
+      "english_translation": "Narrated by the Companion: تَكُونُ فُرْقَةٌ بَيْنَ طَائِفَتَيْنِ مِنَ أُمَّتِي تَمْرُقُ بَيْنَهُمَا مَارِقَةٌ ، تَقْتُلُهَا أَوْلَى الطَّائِفَتَيْنِ إِلَى الْحَقِّ \"",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "أَبِي سَعِيدٍ",
+              "grade": "Maqbul",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "limited_information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Prophetic Guidance"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْقَاسِمُ بْنُ الْفَضْلِ L1570 /94 ، قَالَ : حَدَّثَنَا /26 أَبُو نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 تَكُونُ فُرْقَةٌ بَيْنَ طَائِفَتَيْنِ مِنَ أُمَّتِي تَمْرُقُ بَيْنَهُمَا مَارِقَةٌ ، تَقْتُلُهَا أَوْلَى الطَّائِفَتَيْنِ إِلَى الْحَقِّ \" /27 * \r\n$E566 \r\n$2266  2267 /2"
+    }
+  ]
+}

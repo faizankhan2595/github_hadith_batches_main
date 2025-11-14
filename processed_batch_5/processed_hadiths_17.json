@@ -1,0 +1,636 @@
+{
+  "batch_number": 5,
+  "file_number": 17,
+  "processed_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 36241,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'الْتَمِسُوهَا لِسَبْعٍ يَبْقَيْنَ ، أَوْ خَمْسٍ يَبْقَيْنَ ، أَوْ ثَلاثٍ يَبْقَيْنَ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "حُمَيْدٍ",
+              "full_name": "حميد بن أبي حميد الطويل البصري",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "المنذر بن مالك بن قطعة العبدي البصري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "حُمَيْدٍ -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، عَنْ /26 حُمَيْدٍ L2531 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 الْتَمِسُوهَا لِسَبْعٍ يَبْقَيْنَ ، أَوْ خَمْسٍ يَبْقَيْنَ ، أَوْ ثَلاثٍ يَبْقَيْنَ \" /27 * \r\n@ 3 : 622 @ \r\n$2267  2268 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2291,
+      "grade": null
+    },
+    {
+      "hadith_id": 36242,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'لَيْلَةُ الْقَدْرِ لَيْلَةُ أَرْبَعٍ وَعِشْرِينَ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الْجُرَيْرِيِّ",
+              "full_name": "سعيد بن إياس الجريري البصري",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "ikhtilat at the end of his life"
+              ]
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "المنذر بن مالك بن قطعة العبدي البصري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "الْجُرَيْرِيِّ: ikhtilat at the end of his life"
+          ]
+        }
+      ],
+      "plainChains": [
+        "الْجُرَيْرِيِّ -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الْجُرَيْرِيِّ: ikhtilat at the end of his life",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Laylat al-Qadr (Night of Power) timing"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادٌ L2492 /94 ، عَنِ /26 الْجُرَيْرِيِّ L3290 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 لَيْلَةُ الْقَدْرِ لَيْلَةُ أَرْبَعٍ وَعِشْرِينَ \" /27 * \r\n$2268  2269 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2292,
+      "grade": null
+    },
+    {
+      "hadith_id": 36243,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'لَمَّا حَفَرَ الْخَنْدَقَ كَانَ النَّاسُ يَحْمِلُونَ لَبِنَةً لَبِنَةً ، وَعَمَّارٌ نَاقِهٌ مِنْ وَجَعٍ كَانَ بِهِ ، فَجَعَلَ يَحْمِلُ لَبِنَتَيْنِ لَبِنَتَيْنِ ، قَالَ أَبُو سَعِيدٍ : فَحَدَّثَنِي أَصْحَابِي أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَنْفُضُ التُّرَابَ عَنْ رَأْسِهِ وَيَقُولُ : وَيْحَكَ ابْنَ سُمَيَّةَ ، تَقْتُلُكَ الْفِئَةُ الْبَاغِيَةُ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "دَاوُدَ",
+              "full_name": "داود بن أبي هند القشيري البصري",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "المنذر بن مالك بن قطعة العبدي البصري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "رَأْسِهِ وَيَقُولُ : وَيْحَكَ ابْنَ سُمَيَّةَ",
+              "full_name": "رَأْسِهِ وَيَقُولُ : وَيْحَكَ ابْنَ سُمَيَّةَ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "رَأْسِهِ وَيَقُولُ : وَيْحَكَ ابْنَ سُمَيَّةَ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "دَاوُدَ -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> رَأْسِهِ وَيَقُولُ : وَيْحَكَ ابْنَ سُمَيَّةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "رَأْسِهِ وَيَقُولُ : وَيْحَكَ ابْنَ سُمَيَّةَ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، عَنْ /26 دَاوُدَ L2772 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" لَمَّا حَفَرَ الْخَنْدَقَ كَانَ النَّاسُ يَحْمِلُونَ لَبِنَةً لَبِنَةً ، وَعَمَّارٌ نَاقِهٌ مِنْ وَجَعٍ كَانَ بِهِ ، فَجَعَلَ يَحْمِلُ لَبِنَتَيْنِ لَبِنَتَيْنِ ، قَالَ أَبُو سَعِيدٍ : فَحَدَّثَنِي /93 أَصْحَابِي L1131 /93 أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَنْفُضُ التُّرَابَ عَنْ رَأْسِهِ وَيَقُولُ : /20 وَيْحَكَ ابْنَ سُمَيَّةَ ، تَقْتُلُكَ الْفِئَةُ الْبَاغِيَةُ \" /27 * \r\n@ 3 : 623 @ \r\n$2269  2270 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2293,
+      "grade": null
+    },
+    {
+      "hadith_id": 36244,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'أَطْيَبُ الطِّيبِ الْمِسْكُ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "خُلَيْدِ بْنِ جَعْفَرٍ",
+              "full_name": "خُلَيْدِ بْنِ جَعْفَرٍ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            },
+            {
+              "name": "أَبِي نَضْرَةَ",
+              "full_name": "المنذر بن مالك بن قطعة العبدي البصري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "خُلَيْدِ بْنِ جَعْفَرٍ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "خُلَيْدِ بْنِ جَعْفَرٍ -> أَبِي نَضْرَةَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "خُلَيْدِ بْنِ جَعْفَرٍ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 خُلَيْدِ بْنِ جَعْفَرٍ L2739 /26 ، عَنْ /26 أَبِي نَضْرَةَ L1698 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 أَطْيَبُ الطِّيبِ الْمِسْكُ \" /27 * \r\n$2270  2271 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2294,
+      "grade": null
+    },
+    {
+      "hadith_id": 36245,
+      "book_id": 52,
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ said: 'مِنْ أَيْنَ هَذَا ؟ فَقَالَ : يَا رَسُولَ اللَّهِ ، أَتَيْتُ آلَ فُلانٍ ، فَأَعْطَيْتُهُمْ صَاعَيْنِ وَأَخَذْتُ صَاعًا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : رَدَّ عَلَيْهِمْ صَاعَهُمْ ، وَائْتِنَا بِصَاعَيْنَا ، ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : الذَّهَبُ بِالذَّهَبِ ، وَالْوَرِقُ بِالْوَرِقِ ، وَالتَّمْرُ بِالتَّمْرِ ، وَالْبُرُّ بِالْبُرِّ ، وَالشَّعِيرُ بِالشَّعِيرِ ، وَالْمِلْحُ بِالْمِلْحِ ، عَيْنًا بِعَيْنٍ ، أَوْ قَالَ : مِثْلا بِمِثْلٍ ، فَمَنْ زَادَ ، أَوِ ازْدَادَ فَقَدْ أَرْبَى'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "رَسُولَ اللَّهِ صَلَّى اللَّهُ",
+              "full_name": "رَسُولَ اللَّهِ صَلَّى اللَّهُ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "رَسُولَ اللَّهِ صَلَّى اللَّهُ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "رَسُولَ اللَّهِ صَلَّى اللَّهُ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "رَسُولَ اللَّهِ صَلَّى اللَّهُ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الرَّبِيعُ بْنُ صَبِيحٍ L1412 /94 ، قَالَ : حَدَّثَنَا /26 أَبُو نَضْرَةَ L1698 /26 ، قَالَ : قَالَ أَبُو سَعِيدٍ لابْنِ عَبَّاسٍ : أَرَأَيْتَ فُتْيَاكَ فِي الصَّرْفِ أَشَيْءٌ تَقُولُهُ بِرَأْيِكَ ، أَوْ شَيْءٌ سَمِعْتَهُ مِنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ؟ فَقَالَ : لا ، وَلَكِنِّي لا أَرَى بِهِ بَأْسًا إِذَا كَانَ يَدًا بِيَدٍ ، /27 فَقَالَ /93 أَبُو سَعِيدٍ L3260 /93 : فَإِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَأُتِيَ بِتَمْرٍ أَطْيَبَ مِنَ التَّمْرِ الَّذِي كَانَ يُؤْتَى بِهِ ، فَقَالَ : \" مِنْ أَيْنَ هَذَا ؟ فَقَالَ : يَا رَسُولَ اللَّهِ ، أَتَيْتُ آلَ فُلانٍ ، فَأَعْطَيْتُهُمْ صَاعَيْنِ وَأَخَذْتُ صَاعًا ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : رَدَّ عَلَيْهِمْ صَاعَهُمْ ، وَائْتِنَا بِصَاعَيْنَا ، ثُمَّ قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 الذَّهَبُ بِالذَّهَبِ ، وَالْوَرِقُ بِالْوَرِقِ ، وَالتَّمْرُ بِالتَّمْرِ ، وَالْبُرُّ بِالْبُرِّ ، وَالشَّعِيرُ بِالشَّعِيرِ ، وَالْمِلْحُ بِالْمِلْحِ ، عَيْنًا بِعَيْنٍ ، أَوْ قَالَ : مِثْلا بِمِثْلٍ ، فَمَنْ زَادَ ، أَوِ ازْدَادَ فَقَدْ أَرْبَى \" /27 * \r\n@ 3 : 624 @!E567",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2295,
+      "grade": null
+    },
+    {
+      "hadith_id": 36247,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الثُّومِ وَالْبَصَلِ وَالْكُرَّاثِ ، قُلْنَا : يَا أَبَا سَعِيدٍ ، أَحَرَامٌ هُوَ ؟ قَالَ : لا'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الثُّومِ وَالْبَصَلِ وَالْكُرَّاثِ",
+              "full_name": "الثُّومِ وَالْبَصَلِ وَالْكُرَّاثِ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "الثُّومِ وَالْبَصَلِ وَالْكُرَّاثِ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَبِي سَعِيدٍ -> الثُّومِ وَالْبَصَلِ وَالْكُرَّاثِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الثُّومِ وَالْبَصَلِ وَالْكُرَّاثِ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، قَالَ : حَدَّثَنَا /26 بِشْرُ بْنُ حَرْبٍ النَّدَبِيُّ L1871 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : \" /20 نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الثُّومِ وَالْبَصَلِ وَالْكُرَّاثِ ، قُلْنَا : يَا أَبَا سَعِيدٍ ، أَحَرَامٌ هُوَ ؟ قَالَ : لا \" /27 * \r\n@ 3 : 625 @ \r\n$2272  2273 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2297,
+      "grade": null
+    },
+    {
+      "hadith_id": 36248,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ ، وَالْمُزَفَّتِ ، قُلْنَا : يَا أَبَا سَعِيدٍ ، أَحَرَامٌ هُوَ ؟ قَالَ : نَهَى عَنْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ",
+              "full_name": "الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَبِي سَعِيدٍ -> الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادٌ L2492 /94 ، قَالَ : حَدَّثَنَا /26 بِشْرُ بْنُ حَرْبٍ L1871 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : \" /20 نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الدُّبَّاءِ وَالْحَنْتَمِ وَالنَّقِيرِ ، وَالْمُزَفَّتِ ، قُلْنَا : يَا أَبَا سَعِيدٍ ، أَحَرَامٌ هُوَ ؟ قَالَ : نَهَى عَنْهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /27 * \r\n$2273  2274 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2298,
+      "grade": null
+    },
+    {
+      "hadith_id": 36249,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْوِصَالِ ، وَأُخْتِي هَذِهِ تُوَاصِلُ وَأَنَا أَنْهَاهَا'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الْوِصَالِ",
+              "full_name": "الْوِصَالِ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "الْوِصَالِ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَبِي سَعِيدٍ -> الْوِصَالِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الْوِصَالِ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادٌ L2492 /94 ، قَالَ : حَدَّثَنَا /26 بِشْرٌ L1871 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : \" /20 نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الْوِصَالِ ، وَأُخْتِي هَذِهِ تُوَاصِلُ وَأَنَا أَنْهَاهَا \" /27 * \r\n$2274  2275 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2299,
+      "grade": null
+    },
+    {
+      "hadith_id": 36250,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'دَعَا بِعَرَفَاتٍ ، فَقَالَ بِيَدَيْهِ هَكَذَا ، جَعَلَ ظُهُورَهُمَا إِلَى السَّمَاءِ وَبُطُونَهُمَا إِلَى الأَرْضِ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ سَلَمَةَ L2492 /94 ، قَالَ : حَدَّثَنَا /26 بِشْرُ بْنُ حَرْبٍ L1871 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /20 دَعَا بِعَرَفَاتٍ ،   @ 3 : 626 @    فَقَالَ بِيَدَيْهِ هَكَذَا ، جَعَلَ ظُهُورَهُمَا إِلَى السَّمَاءِ وَبُطُونَهُمَا إِلَى الأَرْضِ \" /27 *",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2300,
+      "grade": null
+    },
+    {
+      "hadith_id": 36252,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'عَنِ الْعَزْلِ ؟ فَقَالَ : لَيْسَ مِنْ كُلِّ الْمَاءِ يَكُونُ الْوَلَدُ ، وَإِذَا أَرَادَ اللَّهُ عَزَّ وَجَلَّ أَنْ يَخْلُقَ شَيْئًا لَمْ يَمْنَعْهُ شَيْءٌ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي إِسْحَاقَ",
+              "full_name": "المنذر بن مالك بن قطعة العبدي البصري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبَا الْوَدَّاكِ",
+              "full_name": "أَبَا الْوَدَّاكِ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "أَبَا الْوَدَّاكِ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَبِي إِسْحَاقَ -> أَبِي سَعِيدٍ -> أَبَا الْوَدَّاكِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أَبَا الْوَدَّاكِ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 أَبِي إِسْحَاقَ L6155 /26 ، قَالَ : سَمِعْتُ /26 أَبَا الْوَدَّاكِ L2087 /26 ، يُحَدِّثُ /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : لَمَّا أَصَبْنَا سَبْيَ خَيْبَرَ سَأَلْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 عَنِ الْعَزْلِ ؟ فَقَالَ : لَيْسَ مِنْ كُلِّ الْمَاءِ يَكُونُ الْوَلَدُ ، وَإِذَا أَرَادَ اللَّهُ عَزَّ وَجَلَّ أَنْ يَخْلُقَ شَيْئًا لَمْ يَمْنَعْهُ شَيْءٌ \" /27 * \r\n@ 3 : 627 @ \r\n$2276  2277 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2302,
+      "grade": null
+    },
+    {
+      "hadith_id": 36253,
+      "book_id": 52,
+      "english_translation": "Narrated by Abu Sa'id al-Khudri: The Messenger of Allah ﷺ said: 'أُتِيَ بِنَشْوَانَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، إِنِّي لَمْ أَشْرَبْ خَمْرًا ، إِنِّي شَرِبْتُ مِنْ دُبَّاءٍ ، فَأَمَرَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَخُفِقَ بِالنِّعَالِ ، وَنُهِزَ بِالأَيْدِي ، وَنَهَى أَنْ يُنْتَبَذَ فِي الدُّبَّاءِ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "أَبِي التَّيَّاحِ",
+              "full_name": "المنذر بن مالك بن قطعة العبدي البصري",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبَا الْوَدَّاكِ",
+              "full_name": "أَبَا الْوَدَّاكِ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            },
+            {
+              "name": "أَبَا سَعِيدٍ",
+              "full_name": "أَبَا سَعِيدٍ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "أَبَا الْوَدَّاكِ: unknown narrator - requires further research",
+            "أَبَا سَعِيدٍ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أَبِي التَّيَّاحِ -> أَبَا الْوَدَّاكِ -> أَبَا سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أَبَا الْوَدَّاكِ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        },
+        {
+          "issue": "أَبَا سَعِيدٍ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 أَبِي التَّيَّاحِ L8408 /26 ، قَالَ : سَمِعْتُ /26 أَبَا الْوَدَّاكِ L2087 /26 ، يَقُولُ : لا أَشْرَبُ فِي دُبَّاءٍ بَعْدَمَا /27 سَمِعْتُ /93 أَبَا سَعِيدٍ L3260 /93 ، يَقُولُ : إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" أُتِيَ بِنَشْوَانَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ، إِنِّي /20 لَمْ أَشْرَبْ خَمْرًا ، إِنِّي شَرِبْتُ مِنْ دُبَّاءٍ ، فَأَمَرَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَخُفِقَ بِالنِّعَالِ ، وَنُهِزَ بِالأَيْدِي ، وَنَهَى أَنْ يُنْتَبَذَ فِي الدُّبَّاءِ \" /27 * \r\n@ 3 : 628 @gE568",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2303,
+      "grade": null
+    },
+    {
+      "hadith_id": 36255,
+      "book_id": 52,
+      "english_translation": "Narrated by سعد بن مالك: The Messenger of Allah ﷺ said: 'عَنِ الْعَزْلِ ؟ فَقَالَ : لا عَلَيْكُمُ أَنْ لا تَفْعَلُوا ، فَإِنَّمَا هُوَ مِنَ الْقَدَرُ'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مَعْبَدِ بْنِ سِيرِينَ",
+              "full_name": "مَعْبَدِ بْنِ سِيرِينَ (full name unknown)",
+              "grade": "Majhul al-Hal",
+              "generation": "Unknown Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "unknown narrator - requires further research"
+              ]
+            },
+            {
+              "name": "أَبِي سَعِيدٍ",
+              "full_name": "سعد بن مالك بن سنان الخدري الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "مَعْبَدِ بْنِ سِيرِينَ: unknown narrator - requires further research"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مَعْبَدِ بْنِ سِيرِينَ -> أَبِي سَعِيدٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مَعْبَدِ بْنِ سِيرِينَ: unknown narrator - requires further research",
+          "impact": "Moderate concern"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Prophetic teaching narrated by Abu Sa'id al-Khudri"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، قَالَ : أَخْبَرَنِي /26 أَنَسُ بْنُ سِيرِينَ L717 /26 ، عَنْ /26 مَعْبَدِ بْنِ سِيرِينَ L7599 /26 ، /27 عَنْ /93 أَبِي سَعِيدٍ L3260 /93 ، قَالَ : سَأَلْنَا رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 عَنِ الْعَزْلِ ؟ فَقَالَ : لا عَلَيْكُمُ أَنْ لا تَفْعَلُوا ، فَإِنَّمَا هُوَ مِنَ الْقَدَرُ \" /27 * \r\n@ 3 : 629 @",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2305,
+      "grade": null
+    }
+  ]
+}

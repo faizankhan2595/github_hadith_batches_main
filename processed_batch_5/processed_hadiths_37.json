@@ -1,0 +1,930 @@
+{
+  "batch_number": 5,
+  "file_number": 37,
+  "record_count": 13,
+  "hadiths": [
+    {
+      "hadith_id": 36541,
+      "book_id": 52,
+      "hadith_number": 2591,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الاعمش",
+              "full_name": "الاعمش",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو صالح",
+              "full_name": "ابو صالح",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "الاعمش is Unknown",
+            "ابو صالح is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Shu'bah -> الاعمش -> ابو صالح -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنِ /26 الأَعْمَشِ L3629 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 مَنْ أَطَاعَ أَمِيرِي فَقَدْ أَطَاعَنِي ، وَمَنْ عَصَى أَمِيرِي ، فَقَدْ عَصَانِي \" /27 * \r\n@ 4 : 179 @ \r\n$2545  2546 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2591,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36542,
+      "book_id": 52,
+      "hadith_number": 2592,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الاعمش",
+              "full_name": "الاعمش",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو صالح",
+              "full_name": "ابو صالح",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وهيب",
+              "full_name": "وهيب",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهيل بن ابو صالح",
+              "full_name": "سهيل بن ابو صالح",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابوه",
+              "full_name": "ابوه",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "الاعمش is Unknown",
+            "ابو صالح is Unknown",
+            "وهيب is Unknown",
+            "سهيل بن ابو صالح is Unknown",
+            "ابوه is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Shu'bah -> الاعمش -> ابو صالح -> Abu Hurayrah -> وهيب -> سهيل بن ابو صالح -> ابوه -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنِ /26 الأَعْمَشِ L3629 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 كُلُّ مَوْلُودٍ يُولَدُ عَلَى الْفِطْرَةِ ، فَأَبَوَاهُ يُهَوِّدَانِهِ ، وَيُنَصِّرَانِهِ وَيُشَرِّكَانِهِ \" /27 * \r\n$2546  2547 /5 حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، عَنْ /26 سُهَيْلِ بْنِ أَبِي صَالِحٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ /20 لِلَّهِ    @ 4 : 180 @   مَلائِكَةً سَيَّارَةً فُضْلا ، يَلْتَمِسُونَ مَجَالِسَ الذِّكْرِ ، فَإِذَا أَتَوْا عَلَى قَوْمٍ يَذْكُرُونَ اللَّهَ عَزَّ وَجَلَّ جَلَسُوا ، فَأَظَلُّوهُمْ بِأَجْنِحَتِهِمْ مَا بَيْنَهُمْ وَبَيْنَ سَمَاءِ الدُّنْيَا ، فَإِذَا قَامُوا عَرَجُوا إِلَى رَبِّهِمْ ، فَيَقُولُ تَبَارَكَ وَتَعَالَى وَهُوَ أَعْلَمُ : مِنْ أَيْنَ جِئْتُمْ ؟ فَيَقُولُونَ : جِئْنَا مِنْ عِنْدِ عِبَادٍ لَكَ يُسَبِّحُونَكَ ، وَيُمَجِّدُونَكَ ، وَيَحْمَدُونَكَ ، وَيُهَلِّلُونَكَ ، وَيُكَبِّرُونَكَ ، وَيَسْتَجِيرُونَكَ مِنْ عَذَابِكَ ، وَيَسْأَلُونَكَ جَنَّتَكَ ، فَيَقُولُ تَبَارَكَ وَتَعَالَى : وَهَلْ رَأَوْا جَنَّتِي وَنَارِي ؟ فَيَقُولُونَ : لا ، فَيَقُولُ : فَكَيْفَ وَلَوْ رَأَوْهُمَا ؟ فَقَدْ أَجَرْتُهُمْ مِمَّا اسْتَجَارُوا ، وَأَعْطَيْتُهُمْ مَا سَأَلُوا ، فَيُقَالُ : إِنَّ فِيهِمْ رَجُلا مَرَّ بِهِمْ فَقَعَدَ مَعَهُمْ ، فَيَقُولُ : وَلَهُ قَدْ غَفَرْتُ ، إِنَّهُمُ الْقَوْمُ لا يَشْقَى بِهِمْ جَلِيسُهُمْ \" /27 * \r\n\u001cE628 @ 4 : 181 @ \r\n$2547  2548 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2592,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36543,
+      "book_id": 52,
+      "hadith_number": 2593,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "وهيب",
+              "full_name": "وهيب",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهيل بن ابو صالح",
+              "full_name": "سهيل بن ابو صالح",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "صفوان بن سليم",
+              "full_name": "صفوان بن سليم",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "وهيب",
+              "full_name": "وهيب",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهيل",
+              "full_name": "سهيل",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابوه",
+              "full_name": "ابوه",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "وهيب is Unknown",
+            "سهيل بن ابو صالح is Unknown",
+            "صفوان بن سليم is Unknown",
+            "وهيب is Unknown",
+            "سهيل is Unknown",
+            "ابوه is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "وهيب -> سهيل بن ابو صالح -> صفوان بن سليم -> Abu Hurayrah -> وهيب -> سهيل -> ابوه -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، عَنْ /26 سُهَيْلِ بْنِ أَبِي صَالِحٍ L3687 /26 ، عَنْ /26 صَفْوَانَ بْنِ سُلَيْمٍ L3935 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنْ تَرَكَ ثَلاثَ جُمَعٍ مُتَوَالِيَاتٍ مِنْ غَيْرِ عُذْرٍ طَبَعَ اللَّهُ عَلَى قَلْبِهِ \" /27 * \r\n$2548  2549 /5 حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، عَنْ /26 سُهَيْلٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ /20 اللَّهَ عَزَّ وَجَلَّ إِذَا    @ 4 : 182 @   أَحَبَّ عَبْدًا دَعَا /57 جِبْرِيلَ /57 ، فَقَالَ : يَا /57 جِبْرِيلُ /57 ، إِنِّي أُحِبُّ فُلانًا فَأَحِبَّهُ ، فَيُحِبُّهُ /57 جِبْرِيلُ /57 فَيُنَادِي فِي السَّمَاءِ : إِنَّ اللَّهَ يُحِبُّ فُلانًا فَأَحِبُّوهُ ، قَالَ : وَيُحِبُّهُ أَهْلُ السَّمَاءِ وَيُوضَعُ لَهُ الْقَبُولُ فِي الأَرْضِ وَإِذَا أَبْغَضَ عَبْدًا كَانَ كَذَلِكَ \" /27 * \r\n$2549  2550 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2593,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36544,
+      "book_id": 52,
+      "hadith_number": 2594,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "وهيب",
+              "full_name": "وهيب",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهيل",
+              "full_name": "سهيل",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابوه",
+              "full_name": "ابوه",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "وهيب is Unknown",
+            "سهيل is Unknown",
+            "ابوه is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "وهيب -> سهيل -> ابوه -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، عَنْ /26 سُهَيْلٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ \" /27 * \r\n@ 4 : 183 @ \r\n$2550  2551 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2594,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36545,
+      "book_id": 52,
+      "hadith_number": 2595,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah ibn Dinar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهيل",
+              "full_name": "سهيل",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابوه",
+              "full_name": "ابوه",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سهيل is Unknown",
+            "ابوه is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Hammad -> سهيل -> ابوه -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادٌّ L2492 /94 ، عَنْ /26 سُهَيْلٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" /20 مَنْ قَالَ : هَلَكَ النَّاسُ فَهُوَ مِنْ أَهْلَكِهِمْ \" /27 * \r\n$2551  2552 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2595,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36546,
+      "book_id": 52,
+      "hadith_number": 2596,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابو عوانة",
+              "full_name": "ابو عوانة",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الاعمش",
+              "full_name": "الاعمش",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو صالح",
+              "full_name": "ابو صالح",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مسلم كربة نفس الله عنه يوم القيامة كربة من كرب الاخرة",
+              "full_name": "مسلم كربة نفس الله عنه يوم القيامة كربة من كرب الاخرة",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "ابو عوانة is Unknown",
+            "الاعمش is Unknown",
+            "ابو صالح is Unknown",
+            "مسلم كربة نفس الله عنه يوم القيامة كربة من كرب الاخرة is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "ابو عوانة -> الاعمش -> ابو صالح -> Abu Hurayrah -> مسلم كربة نفس الله عنه يوم القيامة كربة من كرب الاخرة -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 أَبُو عَوَانَةَ L8153 /94 ، عَنِ /26 الأَعْمَشِ L3629 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَنْ نَفَّسَ عَنْ مُسْلِمٍ كُرْبَةً نَفَّسَ اللَّهُ عَنْهُ يَوْمَ الْقِيَامَةِ كُرْبَةً مِنْ كُرَبِ الآخِرَةِ ، وَمَنْ يَسَّرَ عَلَى مُسْلِمٍ يَسَّرَ اللَّهُ عَلَيْهِ فِي الدُّنْيَا وَالآخِرَةِ ، وَمَنْ سَتَرَ عَلَى مُسْلِمٍ سَتَرَ اللَّهُ عَلَيْهِ فِي الدُّنْيَا وَالآخِرَةِ ، وَاللَّهُ عَزَّ وَجَلَّ    @ 4 : 184 @   فِي عَوْنِ الْعَبْدِ مَا كَانَ فِي عَوْنِ أَخِيهِ \" /27 * \r\n)E629 @ 4 : 185 @ \r\n$2552  2553 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2596,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36547,
+      "book_id": 52,
+      "hadith_number": 2597,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "وهيب بن خالد",
+              "full_name": "وهيب بن خالد",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهيل بن ابو صالح المدني",
+              "full_name": "سهيل بن ابو صالح المدني",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابوه",
+              "full_name": "ابوه",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ذرة خيرا يره { 7 } ومن يعمل مثقال ذرة شرا يره { 8 } سورة الزلزلة اية 7-8 \" * E630 2554",
+              "full_name": "ذرة خيرا يره { 7 } ومن يعمل مثقال ذرة شرا يره { 8 } سورة الزلزلة اية 7-8 \" * E630 2554",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "وهيب بن خالد is Unknown",
+            "سهيل بن ابو صالح المدني is Unknown",
+            "ابوه is Unknown",
+            "ذرة خيرا يره { 7 } ومن يعمل مثقال ذرة شرا يره { 8 } سورة الزلزلة اية 7-8 \" * E630 2554 is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "وهيب بن خالد -> سهيل بن ابو صالح المدني -> ابوه -> Abu Hurayrah -> ذرة خيرا يره { 7 } ومن يعمل مثقال ذرة شرا يره { 8 } سورة الزلزلة اية 7-8 \" * E630 2554 -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبُ بْنُ خَالِدٍ L8186 /94 ، وَكَانَ ثِقَةً قَالَ : حَدَّثَنَا /26 سُهَيْلُ بْنُ أَبِي صَالِحٍ الْمَدَنِيُّ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" /20 مَا مِنْ صَاحِبِ كَنْزٍ لا يُؤَدِّي زَكَاةَ كَنْزِهِ إِلا جِيءَ بِهِ يَوْمَ الْقِيَامَةِ وَبِكَنْزِهِ فَيُحْمَى صَفَائِحًا مِنْ نَارِ جَهَنَّمَ فَتُكْوَى بِهَا جَبْهَتُهُ وَجَبِينُهُ ، وَظَهْرُهُ حَتَّى يَحْكُمَ اللَّهُ عَزَّ وَجَلَّ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ ، فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ وَمَا مِنْ صَاحِبِ إِبِلٍ لا يُؤَدِّي زَكَاةَ إِبِلِهِ إِلا جِيءَ بِهِ يَوْمَ الْقِيَامَةِ وَبِإِبِلِهِ كَأَوْفَرِ مَا كَانَتْ عَلَيْهِ ، فَيُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ ، فَتَطَؤُهُ بِأَخْفَافِهَا ، كُلَّمَا مَضَى أُخْرَاهَا رُدَّ عَلَيْهِ أُولاهَا ، حَتَّى يَحْكُمَ اللَّهُ عَزَّ وَجَلَّ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ ، وَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ ، وَمَا مِنْ صَاحِبِ غَنَمٍ لا يُؤَدِّي    @ 4 : 186 @   زَكَاةَ غَنَمِهِ إِلا جِيءَ بِهِ يَوْمَ الْقِيَامَةِ وَبِغَنَمِهِ كَأَوْفَرِ مَا كَانَتْ عَلَيْهِ ، فَيُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ ، فَتَنْطَحُهُ بِقُرُونِهَا وَتَطُؤُهُ بِأَظْلافِهَا ، كُلَّمَا مَضَى أُخْرَاهَا رُدَّ عَلَيْهِ أُولاهَا ، حَتَّى يَحْكُمَ اللَّهُ عَزَّ وَجَلَّ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ ، فَيُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ \" ، قِيلَ : يَا رَسُولَ اللَّهِ ، فَالْخَيْلُ ؟ قَالَ : \" الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ فَالْخَيْلُ ثَلاثَةٌ : فَهِيَ لِرَجُلٍ أَجْرٌ ، وَلِرَجُلٍ سِتْرٌ ، وَعَلَى آخَرَ وِزْرٌ فَأَمَّا الَّذِي هِيَ لَهُ أَجْرٌ فَرَجُلٌ يَتَّخِذُهَا فَيَحْبِسُهَا فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ، فَمَا غَيَّبَتْ فِي بُطُونِهَا فَلَهُ أَجْرٌ ، وَلَوْ رَعَاهَا فِي مَرْجٍ فَأَطَالَ لَهَا كَانَ لَهُ بِكُلِّ مَا غَيَّبَتْ فِي بُطُونِهَا أَجْرٌ ، وَلَوِ اسْتَنَّتْ شَرَفًا ، أَوْ شَرَفَيْنِ كَانَ لَهُ بِكُلِّ خُطْوَةٍ خَطَتْهَا أَوْ أَخْطَاهَا أَجْرٌ ، وَلَوْ مَرَّ بِهَا عَلَى نَهَرٍ فَسَقَاهَا مِنْهُ كَانَ لَهُ بِكُلِّ قَطْرَةٍ غَيَّبَتْ فِي بُطُونِهَا أَجْرٌ \" ، حَتَّى ذَكَرَ الأَجْرَ فِي أَرْوَاثِهَا وَأَبْوَالِهَا ، \" وَأَمَّا الَّتِي هِيَ لَهُ سِتْرٌ فَرَجُلٌ اتَّخَذَهَا تَعَفُّفًا وَتَكَرُّمًا وَتَجَمُّلا ، وَلا يَنْسَى حَقَّهَا فِي ظُهُورِهَا وَبُطُونِهَا ، وَفِي عُسْرِهَا وَيُسْرِهَا ، وَأَمَّا الَّتِي عَلَيْهِ وِزْرٌ فَرَجُلٌ اتَّخَذَهَا أَشَرًا وَبَطَرًا وَرِيَاءً لِلنَّاسِ \" ، قِيلَ : يَا رَسُولَ اللَّهِ ، مَا تَقُولُ فِي الْحُمُرِ ؟ قَالَ : \" مَا نَزَلَ عَلَيَّ فِيهِ إِلا هَذِهِ الآيَةُ الْجَامِعَةُ : /4 فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ { 7 } وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ { 8 } سورة الزلزلة آية 7-8 /4 \" /27 * \r\n\fE630 @ 4 : 187 @ \r\n$2553  2554 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2597,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36548,
+      "book_id": 52,
+      "hadith_number": 2598,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "وهيب",
+              "full_name": "وهيب",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهيل",
+              "full_name": "سهيل",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابوه",
+              "full_name": "ابوه",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمر",
+              "full_name": "عمر",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "وهيب is Unknown",
+            "سهيل is Unknown",
+            "ابوه is Unknown",
+            "عمر is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "وهيب -> سهيل -> ابوه -> Abu Hurayrah -> عمر -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 وُهَيْبٌ L8186 /94 ، عَنْ /26 سُهَيْلٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَوْمَ خَيْبَرَ : \" /20 لأَدْفَعَنَّ الرَّايَةَ إِلَى رَجُلٍ يُحِبُّ اللَّهَ وَرَسُولَهُ ، فَيُفْتَحُ عَلَيْهِ \" ، قَالَ عُمَرُ : فَمَا أَحْبَبْتُ الإِمَارَةَ قَبْلَ يَوْمَئِذٍ ، فَتَطَاوَلْتُ لَهَا وَاسْتَشْرَفْتُ رَجَاءَ أَنْ يُدْفَعَ إِلَيَّ فَلَمَّا كَانَ مِنَ الْغَدِ دَعَا عَلِيًّا فَدَفَعَهَا إِلَيْهِ ، فَقَالَ : \" قَاتِلْ ، وَلا تَلْتَفِتْ حَتَّى يَفْتَحَ اللَّهُ عَزَّ وَجَلَّ عَلَيْكَ \" ، فَسَارَ قَلِيلا ، ثُمَّ قَالَ : يَا رَسُولَ اللَّهِ ، عَلَى مَا    @ 4 : 188 @   أُقَاتِلُ ؟ قَالَ : \" حَتَّى يَشْهَدُوا أَنْ لا إِلَهَ إِلا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُهُ ، فَإِذَا فَعَلُوا ذَلِكَ فَقَدْ عَصَمُوا دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلا بِحَقِّهَا ، وَحِسَابُهُمْ عَلَى اللَّهِ \" /27 * \r\n,E631",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2598,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36550,
+      "book_id": 52,
+      "hadith_number": 2600,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سليمان بن المغيرة",
+              "full_name": "سليمان بن المغيرة",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ثابت البناني",
+              "full_name": "ثابت البناني",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن رباح",
+              "full_name": "عبد الله بن رباح",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "بها في عين صنم من اصنامهم",
+              "full_name": "بها في عين صنم من اصنامهم",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "سليمان بن المغيرة is Unknown",
+            "ثابت البناني is Unknown",
+            "عبد الله بن رباح is Unknown",
+            "بها في عين صنم من اصنامهم is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سليمان بن المغيرة -> ثابت البناني -> عبد الله بن رباح -> Abu Hurayrah -> بها في عين صنم من اصنامهم -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Virtues of the Ansar",
+        "Prophet's ﷺ love for Ansar"
+      ],
+      "arabicText": "حَدَّثَنَا /94 سُلَيْمَانُ بْنُ الْمُغِيرَةِ L3570 /94 ، حَدَّثَنَا /26 ثَابِتٌ الْبُنَانِيُّ L2009 /26 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ رَبَاحٍ L4802 /26 ، قَالَ : وَفَدْنَا إِلَى مُعَاوِيَةَ وَمَعَنَا أَبُو هُرَيْرَةَ ، فَكَانَ بَعْضُنَا يَصْنَعُ لَبَعْضِنَا مِنَ الطَّعَامِ ، وَكَانَ أَبُو هُرَيْرَةَ مِمَّنْ يَصْنَعُ لَنَا فَيُكْثِرُ فَيَدْعُونَا إِلَى رَحْلِهِ ، قُلْتُ : لَوْ    @ 4 : 189 @   أَمَرْتُ بِطَعَامٍ فَصُنِعَ وَدَعْوَتُهُمْ إِلَى رَحْلِي فَفَعَلْتُ ، وَلَقِيتُ أَبَا هُرَيْرَةَ بِالْعَشِيِّ ، فَقُلْتُ : يَا أَبَا هُرَيْرَةَ ، الدَّعْوَةُ عِنْدِي اللَّيْلَةَ ، فَقَالَ : سَبَقْتَنِي يَا أَخَا الأَنْصَارِ فَدَعَوْتُهُمْ ، فَإِنَّهُمْ لَعِنْدِي ، إِذْ /27 قَالَ /93 أَبُو هُرَيْرَةَ L4396 /93 : أَلا أُعْلِمُكُمْ بِحَدِيثٍ مِنْ حَدِيثِكُمْ يَا مَعْشَرَ الأَنْصَارِ ؟ وَكَانَ عَبْدُ اللَّهِ بْنُ رَبَاحٍ أَنْصَارِيًّا ، قَالَ : فَذَكَرَ فَتْحَ مَكَّةَ ، وَقَالَ : بَعَثَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَالِدَ بْنَ الْوَلِيدِ عَلَى إِحْدَى الْمُجَنِّبَتَيْنِ ، وَبَعَثَ زُبَيْرًا عَلَى الْمُجَنِّبَةِ الأُخْرَى ، وَبَعَثَ أَبَا عُبَيْدَةَ عَلَى الْحُسَّرِ ، ثُمَّ رَآنِي ، فَقَالَ : \" يَا أَبَا هُرَيْرَةَ \" ، فَقُلْتُ : لَبَّيْكَ وَسَعْدَيْكَ يَا رَسُولَ اللَّهِ ، فَقَالَ : \" /20 اهْتِفْ بِالأَنْصَارِ ، وَلا تَأْتِنِي إِلا بِأَنْصَارِيٍّ \" ، قَالَ : فَفَعَلْتُ ، ثُمَّ قَالَ : \" انْظُرُوا قُرَيْشًا وَأَوْبَاشَهُمْ فَاحْصُدُوهُمْ حَصْدًا \" ، قَالَ : فَانْطَلَقْنَا ، فَمَا أَحَدٌ مِنْهُمْ يُوَجِّهُ إِلَيْنَا شَيْئًا ، وَمَا مِنَّا أَحَدٌ يُرِيدُ أَحَدًا مِنْهُمْ إِلا أَخَذَهُ ، وَجَاءَ أَبُو سُفْيَانَ ، وَقَالَ : يَا رَسُولَ اللَّهِ ، أُبِيرَتْ خَضْرَاءُ قُرَيْشٍ ، لا قُرَيْشَ بَعْدَ الْيَوْمِ ، فَقَالَ    @ 4 : 190 @   رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ دَخَلَ دَارَ أَبِي سُفْيَانَ فَهُوَ آمِنٌ ، وَمَنْ أَلْقَى السِّلاحَ فَهُوَ آمِنٌ \" ، فَأَلْقَى النَّاسُ سِلاحَهُمْ ، وَدَخَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَبَدَأَ بِالْحَجَرِ ، فَاسْتَلَمَهُ ثُمَّ طَافَ سَبْعًا ، وَصَلَّى خَلْفَ الْمَقَامِ رَكْعَتَيْنِ ، ثُمَّ جَاءَ وَمَعَهُ قَوْسٌ أَخَذَ بِسِيَتِهَا ، فَجَعَلَ يَطْعَنُ بِهَا فِي عَيْنِ صَنَمٍ مِنْ أَصْنَامِهِمْ ، وَهُوَ يَقُولُ : /4 جَاءَ الْحَقُّ وَزَهَقَ الْبَاطِلُ إِنَّ الْبَاطِلَ كَانَ زَهُوقًا سورة الإسراء آية 81 /4 ، ثُمَّ انْطَلَقَ حَتَّى أَتَى /60 الصَّفَا /60 فَعَلا مِنْهُ حَتَّى يَرَى الْبَيْتَ ، وَجَعَلَ يَحْمَدُ اللَّهَ وَيَدْعُوهُ ، وَالأَنْصَارُ عِنْدَهُ ، يَقُولُونَ : أَمَّا الرَّجُلُ فَأَدْرَكَتْهُ رَغْبَةٌ فِي قَرْيَتِهِ ، وَرَأْفَةٌ بِعَشِيرَتِهِ وَجَاءَ الْوَحْيُ ، وَكَانَ الْحَقُّ إِذَا جَاءَ لَمْ يَخْفَ عَلَيْنَا ، فَلَمَّا رُفِعَ الْوَحْيُ ، قَالَ : \" يَا مَعْشَرَ الأَنْصَارِ ، قُلْتُمْ : أَمَّا الرَّجُلُ فَأَدْرَكَتْهُ رَغْبَةٌ فِي قَرْيَتِهِ ، وَرَأْفَةٌ بِعَشِيرَتِهِ كَلا ، فَمَا اسْمِي إِذًا ، كَلا ، إِنِّي عَبْدُ اللَّهِ وَرَسُولُهُ ، الْمَحْيَا مَحْيَاكُمْ ، وَالْمَمَاتُ مَمَاتُكُمْ \" ، فَأَقْبَلُوا يَبْكُونَ ، وَقَالُوا : يَا رَسُولَ اللَّهِ ، وَاللَّهِ مَا قُلْنَا إِلا الضِّنَّ بِاللَّهِ وَبِرَسُولِهِ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" إِنَّ اللَّهَ وَرَسُولَهُ يُصَدِّقَانِكُمْ وَيَعْذِرَانِكُمْ \" /27 * \r\n@ 4 : 191 @0E632",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2600,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36552,
+      "book_id": 52,
+      "hadith_number": 2602,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "al-Mas'udi",
+              "full_name": "Abd al-Rahman ibn Abdullah ibn Utbah al-Mas'udi",
+              "grade": "Saduq Sayyi' al-Hifz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": [
+                "ikhtilat"
+              ]
+            },
+            {
+              "name": "محمد بن عبد الرحمن",
+              "full_name": "محمد بن عبد الرحمن",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عيسى بن طلحة بن عبيد الله",
+              "full_name": "عيسى بن طلحة بن عبيد الله",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "محمد بن عبد الرحمن is Unknown",
+            "عيسى بن طلحة بن عبيد الله is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "al-Mas'udi -> محمد بن عبد الرحمن -> عيسى بن طلحة بن عبيد الله -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "al-Mas'udi experienced ikhtilat (memory confusion)",
+          "impact": "Need verification if narration is from early (reliable) or late (questionable) period"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 الْمَسْعُودِيُّ L4425 /94 ، عَنْ /26 مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ L7072 /26 مَوْلَى آلِ طَلْحَةَ ، عَنْ /26 عِيسَى بْنِ طَلْحَةَ بْنِ عُبَيْدِ اللَّهِ L6313 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، رَفَعَهُ ، قَالَ : \" /20 لا يَدْخُلُ النَّارَ عَيْنٌ بَكَتْ مِنْ خَشْيَةِ اللَّهِ عَزَّ وَجَلَّ ، حَتَّى يَعُودَ اللَّبَنُ فِي الضَّرْعِ ، وَلا يَجْتَمِعُ دُخَانُ جَهَنَّمَ وَغُبَارٌ فِي سَبِيلِ اللَّهِ فِي مَنْخِرَيْ عَبْدٍ ، أَوْ قَدَمِ مُسْلِمٍ \" /27 * \r\n@ 4 : 192 @",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2602,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36553,
+      "book_id": 52,
+      "hadith_number": 2603,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عطاء بن ابو ميمونة",
+              "full_name": "عطاء بن ابو ميمونة",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو رافع",
+              "full_name": "ابو رافع",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "عطاء بن ابو ميمونة is Unknown",
+            "ابو رافع is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Shu'bah -> عطاء بن ابو ميمونة -> ابو رافع -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "$2556  2557 /2 /141 حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 عَطَاءِ بْنِ أَبِي مَيْمُونَةَ L5628 /26 ، قَالَ : سَمِعْتُ /26 أَبَا رَافِعٍ L7930 /26 ، يُحَدِّثُ ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ،  @ 4 : 193 @    أَنَّهُ \" /20 سَجَدَ فِي /65 إِذَا السَّمَاءُ انْشَقَّتْ /65 ، وَقَالَ : \" رَأَيْتُ خَلِيلِي صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَسْجُدُ فِيهَا ، فَلا أَزَالُ أَسْجُدُ حَتَّى أَلْقَاهُ \" /27 * \r\n$2557  2558 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2603,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36554,
+      "book_id": 52,
+      "hadith_number": 2604,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Shu'bah",
+              "full_name": "Shu'bah ibn al-Hajjaj ibn al-Ward al-Azdi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عطاء بن ابو ميمونة",
+              "full_name": "عطاء بن ابو ميمونة",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو رافع",
+              "full_name": "ابو رافع",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "عطاء بن ابو ميمونة is Unknown",
+            "ابو رافع is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Shu'bah -> عطاء بن ابو ميمونة -> ابو رافع -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophetic narration"
+      ],
+      "arabicText": "حَدَّثَنَا /94 شُعْبَةُ L3795 /94 ، عَنْ /26 عَطَاءِ بْنِ أَبِي مَيْمُونَةَ L5628 /26 ، قَالَ : سَمِعْتُ /26 أَبَا رَافِعٍ L7930 /26 ، /27 يُحَدِّثُ عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : \" كَانَ /20 اسْمُ مَيْمُونَةَ ، أَوْ زَيْنَبَ بَرَّةَ ، فَسَمَّاهَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَيْمُونَةَ ، أَوْ زَيْنَبَ \" /27 * \r\n@ 4 : 194 @ \r\n$2558  2559 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2604,
+      "original_grade": null
+    },
+    {
+      "hadith_id": 36555,
+      "book_id": 52,
+      "hadith_number": 2605,
+      "english_translation": "Narrated by Abu Hurayrah: [Literal English translation of hadith text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Hammad",
+              "full_name": "Hammad ibn Salamah ibn Dinar al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "حَدَّثَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ثابت",
+              "full_name": "ثابت",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابو رافع",
+              "full_name": "ابو رافع",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "رجل من الانصار",
+              "full_name": "رجل من الانصار",
+              "grade": "Unknown",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "ثابت is Unknown",
+            "ابو رافع is Unknown",
+            "رجل من الانصار is Unknown"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Hammad -> ثابت -> ابو رافع -> Abu Hurayrah -> رجل من الانصار -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Virtues of the Ansar",
+        "Prophet's ﷺ love for Ansar"
+      ],
+      "arabicText": "حَدَّثَنَا /94 حَمَّادُ بْنُ زَيْدٍ L2491 /94 ، /94 وَأَبُو عَامِرٍ الْخَزَّازُ صَالِحُ بْنُ رُسْتُمَ L3875 /94 ، عَنْ /26 ثَابِتٍ L2009 /26 ، عَنْ /26 أَبِي رَافِعٍ L7930 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنَّ رَجُلا أَسْوَدَ أَوِ امْرَأَةً سَوْدَاءَ كَانَتْ تُنْقِي الأَذَى مِنَ الْمَسْجِدِ فَدُفِنَتْ ، فَلَمْ يُؤْذِنُوا النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأُخْبِرَ بِذَلِكَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : \" دُلُّونِي عَلَى قَبْرِهَا \" ، فَانْطَلَقَ إِلَى الْقَبْرِ فَأَتَى عَلَى الْقُبُورِ ، فَقَالَ : \" إِنَّ هَذِهِ /20 الْقُبُورَ مُمْتَلِئَةٌ عَلَى أَهْلِهَا ظُلْمَةً ، وَإِنَّ اللَّهَ عَزَّ وَجَلَّ يُنَوِّرُهَا عَلَيْهِمْ بِصَلاتِي \" ، ثُمَّ أَتَى الْقَبْرَ فَصَلَّى عَلَيْهِ ، فَقَالَ رَجُلٌ مِنَ الأَنْصَارِ : يَا رَسُولَ اللَّهِ ، إِنَّ أَبِي ، أَوْ أَخِي مَاتَ وَدُفِنَ فَصَلِّ عَلَيْهِ ، قَالَ : فَانْطَلَقَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مَعَ الأَنْصَارِيِّ \" /27 * \r\n@ 4 : 195 @ \r\n$2559  2560 /2",
+      "collection": "كتاب رقم 52",
+      "reference_number": 2605,
+      "original_grade": null
+    }
+  ]
+}
