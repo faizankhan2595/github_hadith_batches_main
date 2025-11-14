@@ -143,8 +143,8 @@ ISNAD INTEGRITY SCALE (IIS) FOR GRADING:
 • "Sound": Reliable narrators, minor transmission term concerns, no clear disconnections, chain integrity maintained
 • "Acceptable": Generally reliable narrators with some ambiguous transmission terms (عن/أن) from non-mudallis narrators, minor issues not significantly impacting authenticity, if it from known mudallis but he is very reliable then it can be acceptable like Ibn Shihab al-Zuhri (He is just an example, you need to use your best knowledge to identify such narrators and mention them in the analysis), even if there are multiple ambiguous terms in the chain but if the narrators are reliable then it can be acceptable.
 • "Questionable But Might Be Acceptable": Concerns with narrator reliability or ambiguous transmission terms from known or very famous mudallis narrators, or potential disconnections
-• "Weak But Might Be Acceptable": More Questionable then the previous category but not clearly Problematic as defined below, as that is the last category. this category will be similar to hasan hadith kind of category i.e it can be acceptable but is not completely da'if.
-• "Problematic": Clear disconnections, weak narrators, significant transmission term issues, or contradictions with stronger narrations
+• "Weak But Might Be Acceptable": More Questionable then the previous category but not clearly Problematic as defined below, as that is the last category. This category is for weak hadith but not the hadith that are transmitted by DAIF narrators i.e narrators of these categories - Da'if - Weak, Da'if Jiddan - Very Weak, Munkar al-Hadith - Rejected in Hadith, Matruk - Abandoned, Matruk al-Hadith - Abandoned in Hadith, Kadhdhab - Liar, Wadda' - Fabricator
+• "Problematic": This is a clear last grade which is only if hadith is having any narrator that is classified as Da'if - Weak, Da'if Jiddan - Very Weak, Munkar al-Hadith - Rejected in Hadith, Matruk - Abandoned, Matruk al-Hadith - Abandoned in Hadith, Kadhdhab - Liar, Wadda' - Fabricator, any of these.
 
 
 COLLECTION-SPECIFIC CONSIDERATIONS:
@@ -161,6 +161,13 @@ Please use ﷺ whenever we are mentioning Prophet Muhammad ﷺ
 Also our translation should be very literal, unlike other translation which tranlate hadith in a way that is easy to understand, we need to be as literal as possible like each word should be translated as it is in the hadith. 
 
 {
+"hadith_id": "integer", // as per enriched_hadiths_X.json
+ "book_id": "integer", // as per enriched_hadiths_X.json
+ "book_name_ar": "string", // as per enriched_hadiths_X.json
+ "book_name_en": "string", // as per enriched_hadiths_X.json
+ "author_name_ar": "string", // as per enriched_hadiths_X.json
+ "author_name_en": "string", // as per enriched_hadiths_X.json 
+ "hadith_number": "string", // as per enriched_hadiths_X.json
 "english_translation": "string", // Literal translation of the hadith text we should, but it should be understandbale and should not contain any arabic text, it should be in english only. Also don't include any hadith number or collection name in the translation or full chain of narrators, as this should be matn only. Although chain might be included in the arabic one but we should only try to include matn or meaning of the hadith in this field, we must however include the main narrator name in the translation like "Narrated by Abu Hurayrah" or "Narrated by Ibn Abbas" etc. but do not include any other narrator name in the translation.
 "chains": [
 // Note we need to include full chain from last narrator/collector till Prophet Muhammad ﷺ , we should not leave any narrator in between even for common multiple chains, we should include all narrators in the each chain.
@@ -174,7 +181,23 @@ Also our translation should be very literal, unlike other translation which tran
 "grade": "string" // use your best knowledge to generate this with only these options ["Awthaq al-Nas", "Thabt Hujjah", "Thabt Hafiz", "Thiqah Thabt", "Thiqah", "Thiqah Yukhti'", "La Ba'sa Bihi", "Saduq/Sadooq", "Saduq Yahim", "Saduq Lahu Awham", "Saduq Sayyi' al-Hifz", "Saduq Yugrib", "Saduq Yukhtī", "Maqbul", "Layyin al-Hadith", "Majhul", "Majhul al-Hal", "Da'if", "Da'if Jiddan", "Munkar al-Hadith", "Matruk", "Matruk al-Hadith", "Kadhdhab", "Wadda'"]
 "generation": "string", // Use descriptive categories like "Companion", "First Generation", etc.
 "transmissionTerm": "string", // How they received it (e.g., "حَدَّثَنَا", "عَنْ") // it must be from the list of transmission terms mentioned in the prompt above.
-"reliabilityIssues": ["string"] // e.g., ["mudallis", "ikhtilat", "majhul"... or any other issues]
+"reliabilityIssues": ["string"] // e.g., ["mudallis", "ikhtilat", "majhul"... or any other issues],
+// all other keys from enriched_hadiths_X.json about this narrator like narrator_id, and other fields. 
+"narrator_id": "integer", // as per enriched_hadiths_X.json,
+"alternative_names": "string", // as per enriched_hadiths_X.json
+"original_id": "integer", // as per enriched_hadiths_X.json
+"kunya": "string", // as per enriched_hadiths_X.json
+"nisba": "string", // as per enriched_hadiths_X.json
+"nisba_ar": "string", // as per enriched_hadiths_X.json
+"generation": "string", // as per enriched_hadiths_X.json
+"grade": "string", // as per enriched_hadiths_X.json
+"death_year": "string", // as per enriched_hadiths_X.json
+"birth_year": "string", // as per enriched_hadiths_X.json
+"reliability_grade": "string", // as per enriched_hadiths_X.json
+"tabaqat": "string", // as per enriched_hadiths_X.json
+"location": "string", // as per enriched_hadiths_X.json
+"transmissionTerm":  "string", // as per enriched_hadiths_X.json
+"transmissionTermMeaning":  "string", // as per enriched_hadiths_X.json
 }
 ],
 "chainIssues": ["string"] // IMPORTANT: Include ANY transmission term differences between chains here
@@ -215,7 +238,8 @@ Your analysis should be as critical as possible as we don't want anything wrongl
 Again mentioning (Very very Important) If someone is known or classified for doing mudallis by Ibn Hajar or someone else, and if he/she is using an indirect term like عَنْ, ('an) "قَالَ" (qala) "أنَّ" (anna), "بَلَغَنِي" (balaghani) then do mention that. use your best knowledge for this. BUT if he is generally considered reliable then mention it but do not affect the grade of the hadith. 
 Example Ibn Shihab al-Zuhri is a classified as mudallis by some scholars however he is also a reliable narrator by majority of scholars. So for such cases mention that he is a might be a mudallis but is also a reliable narrator and do not affect the grade of the hadith. This is just an example, you need to use your best knowledge to identify each narrators and mention them in the analysis and if someone is a known mudallis but is not considered reliable by majority of scholars then do mention that and affect the grade of the hadith as well. This is very important that for an, qala, anna, we reduce the grade of hadith only if the narrator is not reliable or is a known mudallis and is not considered reliable by majority of scholars, however we need to mention the tadlis no matter what where ever it is done.
 
-Sample outputs.
+Sample outputs (it is missing narrator extra information from enriched_hadiths_X.json file i.e "narrator_id", "alternative_names", "original_id", "kunya", "nisba", "nisba_ar", "generation", "grade", "death_year", "birth_year", "reliability_grade", "tabaqat", "location", "transmissionTerm", "transmissionTermMeaning", but in our processing we need to add this, and it is also missing "hadith_id": "book_id", "book_name_ar", "book_name_en", "author_name_ar",  "author_name_en", "hadith_number",
+)
 ```
 {
     "english_translation": "Ali ibn Abdullah narrated to us: Sufyan narrated to us, from Abi Hazim, from Sahl bin Saad al-Sa'idi, who said: The Messenger of Allah ﷺ said: 'A place equal to the size of a whip in Paradise is better than the world and what is in it.'",
