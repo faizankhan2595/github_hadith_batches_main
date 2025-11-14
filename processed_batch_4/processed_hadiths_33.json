@@ -1,0 +1,824 @@
+{
+  "batch_number": 4,
+  "file_number": 33,
+  "record_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 27481,
+      "book_id": 47,
+      "english_translation": "Narrated by \" جَرَادَةٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدٌ   عَنْ",
+              "full_name": "سَعِيدٌ   عَنْ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "الْقَاسِمَ بْنَ مُحَمَّدٍ",
+              "full_name": "الْقَاسِمَ بْنَ مُحَمَّدٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "بُكَيْرِ بْنِ",
+              "full_name": "بُكَيْرِ بْنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "\" جَرَادَةٍ",
+              "full_name": "\" جَرَادَةٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سَعِيدٌ   عَنْ -> الْقَاسِمَ بْنَ مُحَمَّدٍ -> بُكَيْرِ بْنِ -> \" جَرَادَةٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ   عَنْ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "الْقَاسِمَ بْنَ مُحَمَّدٍ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "بُكَيْرِ بْنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "\" جَرَادَةٍ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 سَعِيدٌ L3332 /94 ، عَنْ /26 بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الْأَشَجِّ L1951 /26 ، قَالَ : سَمِعْتُ /26 الْقَاسِمَ بْنَ مُحَمَّدٍ L1598 /26 ، يَقُولُ : /27 كُنْتُ جَالِسًا عِنْدَ /93 عَبْدِ اللَّهِ بْنِ عَبَّاسٍ L4883 /93 ، فَسَأَلَهُ رَجُلٌ عَنْ /20 \" جَرَادَةٍ ، قَتَلَهَا وَهُوَ مُحْرِمٌ ، فَقَالَ : فِيهَا قَبْضَةٌ مِنْ طَعَامٍ ، وَلَنَأْخُذَنَّ بِقَبْضَةٍ جَرَادَاتٍ , وَلَكِنْ وَلَوْ \" /27 . * \r\nوَهَذَا يَدُلُّ عَلَى أَنَّهُ إنَّمَا رَأَى عَلَيْهِ قِيمَةَ الْجَرَادَةِ ، وَأَمَرَهُ بِالِاحْتِيَاطِ ، وَفِي الْجَرَادَةِ قِيمَتُهَا فِي الْمَوْضِعِ الَّذِي يُصِيبُهَا فِيهِ كَانَ تَمْرَةً ، أَوْ أَقَلَّ أَوْ أَكْثَرَ ، وَهَذَا مَذْهَبُ الْقَوْمِ ، وَاللَّهُ أَعْلَمُ ، وَوَجَدْتُ مَذْهَبَ عُمَرَ وَابْنِ عَبَّاسٍ وَغَيْرِهِمْ فِي الْجَرَادَةِ أَنَّ فِيهَا قِيمَتَهَا ، وَوَجَدْتُ كَذَلِكَ مَذْهَبَهُمْ أَنَّ فِي دَوَابِ الصَّيْدِ مِثْلَهُ مِنَ النَّعَمِ بِلَا قِيمَةٍ ؛ لِأَنَّ الضَّبُعَ لَا يَسْوَى كَبْشًا ، وَالْغَزَالَ قَدْ يَسْوَى عَنْزًا وَلَا يَسْوَى عَنْزًا ، وَالْيَرْبُوعَ لَا يَسْوَى جَفْرَةً ، وَالْأَرْنَبَ لَا يَسْوَى عَنَاقًا . قَلَّمَا رَأَيْتهُمْ ذَهَبُوا فِي دَوَابِ الصَّيْدِ عَلَى تَقَارُبِ الْأَبْدَانِ لَا الْقِيَمِ لِمَا وَصَفْتُ ، وَلِأَنَّهُمْ حَكَمُوا فِي بُلْدَانٍ مُخْتَلِفَةٍ ، وَأَزْمَانٍ شَتَّى , وَلَوْ حَكَمُوا بِالْقِيَمِ لَاخْتَلَفَتْ أَحْكَامُهُمْ لِاخْتِلَافِ الْبُلْدَانِ وَالْأَزْمَانُ ، وَلَقَالُوا فِيهِ قِيمَتُهُ كَمَا قَالُوا فِي الْجَرَادَةِ ، وَوَجَدْتُ مَذَاهِبَهُمْ مُجْتَمِعَةً عَلَى الْفَرْقِ بَيْنَ الْحُكْمِ فِي الدَّوَابِ وَالطَّائِرِ لِمَا وَصَفْتُ مِنْ أَنَّ فِي الدَّوَابِ مِثْلًا مِنَ النَّعَمِ ، وَفِي الْجَرَادَةِ مِنَ الطَّائِرِ قِيمَةٌ ، وَفِيمَا دُونَ الْحَمَامِ . قَالَ الشَّافِعِيُّ : ثُمَّ وَجَدْتُ مَذَاهِبَهُمْ تُفَرِّقُ بَيْنَ الْحَمَامِ وَبَيْنَ الْجَرَادَةِ ؛ لِأَنَّ الْعِلْمَ يُحِيطُ أَنْ لَيْسَ يَسْوَى حَمَامُ مَكَّةَ شَاةً ، وَإِذَا كَانَ هَذَا هَكَذَا ، فَإِنَّمَا فِيهِ أَتْبَاعُهُمْ ؛ لِأَنَّا لَا نَتَوَسَّعُ فِي خِلَافِهِمْ إلَّا إلَى مِثْلِهِمْ ، وَلَمْ نَعْلَمْ مِثْلَهُمْ خَالَفَهُمْ . وَالْفَرْقُ بَيْنَ حَمَامِ مَكَّةَ وَمَا دُونَهُ مِنْ صَيْدِ الطَّيْرِ يَقْتُلُهُ الْمُحْرِمُ ، لَا يَجُوزُ فِيهِ إلَّا أَنْ يُقَالَ بِمَا تَعْرِفُ الْعَرَبُ مِنْ أَنَّ الْحَمَامَ عِنْدَهُمْ أَشْرَفُ الطَّائِرِ وَأَغْلَاهُ ثَمَنًا ، بِأَنَّهُ الَّذِي كَانَتْ تُؤْلَفُ فِي مَنَازِلِهِمْ ، وَتَرَاهُ أَعْقَلَ الطَّائِرِ وَأَجْمَعَهُ لِلْهِدَايَةِ بِحَيْثُ يُؤْلَفُ , وَسُرْعَةُ الْأُلْفَةِ وَأَصْوَاتُهُ الَّتِي لَهَا عِنْدَهُمْ فَضْلٌ لِاسْتِحْسَانِهِمْ هَدِيرَهَا , وَأَنَّهُمْ كَانُوا يَسْتَمْتِعُونَ بِهَا لِأَصْوَاتِهَا ، وَإِلْفِهَا ، وَهِدَايَتِهَا ، وَفِرَاخِهَا ، وَكَانَتْ مَعَ هَذَا    @ 2 : 215 @   مَأْكُولَةً ، وَلَمْ يَكُنْ شَيْءٌ مِنْ مَأْكُولِ الطَّائِرِ يُنْتَفَعُ بِهِ عِنْدَهَا إلَّا لَأَنْ يُؤْكَلَ ، فَيُقَالُ : كُلُّ شَيْءٍ مِنَ الطَّائِرِ سَمَّتْهُ الْعَرَبُ حَمَامَةً ، فَفِيهِ شَاةٌ ، وَذَلِكَ الْحَمَامُ نَفْسُهُ ، وَالْيَمَامُ ، وَالْقَمَارِيُّ ، وَالدَّبَّاسِيُّ ، وَالْفَوَاخِتُ ، وَكُلُّ مَا أَوْقَعَتِ الْعَرَبُ عَلَيْهِ اسْمَ حَمَامَةٍ . قَالَ الشَّافِعِيُّ : وَقَدْ كَانَ مِنَ الْعَرَبِ مَنْ يَقُولُ : حَمَامُ الطَّائِرِ نَاسُ الطَّائِرِ ، أَيْ يَعْقِلُ عَقْلَ النَّاسِ ، وَذَكَرَتِ الْعَرَبُ الْحَمَامَ فِي أَشْعَارِهَا ، فَقَالَ الْهُذَلِيُّ :   /50 /51 وَذَكَّرَنِي بُكَايَ عَلَى تَلِيدٍ /51 /51 حَمَامَةَ أَنْ تَجَاوَبَتِ الْحَمَامَا /51 /50   وَقَالَ الشَّاعِرُ :   /50 /51 أَحِنُّ إذَا حَمَامَةُ بَطْنِ وَجٍّ /51 /51 تَغَنَّتْ فَوْقَ مَرْقَبَةٍ حُنَيْنًا /51 /50   وَقَالَ جَرِيرٌ :   /50 /51 إنِّي تُذَكِّرُنِي الزُّبَيْرَ حَمَامَةٌ /51 /51 تَدْعُو بِمِدْفَعِ رَامَتَيْنِ هَدِيلًا /51 /50   قَالَ الرَّبِيعُ : وَقَالَ الشَّاعِرُ :   /50 /51 وَقَفْتُ عَلَى الرَّسْمِ الْمُحِيلِ فَهَاجِنِي /51 /51 بُكَاءُ حَمَامَاتٍ عَلَى الرَّسْمِ وُقَّعِ /51 /50   قَالَ الشَّافِعِيُّ : مَعَ شِعْرٍ كَثِيرٍ قَالُوهُ فِيهَا , ذَهَبُوا فِيهِ إلَى مَا وَصَفْتُ مِنْ أَنَّ أَصْوَاتِهَا غِنَاءٌ وَبُكَاءٌ مَعْقُولٌ عِنْدَهُمْ ، وَلَيْسَ ذَلِكَ فِي شَيْءٍ مِنَ الطَّائِرِ غَيْرُ مَا وَقَعَ عَلَيْهِ اسْمُ الْحَمَامِ . قَالَ الشَّافِعِيُّ : فَيُقَالُ فِيمَا وَقَعَ عَلَيْهِ اسْمُ الْحَمَامِ مِنَ الطَّائِرِ , فِيهِ شَاةٌ لِهَذَا الْفَرْقِ ، بِاتِّبَاعِ الْخَبَرِ عَمَّنْ سَمَّيْتُ فِي حَمَامِ مَكَّةَ ، وَلَا أَحْسَبُهُ يُذْهَبُ فِيهِ مَذْهَبٌ أَشْبَهُ بِالْفِقْهِ مِنْ هَذَا الْمَذْهَبِ , وَمَنْ ذَهَبَ هَذَا الْمَذْهَبَ انْبَغَى أَنْ يَقُولَ مَا لَمْ يَقَعْ عَلَيْهِ اسْمُ حَمَامَةٍ مِمَّا دُونَهَا أَوْ فَوْقَهَا ، فَفِيهِ قِيمَتُهُ فِي الْمَوْضِعِ الَّذِي يُصَابُ فِيهِ .0E655",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1516
+    },
+    {
+      "hadith_id": 27483,
+      "book_id": 47,
+      "english_translation": "Narrated by عَطَاءٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدُ بْنُ",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سَعِيدٌ",
+              "full_name": "سَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "مُسْلِمٌ",
+              "full_name": "مُسْلِمٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "سَعِيدِ بْنِ",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قَتَادَةَ",
+              "full_name": "قتادة بن دعامة بن قتادة السدوسي البصري",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Mudallis category 3",
+                "Using ambiguous term 'عَنْ' while being mudallis"
+              ]
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سَعِيدُ بْنُ -> سَعِيدٌ -> مُسْلِمٌ -> سَعِيدِ بْنِ -> قَتَادَةَ -> عَطَاءٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "مُسْلِمٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "قَتَادَةَ: Mudallis category 3",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "قَتَادَةَ: Using ambiguous term 'عَنْ' while being mudallis",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ : وَقَدْ ذَهَبَ ذَاهِبٌ إلَى أَنَّ فِي حَمَامِ مَكَّةَ شَاةً ، وَمَا سِوَاهُ مِنْ حَمَامٍ غَيْرِ حَمَامِ مَكَّةَ وَغَيْرِهِ مِنَ الطَّائِرِ قِيمَتَهُ . قَالَ الشَّافِعِيُّ : وَيَدْخُلُ عَلَى الَّذِي قَالَ : فِي حَمَامِ مَكَّةَ شَاةٌ ، إنْ كَانَ إنَّمَا جَعَلَهُ لِحُرْمَةِ الْحَمَامِ نَفْسِهِ أَنْ يَجْعَلَ عَلَى مَنْ قَتَلَ حَمَامَ مَكَّةَ خَارِجًا مِنَ الْحَرَمِ ، وَفِي غَيْرِ إحْرَامٍ شَاةً . قَالَ الشَّافِعِيُّ : وَلَا شَيْءَ فِي حَمَامِ مَكَّةَ إذَا قَتَلَ خَارِجًا مِنَ الْحَرَمِ ، وَقَتَلَهُ غَيْرُ مُحْرِمٍ ، وَإِذَا كَانَ هَذَا مَذْهَبَنَا وَمَذْهَبَهُ فَلَيْسَ لِحَمَامِ مَكَّةَ إلَّا مَا لِحَمَامِ غَيْرِ مَكَّةَ ، وَإِنْ كَانَ ذَهَبَ إلَى أَنَّهُ جُمِعَ أَنَّهُ فِي الْحَرَمِ وَمِنْ حَمَامِ مَكَّةَ انْبَغَى أَنْ يَقُولَ هَذَا   فِي كُلِّ صَيْدٍ غَيْرِهِ قُتِلَ فِي الْحَرَمِ . قَالَ الشَّافِعِيُّ : وَمَذْهَبُنَا وَمَذْهَبُهُ أَنَّ الصَّيْدَ يَقْتُلُهُ الْمُحْرِمُ الْقَارِنُ فِي الْحَرَمِ ، كَالصَّيْدِ يَقْتُلُهُ الْمُحْرِمُ الْمُفْرِدُ ، أَوِ الْمُعْتَمِرُ خَارِجًا مِنَ الْحَرَمِ ، وَمَا قَالَ مِنْ هَذَا قَوْلٌ : إذَا كُشِفَ لَمْ يَكُنْ لَهُ وَجْهٌ ، وَلَا يَصِحُّ أَنْ يَقُولَ فِي حَمَامِ الْحَرَمِ : فِيهِ شَاةٌ ، وَلَا يَكُونُ فِي غَيْرِ حَمَامِ الْحَرَمِ شَاةٌ ، إذَا كَانَ قَوْلُهُ : إنَّ حَمَامَ الْحَرَمِ إذَا أُصِيبَ خَارِجًا مِنْهُ فِي غَيْرِ إحْرَامٍ فَلَا شَيْءَ فِيهِ .   @ أَخْبَرَنَا سَعِيدُ بْنُ سَالِمٍ ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ ، عَنْ قَتَادَةَ ، أَنَّهُ قَالَ : إنْ أَصَابَ الْمُحْرِمُ حَمَامَةً خَارِجًا مِنَ الْحَرَمِ فَعَلَيْهِ دِرْهَمٌ ، وَإِنْ أَصَابَ مِنْ حَمَامِ الْحَرَمِ فِي الْحَرَمِ فَعَلَيْهِ شَاةٌ . قَالَ الشَّافِعِيُّ : وَهَذَا    @ 2 : 216 @   وَجْهٌ مِنَ الْقَوْلِ الَّذِي حَكَيْتُ قَبْلَهُ ، وَلَيْسَ لَهُ وَجْهٌ يَصِحُّ ، مِنْ قِبَلِ أَنَّهُ يَلْزَمُهُ أَنْ يَجْعَلَ فِي حَمَامِ مَكَّةَ إذَا أُصِيبَ خَارِجًا مِنَ الْحَرَمِ ، وَفِي غَيْرِ إحْرَامٍ فِدْيَةً ، وَلَا أَحْسَبُهُ يَقُولُ هَذَا , وَلَا أَعْلَمُ أَحَدًا يَقُولُهُ ، وَقَدْ ذَهَبَ عَطَاءٌ فِي صَيْدِ الطَّيْرِ مَذْهَبًا يُتَوَجَّهُ ، وَمَذْهَبُنَا الَّذِي حَكَيْنَا أَصَحُّ مِنْهُ لِمَا وَصَفْتُ ، وَاللَّهُ أَعْلَمُ .   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ : فِي كُلِّ شَيْءٍ صِيدَ مِنَ الطَّيْرِ الْحَمَامَةِ فَصَاعِدًا شَاةٌ ، وَفِي الْيَعْقُوبُ ، وَالْحَجَلَةِ ، وَالْقَطَاةِ ، وَالْكَرَوَانُ ، وَالْكُرْكِيِّ ، وَابْنِ الْمَاءِ ، وَدَجَاجَةِ    الْحَبَشِ ، وَالْخَرَبِ ، شَاةٌ شَاةٌ . فَقُلْتُ لِعَطَاءٍ : أَرَأَيْتَ الْخَرَبَ ، فَإِنَّهُ أَعْظَمُ شَيْءٍ رَأَيْتُهُ قَطُّ مِنْ صَيْدِ الطَّيْرِ ، أَيُخْتَلَفُ أَنْ يَكُونَ فِيهِ شَاةٌ ؟ قَالَ : لَا ، كُلُّ شَيْءٍ مِنْ صَيْدِ الطَّيْرِ كَانَ حَمَامَةً فَصَاعِدًا فَفِيهِ شَاةٌ . #   قَالَ الشَّافِعِيُّ : وَإِنَّمَا تَرَكْنَاهُ عَلَى عَطَاءٍ لِمَا وَصَفْنَا ، وَأَنَّهُ كَانَ يَلْزَمُهُ إذَا جَعَلَ فِي الْحَمَامَةِ شَاةً ، لَا لِفَضْلِ الْحَمَامَةِ وَمُبَايَنَتِهَا مَا سِوَاهَا أَنْ يَزِيدَ فِيمَا جَاوَزَهَا مِنَ الطَّائِرِ عَلَيْهَا ، لَا يَسْتَقِيمُ إلَّا هَذَا ، إذَا لَمْ يُفَرَّقْ بَيْنَهُمَا بِمَا فَرَّقْنَا بِهِ بَيْنَهُمَا .    @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ : فِي الْقُمْرِيِّ وَالدُّبْسِيِّ شَاةٌ شَاةٌ . قَالَ الشَّافِعِيُّ : وَعَامَّةُ الْحَمَامِ مَا وَصَفْتُ , مَا عَبَّ فِي الْمَاءِ عَبًّا مِنَ الطَّائِرِ فَهُوَ حَمَامٌ , وَمَا شَرِبَهُ قَطْرَةً قَطْرَةً كَشُرْبِ الدَّجَاجِ فَلَيْسَ بِحَمَامٍ ، وَهَكَذَا أَخْبَرَنَا مُسْلِمٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ . #6E656",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1518
+    },
+    {
+      "hadith_id": 27484,
+      "book_id": 47,
+      "english_translation": "Narrated by سَعِيدٌ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدٌ",
+              "full_name": "سَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سَعِيدٌ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ : وَفِي بَيْضِ حَمَامِ مَكَّةَ ، وَغَيْرِهِ مِنَ الْحَمَامِ ، وَغَيْرِهِ مِمَّا يَبِيضُ مِنَ الصَّيْدِ الَّذِي يُؤَدِّي فِيهِ قِيمَتَهُ . قَالَ الشَّافِعِيُّ : كَمَا قُلْنَا فِي بَيْضِ النَّعَامَةِ بِالْحَالِ الَّتِي يَكْسِرُهَا بِهَا , فَإِنْ كَسَرَهَا لَا فَرْخَ فِيهَا فَفِيهَا قِيمَةُ بَيْضَةٍ ، وَإِنْ كَسَرَهَا ، وَفِيهَا فَرْخٌ ، فَفِيهَا قِيمَةُ بَيْضَةٍ فِيهَا فَرْخٌ ، لَوْ كَانَتْ لِإِنْسَانٍ فَكَسَرَهَا غَيْرُهُ ، وَإِنْ كَسَرَهَا فَاسِدَةً ، فَلَا شَيْءَ عَلَيْهِ فِيهَا ، كَمَا لَا يَكُونُ عَلَيْهِ شَيْءٌ فِيهَا لَوْ كَسَرَهَا لِأَحَدٍ . قَالَ الشَّافِعِيُّ : وَقَوْلُ عَطَاءٍ فِي بَيْضِ الْحَمَامِ خِلَافُ قَوْلِنَا فِيهِ .   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، أَنَّهُ قَالَ لِعَطَاءٍ : كَمْ فِي بَيْضَةِ حَمَامِ مَكَّةَ ؟ قَالَ : نِصْفُ دِرْهَمٍ بَيْنَ الْبَيْضَتَيْنِ دِرْهَمٌ , وَإِنْ كَسَرْتَ بَيْضَةً فِيهَا فَرْخٌ ، فَفِيهَا دِرْهَمٌ . #   قَالَ الشَّافِعِيُّ : أَرَى عَطَاءً أَرَادَ بِقَوْلِهِ هَذَا الْقِيمَةَ يَوْمَ قَالَهُ , فَإِنْ كَانَ أَرَادَ هَذَا ، فَالَّذِي نَأْخُذُ بِهِ قِيمَتُهَا فِي كُلِّ مَا كَسَرْتَ ، وَإِنْ كَانَ أَرَادَ بِقَوْلِهِ أَنْ يَكُونَ قَوْلُهُ هَذَا حُكْمًا فِيهَا , فَلَا نَأْخُذُ بِهِ .",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1519
+    },
+    {
+      "hadith_id": 27486,
+      "book_id": 47,
+      "english_translation": "Narrated by عَطَاءٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدٌ عَنِ",
+              "full_name": "سَعِيدٌ عَنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "سَعِيدٌ",
+              "full_name": "سَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سَعِيدٌ عَنِ -> سَعِيدٌ -> عَطَاءٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ عَنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "سَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "@ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : لَمْ أَرَ الضُّوَعَ ، أَوِ الضِّوَعَ ، شَكَّ الرَّبِيعُ ، فَإِنْ كَانَ حَمَامًا فَفِيهِ شَاةٌ . #   قَالَ الشَّافِعِيُّ : الضُّوَعُ : طَائِرٌ دُونَ الْحَمَامِ ، وَلَيْسَ يَقَعُ عَلَيْهِ اسْمُ الْحَمَامِ ، فَفِيهِ قِيمَتُهُ ، وَفِي كُلِّ طَائِرٍ أَصَابَهُ الْمُحْرِمُ غَيْرَ حَمَامٍ فَفِيهِ قِيمَتُهُ ، كَانَ أَكْبَرَ مِنَ الْحَمَامِ أَوْ أَصْغَرَ ، وَذَلِكَ أَنَّ اللَّهَ تَبَارَكَ وَتَعَالَى ، قَالَ فِي الصَّيْدِ : /4 فَجَزَاءٌ مِثْلُ مَا قَتَلَ سورة المائدة آية 95 /4 . قَالَ الشَّافِعِيُّ : فَخَرَجَ الطَّائِرُ مِنْ أَنْ يَكُونَ لَهُ مِثْلٌ ، وَكَانَ مَعْرُوفًا بِأَنَّهُ دَاخِلٌ فِي التَّحْرِيمِ ، فَالْمِثْلُ فِيهِ بِالْقِيمَةِ إذَا كَانَ لَا مِثْلَ لَهُ مِنَ النَّعَمِ ، وَفِيهِ أَنَّ هَذَا قِيَاسٌ عَلَى قَوْلِ عُمَرَ وَابْنِ عَبَّاسٍ فِي الْجَرَادَةِ وَقَوْلِ مَنْ وَافَقَهُمْ فِيهَا ، وَفِي الطَّائِرِ دُونَ الْحَمَامِ , وَقَدْ قَالَ عَطَاءٌ فِي    @ 2 : 217 @   الطَّائِرِ قَوْلًا إنْ كَانَ قَالَهُ لِأَنَّهُ يَوْمئِذٍ ثَمَنُ الطَّائِرِ فَهُوَ مُوَافِقٌ قَوْلَنَا , وَإِنْ كَانَ قَالَهُ تَحْدِيدًا لَهُ خَالَفْنَاهُ فِيهِ لِلْقِيَاسِ عَلَى قَوْلِ عُمَرَ وَابْنِ عَبَّاسٍ ، وَقَوْلِهِ وَقَوْلِ غَيْرِهِ فِي الْجَرَادِ , وَأَحْسَبُهُ عَمَدَ بِهِ إلَى أَنْ يُحَدَّدَ بِهِ ، وَلَا يَجُوزُ أَنْ يُحَدَّدَ إلَّا بِكِتَابٍ أَوْ سُنَّةٍ ، أَوْ أَمْرٍ لَمْ يُخْتَلَفْ فِيهِ ، أَوْ قِيَاسٍ ، وَلَوْلَا أَنَّهُ لَمْ يُخْتَلَفْ فِي حَمَامِ مَكَّةَ مَا فَدَيْنَاهُ بِشَاةٍ ؛ لِأَنَّهُ لَيْسَ بِقِيَاسٍ ، وَبِذَلِكَ تَرَكْنَا عَلَى عَطَاءٍ تَحْدِيدَهُ فِي الطَّائِرِ فَوْقَ الْحَمَامِ وَدُونَهُ وَفِي بَيْضِ الْحَمَامِ ، وَلَمْ نَأْخُذْ مَا أَخَذْنَا مِنْ قَوْلِهِ إلَّا بِأَمْرٍ وَافَقَ كِتَابًا أَوْ سُنَّةً أَوْ أَثَرًا ، لَا مُخَالِفَ لَهُ أَوْ قِيَاسًا , فَإِنْ قَالَ قَائِلٌ : مَا حَدُّ مَا قَالَ عَطَاءٌ فِيهِ ؟   @ قَالَ الشَّافِعِيُّ : أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، قَالَ : قَالَ لِي عَطَاءٌ فِي الْعَصَافِيرِ قَوْلًا بَيَّنَ لِي فِيهِ وَفَسَّرَ ، قَالَ : أَمَّا الْعُصْفُورُ فَفِيهِ نِصْفُ دِرْهَمٍ ، قَالَ عَطَاءٌ : وَأَرَى الْهُدْهُدَ دُونَ الْحَمَامَةِ ، وَفَوْقَ الْعُصْفُورِ فَفِيهِ دِرْهَمٌ ، قَالَ عَطَاءٌ : وَالْكُعَيْتُ عُصْفُورٌ . #   قَالَ الشَّافِعِيُّ : وَلَمَّا قَالَ : مِنْ هَذَا تَرَكْنَا قَوْلَهُ إذَا كَانَ فِي عُصْفُورٍ نِصْفُ دِرْهَمٍ عِنْدَهُ , وَفِي هُدْهُدٍ دِرْهَمٌ ؛ لِأَنَّهُ بَيْنَ الْحَمَامَةِ وَبَيْنَ الْعُصْفُورِ ، فَكَانَ يَنْبَغِي أَنْ يَجْعَلَ فِي الْهُدْهُدِ لِقُرْبِهِ مِنَ الْحَمَامَةِ أَكْثَرَ مِنْ دِرْهَمٍ . قَالَ ابْنُ جُرَيْجٍ : قَالَ عَطَاءٌ : فَأَمَّا الْوَطْوَاطُ وَهُوَ فَوْقَ الْعُصْفُورِ وَدُونَ الْهُدْهُدِ فَفِيهِ ثُلُثَا دِرْهَمٍ .-E657",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1521
+    },
+    {
+      "hadith_id": 27487,
+      "book_id": 47,
+      "english_translation": "Narrated by عَطَاءٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدٌ   عَنِ",
+              "full_name": "سَعِيدٌ   عَنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "مُسْلِمٌ",
+              "full_name": "مُسْلِمٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "سَعِيدٌ",
+              "full_name": "سَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَطَاءً",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "\" صَيْدِ",
+              "full_name": "\" صَيْدِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سَعِيدٌ   عَنِ -> مُسْلِمٌ -> سَعِيدٌ -> عَطَاءً -> \" صَيْدِ -> عَطَاءٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ   عَنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "مُسْلِمٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "سَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "\" صَيْدِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "/40 أَخْبَرَنَا /94 سَعِيدٌ L3332 /94 ، عَنِ /26 ابْنِ جُرَيْجٍ L5223 /26 ، قَالَ : سَمِعْتُ /26 عَطَاءً L5625 /26 ، يَقُولُ : /27 سَأَلَ /93 ابْنُ عَبَّاسٍ L4883 /93 عَنْ /20 \" صَيْدِ الْجَرَادِ فِي الْحَرَمِ فَقَالَ : لَا , وَنَهَى عَنْهُ ، قَالَ : أَنَا قُلْتُ لَهُ ، أَوْ رَجُلٌ مِنَ الْقَوْمِ ، فَإِنَّ قَوْمَكَ يَأْخُذُونَهُ ، وَهُمْ مُحْتَبُونَ فِي الْمَسْجِدِ ؟ فَقَالَ : لَا يَعْلَمُونَ \" /27 . أَخْبَرَنَا /94 مُسْلِمٌ L7465 /94 ، عَنِ /26 ابْنِ جُرَيْجٍ L5223 /26 ، عَنْ /26 عَطَاءٍ L5625 /26 ، عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 مِثْلَهُ ، إلَّا أَنَّهُ قَالَ : مُنْحَنُونَ . قَالَ الشَّافِعِيُّ : وَمُسْلِمٌ أَصْوَبُهُمَا ، وَرَوَى الْحُفَّاظُ عَنِ ابْنِ جُرَيْجٍ : مُنْحَنُونَ . * \r\n@ أَخْبَرَنَا سَعِيدٌ ، وَمُسْلِمٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ : فِي الْجَرَادَةِ يَقْتُلُهَا وَهُوَ لَا يَعْلَمُ ؟ قَالَ : إذًا يَغْرَمُهَا , الْجَرَادَةُ صَيْدٌ . # \r\n$823  807 /3",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1522
+    },
+    {
+      "hadith_id": 27488,
+      "book_id": 47,
+      "english_translation": "Narrated by عَطَاءٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سَعِيدٌ   عَنِ",
+              "full_name": "سَعِيدٌ   عَنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "بُكَيْر بْنُ",
+              "full_name": "بُكَيْر بْنُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "مُسْلِمٌ",
+              "full_name": "مُسْلِمٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "سَعِيدٌ",
+              "full_name": "سَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "الْقَاسِمَ بْنَ مُحَمَّدٍ   يَقُولُ",
+              "full_name": "الْقَاسِمَ بْنَ مُحَمَّدٍ   يَقُولُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "\" جَرَادَةٍ",
+              "full_name": "\" جَرَادَةٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "يُوسُفَ بْنِ",
+              "full_name": "يُوسُفَ بْنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَبْدِ اللَّهِ",
+              "full_name": "عبد الله بن عمر بن الخطاب العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "طَلْحَةَ بْنِ",
+              "full_name": "طَلْحَةَ بْنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سَعِيدٌ   عَنِ -> بُكَيْر بْنُ -> مُسْلِمٌ -> سَعِيدٌ -> الْقَاسِمَ بْنَ مُحَمَّدٍ   يَقُولُ -> \" جَرَادَةٍ -> يُوسُفَ بْنِ -> عَبْدِ اللَّهِ -> طَلْحَةَ بْنِ -> عَطَاءٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ   عَنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "بُكَيْر بْنُ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "مُسْلِمٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "سَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "الْقَاسِمَ بْنَ مُحَمَّدٍ   يَقُولُ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "\" جَرَادَةٍ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "يُوسُفَ بْنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "طَلْحَةَ بْنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 سَعِيدٌ L3332 /94 ، عَنِ /26 ابْنِ جُرَيْجٍ L5223 /26 ، قَالَ : أَخْبَرَنَا /26 بُكَيْر بْنُ عَبْدِ اللَّهِ L1951 /26 ، قَالَ : سَمِعْتُ /26 الْقَاسِمَ بْنَ مُحَمَّدٍ L1598 /26 يَقُولُ : /27 كُنْتُ جَالِسًا عِنْدَ ابْنِ عَبَّاسٍ ، فَسَأَلَهُ رَجُلٌ عَنْ /20 \" جَرَادَةٍ قَتَلَهَا ، وَهُوَ مُحْرِمٌ . فَقَالَ /93 ابْنُ عَبَّاسٍ L4883 /93 : فِيهَا قَبْضَةٌ مِنْ طَعَامٍ ، وَلَنَأْخُذَنَّ بِقَبْضَةٍ جَرَادَاتٍ ، وَلَكِنْ وَلَوْ \" /27 . * \r\nقَالَ الشَّافِعِيُّ : وَقَوْلُهُ : وَلَنَأْخُذَنَّ بِقَبْضَةٍ جَرَادَاتٍ ، إنَّمَا فِيهَا الْقِيمَةُ ، وَقَوْلُهُ : وَلَوْ ، يَقُولُ : تَحْتَاطُ ، فَتُخْرِجُ أَكْثَرَ مِمَّا عَلَيْكَ بَعْدَ أَنْ أَعْلَمْتُكَ أَنَّهُ أَكْثَرُ مِمَّا عَلَيْكَ .   @ أَخْبَرَنَا مُسْلِمٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ يُوسُفَ بْنِ مَاهَكَ ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي عَمَّارٍ ، أَخْبَرَهُ أَنَّهُ أَقْبَلَ مَعَ مُعَاذِ بْنِ جَبَلٍ ، وَكَعْبٌ رَوَى الْحَدِيثَ ، وَهُوَ مُعَادٌ . #   قَالَ الشَّافِعِيُّ : قَوْلُ عُمَرَ : دِرْهَمَانِ خَيْرٌ مِنْ مِائَةِ جَرَادَةٍ ، يَدُلُّ عَلَى أَنَّهُ لَا يَرَى فِي الْجَرَادِ إلَّا قِيمَتَهُ ، وَقَوْلُهُ : اجْعَلْ مَا جَعَلْتَ فِي نَفْسِكَ أَنَّكَ هَمَمْتَ بِتَطَوُّعٍ بِخَيْرٍ فَافْعَلْ لَا أَنَّهُ عَلَيْكَ . قَالَ الشَّافِعِيُّ : وَالدُّبَّا جَرَادٌ صِغَارٌ ، فَفِي الدُّبَّاةِ مِنْهُ أَقَلُّ مِنْ تَمْرَةٍ إِنْ شَاءَ الَّذِي يَفْدِيهِ ، أَوْ لُقْمَةٍ صَغِيرَةٍ ، وَمَا فَدَى بِهِ فَهُوَ خَيْرٌ مِنْهُ .   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، أَنَّهُ سَأَلَ عَطَاءً ، عَنِ الدُّبَّا ، أَقْتُلُهُ ؟ قَالَ : لَا ، هَا اللَّهِ إذًا ، فَإِنْ قَتَلْتَهُ فَأغْرمْ ، قُلْتُ : مَا أَغْرَمُ ؟ قَالَ : قَدْرَ مَا تَغْرَمُ فِي الْجَرَادَةِ ، ثُمَّ أُقَدِّرُ قَدْرَ غَرَامَتِهَا مِنْ غَرَامَةِ الْجَرَادَةِ . #   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، قَالَ : قُلْتُ لِعَطَاءٍ : قَتَلْتُ وَأَنَا حَرَامٌ جَرَادَةً أَوْ دُبَّا ، وَأَنَا لَا أَعْلَمُهُ ، أَوْ قَتَلَ ذَلِكَ بَعِيرِي وَأَنَا عَلَيْهِ ، قَالَ : أغْرمْ كُلَّ ذَلِكَ ، تُعَظِّمْ بِذَلِكَ حُرُمَاتِ اللَّهِ . #   قَالَ الشَّافِعِيُّ : إذَا كَانَ الْمُحْرِمُ عَلَى بَعِيرِهِ ، أَوْ يَقُودُهُ ، أَوْ يَسُوقُهُ ، غَرِمَ مَا أَصَابَ بَعِيرُهُ مِنْهُ ، وَإِنْ كَانَ بَعِيرُهُ مُتَفَلِّتًا لَمْ يَغْرَمْ مَا أَصَابَ بَعِيرُهُ مِنْهُ .   @ أَخْبَرَنَا سَعِيدٌ ، عَنْ طَلْحَةَ بْنِ عَمْرٍو ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ : فِي جَرَادَةٍ إذَا مَا أَخَذَهَا الْمُحْرِمُ , قَبْضَةٌ مِنْ طَعَامٍ . #    @ 2 : 218 @)E658",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1523
+    },
+    {
+      "hadith_id": 27489,
+      "book_id": 47,
+      "english_translation": "Narrated by Unknown: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "[No clear chain identified]"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ : إذَا كَسَرَ بَيْضَ الْجَرَادِ فَدَاهُ ، وَمَا فَدَى بِهِ كُلَّ بَيْضَةٍ مِنْهُ مِنْ طَعَامٍ فَهُوَ خَيْرٌ مِنْهَا ، وَإِنْ أَصَابَ بَيْضًا كَثِيرًا احْتَاطَ ، حَتَّى يَعْلَمَ أَنَّهُ أَدَّى قِيمَتَهُ أَوْ أَكْثَرَ مِنْ قِيمَتِهِ ، قِيَاسًا عَلَى بَيْضِ كُلِّ صَيْدٍ .",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1524
+    },
+    {
+      "hadith_id": 27491,
+      "book_id": 47,
+      "english_translation": "Narrated by رِدَائِهِ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدٌ عَنِ",
+              "full_name": "سَعِيدٌ عَنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "سَعِيدٌ",
+              "full_name": "سَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فِرَاشِكَ",
+              "full_name": "فِرَاشِكَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "طَلْحَةَ",
+              "full_name": "طَلْحَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "فِرَاشِهِ إذَا",
+              "full_name": "فِرَاشِهِ إذَا",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "فِرَاشِهِ فَتَلِفَ",
+              "full_name": "فِرَاشِهِ فَتَلِفَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "فِرَاشِهِ كَانَتْ",
+              "full_name": "فِرَاشِهِ كَانَتْ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "رِدَائِهِ",
+              "full_name": "رِدَائِهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سَعِيدٌ عَنِ -> سَعِيدٌ -> عَطَاءٍ -> فِرَاشِكَ -> طَلْحَةَ -> فِرَاشِهِ إذَا -> فِرَاشِهِ فَتَلِفَ -> فِرَاشِهِ كَانَتْ -> رِدَائِهِ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ عَنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "سَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "فِرَاشِكَ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "طَلْحَةَ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "فِرَاشِهِ إذَا: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "فِرَاشِهِ فَتَلِفَ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "فِرَاشِهِ كَانَتْ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "رِدَائِهِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "@ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ فِي إنْسَانٍ أَخَذَ حَمَامَةً يُخَلِّصُ مَا فِي رِجْلِهَا فَمَاتَتْ ، قَالَ : مَا أَرَى عَلَيْهِ شَيْئًا . #   قَالَ الشَّافِعِيُّ : وَمَنْ قَالَ هَذَا الْقَوْلَ قَالَهُ إذَا أَخَذَهَا لِيُخَلِّصَهَا مِنْ شَيْءٍ مَا كَانَ مِنْ فِي هِرٍّ ، أَوْ سَبْعٍ ، أَوْ شِقِّ جِدَارٍ لَحَجَّتْ فِيهِ ، أَوْ أَصَابَتْهَا لَدْغَةٌ ، فَسَقَاهَا تِرْيَاقًا أَوْ غَيْرَهُ لِيُدَاوِيَهَا ، وَكَانَ أَصْلُ أَخْذِهَا لِيَطْرَحَ مَا يَضُرُّهَا عَنْهَا ، أَوْ يَفْعَلَ بِهَا مَا يَنْفَعُهَا لَمْ يَضْمَنْ ، وَقَالَ : هَذَا فِي كُلِّ صَيْدٍ . قَالَ الشَّافِعِيُّ : وَهَذَا وَجْهٌ مُحْتَمَلٌ ، وَلَوْ قَالَ رَجُلٌ : هُوَ ضَامِنٌ لَهُ ، وَإِنْ كَانَ أَرَادَ صَلَاحًا ، فَقَدْ تَلِفَ عَلَى يَدَيْهِ كَانَ وَجْهًا مُحْتَمَلًا ، وَاللَّهُ أَعْلَمُ .   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، أَنَّهُ قَالَ لِعَطَاءٍ : بَيْضَةُ حَمَامَةٍ وَجَدْتهَا عَلَى فِرَاشِي ؟ فَقَالَ : أَمِطْهَا عَنْ فِرَاشِكَ ، قَالَ ابْنُ جُرَيْجٍ : فَقُلْتُ لِعَطَاءٍ : وَكَانَتْ فِي سَهْوَةٍ ، أَوْ فِي مَكَانٍ فِي الْبَيْتِ كَهَيْئَةِ ذَلِكَ مُعْتَزِلٍ ، قَالَ : فَلَا تُمِطْهَا . #   @ أَخْبَرَنَا سَعِيدٌ ، عَنْ طَلْحَةَ ، عَنْ عَطَاءٍ ، قَالَ : لَا تُخْرِجْ بَيْضَةَ الْحَمَامَةِ الْمَكِّيَّةِ ، وَفَرْخَهَا مِنْ بَيْتِكَ . #   قَالَ الشَّافِعِيُّ : وَهَذَا قَوْلٌ وَبِهِ آخُذُ ، فَإِنْ أَخْرَجَهَا فَتَلِفَتْ ضَمِنَ ، وَهَذَا وَجْهٌ يُحْتَمَلُ مِنْ أَنَّ لَهُ أَنْ يُزِيلَ عَنْ فِرَاشِهِ إذَا لَمْ يَكْسِرْهُ ، فَلَوْ فَسَدَتْ بِإِزَالَتِهِ بِنَقْلِ الْحَمَامِ عَنْهَا ، لَمْ يَكُنْ عَلَيْهِ فِدْيَةٌ , وَيُحْتَمَلُ إنْ فَسَدَتْ بِإِزَالَتِهِ أَنْ تَكُونَ عَلَيْهِ فِدْيَةٌ , وَمَنْ قَالَ هَذَا قَالَ : الْحَمَامُ لَوْ وَقَعَ عَلَى فِرَاشِهِ ، فَأَزَالَهُ عَنْ فِرَاشِهِ فَتَلِفَ بِإِزَالَتِهِ عَنْ فِرَاشِهِ كَانَتْ عَلَيْهِ فِيهِ فِدْيَةٌ ، كَمَا أَزَالَ عُمَرُ الْحَمَامَ عَنْ رِدَائِهِ ، فَتَلِفَ بِإِزَالَتِهِ ، فَفَدَاهُ .   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ : وَإِنْ كَانَ جَرَادٌ أَوْ دُبَّا ، وَقَدْ أَخَذَ طَرِيقَكَ كُلَّهَا ، وَلَا تَجِدُ مَحِيصًا عَنْهَا ، وَلَا مَسْلَكًا ، فَقَتَلْتَهُ ، فَلَيْسَ عَلَيْكَ غُرْمٌ . #   قَالَ الشَّافِعِيُّ : يَعْنِي إنْ وَطِئْتَهُ , فَأَمَّا أَنْ تَقْتُلَهُ بِنَفْسِهِ بِغَيْرِ الطَّرِيقِ ، فَتَغْرَمَهُ لَا بُدَّ . قَالَ الشَّافِعِيُّ : وَقَوْلُهُ هَذَا يُشْبِهُ قَوْلَهُ فِي الْبَيْضَةِ تُمَاطُ عَنِ الْفِرَاشِ ، وَقَدْ يَحْتَمِلُ مَا وَصَفْتُ مِنْ أَنَّ هَذَا كُلَّهُ   قِيَاسٌ عَلَى مَا صَنَعَ عُمَرُ بْنُ الْخَطَّابِ فِي إزَالَتِهِ الْحَمَامَ عَنْ رِدَائِهِ ، فَأَتْلَفَتْهُ حَيَّةٌ فَفَدَاهُ .'E659",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1526
+    },
+    {
+      "hadith_id": 27493,
+      "book_id": 47,
+      "english_translation": "Narrated by عَطَاءٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدُ بْنُ",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سَعِيدٌ",
+              "full_name": "سَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "أَبِيهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سَعِيدُ بْنُ -> سَعِيدٌ -> أَبِيهِ -> عَطَاءٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "أَبِيهِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "@ أَخْبَرَنَا سَعِيدُ بْنُ سَالِمٍ ، عَنِ ابْنِ مُجَاهِدٍ ، عَنْ أَبِيهِ ، وَعَنْ عَطَاءٍ ، قَالَا : مَنْ نَتَفَ رِيشَ حَمَامَةٍ ، أَوْ طَيْرٍ مِنْ طَيْرِ الْحَرَمِ ، فَعَلَيْهِ فِدَاؤُهُ بِقَدْرِ مَا نَتَفَ . #   قَالَ الشَّافِعِيُّ : وَبِهَذَا نَقُولُ ، يُقَوِّمُ الطَّائِرَ عَافِيًا وَمَنْتُوفًا ، ثُمَّ يَجْعَلُ فِيهِ قَدْرَ مَا نَقَصَهُ مِنْ قِيمَتِهِ مَا كَانَ يَطِيرُ مُمْتَنِعًا مِنْ أَنْ يُؤْخَذَ ، وَلَا شَيْءَ عَلَيْهِ غَيْرُ ذَلِكَ ، فَإِنْ تَلِفَ بَعْدُ ، فَالِاحْتِيَاطُ أَنْ يَفْدِيَهُ بِجَمِيعِ مَا فِيهِ لَا بِمَا ذَهَبَ مِنْهُ ؛ لِأَنَّهُ لَا يَدْرِي لَعَلَّهُ تَلِفَ مِنْ نَتْفِهِ , وَالْقِيَاسُ لَا شَيْءَ    @ 2 : 219 @   عَلَيْهِ إذَا طَارَ مُمْتَنِعًا ، حَتَّى يَعْلَمَ أَنَّهُ مَاتَ مِنْ نَتْفِهِ . قَالَ : وَإِنْ كَانَ الْمَنْتُوفُ مِنَ الطَّائِرِ غَيْرَ مُمْتَنِعٍ ، فَحَبَسَهُ فِي بَيْتِهِ ، أَوْ حَيْثُ شَاءَ ، فَأَلْقَطَهُ وَسَقَاهُ ، حَتَّى يَطِيرَ مُمْتَنِعًا ، فَدَى مَا نَقَصَ النَّتْفُ مِنْهُ ، وَلَا شَيْءَ عَلَيْهِ غَيْرُ ذَلِكَ . قَالَ الشَّافِعِيُّ : وَإِنْ أَخَّرَ فِدَاءَهُ ، فَلَمْ يَدْرِ مَا يَصْنَعُ فَدَاهُ احْتِيَاطًا ، وَالْقِيَاسُ أَنْ لَا يَفْدِيَهُ حَتَّى يَعْلَمَهُ تَلِفَ . قَالَ الشَّافِعِيُّ : وَمَا أَصَابَهُ فِي حَالِ نَتْفِهِ فَأَتْلَفَهُ ضَمِنَ فِيهِ التَّالِفُ ؛ لِأَنَّهُ مَنَعَهُ الِامْتِنَاعُ , وَإِنْ طَارَ طَيَرَانًا غَيْرَ مُمْتَنِعٍ بِهِ ، كَانَ كَمَنْ لَا يَطِيرُ فِي جَمِيعِ جَوَابِنَا ، حَتَّى يَكُونَ طَيَرَانُهُ طَيَرَانًا مُمْتَنِعًا ، وَمَنْ رَمَى طَيْرًا ، فَجَرَحَهُ جُرْحًا يَمْتَنِعُ مَعَهُ ، أَوْ كَسَرَهُ كَسْرًا لَا يَمْتَنِعُ مَعَهُ الْجَوَابُ فِيهِ ، كَالْجَوَابِ فِي نَتْفِ رِيشِ الطَّائِرِ سَوَاءً لَا يُخَالِفُهُ ، فَإِنْ حَبَسَهُ حَتَّى يُجْبَرَ ، وَيَصِيرَ مُمْتَنِعًا قُوِّمَ صَحِيحًا وَمَكْسُورًا ، ثُمَّ غَرِمَ فَضْلَ مَا بَيْنَ قِيمَتَيْهِ مِنْ قِيمَةِ جَزَائِهِ ، وَإِنْ كَانَ جَبْرَ أَعْرَجَ لَا يَمْتَنِعُ كُلُّهُ ؛ لِأَنَّهُ صَيَّرَهُ غَيْرَ مُمْتَنِعٍ بِحَالٍ .   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ : إنْ رَمَى حَرَامٌ صَيْدًا فَأَصَابَهُ ، ثُمَّ لَمْ يَدْرِ مَا فَعَلَ الصَّيْدُ ، فَلْيَغْرَمْهُ . قَالَ الشَّافِعِيُّ : وَهَذَا احْتِيَاطٌ ، وَهُوَ أَحَبُّ إلَيَّ . #   @ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، أَرَاهُ عَنْ عَطَاءٍ ، قَالَ : فِي حَرَامٍ أَخَذَ صَيْدًا ، ثُمَّ أَرْسَلَهُ ، فَمَاتَ بَعْدَ مَا أَرْسَلَهُ يَغْرَمُهُ ، قَالَ سَعِيدُ بْنُ سَالِمٍ : إذَا لَمْ يَدْرِ لَعَلَّهُ مَاتَ مِنْ أَخْذِهِ إيَّاهُ ، أَوْ مَاتَ مِنْ إرْسَالِهِ لَهُ . #   @ أَخْبَرَنَا سَعِيدُ بْنُ سَالِمٍ ، عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، أَنَّهُ قَالَ : إنْ أَخَذَتْهُ ابْنَتُهُ ، فَلَعِبَتْ بِهِ ، فَلَمْ يَدْرِ مَا فَعَلَ ، فَلْيَتَصَدَّقْ . قَالَ الشَّافِعِيُّ : الِاحْتِيَاطُ أَنْ يَجْزِيَهُ ، وَلَا شَيْءَ عَلَيْهِ فِي الْقِيَاسِ حَتَّى يَعْلَمَهُ تَلِفَ . #(E660",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1528
+    },
+    {
+      "hadith_id": 27495,
+      "book_id": 47,
+      "english_translation": "Narrated by سَعِيدٌ عَنِ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سَعِيدٌ عَنِ",
+              "full_name": "سَعِيدٌ عَنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "سَعِيدٌ عَنِ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سَعِيدٌ عَنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "@ أَخْبَرَنَا سَعِيدٌ ، عَنِ ابْنِ جُرَيْجٍ ، أَنَّهُ قَالَ لِعَطَاءٍ : كَيْفَ تَرَى فِي قَتْلِ الْكَدْمِ وَالْجُنْدُبِ ، أَتَرَاهُمَا بِمَنْزِلَةِ الْجَرَادَةِ ؟ قَالَ : لَا ، الْجَرَادَةُ صَيْدٌ يُؤْكَلُ ، وَهُمَا لَا يُؤْكَلَانِ ، وَلَيْسَتَا بِصَيْدٍ فَقُلْتُ : أَقْتُلُهُمَا ؟ فَقَالَ : مَا أُحِبُّ ، فَإِنْ قَتَلْتهمَا فَلَيْسَ عَلَيْكَ شَيْءٌ . #   قَالَ الشَّافِعِيُّ : إنْ كَانَا لَا يُؤْكَلَانِ فَهُمَا كَمَا قَالَ عَطَاءٌ سَوَاءٌ ، لَا أُحِبُّ أَنْ يُقْتَلَا ، وَإِنْ قُتِلَا فَلَا شَيْءَ فِيهِمَا ، وَكُلُّ مَا لَا يُؤْكَلُ لَحْمُهُ فَلَا يَفْدِيهِ الْمُحْرِمُ .",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1530
+    }
+  ]
+}

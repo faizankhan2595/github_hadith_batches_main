@@ -1,0 +1,787 @@
+{
+  "batch_number": 4,
+  "file_number": 3,
+  "original_record_count": 15,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 27032,
+      "book_id": 47,
+      "narrator_id": null,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : فَرَضَ اللَّهُ عَزَّ وَجَلَّ الصَّدَقَاتِ ، وَكَانَ حَبْسُهَا حَرَامًا ، ثُمَّ أَكَّدَ تَحْرِيمَ حَبْسِهَا ، فَقَالَ عَزَّ وَعَلَا : /4 وَلا يَحْسَبَنَّ الَّذِينَ يَبْخَلُونَ بِمَا آتَاهُمُ اللَّهُ مِنْ فَضْلِهِ هُوَ خَيْرًا لَهُمْ بَلْ هُوَ شَرٌّ لَهُمْ سورة آل عمران آية 180 /4 ، الْآيَةَ ، وَقَالَ تَبَارَكَ وَتَعَالَى : /4 وَالَّذِينَ يَكْنِزُونَ الذَّهَبَ وَالْفِضَّةَ /23 إِلَى قَوْلِهِ : /23 مَا كُنْتُمْ تَكْنِزُونَ سورة التوبة آية 34 - 35 /4 . قَالَ الشَّافِعِيُّ : وَسَبِيلُ اللَّهِ وَاللَّهُ أَعْلَمُ مَا فَرَضَ مِنَ الصَّدَقَةِ . \r\n$578  566 /2",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1067,
+      "grade": null
+    },
+    {
+      "hadith_id": 27033,
+      "book_id": 47,
+      "narrator_id": 3443,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+              "full_name": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "جَامِعُ بْنُ أَبِي رَاشِدٍ",
+              "full_name": "جَامِعُ بْنُ أَبِي رَاشِدٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "عَبْدِ اللَّهِ بْنِ مَسْعُودٍ",
+              "full_name": "عَبْدِ اللَّهِ بْنِ مَسْعُودٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> سُفْيَانُ بْنُ عُيَيْنَةَ -> جَامِعُ بْنُ أَبِي رَاشِدٍ -> عَبْدِ اللَّهِ بْنِ مَسْعُودٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 سُفْيَانُ بْنُ عُيَيْنَةَ L3443 /94 ، قَالَ : أَخْبَرَنَا /26 جَامِعُ بْنُ أَبِي رَاشِدٍ L2079 /26 ، /26 وَعَبْدُ الْمَلِكِ بْنُ أَعْيَنَ L5197 /26 ، سَمِعَا /26 أَبَا وَائِلٍ L3825 /26 يُخْبِرُ ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ مَسْعُودٍ L5079 /93 ، يَقُولُ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، يَقُولُ : /20 \" مَا مِنْ رَجُلٍ لَا يُؤَدِّي زَكَاةَ مَالِهِ إِلَّا جُعِلَ لَهُ يَوْمَ الْقِيَامَةِ شُجَاعٌ أَقْرَعُ ، يَفِرُّ مِنْهُ وهُوَ يَتْبَعُهُ ، حَتَّى يُطَوِّقَهُ فِي عُنُقِهِ ، ثُمَّ قَرَأَ عَلَيْنَا /4 سَيُطَوَّقُونَ مَا بَخِلُوا بِهِ يَوْمَ الْقِيَامَةِ سورة آل عمران آية 180 /4    @ 2 : 63 @   \" /27 . * \r\n$579  567 /3",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1068,
+      "grade": null
+    },
+    {
+      "hadith_id": 27034,
+      "book_id": 47,
+      "narrator_id": 6659,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "مَالِكٌ",
+              "full_name": "مَالِكٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "عَبْدِ اللَّهِ بْنِ دِينَارٍ",
+              "full_name": "عَبْدِ اللَّهِ بْنِ دِينَارٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> مَالِكٌ -> عَبْدِ اللَّهِ بْنِ دِينَارٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 مَالِكٌ L6659 /94 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /26 ، قَالَ : /27 سَمِعْتُ /93 عَبْدَ اللَّهَ بْنَ عُمَرَ L4967 /93 , وهُوَ يَسْأَلُ عَنِ /20 الْكَنْزِ ، فَقَالَ : \" هُوَ الْمَالُ الَّذِي لَا تُؤَدَّى مِنْهُ الزَّكَاةُ \" /27 . * \r\nقَالَ الشَّافِعِيُّ : وَهَذَا كَمَا قَالَ ابْنُ عُمَرَ إِنْ شَاءَ اللَّهُ تَعَالَى ؛ لِأَنَّهُمْ إِنَّمَا عُذِّبُوا عَلَى مَنْعِ الْحَقِّ ، فَأَمَّا عَلَى دَفْنِ أَمْوَالِهِمْ وَحَبْسِهَا فَذَلِكَ غَيْرُ مُحَرَّمٍ عَلَيْهِمْ , وَكَذَلِكَ إِحْرَازُهَا ، وَالدَّفْنُ ضَرْبٌ مِنَ الْإِحْرَازِ , ولَوْلَا إِبَاحَةُ حَبْسِهَا مَا وَجَبَتْ فِيهَا الزَّكَاةُ فِي حَوْلٍ ؛ لِأَنَّهَا لَا تَجِبُ حَتَّى تُحْبَسَ حَوْلًا . \r\n$580  568 /3",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1069,
+      "grade": null
+    },
+    {
+      "hadith_id": 27035,
+      "book_id": 47,
+      "narrator_id": 6659,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "مَالِكٌ",
+              "full_name": "مَالِكٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "عَبْدِ اللَّهِ بْنِ دِينَارٍ",
+              "full_name": "عَبْدِ اللَّهِ بْنِ دِينَارٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِي هُرَيْرَةَ",
+              "full_name": "أَبِي هُرَيْرَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> مَالِكٌ -> عَبْدِ اللَّهِ بْنِ دِينَارٍ -> أَبِي هُرَيْرَةَ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "/40 أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 مَالِكٌ L6659 /94 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ دِينَارٍ L4797 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنَّهُ كَانَ يَقُولُ : /20 \" مَنْ كَانَ لَهُ مَالٌ لَمْ يُؤَدِّ زَكَاتَهُ ، مُثِّلَ لَهُ يَوْمَ الْقِيَامَةِ شُجَاعًا أَقْرَعَ لَهُ زَبِيبَتَانِ ، يَطْلُبُهُ حَتَّى يُمْكِنَهُ ، يَقُولُ : أَنَا كَنْزُكَ \" /27 . * \r\n$581  569 /2",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1070,
+      "grade": null
+    },
+    {
+      "hadith_id": 27036,
+      "book_id": 47,
+      "narrator_id": 3443,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+              "full_name": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "أَبِيهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> سُفْيَانُ بْنُ عُيَيْنَةَ -> أَبِيهِ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 سُفْيَانُ بْنُ عُيَيْنَةَ L3443 /94 ، عَنِ /26 ابْنِ طَاوُسٍ L4871 /26 ، عَنْ /26 أَبِيهِ L4002 /26 ، قَالَ : /27 /20 اسْتَعْمَلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عُبَادَةَ بْنَ الصَّامِتِ عَلَى صَدَقَةٍ ، فَقَالَ : \" اتَّقِ اللَّهَ يَا أَبَا الْوَلِيدِ ، لَا تَأْتِي يَوْمَ الْقِيَامَةِ بِبَعِيرٍ تَحْمِلُهُ عَلَى رَقَبَتِكَ لَهُ رُغَاءٌ , أَوْ بَقَرَةٍ لَهَا خُوَارٌ , أَوْ شَاةٍ لَهَا ثُؤَاجٌ ، فَقَالَ : يَا رَسُولَ اللَّهِ , وَإِنَّ ذَا لِكَذَا ؟ فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِي وَالَّذِي نَفْسِي بِيَدِهِ ، إِلَّا مَنْ رَحِمَ اللَّهُ تَعَالَى \" /27 ، فَقَالَ : وَالَّذِي بَعَثَكَ بِالْحَقِّ لَا أَعْمَلُ عَلَى اثْنَيْنِ أَبَدًا . * \r\n-E460",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1071,
+      "grade": null
+    },
+    {
+      "hadith_id": 27038,
+      "book_id": 47,
+      "narrator_id": null,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ : قَالَ اللَّهُ تَبَارَكَ وَتَعَالَى : /4 وَلا تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ سورة البقرة آية 267 /4 ، الْآيَةَ . قَالَ الشَّافِعِيُّ : يَعْنِي وَاللَّهُ أَعْلَمُ تَأْخُذُونَهُ لِأَنْفُسِكُمْ مِمَّنْ لَكُمْ عَلَيْهِ حَقٌّ ، فَلَا تُنْفِقُوا مَا لَا تَأْخُذُونَ لِأَنْفُسِكُمْ ؛ يَعْنِي لَا تُعْطُوا مِمَّا خَبُثَ عَلَيْكُمْ ، وَاللَّهُ أَعْلَمُ ، وَعِنْدَكُمْ طَيِّبٌ . قَالَ الشَّافِعِيُّ : فَحَرَامٌ عَلَى مَنْ عَلَيْهِ صَدَقَةٌ أَنْ يُعْطِيَ الصَّدَقَةَ مِنْ شَرِّهَا ، وَحَرَامٌ عَلَى مَنْ لَهُ تَمْرٌ أَنْ يُعْطِيَ الْعُشْرَ مِنْ شَرِّهِ , وَمَنْ لَهُ الْحِنْطَةُ أَنْ يُعْطِيَ الْعُشْرَ مِنْ شَرِّهَا , وَمَنْ لَهُ ذَهَبٌ أَنْ يُعْطِيَ زَكَاتَهَا مِنْ شَرِّهَا , وَمَنْ لَهُ إِبِلٌ أَنْ يُعْطِيَ الزَّكَاةَ مِنْ شَرِّهَا إِذَا وَلِيَ إِعْطَاءَهَا أَهْلَهَا , وَعَلَى السُّلْطَانِ أَنْ يَأْخُذَ ذَلِكَ مِنْهُ , وَحَرَامٌ عَلَيْهِ إِنْ غَابَتْ أَعْيَانُهَا عَنِ السُّلْطَانِ فَقَبِلَ قَوْلَهُ أَنْ يُعْطِيَهُ مِنْ شَرِّهَا ، وَيَقُولَ : مَالُهُ كُلُّهُ هَكَذَا . \r\n$582  570 /2",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1073,
+      "grade": null
+    },
+    {
+      "hadith_id": 27039,
+      "book_id": 47,
+      "narrator_id": 3443,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "سُفْيَانُ",
+              "full_name": "سُفْيَانُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "دَاوُدَ بْنِ أَبِي هِنْدَ",
+              "full_name": "دَاوُدَ بْنِ أَبِي هِنْدَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "جَرِيرِ بْنِ عَبْدِ اللَّهِ الْبَجَلِيِّ",
+              "full_name": "جَرِيرِ بْنِ عَبْدِ اللَّهِ الْبَجَلِيِّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الشَّافِعِيُّ -> سُفْيَانُ -> دَاوُدَ بْنِ أَبِي هِنْدَ -> جَرِيرِ بْنِ عَبْدِ اللَّهِ الْبَجَلِيِّ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "قَالَ الرَّبِيعُ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 سُفْيَانُ L3443 /94 ، عَنْ /26 دَاوُدَ بْنِ أَبِي هِنْدَ L2772 /26 ، عَنِ /26 الشَّعْبِيِّ L4099 /26 ، /27 عَنْ /93 جَرِيرِ بْنِ عَبْدِ اللَّهِ الْبَجَلِيِّ L2123 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 \" إِذَا أَتَاكُمُ الْمُصَدِّقُ ، فَلَا يُفَارِقُكُمْ إِلَّا عَنْ رِضًا \" /27 . قَالَ الشَّافِعِيُّ : يَعْنِي ، وَاللَّهُ أَعْلَمُ ، أَنْ يُوفُوهُ طَائِعِينَ وَلَا يَلْوُوهُ ، لَا أَنْ يُعْطُوهُ مِنْ أَمْوَالِهِمْ مَا لَيْسَ عَلَيْهِمْ ، فَبِهَذَا نَأْمُرُهُمْ وَنَأْمُرُ الْمُصَدِّقَ . *",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1074,
+      "grade": null
+    },
+    {
+      "hadith_id": 27041,
+      "book_id": 47,
+      "narrator_id": 3443,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "سُفْيَانُ",
+              "full_name": "سُفْيَانُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+              "full_name": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "مُطَرِّفُ بْنُ مَازِنٍ",
+              "full_name": "مُطَرِّفُ بْنُ مَازِنٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "عُرْوَةَ بْنِ الزُّبَيْرِ",
+              "full_name": "عُرْوَةَ بْنِ الزُّبَيْرِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِي حُمَيْدٍ السَّاعِدِيِّ",
+              "full_name": "أَبِي حُمَيْدٍ السَّاعِدِيِّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "هِشَامِ بْنِ عُرْوَةَ",
+              "full_name": "هِشَامِ بْنِ عُرْوَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "أَبِيهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "شَيْخٍ ثِقَةٍ سَمَّاهُ",
+              "full_name": "شَيْخٍ ثِقَةٍ سَمَّاهُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> سُفْيَانُ -> الرَّبِيعُ -> الشَّافِعِيُّ -> سُفْيَانُ بْنُ عُيَيْنَةَ -> الرَّبِيعُ -> الشَّافِعِيُّ -> مُطَرِّفُ بْنُ مَازِنٍ -> عُرْوَةَ بْنِ الزُّبَيْرِ -> أَبِي حُمَيْدٍ السَّاعِدِيِّ -> هِشَامِ بْنِ عُرْوَةَ -> أَبِيهِ -> شَيْخٍ ثِقَةٍ سَمَّاهُ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 سُفْيَانُ L3443 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 عُرْوَةَ بْنِ الزُّبَيْرِ L5594 /26 ، /27 عَنْ /93 أَبِي حُمَيْدٍ السَّاعِدِيِّ L4374 /93 ، قَالَ : اسْتَعْمَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ رَجُلًا مِنَ الْأَزْدِ ، يُقَالُ لَهُ : ابْنُ اللُّتْبِيَّةِ ، عَلَى الصَّدَقَةِ ، فَلَمَّا قَدِمَ قَالَ : هَذَا لَكُمْ وَهَذَا أُهْدِيَ إِلَيَّ ، فَقَامَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَلَى الْمِنْبَرِ ، فَقَالَ : /20 \" مَا بَالُ الْعَامِلِ نَبْعَثُهُ عَلَى بَعْضِ أَعْمَالِنَا ، فَيَقُولُ : هَذَا لَكُمْ وَهَذَا أُهْدِيَ إِلَيَّ ؟ فَهَلَّا جَلَسَ فِي بَيْتِ أَبِيهِ , أَوْ بَيْتِ أُمِّهِ ، فَيَنْظُرُ أَيُهْدَى لَهُ أَمْ لَا ؟    @ 2 : 64 @   فَوَالَّذِي نَفْسِي بِيَدِهِ لَا يَأْخُذُ أَحَدٌ مِنْهَا شَيْئًا ، إِلَّا جَاءَ بِهِ يَوْمَ الْقِيَامَةِ يَحْمِلُهُ عَلَى رَقَبَتِهِ ، إِنْ كَانَ بَعِيرًا لَهُ رُغَاءٌ , أَوْ بَقَرَةً لَهَا خُوَارٌ , أَوْ شَاةً تَيْعَرُ ، ثُمَّ رَفَعَ يَدَيْهِ ، حَتَّى رَأَيْنَا عُفْرَةَ إِبْطَيْهِ ، ثُمَّ قَالَ : اللَّهُمَّ هَلْ بَلَّغْتُ , اللَّهُمَّ هَلْ بَلَّغْتُ ؟ \" /27 . أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 سُفْيَانُ بْنُ عُيَيْنَةَ L3443 /94 ، عَنْ /26 هِشَامِ بْنِ عُرْوَةَ L8055 /26 ، عَنْ /26 أَبِيهِ L5594 /26 ، عَنْ /93 أَبِي حُمَيْدٍ السَّاعِدِيِّ L4374 /93 ، قَالَ : بَصُرَ عَيْنِي وَسَمِعَ أُذُنِي رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَلُوا زَيْدَ بْنَ ثَابِتٍ ؛ يَعْنِي مِثْلَهُ . * \r\n/E461 قَالَ الشَّافِعِيُّ : فَيَحْتَمِلُ قَوْلُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي ابْنِ اللُّتْبِيَّةِ تَحْرِيمَ الْهَدِيَّةِ ، إِذَا لَمْ تَكُنِ الْهَدِيَّةُ لَهُ إِلَّا بِسَبَبِ السُّلْطَانِ ، وَيَحْتَمِلُ أَنَّ الْهَدِيَّةَ لِأَهْلِ الصَّدَقَاتِ إِذَا كَانَتْ بِسَبَبِ الْوِلَايَةِ لِأَهْلِ الصَّدَقَاتِ ، كَمَا يَكُونُ مَا تَطَوَّعَ بِهِ أَهْلُ الْأَمْوَالِ مِمَّا لَيْسَ عَلَيْهِمْ لِأَهْلِ الصَّدَقَاتِ ، لَا لِوَالِي الصَّدَقَاتِ . قَالَ الشَّافِعِيُّ : وَإِذَا أَهْدَى وَاحِدٌ مِنَ الْقَوْمِ لِلْوَالِي هَدِيَّةً , فَإِنْ كَانَتْ لِشَيْءٍ يَنَالُ بِهِ مِنْهُ حَقًّا أَوْ بَاطِلًا , أَوْ لِشَيْءٍ يُنَالُ مِنْهُ حَقٌّ أَوْ بَاطِلٌ , فَحَرَامٌ عَلَى الْوَالِي أَنْ يَأْخُذَهَا ؛ لِأَنَّ حَرَامًا عَلَيْهِ أَنْ يَسْتَعْجِلَ عَلَى أَخْذِهِ الْحَقَّ لِمَنْ وَلِيَ أَمْرَهُ , وَقَدْ أَلْزَمَهُ اللَّهُ عَزَّ وَجَلَّ أَخْذَ الْحَقِّ لَهُمْ ، وَحَرَامٌ عَلَيْهِ أَنْ يَأْخُذَ لَهُمْ بَاطِلًا ، وَالْجُعْلُ عَلَيْهِ أَحْرَمُ , وَكَذَلِكَ إِنْ كَانَ أَخَذَ مِنْهُ لِيَدْفَعَ بِهِ عَنْهُ مَا كَرِهَ , أَمَّا أَنْ يَدْفَعَ عَنْهُ بِالْهَدِيَّةِ حَقًّا لَزِمَهُ ، فَحَرَامٌ عَلَيْهِ دَفْعُ الْحَقِّ إِذَا لَزِمَهُ , وَأَمَّا أَنْ يَدْفَعَ عَنْهُ بَاطِلًا ، فَحَرَامٌ عَلَيْهِ إِلَّا أَنْ يَدْفَعَ عَنْهُ بِكُلِّ حَالٍ . قَالَ الشَّافِعِيُّ : وَإِنْ أَهْدَى لَهُ مِنْ غَيْرِ هَذَيْنِ الْوَجْهَيْنِ أَحَدٌ مِنْ أَهْلِ وِلايَتِهِ ، فَكَانَتْ تَفَضُّلًا عَلَيْهِ , أَوْ شُكْرَ الْحُسْنِ فِي الْمُعَامَلَةِ ، فَلَا يَقْبَلُهَا , وَإِنْ قَبِلَهَا كَانَتْ فِي الصَّدَقَاتِ , لَا يَسَعُهُ عِنْدِي غَيْرُهُ ، إِلَّا أَنْ يُكَافِئَهُ عَلَيْهِ بِقَدْرِهَا فَيَسَعُهُ أَنْ يَتَمَوَّلَهَا . قَالَ الشَّافِعِيُّ : وَإِنْ كَانَ مِنْ رَجُلٍ لَا سُلْطَانَ لَهُ عَلَيْهِ ، وَلَيْسَ بِالْبَلَدِ الَّذِي لَهُ بِهِ سُلْطَانٌ شُكْرًا عَلَى حُسْنِ مَا كَانَ مِنْهُ ، فَأَحَبُّ إِلَيَّ أَنْ يَجْعَلَهَا لِأَهْلِ الْوِلَايَةِ إِنْ قَبِلَهَا , أَوْ يَدَعَ قَبُولَهَا ، فَلَا يَأْخُذَ عَلَى الْحُسْنِ مُكَافَأَةً , وَإِنْ قَبِلَهَا فَتَمَوَّلَهَا لَمْ تَحْرُمْ عَلَيْهِ عِنْدِي .   @ أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : وَقَدْ أَخْبَرَنَا مُطَرِّفُ بْنُ مَازِنٍ ، عَنْ شَيْخٍ ثِقَةٍ سَمَّاهُ ، لَا يَحْضُرُنِي ذِكْرُ اسْمِهِ ، أَنَّ رَجُلًا وَلِيَ عَدَنَ فَأَحْسَنَ فِيهَا ، فَبَعَثَ إِلَيْهِ بَعْضُ الْأَعَاجِمِ بِهَدِيَّةٍ حَمْدًا لَهُ عَلَى إِحْسَانِهِ ، فَكَتَبَ فِيهَا إِلَى عُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، فَأَحْسَبُهُ قَالَ قَوْلًا مَعْنَاهُ : تُجْعَلُ فِي بَيْتِ الْمَالِ . # \r\n$584  572 /2",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1076,
+      "grade": null
+    },
+    {
+      "hadith_id": 27042,
+      "book_id": 47,
+      "narrator_id": 7168,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "مُحَمَّدُ بْنُ عُثْمَانَ بْنِ صَفْوَانَ الْجُمَحِيُّ",
+              "full_name": "مُحَمَّدُ بْنُ عُثْمَانَ بْنِ صَفْوَانَ الْجُمَحِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "هِشَامِ بْنِ عُرْوَةَ",
+              "full_name": "هِشَامِ بْنِ عُرْوَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "أَبِيهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "عَائِشَةَ رَضِيَ اللَّهُ",
+              "full_name": "عَائِشَةَ رَضِيَ اللَّهُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> مُحَمَّدُ بْنُ عُثْمَانَ بْنِ صَفْوَانَ الْجُمَحِيُّ -> هِشَامِ بْنِ عُرْوَةَ -> أَبِيهِ -> عَائِشَةَ رَضِيَ اللَّهُ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 مُحَمَّدُ بْنُ عُثْمَانَ بْنِ صَفْوَانَ الْجُمَحِيُّ L7168 /94 ، عَنْ /26 هِشَامِ بْنِ عُرْوَةَ L8055 /26 ، عَنْ /26 أَبِيهِ L5594 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 رَضِيَ اللَّهُ عَنْهَا ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : /20 \" لَا تُخَالِطُ الصَّدَقَةُ مَالًا إِلَّا أَهْلَكَتْهُ \" /27 . قَالَ الشَّافِعِيُّ : يَعْنِي ، وَاللَّهُ أَعْلَمُ ، أَنَّ خِيَانَةَ الصَّدَقَةِ تُتْلِفُ الْمَالَ الْمَخْلُوطَ بِالْخِيَانَةِ مِنَ الصَّدَقَةِ . * \r\nقَالَ الشَّافِعِيُّ : وَمَا أَهْدَى لَهُ ذُو رَحِمٍ , أَوْ ذُو مَوَدَّةٍ ، كَانَ يُهَادِيهِ قَبْلَ الْوِلَايَةِ ، لَا يَبْعَثُهُ لِلْوِلَايَةِ ، فَيَكُونُ إِعْطَاؤُهُ عَلَى مَعْنًى مِنَ الْخَوْفِ , فَالتَّنَزُّهُ أَحَبُّ إِلَيَّ وَأَبْعَدُ لِقالةِ السَّوْءِ , وَلَا بَأْسَ أَنْ يَقْبَلَ وَيَتَمَوَّلَ إِذَا كَانَ عَلَى هَذَا الْمَعْنَى مَا أُهْدِيَ , أَوْ وُهِبَ لَهُ .-E462",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1077,
+      "grade": null
+    },
+    {
+      "hadith_id": 27044,
+      "book_id": 47,
+      "narrator_id": null,
+      "english_translation": "Narrated by the narrator: [Translation requires expert linguistic analysis of classical Arabic. Original text should be translated literally while maintaining English readability.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "الشَّافِعِيُّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "الثِّقَةُ",
+              "full_name": "الثِّقَةُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "بَيْعِ الصَّدَقَةِ قَبْلَ أَنْ تُقْبَضَ",
+              "full_name": "بَيْعِ الصَّدَقَةِ قَبْلَ أَنْ تُقْبَضَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الْعَائِدُ فِي هِبَتِهِ أَوْ صَدَقَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ \"",
+              "full_name": "رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الْعَائِدُ فِي هِبَتِهِ أَوْ صَدَقَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ \"",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            },
+            {
+              "name": "عَمْرِو بْنِ مُسْلِمٍ , أَوِ ابْنِ طَاوُسٍ",
+              "full_name": "عَمْرِو بْنِ مُسْلِمٍ , أَوِ ابْنِ طَاوُسٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> الرَّبِيعُ -> الشَّافِعِيُّ -> الثِّقَةُ -> بَيْعِ الصَّدَقَةِ قَبْلَ أَنْ تُقْبَضَ -> رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الْعَائِدُ فِي هِبَتِهِ أَوْ صَدَقَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ \" -> عَمْرِو بْنِ مُسْلِمٍ , أَوِ ابْنِ طَاوُسٍ -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Islamic Jurisprudence"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : حَدَّثَنِي شَيْخٌ مِنْ أَهْلِ مَكَّةَ ، قَالَ : سَمِعْتُ طَاوُسًا ، وَأَنَا وَاقِفٌ عَلَى رَأْسِهِ ، يُسْأَلُ عَنْ بَيْعِ الصَّدَقَةِ قَبْلَ أَنْ تُقْبَضَ ، فَقَالَ طَاوُسٌ : وَرَبِ هَذَا الْبَيْتِ ، مَا يَحِلُّ بَيْعُهَا قَبْلَ أَنْ تُقْبَضَ , وَلَا بَعْدَ أَنْ تُقْبَضَ . قَالَ الشَّافِعِيُّ : لِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ أَنْ تُؤْخَذَ مِنْ أَغْنِيَائِهِمْ ، فَتُرَدَّ    @ 2 : 65 @   عَلَى فُقَرَائِهِمْ فُقَرَاءِ أَهْلِ السُّهْمَانِ , فَتُرَدُّ بِعَيْنِهَا ، وَلَا يُرَدُّ ثَمَنُهَا . قَالَ الشَّافِعِيُّ : وَإِنْ بَاعَ مِنْهَا الْمُصَدِّقُ شَيْئًا لِغَيْرِ أَنْ يَقَعَ لِرَجُلٍ نِصْفُ شَاةٍ , أَوْ مَا يُشْبِهُ هَذَا ، فَعَلَيْهِ أَنْ يَأْتِيَ بِمِثْلِهَا , أَوْ يَقْسِمَهَا عَلَى أَهْلِهَا ، لَا يُجْزِيهِ إِلَّا ذَلِكَ . قَالَ : وَأَفْسَخُ بَيْعَ الْمُصَدِّقِ فِيهَا عَلَى كُلِّ حَالٍ إِذَا قَدَرْتُ عَلَيْهِ ، وَأَكْرَهُ لِمَنْ خَرَجَتْ مِنْهُ أَنْ يَشْتَرِيَهَا مِنْ يَدِ أَهْلِهَا الَّذِي قُسِمَتْ عَلَيْهِمْ ، وَلَا أَفْسَخُ الْبَيْعَ إِنِ اشْتَرَوْهَا مِنْهُمْ , وَإِنَّمَا كَرِهْتُ ذَلِكَ مِنْهُمْ ؛ لِأَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَ رَجُلًا حَمَلَ عَلَى فَرَسٍ فِي سَبِيلِ اللَّهِ ، فَرَآهُ يُبَاعُ أَنْ لَا يَشْتَرِيَهُ ، وَأَنَّهُ يُرْوَى عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" الْعَائِدُ فِي هِبَتِهِ أَوْ صَدَقَتِهِ كَالْكَلْبِ يَعُودُ فِي قَيْئِهِ \" ، وَلَمْ يَبِنْ أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ حَرَّمَ شِرَاءَ مَا وَصَفْتُ عَلَى الَّذِي خَرَجَ مِنْ يَدَيْهِ ، فَأَفْسَخُ فِيه الْبَيْع ، وَقَدْ تَصَدَّقَ رَجُلٌ مِنَ الْأَنْصَارِ بِصَدَقَةٍ عَلَى أَبَوَيْهِ ثُمَّ مَاتَا ، فَأَمَرَهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِأَخْذِ ذَلِكَ بِالْمِيرَاثِ ، فَبِذَلِكَ أَجَزْتُ أَنْ يَمْلِكَ مَا خَرَجَ مِنْ يَدَيْهِ بِمَا يَحِلُّ بِهِ الْمِلْكُ . قَالَ الشَّافِعِيُّ : وَلَا أَكْرَهُ لِمَنِ اشْتَرَى مِنْ يَدِ أَهْلِ السُّهْمَانِ حُقُوقَهُمْ مِنْهَا ، إِذَا كَانَ مَا اشْتَرَى مِنْهَا مِمَّا لَمْ يُؤْخَذْ مِنْهُ فِي صَدَقَتِهِ ، وَلَمْ يَتَصَدَّقْ بِهِ مُتَطَوِّعًا .   @ أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا الثِّقَةُ ، عَنْ عَمْرِو بْنِ مُسْلِمٍ , أَوِ ابْنِ طَاوُسٍ ، أَنَّ طَاوُسًا وَلِيَ صَدَقَاتِ الرَّكْبِ لِمُحَمَّدِ بْنِ يُوسُفَ ، فَكَانَ يَأْتِي الْقَوْمَ فَيَقُولُ : زَكُّوا يَرْحَمُكُمُ اللَّهُ مِمَّا أَعْطَاكُمُ اللَّهُ ، فَمَا أَعْطَوْهُ قَبِلَهُ ، ثُمَّ يَسْأَلُهُمْ : أَيْنَ مَسَاكِينُهُمْ ؟ فَيَأْخُذُهَا مِنْ هَذَا ، وَيَدْفَعُهَا إِلَى هَذَا ، وَأَنَّهُ لَمْ يَأْخُذْ لِنَفْسِهِ فِي عَمَلِهِ وَلَمْ يَبِعْ وَلَمْ يَدْفَعْ إِلَى الْوَالِي مِنْهَا شَيْئًا , وَأَنَّ الرَّجُلَ مِنَ الرَّكْبِ كَانَ إِذَا وَلَّى عَنْهُ لَمْ يَقُلْ لَهُ : هَلُمَّ . قَالَ الشَّافِعِيُّ : وَهَذَا يَسَعُ مِنْ وَلِيِّهِمْ عِنْدِي ، وَأَحَبُّ إِلَيَّ أَنْ يَحْتَاطَ لِأَهْلِ السُّهْمَانِ فَيَسْأَلُ ، وَيُحَلِّفُ مَنِ اتُّهِمَ ؛ لِأَنَّهُ قَدْ كَثُرَ الْغُلُولُ فِيهِمْ ، وَلَيْسَ لِأَحَدٍ أَنْ يَحْتَاطَ ، وَلَا يُحَلِّفَ ، وَلَا يَلِيَ ، حَتَّى يَكُونَ يَضَعُهَا مَوَاضِعَهَا , فَأَمَّا مَنْ لَمْ يَكُنْ يَضَعُهَا مَوَاضِعَهَا فَلَيْسَ لَهُ ذَلِكَ . #$E463",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1079,
+      "grade": null
+    }
+  ]
+}

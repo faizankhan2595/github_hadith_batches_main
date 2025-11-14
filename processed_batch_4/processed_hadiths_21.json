@@ -1,0 +1,774 @@
+{
+  "batch_number": 4,
+  "file_number": 21,
+  "record_count": 11,
+  "processed_hadiths": [
+    {
+      "hadith_id": 27301,
+      "book_id": 47,
+      "narrator_id": 7465,
+      "english_translation": "Narrated by عبد الله بن عبد الصمد بن علي: [Literal translation of: عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنَا عُمَرُ بْنُ عَطَاءٍ ، عَنْ عِكْرِمَةَ ، أَنَّهُ قَالَ : \" ...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "مجالد بن سعيد بن عمير بن بسطام بن ذي مران",
+              "full_name": "مجالد بن سعيد بن عمير بن بسطام بن ذي مران",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الملك بن إبراهيم",
+              "full_name": "عبد الملك بن إبراهيم",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن عبد الصمد بن علي",
+              "full_name": "عبد الله بن عبد الصمد بن علي",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "مجالد بن سعيد بن عمير بن بسطام بن ذي مران -> عبد الرحمن بن عبد الله -> عبد الملك بن إبراهيم -> عبد الله بن عبد الصمد بن علي"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مجالد بن سعيد بن عمير بن بسطام بن ذي مران is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "عبد الرحمن بن عبد الله is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "عبد الملك بن إبراهيم is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "عبد الله بن عبد الصمد بن علي is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Quranic Commentary"
+      ],
+      "arabicText": "أَخْبَرَنَا مُسْلِمُ بْنُ خَالِدٍ ، عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنَا عُمَرُ بْنُ عَطَاءٍ ، عَنْ عِكْرِمَةَ ، أَنَّهُ قَالَ : \" لَا يَنْبَغِي لِأَحَدٍ أَنْ يُحْرِمَ بِالْحَجِّ إلَّا فِي أَشْهُرِ الْحَجِّ ، مِنْ أَجْلِ قَوْلِ اللَّهِ عَزَّ وَجَلَّ : الْحَجُّ أَشْهُرٌ مَعْلُومَاتٌ سورة البقرة آية 197 وَلَا يَنْبَغِي لِأَحَدٍ أَنْ يُلَبِيَ بِحَجٍّ ، ثُمَّ يُقِيمَ \" . *",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1336,
+      "grade": null
+    },
+    {
+      "hadith_id": 27303,
+      "book_id": 47,
+      "narrator_id": null,
+      "english_translation": "Narrated by الشَّافِعِيُّ : $728 712: [Literal translation of: قَالَ : قَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى : فِيمَا حَكَيْنَا مِنَ الْأَحَادِيثِ عَنِ الن...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الرَّبِيعُ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient information"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى",
+              "full_name": "الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient information"
+              ]
+            },
+            {
+              "name": "غَيْرِهِ كَفَتْهُ نِيَّتُهُ مِنْ",
+              "full_name": "غَيْرِهِ كَفَتْهُ نِيَّتُهُ مِنْ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient information"
+              ]
+            },
+            {
+              "name": "غَيْرِهِ .",
+              "full_name": "غَيْرِهِ .",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient information"
+              ]
+            },
+            {
+              "name": "الشَّافِعِيُّ : $728 712",
+              "full_name": "الشَّافِعِيُّ : $728 712",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى -> غَيْرِهِ كَفَتْهُ نِيَّتُهُ مِنْ -> غَيْرِهِ . -> الشَّافِعِيُّ : $728 712"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الرَّبِيعُ is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "غَيْرِهِ كَفَتْهُ نِيَّتُهُ مِنْ is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "غَيْرِهِ . is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "الشَّافِعِيُّ : $728 712 is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "أَخْبَرَنَا الرَّبِيعُ ، قَالَ : قَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى : فِيمَا حَكَيْنَا مِنَ الْأَحَادِيثِ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَلِيلٌ عَلَى أَنَّ نِيَّةَ الْمُلَبِي كَافِيَةٌ لَهُ مِنْ أَنْ يُظْهِرَ مَا يُحْرِمُ بِهِ ، كَمَا تَكُونُ نِيَّةُ الْمُصَلِّي مَكْتُوبَةً ، أَوْ نَافِلَةً ، أَوْ نَذْرًا كَافِيَةً لَهُ مِنْ إظْهَارِ مَا يَنْوِي مِنْهَا بِأَيِّ إحْرَامٍ نَوَى , وَنِيَّةُ الصَّائِمِ كَذَلِكَ , وَكَذَلِكَ لَوْ حَجَّ أَوِ اعْتَمَرَ عَنْ غَيْرِهِ كَفَتْهُ نِيَّتُهُ مِنْ أَنْ يُسَمِّيَ أَنَّ حَجَّهُ هَذَا عَنْ غَيْرِهِ . قَالَ الشَّافِعِيُّ : $728 712",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1338,
+      "grade": null
+    },
+    {
+      "hadith_id": 27304,
+      "book_id": 47,
+      "narrator_id": 3361,
+      "english_translation": "Narrated by جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل: [Literal translation of: عَنْ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ ، أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ ، قَالَ : \" مَا سَمَّى رَسُ...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "حمران بن أبان بن خالد عبد عمرو بن عقيل بن عامر بن ",
+              "full_name": "حمران بن أبان بن خالد عبد عمرو بن عقيل بن عامر بن جندلة بن جذيمة",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل",
+              "full_name": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "حمران بن أبان بن خالد عبد عمرو بن عقيل بن عامر بن  -> جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل"
+      ],
+      "potential_issues": [
+        {
+          "issue": "حمران بن أبان بن خالد عبد عمرو بن عقيل بن عامر بن  is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "أَخْبَرَنَا إبْرَاهِيمُ بْنُ مُحَمَّدٍ ، عَنْ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ ، أَنَّ جَابِرَ بْنَ عَبْدِ اللَّهِ ، قَالَ : \" مَا سَمَّى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي تَلْبِيَتِهِ حَجًّا قَطُّ وَلَا عُمْرَةً \" . * قَالَ الشَّافِعِيُّ : وَلَوْ سَمَّى الْمُحْرِمُ ذَلِكَ لَمْ أَكْرَهْهُ ، إلَّا أَنَّهُ لَوْ كَانَ سُنَّةً سَمَّاهُ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَوْ مَنْ بَعْدَهُ , وَلَوْ لَبَّى الْمُحْرِمُ ، فَقَالَ : لَبَّيْكَ بِحَجَّةٍ وَعُمْرَةٍ ، وَهُوَ يُرِيدُ حَجَّةً كَانَ مُفْرِدًا ، وَلَوْ أَرَادَ عُمْرَةً كَانَ مُعْتَمِرًا ، وَلَوْ سَمَّى عُمْرَةً وَهُوَ يُرِيدُ حَجًّا كَانَ حَجًّا ، وَلَوْ سَمَّى عُمْرَةً وَهُوَ يُرِيدُ قِرَانًا كَانَ قِرَانًا ، إنَّمَا يَصِيرُ أَمْرُهُ إلَى النِّيَّةِ إذَا أَظْهَرَ التَّلْبِيَةَ مَعَهَا ، وَلَا يَلْزَمُهُ إذَا لَمْ يَكُنْ لَهُ نِيَّةٌ أَنْ يَكُونَ عَلَيْهِ أَكْثَرُ مِنْ لَفْظِهِ , وَذَلِكَ أَنَّ هَذَا عَمَلٌ لِلَّهِ خَالِصًا ، لَا شَيْءَ لِأَحَدٍ مِنَ الْآدَمِيِّينَ غَيْرُهُ فِيهِ ، فَيُؤْخَذُ فِيهِ بِمَا ظَهَرَ مِنْ قَوْلِهِ دُونَ نِيَّتِهِ , وَلَوْ لَبَّى رَجُلٌ لَا يُرِيدُ حَجًّا وَلَا عُمْرَةً لَمْ يَكُنْ حَاجًّا وَلَا مُعْتَمِرًا ، كَمَا لَوْ كَبَّرَ لَا يُرِيدُ صَلَاةً لَمْ يَكُنْ دَاخِلًا فِي الصَّلَاةِ ، وَلَوْ أَكَلَ سَحَرًا لَا يُرِيدُ صَوْمًا لَمْ يَكُنْ دَاخِلًا فِي الصَّوْمِ ، وَكَذَلِكَ لَوْ لَمْ يَأْكُلْ يَوْمًا كَامِلًا ، وَلَا يَنْوِي صَوْمًا لَمْ يَكُنْ صَائِمًا , وَرُوِيَ أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ لَقِيَ رَكْبًا بِالسَّاحِلِ مُحْرِمِينَ ، فَلَبَّوْا فَلَبَّى ابْنُ مَسْعُودٍ وَهُوَ دَاخِلٌ إلَى الْكُوفَةِ ، وَالتَّلْبِيَةُ ذِكْرٌ مِنْ ذِكْرِ اللَّهِ عَزَّ وَجَلَّ , لَا يَضِيقُ عَلَى أَحَدٍ أَنْ يَقُولَ ، وَلَا يُوجِبُ عَلَى أَحَدٍ أَنْ يَدْخُلَ فِي إحْرَامٍ إذَا لَمْ يَنْوِهِ .2E598",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1339,
+      "grade": null
+    },
+    {
+      "hadith_id": 27306,
+      "book_id": 47,
+      "narrator_id": null,
+      "english_translation": "Narrated by الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى: [Literal translation of: $729 713...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى",
+              "full_name": "الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ تَعَالَى : $729 713",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1341,
+      "grade": null
+    },
+    {
+      "hadith_id": 27307,
+      "book_id": 47,
+      "narrator_id": 6659,
+      "english_translation": "Narrated by عباد بن ميسرة: [Literal translation of: عَنْ نَافِعٍ ، عَنِ ابْنِ عُمَرَ ، أَنَّ \" تَلْبِيَةَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلّ...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عمارة بن مهران",
+              "full_name": "عمارة بن مهران",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "محمد بن عبد الله بن سلام بن الحارث",
+              "full_name": "محمد بن عبد الله بن سلام بن الحارث",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عباد بن ميسرة",
+              "full_name": "عباد بن ميسرة",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عمارة بن مهران -> محمد بن عبد الله بن سلام بن الحارث -> عباد بن ميسرة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عمارة بن مهران is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "محمد بن عبد الله بن سلام بن الحارث is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "عباد بن ميسرة is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "أَخْبَرَنَا مَالِكٌ ، عَنْ نَافِعٍ ، عَنِ ابْنِ عُمَرَ ، أَنَّ \" تَلْبِيَةَ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ ، إنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ لَا شَرِيكَ لَكَ \" . قَالَ نَافِعٌ : كَانَ عَبْدُ اللَّهِ بْنُ عُمَرَ يَزِيدُ فِيهَا : لَبَّيْكَ لَبَّيْكَ لَبَّيْكَ ، وَسَعْدَيْكَ ، وَالْخَيْرُ بِيَدَيْكَ ، وَالرَّغْبَاءُ إلَيْكَ وَالْعَمَلُ . * قَالَ الشَّافِعِيُّ : $730 714",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1342,
+      "grade": null
+    },
+    {
+      "hadith_id": 27308,
+      "book_id": 47,
+      "narrator_id": 1131,
+      "english_translation": "Narrated by جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل: [Literal translation of: عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ ، عَنْ أَبِيهِ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ، أَنَّ رَسُولَ اللَّ...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "أبو سلمة",
+              "full_name": "أبو سلمة",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حسن بن سوار",
+              "full_name": "حسن بن سوار",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فضيل بن غزوان بن جرير",
+              "full_name": "فضيل بن غزوان بن جرير",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل",
+              "full_name": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "أبو سلمة -> حسن بن سوار -> فضيل بن غزوان بن جرير -> جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل"
+      ],
+      "potential_issues": [
+        {
+          "issue": "أبو سلمة is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "حسن بن سوار is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "فضيل بن غزوان بن جرير is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "أَخْبَرَنَا بَعْضُ أَهْلِ الْعِلْمِ ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ ، عَنْ أَبِيهِ ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَهَلَّ بِالتَّوْحِيدِ : لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ , لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ ، إنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ ، لَا شَرِيكَ لَكَ \" . * $731 715",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1343,
+      "grade": null
+    },
+    {
+      "hadith_id": 27309,
+      "book_id": 47,
+      "narrator_id": 4577,
+      "english_translation": "Narrated by سليمان بن أرقم: [Literal translation of: عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ ، عَنِ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ رَضِي اللَّهُ عَنْهُ ،...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "شبل بن عباد",
+              "full_name": "شبل بن عباد",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "صالح بن عبد الله بن أبي فروة",
+              "full_name": "صالح بن عبد الله بن أبي فروة",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سهل بن صالح بن حكيم",
+              "full_name": "سهل بن صالح بن حكيم",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "شبل بن عباد -> صالح بن عبد الله بن أبي فروة -> سهل بن صالح بن حكيم -> سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "شبل بن عباد is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "صالح بن عبد الله بن أبي فروة is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "سهل بن صالح بن حكيم is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "سليمان بن أرقم is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "وَذَكَرَ الْمَاجِشُونُ ، عَنْ عَبْدِ اللَّهِ بْنِ الْفَضْلِ ، عَنِ الْأَعْرَجِ ، عَنْ أَبِي هُرَيْرَةَ رَضِي اللَّهُ عَنْهُ ، قَالَ : \" كَانَ مِنْ تَلْبِيَةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : لَبَّيْكَ إلَهَ الْحَقِّ لَبَّيْكَ \" . * قَالَ الشَّافِعِيُّ : كَمَا رَوَى جَابِرٌ وَابْنُ عُمَرَ ، كَانَتْ أَكْثَرُ تَلْبِيَةِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَهِيَ الَّتِي أُحِبُّ أَنْ تَكُونَ تَلْبِيَةَ الْمُحْرِمِ لَا يَقْصُرُ عَنْهَا ، وَلَا يُجَاوِزُهَا , إلَّا أَنْ يُدْخِلَ مَا رَوَى أَبُو هُرَيْرَةَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَإِنَّهُ مِثْلُهَا فِي الْمَعْنَى ؛ لِأَنَّهَا تَلْبِيَةٌ ، وَالتَّلْبِيَةُ إجَابَةٌ ، فَأَبَانَ أَنَّهُ أَجَابَ إلَهَ الْحَقِّ بِلَبَّيْكَ أَوَّلًا وَآخِرًا . $732 716",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1344,
+      "grade": null
+    },
+    {
+      "hadith_id": 27310,
+      "book_id": 47,
+      "narrator_id": 3332,
+      "english_translation": "Narrated by عمر بن ربيعة: [Literal translation of: عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي حُمَيْدٌ الْأَعْرَجُ ، عَنْ مُجَاهِدٍ ، أَنَّهُ قَالَ : كَ...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر",
+              "full_name": "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مغيرة بن سعد بن الأخرم",
+              "full_name": "مغيرة بن سعد بن الأخرم",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمر بن ربيعة",
+              "full_name": "عمر بن ربيعة",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر -> عبد الرحمن بن عبد الله -> مغيرة بن سعد بن الأخرم -> عمر بن ربيعة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "عبد الرحمن بن عبد الله is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "مغيرة بن سعد بن الأخرم is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "عمر بن ربيعة is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "أَخْبَرَنَا سَعِيدُ بْنُ سَالِمٍ ، عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي حُمَيْدٌ الْأَعْرَجُ ، عَنْ مُجَاهِدٍ ، أَنَّهُ قَالَ : كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يُظْهِرُ مِنَ التَّلْبِيَةِ : لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ ، @ 2 : 170 @ إنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ ، لَا شَرِيكَ لَكَ \" . قَالَ : حَتَّى إذَا كَانَ ذَاتَ يَوْمٍ ، وَالنَّاسُ يُصْرَفُونَ عَنْهُ كَأَنَّهُ أَعْجَبَهُ مَا هُوَ فِيهِ ، فَزَادَ فِيهَا : \" لَبَّيْكَ إنَّ الْعَيْشَ عَيْشُ الْآخِرَةِ \" . قَالَ ابْنُ جُرَيْجٍ : وَحَسِبْتُ أَنَّ ذَلِكَ يَوْمُ عَرَفَةَ . * قَالَ الشَّافِعِيُّ : وَهَذِهِ تَلْبِيَةٌ كَتَلْبِيَتِهِ الَّتِي رُوِيَتْ عَنْهُ ، وَأَخْبَرَ أَنَّ الْعَيْشَ عَيْشُ الْآخِرَةِ ، لَا عَيْشُ الدُّنْيَا وَلَا مَا فِيهَا ، وَلَا يَضِيقُ عَلَى أَحَدٍ فِي مِثْلِ مَا قَالَ ابْنُ عُمَرَ وَلَا غَيْرِهِ مِنْ تَعْظِيمِ اللَّهِ تَعَالَى ، وَدُعَائِهِ مَعَ التَّلْبِيَةِ , غَيْرَ أَنَّ الِاخْتِيَارَ عِنْدِي أَنْ يُفْرِدَ مَا رُوِيَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ التَّلْبِيَةِ ، وَلَا يَصِلَ بِهَا شَيْئًا إلَّا مَا ذُكِرَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَيُعَظِّمُ اللَّهَ تَعَالَى وَيَدْعُوهُ بَعْدَ قَطْعِ التَّلْبِيَةِ . $733 717",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1345,
+      "grade": null
+    },
+    {
+      "hadith_id": 27311,
+      "book_id": 47,
+      "narrator_id": 3332,
+      "english_translation": "Narrated by حسام بن مصك بن ظالم بن شيطان: [Literal translation of: عَنِ الْقَاسِمِ بْنِ مَعْنٍ ، عَنْ مُحَمَّدِ بْنِ عَجْلَانَ ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي سَلَمَة...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر",
+              "full_name": "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أمي بن ربيعة",
+              "full_name": "أمي بن ربيعة",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "فروخ",
+              "full_name": "فروخ",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "شعيب بن رزيق",
+              "full_name": "شعيب بن رزيق",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حسام بن مصك بن ظالم بن شيطان",
+              "full_name": "حسام بن مصك بن ظالم بن شيطان",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر -> أمي بن ربيعة -> فروخ -> شعيب بن رزيق -> حسام بن مصك بن ظالم بن شيطان"
+      ],
+      "potential_issues": [
+        {
+          "issue": "حكيم بن قيس بن عاصم بن سنان بن خالد بن منقر is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "أمي بن ربيعة is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "فروخ is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "شعيب بن رزيق is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "حسام بن مصك بن ظالم بن شيطان is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "أَخْبَرَنَا سَعِيدٌ ، عَنِ الْقَاسِمِ بْنِ مَعْنٍ ، عَنْ مُحَمَّدِ بْنِ عَجْلَانَ ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي سَلَمَةَ ، أَنَّهُ قَالَ : سَمِعَ سَعْدٌ بَعْضَ بَنِي أَخِيهِ وَهُوَ \" يُلَبِي : يَا ذَا الْمَعَارِجِ ، فَقَالَ سَعْدٌ : الْمَعَارِجُ ؟ إنَّهُ لِذُو الْمَعَارِجِ , وَمَا هَكَذَا كُنَّا نُلَبِي عَلَى عَهْدِ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" . * (E599",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1346,
+      "grade": null
+    },
+    {
+      "hadith_id": 27313,
+      "book_id": 47,
+      "narrator_id": null,
+      "english_translation": "Narrated by الشَّافِعِيُّ $734 718: [Literal translation of: $734 718...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الشَّافِعِيُّ $734 718",
+              "full_name": "الشَّافِعِيُّ $734 718",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient information"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "الشَّافِعِيُّ $734 718"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الشَّافِعِيُّ $734 718 is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ : $734 718",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1348,
+      "grade": null
+    },
+    {
+      "hadith_id": 27314,
+      "book_id": 47,
+      "narrator_id": 6659,
+      "english_translation": "Narrated by أسامة بن عمير بن عامر بن الأقيشر: [Literal translation of: عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ ، عَنْ عَبْدِ الْمَلِك...]",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عمارة بن مهران",
+              "full_name": "عمارة بن مهران",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "شعيب بن دينار",
+              "full_name": "شعيب بن دينار",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الرحمن بن سلم",
+              "full_name": "عبد الرحمن بن سلم",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "بريد بن أصرم",
+              "full_name": "بريد بن أصرم",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أسامة بن عمير بن عامر بن الأقيشر",
+              "full_name": "أسامة بن عمير بن عامر بن الأقيشر",
+              "grade": "Majhul",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عمارة بن مهران -> شعيب بن دينار -> عبد الرحمن بن سلم -> بريد بن أصرم -> أسامة بن عمير بن عامر بن الأقيشر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عمارة بن مهران is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "شعيب بن دينار is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "عبد الرحمن بن سلم is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "بريد بن أصرم is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        },
+        {
+          "issue": "أسامة بن عمير بن عامر بن الأقيشر is unknown (Majhul)",
+          "impact": "Lack of information about narrator reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Scholar Statement"
+      ],
+      "arabicText": "أَخْبَرَنَا مَالِكُ بْنُ أَنَسٍ ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَزْمٍ ، عَنْ عَبْدِ الْمَلِكِ بْنِ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ ، عَنْ خَلَّادِ بْنِ السَّائِبِ الْأَنْصَارِيِّ ، عَنْ أَبِيهِ ، أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ : \" أَتَانِي جِبْرِيلُ فَأَمَرَنِي أَنْ آمُرَ أَصْحَابِي أَوْ مَنْ مَعِي أَنْ يَرْفَعُوا أَصْوَاتَهُمْ بِالتَّلْبِيَةِ ، أَوْ بِالْإِهْلَالِ \" ، يُرِيدُ أَحَدَهُمَا . * قَالَ الشَّافِعِيُّ : وَبِمَا أَمَرَ بِهِ جِبْرِيلُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَأَمَرَ الرِّجَالَ الْمُحْرِمِينَ ، وَفِيهِ دَلَالَةٌ عَلَى أَنَّ أَصْحَابَهُ هُمُ الرِّجَالُ دُونَ النِّسَاءِ ، فَأَمَرَهُمْ أَنْ يَرْفَعُوا جَهْدَهُمْ مَا لَمْ يَبْلُغْ ذَلِكَ أَنْ يَقْطَعَ أَصْوَاتَهُمْ ، فَكَأَنَّا نَكْرَهُ قَطْعَ أَصْوَاتِهِمْ ، وَإِذَا كَانَ الْحَدِيثُ يَدُلُّ عَلَى أَنَّ الْمَأْمُورِينَ بِرَفْعِ الْأَصْوَاتِ بِالتَّلْبِيَةِ الرِّجَالُ ، فَكَانَ النِّسَاءُ مَأْمُورَاتٍ بِالسَّتْرِ ، فَإِنْ لَا يَسْمَعُ صَوْتَ الْمَرْأَةِ أَحَدٌ أَوْلَى بِهَا وَأَسْتَرُ لَهَا , فَلَا تَرْفَعُ الْمَرْأَةُ صَوْتَهَا بِالتَّلْبِيَةِ وَتُسْمِعُ نَفْسَهَا .",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1349,
+      "grade": null
+    }
+  ]
+}

@@ -1,0 +1,704 @@
+{
+  "batch_number": 4,
+  "file_number": 35,
+  "record_count": 11,
+  "hadiths": [
+    {
+      "hadith_id": 27511,
+      "book_id": 47,
+      "english_translation": "Narrated by بَعِيرِهِ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُفْيَانُ   عَنْ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مُسْلِمُ بْنُ",
+              "full_name": "مُسْلِمُ بْنُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَمْرِو بْنِ",
+              "full_name": "عمر بن الخطاب بن نفيل العدوي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سَعِيدِ بْنِ",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "بَعِيرِهِ",
+              "full_name": "بَعِيرِهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُفْيَانُ   عَنْ -> مُسْلِمُ بْنُ -> عَمْرِو بْنِ -> سَعِيدِ بْنِ -> بَعِيرِهِ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مُسْلِمُ بْنُ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "بَعِيرِهِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 سُفْيَانُ L3443 /94 ، عَنْ /26 عَمْرِو بْنِ دِينَارٍ L6123 /26 ، عَنْ /26 سَعِيدِ بْنِ جُبَيْرٍ L3307 /26 ، /27 عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 ، قَالَ : كُنَّا مَعَ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، /20 \" فَخَرَّ رَجُلٌ مُحْرِمٌ عَنْ بَعِيرِهِ ، فَوَقَصَ ، فَمَاتَ ، فَذُكِرَ ذَلِكَ لِلنَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : اغْسِلُوهُ بِمَاءٍ وَسِدْرٍ ، وَكَفِّنُوهُ فِي ثَوْبَيْهِ اللَّذَيْنِ مَاتَ فِيهِمَا ، فَإِنَّهُ يُبْعَثُ يَوْمَ الْقِيَامَةِ مُهَلِّلًا ، أَوْ مُلَبِيًا \" /27 . قَالَ /94 سُفْيَانُ L3443 /94 : وَأَخْبَرَنِي /26 إبْرَاهِيمُ بْنُ أَبِي جُرَّةَ L779 /26 ، عَنْ /26 سَعِيدِ بْنِ جُبَيْرٍ L3307 /26 ، عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِثْلَهُ ، وَزَادَ فِيهِ : \" وَلَا تُقَرِّبُوهُ طِيبًا \"   أَخْبَرَنَا /94 مُسْلِمُ بْنُ خَالِدٍ L7465 /94 ، عَنِ /26 ابْنِ جُرَيْجٍ L5223 /26 ، عَنِ /26 ابْنِ شِهَابٍ L7272 /26 ، أَنَّ /93 عُثْمَانَ بْنَ عَفَّانَ L5543 /93 ، فَعَلَ بِابْنٍ لَهُ مَاتَ مُحْرِمًا شَبِيهًا بِهَذَا . * \r\nقَالَ الشَّافِعِيُّ : وَيَسْتَظِلُّ الْمُحْرِمُ عَلَى الْمَحْمَلِ وَالرَّاحِلَةِ وَالْأَرْضِ بِمَا شَاءَ ، مَا لَمْ يَمَسَّ رَأْسَهُ .9E666",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1546
+    },
+    {
+      "hadith_id": 27513,
+      "book_id": 47,
+      "english_translation": "Narrated by حَسَنِ بْنِ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سُفْيَانُ بْنُ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سُفْيَانُ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سَعِيدُ بْنُ",
+              "full_name": "سعيد بن المسيب بن حزن المخزومي",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عُرْوَةَ",
+              "full_name": "عُرْوَةَ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَائِشَةَ",
+              "full_name": "عائشة بنت أبي بكر الصديق",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "أَبِيهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَائِشَةَ بِنْتِ",
+              "full_name": "عائشة بنت أبي بكر الصديق",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حَسَنِ بْنِ",
+              "full_name": "حَسَنِ بْنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُفْيَانُ بْنُ -> سُفْيَانُ -> سَعِيدُ بْنُ -> عُرْوَةَ -> عَائِشَةَ -> أَبِيهِ -> عَائِشَةَ بِنْتِ -> حَسَنِ بْنِ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عُرْوَةَ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "أَبِيهِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "حَسَنِ بْنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ : \r\n$829  813 /2 /141 أَخْبَرَنَا /94 سُفْيَانُ بْنُ عُيَيْنَةَ L3443 /94 ، عَنِ /26 ابْنِ شِهَابٍ L7272 /26 ، /26 وَهِشَامِ بْنِ عُرْوَةَ L8055 /26 ، أَوْ /26 عُثْمَانَ بْنِ عُرْوَةَ L5541 /26 ، عَنْ /26 عُرْوَةَ L5594 /26 ، عَنْ /26 عَائِشَةَ L4049 /26 ، /26 وَعَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ L4312 /26 ، عَنْ /26 أَبِيهِ L1598 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 ، قَالَتْ : /20 \" طَيَّبْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِيَدَيَّ هَاتَيْنِ لِإِحْرَامِهِ قَبْلَ أَنْ يُحْرِمَ ، وَلِحِلِّهِ قَبْلَ أَنْ يَطُوفَ بِالْبَيْتِ \" /27 , وَزَادَ عُثْمَانُ بْنُ عُرْوَةَ ، عَنْ أَبِيهِ ، قُلْتُ : بِأَيِّ شَيْءٍ ؟ قَالَتْ : بِأَطْيَبِ الطِّيبِ . * \r\n$830  814 /3 /141 أَخْبَرَنَا /94 سُفْيَانُ L3443 /94 ، عَنِ /26 ابْنِ عَجْلَانَ L7172 /26 ، عَنْ /26 عَائِشَةَ بِنْتِ سَعْدٍ L4050 /26 ، أَنَّهَا /27 /20 \" طَيَّبَتْ /93 أَبَاهَا L3232 /93 لِلْإِحْرَامِ بِالسُّكِّ وَالذَّرِيرَةِ \" /27 . * \r\n$831  815 /3 /141 أَخْبَرَنَا /94 سَعِيدُ بْنُ سَالِمٍ L3332 /94 ، عَنْ /26 حَسَنِ بْنِ زَيْدٍ L1265 /26 ، وَلَا أَعْلَمُ إلَّا وَقَدْ سَمِعْتُهُ مِنَ الْحَسَنِ ، عَنْ /26 أَبِيهِ L3126 /26 ، قَالَ : /27 رَأَيْتُ /93 ابْنَ عَبَّاسٍ L4883 /93 /20 \" مُحْرِمًا ، وَفِي رَأْسِهِ ، وَلِحْيَتِهِ مِثْلُ الرُّبِ مِنَ الْغَالِيَةِ \" /27 . * \r\nقَالَ الشَّافِعِيُّ : وَلَا بَأْسَ أَنْ يَتَطَيَّبَ الْمُحْرِمَانِ الرَّجُلُ وَالْمَرْأَةُ بِأَقْصَى غَايَةِ الطِّيبِ الَّذِي يَبْقَى ، مِنْ غَالِيَةٍ ، وَنَضُوحٍ ، وَغَيْرِهِ ؛ لِأَنَّ الطِّيبَ كَانَ فِي الْإِحْلَالِ ، وَإِنْ بَقِيَ فِي الْإِحْرَامِ شَيْءٌ ، فَالْإِحْرَامُ شَيْءٌ أُحْدِثَ بَعْدَهُ ، وَإِذَا أَحْرَمَا فَلَيْسَ لَهُمَا أَنْ يَتَطَيَّبَا ، وَلَا أَنْ يَمَسَّا طِيبًا ، فَإِنْ مَسَّاهُ بِأَيْدِيهِمَا عَامِدَيْنِ ، وَكَانَ يَبْقَى أَثَرُهُ وَرِيحُهُ ،    @ 2 : 223 @   فَعَلَيْهِمَا الْفِدْيَةُ ، وَسَوَاءٌ قَلِيلُ ذَلِكَ وَكَثِيرُهُ , وَإِنْ كَانَ يَابِسًا ، وَكَانَ لَا يَبْقَى لَهُ أَثَرٌ ، فَإِنْ بَقِيَ لَهُ   رِيحٌ ، فَلَا فِدْيَةَ ، وَلَا بَأْسَ أَنْ يَجْلِسَا عِنْدَ الْعَطَّارِ ، وَيَدْخُلَا بَيْتَهُ ، وَيَشْتَرِيَا الطِّيبَ ، مَا لَمْ يَمَسَّاهُ بِشَيْءٍ مِنْ أَجْسَادِهِمَا , وَأَنْ يَجْلِسَا عِنْدَ الْكَعْبَةِ ، وَهِيَ تُجَمَّرُ ، وَأَنْ يَمَسَّاهَا مَا لَمْ تَكُنْ رَطْبَةً ، فَإِنْ مَسَّاهَا وَهُمَا لَا يَعْلَمَانِ أَنَّهَا رَطْبَةٌ ، فَعَلِقَتْ بِأَيْدِيهِمَا غَسَلَا ذَلِكَ ، وَلَا شَيْءَ عَلَيْهِمَا ، وَإِنْ عَمَدَا أَنْ يَمَسَّاهَا رَطْبَةً ، فَعَلِقَتْ بِأَيْدِيهِمَا افْتَدَيَا ، وَلَا يَدْهُنَانِ ، وَلَا يَمَسَّانِ شَيْئًا مِنَ الدُّهْنِ الَّذِي يَكُونُ طَيِّبًا ، وَذَلِكَ مِثْلُ الْبَانِ الْمَنْشُوشِ ، وَالزَّنْبَقِ ، وَالْخَيْرِيِّ ، وَالْأَدْهَانِ الَّتِي فِيهَا الْأَبْقَالُ ، وَإِنْ مَسَّا شَيْئًا مِنْ هَذَا عَامِدَيْنِ افْتَدَيَا ، وَإِنْ شَمَّا الرَّيْحَانَ افْتَدَيَا ، وَإِنْ شَمَّا مِنْ نَبَاتِ الْأَرْضِ مَا يَكُونُ طِيبًا ، مِمَّا لَا يَتَّخِذُهُ النَّاسُ طِيبًا ، فَلَا فِدْيَةَ ، وَكَذَلِكَ إنْ أَكَلَا التُّفَّاحَ ، أَوْ شَمَّاهُ ، أَوِ الْأُتْرُجَّ ، أَوِ السَّفَرْجَلَ ، أَوْ مَا كَانَ طَعَامًا ، فَلَا فِدْيَةَ فِيهِ ، وَإِنْ أَدْخَلَا الزَّعْفَرَانَ أَوِ الطِّيبَ فِي شَيْءٍ مِنَ الطَّعَامِ ، فَكَانَ يُوجَدُ رِيحُهُ ، أَوْ طَعْمُهُ ، أَوْ يَصْبُغُ اللِّسَانَ ، فَأَكَلَاهُ افْتَدَيَا ، وَإِنْ لَمْ يُوجَدْ رِيحُهُ ، وَلَا طَعْمُهُ ، وَلَا يَصْبُغُ اللِّسَانَ ، فَلَا فِدْيَةَ ؛ لِأَنَّهُ قَدْ صَارَ مُسْتَهْلَكًا فِي الطَّعَامِ ، وَسَوَاءٌ كَانَ نِيئًا أَوْ نَضِيجًا لَا فَرْقَ بَيْنَ ذَلِكَ ، وَيُدْهِنَانِ جَمِيعَ أَجْسَادِهِمَا بِكُلِّ مَا أَكَلَا ، مِمَّا لَيْسَ بِطِيبٍ مِنْ زَيْتٍ ، وَشَيْرَقٍ ، وَسَمْنٍ ، وَزُبْدٍ ، وَسَقْسَقٍ ، وَيَسْتعطانِ ذَلِكَ إذَا اجْتَنَبَا أَنْ يَدْهُنَا الرَّأْسَ ، أَوْ يَدْهُنَ الرَّجُلُ اللِّحْيَةَ ، فَإِنَّ هَذَيْنِ مَوْضِعُ الدَّهْنِ ، فَإِنْ دَهَنَ الرَّجُلُ أَوِ الْمَرْأَةُ الرَّأْسَ ، أَوِ الرَّجُلُ اللِّحْيَةَ ، بِأَيِّ هَذَا كَانَ افْتَدَى ، وَإِنِ احْتَاجَا إلَى أَنْ يَتَدَاوَيَا بِشَيْءٍ مِنَ الطِّيبِ تَدَاوَيَا بِهِ وَافْتَدَيَا . قَالَ : وَكُلُّ مَا كَرِهْتُ لِلْمُحْرِمِ أَنْ يَشُمَّهُ ، أَوْ يَلْبَسَهُ مِنْ طِيبٍ ، أَوْ شَيْءٍ فِيهِ طِيبٌ كَرِهْتُ لَهُ النَّوْمَ عَلَيْهِ ، وَإِنْ نَامَ عَلَيْهِ مُفْضِيًا إلَيْهِ بِجِلْدِهِ افْتَدَى , وَإِنْ نَامَ وَبَيْنَهُ ثَوْبٌ ، فَلَا فِدْيَةَ عَلَيْهِ .(E667",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1548
+    },
+    {
+      "hadith_id": 27514,
+      "book_id": 47,
+      "english_translation": "Narrated by عَائِشَةَ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الرَّبِيعُ",
+              "full_name": "الربيع بن سليمان بن عبد الجبار المرادي",
+              "grade": "Thiqah",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الشَّافِعِيُّ",
+              "full_name": "محمد بن إدريس بن العباس بن عثمان بن شافع الشافعي",
+              "grade": "Thiqah Thabt",
+              "generation": "Sixth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مَالِكٌ",
+              "full_name": "مالك بن أنس بن مالك بن أبي عامر الأصبحي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَبْدِ الرَّحْمَنِ",
+              "full_name": "عَبْدِ الرَّحْمَنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِيهِ",
+              "full_name": "أَبِيهِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَائِشَةَ",
+              "full_name": "عائشة بنت أبي بكر الصديق",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "الرَّبِيعُ -> الشَّافِعِيُّ -> مَالِكٌ -> عَبْدِ الرَّحْمَنِ -> أَبِيهِ -> عَائِشَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عَبْدِ الرَّحْمَنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "أَبِيهِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ : وَإِذَا أَرَادَ الرَّجُلُ أَنْ يُحْرِمَ كَانَ مِمَّنْ حَجَّ أَوْ لَمْ يَكُنْ ، فَوَاسِعٌ لَهُ أَنْ يُهِلَّ بِعُمْرَةٍ ، وَوَاسِعٌ لَهُ أَنْ يُهِلَّ بِحَجٍّ وَعُمْرَةٍ ، وَوَاسِعٌ لَهُ أَنْ يُفْرِدَ , وَأَحَبُّ إلَيَّ أَنْ يُفْرِدَ ؛ لِأَنَّ الثَّابِتَ عِنْدَنَا أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَفْرَدَ . \r\n$832  816 /2 /141 أَخْبَرَنَا الرَّبِيعُ ، قَالَ : أَخْبَرَنَا الشَّافِعِيُّ ، قَالَ : أَخْبَرَنَا /94 مَالِكٌ L6659 /94 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ L4312 /26 ، عَنْ /26 أَبِيهِ L1598 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 \" أَفْرَدَ الْحَجَّ \" /27 . * \r\nقَالَ الشَّافِعِيُّ : وَتَكْفِيهِ النِّيَّةُ فِي هَذَا كُلِّهِ ، مِنْ أَنْ يُسَمِّيَ حَجًّا أَوْ عُمْرَةً ، فَإِنْ سَمَّى قَبْلَ الْإِحْرَامِ ، أَوْ مَعَهُ فَلَا بَأْسَ . قَالَ : وَإِنْ لَبَّى بِحَجٍّ ، وَهُوَ يُرِيدُ عُمْرَةً ، فَهُوَ عُمْرَةٌ ، وَإِنْ لَبَّى بِعُمْرَةٍ ، وَهُوَ يُرِيدُ حَجًّا ، فَهُوَ حَجٌّ , وَإِنْ لَبَّى لَا يُرِيدُ حَجًّا ، وَلَا عُمْرَةً ، فَلَيْسَ بِحَجٍّ ، وَلَا عُمْرَةٍ ، وَإِنْ لَبَّى يَنْوِي الْإِحْرَامَ ، وَلَا يَنْوِي حَجًّا وَلَا عُمْرَةً ، فَلَهُ الْخِيَارُ أَنْ يَجْعَلَهُ أَيَّهُمَا شَاءَ , وَإِنْ لَبَّى ، وَقَدْ نَوَى أَحَدَهُمَا ، فَنَسِيَ ، فَهُوَ قَارِنٌ لَا يَجْزِيهِ غَيْرُ ذَلِكَ ؛ لِأَنَّهُ إنْ كَانَ مُعْتَمِرًا ، فَقَدْ جَاءَ بِالْعُمْرَةِ ، وَزَادَ حَجًّا , وَإِنْ كَانَ حَاجًّا ، فَقَدْ جَاءَ بِحَجٍّ وَعُمْرَةٍ ، وَإِنْ كَانَ قَارِنًا ، فَقَدْ جَاءَ بِالْقِرَانِ ، وَإِذَا لَبَّى قَالَ : \" لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ ، لَبَّيْكَ لَا شَرِيكَ لَكَ لَبَّيْكَ ، إنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ ، لَا شَرِيكَ لَكَ \" ، وَلَا أُحِبُّ أَنْ يَزِيدَ عَلَى هَذَا فِي التَّلْبِيَةِ حَرْفًا ، إلَّا أَنْ يَرَى شَيْئًا يُعْجِبُهُ ، فَيَقُولُ : \" لَبَّيْكَ إنَّ الْعَيْشَ عَيْشُ الْآخِرَةِ \" ، فَإِنَّهُ لَا يُرْوَى عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ زَادَ فِي التَّلْبِيَةِ حَرْفًا غَيْرَ هَذَا عِنْدَ شَيْءٍ رَآهُ فَأَعْجَبَهُ ، وَإِذَا فَرَغَ مِنَ التَّلْبِيَةِ صَلَّى عَلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، وَسَأَلَ اللَّهَ تَعَالَى رِضَاهُ وَالْجَنَّةَ ، وَاسْتَعَاذَهُ بِرَحْمَتِهِ مِنَ النَّارِ ، فَإِنَّهُ يُرْوَى ذَلِكَ عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ . قَالَ : وَيُلَبِي قَائِمًا ، وَقَاعِدًا ، وَرَاكِبًا ، وَنَازِلًا ، وَجُنُبًا ، وَمُتَطَهِّرًا ، وَعَلَى كُلِّ حَالٍ ، وَيَرْفَعُ صَوْتَهُ بِالتَّلْبِيَةِ فِي جَمِيعِ الْمَسَاجِدِ مَسَاجِدِ    @ 2 : 224 @   الْجَمَاعَاتِ وَغَيْرِهَا ، وَفِي كُلِّ مَوْضِعٍ مِنَ الْمَوَاضِعِ , وَلَيْسَ عَلَى الْمَرْأَةِ رَفْعُ الصَّوْتِ بِالتَّلْبِيَةِ لِتُسْمِعَ نَفْسَهَا ، وَكَانَ السَّلَفُ يَسْتَحِبُّونَ التَّلْبِيَةَ عِنْدَ اضْطِمَامِ الرِّفَاقِ ، وَعِنْدَ الْإِشْرَافِ , وَالْهُبُوطِ ، وَخَلْفَ الصَّلَوَاتِ ، وَفِي الْأَسْحَارِ ، وَفِي اسْتِقْبَالِ اللَّيْلِ ، وَنَحْنُ نُبِيحُهُ عَلَى كُلِّ حَالٍ .(E668",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1549
+    },
+    {
+      "hadith_id": 27516,
+      "book_id": 47,
+      "english_translation": "Narrated by Unknown: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "[No clear chain identified]"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ : وَإِذَا أَرَادَ الرَّجُلُ أَنْ يَبْتَدِئَ الْإِحْرَامَ أَحْبَبْتُ لَهُ أَنْ يُصَلِّيَ نَافِلَةً ، ثُمَّ يَرْكَبَ رَاحِلَتَهُ ، فَإِذَا اسْتَقَلَّتْ بِهِ قَائِمَةً ، وَتَوَجَّهَتْ لِلْقِبْلَةِ سَائِرَةً أَحْرَمَ ، وَإِنْ كَانَ مَاشِيًا ، فَإِذَا تَوَجَّهَ مَاشِيًا أَحْرَمَ . \r\n$833  817 /2",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1551
+    },
+    {
+      "hadith_id": 27517,
+      "book_id": 47,
+      "english_translation": "Narrated by جَابِرٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مُسْلِمُ بْنُ",
+              "full_name": "مُسْلِمُ بْنُ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "أَبِي الزُّبَيْرِ",
+              "full_name": "أَبِي الزُّبَيْرِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "جَابِرٍ",
+              "full_name": "جابر بن عبد الله بن عمرو بن حرام الأنصاري",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مُسْلِمُ بْنُ -> أَبِي الزُّبَيْرِ -> جَابِرٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مُسْلِمُ بْنُ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "أَبِي الزُّبَيْرِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ : أَخْبَرَنَا /94 مُسْلِمُ بْنُ خَالِدٍ L7465 /94 ، عَنِ /26 ابْنِ جُرَيْجٍ L5223 /26 ، عَنْ /26 أَبِي الزُّبَيْرِ L7270 /26 ، /27 عَنْ /93 جَابِرٍ L2069 /93 ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، قَالَ لَهُمْ : /20 \" فَإِذَا رُحْتُمْ مُتَوَجِّهِينَ إلَى مِنًى فَأَهِلُّوا \" /27 . * \r\nقَالَ الشَّافِعِيُّ : وَرَوَى ابْنُ عُمَرَ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، أَنَّهُ \" لَمْ يَرَهُ يُهِلُّ حَتَّى تَنْبَعِثَ بِهِ رَاحِلَتُهُ \" . قَالَ الشَّافِعِيُّ : فَإِنَّ أَهَلَّ قَبْلَ ذَلِكَ ، أَوْ أَهَلَّ فِي إثْرِ مَكْتُوبَةٍ إذَا صَلَّى ، أَوْ فِي غَيْرِ إثْرِ صَلَاةٍ ، فَلَا بَأْسَ إنْ شَاءَ اللَّهُ تَعَالَى ، وَيُلَبِي الْحَاجُّ وَالْقَارِنُ وَهُوَ يَطُوفُ بِالْبَيْتِ ، وَعَلَى الصَّفَا وَالْمَرْوَةِ ، وَفِي كُلِّ حَالٍ ، وَإِذَا كَانَ إمَامًا ، فَعَلَى الْمِنْبَرِ بِمَكَّةَ ، وَعَرَفَةَ ، وَيُلَبِي فِي الْمَوْقِفِ بِعَرَفَةَ ، وَبَعْدَ مَا يَدْفَعُ ، وَبِالْمُزْدَلِفَةِ ، وَفِي مَوْقِفِ مُزْدَلِفَةَ ، وَحِينَ يَدْفَعُ مِنْ مُزْدَلِفَةَ إلَى أَنْ يَرْمِيَ الْجَمْرَةَ بِأَوَّلِ حَصَاةٍ ، ثُمَّ يَقْطَعُ التَّلْبِيَةَ    . \r\n$834  818 /2",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1552
+    },
+    {
+      "hadith_id": 27518,
+      "book_id": 47,
+      "english_translation": "Narrated by كُرَيْبٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مُسْلِمٌ    وَسَعِيدٌ",
+              "full_name": "مُسْلِمٌ    وَسَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "سُفْيَانُ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مُحَمَّدِ بْنِ",
+              "full_name": "مُحَمَّدِ بْنِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "كُرَيْبٍ",
+              "full_name": "كُرَيْبٍ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مُسْلِمٌ    وَسَعِيدٌ -> سُفْيَانُ -> عَطَاءٍ -> مُحَمَّدِ بْنِ -> كُرَيْبٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مُسْلِمٌ    وَسَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "مُحَمَّدِ بْنِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "كُرَيْبٍ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 مُسْلِمٌ L7465 /94 ، /94 وَسَعِيدٌ L3332 /94 ، عَنِ /26 ابْنِ جُرَيْجٍ L5223 /26 ، عَنْ /26 عَطَاءٍ L5625 /26 ، عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 ، قَالَ : /27 أَخْبَرَنِي /93 الْفَضْلُ بْنُ عَبَّاسٍ L1543 /93 ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، /20 \" أَرْدَفَهُ مِنْ جَمْعٍ إلَى مِنًى ، فَلَمْ يَزَلْ يُلَبِي حَتَّى رَمَى الْجَمْرَةَ \" /27 . أَخْبَرَنَا /94 سُفْيَانُ L3443 /94 ، عَنْ /26 مُحَمَّدِ بْنِ أَبِي حَرْمَلَةَ L6764 /26 ، عَنْ /26 كُرَيْبٍ L6588 /26 ، عَنِ /26 ابْنِ عَبَّاسٍ L4883 /26 ، عَنِ /93 الْفَضْلِ بْنِ عَبَّاسٍ L1543 /93 ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، مِثْلَهُ . قَالَ الشَّافِعِيُّ : وَرَوَى ابْنُ مَسْعُودٍ ، عَنِ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، مِثْلَهُ . * \r\nوَلَبَّى عُمَرُ حَتَّى رَمَى الْجَمْرَةَ ، وَمَيْمُونَةُ زَوْجُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، حَتَّى رَمَتِ الْجَمْرَةَ ، وَابْنُ عَبَّاسٍ ، حَتَّى رَمَى الْجَمْرَةَ ، وَعَطَاءٌ ، وَطَاوُسٌ ، وَمُجَاهِدٌ . قَالَ : وَيُلَبِي الْمُعْتَمِرُ حَتَّى يَفْتَتِحَ الطَّوَافَ ، مُسْتَلِمًا أَوْ غَيْرَ مُسْتَلِمٍ . \r\n$835  819 /3",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1553
+    },
+    {
+      "hadith_id": 27519,
+      "book_id": 47,
+      "english_translation": "Narrated by عَطَاءٍ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مُسْلِمٌ    وَسَعِيدٌ",
+              "full_name": "مُسْلِمٌ    وَسَعِيدٌ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عَطَاءٍ",
+              "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مُسْلِمٌ    وَسَعِيدٌ -> عَطَاءٍ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مُسْلِمٌ    وَسَعِيدٌ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "/40 أَخْبَرَنَا /94 مُسْلِمٌ L7465 /94 ، /94 وَسَعِيدٌ L3332 /94 ، عَنِ /26 ابْنِ جُرَيْجٍ L5223 /26 ، عَنْ /26 عَطَاءٍ L5625 /26 ، /27 عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 ، قَالَ : /20 \" يُلَبِي الْمُعْتَمِرُ حَتَّى يَفْتَتِحَ الطَّوَافَ ، مُسْتَلِمًا أَوْ غَيْرَ مُسْتَلِمٍ \" /27 . * \r\nقَالَ : وَسَوَاءٌ فِي التَّلْبِيَةِ مَنْ أَحْرَمَ مِنْ وَرَاءِ الْمِيقَاتِ ، أَوِ الْمِيقَاتِ ، أَوْ دُونَهُ ، أَوِ الْمَكِّيُّ ، أَوْ غَيْرُهُ .!E669",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1554
+    },
+    {
+      "hadith_id": 27521,
+      "book_id": 47,
+      "english_translation": "Narrated by Unknown: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "[No clear chain identified]"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "قَالَ الشَّافِعِيُّ رَحِمَهُ اللَّهُ : وَلَا بَأْسَ أَنْ يَغْتَسِلَ الْمُحْرِمُ ، مُتَبَرِّدًا أَوْ غَيْرَ مُتَبَرِّدٍ ، يُفْرِغُ الْمَاءَ عَلَى رَأْسِهِ ، وَإِذَا مَسَّ شَعْرَهُ رَفَقَ بِهِ لِئَلَّا يَنْتِفَهُ ، وَكَذَلِكَ لَا بَأْسَ أَنْ يَسْتَنْقِعَ فِي الْمَاءِ ، وَيَغْمِسَ رَأْسَهُ ، اغْتَسَلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُحْرِمًا . \r\n$836  820 /3",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1556
+    },
+    {
+      "hadith_id": 27522,
+      "book_id": 47,
+      "english_translation": "Narrated by عِكْرِمَةَ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سُفْيَانُ   عَنْ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سُفْيَانُ",
+              "full_name": "سفيان بن عيينة بن أبي عمران الهلالي",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عَبْدِ الْكَرِيمِ",
+              "full_name": "عَبْدِ الْكَرِيمِ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عِكْرِمَةَ",
+              "full_name": "عكرمة مولى عبد الله بن عباس",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Some Maliki scholars questioned him"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سُفْيَانُ   عَنْ -> سُفْيَانُ -> عَبْدِ الْكَرِيمِ -> عِكْرِمَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عَبْدِ الْكَرِيمِ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "عِكْرِمَةَ: Some Maliki scholars questioned him",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 سُفْيَانُ L3443 /94 ، عَنْ /26 عَبْدِ الْكَرِيمِ الْجَزَرِيِّ L4612 /26 ، عَنْ /26 عِكْرِمَةَ L5703 /26 ، /27 عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 ، قَالَ : /20 رُبَّمَا قَالَ لِي عُمَرُ : \" تَعَالَ أُمَاقِلُكَ فِي الْمَاءِ أَيُّنَا أَطْوَلُ نَفَسًا ؟ وَنَحْنُ مُحْرِمَانِ \" /27 , أَخْبَرَنَا سُفْيَانُ ، أَنَّ ابْنًا لِعُمَرَ وَابْنَ أَخِيهِ \" تَمَاقَلَا فِي الْمَاءِ بَيْنَ يَدَيْهِ ، وَهُمَا مُحْرِمَانِ ، فَلَمْ يَنْهَهُمَا \" . * \r\nقَالَ الشَّافِعِيُّ : وَلَا بَأْسَ أَنْ يَدْخُلَ الْمُحْرِمُ الْحَمَّامَ . \r\n$837  821 /3",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1557
+    },
+    {
+      "hadith_id": 27523,
+      "book_id": 47,
+      "english_translation": "Narrated by عِكْرِمَةَ: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثِّقَةُ إمَّا",
+              "full_name": "الثِّقَةُ إمَّا",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "أَيُّوبَ السِّخْتِيَانِيِّ",
+              "full_name": "أَيُّوبَ السِّخْتِيَانِيِّ",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            },
+            {
+              "name": "عِكْرِمَةَ",
+              "full_name": "عكرمة مولى عبد الله بن عباس",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Some Maliki scholars questioned him"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Mixed explicit and ambiguous transmission terms"
+          ]
+        }
+      ],
+      "plainChains": [
+        "الثِّقَةُ إمَّا -> أَيُّوبَ السِّخْتِيَانِيِّ -> عِكْرِمَةَ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "الثِّقَةُ إمَّا: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "أَيُّوبَ السِّخْتِيَانِيِّ: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        },
+        {
+          "issue": "عِكْرِمَةَ: Some Maliki scholars questioned him",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "أَخْبَرَنَا الثِّقَةُ ، إمَّا /94 سُفْيَانُ L3443 /94 ، وَإِمَّا غَيْرُهُ ، عَنْ /26 أَيُّوبَ السِّخْتِيَانِيِّ L746 /26 ، عَنْ /26 عِكْرِمَةَ L5703 /26 ، /27 عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 ، أَنَّهُ /20 \" دَخَلَ حَمَّامَ الْجُحْفَةِ ، وَهُوَ مُحْرِمٌ \" /27 * \r\nقَالَ الشَّافِعِيُّ : \r\n$838 852 /3",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1558
+    },
+    {
+      "hadith_id": 27524,
+      "book_id": 47,
+      "english_translation": "Narrated by ابْنُ أَبِي: [Requires detailed translation of Arabic text]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابْنُ أَبِي",
+              "full_name": "ابْنُ أَبِي",
+              "grade": "Saduq/Sadooq",
+              "generation": "Unknown",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Narrator not in database - requires verification"
+              ]
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "ابْنُ أَبِي"
+      ],
+      "potential_issues": [
+        {
+          "issue": "ابْنُ أَبِي: Narrator not in database - requires verification",
+          "impact": "Requires careful evaluation"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fiqh Discussion"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 ابْنُ أَبِي نَجِيحٍ /94 ، /27 أَنَّ /93 الزُّبَيْرَ بْنَ الْعَوَّامِ /93 ، /20 \" أَمَرَ بِوَسَخٍ فِي ظَهْرِهِ ، فَحُكَّ وَهُوَ مُحْرِمٌ \" /27 . * \r\n@ 2 : 225 @",
+      "collection": "كتاب رقم 47",
+      "reference_number": 1559
+    }
+  ]
+}
