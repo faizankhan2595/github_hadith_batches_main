@@ -1,0 +1,400 @@
+{
+  "batch_number": 7,
+  "file_number": 33,
+  "processed_count": 6,
+  "skipped_count": 9,
+  "hadiths": [
+    {
+      "hadith_id": 54490,
+      "book_id": 60,
+      "narrator_id": 3,
+      "collection": "كتاب رقم 60",
+      "reference_number": 6977,
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ أَيُّوبَ ، عَنِ ابْنِ سِيرِينَ ، قَالَ : كَانَ أَبُو الدَّرْدَاءِ يُحْيِي لَيْلَةَ الْجُمُعَةِ ، ويَصُومُ يَوْمَهَا ، وَأَتَاهُ سَلْمَانُ ، وَكَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ آخَى بَيْنَهُمَا ، فَنَامَ عِنْدَهُ ، فَأَرَادَ أَبُو الدَّرْدَاءِ أَنْ يَقُومُ لَيْلَتَهُ ، فَقَامَ إِلَيْهِ سَلْمَانُ ، فَلَمْ يَدَعَهُ حَتَّى نَامَ وَأَفْطَرَ ، قَالَ : فَجَاءَ أَبُو الدَّرْدَاءِ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فَأَخْبَرَهُ ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : عُوَيْمِرُ ! سَلْمَانُ أَعْلَمُ مِنْكَ ، لا تَخُصَّ لَيْلَةَ الْجُمُعَةِ بِصَلاةٍ ، وَلا يَوْمَهَا بِصِيَامٍ \" * @ 4 : 280 @ $7587 7589",
+      "english_translation": "Narrated: عَنْ أَيُّوبَ ، عَنِ ابْنِ سِيرِينَ ، قَالَ : كَانَ أَبُو الدَّرْدَاءِ يُحْيِي لَيْلَةَ الْجُمُعَةِ ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عنترة بن عبد الرحمن",
+              "full_name": "عنترة بن عبد الرحمن",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عثمان بن إسحاق بن خرشة",
+              "full_name": "عثمان بن إسحاق بن خرشة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": [
+            "محمد بن بكار بن الريان uses ambiguous transmission term",
+            "عنترة بن عبد الرحمن uses ambiguous transmission term",
+            "عثمان بن إسحاق بن خرشة uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> عنترة بن عبد الرحمن -> عثمان بن إسحاق بن خرشة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting on Friday"
+      ]
+    },
+    {
+      "hadith_id": 54491,
+      "book_id": 60,
+      "narrator_id": 3,
+      "collection": "كتاب رقم 60",
+      "reference_number": 6978,
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ قَتَادَةَ ، عَنِ ابْنِ الْمُسَيِّبِ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَ عَلَى بَعْضِ نِسَائِهِ يَوْمَ الْجُمُعَةِ ، وَهِيَ صَائِمَةٌ ، فَقَالَ : أَصُمْتِ أَمْسِ ؟ قَالَتْ : لا ، فَقَالَ : أَتُرِيدِينَ أَنْ تَصُومِي غَدًا ؟ قَالَتْ : لا ، فَأَمَرَهَا أَنْ تُفْطِرَ \" * $7588 7590",
+      "english_translation": "Narrated: عَنْ قَتَادَةَ ، عَنِ ابْنِ الْمُسَيِّبِ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ دَخَلَ ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عقبة بن مكرم بن أفلح بن جراد",
+              "full_name": "عقبة بن مكرم بن أفلح بن جراد",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": [
+            "محمد بن بكار بن الريان uses ambiguous transmission term",
+            "عقبة بن مكرم بن أفلح بن جراد uses ambiguous transmission term",
+            "حفص بن عمر بن عبد الرحمن بن عوف uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> عقبة بن مكرم بن أفلح بن جراد -> حفص بن عمر بن عبد الرحمن بن عوف"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting on Friday"
+      ]
+    },
+    {
+      "hadith_id": 54492,
+      "book_id": 60,
+      "narrator_id": 3,
+      "collection": "كتاب رقم 60",
+      "reference_number": 6979,
+      "arabicText": "عَنْ أَبِي مَعْشَرٍ ، عَنْ سَعِيدٍ الْمَقْبُرِيِّ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْ صِيَامِ الْجُمُعَةِ ، إِلا أَنْ يَصُومَ قَبْلَهُ أَوْ بَعْدَهُ \" * $7589 7591",
+      "english_translation": "Narrated: عَنْ سَعِيدٍ الْمَقْبُرِيِّ ، عَنْ أَبِي هُرَيْرَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلّ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "محمد بن عبد الله بن عمرو بن هشام",
+              "full_name": "محمد بن عبد الله بن عمرو بن هشام",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "حفص بن بغيل",
+              "full_name": "حفص بن بغيل",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "محمد بن عبد الله بن عمرو بن هشام uses ambiguous transmission term",
+            "حفص بن بغيل uses ambiguous transmission term",
+            "سليمان بن أرقم uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن عبد الله بن عمرو بن هشام -> حفص بن بغيل -> سليمان بن أرقم"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting on Friday"
+      ]
+    },
+    {
+      "hadith_id": 54493,
+      "book_id": 60,
+      "narrator_id": 4,
+      "collection": "كتاب رقم 60",
+      "reference_number": 6980,
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ ، عَنْ رَجُلٍ أَحْسَبُهُ أَبُو الأَوْبَرِ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : وَرَبِّ هَذِهِ الْكَعْبَةِ لَقَدْ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَى عَنْ صِيَامِ يَوْمِ الْجُمُعَةِ ، إِلا أَنْ يَصِلَهُ بِصِيَامٍ \" * $7590 7592",
+      "english_translation": "Narrated: عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ ، عَنْ رَجُلٍ أَحْسَبُهُ أَبُو الأَوْبَرِ ، عَنْ أَبِي هُرَيْرَة...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عبد الرحمن بن عبد الله بن عبد الرحمن بن أبي صعصعة",
+              "full_name": "عبد الرحمن بن عبد الله بن عبد الرحمن بن أبي صعصعة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "جميل بن مرة",
+              "full_name": "جميل بن مرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "محمد بن بكار بن الريان uses ambiguous transmission term",
+            "عبد الرحمن بن عبد الله بن عبد الرحمن بن أبي صعصعة uses ambiguous transmission term",
+            "جميل بن مرة uses ambiguous transmission term",
+            "سليمان بن أرقم uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> عبد الرحمن بن عبد الله بن عبد الرحمن بن أبي صعصعة -> جميل بن مرة -> سليمان بن أرقم"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting on Friday"
+      ]
+    },
+    {
+      "hadith_id": 54494,
+      "book_id": 60,
+      "narrator_id": 5,
+      "collection": "كتاب رقم 60",
+      "reference_number": 6981,
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ ، أَنَّ يَحْيَى بْنَ جَعْدَةَ أَخْبَرَهُ ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عَبْدٍ الْقَارِيِّ ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ ، يَقُولَ : وَرَبِّ هَذَا الْبَيْتِ مَا نَهَيْتُ عَنْ صِيَامِ يَوْمِ الْجُمُعَةِ ، وَلَكِنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَهَى عَنْهُ \" ، ثُمَّ يَقُولُ عَمْرٌو : \" إِذَا أُفْرِدَ \" * E1347 @ 4 : 281 @ $7591 7593",
+      "english_translation": "Narrated: قَالَ : أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ ، أَنَّ يَحْيَى بْنَ جَعْدَةَ أَخْبَرَهُ ، عَنْ عَبْدِ الل...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "عبيد بن المغيرة",
+              "full_name": "عبيد بن المغيرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "مشاش",
+              "full_name": "مشاش",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عباس بن جعفر بن عبد الله بن الزبرقان",
+              "full_name": "عباس بن جعفر بن عبد الله بن الزبرقان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "عبد الرحمن بن عبد الله uses ambiguous transmission term",
+            "عبيد بن المغيرة uses ambiguous transmission term",
+            "مشاش uses ambiguous transmission term",
+            "عباس بن جعفر بن عبد الله بن الزبرقان uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن عبد الله -> عبيد بن المغيرة -> مشاش -> عباس بن جعفر بن عبد الله بن الزبرقان -> سليمان بن أرقم"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting on Friday"
+      ]
+    },
+    {
+      "hadith_id": 54495,
+      "book_id": 60,
+      "narrator_id": 4,
+      "collection": "كتاب رقم 60",
+      "reference_number": 6982,
+      "arabicText": "أَخْبَرَنَا ابْنُ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي عَبْدُ الْحَمِيدِ بْنُ جُبَيْرِ بْنِ شَيْبَةَ ، أَنَّ مُحَمَّدَ بْنَ عَبَّادِ بْنِ جَعْفَرٍ أَخْبَرَهُ ، أَنَّهُ سَأَلَ جَابِرَ بْنَ عَبْدِ اللَّهِ وَهُوَ يَطُوفُ بِالْبَيْتِ ، فَقَالَ : أَسَمِعْتَ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَنْهَى عَنْ صِيَامِ يَوْمِ الْجُمُعَةِ \" ؟ قَالَ : نَعَمْ ، وَرَبِّ هَذَا الْبَيْتِ ، عَنْ إِبْرَاهِيمَ بْنِ يَزِيدَ ، أَنَّهُ سَمِعَ مُحَمَّدَ بْنَ عَبَّادِ بْنِ جَعْفَرٍ ، يُحَدِّثُ هَذَا الْحَدِيثَ * $7592 7594",
+      "english_translation": "Narrated: قَالَ : أَخْبَرَنِي عَبْدُ الْحَمِيدِ بْنُ جُبَيْرِ بْنِ شَيْبَةَ ، أَنَّ مُحَمَّدَ بْنَ عَبَّادِ بْ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "سعيد بن محمد بن سعيد",
+              "full_name": "سعيد بن محمد بن سعيد",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "عياض بن عبد الله بن عبد الرحمن بن معمر بن عبد الله بن عامر بن أمية بن الظرب",
+              "full_name": "عياض بن عبد الله بن عبد الرحمن بن معمر بن عبد الله بن عامر بن أمية بن الظرب",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل",
+              "full_name": "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "سعيد بن محمد بن سعيد uses ambiguous transmission term",
+            "عياض بن عبد الله بن عبد الرحمن بن معمر بن عبد الله بن عامر بن أمية بن الظرب uses ambiguous transmission term",
+            "جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن عبد الله -> سعيد بن محمد بن سعيد -> عياض بن عبد الله بن عبد الرحمن بن معمر بن عبد الله بن عامر بن أمية بن الظرب -> جنيد بن أمين بن ذروة بن نضلة بن طريف بن بهصل"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting on Friday"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "batch_number": 7,
+  "file_number": 40,
+  "record_count": 12,
+  "hadiths": [
+    {
+      "hadith_id": 54586,
+      "book_id": 60,
+      "hadith_number": 7073,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "حسن بن بكر بن عبد الرحمن",
+              "full_name": "حسن بن بكر بن عبد الرحمن",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "عيسى بن أحمد بن عيسى بن وردان",
+              "full_name": "عيسى بن أحمد بن عيسى بن وردان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "عبد الله بن سعد بن إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف",
+              "full_name": "عبد الله بن سعد بن إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "حبيب بن صالح",
+              "full_name": "حبيب بن صالح",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "حسن بن بكر بن عبد الرحمن is unknown (Majhul)",
+            "عيسى بن أحمد بن عيسى بن وردان is unknown (Majhul)",
+            "عبد الله بن سعد بن إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف is unknown (Majhul)",
+            "حبيب بن صالح is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "حسن بن بكر بن عبد الرحمن -> عيسى بن أحمد بن عيسى بن وردان -> عبد الله بن سعد بن إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف -> حبيب بن صالح"
+      ],
+      "potential_issues": [
+        {
+          "issue": "حسن بن بكر بن عبد الرحمن is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "عيسى بن أحمد بن عيسى بن وردان is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "عبد الله بن سعد بن إبراهيم بن سعد بن إبراهيم بن عبد الرحمن بن عوف is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "حبيب بن صالح is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 جَعْفَرِ بْنِ سُلَيْمَانَ L2151 /94 ، عَنِ /26 ابْنِ أَبِي لَيْلَى L7057 /26 ، عَنْ /26 عَطَاءِ بْنِ أَبِي رَبَاحٍ L5625 /26 ، /27 عَنْ /93 زَيْدِ بْنِ خَالِدٍ الجُهَنِيِّ L3137 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 مَنْ فَطَّرَ صَائِمًا ، أَطْعَمَهُ وَسَقَاهُ ، كَانَ لَهُ مِثْلُ أَجْرِهِ ، مِنْ غَيْرِ أَنْ يَنْقُصَ مِنْ أَجْرِهِ شَيْءٌ \" /27 * \r\n$7694  7696 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7073
+    },
+    {
+      "hadith_id": 54587,
+      "book_id": 60,
+      "hadith_number": 7074,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "سليمان بن أرقم is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سليمان بن أرقم is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 ابْنُ جُرَيْجٍ /94 ، عَنْ /26 صَالِحٍ /26 مَوْلَى التَّوْأَمَةِ ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : /20 مَنْ فَطَّرَ صَائِمًا ، أَطْعَمَهُ وَسَقَاهُ ، كَانَ لَهُ مِثْلُ أَجْرِهِ \" /27 * \r\n$7695  7697 /2",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7074
+    },
+    {
+      "hadith_id": 54588,
+      "book_id": 60,
+      "hadith_number": 7075,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "محمد بن عمر بن أبي سلمة بن عبد الأسد",
+              "full_name": "محمد بن عمر بن أبي سلمة بن عبد الأسد",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "محمد بن بكار بن الريان is unknown (Majhul)",
+            "محمد بن عمر بن أبي سلمة بن عبد الأسد is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> محمد بن عمر بن أبي سلمة بن عبد الأسد"
+      ],
+      "potential_issues": [
+        {
+          "issue": "محمد بن بكار بن الريان is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "محمد بن عمر بن أبي سلمة بن عبد الأسد is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Angels Praying for Believers"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنْ /26 ثَابِتٍ L2009 /26 ، /27 عَنْ /93 أَنَسٍ L720 /93 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَكَلَ عِنْدَ سَعْدِ بْنِ عُبَادَةَ زَيْتًا ، ثُمَّ قَالَ : /20 أَفْطَرَ عِنْدَكُمُ الصَّائِمُونَ ، وَأَكَلَ طَعَامَكُمُ الأَبْرَارُ ، وَتَنَزَّلَتْ عَلَيْكُمُ الْمَلائِكَةُ \" /27 * \r\n$7696  7698 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7075
+    },
+    {
+      "hadith_id": 54589,
+      "book_id": 60,
+      "hadith_number": 7076,
+      "english_translation": "Narrated by Abu Hurayrah: A woman invited him to break his fast at her place, and he did so. He said: 'I inform you that there is no man who breaks his fast at the home of a household except that they will have a reward like his.' She said: 'I wish that you would make it a habit to break your fast with me,' or something like that. He said: 'I want to give it (the reward) to my own household.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "سليمان بن أرقم is unknown (Majhul)",
+            "Chain contains an unknown man (rajul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "سليمان بن أرقم is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "Chain contains an unknown man (rajul)",
+          "impact": "This represents a gap in the chain that cannot be verified - chain is disconnected"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Reward for Providing Iftar"
+      ],
+      "arabicText": "عَنْ /94 عُمَرَ بْنِ رَاشِدٍ /94 ، عَنْ /26 يَحْيَى بْنِ أَبِي كَثِيرٍ /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، دَعَتْهُ امْرَأَةٌ لِيُفْطِرَ عِنْدَهَا ، فَفَعَلَ ، وَقَالَ : إِنِّي أُخْبِرُكِ أَنَّهُ /20 لَيْسَ مِنْ رَجُلٍ يُفْطِرُ عِنْدَ أَهْلِ بَيْتٍ إِلا كَانَ لَهُمْ مِثْلُ أَجْرِهِ \" /27 ، فَقَالَتْ : وَدِدْتُ أَنَّكَ تَتَحَيَّنُ ، أَوْ نَحْوَ ذَلِكَ لِتُفْطِرَ عِنْدِي ، قَالَ : إِنِّي أُرِيدُ أَنْ أَجْعَلَهُ لأَهْلِ بَيْتِي * \r\n@ 4 : 312 @",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7076
+    },
+    {
+      "hadith_id": 54591,
+      "book_id": 60,
+      "hadith_number": 7078,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+              "full_name": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع is unknown (Majhul)",
+            "Chain contains an unknown man (rajul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عباس بن الفضل بن عمرو بن عبيد بن حنظلة بن رافع is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "Chain contains an unknown man (rajul)",
+          "impact": "This represents a gap in the chain that cannot be verified - chain is disconnected"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Angels Praying for Believers"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، عَنْ /26 قَتَادَةَ /26 ، عَنْ /26 رَجُلٍ /26 ، /27 عَنْ /93 عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ L4980 /93 ، قَالَ : /20 الصَّائِمُ إِذَا أُكِلَ عِنْدَهُ الطَّعَامُ صَلَّتْ عَلَيْهِ الْمَلائِكَةُ \" /27 * \r\n$7698  7700 /8",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7078
+    },
+    {
+      "hadith_id": 54592,
+      "book_id": 60,
+      "hadith_number": 7079,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 سَلَمَةَ بْنِ كُهَيْلٍ /26 ، عَنْ /26 ذَرٍّ الْهَمْدَانِيِّ /26 ، /27 عَنْ /26 يَزِيدَ بْنِ حَلِيلٍ النَّخَعيِّ /26 ، قَالَ : /20 إِذَا أُكِلَ عِنْدَ الصَّائِمِ سَبَّحَتْ مَفَاصِلُهُ \" /27 * \r\n$7699  7701 /8",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7079
+    },
+    {
+      "hadith_id": 54593,
+      "book_id": 60,
+      "hadith_number": 7080,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Angels Praying for Believers"
+      ],
+      "arabicText": "قَالَ /94 الثَّوْرِيُّ /94 وَأَخْبَرَنِي /26 إِسْمَاعِيلُ بْنُ سَالِمٍ الأَسَدِيُّ /26 ، /27 عَنْ /26 مُجَاهِدٍ /26 ، قَالَ : /20 إِذَا أُكِلَ عِنْدَ الصَّائِمِ سَبَّحَتِ الْمَلائِكَةُ \" /27 * \r\n$7700  7702 /2",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7080
+    },
+    {
+      "hadith_id": 54594,
+      "book_id": 60,
+      "hadith_number": 7081,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع",
+              "full_name": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "رفاعة بن يثربي",
+              "full_name": "رفاعة بن يثربي",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "حسين بن معاذ بن خليف",
+              "full_name": "حسين بن معاذ بن خليف",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "عمارة بن زاذان",
+              "full_name": "عمارة بن زاذان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "محمد بن عبد الله بن ميمون بن العباس بن الحارث",
+              "full_name": "محمد بن عبد الله بن ميمون بن العباس بن الحارث",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع is unknown (Majhul)",
+            "رفاعة بن يثربي is unknown (Majhul)",
+            "حسين بن معاذ بن خليف is unknown (Majhul)",
+            "عمارة بن زاذان is unknown (Majhul)",
+            "محمد بن عبد الله بن ميمون بن العباس بن الحارث is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع -> رفاعة بن يثربي -> حسين بن معاذ بن خليف -> عمارة بن زاذان -> محمد بن عبد الله بن ميمون بن العباس بن الحارث"
+      ],
+      "potential_issues": [
+        {
+          "issue": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "رفاعة بن يثربي is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "حسين بن معاذ بن خليف is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "عمارة بن زاذان is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "محمد بن عبد الله بن ميمون بن العباس بن الحارث is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Eating in Presence of Fasting Person",
+        "Angels Praying for Believers"
+      ],
+      "arabicText": "عَنْ /94 سُفْيَانَ L3436 /94 ، عَنْ /26 شُعْبَةَ L3795 /26 ، عَنْ /26 حَبِيبِ بْنِ أَبِي   ثَابِتٍ L2244 /26 ،    @ 4 : 313 @    عَنِ امْرَأَةٍ يُقَالُ لَهَا /26 لَيْلَى L6647 /26 ، /27 عَنْ /93 أُمِّ عُمَارَةَ L7883 /93 ، قَالَتْ : أَتَانَا رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَرَّبْنَا إِلَيْهِ طَعَامًا ، فَكَانَ بَعْضُ مَنْ عِنْدَهُ صَائِمًا ، فَقَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 إِذَا أَكَلْتَ عِنْدَ الصَّائِمِ سَبَّحَتْ عَلَيْهِ الْمَلائِكَةُ \" /27 * \r\n#E1369",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7081
+    },
+    {
+      "hadith_id": 54596,
+      "book_id": 60,
+      "hadith_number": 7083,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، /27 عَنْ /26 قَتَادَةَ /26 ، قَالَ : /20 يُسْتَحَبُّ لِلصَّائِمِ أَنْ يَدَّهِنَ حَتَّى تَذْهَبَ عَنْهُ غُبْرَةُ الصَّائِمِ \" /27 * \r\n$7702  7704 /8",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7083
+    },
+    {
+      "hadith_id": 54597,
+      "book_id": 60,
+      "hadith_number": 7084,
+      "english_translation": "Hilal ibn Yasaf said: Isa ibn Maryam used to say: 'When it is a day of fasting for one of you, let him oil his beard and wipe his lips, so that when he goes out to the people, they say: He is not fasting. And when one of you prays, let him close his door behind him, for indeed Allah distributes praise as He distributes provision. And when one of you gives, let him give with his right hand and conceal it from his left hand.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Sayings of Prophet Isa",
+        "Concealing Acts of Worship"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 مَنْصُورٍ /26 ، /27 عَنْ /26 هِلالِ بْنِ يَسَافٍ /26 ، قَالَ : كَانَ /20 عِيسَى ابْنُ مَرْيَمَ ، يَقُولُ : إِذَا كَانَ يَوْمُ صَوْمِ أَحَدِكُمْ فَلْيُدْهِنْ لِحْيَتَهُ ، وَلَيَمْسَحْ شَفَتَيْهِ ، حَتَّى يَخْرُجَ إِلَى النَّاسِ ، فَيَقُولُوا : لَيْسَ بِصَائِمٍ ، وَإِذَا صَلَّى أَحَدُكُمْ فَلْيُدْنِ عَلَيْهِ سِتْرَ بَابِهِ ، فَإِنَّ اللَّهَ يَقْسِمُ الثَّنَاءَ كَمَا يَقْسِمُ الرَّزْقَ ، وَإِذَا أَعْطَى أَحَدُكُمْ فَلْيُعْطِ بِيَمِينِهِ ، وَلْيُخْفِ مِنْ شِمَالِهِ \" /27 * \r\n@ 4 : 314 @",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7084
+    },
+    {
+      "hadith_id": 54599,
+      "book_id": 60,
+      "hadith_number": 7086,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "دينار بن عمر",
+              "full_name": "دينار بن عمر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "بلال بن بقطر",
+              "full_name": "بلال بن بقطر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "محمد بن بكار بن الريان is unknown (Majhul)",
+            "دينار بن عمر is unknown (Majhul)",
+            "بلال بن بقطر is unknown (Majhul)",
+            "سليمان بن أرقم is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> دينار بن عمر -> بلال بن بقطر -> سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "محمد بن بكار بن الريان is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "دينار بن عمر is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "بلال بن بقطر is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "سليمان بن أرقم is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Fasting on Monday and Thursday",
+        "Angels Praying for Believers",
+        "Importance of Reconciliation"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 مَعْمَرٌ L7633 /94 ، عَنْ /26 سُهَيْلِ بْنِ أَبِي صَالِحٍ L3687 /26 ، عَنْ /26 أَبِيهِ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 تُفْتَحُ أَبْوَابُ السَّمَاءِ كُلَّ اثْنَيْنِ وَخَمِيسٍ ، فَيَغْفِرُ اللَّهُ لِكُلِّ عَبْدٍ لا يُشْرِكُ بِاللَّهِ ، إِلا الْمُشَاحِنَيْنِ ، تَقُولُ الْمَلائِكَةُ : ذَرُوهُمَا حَتَّى يَصْطَلِحَا \" /27 * \r\n$7704  7706 /2",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7086
+    },
+    {
+      "hadith_id": 54600,
+      "book_id": 60,
+      "hadith_number": 7087,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: 'Fast on Monday and Thursday, for they are two days on which deeds are raised up, and Allah forgives every servant who does not associate partners with Him, except the one who has hatred. Allah says: Leave him until he repents.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "مالك بن يسار",
+              "full_name": "مالك بن يسار",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "بلال بن بقطر",
+              "full_name": "بلال بن بقطر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "مالك بن يسار is unknown (Majhul)",
+            "بلال بن بقطر is unknown (Majhul)",
+            "سليمان بن أرقم is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "مالك بن يسار -> بلال بن بقطر -> سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "مالك بن يسار is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "بلال بن بقطر is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "سليمان بن أرقم is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Fasting on Monday and Thursday",
+        "Days When Deeds are Raised to Allah",
+        "Importance of Reconciliation"
+      ],
+      "arabicText": "عَنْ /94 أَبِي بَكْرِ بْنِ أَبِي سَبْرَةَ L121 /94 ، قَالَ : أَخْبَرَنِي /26 مُسْلِمُ بْنُ أَبِي مَرْيَمَ L7452 /26 ، عَنْ /26 أَبِي صَالِحٍ L2840 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 صُومُوا يَوْمَ الاثْنَيْنِ وَالْخَمِيسِ ، فَإِنَّهُمَا يَوْمَانِ تُرْفَعُ فِيهِمَا الأَعْمَالُ ، فَيَغْفِرُ اللَّهُ لِكُلِّ عَبْدٍ لا يُشْرِكُ بِهِ ، إِلا لِصَاحِبِ إِحْنَةٍ ، يَقُولُ اللَّهُ : ذَرُوهُ حَتَّى يَتُوبَ \" /27 * \r\n$7705  7707 /8",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7087
+    }
+  ]
+}

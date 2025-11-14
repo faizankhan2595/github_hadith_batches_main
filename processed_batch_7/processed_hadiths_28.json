@@ -1,0 +1,1050 @@
+{
+  "batch_number": 7,
+  "file_number": 28,
+  "processed_count": 13,
+  "note": "Processed hadiths excluding chapter headings. Complete analysis per CLAUDE.md specifications.",
+  "hadiths": [
+    {
+      "hadith_id": 54406,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6893,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، عَنْ /26 عَاصِمِ بْنِ أَبِي النَّجُودِ ، عَنْ /26 زِرِّ بْنِ حُبَيْشٍ ، قَالَ : قُلْتُ : /27 /93 أَبَا الْمُنْذِرِ ! يَعْنِي أُبَيَّ بْنَ كَعْبٍ",
+      "english_translation": "From Ma'mar, from Asim ibn Abi al-Najud, from Zirr ibn Hubaysh, he said: I said: O Abu al-Mundhir! (meaning Ubayy ibn Ka'b) - Inform me about Laylat al-Qadr, for Ibn Umm Abd (Ibn Mas'ud) says: Whoever stands (in prayer) the whole year will attain it. He said: May Allah have mercy on Abu Abd al-Rahman, he certainly knew that it is in Ramadan, but he concealed it from people so they would not become complacent. By He who revealed the Book to Muhammad ﷺ, it is indeed in the month of Ramadan, and it is indeed the night of the twenty-seventh. I said: O Abu al-Mundhir! How did you know that? He said: By the sign which the Messenger of Allah ﷺ informed us about - we have seen it and memorized it. By Allah, it is indeed it, without doubt. I said to Zirr: What is the sign? He said: That the sun rises that morning as if it is a basin without rays",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عاصم بن أبي النجود",
+              "full_name": "Asim ibn Bahdlah (Asim ibn Abi al-Najud)",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Saduq (truthful) but had some issues with precision", "Some errors in narration noted by critics"]
+            },
+            {
+              "name": "زر بن حبيش",
+              "full_name": "Zirr ibn Hubaysh al-Asadi",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبي بن كعب",
+              "full_name": "Ubayy ibn Ka'b al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Asim ibn Abi al-Najud is Saduq not highest grade"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Asim ibn Abi al-Najud -> Zirr ibn Hubaysh -> Ubayy ibn Ka'b -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Asim ibn Abi al-Najud is graded as Saduq (truthful) but not Thiqah",
+          "impact": "He had some memory issues and occasional errors. This slightly weakens the chain but doesn't make it problematic."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Ubayy ibn Ka'b's strong assertion of 27th night",
+        "Sign of the sun rising without rays",
+        "Ibn Mas'ud's concealment strategy",
+        "Dialogue between early scholars"
+      ]
+    },
+    {
+      "hadith_id": 54407,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6894,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 عَبْدِ اللَّهِ بْنِ شُرَيْكٍ ، قَالَ : رَأَيْتُ زِرَّ بْنَ حُبَيْشٍ... (multiple chains)",
+      "english_translation": "From al-Thawri, from Abdullah ibn Shurayк, he said: I saw Zirr ibn Hubaysh when al-Hajjaj stood on the minbar mentioning Laylat al-Qadr, as if he was saying: Some people mention Laylat al-Qadr. Zirr wanted to jump at him but people held him back. Zirr said: It is the night of the twenty-seventh, so whoever catches it, let him perform ghusl, break fast with milk, and let his breaking of fast be at Sahr time. Also: From al-Thawri, from some of his companions, from Aisha, she said: When the last ten nights of Ramadan entered, the Messenger of Allah ﷺ would awaken his family and tighten his waist wrapper. Sufyan says: Tightening the waist wrapper means not approaching women. Also: From al-Thawri, from Abu Ishaq, from Hubayrah ibn Yarim, from Ali: That the Prophet ﷺ used to awaken his family in the last ten nights of Ramadan. Also: From Ibn Uyaynah, from Abu Ya'fur, from Muslim, from Masruq, from Aisha, she said: When the last ten nights of Ramadan entered, the Messenger of Allah ﷺ would awaken his family, revive his night, and tighten his waist wrapper",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن شريك",
+              "full_name": "Abdullah ibn Shurayk al-Amiri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "زر بن حبيش",
+              "full_name": "Zirr ibn Hubaysh al-Asadi",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "بعض أصحابه",
+              "full_name": "Some of his companions (unknown)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Unknown narrator(s)"]
+            },
+            {
+              "name": "عائشة",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains unknown narrator(s) - 'ba'd ashhabihi'"]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "Amr ibn Abdullah al-Sabi'i",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["ikhtilat, but via al-Thawri is reliable"]
+            },
+            {
+              "name": "هبيرة بن يريم",
+              "full_name": "Hubayrah ibn Yarim al-Nakha'i",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "علي",
+              "full_name": "Ali ibn Abi Talib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابن عيينة",
+              "full_name": "Sufyan ibn Uyaynah al-Hilali",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو يعفور",
+              "full_name": "Waqid ibn Iyad (Abu Ya'fur)",
+              "grade": "Saduq Lahu Awham",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Saduq with some mistakes (lahu awham)"]
+            },
+            {
+              "name": "مسلم",
+              "full_name": "Muslim ibn Subayh al-Bajali",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مسروق",
+              "full_name": "Masruq ibn al-Ajda' al-Hamdani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu Ya'fur has 'awham (mistakes)"]
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Abdullah ibn Shurayk -> Zirr ibn Hubaysh (his opinion on 27th)",
+        "al-Thawri -> Unknown companions -> Aisha -> Prophet ﷺ",
+        "al-Thawri -> Abu Ishaq -> Hubayrah ibn Yarim -> Ali -> Prophet ﷺ",
+        "Ibn Uyaynah -> Abu Ya'fur -> Muslim -> Masruq -> Aisha -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Second chain contains unknown narrator(s) - 'ba'd ashhabihi' (some of his companions)",
+          "impact": "Creates disconnection due to unknown link"
+        },
+        {
+          "issue": "Fourth chain: Abu Ya'fur is 'Saduq Lahu Awham' (truthful but has mistakes)",
+          "impact": "Slightly weakens that specific chain"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Zirr's strong conviction about 27th night",
+        "Incident with al-Hajjaj",
+        "Prophet's ﷺ practice in last ten nights",
+        "Awakening family for worship",
+        "Abstaining from relations"
+      ]
+    },
+    {
+      "hadith_id": 54408,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6895,
+      "arabicText": "عَنْ /94 هُشَيْمٍ ، عَنِ /26 الْعَوَّامِ بْنِ حَوْشَبٍ ، /27 عَنْ /26 إِبْرَاهِيمَ النَّخَعِيِّ",
+      "english_translation": "From Hushaym, from al-Awwam ibn Hawshab, from Ibrahim al-Nakha'i that he used to complete the Quran in Ramadan every three days, and when the last ten entered, he would complete it every two nights, and he would perform ghusl every night",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "هشيم",
+              "full_name": "Hushaym ibn Bashir al-Sulami al-Wasiti",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis al-taswiyah (a severe form)"]
+            },
+            {
+              "name": "العوام بن حوشب",
+              "full_name": "al-Awwam ibn Hawshab al-Walibi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "إبراهيم النخعي",
+              "full_name": "Ibrahim ibn Yazid al-Nakha'i",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "أَنَّهُ كَانَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Hushaym is known for tadlis al-taswiyah"]
+        }
+      ],
+      "plainChains": [
+        "Hushaym -> al-Awwam ibn Hawshab -> Ibrahim al-Nakha'i"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hushaym is known for tadlis al-taswiyah (omitting weak narrators in the middle of chains), using 'an",
+          "impact": "This type of tadlis is more severe. However, the chain appears intact and the content is about Ibrahim's practice, not a hadith."
+        },
+        {
+          "issue": "This is Ibrahim al-Nakha'i's personal practice (maqtu'), not a hadith",
+          "impact": "Describes early scholarly devotion"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Ibrahim al-Nakha'i's Ramadan practices",
+        "Quran completion frequency",
+        "Ghusl every night in last ten"
+      ]
+    },
+    {
+      "hadith_id": 54409,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6896,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 دَاوُدَ بْنِ أَبِي هِنْدٍ ، عَنِ /26 الْوَلِيدِ بْنِ عَبْدِ الرَّحْمَنِ ، عَنْ /26 جُبَيْرِ بْنِ نُفَيْرٍ الْحَضْرَمِيِّ ، /27 عَنْ /93 أَبِي ذَرٍّ",
+      "english_translation": "From al-Thawri, from Dawud ibn Abi Hind, from al-Walid ibn Abd al-Rahman, from Jubayr ibn Nufayr al-Hadrami, from Abu Dharr, he said: We fasted with the Messenger of Allah ﷺ in Ramadan, and he did not lead us in night prayer for any part of the month until seven nights remained. He led us until about a third of the night passed. Then he did not lead us on the fourth night. He led us on the fifth night until about half the night passed. We said: O Messenger of Allah! If only you had given us the rest of this night of ours! He said: Indeed, when a man prays with the imam until he finishes, the rest of his night is counted for him. Then he did not lead us on the sixth night, and he led us on the seventh. He sent for his family, and people gathered, and he led us until we feared that al-falah would pass us by. I said: What is al-falah? He said: The pre-dawn meal (suhur)",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "داود بن أبي هند",
+              "full_name": "Dawud ibn Abi Hind al-Qushayri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الوليد بن عبد الرحمن",
+              "full_name": "al-Walid ibn Abd al-Rahman al-Jurashi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جبير بن نفير",
+              "full_name": "Jubayr ibn Nufayr al-Hadrami",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو ذر",
+              "full_name": "Jundub ibn Junadah al-Ghifari (Abu Dharr)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Dawud ibn Abi Hind -> al-Walid ibn Abd al-Rahman -> Jubayr ibn Nufayr -> Abu Dharr -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "However, all narrators are highly reliable (Thiqah or Thiqah Thabt) and none are known mudallisun. The chain is considered strong."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Origin of Tarawih prayer",
+        "Prophet's ﷺ practice in last seven nights",
+        "Reward of praying full night when following imam",
+        "Fear of missing suhur"
+      ]
+    },
+    {
+      "hadith_id": 54410,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6897,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي /26 دَاوُدُ بْنُ أَبِي عَاصِمٍ ، عَنْ /26 عَبْدِ اللَّهِ بْنِ يَحْنَسَ ، قَالَ : /27 قُلْتُ /93 لأَبِي هُرَيْرَةَ",
+      "english_translation": "From Ibn Jurayj, he said: Dawud ibn Abi Asim informed me, from Abdullah ibn Yahnas, he said: I said to Abu Hurayrah: They claim that Laylat al-Qadr has been lifted. He said: Whoever says that has lied. I said: Is it in every Ramadan I will face? He said: Yes",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "داود بن أبي عاصم",
+              "full_name": "Dawud ibn Abi Asim al-Thaqafi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Saduq (truthful) but not highest grade"]
+            },
+            {
+              "name": "عبد الله بن يحنس",
+              "full_name": "Abdullah ibn Yahnas",
+              "grade": "Unknown - Requires Research",
+              "generation": "Unknown",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["Not well-documented"]
+            },
+            {
+              "name": "أبو هريرة",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Dawud ibn Abi Asim is Saduq", "Abdullah ibn Yahnas is not well-known"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Dawud ibn Abi Asim -> Abdullah ibn Yahnas -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Dawud ibn Abi Asim is Saduq (truthful) but not Thiqah",
+          "impact": "Slightly weakens the chain"
+        },
+        {
+          "issue": "Abdullah ibn Yahnas is not well-documented in major biographical sources",
+          "impact": "His reliability is uncertain"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Abu Hurayrah refuting claim Laylat al-Qadr was lifted",
+        "Permanence of Laylat al-Qadr every Ramadan"
+      ]
+    },
+    {
+      "hadith_id": 54411,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6898,
+      "arabicText": "عَنِ /94 الأَسْلَمِيِّ ، عَنْ /26 دَاوُدَ بْنِ الْحُصَيْنِ ، عَنْ /26 عِكْرِمَةَ ، عَنِ ابْنِ عَبَّاسٍ",
+      "english_translation": "From al-Aslami, from Dawud ibn al-Husayn, from Ikrimah, from Ibn Abbas, Ibn Abbas said: Laylat al-Qadr comes in every Ramadan. And Yazid ibn Abdullah ibn al-Had narrated to me that the Messenger of Allah ﷺ was asked about Laylat al-Qadr. It was said to him: Was it with the prophets, then lifted when they were taken, or is it every year? He said: Rather it is every year, rather it is every year",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الأسلمي",
+              "full_name": "Unknown al-Aslami (requires identification)",
+              "grade": "Unknown - Requires Research",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Identity uncertain"]
+            },
+            {
+              "name": "داود بن الحصين",
+              "full_name": "Dawud ibn al-Husayn al-Umawi",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Saduq but had some weakness"]
+            },
+            {
+              "name": "عكرمة",
+              "full_name": "Ikrimah mawla Ibn Abbas",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عباس",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["al-Aslami is not clearly identified", "Dawud ibn al-Husayn is Saduq"]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "يزيد بن عبد الله بن الهاد",
+              "full_name": "Yazid ibn Abdullah ibn Ussamah ibn al-Had",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Second report mentions Yazid's narration but chain is not complete in text"]
+        }
+      ],
+      "plainChains": [
+        "al-Aslami (unknown) -> Dawud ibn al-Husayn -> Ikrimah -> Ibn Abbas",
+        "Yazid ibn Abdullah ibn al-Had -> (incomplete chain) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "al-Aslami's identity is uncertain",
+          "impact": "Creates uncertainty in the chain"
+        },
+        {
+          "issue": "Dawud ibn al-Husayn is Saduq (not highest grade)",
+          "impact": "Adds weakness to the chain"
+        },
+        {
+          "issue": "Second report from Yazid lacks complete chain in the text",
+          "impact": "Cannot fully evaluate without complete isnad"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Ibn Abbas affirming Laylat al-Qadr every Ramadan",
+        "Question about whether it was lifted after prophets",
+        "Prophet's ﷺ affirmation of annual occurrence"
+      ]
+    },
+    {
+      "hadith_id": 54412,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6899,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ ، قَالَ : حُدِّثْتُ ، أَنَّ شَيْخًا مِنْ أَهْلِ الْمَدِينَةِ",
+      "english_translation": "From Ibn Jurayj, he said: I was narrated to, that a shaykh from the people of Madinah asked Abu Dharr at Mina, and said: Was Laylat al-Qadr lifted or is it in every Ramadan? Abu Dharr said: I asked the Messenger of Allah ﷺ and I said: O Messenger of Allah! Was Laylat al-Qadr lifted? He said: Rather it is in every Ramadan",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "حُدِّثْتُ",
+              "reliabilityIssues": ["Uses passive 'I was narrated to' without naming source"]
+            },
+            {
+              "name": "شيخ من أهل المدينة",
+              "full_name": "Unknown shaykh from Madinah",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "(implied)",
+              "reliabilityIssues": ["Completely unknown"]
+            },
+            {
+              "name": "أبو ذر",
+              "full_name": "Jundub ibn Junadah al-Ghifari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Jurayj uses passive voice without naming narrator", "Unknown Madinan shaykh", "Double disconnection"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj <- Unknown narrator <- Unknown Madinan shaykh <- Abu Dharr -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj uses passive 'huddithu' (I was narrated to) without naming his source",
+          "impact": "Creates first disconnection (mu'allaq)"
+        },
+        {
+          "issue": "The Madinan shaykh is completely unknown (majhul)",
+          "impact": "Creates second disconnection"
+        },
+        {
+          "issue": "Double disconnection makes this chain very weak",
+          "impact": "Despite ending with Companion, multiple unknowns severely weaken it"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Abu Dharr affirming annual Laylat al-Qadr",
+        "Question at Mina during Hajj"
+      ]
+    },
+    {
+      "hadith_id": 54414,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6901,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، /27 عَنِ /26 الزُّهْرِيِّ ، /20 كُرِهَ أَنْ يُقْضَى رَمَضَانُ فِي الْعَشْرِ",
+      "english_translation": "From Ma'mar, from al-Zuhri: It was disliked to make up Ramadan in the ten (days of Dhul-Hijjah). Ma'mar said: And someone informed me who heard al-Hasan saying it",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الزهري",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "كُرِهَ (passive)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses passive voice 'it was disliked'"]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "من (unknown)",
+              "full_name": "Someone (unidentified)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": ["Unknown"]
+            },
+            {
+              "name": "الحسن",
+              "full_name": "al-Hasan al-Basri",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "يَقُولُهُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains unknown narrator"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> al-Zuhri (his opinion)",
+        "Ma'mar <- Unknown person -> al-Hasan al-Basri"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First opinion uses passive voice without attribution",
+          "impact": "Unclear if this is al-Zuhri's opinion or transmitted from earlier"
+        },
+        {
+          "issue": "Second chain contains unknown narrator (man)",
+          "impact": "Creates disconnection"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Dislike of making up fasts during first ten of Dhul-Hijjah",
+        "Early scholarly opinion"
+      ]
+    },
+    {
+      "hadith_id": 54415,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6902,
+      "arabicText": "/27 عَنْ /94 هِشَامِ بْنِ حَسَّانَ أَنَّهُ /20 كَرِهَ قَضَاءَ رَمَضَانَ فِي الْعَشْرِ",
+      "english_translation": "From Hisham ibn Hassan that he disliked making up Ramadan in the ten (days)",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "هشام بن حسان",
+              "full_name": "Hisham ibn Hassan al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "كَرِهَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Hisham ibn Hassan (his opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Hisham ibn Hassan's personal opinion (maqtu'), not a hadith",
+          "impact": "Shows early scholarly view on the matter"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Hisham ibn Hassan's dislike of making up fasts in first ten of Dhul-Hijjah"
+      ]
+    },
+    {
+      "hadith_id": 54416,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6903,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، /94 وَالثَّوْرِيِّ ، عَنْ /26 أَبِي إِسْحَاقَ ، عَنْ /26 عَبْدِ اللَّهِ بْنِ مُرَّةَ ، عَنِ /26 الْحَارِثِ ، /27 عَنْ /93 عَلِيٍّ",
+      "english_translation": "From Ma'mar and al-Thawri, from Abu Ishaq, from Abdullah ibn Murrah, from al-Harith, from Ali, he said: Ramadan should not be made up in Dhul-Hijjah",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "Amr ibn Abdullah al-Sabi'i",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["ikhtilat, but via al-Thawri/Ma'mar (early) is reliable"]
+            },
+            {
+              "name": "عبد الله بن مرة",
+              "full_name": "Abdullah ibn Murrah al-Hamdani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الحارث",
+              "full_name": "al-Harith ibn Abdullah al-A'war",
+              "grade": "Da'if",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Weak narrator"]
+            },
+            {
+              "name": "علي",
+              "full_name": "Ali ibn Abi Talib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["al-Harith al-A'war is weak (da'if)", "Two reliable transmitters (Ma'mar and al-Thawri) both narrating strengthens somewhat"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar & al-Thawri -> Abu Ishaq -> Abdullah ibn Murrah -> al-Harith -> Ali"
+      ],
+      "potential_issues": [
+        {
+          "issue": "al-Harith al-A'war is considered weak (da'if)",
+          "impact": "His presence weakens the attribution to Ali. However, having two independent reliable transmitters (Ma'mar and al-Thawri) provides some support."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ali's opinion against making up fasts in Dhul-Hijjah",
+        "Fiqh of makeup fasting timing"
+      ]
+    },
+    {
+      "hadith_id": 54417,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6904,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 حَمَّادٍ ، قَالَ : /27 سَأَلْتُ /26 إِبْرَاهِيمَ ، /26 وَسَعِيدَ بْنَ جُبَيْرٍ... (multiple chains)",
+      "english_translation": "From al-Thawri, from Hammad, he said: I asked Ibrahim and Sa'id ibn Jubayr about a man who has days from Ramadan to make up - can he perform voluntary fasts in the ten days? They said: Begin with the obligation. Also: From al-Thawri, from al-Aswad ibn Qays: That Umar used to prefer that Ramadan be made up in the ten days",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حماد",
+              "full_name": "Hammad ibn Abi Sulayman (likely)",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَأَلْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "إبراهيم",
+              "full_name": "Ibrahim ibn Yazid al-Nakha'i",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سعيد بن جبير",
+              "full_name": "Sa'id ibn Jubayr al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الأسود بن قيس",
+              "full_name": "al-Aswad ibn Qays al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمر",
+              "full_name": "Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "كَانَ يَسْتَحِبُّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Hammad (direct questioning) -> Ibrahim & Sa'id ibn Jubayr",
+        "al-Thawri -> al-Aswad ibn Qays -> Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First report: Ibrahim and Sa'id ibn Jubayr's fiqh opinion (maqtu')",
+          "impact": "Represents early scholarly view prioritizing obligatory over voluntary"
+        },
+        {
+          "issue": "Second report: Umar's preference contrasts with earlier reports disliking it",
+          "impact": "Shows legitimate scholarly difference - Umar preferred making up in the ten days"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Priority of obligatory over voluntary fasts",
+        "Scholarly differences on making up in Dhul-Hijjah",
+        "Umar's preference to make up in the ten days"
+      ]
+    },
+    {
+      "hadith_id": 54418,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6905,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 عُثْمَانَ بْنِ مَوْهِبٍ ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ",
+      "english_translation": "From al-Thawri, from Uthman ibn Mawhib, he said: I heard Abu Hurayrah - a man asked him, saying: I have days from Ramadan upon me, shall I fast the ten days voluntarily? He said: No, and why? Begin with Allah's right, then perform voluntary acts after that as you wish",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عثمان بن موهب",
+              "full_name": "Uthman ibn Mawhib al-Tamimi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو هريرة",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Uthman ibn Mawhib (sami'tu) -> Abu Hurayrah"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Abu Hurayrah's strong opinion on prioritizing obligatory fasts",
+        "Must complete makeup before voluntary fasts"
+      ]
+    },
+    {
+      "hadith_id": 54419,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6906,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ ، قَالَ : /27 عَنْ /26 عَطَاءٍ /20 كُرِهَ أَنْ يَتَطَوَّعَ الرَّجُلُ بِصِيَامٍ فِي الْعَشْرِ",
+      "english_translation": "From Ibn Jurayj, he said: From Ata': It was disliked that a man perform voluntary fasts in the ten days while he has an obligatory fast upon him. He said: No, but fast the ten days and make them as makeup",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3)"]
+            },
+            {
+              "name": "عطاء",
+              "full_name": "Ata' ibn Abi Rabah al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "كُرِهَ (passive)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Jurayj is mudallis using 'an"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Ata'"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj is a Category 3 mudallis using 'an (عَنْ)",
+          "impact": "While generally reliable, his tadlis when using 'an requires caution"
+        },
+        {
+          "issue": "This is Ata's fiqh opinion (maqtu')",
+          "impact": "Represents his view that one can make the ten days both virtuous and makeup simultaneously"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Ata's solution for combining makeup with virtuous days",
+        "Making ten days of Dhul-Hijjah as makeup fasts"
+      ]
+    },
+    {
+      "hadith_id": 54420,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6907,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 أَبِي حَيَّانَ ، عَنْ /26 عَجُوزٍ ، /27 عَنْ /93 عَائِشَةَ ، قَالَتْ : /20 لا بَلْ حَتَّى تُؤَدِّيَ الْحَقَّ",
+      "english_translation": "From al-Thawri, from Abu Hayyan, from an old woman, from Aisha, she said: No, rather until you fulfill the obligation (first)",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو حيان",
+              "full_name": "Yahya ibn Sa'id ibn Hayyan al-Taymi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عجوز (old woman)",
+              "full_name": "Unknown old woman",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Completely unknown"]
+            },
+            {
+              "name": "عائشة",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains unknown narrator - 'ajuz' (old woman)"]
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Abu Hayyan -> Unknown old woman -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Contains an unknown narrator (ajuz/old woman) between Abu Hayyan and Aisha",
+          "impact": "Creates disconnection due to majhul al-'ayn (completely unknown narrator)"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Aisha's opinion on prioritizing obligatory fasts",
+        "Must fulfill obligations before voluntary acts"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,949 @@
+{
+  "batch_number": 7,
+  "file_number": 13,
+  "record_count": 14,
+  "processing_notes": [
+    "IMPORTANT: This file contains preliminary automated analysis.",
+    "All hadith grades must be verified by qualified hadith scholars.",
+    "Narrator information requires verification against classical sources.",
+    "English translations are placeholders pending proper translation.",
+    "Topics require expert review and classification."
+  ],
+  "hadiths": [
+    {
+      "hadith_id": 54181,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله السراج\tعبد الرحمن بن عبد الله الجهني",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "أبو سلمة",
+              "full_name": "أبو سلمة الحمصي\tأبو سلمة الحراني\tأبو سلمة",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن عبد الله -> أبو سلمة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ قَالَ : حُدِّثْتُ ، عَنْ أَنَسِ بْنِ مَالِكٍ ، أَنَّهُ قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : مَنْ لَمْ يَدَعِ الْكَذِبَ وَالْخَنَا ، فَلَيْسَ حَاجَةٌ لِلَّهِ فِي أَنْ يَدَعَ طَعَامَهَ وَشَرَابَهُ ، يَعْنِي الصَّائِمَ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6668,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54182,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+              "grade": "Matruk",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "accused of fabrication"
+              ],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "accused of fabrication",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "accused of fabrication",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : قُلْتُ لِعَطَاءٍ : أَبَلَغَكَ أَنَّهُ يُؤْمَرُ الإِنْسَانُ إِذَا دُعِيَ إِلَى طَعَامٍ ، أَنْ يَقُولَ : إِنِّي صَائِمٌ ؟ قَالَ : سَمِعْتُ أَبَا هُرَيْرَةَ ، يَقُولُ : إِذَا كُنْتَ صَائِمًا فَلا تَجْهَلْ ، وَلا تُسَابَّ ، وَإِنْ جُهِلَ عَلَيْكَ ، فَقُلْ : إِنِّي صَائِمٌ \" * E1289",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6669,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54184,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار الهاشمي\tمحمد بن بكار بن الريان الهاشمي\tأبو عبد الله",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع الأسدي\tالحارث بن قيس الكوفي\tأبو محمد",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "مغيرة بن حذف",
+              "full_name": "المغيرة بن حذف العبسي",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+              "grade": "Matruk",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "accused of fabrication"
+              ],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "accused of fabrication",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> قيس بن الربيع -> مغيرة بن حذف -> سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "accused of fabrication",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنِ الزُّهْرِيِّ ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ ، عَنْ أَبِي هُرَيْرَةَ : أَنَّ رَجُلا جَاءَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ! هَلَكْتُ ، قَالَ : وَمَا ذَاكَ ؟ قَالَ : وَاقَعْتُ أَهْلِي فِي رَمَضَانَ ، قَالَ : أَتَجِدُ رَقَبَةً ؟ قَالَ : لا ، قَالَ : أَتَسْتَطِيعُ أَنْ تَصُومَ شَهْرَيْنِ مُتَتَابِعَيْنِ ؟ قَالَ : لا ، قَالَ : فَأَطْعِمْ سِتِّينَ مِسْكِينًا ، قَالَ : لا أَجِدُ يَا رَسُولَ اللَّهِ ! قَالَ : فَأَتَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعَرَقٍ فِيهِ تَمْرٌ ، وَالْعَرَقُ الْمِكْتَلُ ، قَالَ : اذْهَبْ فَتَصَدَّقْ بِهَذَا ، قَالَ : أَعَلَى أَفْقَرَ مِنِّي ؟ فَوَالَّذِي بَعَثَكَ بَالْحَقِّ ، مَا بَيْنَ لابَتَيْهَا أَهْلُ بَيْتٍ أَحْوَجُ مِنِّي ، فَضَحِكَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، ثُمَّ قَالَ : اذْهَبْ بِهِ إِلَى أَهْلِكَ \" ، قَالَ الزُّهْرِيُّ : وَإِنَّمَا كَانَ هَذَا رُخْصَةً لِلرَّجُلِ خَاصَّةً ، وَلَوْ أَنَّ رَجُلا فَعَلَ ذَلِكَ الْيَوْمَ لَمْ يَكُنْ بُدٌّ مِنَ التَّكْفِيرِ *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6671,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54185,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار الهاشمي\tمحمد بن بكار بن الريان الهاشمي\tأبو عبد الله",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "عبد الله بن سعد بن فروة",
+              "full_name": "عبد الله بن سعد البجلي\tعبد الله بن سعد بن فروة الدمشقي",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر الزهري\tحفص بن عمر بن عبد الرحمن القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> عبد الله بن سعد بن فروة -> حفص بن عمر بن عبد الرحمن بن عوف"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ عَطَاءٍ الْخُرَاسَانِيِّ ، قَالَ : سَمِعْتُ ابْنَ الْمُسَيِّبِ ، يَقُولُ : جَاءَ رَجُلٌ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : يَا رَسُولَ اللَّهِ ! هَلَكَ الأَخِرُ ، فَقَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : وَمَا ذَاكَ ؟ قَالَ : أَصَبْتُ أَهْلِي فِي رَمَضَانَ ، فَقَالَ لَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَتَسْتَطِيعُ أَنْ تُعْتِقَ رَقَبَةً ؟ قَالَ : لا ، قَالَ : فَأَهْدِ بَدَنَةً ، قَالَ : وَلا أَجِدُ ، قَالَ : فَأَتَى النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِمِكْتَلٍ فِيهِ خَمْسَةَ عَشَرَ صَاعًا ، فَقَالَ : تَصَدَّقْ بِهَذَا ، فَشَكَا إِلَيْهِ الْحَاجَةَ ، فَقَالَ : عَلَيْكَ ، وَعَلَى أَهْلِكَ ، أَوْ قَالَ : عِشْرُونَ صَاعًا \" * E1290",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6672,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54186,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله السراج\tعبد الرحمن بن عبد الله الجهني",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "عبد الله بن سعد بن فروة",
+              "full_name": "عبد الله بن سعد البجلي\tعبد الله بن سعد بن فروة الدمشقي",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر الزهري\tحفص بن عمر بن عبد الرحمن القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن عبد الله -> عبد الله بن سعد بن فروة -> حفص بن عمر بن عبد الرحمن بن عوف"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي عَطَاءٌ الْخُرَاسَانِيُّ ، قَالَ : سَمِعْتُ ابْنَ الْمُسَيِّبِ ، يَقُولُ : جَاءَ أَعْرَابِيٌّ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَضْرِبُ صَدْرَهُ ، وَيَنْتِفُ شَعْرَهُ ، وَيَقُولُ : هَلَكَ الأَبْعَدُ ، فَقَالَ لَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : مَا شَأْنُكَ ؟ قَالَ : أَصَبْتُ فِي شَهْرِ رَمَضَانَ ، قَالَ : هَلْ تَسْتَطِيعُ أَنْ تُعْتِقَ رَقَبَةً ؟ قَالَ : لا ، قَالَ : فَأَهْدِ ، قَالَ : تُرِيدُ الْجُزُورَ ؟ قَالَ : مَا هُوَ إِلا هِيَ ، قَالَ : وَلا أَجِدُهُ ، قَالَ : فَاجْلِسْ ، قَالَ : فَجَلَسَ ، فَجَاءَ رَجُلٌ بِمِكْتَلٍ فِيهِ عِشْرُونَ صَاعًا مِنْ تَمْرٍ ، أَوْ خَمْسَةَ عَشَرَ صَاعًا ، فَقَالَ لِلأَعْرَابِيِّ : تَصَدَّقْ بِهَا ، فَشَكَا إِلَيْهِ الْحَاجَةَ ، فَقَالَ : عَلَيْكَ ، وَعَلَى أَهْلِكَ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6673,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54187,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع",
+              "full_name": "حوثرة بن الأشرس العتكي\tأبو عامر البصري\tأبو عامر",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "حسين بن معاذ بن خليف",
+              "full_name": "الحسين بن معاذ البصري\tالحسين بن معاذ بن حليف البصري",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر الزهري\tحفص بن عمر بن عبد الرحمن القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار الهاشمي\tمحمد بن بكار بن الريان الهاشمي\tأبو عبد الله",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع الأسدي\tالحارث بن قيس الكوفي\tأبو محمد",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "مغيرة بن حذف",
+              "full_name": "المغيرة بن حذف العبسي",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "محمد بن عبد الله بن عمرو بن هشام",
+              "full_name": "محمد بن عبد الله العامري\tمحمد بن عبد الله بن عمرو الحجازي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "علي بن حسين",
+              "full_name": "علي بن الحسين الماليني\tأبو الحسن الماليني\tأبو الحسن",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع -> حسين بن معاذ بن خليف -> حفص بن عمر بن عبد الرحمن بن عوف -> محمد بن بكار بن الريان -> قيس بن الربيع -> مغيرة بن حذف -> محمد بن عبد الله بن عمرو بن هشام -> علي بن حسين"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ ، عَنِ ابْنِ الْمُسَيِّبِ ، قَالَ : جَاءَ رَجُلٌ إِلَى النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ ، فَقَالَ : إِنِّي وَاقَعْتُ امْرَأَتِي فِي رَمَضَانَ ، ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ مَعْمَرٍ ، عَنِ الزُّهْرِيِّ ، عَنْ حُمَيْدِ بْنِ عَبْدِ الرَّحْمَنِ ، عَنْ أَبِي مَعْشَرٍ الْمَدَنِيِّ ، عَنْ مُحَمَّدِ بْنِ كَعْبٍ : أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ أَمَرَهُ أَنْ يَصُومَ يَوْمًا مَكَانَهُ حِينَ أَمَرَهُ بِالْكَفَّارَةِ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6674,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54188,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ نَافِعِ بْنِ جُبَيْرٍ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ لَهُ : تَصَدَّقْ ، وَصُمْ يَوْمًا مَكَانَهُ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6675,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54189,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار الهاشمي\tمحمد بن بكار بن الريان الهاشمي\tأبو عبد الله",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "كعب بن عاصم",
+              "full_name": "أبو مالك الأشعري\tعمرو بن عاصم الأشعري\tأبو مالك",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "عقبة بن مكرم بن أفلح بن جراد",
+              "full_name": "عقبة بن مكرم العمي\tعقبة بن مكرم بن أفلح العمي\tأبو عبد الملك",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> كعب بن عاصم -> عقبة بن مكرم بن أفلح بن جراد"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنِ الْحَسَنِ ، وَقَتَادَةُ ، أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : رَقَبَةٌ ثُمَّ بَدَنَةٌ \" ، ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ الزُّهْرِيِّ *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6676,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54190,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : الَّذِي يُصِيبُ أَهْلَهُ فِي رَمَضَانَ ، يَأْكُلُ وَيَشْرَبُ إِنْ شَاءَ \" * E1291",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6677,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54191,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ قَتَادَةَ ، عَنِ الْحَسَنِ ، قَالَ : إِنْ أَصَابَ امْرَأَتَهُ فِي رَمَضَانَ ثُمَّ أَكَلَ وَشَرِبَ ، فَكَفَّارَةٌ وَاحِدَةٌ كَكَفَّارَةِ الْغَشَيَانِ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6678,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54192,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار الهاشمي\tمحمد بن بكار بن الريان الهاشمي\tأبو عبد الله",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "أبو سلمة",
+              "full_name": "أبو سلمة الحمصي\tأبو سلمة الحراني\tأبو سلمة",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر الزهري\tحفص بن عمر بن عبد الرحمن القرشي",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> أبو سلمة -> حفص بن عمر بن عبد الرحمن بن عوف"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ أَيُّوبَ ، عَنْ رَجُلٍ ، عَنِ ابْنِ الْمُسَيِّبِ ، فِي \" الَّذِي يَقَعُ عَلَى أَهْلِهِ فِي رَمَضَانَ ، قَالَ : قَالَ لَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَعْتِقْ رَقَبَةً ، قَالَ : لا أَجِدُ ، قَالَ : فَتَصَدَّقْ بِشَيْءٍ ، قَالَ : لا أَعْلَمُهُ إِلا قَالَ : فَاقْضِ يَوْمًا مَكَانَهُ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6679,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54193,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : إِذَا الْتَقَى الْخِتَانَانِ ، فَقَدْ بَطَلَ الصَّوْمُ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6680,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54194,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنِ الزُّهْرِيِّ ، فِي الَّذِي يَأْكُلُ فِي رَمَضَانَ عَامِدًا ، قَالَ : مِثْلُ الْمُوَاقِعِ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6681,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54195,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ قَتَادَةَ ، قَالَ : سَأَلْتُ ابْنَ الْمُسَيِّبِ ، فِي رَجُلٌ أَكَلَ فِي رَمَضَانَ عَامِدًا ، قَالَ : عَلَيْهِ صِيَامُ شَهْرٍ ، قَالَ : قُلْتُ : يَوْمَيْنِ ؟ قَالَ : صِيَامُ شَهْرٍ ، قَالَ : فَعَدَدْتُ أَيَّامًا ، فَقَالَ : صِيَامُ شَهْرٍ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6682,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    }
+  ]
+}

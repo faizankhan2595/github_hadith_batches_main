@@ -1,0 +1,735 @@
+[
+  {
+    "hadith_id": 54091,
+    "book_id": 60,
+    "hadith_number": 6578,
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنْ رَجُلٍ ، عَنْ عِكْرِمَةَ ، قَالَ : لا تَأْكُلُ وَلا تَشْرَبُ 7164 7166",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "رجل مجهول",
+            "full_name": "رجل مجهول",
+            "grade": "Majhul",
+            "generation": "Unknown",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Unknown narrator"
+            ]
+          },
+          {
+            "name": "عكرمة",
+            "full_name": "عكرمة مولى ابن عباس البربري",
+            "grade": "Thiqah",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Some Maliki scholars criticized him"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "رجل مجهول: Unknown narrator",
+          "عكرمة: Some Maliki scholars criticized him",
+          "Chain contains unknown narrator(s)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "رجل مجهول: Unknown narrator",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "عكرمة: Some Maliki scholars criticized him",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "Chain contains unknown narrator(s)",
+        "impact": "Unknown narrators make verification impossible"
+      }
+    ],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Fasting Rulings"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6578
+  },
+  {
+    "hadith_id": 54092,
+    "book_id": 60,
+    "hadith_number": 6579,
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، فِي امْرَأَةٍ أَصْبَحَتْ صَائِمًا حَائِضًا ، قَالَ : إِنْ طَهُرَتْ فِي أَوَّلِ النَّهَارِ فَلْتُتِمَّ يَوْمَهَا ، وَإِلا فَلا",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "ابن جريج is a known mudallis using 'an (عَنْ)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابن جريج is a known mudallis using 'an (عَنْ)",
+        "impact": "ابن جريج is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Fasting",
+      "Menstruation and Fasting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6579
+  },
+  {
+    "hadith_id": 54094,
+    "book_id": 60,
+    "hadith_number": 6581,
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنْ قَتَادَةَ ، فِي النَّصْرَانِيِّ وَالْيَهُودِيِّ يُسْلِمُ فِي بَعْضِ شَهْرِ رَمَضَانَ ، قَالَ : يَصُومُ مَا بَقِيَ مِنَ الشَّهْرِ 7166 7168",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "قتادة",
+            "full_name": "قتادة بن دعامة السدوسي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "قتادة is a known mudallis using 'an (عَنْ)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "قتادة is a known mudallis using 'an (عَنْ)",
+        "impact": "قتادة is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Ramadan",
+      "New Muslim and Fasting Obligations"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6581
+  },
+  {
+    "hadith_id": 54095,
+    "book_id": 60,
+    "hadith_number": 6582,
+    "arabicText": "أَخْبَرَنَا ابْنُ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : إِنْ أَسْلَمَ النَّصْرَانِيُّ فِي بَعْضِ رَمَضَانَ صَامَ مَا مَضَى مِنْهُ ، وَإِنْ أَسْلَمَ فِي آخِرِ النَّهَارِ صَامَ ذَلِكَ الْيَوْمَ 7167 7169",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Ramadan",
+      "New Muslim and Fasting Obligations"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6582
+  },
+  {
+    "hadith_id": 54096,
+    "book_id": 60,
+    "hadith_number": 6583,
+    "arabicText": "عَنْ رَجُلٍ ، عَنِ الْحَكَمِ بْنِ أَبَانَ ، عَنْ عِكْرِمَةَ ، فِي نَصْرَانِيٍّ أَسْلَمَ فِي أَيَّامٍ بَقِيَتْ مِنْ رَمَضَانَ ، قَالَ : يَصُومُ مَا أَدْرَكَ ، وَيَقْضِي مَا فَاتَهُ ، وَإِنْ أَسْلَمَ فِي آخِرِ يَوْمٍ مِنْ رَمَضَانَ فَهُوَ بِمَنْزِلَةِ الْمُسَافِرِ يَدْخُلُ فِي صَلاةِ الْمُقِيمِينَ 7168 7170",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "رجل مجهول",
+            "full_name": "رجل مجهول",
+            "grade": "Majhul",
+            "generation": "Unknown",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Unknown narrator"
+            ]
+          },
+          {
+            "name": "الحكم",
+            "full_name": "الحكم بن عتيبة الكندي الكوفي",
+            "grade": "Thiqah Thabt",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "عكرمة",
+            "full_name": "عكرمة مولى ابن عباس البربري",
+            "grade": "Thiqah",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Some Maliki scholars criticized him"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "رجل مجهول: Unknown narrator",
+          "عكرمة: Some Maliki scholars criticized him",
+          "Chain contains unknown narrator(s)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "رجل مجهول: Unknown narrator",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "عكرمة: Some Maliki scholars criticized him",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "Chain contains unknown narrator(s)",
+        "impact": "Unknown narrators make verification impossible"
+      }
+    ],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Ramadan",
+      "Traveler and Fasting",
+      "New Muslim and Fasting Obligations"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6583
+  },
+  {
+    "hadith_id": 54097,
+    "book_id": 60,
+    "hadith_number": 6584,
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنِ الْحَسَنِ ، يَقُولُ : إِنْ أَسْلَمَ فِي بَعْضِ شَهْرِ رَمَضَانَ صَامَهُ كُلَّهُ ، وَقَوْلُ قَتَادَةَ أَحَبُّ إِلَيَّ 7169 7171",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الحسن",
+            "full_name": "الحسن بن أبي الحسن البصري",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Known for mursal reports"
+            ]
+          },
+          {
+            "name": "قتادة",
+            "full_name": "قتادة بن دعامة السدوسي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "قتادة is a known mudallis using 'an (عَنْ)",
+          "الحسن: Known for mursal reports"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "قتادة is a known mudallis using 'an (عَنْ)",
+        "impact": "قتادة is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      },
+      {
+        "issue": "الحسن: Known for mursal reports",
+        "impact": "Affects reliability assessment"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Ramadan",
+      "New Muslim and Fasting Obligations"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6584
+  },
+  {
+    "hadith_id": 54098,
+    "book_id": 60,
+    "hadith_number": 6585,
+    "arabicText": "عَنِ الثَّوْرِيِّ ، فِي النَّصْرَانِيِّ أَسْلَمَ مِنْ آخِرِ النَّهَارِ ، قَالَ : مَنْ أَخَذَ بِقَوْلِ عَطَاءٍ ، قَالَ يُصَلِّي الظُّهْرَ ، وَالْعَصْرَ ، وَمَنْ أَخَذَ بِقَوْلِ الْحَسَنِ ، يَقُولُ : صَلَّى الْعَصْرَ ، وَلَمْ يُصَلِّ الظُّهْرَ ، وَقَالَ : وَإِذَا أَسْلَمَ فِي شَهْرِ رَمَضَانَ لَمْ يَصُمْ يَوْمَهُ الَّذِي أَسْلَمَ فِيهِ ، وَلَكِنْ يُؤْمَرُ أَنْ لا يَأْكُلَ حَتَّى يُمْسِي 7170 7172",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "الثوري",
+            "full_name": "سفيان بن سعيد بن مسروق الثوري",
+            "grade": "Thabt Hujjah",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الحسن",
+            "full_name": "الحسن بن أبي الحسن البصري",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": [
+              "Known for mursal reports"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "الحسن: Known for mursal reports"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "الحسن: Known for mursal reports",
+        "impact": "Affects reliability assessment"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Ramadan",
+      "New Muslim and Fasting Obligations"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6585
+  },
+  {
+    "hadith_id": 54099,
+    "book_id": 60,
+    "hadith_number": 6586,
+    "arabicText": "أَخْبَرَنَا ابْنُ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : يَصُومُ الْيَوْمَ الَّذِي أَسْلَمَ فِيهِ",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "New Muslim and Fasting Obligations"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6586
+  },
+  {
+    "hadith_id": 54101,
+    "book_id": 60,
+    "hadith_number": 6588,
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنْ أَبَانَ ، عَنْ أَنَسٍ ، عَنْ أَبِي بَكْرٍ الصِّدِّيقِ ، قَالَ : إِذَا نَظَرَ رَجُلانِ إِلَى الْفَجْرِ ، فَشَكَّ أَحَدُهُمَا فَلْيَأْكُلا حَتَّى يَتَبَيَّنَ لَهُمَا 7172 7174",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "أبان",
+            "full_name": "أبان بن أبي عياش البصري",
+            "grade": "Matruk",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Abandoned - not reliable"
+            ]
+          },
+          {
+            "name": "أنس",
+            "full_name": "أنس بن مالك بن النضر الأنصاري",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "أبي بكر الصديق",
+            "full_name": "عبد الله بن أبي قحافة عثمان بن عامر التيمي القرشي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "أبان: Abandoned - not reliable",
+          "Chain contains narrator accused of lying or being abandoned (matruk)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "أبان: Abandoned - not reliable",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "Chain contains narrator accused of lying or being abandoned (matruk)",
+        "impact": "Such narrators render the narration problematic"
+      }
+    ],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Doubt About Dawn Time"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6588
+  },
+  {
+    "hadith_id": 54102,
+    "book_id": 60,
+    "hadith_number": 6589,
+    "arabicText": "أَخْبَرَنَا وَهْبُ بْنُ نَافِعٍ ، عَنْ عِكْرِمَةَ مَوْلَى ابْنِ عَبَّاسٍ ، قَالَ : اسْقِنِي يَا غُلامُ ! قَالَ : أَصْبَحْتُ ، فَقُلْتُ : كَلا ، فَقَالَ ابْنُ عَبَّاسٍ شَكٌّ لَعَمْرُ اللَّهِ : اسْقِنِي ، فَشَرِبَ 7173 7175",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "وهب بن نافع",
+            "full_name": "وهب بن نافع البصري",
+            "grade": "Da'if",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": [
+              "Weak"
+            ]
+          },
+          {
+            "name": "عكرمة",
+            "full_name": "عكرمة مولى ابن عباس البربري",
+            "grade": "Thiqah",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Some Maliki scholars criticized him"
+            ]
+          },
+          {
+            "name": "عمر",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "وهب بن نافع: Weak",
+          "عكرمة: Some Maliki scholars criticized him",
+          "Chain contains weak narrator(s)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "وهب بن نافع: Weak",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "عكرمة: Some Maliki scholars criticized him",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "Chain contains weak narrator(s)",
+        "impact": "Affects chain strength"
+      }
+    ],
+    "IISGrade": "Weak But Might Be Acceptable",
+    "Topics": [
+      "Doubt About Dawn Time"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6589
+  },
+  {
+    "hadith_id": 54103,
+    "book_id": 60,
+    "hadith_number": 6590,
+    "arabicText": "أَخْبَرَنَا ابْنُ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : قَالَ ابْنُ عَبَّاسٍ أَحَلَّ اللَّهُ لَكَ الشَّرَابَ مَا شَكَكْتَ حَتَّى لا تَشُكَّ 7174 7176",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابن عباس",
+            "full_name": "عبد الله بن عباس بن عبد المطلب الهاشمي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Doubt About Dawn Time"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6590
+  },
+  {
+    "hadith_id": 54104,
+    "book_id": 60,
+    "hadith_number": 6591,
+    "arabicText": "عَنِ ابْنِ عُيَيْنَةَ ، عَنِ الْحَسَنِ بْنِ عُبَيْدِ اللَّهِ ، عَنْ مُسْلِمِ بْنِ صُبَيْحٍ ، قَالَ : قَالَ رَجُلٌ لابْنِ عَبَّاسٍ : أَرَأَيْتَ إِذَا شَكَكْتُ فِي الْفَجْرِ ، وَأَنَا أُرِيدُ الصِّيَامَ ؟ قَالَ : كُلْ مَا شَكَكْتَ حَتَّى لا تَشُكَّ 7175 7177",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن عيينة",
+            "full_name": "سفيان بن عيينة بن أبي عمران الهلالي المكي",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الحسن",
+            "full_name": "الحسن بن أبي الحسن البصري",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Known for mursal reports"
+            ]
+          },
+          {
+            "name": "مسلم بن صبيح",
+            "full_name": "مسلم بن صبيح الهمداني الكوفي",
+            "grade": "Saduq/Sadooq",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابن عباس",
+            "full_name": "عبد الله بن عباس بن عبد المطلب الهاشمي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "الحسن: Known for mursal reports"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "الحسن: Known for mursal reports",
+        "impact": "Affects reliability assessment"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Doubt About Dawn Time"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6591
+  },
+  {
+    "hadith_id": 54105,
+    "book_id": 60,
+    "hadith_number": 6592,
+    "arabicText": "عَنِ ابْنِ عُيَيْنَةَ ، عَنْ إِسْرَائِيلَ أَبِي مُوسَى ، عَنِ الْحَسَنِ ، قَالَ : قَالَ رَجُلٌ : يَا رَسُولَ اللَّهِ ! أَذَّنَ الْمُؤَذِّنُ وَالإِنَاءُ عَلَى يَدِي ، وَأَنَا أُرِيدُ الصَّوْمَ ، قَالَ : اشْرَبْ 7176 7178",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن عيينة",
+            "full_name": "سفيان بن عيينة بن أبي عمران الهلالي المكي",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "إسرائيل",
+            "full_name": "إسرائيل بن يونس بن أبي إسحاق السبيعي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الحسن",
+            "full_name": "الحسن بن أبي الحسن البصري",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Known for mursal reports"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "الحسن: Known for mursal reports"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "الحسن: Known for mursal reports",
+        "impact": "Affects reliability assessment"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Fasting Rulings"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6592
+  }
+]

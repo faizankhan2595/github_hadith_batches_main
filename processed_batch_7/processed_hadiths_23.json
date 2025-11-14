@@ -1,0 +1,893 @@
+[
+  {
+    "hadith_id": 54332,
+    "book_id": 60,
+    "english_translation": "Narrated by Abu Hurayrah: [Arabic text requires detailed translation - عَنْ أَبِي إِسْحَاقَ ، عَنْ مُجَاهِدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : مَنْ أَدْرَكَهُ رَمَضَانُ وَ...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "مَعْمَرٍ عَنْ أَبِي إِسْحَاقَ",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "مُجَاهِدٍ",
+            "full_name": "مجاهد بن جبر المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "أَبِي هُرَيْرَةَ",
+            "full_name": "عبد الرحمن بن صخر الدوسي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "كُلِّ يَوْمٍ نِصْفَ صَاعٍ مِنْ قَمْحٍ \"",
+            "full_name": "كُلِّ يَوْمٍ نِصْفَ صَاعٍ مِنْ قَمْحٍ \"",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "كُلِّ يَوْمٍ نِصْفَ صَاعٍ مِنْ قَمْحٍ \" is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "مَعْمَرٍ عَنْ أَبِي إِسْحَاقَ -> مُجَاهِدٍ -> أَبِي هُرَيْرَةَ -> كُلِّ يَوْمٍ نِصْفَ صَاعٍ مِنْ قَمْحٍ \""
+    ],
+    "potential_issues": [
+      {
+        "issue": "كُلِّ يَوْمٍ نِصْفَ صَاعٍ مِنْ قَمْحٍ \" is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "كُلِّ يَوْمٍ نِصْفَ صَاعٍ مِنْ قَمْحٍ \": Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting in Ramadan"
+    ],
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنْ أَبِي إِسْحَاقَ ، عَنْ مُجَاهِدٍ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : مَنْ أَدْرَكَهُ رَمَضَانُ وَهُوَ مَرِيضٌ ، ثُمَّ صَحَّ فَلَمْ يَقْضِهِ ، حَتَّى أَدْرَكَهُ رَمَضَانُ آخَرُ ، صَامَ الَّذِي أَدْرَكَ ، ثُمَّ صَامَ الأَوَّلَ ، وَأَطْعَمَ عَنْ كُلِّ يَوْمٍ نِصْفَ صَاعٍ مِنْ قَمْحٍ \" ، قَالَ مَعْمَرٌ : وَلا أَعْلَمُ كُلَّهُمْ ، إِلا يَقُولُونَ هَذَا فِي هَذَا *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6819,
+    "grade": null
+  },
+  {
+    "hadith_id": 54333,
+    "book_id": 60,
+    "english_translation": "Narrated by Abu Hurayrah: Whoever falls sick in Ramadan and then recovers but does not make it up until death, food should be given on his behalf.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "أَبِي هُرَيْرَةَ",
+            "full_name": "عبد الرحمن بن صخر الدوسي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابْنِ جُرَيْجٍ قَالَ : أَخْبَرَنِي عَطَاءٌ",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Known mudallis (category 3)"
+            ]
+          },
+          {
+            "name": "عَطَاءٌ",
+            "full_name": "عَطَاءٌ",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "أَخْبَرَنِي",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "عَطَاءٌ is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "أَبِي هُرَيْرَةَ -> ابْنِ جُرَيْجٍ قَالَ : أَخْبَرَنِي عَطَاءٌ -> عَطَاءٌ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابْنِ جُرَيْجٍ قَالَ : أَخْبَرَنِي عَطَاءٌ is known for tadlis and uses indirect term 'عَنْ'",
+        "impact": "Minor concern due to narrator's general reliability, but tadlis noted"
+      },
+      {
+        "issue": "عَطَاءٌ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "عَطَاءٌ: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting Exemption for the Sick",
+      "Making up Missed Fasts of Ramadan"
+    ],
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي عَطَاءٌ ، عَنْ أَبِي هُرَيْرَةَ ، قَالَ : إِنَّ إِنْسَانًا مَرِضَ فِي رَمَضَانَ ، ثُمَّ صَحَّ ، فَلَمْ يَقْضِهِ ، حَتَّى أَدْرَكَهُ شَهْرُ رَمَضَانَ آخَرُ ، فَلْيَصُمِ الَّذِي أَحْدَثَ ، ثُمَّ يَقْضِي الآخَرَ ، وَيُطْعِمُ مَعَ كُلِّ يَوْمٍ مِسْكِينًا \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6820,
+    "grade": null
+  },
+  {
+    "hadith_id": 54334,
+    "book_id": 60,
+    "english_translation": "Narrated by Ata: [Arabic text requires detailed translation - قَالَ : سَمِعْتُ عَطَاءُ ، يَقُولُ :  يُطْعِمُ مَكَانَ الشَّهْرِ الَّذِي مَضَى ، مِنْ أَجْلِ أَنَّهُ...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "ابْنِ جُرَيْجٍ قَالَ : سَمِعْتُ عَطَاءُ",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Known mudallis (category 3)"
+            ]
+          },
+          {
+            "name": "عَطَاءُ",
+            "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "plainChains": [
+      "ابْنِ جُرَيْجٍ قَالَ : سَمِعْتُ عَطَاءُ -> عَطَاءُ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابْنِ جُرَيْجٍ قَالَ : سَمِعْتُ عَطَاءُ is known for tadlis and uses indirect term 'عَنْ'",
+        "impact": "Minor concern due to narrator's general reliability, but tadlis noted"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Fasting in Ramadan"
+    ],
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : سَمِعْتُ عَطَاءُ ، يَقُولُ :  يُطْعِمُ مَكَانَ الشَّهْرِ الَّذِي مَضَى ، مِنْ أَجْلِ أَنَّهُ صَحَّ وَفَرَّطَ فِي قَضَائِهِ ، حَتَّى أَدْرَكَهُ شَهْرُ رَمَضَانَ \" ، قُلْتُ لِعَطَاءٍ : \" كَمْ بَلَغَكَ يُطْعِمُ ؟ قَالَ : مُدٌّ ، زَعَمُوا \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6821,
+    "grade": null
+  },
+  {
+    "hadith_id": 54335,
+    "book_id": 60,
+    "english_translation": "Narrated by Ibn Umar: [Arabic text requires detailed translation - عَنْ أَيُّوبَ ، عَنْ نَافِعٍ ، عَنِ ابْنِ عُمَرَ ، قَالَ : مَنْ تَتَابَعُهِ رَمَضَانُ آخَرُ وَهُوَ م...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "مَعْمَرٍ عَنْ أَيُّوبَ",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "نَافِعٍ",
+            "full_name": "نافع مولى ابن عمر المدني",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابْنِ عُمَرَ",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "plainChains": [
+      "مَعْمَرٍ عَنْ أَيُّوبَ -> نَافِعٍ -> ابْنِ عُمَرَ"
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Fasting in Ramadan"
+    ],
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنْ أَيُّوبَ ، عَنْ نَافِعٍ ، عَنِ ابْنِ عُمَرَ ، قَالَ : مَنْ تَتَابَعُهِ رَمَضَانُ آخَرُ وَهُوَ مَرِيضٌ ، لَمْ يَصِحَّ بَيْنَهُمَا ، قَضَى الآخِرَ مِنْهُمَا بِصِيَامٍ ، وَقَضَى الأَوَّلَ مِنْهُمَا بِإِطْعَامِ مُدٍّ مِنْ حِنْطَةٍ ، وَلَمْ يَصُمْ \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6822,
+    "grade": null
+  },
+  {
+    "hadith_id": 54336,
+    "book_id": 60,
+    "english_translation": "Narrated by Ibn Umar: Whoever falls sick in Ramadan and then recovers but does not make it up until death, food should be given on his behalf.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "يَحْيَى بْنِ سَعِيدٍ",
+            "full_name": "يحيى بن سعيد بن قيس الأنصاري المدني",
+            "grade": "Thiqah Thabt",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "كُلِّ يَوْمٍ مِنْ رَمَضَانَ الأَوَّلِ مُدَّا \"",
+            "full_name": "كُلِّ يَوْمٍ مِنْ رَمَضَانَ الأَوَّلِ مُدَّا \"",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          },
+          {
+            "name": "عُمَرَ بْنِ الْخَطَّابِ *",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابْنِ جُرَيْجٍ عَنْ يَحْيَى بْنِ سَعِيدٍ",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Known mudallis (category 3)"
+            ]
+          },
+          {
+            "name": "ابْنِ عُمَرَ",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "كُلِّ يَوْمٍ مِنْ رَمَضَانَ الأَوَّلِ مُدَّا \" is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "يَحْيَى بْنِ سَعِيدٍ -> كُلِّ يَوْمٍ مِنْ رَمَضَانَ الأَوَّلِ مُدَّا \" -> عُمَرَ بْنِ الْخَطَّابِ * -> ابْنِ جُرَيْجٍ عَنْ يَحْيَى بْنِ سَعِيدٍ -> ابْنِ عُمَرَ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "كُلِّ يَوْمٍ مِنْ رَمَضَانَ الأَوَّلِ مُدَّا \" is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "كُلِّ يَوْمٍ مِنْ رَمَضَانَ الأَوَّلِ مُدَّا \": Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      },
+      {
+        "issue": "ابْنِ جُرَيْجٍ عَنْ يَحْيَى بْنِ سَعِيدٍ is known for tadlis and uses indirect term 'عَنْ'",
+        "impact": "Minor concern due to narrator's general reliability, but tadlis noted"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting Exemption for the Sick",
+      "Making up Missed Fasts of Ramadan"
+    ],
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ يَحْيَى بْنِ سَعِيدٍ ، عَنِ ابْنِ عُمَرَ ، قَالَ : مَنْ مَرِضَ فِي رَمَضَانَ فَأَدْرَكَهُ رَمَضَانُ آخَرُ مَرِيضًا ، فَلَمْ يَصُمْ هَذَا الآخَرَ ، لَمْ يَصُمِ الأَوَّلُ ، وَيُطْعِمُ عَنْ كُلِّ يَوْمٍ مِنْ رَمَضَانَ الأَوَّلِ مُدَّا \" ، قَالَ : وَبَلَغَنِي ذَلِكَ عَنْ عُمَرَ بْنِ الْخَطَّابِ *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6823,
+    "grade": null
+  },
+  {
+    "hadith_id": 54337,
+    "book_id": 60,
+    "english_translation": "Narrated by Unknown: Regarding a man who was sick in Ramadan and another Ramadan came upon him while he was still sick - if he did not recover between them, he should make up the later one with fasting and make up the first one with feeding (the poor), and he should not fast (for the first one).",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "مَعْمَرٍ عَنْ قَتَادَةَ",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "plainChains": [
+      "مَعْمَرٍ عَنْ قَتَادَةَ"
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Qada (Making up) Missed Fasts"
+    ],
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنْ قَتَادَةَ ، قَالَ : مَنْ تَتَابَعَهُ رَمَضَانَانِ وَهُوَ مَرِيضٌ ، لَمْ يَصِحَّ بَيْنَهُمَا ، قَضَى هَذَا الآخِرَ مِنْهُمَا بِصِيَامٍ ، وَقَضَى الأَوَّلَ مِنْهُمَا بِطَعَامٍ ، وَلَمْ يَصُمْ \" * E1316",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6824,
+    "grade": null
+  },
+  {
+    "hadith_id": 54338,
+    "book_id": 60,
+    "english_translation": "Narrated by Tawus: [Arabic text requires detailed translation - عَنِ ابْنِ طَاوُسٍ ، عَنْ أَبِيهِ ، قَالَ : يَقْضِيهِمَا جَمِيعًا بِصِيَامٍ \" ، عَنْ مَعْمَرٍ ، وَسَ...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "مَعْمَرٍ عَنِ ابْنِ طَاوُسٍ",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "أَبِيهِ",
+            "full_name": "Variable - depends on context",
+            "grade": "Thiqah",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "مَعْمَرٍ",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابْنِ طَاوُسٍ",
+            "full_name": "عبد الله بن طاوس بن كيسان اليماني",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "حَمَّادًا",
+            "full_name": "حَمَّادًا",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "حَمَّادًا is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "مَعْمَرٍ عَنِ ابْنِ طَاوُسٍ -> أَبِيهِ -> مَعْمَرٍ -> ابْنِ طَاوُسٍ -> حَمَّادًا"
+    ],
+    "potential_issues": [
+      {
+        "issue": "حَمَّادًا is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "حَمَّادًا: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting in Ramadan"
+    ],
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنِ ابْنِ طَاوُسٍ ، عَنْ أَبِيهِ ، قَالَ : يَقْضِيهِمَا جَمِيعًا بِصِيَامٍ \" ، عَنْ مَعْمَرٍ ، وَسَمِعْتُ حَمَّادًا ، يَقُولُ مِثْلَ قَوْلِ طَاوُسٍ *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6825,
+    "grade": null
+  },
+  {
+    "hadith_id": 54339,
+    "book_id": 60,
+    "english_translation": "Narrated by Unknown: Regarding a man who was sick in Ramadan and another Ramadan came upon him while he was still sick - if he did not recover between them, he should make up the later one with fasting and make up the first one with feeding (the poor), and he should not fast (for the first one).",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "مَعْمَرٍ عَنْ جَعْفَرِ بْنِ بُرْقَانَ",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "مَيْمُونِ بْنِ مِهْرَانَ",
+            "full_name": "ميمون بن مهران الجزري الرقي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "plainChains": [
+      "مَعْمَرٍ عَنْ جَعْفَرِ بْنِ بُرْقَانَ -> مَيْمُونِ بْنِ مِهْرَانَ"
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Fasting in Ramadan"
+    ],
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنْ جَعْفَرِ بْنِ بُرْقَانَ ، عَنْ مَيْمُونِ بْنِ مِهْرَانَ ، قَالَ : كُنْتُ جَالِسًا عِنْدَ ابْنِ عَبَّاسٍ فَجَاءَهُ رَجُلٌ ، فَقَالَ تَتَابَعَ عَلَيَّ رَمَضَانَانِ ، قَالَ ابْنُ عَبَّاسٍ : تَاللَّهِ أَكَانَ هَذَا ؟ قَالَ : نَعَمْ ، قَالَ : لا ، قَالَ : فَذَهَبَ ، ثُمَّ جَاءَ آخَرُ ، فَقَالَ : إِنَّ رَجُلا تَتَابَعَ عَلَيْهِ رَمَضَانَانَ ، قَالَ : تَاللَّهِ أَكَانَ هَذَا ؟ قَالَ : نَعَمْ ، قَالَ ابْنُ عَبَّاسٍ : إِحْدَى مِنْ سَبْعٍ ، يَصُومُ شَهْرَيْنِ ، وَيُطْعِمُ سِتِّينَ مِسْكِينًا \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6826,
+    "grade": null
+  },
+  {
+    "hadith_id": 54340,
+    "book_id": 60,
+    "english_translation": "Narrated by Awf ibn Malik that Umar, the Commander of the Faithful, said: 'Whoever fasts one day outside of Ramadan and feeds a poor person, combining them in his hands, then they both equal one day of Ramadan.'",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "شَيْخٍ مِنْ أَهْلِ الْجَزِيرَةِ قَالَ : سَمِعْتُ ثَابِتَ بْنَ الْحَجَّاجِ",
+            "full_name": "Unknown Sheikh from Jazira",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Unknown narrator (Majhul al-'Ayn)"
+            ]
+          },
+          {
+            "name": "ثَابِتَ بْنَ الْحَجَّاجِ",
+            "full_name": "ثَابِتَ بْنَ الْحَجَّاجِ",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          },
+          {
+            "name": "عُمَرَ أَمِيرَ الْمُؤْمِنِينَ",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "شَيْخٍ مِنْ أَهْلِ الْجَزِيرَةِ قَالَ : سَمِعْتُ ثَابِتَ بْنَ الْحَجَّاجِ is unknown (Majhul)",
+          "ثَابِتَ بْنَ الْحَجَّاجِ is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "شَيْخٍ مِنْ أَهْلِ الْجَزِيرَةِ قَالَ : سَمِعْتُ ثَابِتَ بْنَ الْحَجَّاجِ -> ثَابِتَ بْنَ الْحَجَّاجِ -> عُمَرَ أَمِيرَ الْمُؤْمِنِينَ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "شَيْخٍ مِنْ أَهْلِ الْجَزِيرَةِ قَالَ : سَمِعْتُ ثَابِتَ بْنَ الْحَجَّاجِ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "شَيْخٍ مِنْ أَهْلِ الْجَزِيرَةِ قَالَ : سَمِعْتُ ثَابِتَ بْنَ الْحَجَّاجِ: Unknown narrator (Majhul al-'Ayn)",
+        "impact": "See narrator-specific concern"
+      },
+      {
+        "issue": "ثَابِتَ بْنَ الْحَجَّاجِ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "ثَابِتَ بْنَ الْحَجَّاجِ: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fidyah (Expiation by Feeding)"
+    ],
+    "arabicText": "عَنْ شَيْخٍ مِنْ أَهْلِ الْجَزِيرَةِ ، قَالَ : سَمِعْتُ ثَابِتَ بْنَ الْحَجَّاجِ ، يَقُولُ : خَرَجْنَا فِي سَرِيَّةٍ فِي أَرْضِ الرُّومِ ، فَبَيْنَا نَحْنُ فِي أَرْضِ الرُّومِ ، وَمَعَنَا عَوْفُ بْنُ مَالِكٍ الأَشْجَعِيِّ ، قَالَ : فَخَطَبَنَا ، فَسَمِعْتُهُ يَقُولُ : سَمِعْتُ عُمَرَ أَمِيرَ الْمُؤْمِنِينَ ، يَقُولُ : مَنْ صَامَ يَوْمًا مِنْ غَيْرِ رَمَضَانَ ، وَأَطْعَمَ مِسْكِينًا ، وَجَمَعَ فِي يَدْيَهِ ، فَإِنَّهُمَا يَعْدِلانِ يَوْمًا مِنْ رَمَضَانَ \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6827,
+    "grade": null
+  },
+  {
+    "hadith_id": 54341,
+    "book_id": 60,
+    "english_translation": "Narrated by Unknown: [Arabic text requires detailed translation - عَنْ أَبِي حُصَيْنٍ ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : فِي الرَّجُلِ الْمَ...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "أَبِي حُصَيْنٍ",
+            "full_name": "عثمان بن عاصم بن حصين الأسدي الكوفي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "سَعِيدِ بْنِ جُبَيْرٍ",
+            "full_name": "سعيد بن جبير الأسدي الكوفي",
+            "grade": "Thiqah Thabt",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "حَمَّادٍ",
+            "full_name": "حَمَّادٍ",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          },
+          {
+            "name": "إِبْرَاهِيمَ",
+            "full_name": "إبراهيم بن يزيد النخعي الكوفي",
+            "grade": "Thiqah",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الثَّوْرِيِّ عَنْ أَبِي حُصَيْنٍ",
+            "full_name": "عثمان بن عاصم بن حصين الأسدي الكوفي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابْنِ عَبَّاسٍ",
+            "full_name": "ابْنِ عَبَّاسٍ",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          },
+          {
+            "name": "الثَّوْرِيِّ",
+            "full_name": "الثَّوْرِيِّ",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "حَمَّادٍ is unknown (Majhul)",
+          "ابْنِ عَبَّاسٍ is unknown (Majhul)",
+          "الثَّوْرِيِّ is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "أَبِي حُصَيْنٍ -> سَعِيدِ بْنِ جُبَيْرٍ -> حَمَّادٍ -> إِبْرَاهِيمَ -> الثَّوْرِيِّ عَنْ أَبِي حُصَيْنٍ -> ابْنِ عَبَّاسٍ -> الثَّوْرِيِّ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "حَمَّادٍ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "حَمَّادٍ: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      },
+      {
+        "issue": "ابْنِ عَبَّاسٍ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "ابْنِ عَبَّاسٍ: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      },
+      {
+        "issue": "الثَّوْرِيِّ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "الثَّوْرِيِّ: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting in Ramadan"
+    ],
+    "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ أَبِي حُصَيْنٍ ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : فِي الرَّجُلِ الْمَرِيضِ فِي رَمَضَانَ فَلا يَزَالُ مَرِيضًا حَتَّى يَمُوتَ ، قَالَ : لَيْسَ عَلَيْهِ شَيْءٌ ، فَإِنْ صَحَّ فَلَمْ يَصُمْ حَتَّى مَاتَ ، أُطْعِمَ عَنْهُ كُلَّ يَوْمٍ نِصْفُ صَاعٍ مِنْ حِنْطَةٍ \" ، عَنِ الثَّوْرِيِّ ، عَنْ حَمَّادٍ ، عَنْ إِبْرَاهِيمَ ، مِثْلَ قَوْلِ ابْنِ عَبَّاسٍ *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6828,
+    "grade": null
+  },
+  {
+    "hadith_id": 54342,
+    "book_id": 60,
+    "english_translation": "Narrated by Al-Hasan al-Basri: [Arabic text requires detailed translation - عَنِ الْحَسَنِ ، قَالَ : إِذَا مَرِضَ الرَّجُلُ فِي رَمَضَانَ ، فَلَمْ يَزَلْ مَرِيضًا ، حَتَّى يَمُ...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "هِشَامٍ عَنِ الْحَسَنِ",
+            "full_name": "هشام بن حسان الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "كُلِّ يَوْمٍ مَكُّوكٌ مِنْ بُرٍّ وَمَكُّوكٌ مِنْ تَمْرٍ \" * E1317",
+            "full_name": "كُلِّ يَوْمٍ مَكُّوكٌ مِنْ بُرٍّ وَمَكُّوكٌ مِنْ تَمْرٍ \" * E1317",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          },
+          {
+            "name": "الْحَسَنِ",
+            "full_name": "الحسن بن أبي الحسن يسار البصري",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Known for mursal reports, questionable direct hearing from some companions"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "كُلِّ يَوْمٍ مَكُّوكٌ مِنْ بُرٍّ وَمَكُّوكٌ مِنْ تَمْرٍ \" * E1317 is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "هِشَامٍ عَنِ الْحَسَنِ -> كُلِّ يَوْمٍ مَكُّوكٌ مِنْ بُرٍّ وَمَكُّوكٌ مِنْ تَمْرٍ \" * E1317 -> الْحَسَنِ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "كُلِّ يَوْمٍ مَكُّوكٌ مِنْ بُرٍّ وَمَكُّوكٌ مِنْ تَمْرٍ \" * E1317 is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "كُلِّ يَوْمٍ مَكُّوكٌ مِنْ بُرٍّ وَمَكُّوكٌ مِنْ تَمْرٍ \" * E1317: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      },
+      {
+        "issue": "الْحَسَنِ: Known for mursal reports, questionable direct hearing from some companions",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting Exemption for the Sick",
+      "Making up Missed Fasts of Ramadan"
+    ],
+    "arabicText": "عَنْ هِشَامٍ ، عَنِ الْحَسَنِ ، قَالَ : إِذَا مَرِضَ الرَّجُلُ فِي رَمَضَانَ ، فَلَمْ يَزَلْ مَرِيضًا ، حَتَّى يَمُوتَ ، فَلَيْسَ عَلَيْهِ شَيْءٌ ، فَإِنْ صَحَّ فَلَمْ يَقْضِهِ حَتَّى مَاتَ ، أُطْعِمَ عَنْهُ عَنْ كُلِّ يَوْمٍ مَكُّوكٌ مِنْ بُرٍّ وَمَكُّوكٌ مِنْ تَمْرٍ \" * E1317",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6829,
+    "grade": null
+  },
+  {
+    "hadith_id": 54343,
+    "book_id": 60,
+    "english_translation": "Narrated by Ata: [Arabic text requires detailed translation - عَنْ عَطَاءٍ ، قَالَ : إِذَا مَرِضَ الرَّجُلُ فِي رَمَضَانَ فَلَمْ يَصِحَّ حَتَّى مَاتَ ، فَلَيْسَ ع...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "عَطَاءٍ",
+            "full_name": "عطاء بن أبي رباح أسلم القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Known mudallis (category 3)"
+            ]
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "plainChains": [
+      "عَطَاءٍ -> ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابْنِ جُرَيْجٍ عَنْ عَطَاءٍ is known for tadlis and uses indirect term 'عَنْ'",
+        "impact": "Minor concern due to narrator's general reliability, but tadlis noted"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Fasting Exemption for the Sick",
+      "Making up Missed Fasts of Ramadan"
+    ],
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : إِذَا مَرِضَ الرَّجُلُ فِي رَمَضَانَ فَلَمْ يَصِحَّ حَتَّى مَاتَ ، فَلَيْسَ عَلَيْهِ شَيْءٌ غُلِبَ عَلَى أَمْرِهِ وَقَضَائِهِ \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6830,
+    "grade": null
+  },
+  {
+    "hadith_id": 54344,
+    "book_id": 60,
+    "english_translation": "Narrated by Unknown: [Arabic text requires detailed translation - عَنِ الزُّهْرِيِّ ، قَالَ : إِذَا مَرِضَ الرَّجُلُ فِي رَمَضَانَ ، فَلَمْ يَزَلْ مَرِيضًا حَتَّى يَم...]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "مَعْمَرٍ عَنِ الزُّهْرِيِّ",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الزُّهْرِيِّ",
+            "full_name": "الزُّهْرِيِّ",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "الزُّهْرِيِّ is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "مَعْمَرٍ عَنِ الزُّهْرِيِّ -> الزُّهْرِيِّ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "الزُّهْرِيِّ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "الزُّهْرِيِّ: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting Exemption for the Sick",
+      "Making up Missed Fasts of Ramadan",
+      "Fidyah (Expiation by Feeding)"
+    ],
+    "arabicText": "عَنْ مَعْمَرٍ ، عَنِ الزُّهْرِيِّ ، قَالَ : إِذَا مَرِضَ الرَّجُلُ فِي رَمَضَانَ ، فَلَمْ يَزَلْ مَرِيضًا حَتَّى يَمُوتَ ، فَلَيْسَ عَلَيْهِ شَيْءٌ ، فَإِنْ صَحَّ فَلَمْ يَقْضِهِ ، أَطْعَمَ عَنْهُ كُلَّ يَوْمٍ مِسْكِينًا مُدًّا مِنَ بُرٍّ \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6831,
+    "grade": null
+  },
+  {
+    "hadith_id": 54345,
+    "book_id": 60,
+    "english_translation": "Narrated by Unknown: Whoever falls sick in Ramadan and then recovers but does not make it up until death, food should be given on his behalf.",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "عُبَادَةَ بْنِ نُسِي",
+            "full_name": "عبادة بن نسي الكندي الكوفي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الأَسْلَمِيِّ عَنِ الْحَجَّاجِ بْنِ أَرْطَاةٍ",
+            "full_name": "الأَسْلَمِيِّ عَنِ الْحَجَّاجِ بْنِ أَرْطَاةٍ",
+            "grade": "Majhul",
+            "generation": "Later Narrator",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Narrator not found in available sources"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "الأَسْلَمِيِّ عَنِ الْحَجَّاجِ بْنِ أَرْطَاةٍ is unknown (Majhul)"
+        ]
+      }
+    ],
+    "plainChains": [
+      "عُبَادَةَ بْنِ نُسِي -> الأَسْلَمِيِّ عَنِ الْحَجَّاجِ بْنِ أَرْطَاةٍ"
+    ],
+    "potential_issues": [
+      {
+        "issue": "الأَسْلَمِيِّ عَنِ الْحَجَّاجِ بْنِ أَرْطَاةٍ is Majhul (unknown)",
+        "impact": "Unknown narrator affects chain reliability"
+      },
+      {
+        "issue": "الأَسْلَمِيِّ عَنِ الْحَجَّاجِ بْنِ أَرْطَاةٍ: Narrator not found in available sources",
+        "impact": "See narrator-specific concern"
+      }
+    ],
+    "IISGrade": "Questionable But Might Be Acceptable",
+    "Topics": [
+      "Fasting Exemption for the Sick",
+      "Making up Missed Fasts of Ramadan"
+    ],
+    "arabicText": "عَنِ الأَسْلَمِيِّ ، عَنِ الْحَجَّاجِ بْنِ أَرْطَاةٍ ، عَنْ عُبَادَةَ بْنِ نُسِي ، قَالَ : قَالَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : مَنْ مَرِضَ فِي رَمَضَانَ فَلَمْ يَزَلْ مَرِيضًا حَتَّى مَاتَ لَمْ يُطْعَمْ عَنْهُ ، وَإِنْ صَحَّ فَلَمْ يَقْضِهِ حَتَّى مَاتَ أُطْعِمَ عَنْهُ \" *",
+    "collection": "كتاب رقم 60",
+    "reference_number": 6832,
+    "grade": null
+  }
+]

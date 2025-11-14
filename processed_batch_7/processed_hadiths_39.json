@@ -1,0 +1,661 @@
+{
+  "batch_number": 7,
+  "file_number": 39,
+  "record_count": 13,
+  "hadiths": [
+    {
+      "hadith_id": 54571,
+      "book_id": 60,
+      "hadith_number": 7058,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "حيان",
+              "full_name": "حيان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "شفي بن ماتع",
+              "full_name": "شفي بن ماتع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "عمر بن ربيعة",
+              "full_name": "عمر بن ربيعة",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "حيان is unknown (Majhul)",
+            "شفي بن ماتع is unknown (Majhul)",
+            "عمر بن ربيعة is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "حيان -> شفي بن ماتع -> عمر بن ربيعة"
+      ],
+      "potential_issues": [
+        {
+          "issue": "حيان is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "شفي بن ماتع is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "عمر بن ربيعة is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ عُيَيْنَةَ L3443 /94 ، عَنِ /26 ابْنِ أَبِي نَجِيحٍ L4653 /26 ، /27 عَنْ /26 مُجَاهِدٍ L6715 /26 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 نَهَى امْرَأَةً أَنْ تَصُومَ يَوْمًا مِنْ غَيْرِ رَمَضَانَ إِلا بِإِذْنِ زَوْجِهَا \" /27 *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7058
+    },
+    {
+      "hadith_id": 54573,
+      "book_id": 60,
+      "hadith_number": 7060,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "full_name": "حفص بن عمر بن عبد الرحمن بن عوف",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "محمد بن عبد الرحمن بن عمرو بن الجموح",
+              "full_name": "محمد بن عبد الرحمن بن عمرو بن الجموح",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع",
+              "full_name": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "داود بن المحبر بن قحذم بن سليمان بن ذكوان",
+              "full_name": "داود بن المحبر بن قحذم بن سليمان بن ذكوان",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "بلال بن بقطر",
+              "full_name": "بلال بن بقطر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "محمد بن بكار بن الريان is unknown (Majhul)",
+            "قيس بن الربيع is unknown (Majhul)",
+            "حفص بن عمر بن عبد الرحمن بن عوف is unknown (Majhul)",
+            "سليمان بن أرقم is unknown (Majhul)",
+            "محمد بن عبد الرحمن بن عمرو بن الجموح is unknown (Majhul)",
+            "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع is unknown (Majhul)",
+            "داود بن المحبر بن قحذم بن سليمان بن ذكوان is unknown (Majhul)",
+            "بلال بن بقطر is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> قيس بن الربيع -> حفص بن عمر بن عبد الرحمن بن عوف -> سليمان بن أرقم -> محمد بن عبد الرحمن بن عمرو بن الجموح -> حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع -> داود بن المحبر بن قحذم بن سليمان بن ذكوان -> بلال بن بقطر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "محمد بن بكار بن الريان is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "قيس بن الربيع is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "حفص بن عمر بن عبد الرحمن بن عوف is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "سليمان بن أرقم is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "محمد بن عبد الرحمن بن عمرو بن الجموح is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "داود بن المحبر بن قحذم بن سليمان بن ذكوان is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "بلال بن بقطر is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "$7676  7678 /5 عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنِ /26 ابْنِ الْمُسَيِّبِ L3299 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 كُلُّ عَمَلِ ابْنِ آدَمَ لَهُ ، إِلا الصِّيَامَ ، فَإِنَّ الصِّيَامَ لِي وَأَنَا أَجْزِي بِهِ ، وَلَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ \" /27 * \r\n$7677  7679 /2 عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنْ /26 هَمَّامِ بْنِ مُنَبَّهٍ L8095 /26 ، أَنَّهُ /27 سَمِعَ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ /20 لَخُلُوفِ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنِ رِيحِ الْمِسْكِ ، يَتْرُكُ شَهْوَتَهُ ، وَطَعَامَهُ ، وَشَرَابَهُ ، مِنْ جَرَّايَ فَالصِّيَامُ لِي ، وَأَنَا أَجْزِي بِهِ \" /27 * \r\n$E1365 \r\n$7678  7680 /5 عَنِ /94 الثَّوْرِيِّ L3436 /94 ، عَنِ /26 الأَعْمَشِ L3629 /26 ، عَنْ /26 ذَكْوَانَ L2840 /26 ، /27 عَنْ    @ 4 : 307 @   /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 كُلُّ حَسَنَةٍ يَعْمَلُهَا ابْنُ آدَمَ تُضَاعَفُ عَشْرًا إِلَى سَبْعِ مِائَةِ ضِعْفٍ ، غَيْرَ الصِّيَامِ ، هُوَ لِي وَأَنَا أَجْزِي بِهِ ، يَدَعُ شَهْوَتَهُ مِنْ أَجْلِي ، وَيَدَعُ طَعَامَهُ مِنْ أَجْلِي \" /27 * \r\n$7679  7681 /5",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7060
+    },
+    {
+      "hadith_id": 54574,
+      "book_id": 60,
+      "hadith_number": 7061,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "/34 /27 /20 فَرْحَتَانِ لِلصَّائِمِ : فَرْحَةٌ عِنْدَ فِطْرِهِ ، وَفَرْحَةٌ حِينَ يَلْقَى رَبَّهُ \" /27 * \r\n$7680  7682 /2 /34 /27 /20 وَخُلُوفُ فَمِهِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ ، وَالصِّيَامُ لِي وَأَنَا أَجْزِي بِهِ \" /27 * \r\n$7681  7683 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7061
+    },
+    {
+      "hadith_id": 54575,
+      "book_id": 60,
+      "hadith_number": 7062,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن سليم بن أسود",
+              "full_name": "عبد الرحمن بن سليم بن أسود",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "عبد الرحمن بن سليم بن أسود is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن سليم بن أسود"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عبد الرحمن بن سليم بن أسود is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، عَنْ /26 أَبِي إِسْحَاقَ /26 ، عَنْ /26 هُبَيْرَةَ بْنِ يَرِيمَ /26 ، /27 عَنِ /93 ابْنِ مَسْعُودٍ L5079 /93 ، قَالَ : /20 الصِّيَامُ جُنَّةُ الرَّجُلِ كَجُنَّةِ أَحَدِكُمْ فِي الْبَأْسِ ، وَسَيِّدُ الأَيَّامِ يَوْمُ الْجُمُعَةِ ، وَسَيِّدُ الشُّهُورِ شَهْرُ رَمَضَانَ ، وَاعْتَبِرُوا النَّاسَ بِالأَخْدَانِ ، فَإِنَّ الرَّجُلَ لا يُخَادِنُ إِلا مَنْ رَضِيَ نَحْوَهُ أَوْ حَالَهُ \" /27 * \r\n$7682  7684 /8",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7062
+    },
+    {
+      "hadith_id": 54576,
+      "book_id": 60,
+      "hadith_number": 7063,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 هِشَامٍ /94 ، عَنْ /26 حَفْصَةَ بِنْتِ سِيرِينَ /26 ، /27 عَنْ /26 أَبِي الْعَالِيَةِ /26 ، قَالَ : /20 الصَّائِمُ فِي عِبَادَةٍ مَا لَمْ يَغْتَبْ أَحَدًا ، وَإِنْ كَانَ نَائِمًا عَلَى فِرَاشِهِ \" /27 ، فَكَانَتْ حَفْصَةُ ، تَقُولُ : \" يَا حَبَّذَا عِبَادَةٌ ، وَأَنَا نَائِمَةٌ عَلَى فِرَاشِي \" * \r\n$7683  7685 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7063
+    },
+    {
+      "hadith_id": 54577,
+      "book_id": 60,
+      "hadith_number": 7064,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "قاسم بن الحكم بن كثير بن جندب بن ربيع بن عمرو",
+              "full_name": "قاسم بن الحكم بن كثير بن جندب بن ربيع بن عمرو",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "قاسم بن الحكم بن كثير بن جندب بن ربيع بن عمرو is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "قاسم بن الحكم بن كثير بن جندب بن ربيع بن عمرو"
+      ],
+      "potential_issues": [
+        {
+          "issue": "قاسم بن الحكم بن كثير بن جندب بن ربيع بن عمرو is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "قَالَ /94 هِشَامٌ /94 : /27 وَقَالَتْ /93 حَفْصَةُ L2457 /93 : /20 الصِّيَامُ جُنَّةٌ مَا لَمْ يَخْرِقْهَا صَاحِبُهَا ، وَخَرْقُهَا الْغَيْبَةُ \" /27 * \r\n$7684  7686 /8",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7064
+    },
+    {
+      "hadith_id": 54578,
+      "book_id": 60,
+      "hadith_number": 7065,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، عَنْ /26 أَيُّوبَ /26 ، عَنِ /26 ابْنِ سِيرِينَ /26 ، /27 أَنَّ /26 كَعْبًا /26 ، قَالَ : /20 الصَّائِمُ فِي عِبَادَةٍ مَا لَمْ يَغْتَبْ \" /27 * \r\n@ 4 : 308 @ \r\n$7685  7687 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7065
+    },
+    {
+      "hadith_id": 54579,
+      "book_id": 60,
+      "hadith_number": 7066,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عبد الأعلى بن عامر",
+              "full_name": "عبد الأعلى بن عامر",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "عبد الأعلى بن عامر is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الأعلى بن عامر"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عبد الأعلى بن عامر is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 هِشَامِ بْنِ حَسَّانَ /94 ، عَنْ /26 وَاصِلٍ /26 ، عَنْ /26 لَقِيطٍ /26 ، عَنْ /26 أَبِي بُرْدَةَ /26 ، /27 عَنْ /93 أَبِي مُوسَى الأَشْعَرِيِّ L5021 /93 ، قَالَ : غَزَا النَّاسُ بَرًّا وَبَحْرًا ، فَكُنْتُ فِيمَنْ غَزَا الْبَحْرَ ، فَبَيْنَا نَحْنُ نَسِيرُ فِي الْبَحْرِ سَمِعْنَا صَوْتًا ، يَقُولُ : يَا أَهْلَ السَّفِينَةِ ! قِفُوا أُخْبِرْكُمْ ، فَنَظَرْنَا يَمِينًا وَشِمَالا ، فَلَمْ نَرَ شَيْئًا إِلا لُجَّةَ الْبَحْرِ ، ثُمَّ نَادَى الثَّانِيَةَ ، حَتَّى نَادَى سَبْعَ مَرَّاتٍ ، يَقُولُ كَذَلِكَ ، قَالَ أَبُو مُوسَى : فَلَمَّا كَانَتِ السَّابِعَةُ قُمْتُ ، فَقُلْتُ : مَا تُخْبِرُنَا ؟ قَالَ : أُخْبِرُكُمْ بِقَضَاءٍ قَضَاهُ اللَّهُ تَعَالَى عَلَى نَفْسِهِ ، أَنَّ /20 مَنْ أَعْطَشَ نَفْسَهُ لِلَّهِ فِي يَوْمٍ حَارٍّ يَرْوِيهِ يَوْمَ الْقِيَامَةِ \" /27 ، قَالَ أَبُو بُرْدَةَ : فَكَانَ أَبُو مُوسَى : لا يَمُرُّ عَلَيْهِ يَوْمٌ حَارٌّ إِلا صَامَهُ ، فَجَعَلَ يَتَلَوَّى فِيهِ مِنَ الْعَطَشِ * \r\n\u001dE1366 \r\n$7686  7688 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7066
+    },
+    {
+      "hadith_id": 54580,
+      "book_id": 60,
+      "hadith_number": 7067,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن سليم بن أسود",
+              "full_name": "عبد الرحمن بن سليم بن أسود",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "عبد الرحمن بن سليم بن أسود is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن سليم بن أسود"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عبد الرحمن بن سليم بن أسود is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، عَنْ /26 أَبِي إِسْحَاقَ /26 ، عَنْ /26 أَبِي الأَحْوَصِ /26 ، /27 عَنِ /93 ابْنِ مَسْعُودٍ L5079 /93 ، قَالَ : /20 لِلصَّائِمِ فَرْحَتَانِ : فَرْحَةٌ عِنْدَ فِطْرِهِ ، وَفَرْحَةٌ حِينَ يَأْتِي رَبَّهُ ، وَخُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنْ رِيحِ الْمِسْكِ \" /27 * \r\n$7687  7689 /2",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7067
+    },
+    {
+      "hadith_id": 54581,
+      "book_id": 60,
+      "hadith_number": 7068,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "محمد بن موسى بن أعين",
+              "full_name": "محمد بن موسى بن أعين",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "عيسى بن معقل بن أبي معقل",
+              "full_name": "عيسى بن معقل بن أبي معقل",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "زياد بن سعد بن عبد الرحمن",
+              "full_name": "زياد بن سعد بن عبد الرحمن",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            },
+            {
+              "name": "إسحاق بن الفضل بن عبد الرحمن",
+              "full_name": "إسحاق بن الفضل بن عبد الرحمن",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "محمد بن موسى بن أعين is unknown (Majhul)",
+            "عيسى بن معقل بن أبي معقل is unknown (Majhul)",
+            "زياد بن سعد بن عبد الرحمن is unknown (Majhul)",
+            "إسحاق بن الفضل بن عبد الرحمن is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن موسى بن أعين -> عيسى بن معقل بن أبي معقل -> زياد بن سعد بن عبد الرحمن -> إسحاق بن الفضل بن عبد الرحمن"
+      ],
+      "potential_issues": [
+        {
+          "issue": "محمد بن موسى بن أعين is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "عيسى بن معقل بن أبي معقل is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "زياد بن سعد بن عبد الرحمن is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        },
+        {
+          "issue": "إسحاق بن الفضل بن عبد الرحمن is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Reward for Providing Iftar"
+      ],
+      "arabicText": "عَنْ /94 هِشَامِ بْنِ حَسَّانَ L8042 /94 ، عَنْ /26 مُحَمَّدِ بْنِ أَبِي يَعْقُوبَ L7094 /26 ، /27 عَنْ /93 أَبِي أُمَامَةَ L3929 /93 ، قَالَ : بَعَثَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَعْثًا ، فَخَرَجْتُ    @ 4 : 309 @   فِيهِمْ ، فَقُلْتُ : يَا رَسُولَ اللَّهِ ! ادْعُ اللَّهَ أَنْ يَرْزُقَنِيَ الشَّهَادَةَ ، قَالَ : اللَّهُمَّ سَلِّمْهُمْ وَغَنِّمْهُمْ ، قَالَ : فَسَلِمْنَا ، وَغَنِمْنَا ، قَالَ : ثُمَّ بَعَثَ جَيْشًا ، فَخَرَجْتُ فِيهِمْ ، فَقُلْتُ : يَا رَسُولَ اللَّهِ ! ادْعُ اللَّهَ أَنْ يَرْزُقَنِيَ الشَّهَادَةَ ، فَقَالَ : اللَّهُمَّ سَلِّمْهُمْ وَغَنِّمْهُمْ ، ثُمَّ الثَّالِثَةُ مِثْلُ ذَلِكَ ، فَقُلْتُ : يَا رَسُولَ اللَّهِ ! أَتَيْتُكَ أَسْأَلُكُ ثَلاثَ مَرَّاتٍ أَنْ تَدْعُوَ لِي بِالشَّهَادَةِ ، فَقُلْتَ : اللَّهُمَّ سَلِّمْهُمْ وَغَنِّمْهُمْ ، فَسَلِمْنَا وَغَنِمْنَا يَا رَسُولَ اللَّهِ ! فَأْمُرْنِي بِعَمَلٍ ، قَالَ : /20 عَلَيْكَ بِالصَّوْمِ ، فَإِنَّهُ لا مِثْلَ لَهُ ، وَلا عِدْلَ \" /27 ، قَالَ أَبُو أُمَامَةَ : فَرَزَقَ اللَّهُ مِنْ ذَلِكَ خَيْرًا ، وَذَكَرَهُ مَعْمَرٌ ، عَنْ أَبِي أُمَامَةَ * \r\n$7688  7690 /3 /141 عَنْ /94 هِشَامٍ /94 ، عَنِ /26 ابْنِ سِيرِينَ /26 ، قَالَ : /27 خَرَجَتْ /93 أُمُّ أَيْمَنَ L1837 /93 /20 مُهَاجِرَةً إِلَى اللَّهِ وَإِلَى رَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهِيَ صَائِمَةٌ ، لَيْسَ مَعَهَا زَادٌ وَلا حَمُولَةٌ وَلا سِقَاءٌ ، فِي شِدَّةِ حَرِّ تِهَامَةَ ، وَقَدْ كَادَتْ تَمُوتُ مِنَ الْجُوعِ وَالْعَطَشِ ، حَتَّى إِذَا كَانَ الْحِينُ الَّذِي فِيهِ يُفْطِرُ الصَّائِمُ ، سَمِعَتْ حَفِيفًا عَلَى رَأْسِهَا ، فَرَفَعَتْ رَأْسَهَا ، فَإِذَا دَلْوٌ مُعَلَّقٌ بِرِشَاءٍ أَبْيَضَ ، قَالَتْ : \" فَأَخَذْتُهُ بِيَدَيَّ ، فَشَرِبْتُ مِنْهُ حَتَّى رُوِيتُ ، فَمَا عَطِشْتُ بَعْدُ ، قَالَ : فَكَانَتْ تَصُومُ وَتَطُوفُ لِكَيْ تَعْطَشَ فِي صَوْمِهَا ، فَمَا قَدَرَتْ عَلَى أَنْ تَعْطَشَ حَتَّى مَاتَتْ \" /27 * \r\n\u0012E1367 @ 4 : 310 @ \r\n$7689  7691 /8",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7068
+    },
+    {
+      "hadith_id": 54582,
+      "book_id": 60,
+      "hadith_number": 7069,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن سليم بن أسود",
+              "full_name": "عبد الرحمن بن سليم بن أسود",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "عبد الرحمن بن سليم بن أسود is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن سليم بن أسود"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عبد الرحمن بن سليم بن أسود is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، عَنْ /26 أَيُّوبَ /26 ، /27 عَنِ /26 ابْنِ سِيرِينَ /26 ، قَالَ : /20 ثَلاثٌ مِنْ أَخْلاقِ النُّبُوَّةِ ، وَهِيَ نَافِعَةٌ ، أَوْ قَالَ : صَالِحَةٌ مِنَ الْبَلْغَمِ ، : الصِّيَامُ ، وَالسِّوَاكُ ، وَالصَّلاةُ مِنْ آخِرِ اللَّيْلِ ، يَعْنِي قِرَاءَةَ الْقُرْآنِ \" /27 * \r\n$7690  7692 /3 /141 عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 عَبْدِ الْكَرِيمِ الْجَزَرِيِّ /26 ، عَنْ /26 أَبِي عُبَيْدَةَ /26 ، عَنْ /26 أُمِّهِ /26 ، قَالَتْ : /27 /20 \" مَا رَأَيْتُ /93 عَبْدَ اللَّهِ بْنَ مَسْعُودٍ L5079 /93 صَائِمًا قَطُّ غَيْرَ يَوْمَيْنِ ، إِلا رَمَضَانَ ، قَالَتْ : لا أَدْرِي مَا كَانَ شَأْنُ ذَلِكَ الْيَوْمَيْنِ \" /27 * \r\n$7691  7693 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7069
+    },
+    {
+      "hadith_id": 54583,
+      "book_id": 60,
+      "hadith_number": 7070,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن سليم بن أسود",
+              "full_name": "عبد الرحمن بن سليم بن أسود",
+              "grade": "Majhul al-Hal",
+              "generation": "Later Narrator",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": [
+                "Unknown narrator - insufficient biographical information"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "عبد الرحمن بن سليم بن أسود is unknown (Majhul)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن سليم بن أسود"
+      ],
+      "potential_issues": [
+        {
+          "issue": "عبد الرحمن بن سليم بن أسود is unknown (Majhul)",
+          "impact": "Unknown narrator - cannot verify reliability"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 أَبِي إِسْحَاقَ /26 ، عَنْ /26 عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ /26 ، قَالَ : /27 كَانَ /93 عَبْدُ اللَّهِ L5079 /93 يُقِلُّ الصِّيَامَ ، فَقُلْنَا لَهُ : إِنَّكَ تُقِلُّ الصِّيَامَ ، قَالَ إِنِّي /20 إِذَا صُمْتُ ضَعُفْتُ عَنِ الصَّلاةِ ، وَالصَّلاةُ أَحَبُّ إِلَيَّ مِنَ الصِّيَامِ \" /27 * \r\n$7692  7694 /3",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7070
+    },
+    {
+      "hadith_id": 54584,
+      "book_id": 60,
+      "hadith_number": 7071,
+      "english_translation": "[Literal translation to be added]",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنِ /26 الأَعْمَشِ /26 ، عَنْ /26 إِبْرَاهِيمَ /26 ، عَنْ /26 عَلْقَمَةَ /26 ، قَالَ : /27 كُنَّا عِنْدَ /93 عَبْدِ اللَّهِ /93 /20 فَأُتِيَ بِشَرَابٍ ، فَقَالَ : نَاوِلْهُ الْقَوْمَ ، فَقَالُوا : نَحْنُ صِيَامٌ ، فَقَالَ : لَكِنِّي لَسْتُ صَائِمًا ، فَشَرِبَ \" ، ثُمَّ قَرَأَ : /4 يَخَافُونَ يَوْمًا تَتَقَلَّبُ فِيهِ الْقُلُوبُ وَالأَبْصَارُ سورة النور آية 37 /4 /27 * \r\n@ 4 : 311 @$E1368",
+      "collection": "كتاب رقم 60",
+      "reference_number": 7071
+    }
+  ]
+}

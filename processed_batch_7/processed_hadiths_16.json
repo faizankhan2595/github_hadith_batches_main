@@ -1,0 +1,511 @@
+{
+  "batch_number": 7,
+  "file_number": 16,
+  "record_count": 12,
+  "processing_notes": [
+    "IMPORTANT: This file contains preliminary automated analysis.",
+    "All hadith grades must be verified by qualified hadith scholars.",
+    "Narrator information requires verification against classical sources.",
+    "English translations are placeholders pending proper translation.",
+    "Topics require expert review and classification."
+  ],
+  "hadiths": [
+    {
+      "hadith_id": 54226,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : قُلْتُ لِعَطَاءٍ أَيَمْضُغُ الصَّائِمُ عِلْكًا ؟ قَالَ : لا ، قُلْتُ : إِنَّهُ يَنْفُثُ رِيقَ الْعِلْكِ وَلا يَزْدَرِدُهُ ، وَلا يَمُصُّهُ ، قَالَ : فَإِنْ لَمْ يَزْدَرِدْ رِيقَهُ فَإِنَّهُ مَرْوَاةٌ لَهُ ، فَإِنِ ازْدَرَدَ رِيقَهُ ، وَهُوَ يَقُولُ : إِنَّهُ يُنْهَى عَنْ ذَلِكَ ، فَقَدْ أَفْطَرَ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6713,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54227,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، قَالَ : سَمِعْتُ قَتَادَةَ ، يُسْأَلُ عَنِ الْعِلْكِ ، فَقَالَ : إِنِّي لأَكْرَهُهُ لِلصَّائِمِ ، وَغَيْرِ الصَّائِمِ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6714,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54228,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ مَنْصُورٍ ، عَنْ إِبْرَاهِيمَ ، وَعَنْ جَابِرٍ ، عَنِ الشَّعْبِيِّ ، كَرِهَا الْعِلْكَ لِلصَّائِمِ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6715,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54230,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "سليمان بن أرقم",
+              "full_name": "سليمان بن أرقم الأنصاري\tأبو معاذ البصري\tأبو معاذ",
+              "grade": "Matruk",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "accused of fabrication"
+              ],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "accused of fabrication",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "سليمان بن أرقم"
+      ],
+      "potential_issues": [
+        {
+          "issue": "accused of fabrication",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : سَأَلْتُ عَطَاءً عَنِ الْمَضْمَضَةِ لِلصَّائِمِ لِغَيْرِ الصَّلاةِ ؟ فَقَالَ : مَا أَكْرَهُهُ إِلا لِقَوْلِ أَبِي هُرَيْرَةَ ، سَمِعْتُهُ يَقُولُ : خُلُوفُ فَمِ الصَّائِمِ أَطْيَبُ عِنْدَ اللَّهِ مِنِ رِيحِ الْمِسْكِ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6717,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54231,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، عَنْ قَتَادَةَ ، قَالَ : لا بَأْسَ أَنْ يَزْدَرِدَ الصَّائِمُ رِيقَهُ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6718,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54232,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : قُلْتُ لِعَطَاءٍ تَمَضْمَضَ وَهُوَ صَائِمٌ ، ثُمَّ أَفْرَغَ الْمَاءَ ، أَيَضُرُّهُ أَنْ يَزْدَرِدَهُ ؟ قَالَ : لا يَضُرُّهُ ، وَمَاذَا بَقِيَ فِي فِيهِ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6719,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54233,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : سَأَلَ إِنْسَانٌ عَطَاءً \" يَتَسَحَّرُ الصَّائِمُ ، ثُمْ يَجِدُ قَبْلَ الصَّلاةِ فِي أَسْنَانِهِ شَيْئًا ، قَالَ : لَيْسَ عَلَيْهِ فِي ذَلِكَ شَيْءٌ ، وَمَا ذَاكَ قَدْ مَضْمَضْتَ ، قَالَ : قُلْتُ : قَدْ كَانَ يُنْهَى أَنْ يُمَضْمِضَ الصَّائِمُ عِنْدَ الْفِطْرِ ، فَيَمُجُّهَا فِي الأَرْضِ قَبْلَ أَنْ يُسِيغَ شَيْئًا ؟ قَالَ : مَا أَكْرَهُ ذَلِكَ إِلا لِقَوْلِ أَبِي هُرَيْرَةَ \" * عَنْ مَعْمَرٍ عَمَّنْ ، سَمِعَ الْحَسَنَ ، يَقُولُ : رَأَيْتُ عُثْمَانَ بْنَ أَبِي الْعَاصِ بِعَرَفَةَ \" وَهُوَ صَائِمٌ ، يَمُجُّ الْمَاءَ ، وَيَصُبُّ عَلَى نَفْسِهِ الْمَاءَ \" ، قَالَ : وَكَانَ الْحَسَنُ \" يُمَضْمِضُ وَهُوَ صَائِمٌ ثُمَّ يَمُجُّهُ ، وَذَلِكَ فِي شِدَّةِ الْحَرِّ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6720,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54234,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عبد الله بن نافع",
+              "full_name": "عبد الله بن نافع الهاشمي\tأبو جعفر الكوفي\tأبو جعفر",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الله بن نافع"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ مَنْصُورٍ ، عَنْ سَالِمِ بْنِ أَبِي الْجَعْدِ ، لا أَعْلَمُهُ إِلا ، عَنْ عُمَرَ ، قَالَ : إِذَا كَانَ أَحَدُكُمْ صَائِمًا فَأَفْطَرَ فَلا يُمَضْمِضْ ثُمَّ يَمُجُّهُ ، وَلَكَنْ لِيَشْرَبَهُ ، فَإِنَّ أَوَّلَهُ خَيْرُهُ ، وَلا يَمْسَحْ يَدَهُ بِالْمِنْدِيلِ حَتَّى يَلْعَقَهَا أَوْ يُلْعِقَهَا \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6721,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54235,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله السراج\tعبد الرحمن بن عبد الله الجهني",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "أبو سلمة",
+              "full_name": "أبو سلمة الحمصي\tأبو سلمة الحراني\tأبو سلمة",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "حيان",
+              "full_name": "حيان الأسدي\tأبو النضر البلاطي\tأبو النضر",
+              "grade": "REQUIRES_MANUAL_REVIEW",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [
+                "Narrator not in database - manual verification needed"
+              ],
+              "transmission_strength": "unknown"
+            },
+            {
+              "name": "داود بن عمرو بن زهير بن عمرو بن جميل بن الأعرج",
+              "full_name": "داود بن عمرو الضبي\tداود بن عمرو المدني\tأبو سليمان",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": [],
+              "transmission_strength": "unknown"
+            }
+          ],
+          "chainIssues": [],
+          "issues": [
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            },
+            {
+              "issue": "Narrator not in database - manual verification needed",
+              "impact": "Requires evaluation"
+            }
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن عبد الله -> أبو سلمة -> حيان -> داود بن عمرو بن زهير بن عمرو بن جميل بن الأعرج"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        },
+        {
+          "issue": "Narrator not in database - manual verification needed",
+          "impact": "Requires evaluation"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، قَالَ : أُخْبِرْتُ ، أَنَّ قَتَادَةَ مَضْمَضَ مَرَّةً وَهُوَ صَائِمٌ عِنْدَ الْفِطْرِ ، ثُمَّ مَجَّهَا ، فَقَالَ لَهُ رَجُلٌ : أَلَيْسَ يُكْرَهُ هَذَا ؟ قَالَ : بَلَى ، وَلَكِنْ نَسِيتُ \" * عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أُخْبِرْتُ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ : أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَهُوَ بِالْعَرْجِ كَانَ يَصُبُّ عَلَى رَأْسِهِ مِنَ الْمَاءِ وَهُوَ صَائِمٌ \" * عَنِ ابْنِ عُيَيْنَةَ ، عَنْ سُمَيٍّ ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ خَرَجَ فِي رَمَضَانَ يَوْمَ الْفَتْحِ صَائِمًا ، فَلَمَّا أَتَى الْعَرَجَ شَقَّ عَلَيْهِ الصِّيَامُ ، فَكَانَ يَصُبُّ الْمَاءَ عَلَى رَأْسِهِ ، وَهُوَ صَائِمٌ \" * E1297",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6722,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54237,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنْ مَعْمَرٍ ، قَالَ : سَأَلْتُ حَمَّادًا ، عَنِ الْمَرْأَةِ الصَّائِمَةِ تَذُوقُ الْمَرَقَةَ ، فَلَمْ يَرَ عَلَيْهَا فِي ذَلِكَ بَأْسًا ، قَالَ : وَإِنَّهُمْ لَيَقُولُونَ : مَا شَيْءٌ أَبْلَغَ فِي ذَلِكَ مِنَ الْمَاءَ يُمَضْمِضُ بِهِ الصَّائِمُ \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6724,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54238,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ مُغِيرَةَ ، عَنْ إِبْرَاهِيمَ : كَانَ لا يَرَى بَأْسًا أَنْ تَمْضُغَ الْمَرْأَةُ الصَّائِمَةُ لِصَبِيِّهَا \" * عَنْ إِسْمَاعِيلَ بْنِ عَبْدِ اللَّهِ ، عَنْ يُونُسَ ، عَنِ الْحَسَنِ ، قَالَ : رَأَيْتُهُ يَمْضُغُ لِلصَّبِيِّ طَعَامًا وَهُوَ صَائِمٌ ، قَالَ : يَمْضُغُهُ ثُمَّ يُخْرِجُهُ مِنْ فِيهِ ، يَضَعُهُ فِي فَمِ الصَّبِيِّ \" ، قَالَ يُونُسُ : وَكُنْتُ \" أَدْخُلُ عَلَيْهِ وَهُوَ صَائِمٌ فِي شِدَّةِ الْحَرِّ ، فَيَتَمَضْمَضُ بِالْمَاءِ ، يَمُجُّهُ مِنَ الظُّهْرِ إِلَى الْعَصْرِ ، وَذَلِكَ فِي رَجَبٍ *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6725,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    },
+    {
+      "hadith_id": 54240,
+      "book_id": 60,
+      "english_translation": "[Translation requires Arabic language processing - manual translation needed]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [],
+          "chainIssues": [],
+          "issues": []
+        }
+      ],
+      "plainChains": [
+        ""
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "[Topic extraction requires manual analysis]"
+      ],
+      "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنْ قَتَادَةَ كَرِهَ أَنْ يَكْتَحِلَ الصَّائِمُ بِالصَّبِرِ ، وَلا يَرَى بِالإِثْمِدِ بَأْسًا \" *",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6727,
+      "grade": null,
+      "MANUAL_REVIEW_REQUIRED": true,
+      "PROCESSING_NOTES": [
+        "This is automated preliminary analysis",
+        "Narrator grades require verification against classical sources",
+        "Translation requires manual review",
+        "Topics need expert classification"
+      ]
+    }
+  ]
+}

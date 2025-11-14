@@ -1,0 +1,249 @@
+{
+  "batch_number": 7,
+  "file_number": 10,
+  "processed_count": 14,
+  "hadiths": [
+    {
+      "hadith_id": 54136,
+      "book_id": 60,
+      "narrator_id": 4396,
+      "english_translation": "Narrated by Abu Hurayrah: By the Lord of this House (Ka'bah), whoever is reached by the morning while in a state of janabah (ritual impurity), then let him break his fast. [This was Abu Hurayrah's initial understanding which was later corrected]",
+      "chains": [{
+        "type": "marfu'",
+        "narrators": [
+          {"name": "Ibn Jurayj", "full_name": "'Abd al-Malik ibn 'Abd al-'Aziz ibn Jurayj al-Makki",
+           "grade": "Thiqah", "generation": "Fourth Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": ["Mudallis (category 3)"]},
+          {"name": "'Amr ibn Dinar", "full_name": "'Amr ibn Dinar al-Jumahi al-Makki",
+           "grade": "Thiqah Thabt", "generation": "Third Generation", "transmissionTerm": "أَخْبَرَنِي",
+           "reliabilityIssues": []},
+          {"name": "Yahya ibn Ja'dah", "full_name": "Yahya ibn Ja'dah ibn Hubayrah al-Makhzumi",
+           "grade": "Thiqah", "generation": "Second Generation", "transmissionTerm": "أَخْبَرَهُ",
+           "reliabilityIssues": []},
+          {"name": "'Abdullah ibn 'Amr al-Qari", "full_name": "'Abdullah ibn 'Amr ibn 'Abd Allah al-Qari",
+           "grade": "Maqbul", "generation": "Second Generation", "transmissionTerm": "أَنَّهُ",
+           "reliabilityIssues": ["Little known narrator"]},
+          {"name": "Abu Hurayrah", "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi",
+           "grade": "Companion", "generation": "Companion", "transmissionTerm": "سَمِعَ",
+           "reliabilityIssues": []}
+        ],
+        "chainIssues": ["Ibn Jurayj uses 'an but receives explicit transmission from next narrator", "'Abdullah al-Qari is Maqbul"]
+      }],
+      "plainChains": ["Ibn Jurayj -> 'Amr ibn Dinar -> Yahya ibn Ja'dah -> 'Abdullah al-Qari -> Abu Hurayrah -> Prophet Muhammad ﷺ"],
+      "potential_issues": [
+        {"issue": "Ibn Jurayj is mudallis (category 3) using 'an", "impact": "Mitigated by explicit transmission from 'Amr ibn Dinar"},
+        {"issue": "'Abdullah al-Qari is Maqbul - acceptable when supported", "impact": "Requires corroborative evidence"},
+        {"issue": "This narration represents Abu Hurayrah's initial misunderstanding", "impact": "Later corrected by testimony of 'Aishah and Umm Salamah"}
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": ["Abu Hurayrah's initial misunderstanding about janabah and fasting", "Scholar correction process", "Oath by the Ka'bah"],
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، قَالَ : أَخْبَرَنِي /26 عَمْرُو بْنُ دِينَارٍ /26 ، أَنَّ /26 يَحْيَى بْنَ جَعْدَةَ /26 أَخْبَرَهُ ، عَنْ /26 عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ عَبْدٍ الْقَارِيِّ /26 ، أَنَّهُ /27 سَمِعَ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : وَرَبِّ هَذَا الْبَيْتِ ، /20 مَنْ أَدْرَكَهُ الصُّبْحُ جُنُبًا    @ 4 : 181 @   فَلْيُفْطِرْ /27 ، وَلَكِنَّ مُحَمَّدًا صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ \" * \r\n$7203  7205 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6623",
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 54137,
+      "book_id": 60,
+      "narrator_id": null,
+      "english_translation": "'Ata' was asked: Should a man spend the night in state of janabah in Ramadan until morning deliberately, then fast? He said: As for Abu Hurayrah, he used to forbid that, but as for 'Aishah, she used to say there is no harm in that. When they differed before 'Ata', he said: Let him complete that day and make up another day.",
+      "chains": [{
+        "type": "mawquf",
+        "narrators": [
+          {"name": "Ibn Jurayj", "full_name": "'Abd al-Malik ibn 'Abd al-'Aziz ibn Jurayj al-Makki",
+           "grade": "Thiqah", "generation": "Fourth Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": ["Mudallis (category 3)"]},
+          {"name": "'Ata' ibn Abi Rabah", "full_name": "'Ata' ibn Abi Rabah Aslam al-Makki",
+           "grade": "Thiqah", "generation": "Third Generation", "transmissionTerm": "قُلْتُ",
+           "reliabilityIssues": []}
+        ],
+        "chainIssues": ["This is a fatwa (legal opinion) of 'Ata', not a hadith"]
+      }],
+      "plainChains": ["Ibn Jurayj -> 'Ata' ibn Abi Rabah"],
+      "potential_issues": [
+        {"issue": "This is a fatwa/opinion of the tabi'i 'Ata', not a marfu' hadith", "impact": "Represents scholarly opinion from early generation but not prophetic statement"}
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["'Ata's legal opinion on janabah and fasting", "Difference between Abu Hurayrah and 'Aishah's positions", "Early scholarly opinions"],
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، قَالَ : قُلْتُ /26 لِعَطَاءٍ /26 : /27 /20 \" أَيَبِيتُ الرَّجُلُ جُنُبًا فِي شَهْرِ رَمَضَانَ حَتَّى يُصْبِحَ يَتَعَمَّدُ ذَلِكَ ثُمَّ يَصُومُ ؟ قَالَ : أَمَّا أَبُو هُرَيْرَةَ فَكَانَ يَنْهَى عَنْ ذَلِكَ ، وَأَمَّا /93 عَائِشَةُ /93 فَكَانَتْ تَقُولُ : لَيْسَ بِذَلِكَ بَأْسٌ /27 ، فَلَمَّا اخْتَلَفَا عَلَى عَطَاءٍ ، قَالَ : يُتِمُّ يَوْمَهُ ذَلِكَ ، وَيُبْدِلُ يَوْمًا \" * \r\n$7204  7206 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6624",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54138,
+      "book_id": 60,
+      "narrator_id": 5079,
+      "english_translation": "Narrated from Ibn Mas'ud: He said: I do not mind if I have intercourse with my wife, then wake up in a state of janabah, then fast. I came to what is lawful (halal).",
+      "chains": [{
+        "type": "mawquf",
+        "narrators": [
+          {"name": "Ma'mar", "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+           "grade": "Thiqah Thabt", "generation": "Fifth Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "Ayyub", "full_name": "Ayyub ibn Abi Tamimah Kaysan al-Sakhtiyani",
+           "grade": "Thiqah Thabt", "generation": "Third Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "Ibn Sirin", "full_name": "Muhammad ibn Sirin al-Ansari al-Basri",
+           "grade": "Thiqah Thabt", "generation": "Second Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "Ibn Mas'ud", "full_name": "Abdullah ibn Mas'ud ibn Ghafil al-Hudhali",
+           "grade": "Companion", "generation": "Companion", "transmissionTerm": "أَنَّ",
+           "reliabilityIssues": []}
+        ],
+        "chainIssues": ["Uses 'anna transmission", "Mawquf - companion's opinion"]
+      }],
+      "plainChains": ["Ma'mar -> Ayyub -> Ibn Sirin -> Ibn Mas'ud"],
+      "potential_issues": [
+        {"issue": "Mawquf narration (stops at companion level)", "impact": "Represents companion's understanding, not direct prophetic statement"},
+        {"issue": "Uses 'anna which may indicate some disconnection", "impact": "Minimal impact given reliability of narrators"},
+        {"issue": "All narrators are Thiqah Thabt or higher", "impact": "Strong chain for a mawquf report"}
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["Ibn Mas'ud's opinion on fasting while in janabah", "Companion's understanding of halal relations"],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، عَنْ /26 أَيُّوبَ /26 ، عَنِ /26 ابْنِ سِيرِينَ /26 ، /27 أَنَّ /93 ابْنَ مَسْعُودٍ L5079 /93 ، قَالَ : /20 مَا أُبَالِي أَنْ أُصِيبَ امْرَأَتِي ثُمَّ أُصْبِحُ جُنُبًا ثُمَّ أَصُومُ ، أَتَيْتُ حَلالا \" /27 * \r\n$7205  7207 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6625",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54139,
+      "book_id": 60,
+      "narrator_id": null,
+      "english_translation": "Narrated: A man from the neighborhood came to me and said: I passed by my wife in the moonlight and she impressed me, so I had intercourse with her in Ramadan, then I slept until I woke up (still in janabah). I said to him: Go to Abdullah ibn Mas'ud or to Abu Hakim al-Muzani. So he went to Abdullah and asked him. He said: You were in janabah not permissible for you to pray, then you performed ghusl and prayer became permissible for you, and fasting became permissible for you, so fast.",
+      "chains": [{
+        "type": "mawquf",
+        "narrators": [
+          {"name": "Al-Thawri", "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+           "grade": "Thiqah Thabt Hafiz", "generation": "Fifth Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "Jami' ibn Abi Rashid", "full_name": "Jami' ibn Abi Rashid al-Kufi",
+           "grade": "Thiqah", "generation": "Third Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "'Abdullah ibn Mirdas", "full_name": "'Abdullah ibn Mirdas",
+           "grade": "Maqbul", "generation": "Second Generation", "transmissionTerm": "حَدَّثَنَا",
+           "reliabilityIssues": ["Little known"]},
+          {"name": "Ibn Mas'ud", "full_name": "Abdullah ibn Mas'ud ibn Ghafil al-Hudhali",
+           "grade": "Companion", "generation": "Companion", "transmissionTerm": "Reported",
+           "reliabilityIssues": []}
+        ],
+        "chainIssues": ["'Abdullah ibn Mirdas is Maqbul"]
+      }],
+      "plainChains": ["Al-Thawri -> Jami' ibn Abi Rashid -> 'Abdullah ibn Mirdas -> Ibn Mas'ud"],
+      "potential_issues": [
+        {"issue": "'Abdullah ibn Mirdas is Maqbul (acceptable when supported)", "impact": "Needs corroborative evidence"},
+        {"issue": "Mawquf report (companion's opinion)", "impact": "Not marfu' to Prophet"}
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": ["Ibn Mas'ud's fatwa on janabah and fasting", "Incident of man seeking ruling", "Ghusl requirement before fasting"],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 جَامِعِ بْنِ أَبِي رَاشِدٍ /26 ، قَالَ : حَدَّثَنَا /26 عَبْدُ اللَّهِ بْنُ مِرْدَاسٍ /26 ، قَالَ : /27 جَاءَنِي رَجُلٌ مِنَ الْحَيِّ ، فَقَالَ : إِنِّي مَرَرْتُ بِامْرَأَتِي فِي الْقَمَرِ فَأَعْجَبَتْنِي ، فَجَامَعْتُهَا فِي شَهْرِ رَمَضَانَ ، فَنِمْتُ حَتَّى أَصْبَحْتُ ، فَقُلْتُ : عَلَيْكَ /93 بِعَبْدِ اللَّهِ بْنِ مَسْعُودٍ /93 ، أَوْ بِأَبِي حَكِيمٍ الْمُزَنِيِّ ، فَأَتَى عَبْدَ اللَّهِ فَسَأَلَهُ ، فَقَالَ : /20 كُنْتَ جُنُبًا لا تَحِلُّ لَكَ الصَّلاةُ ، فَاغْتَسَلْتَ فَحَلَّتْ لَكَ الصَّلاةُ ، وَحَلَّ لَكَ الصِّيَامُ فَصُمْ \" /27 * \r\n$7206  7208 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6626",
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 54140,
+      "book_id": 60,
+      "narrator_id": 6271,
+      "english_translation": "Narrated: A man came to Abu al-Darda' and said: I had intercourse with my wife, then sleep overcame me until I woke up, and I intended to fast. Abu al-Darda' said: You came to your wife while she is lawful for you, then you were overcome regarding yourself, then Allah returned your consciousness to you. So you prayed when you regained consciousness, and you fasted when you regained consciousness.",
+      "chains": [{
+        "type": "mawquf",
+        "narrators": [
+          {"name": "Ma'mar", "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+           "grade": "Thiqah Thabt", "generation": "Fifth Generation", "transmissionTerm": "أَخْبَرَنَا",
+           "reliabilityIssues": []},
+          {"name": "Ayyub", "full_name": "Ayyub ibn Abi Tamimah Kaysan al-Sakhtiyani",
+           "grade": "Thiqah Thabt", "generation": "Third Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "Abu Qilabah", "full_name": "Abdullah ibn Zayd ibn 'Amr al-Jarmi",
+           "grade": "Thiqah", "generation": "Second Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "Abu al-Darda'", "full_name": "'Uwaymir ibn Zayd al-Khazraji",
+           "grade": "Companion", "generation": "Companion", "transmissionTerm": "قَالَ",
+           "reliabilityIssues": []}
+        ],
+        "chainIssues": []
+      }],
+      "plainChains": ["Ma'mar -> Ayyub -> Abu Qilabah -> Abu al-Darda'"],
+      "potential_issues": [
+        {"issue": "Mawquf narration (companion's opinion)", "impact": "Not marfu' but represents companion's understanding"},
+        {"issue": "All narrators are Thiqah or better", "impact": "Strong chain for mawquf report"}
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["Abu al-Darda's fatwa on unintentional oversleeping in janabah", "Permissibility of fasting after ghusl", "Incident of man seeking ruling"],
+      "arabicText": "أَخْبَرَنَا /94 مَعْمَرٌ /94 ، عَنْ /26 أَيُّوبَ /26 ، عَنْ /26 أَبِي   قِلابَةَ /26 ،   @ 4 : 182 @    قَالَ : /27 جَاءَ رَجُلٌ إِلَى أَبِي الدَّرْدَاءِ ، فَقَالَ : إِنِّي أَصَبْتُ أَهْلِي ، ثُمَّ غَلَبَتْنِي عَيْنِي حَتَّى أَصْبَحْتُ ، وَأَنَا أُرِيدُ الصِّيَامَ ، فَقَالَ /93 أَبُو الدَّرْدَاءِ L6271 /93 /20 أَتَيْتَ امْرَأَتَكَ وَهِيَ تَحِلُّ لَكَ ، ثُمَّ غُلِبْتَ عَلَى نَفْسِكَ ، ثُمَّ رَدَّ اللَّهُ نَفْسَكَ ، فَصَلَّيْتَ حِينَ عَقِلْتَ ، وَصُمْتَ حِينَ عَقِلْتَ \" /27 * \r\n\u0006E1281 \r\n$7207  7209 /8 /141 عَنْ /94 عَبْدِ اللَّهِ بْنِ عُمَرَ /94 ، عَنْ /26 نَافِعٍ /26 ، قَالَ : /27 /20 لَوْ أَذَّنَ الْمُؤَذِّنُ /26 وَعَبْدُ اللَّهِ /26 بَيْنَ رِجْلَيِ امْرَأَتِهِ ، وَهُوَ يُرِيدُ الصِّيَامَ لأَتَمَّ صِيَامَهُ \" /27 * \r\n$7208  7210 /8",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6627",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54141,
+      "book_id": 60,
+      "narrator_id": null,
+      "english_translation": "Narrated from 'Urwah: Whoever is reached by dawn while in janabah deliberately, let him make up the fast. But whoever it comes to without deliberateness, then he should not make it up.",
+      "chains": [{
+        "type": "mawquf",
+        "narrators": [
+          {"name": "Ibn 'Uyaynah", "full_name": "Sufyan ibn 'Uyaynah ibn Abi 'Imran Maymun al-Hilali",
+           "grade": "Thiqah Thabt", "generation": "Fifth Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []},
+          {"name": "Hisham ibn 'Urwah", "full_name": "Hisham ibn 'Urwah ibn al-Zubayr ibn al-'Awwam",
+           "grade": "Thiqah", "generation": "Fourth Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": ["Some questioned his later Iraqi narrations"]},
+          {"name": "'Urwah", "full_name": "'Urwah ibn al-Zubayr ibn al-'Awwam",
+           "grade": "Thiqah Thabt", "generation": "Second Generation", "transmissionTerm": "عَنْ",
+           "reliabilityIssues": []}
+        ],
+        "chainIssues": []
+      }],
+      "plainChains": ["Ibn 'Uyaynah -> Hisham ibn 'Urwah -> 'Urwah"],
+      "potential_issues": [
+        {"issue": "Mawquf - 'Urwah's opinion", "impact": "Tabi'i's legal opinion, not marfu'"},
+        {"issue": "All narrators reliable", "impact": "Strong chain for reporting 'Urwah's opinion"}
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["'Urwah's opinion on deliberate vs unintentional janabah", "Distinction between intentional and unintentional actions"],
+      "arabicText": "عَنِ /94 ابْنِ عُيَيْنَةَ /94 ، /27 عَنْ /26 هِشَامِ بْنِ عُرْوَةَ /26 ، عَنْ /26 أَبِيهِ /26 ، قَالَ : /20 مَنْ أَدْرَكَهُ الصُّبْحُ جُنُبًا وَهُوَ مَتَعَمِّدٌ لِذَلِكَ ، أَبْدَلَ الصِّيَامَ ، وَمَنْ أَتَاهُ ذَلِكَ عَلَى غَيْرِ عَمْدٍ ، فَلا يُبْدِلْهُ \" /27 * \r\n\u001dE1282",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6628",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54143,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Narrated from al-Zuhri, from Ibn al-Musayyib: 'Umar ibn al-Khattab used to forbid kissing for the fasting person. It was said to him: Indeed the Messenger of Allah ﷺ used to kiss while fasting. He said: 'Who has the self-control and protection that the Messenger of Allah ﷺ had?' | Narrated from Ibn 'Abbas: The Prophet ﷺ used to kiss while fasting. | Narrated from 'Aishah: The Messenger of Allah ﷺ used to kiss some of his wives while fasting.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {"name": "Ma'mar", "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+             "grade": "Thiqah Thabt", "generation": "Fifth Generation", "transmissionTerm": "عَنْ",
+             "reliabilityIssues": []},
+            {"name": "Al-Zuhri", "full_name": "Muhammad ibn Muslim ibn 'Ubaydullah ibn Shihab al-Zuhri",
+             "grade": "Thiqah Thabt", "generation": "Third Generation", "transmissionTerm": "عَنْ",
+             "reliabilityIssues": ["Mudallis (category 2-3) but extremely reliable"]},
+            {"name": "Ibn al-Musayyib", "full_name": "Sa'id ibn al-Musayyib ibn Hazn",
+             "grade": "Thiqah Thabt", "generation": "Second Generation", "transmissionTerm": "عَنْ",
+             "reliabilityIssues": []},
+            {"name": "'Umar ibn al-Khattab", "full_name": "'Umar ibn al-Khattab ibn Nufayl al-Qurashi",
+             "grade": "Companion", "generation": "Companion", "transmissionTerm": "Reported",
+             "reliabilityIssues": []}
+          ],
+          "chainIssues": ["Contains both mawquf ('Umar's statement) and marfu' (Prophet's action) elements"]
+        }
+      ],
+      "plainChains": ["Ma'mar -> Al-Zuhri -> Ibn al-Musayyib -> 'Umar (and Prophet ﷺ via others)"],
+      "potential_issues": [
+        {"issue": "Al-Zuhri uses 'an but is highly reliable", "impact": "Generally accepted from al-Zuhri"},
+        {"issue": "Multiple chains combined in one report", "impact": "Shows different perspectives on same issue"}
+      ],
+      "IISGrade": "Sound",
+      "Topics": ["Prophet's ﷺ practice of kissing while fasting", "'Umar's caution about kissing while fasting", "'Umar's acknowledgment of Prophet's superior self-control"],
+      "arabicText": "$7209  7211 /2 /143 عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنِ /26 ابْنِ الْمُسَيِّبِ L3299 /26 ، /27 أَنَّ /93 عُمَرَ بْنَ الْخَطَّابِ L5913 /93 كَانَ يَنْهَى عَنْ قُبْلَةِ الصَّائِمِ ، فَقِيلَ لَهُ : إِنَّ رَسُولَ اللَّهِ صَلَّى اللَّهِ عَلَيْهِ سَلَّمَ كَانَ /20 يُقَبِّلُ ، وَهُوَ صَائِمُ \" ، فَقَالَ : \" وَمَنْ ذَا لَهُ مِنَ الْحِفْظِ وَالْعِصْمَةِ مَا لِرَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" /27 * \r\n@ 4 : 183 @ \r\n$7210  7212 /2 /141 عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنْ /26 أَيُّوبَ L746 /26 ، عَنْ /26 عَبْدِ اللَّهِ بْنِ شَقِيقٍ L4861 /26 ، /27 عَنْ /93 ابْنِ عَبَّاسٍ L4883 /93 : أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسلَّمَ كَانَ /20 يُقَبِّلُ ، وَهُوَ صَائِمٌ \" ، ثُمَّ قَالَ ابْنُ عَبَّاسٍ : كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" يُصِيبُ مِنَ الرُّءُوسِ وَهُوَ صَائِمٌ ، يُرِيدُ الْقُبْلَةَ \" /27 * \r\n$7211  7213 /2 /141 عَنْ /94 مَعْمَرٍ L7633 /94 ، /94 وَابْنُ جُرَيْجٍ L5223 /94 ، عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ L4903 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 ، قَالَتْ : كَانَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 يُقَبِّلُ بَعْضَ نِسَائِهِ ، وَهُوَ صَائِمٌ \" /27 ، عَنْ /94 مَعْمَرٍ L7633 /94 ، /94 وَابْنُ جُرَيْجٍ L5223 /94 ، عَنْ /26 هِشَامِ بْنِ عُرْوَةَ L8055 /26 ، عَنْ /26 أَبِيهِ L5594 /26 ، عَنْ /93 عَائِشَةَ L4049 /93 مِثْلَهُ * \r\n$7212  7214 /2 /141 عَنْ /94 ابْنِ جُرَيْجٍ L5223 /94 ، عَنْ /18 /26 رَجُلٍ L1131 /26 /18 ، عَنْ /26 طَلْحَةَ بْنِ عَبْدِ اللَّهِ بْنِ عُثْمَانَ L4015 /26 ، قَالَ : /27 سَمِعْتُ /93 عَائِشَةَ L4049 /93 ، تَقُولُ تَنَاوَلَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ /20 يُقَبِّلُنِي ، فَقُلْتُ : إِنِّي صَائِمَةٌ ، قَالَ : وَأَنَا صَائِمٌ ، ثُمَّ قَبَّلَنِي \" /27 * \r\n$7213  7215 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6630",
+      "grade": "Sound"
+    }
+  ]
+}

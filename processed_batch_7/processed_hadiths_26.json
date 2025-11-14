@@ -1,0 +1,786 @@
+{
+  "batch_number": 7,
+  "file_number": 26,
+  "processed_count": 12,
+  "note": "Processed hadiths excluding chapter headings. Full scholarly analysis applied according to CLAUDE.md specifications.",
+  "hadiths": [
+    {
+      "hadith_id": 54376,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6863,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 حَبِيبِ بْنِ أَبِي ثَابِتٍ /26 ، /27 عَنْ /26 عُبَيْدِ بْنِ عُمَيْرٍ /26 ، قَالَ : /20 إِنْ شَاءَ فَرَّقَ",
+      "english_translation": "From al-Thawri, from Habib ibn Abi Thabit, from Ubayd ibn Umayr, he said: If he wishes, he may separate them (the makeup fasts)",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "حبيب بن أبي ثابت",
+              "full_name": "Habib ibn Abi Thabit al-Asadi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3)", "Known for tadlis and irsال"]
+            },
+            {
+              "name": "عبيد بن عمير",
+              "full_name": "Ubayd ibn Umayr al-Laythi al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Habib ibn Abi Thabit is a mudallis using 'an"]
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Habib ibn Abi Thabit -> Ubayd ibn Umayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Habib ibn Abi Thabit is a Category 3 mudallis according to Ibn Hajar, using 'an (عَنْ)",
+          "impact": "His tadlis requires caution. While generally reliable, his use of 'an makes this questionable."
+        },
+        {
+          "issue": "This is a maqtu' narration (opinion of Ubayd ibn Umayr, a Tabi'i)",
+          "impact": "Represents an early scholarly opinion on flexibility in making up fasts"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Flexibility in making up Ramadan fasts",
+        "Permissibility of separating makeup fasts"
+      ]
+    },
+    {
+      "hadith_id": 54377,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6864,
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، /27 عَنِ /26 ابْنِ طَاوُسٍ /26 ، عَنْ /26 أَبِيهِ /26 ، قَالَ : /20 صُمْ كَيْفَ شِئْتَ إِذَا أَحْصَيْتَ صِيَامَهُ",
+      "english_translation": "From Ma'mar, from Ibn Tawus, from his father, he said: Fast however you wish as long as you count its fasting (the number of days)",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن طاوس",
+              "full_name": "Abdullah ibn Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبيه (طاوس)",
+              "full_name": "Tawus ibn Kaysan al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Abdullah ibn Tawus -> Tawus ibn Kaysan"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration (opinion of Tawus, a Tabi'i)",
+          "impact": "Represents scholarly opinion allowing flexibility in makeup fasts"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Flexibility in timing of makeup fasts",
+        "Opinion of Tawus on Ramadan makeup"
+      ]
+    },
+    {
+      "hadith_id": 54378,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6865,
+      "arabicText": "أَخْبَرَنَا /94 مَعْمَرٌ /94 ، عَنْ /26 أَيُّوبَ /26 ، عَنْ /26 أَبِي قِلابَةَ /26 ، /27 عَنِ /26 ابِنْ مُحَيْرِيزٍ /26 ، قَالَ : /20 أَحْصِ الْعِدَّةَ ، وَصُمْ كَيْفَ شِئْتَ",
+      "english_translation": "Ma'mar informed us, from Ayyub, from Abu Qilabah, from Ibn Muhayriz, he said: Count the number (of days), and fast however you wish. Also narrated via al-Thawri, from Khalid al-Hadhdha', from Abu Qilabah, from Abd al-Rahman ibn Muhayriz, similarly",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أيوب",
+              "full_name": "Ayyub ibn Abi Tamimah al-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو قلابة",
+              "full_name": "Abdullah ibn Zayd al-Jarmi (Abu Qilabah)",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن محيريز",
+              "full_name": "Abd al-Rahman ibn Muhayriz al-Jumahi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Two separate chains with same meaning, strengthening each other"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ayyub -> Abu Qilabah -> Ibn Muhayriz",
+        "al-Thawri -> Khalid al-Hadhdha' -> Abu Qilabah -> Abd al-Rahman ibn Muhayriz"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration (opinion of Ibn Muhayriz, a Tabi'i)",
+          "impact": "However, having two separate chains strengthens the attribution"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Flexibility in making up Ramadan fasts",
+        "Opinion of Ibn Muhayriz"
+      ]
+    },
+    {
+      "hadith_id": 54379,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6866,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 أَبِي إِسْحَاقَ /26 ، /27 عَنْ /26 مُجَاهِدٍ /26 ، قَالَ : /20 إِنْ شِئْتَ فَفَرِّقْ ، إِنَّمَا هِيَ /4 عِدَّةٌ مِنْ أَيَّامٍ أُخَرَ",
+      "english_translation": "From al-Thawri, from Abu Ishaq, from Mujahid, he said: If you wish, separate them, for it is only 'a number of other days' (Quran 2:184)",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "Amr ibn Abdullah al-Sabi'i (Abu Ishaq al-Sabi'i)",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Had ikhtilat in later life", "Via al-Thawri (early student) is reliable"]
+            },
+            {
+              "name": "مجاهد",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Abu Ishaq -> Mujahid"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Sabi'i had ikhtilat (confusion) in later life",
+          "impact": "However, this is via al-Thawri who was an early student, so the narration is reliable"
+        },
+        {
+          "issue": "This is Mujahid's tafsir opinion on the Quranic verse",
+          "impact": "Mujahid was a prominent student of Ibn Abbas in tafsir"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Tafsir of Quran 2:184",
+        "Permissibility of separating makeup fasts",
+        "Mujahid's Quranic interpretation"
+      ]
+    },
+    {
+      "hadith_id": 54380,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6867,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، عَنْ /18 /26 رَجُلٍ /26 /18 ، /27 عَنْ /26 عِكْرِمَةَ /26 ، سُئِلَ : عَنْ /20 قَضَاءِ رَمَضَانَ ، أَمَعًا أَمْ شَتَّى ؟",
+      "english_translation": "From Ibn Jurayj, from an unidentified man, from Ikrimah, who was asked about making up Ramadan: together or separately? He said: Whichever of that he wishes. Allah said: 'Two months consecutively' (Quran 4:92), and if He had wished, He would have said: Whoever makes up Ramadan, then together. But He did not say anything about it, and the righteous people did not forbid it, so they follow what is permissible",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3)"]
+            },
+            {
+              "name": "رجل (مجهول)",
+              "full_name": "Unknown man",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Completely unknown narrator (majhul al-'ayn)"]
+            },
+            {
+              "name": "عكرمة",
+              "full_name": "Ikrimah mawla Ibn Abbas",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سُئِلَ",
+              "reliabilityIssues": ["Some Maliki scholars criticized him", "Majority considered him reliable"]
+            }
+          ],
+          "chainIssues": ["Contains unknown narrator (rajul)", "Chain is disconnected due to majhul"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Unknown man -> Ikrimah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Contains an unknown narrator (rajul/man) between Ibn Jurayj and Ikrimah",
+          "impact": "This creates a significant disconnection. The narrator is majhul al-'ayn (completely unknown)."
+        },
+        {
+          "issue": "Ibn Jurayj is a mudallis using 'an",
+          "impact": "Combined with the unknown narrator, this weakens the chain"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Ikrimah's legal reasoning on makeup fasts",
+        "Quranic argument for flexibility in fasting"
+      ]
+    },
+    {
+      "hadith_id": 54381,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6868,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /18 /26 رَجُلٍ /26 /18 مِنْ قُرَيْشٍ ، عَنْ /26 أُمَّهِ /26 ، أَنَّهَا /27 سَأَلَتْ /93 أَبَا هُرَيْرَةَ",
+      "english_translation": "From al-Thawri, from an unknown man from Quraysh, from his mother, that she asked Abu Hurayrah about making up Ramadan. He said: There is no harm in separating it, for it is only 'a number of other days' (Quran 2:184)",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "رجل من قريش",
+              "full_name": "Unknown man from Quraysh",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Unknown narrator (majhul al-'ayn)"]
+            },
+            {
+              "name": "أمه",
+              "full_name": "His mother (unknown)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "سَأَلَتْ",
+              "reliabilityIssues": ["Unknown narrator (majhul al-'ayn)"]
+            },
+            {
+              "name": "أبو هريرة",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi (Abu Hurayrah)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Contains two unknown narrators", "Chain disconnection due to majhul narrators"]
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Unknown Qurashi man -> His unknown mother -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Contains two unknown (majhul) narrators in the chain",
+          "impact": "This creates a significant disconnection. Both the Qurashi man and his mother are unknown."
+        },
+        {
+          "issue": "Despite ending with Companion (Abu Hurayrah), the chain is broken by unknowns",
+          "impact": "Cannot be relied upon for establishing ruling"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Abu Hurayrah's opinion on flexibility in makeup fasts",
+        "Quranic evidence for separating makeup days"
+      ]
+    },
+    {
+      "hadith_id": 54382,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6869,
+      "arabicText": "عَنِ /94 ابْنِ عُيَيْنَةَ /94 ، عَنْ /26 عَمْرِو بْنِ دِينَارٍ /26 ، عَنْ /26 هِشَامِ بْنِ يَحْيَى /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ",
+      "english_translation": "From Ibn Uyaynah, from Amr ibn Dinar, from Hisham ibn Yahya, from Abu Hurayrah, he said: Fast however you wish, and count the number. And Ibn Jurayj mentioned it from Amr ibn Dinar, from Abu Hurayrah",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابن عيينة",
+              "full_name": "Sufyan ibn Uyaynah al-Hilali",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمرو بن دينار",
+              "full_name": "Amr ibn Dinar al-Jumahi al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "هشام بن يحيى",
+              "full_name": "Hisham ibn Yahya (uncertain identification)",
+              "grade": "Unknown - Requires Research",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Lesser-known narrator, identification uncertain"]
+            },
+            {
+              "name": "أبو هريرة",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi (Abu Hurayrah)",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Hisham ibn Yahya is not well-known in biographical sources", "Alternative shorter chain via Ibn Jurayj mentioned"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Uyaynah -> Amr ibn Dinar -> Hisham ibn Yahya -> Abu Hurayrah",
+        "Ibn Jurayj -> Amr ibn Dinar -> Abu Hurayrah (shorter, potentially skipping Hisham)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hisham ibn Yahya is not well-documented in major biographical dictionaries",
+          "impact": "His reliability status requires further research. This introduces uncertainty."
+        },
+        {
+          "issue": "The mention of Ibn Jurayj's version suggests potential confusion in the chain",
+          "impact": "May indicate ikhtiraf (variation) in transmission"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Abu Hurayrah's opinion on makeup fasts",
+        "Flexibility in scheduling makeup days"
+      ]
+    },
+    {
+      "hadith_id": 54383,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6870,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، /27 عَنْ /26 عَطَاءٍ /26 ، قَالَ : قُلْتُ أَرَأَيْتَ /20 إِنْ كَانَ عَلَى رَجُلٍ مِنْ أَيَّامِ رَمَضَانَ",
+      "english_translation": "From Ibn Jurayj, from Ata', he said: I said, what do you think if a man has days from Ramadan to make up, and he wakes up one day without intending to fast, then it occurs to him after he has awakened - can he count it as making up Ramadan even though he did not intend it before Fajr? He said: Let him fast it and count it as making up Ramadan",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3)"]
+            },
+            {
+              "name": "عطاء",
+              "full_name": "Ata' ibn Abi Rabah al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Jurayj directly questioning Ata' (qultu format)", "This is stronger than عَنْ"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Ata' (direct questioning)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj is a mudallis, but uses direct questioning format (qultu)",
+          "impact": "The direct questioning resolves any tadlis concerns for this particular report"
+        },
+        {
+          "issue": "This is Ata's fiqh opinion on intention (niyyah) for makeup fasts",
+          "impact": "Represents early scholarly view on flexibility of intention timing"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Intention (niyyah) for makeup fasts",
+        "Forming intention after Fajr",
+        "Ata's fiqh opinion on fasting validity"
+      ]
+    },
+    {
+      "hadith_id": 54384,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6871,
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، عَنْ /26 عَطَاءٍ الْخُرَاسَانِيِّ /26 ، قَالَ : /27 كُنْتُ عِنْدَ /26 ابْنِ الْمُسَيِّبِ",
+      "english_translation": "From Ma'mar, from Ata' al-Khurasani, he said: I was with Ibn al-Musayyib, and a Bedouin came to him at Asr time or after Asr. He said: I have not eaten anything today, shall I fast? He said: Yes. He said: I owe a day from Ramadan, shall I count it in its place? He said: Yes",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عطاء الخراساني",
+              "full_name": "Ata' ibn Abi Muslim al-Khurasani",
+              "grade": "Saduq/Sadooq",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["Considered saduq (truthful but not highest level)", "Had some memory issues", "Known for mursal reports"]
+            },
+            {
+              "name": "ابن المسيب",
+              "full_name": "Sa'id ibn al-Musayyib al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ata' al-Khurasani is not highest grade"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ata' al-Khurasani -> Sa'id ibn al-Musayyib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ata' al-Khurasani is graded as Saduq (truthful) but not Thiqah",
+          "impact": "He is generally acceptable but had some memory issues. This doesn't severely weaken the report but should be noted."
+        },
+        {
+          "issue": "This incident about forming intention very late in the day (Asr time)",
+          "impact": "Shows Sa'id ibn al-Musayyib's view on extreme flexibility in intention timing"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Forming intention for makeup fast late in the day",
+        "Sa'id ibn al-Musayyib's fiqh opinion",
+        "Incident of Bedouin asking about fasting"
+      ]
+    },
+    {
+      "hadith_id": 54386,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6873,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، قَالَ : أَخْبَرَنِي /26 يَحْيَى بْنُ سَعِيدٍ /26 ، أَنَّهُ سَمِعَ /26 أَبَا سَلَمَةَ بْنَ عَبْدِ الرَّحْمَنِ /26 ، قَالَ : /27 سَمِعْتُ /93 عَائِشَةَ",
+      "english_translation": "From Ibn Jurayj, he said: Yahya ibn Sa'id informed me that he heard Abu Salamah ibn Abd al-Rahman, he said: I heard Aisha say: It used to be that something (days) from Ramadan would be upon me, then I would not be able to fast it until Sha'ban comes. He (Yahya or Abu Salamah) said: I thought that was because of her position with the Prophet ﷺ",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "Yahya ibn Sa'id al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنِي / سَمِعَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو سلمة بن عبد الرحمن",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "تَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Yahya ibn Sa'id (akhbarani/sami'a) -> Abu Salamah (sami'tu) -> Aisha"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Aisha's practice in delaying makeup fasts",
+        "Permissibility of delaying until Sha'ban",
+        "Special circumstances of Prophet's ﷺ wives"
+      ]
+    },
+    {
+      "hadith_id": 54387,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6874,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 يَحْيَى بْنِ سَعِيدٍ /26 ، عَنْ /26 أَبِي سَلَمَةَ /26 ، /27 عَنْ /93 عَائِشَةَ",
+      "english_translation": "From al-Thawri, from Yahya ibn Sa'id, from Abu Salamah, from Aisha, she said: It used to be that days from Ramadan would be upon me, and I would not make them up except in Sha'ban",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "Yahya ibn Sa'id al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو سلمة",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَتْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses 'an terms but all narrators highly reliable", "Alternative version of previous hadith with explicit hearing terms"]
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Yahya ibn Sa'id -> Abu Salamah -> Aisha"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Uses 'an (عَنْ) transmission terms throughout",
+          "impact": "However, all narrators are highly reliable (Thiqah Thabt) and this chain is well-established. None are known mudallisun."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Aisha's practice in delaying makeup fasts",
+        "Permissibility of delaying until Sha'ban"
+      ]
+    },
+    {
+      "hadith_id": 54388,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6875,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، قَالَ : /27 كَانَ /26 عَطَاءٌ /26 يَقُولُ : /20 يَسْتَنْظِرُهُ مَا لَمْ يُدْرِكْهُ رَمَضَانُ آخَرُ",
+      "english_translation": "From Ibn Jurayj, he said: Ata' used to say: He is given respite as long as another Ramadan has not reached him",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عطاء",
+              "full_name": "Ata' ibn Abi Rabah al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "كَانَ يَقُولُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Ata'"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Ata's fiqh opinion on the deadline for making up fasts",
+          "impact": "Shows early scholarly view that makeup must be done before next Ramadan"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Deadline for making up Ramadan fasts",
+        "Ata's opinion on timeline"
+      ]
+    },
+    {
+      "hadith_id": 54390,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6877,
+      "arabicText": "أَخْبَرَنَا /94 مَعْمَرٌ /94 ، عَنْ /26 قَتَادَةَ /26 ، /26 وَعَاصِمٌ /26 ، أَنَّهُمَا سَمِعَا /26 عِكْرِمَةَ /26 ، يَقُولُ : /27 قَالَ /93 ابْنُ عَبَّاسٍ",
+      "english_translation": "Ma'mar informed us, from Qatadah and Asim, that they both heard Ikrimah say: Ibn Abbas said: Umar ibn al-Khattab called the Companions of Muhammad ﷺ and asked them about Laylat al-Qadr. They all agreed that it is in the last ten nights. Ibn Abbas said: I said to Umar: I know, or I think I know, which night it is. Umar said: Which night is it? I said: The seventh that passes, or the seventh that remains of the last ten nights. Umar said: From where did you know that? He said: Allah created seven heavens, seven earths, seven days, and the age revolves in sevens, Allah created man from seven, he eats from seven, prostrates on seven, Tawaf of the House is seven, and stoning the Jamarat is seven - for things he mentioned. Umar said: You have understood something we did not understand",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَا",
+              "reliabilityIssues": ["mudallis (Category 3), but uses explicit hearing term here"]
+            },
+            {
+              "name": "عاصم",
+              "full_name": "Asim ibn Sulayman al-Ahwal (likely)",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "سَمِعَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عكرمة",
+              "full_name": "Ikrimah mawla Ibn Abbas",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["Some Maliki scholars criticized him", "Majority considered him reliable"]
+            },
+            {
+              "name": "ابن عباس",
+              "full_name": "Abdullah ibn Abbas ibn Abd al-Muttalib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Two narrators (Qatadah and Asim) both heard from Ikrimah", "Strengthens the report"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah (sami'a) -> Ikrimah -> Ibn Abbas",
+        "Ma'mar -> Asim (sami'a) -> Ikrimah -> Ibn Abbas"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a known mudallis (Category 3), but uses explicit hearing term سَمِعَا",
+          "impact": "The explicit hearing resolves tadlis concerns"
+        },
+        {
+          "issue": "Some Maliki scholars criticized Ikrimah",
+          "impact": "However, the majority of hadith scholars, including Bukhari and others, considered him reliable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Laylat al-Qadr identification",
+        "Ibn Abbas's reasoning on 27th night",
+        "Dialogue between Ibn Abbas and Umar",
+        "Significance of number seven in Islam"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "batch_number": 7,
+  "file_number": 25,
+  "processed_count": 10,
+  "note": "Processed hadiths excluding chapter headings. Full scholarly analysis requires extensive research in classical biographical sources for each narrator.",
+  "hadiths": [
+    {
+      "hadith_id": 54361,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6848,
+      "arab icText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، /27 عَنْ /26 عَطَاءٍ /26 فِي /20 الشَّهْرَيْنِ يُتَدَارَكَانِ عَلِي الْمُسَافِرِ ، قَالَ : كَالْمَرِيضِ سَوَاءٌ",
+      "english_translation": "From Ibn Jurayj, from Ata' regarding the two months that catch up on the traveler, he said: Like the sick person, the same",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3 per Ibn Hajar)", "Uses 'an which may indicate indirect transmission"]
+            },
+            {
+              "name": "عطاء",
+              "full_name": "Ata' ibn Abi Rabah al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Jurayj is known mudallis using 'an", "Statement of Tabi'i (Ata'), not reaching Prophet ﷺ"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Ata' ibn Abi Rabah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj is a Category 3 mudallis according to Ibn Hajar's classification, using the indirect term 'an (عَنْ)",
+          "impact": "While Ibn Jurayj is generally reliable, his tadlis when using 'an requires caution. However, since he's widely considered trustworthy, this doesn't severely impact the grade."
+        },
+        {
+          "issue": "This is a maqtu' narration (statement of Ata' al-Tabi'i), not attributed to the Prophet ﷺ",
+          "impact": "This is a legal opinion of Ata', not a prophetic hadith"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Making up missed fasts while traveling",
+        "Comparison between traveler and sick person in fasting"
+      ]
+    },
+    {
+      "hadith_id": 54362,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6849,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، قَالَ : /27 قُلْتُ /26 لِعَطَاءٍ /26 /20 فَرَجُلٌ أَفْطَرَ فِي رَمَضَانَ فِي سَفَرٍ...",
+      "english_translation": "From Ibn Jurayj, he said: I said to Ata': What about a man who broke fast in Ramadan while traveling, then remained traveling until another Ramadan reached him while traveling, what is between that? He said: Nothing is upon him except that he makes up the first one, and he does not have to feed. I said: What about a man who broke fast in Ramadan while traveling, then he resided and did not make it up until the next Ramadan reached him while traveling, can he break fast if he wishes? He said: Yes, then he feeds thirty poor people, thirty mudds",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["mudallis (Category 3)"]
+            },
+            {
+              "name": "عطاء",
+              "full_name": "Ata' ibn Abi Rabah al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["This is Ibn Jurayj's direct questioning of Ata' (qultu), which is stronger than عَنْ", "Statement of Tabi'i, not prophetic hadith"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Ata' ibn Abi Rabah (direct questioning)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration (legal opinion of Ata'), not from the Prophet ﷺ",
+          "impact": "This represents Ata's fiqh opinion on making up Ramadan fasts"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Delaying making up Ramadan fasts",
+        "Traveler who remains traveling between Ramadans",
+        "Fidyah (feeding) for delayed fasts"
+      ]
+    },
+    {
+      "hadith_id": 54363,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6850,
+      "arabicText": "/27 عَنِ /94 الثَّوْرِيِّ /94 ، فِي /20 الرَّجُلِ يُفْطِرُ أَيَّامًا فِي سَفَرٍ ، ثُمَّ يَمُوتُ فِي سَفَرِهِ",
+      "english_translation": "From al-Thawri regarding the man who breaks fast for days while traveling, then dies during his travel, he said: Nothing is upon him. And this falls within the statement of Ibn Abbas, al-Nakha'i, al-Hasan, Ata', and al-Zuhri",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Statement of al-Thawri (imam of fifth generation)", "References opinions of earlier scholars"]
+        }
+      ],
+      "plainChains": [
+        "Sufyan al-Thawri (his opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is al-Thawri's fiqh opinion, not a hadith chain",
+          "impact": "Represents scholarly consensus among early authorities on this issue"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Death while traveling before making up fasts",
+        "No obligation on deceased traveler to have fasts made up"
+      ]
+    },
+    {
+      "hadith_id": 54364,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6851,
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، /27 عَنْ /26 قَتَادَةَ /26 ، فِي /20 رَجُلٍ يُفْطِرُ أَيَّامًا فِي سَفَرٍ",
+      "english_translation": "From Ma'mar, from Qatadah regarding a man who breaks fast for days while traveling, then dies before he resides, he said: Food should be given on his behalf for each day to a poor person",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "قتادة",
+              "full_name": "Qatadah ibn Di'amah al-Sadusi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["mudallis (Category 3 per Ibn Hajar)", "However, this is his direct opinion, not reporting from others"]
+            }
+          ],
+          "chainIssues": ["Statement of Qatadah (Tabi'i), differing opinion from al-Thawri's view in previous narration"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Qatadah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Qatadah is a Category 3 mudallis, but here he's expressing his own opinion",
+          "impact": "No impact as this is his fiqh opinion, not a narration requiring direct hearing"
+        },
+        {
+          "issue": "This opinion contradicts the previous narration from al-Thawri",
+          "impact": "Shows scholarly difference on whether fidyah is required for deceased traveler"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Death while traveling before making up fasts",
+        "Fidyah for deceased who owed fasts",
+        "Scholarly differences on obligations of the deceased"
+      ]
+    },
+    {
+      "hadith_id": 54366,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6853,
+      "arabicText": "عَنِ /94 مَعْمَرٍ /94 ، عَنِ /26 الزُّهْرِيِّ /26 ، عَنْ /26 سَالِمٍ /26 ، /27 عَنِ /93 ابْنِ عُمَرَ",
+      "english_translation": "From Ma'mar, from al-Zuhri, from Salim, from Ibn Umar, he said regarding making up Ramadan: Fast it as you broke it",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الزهري",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3 per Ibn Hajar, though generally considered reliable even with 'an)"]
+            },
+            {
+              "name": "سالم",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عمر",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Al-Zuhri uses 'an and is known for tadlis (Category 3)", "However, his narration from Salim is well-established"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> al-Zuhri -> Salim -> Ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is a Category 3 mudallis using the indirect term 'an (عَنْ)",
+          "impact": "While al-Zuhri's tadlis should be noted, he is widely considered extremely reliable and his connection to Salim is well-established. This is mentioned but doesn't significantly downgrade the hadith."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Method of making up Ramadan fasts",
+        "Whether to fast consecutively or separately"
+      ]
+    },
+    {
+      "hadith_id": 54367,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6854,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، قَالَ : حَدَّثَنِي /26 ابْنُ شِهَابٍ /26 ، عَنْ /26 سَالِمٍ /26 ، /27 عَنِ /93 ابْنِ عُمَرَ",
+      "english_translation": "From Ibn Jurayj, he said: Ibn Shihab narrated to me, from Salim, from Ibn Umar, he said: Fast it as you broke it. And Urwah said: Aisha said: It was revealed: 'A number of other days consecutively,' then 'consecutively' was dropped",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": ["mudallis (Category 3), but uses explicit term حَدَّثَنِي here"]
+            },
+            {
+              "name": "ابن شهاب (الزهري)",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سالم",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عمر",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Ibn Jurayj uses explicit term حَدَّثَنِي, which solves tadlis issue", "Also contains separate report from Aisha about Quranic verse"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> al-Zuhri (hadathani) -> Salim -> Ibn Umar",
+        "Urwah -> Aisha (about verse revelation)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Contains two separate reports: one from Ibn Umar (mawquf) and one from Aisha about Quranic revelation",
+          "impact": "Both are companion-level reports with strong chains"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Method of making up Ramadan fasts",
+        "Abrogation in Quranic verses about fasting"
+      ]
+    },
+    {
+      "hadith_id": 54368,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6855,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 عُبَيْدِ اللَّهِ /26 ، عَنِ /26 نَافِعٍ /26 ، /27 عَنِ /93 ابْنِ عُمَرَ",
+      "english_translation": "From al-Thawri, from Ubaydullah, from Nafi', from Ibn Umar, he said: He makes it up consecutively",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبيد الله",
+              "full_name": "Ubaydullah ibn Umar al-Umari",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عمر",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["All narrators reliable, using 'an terms", "This is the famous 'Golden Chain': Malik/Thawri -> Ubaydullah -> Nafi' -> Ibn Umar"]
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Ubaydullah -> Nafi' -> Ibn Umar"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "However, all narrators are highly reliable (Thiqah Thabt) and this specific chain (via Nafi' from Ibn Umar) is one of the most authentic chains in hadith literature. The use of 'an by reliable non-mudallis narrators is generally acceptable."
+        },
+        {
+          "issue": "This opinion contradicts the previous report from Ibn Umar saying 'fast it as you broke it'",
+          "impact": "Shows Ibn Umar may have had varying opinions, or this may represent different contexts"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Making up Ramadan fasts consecutively"
+      ]
+    },
+    {
+      "hadith_id": 54369,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6856,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 مَنْصُورٍ /26 ، عَنْ /26 إِبْرَاهِيمَ /26 ، وَعَنْ /26 دَاوُدَ /26 ، /27 عَنِ /26 الشَّعْبِيِّ /26 ، قَالا : /20 تِبَاعًا",
+      "english_translation": "From al-Thawri, from Mansur, from Ibrahim, and from Dawud, from al-Sha'bi, they both said: Consecutively",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "منصور",
+              "full_name": "Mansur ibn al-Mu'tamir al-Sulami",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "إبراهيم",
+              "full_name": "Ibrahim ibn Yazid al-Nakha'i",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Two separate chains converging on same opinion"]
+        },
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "داود",
+              "full_name": "Dawud ibn Abi Hind (likely)",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الشعبي",
+              "full_name": "Amir ibn Sharahil al-Sha'bi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Mansur -> Ibrahim al-Nakha'i",
+        "al-Thawri -> Dawud -> al-Sha'bi"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are opinions of Tabi'un (Ibrahim al-Nakha'i and al-Sha'bi), not from Companions or Prophet ﷺ",
+          "impact": "Represents fiqh opinions of early second generation scholars"
+        },
+        {
+          "issue": "Both use 'an (عَنْ) transmission terms",
+          "impact": "All narrators are reliable and not known for tadlis, making 'an acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Making up Ramadan fasts consecutively",
+        "Opinion of Ibrahim al-Nakha'i and al-Sha'bi"
+      ]
+    },
+    {
+      "hadith_id": 54370,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6857,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 أَبِي إِسْحَاقَ /26 ، عَنْ /26 الْحَارِثِ /26 ، /27 عَنْ /93 عَلِيٍّ",
+      "english_translation": "From al-Thawri, from Abu Ishaq, from al-Harith, from Ali, he said: Consecutively",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "Amr ibn Abdullah al-Sabi'i (Abu Ishaq al-Sabi'i)",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Had ikhtilat (confusion) in later life", "Narrations from him by early students like al-Thawri are generally reliable"]
+            },
+            {
+              "name": "الحارث",
+              "full_name": "al-Harith ibn Abdullah al-A'war al-Hamdani",
+              "grade": "Da'if",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Considered weak (da'if) by majority of scholars", "Known for Shi'i tendencies", "Accused of lying by some, though others considered him truthful but weak in memory"]
+            },
+            {
+              "name": "علي",
+              "full_name": "Ali ibn Abi Talib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["al-Harith al-A'war is a weak narrator", "Abu Ishaq had ikhtilat but this is via al-Thawri (early student)"]
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Abu Ishaq -> al-Harith al-A'war -> Ali ibn Abi Talib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "al-Harith ibn Abdullah al-A'war is considered weak (da'if) by the majority of hadith scholars",
+          "impact": "His presence in the chain weakens the narration significantly. He was accused by some of fabrication, though others considered him merely weak in memory."
+        },
+        {
+          "issue": "Abu Ishaq al-Sabi'i had ikhtilat (confusion) in later life",
+          "impact": "However, this narration comes through al-Thawri who was an early student of Abu Ishaq, so his narrations are generally considered reliable (before ikhtilat)."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Making up Ramadan fasts consecutively",
+        "Opinion attributed to Ali ibn Abi Talib"
+      ]
+    },
+    {
+      "hadith_id": 54371,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6858,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، عَنْ /26 يَحْيَى بْنِ سَعِيدٍ /26 ، /27 عَنِ /26 ابْنِ الْمُسَيِّبِ /26 ، قَالَ : /20 تِبَاعًا",
+      "english_translation": "From al-Thawri, from Yahya ibn Sa'id, from Ibn al-Musayyib, he said: Consecutively",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن سعيد",
+              "full_name": "Yahya ibn Sa'id al-Ansari",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن المسيب",
+              "full_name": "Sa'id ibn al-Musayyib al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Yahya ibn Sa'id al-Ansari -> Sa'id ibn al-Musayyib"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a maqtu' narration (opinion of Sa'id ibn al-Musayyib, a Tabi'i), not from a Companion or Prophet ﷺ",
+          "impact": "Represents the fiqh opinion of one of the most prominent Tabi'un"
+        },
+        {
+          "issue": "All narrators use 'an (عَنْ)",
+          "impact": "However, all are highly reliable (Thiqah Thabt) and not known for tadlis, so 'an is acceptable"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Making up Ramadan fasts consecutively",
+        "Opinion of Sa'id ibn al-Musayyib"
+      ]
+    }
+  ]
+}

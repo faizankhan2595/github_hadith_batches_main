@@ -1,0 +1,894 @@
+{
+  "batch_number": 7,
+  "file_number": 27,
+  "processed_count": 13,
+  "note": "Processed hadiths excluding chapter headings. Complete analysis applied per CLAUDE.md specifications.",
+  "hadiths": [
+    {
+      "hadith_id": 54391,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6878,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، عَنِ /26 الزُّهْرِيِّ ، عَنْ /26 سَالِمٍ ، /27 عَنِ /93 ابْنِ عُمَرَ أَنَّ رَجُلا قَالَ لِلَّنِبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : إِنِّي /20 رَأَيْتُ لَيْلَةَ الْقَدْرِ",
+      "english_translation": "From Ma'mar, from al-Zuhri, from Salim, from Ibn Umar that a man said to the Prophet ﷺ: I saw Laylat al-Qadr (in a dream), as if it was such and such night. He said: I see that your dreams have agreed upon the last ten nights, so seek it in the last nine, in an odd night",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "الزهري",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3 per Ibn Hajar, though generally considered extremely reliable even with 'an)"]
+            },
+            {
+              "name": "سالم",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عمر",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنَّ / قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Al-Zuhri uses 'an and is known for tadlis"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> al-Zuhri -> Salim -> Ibn Umar -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is a Category 3 mudallis using 'an (عَنْ)",
+          "impact": "While al-Zuhri's tadlis should be noted, he is widely considered extremely reliable and his connection to Salim is well-established. This is mentioned for completeness but doesn't significantly downgrade the hadith."
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Laylat al-Qadr identification",
+        "Dreams about Laylat al-Qadr",
+        "Seeking it in odd nights of last ten"
+      ]
+    },
+    {
+      "hadith_id": 54392,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6879,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، /94 وَابْنِ جُرَيْجٍ ، عَنِ /26 الزُّهْرِيِّ ، عَنْ /26 سَالِمٍ ، /27 عَنِ /93 ابْنِ عُمَرَ",
+      "english_translation": "From Ma'mar and Ibn Jurayj, from al-Zuhri, from Salim, from Ibn Umar, he said: The Messenger of Allah ﷺ said: Seek Laylat al-Qadr in the last ten nights (al-ghawabir), in the last nine (al-ghawabir), in an odd night. Also: From Ma'mar and Ibn Jurayj that they both heard Ibn Shihab narrating from Urwah, from Aisha, and from Sa'id ibn al-Musayyib, from Abu Hurayrah: That the Messenger of Allah ﷺ used to perform i'tikaf in the last ten nights of Ramadan until Allah caused him to die",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3)"]
+            },
+            {
+              "name": "الزهري",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["mudallis (Category 3)"]
+            },
+            {
+              "name": "سالم",
+              "full_name": "Salim ibn Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عمر",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Two mudallisun (Ibn Jurayj and al-Zuhri) using 'an", "However, the report is strengthened by having two independent narrators (Ma'mar and Ibn Jurayj) both reporting from al-Zuhri"]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "سَمِعَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "سَمِعَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن شهاب (الزهري)",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "يُحَدِّثُ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عروة",
+              "full_name": "Urwah ibn al-Zubayr ibn al-Awwam",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عائشة",
+              "full_name": "Aisha bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "(implied)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Second chain uses explicit hearing terms (sami'a), resolving any tadlis issues"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar & Ibn Jurayj -> al-Zuhri -> Salim -> Ibn Umar -> Prophet ﷺ",
+        "Ma'mar & Ibn Jurayj (sami'a) -> al-Zuhri -> Urwah -> Aisha -> Prophet ﷺ",
+        "Ma'mar & Ibn Jurayj (sami'a) -> al-Zuhri -> Sa'id ibn al-Musayyib -> Abu Hurayrah -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain: Ibn Jurayj and al-Zuhri are both Category 3 mudallisun using 'an",
+          "impact": "However, both are generally considered reliable. The second chain with explicit hearing terms strengthens the overall report."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Laylat al-Qadr in last ten nights",
+        "Prophet's ﷺ practice of i'tikaf",
+        "Multiple companion reports"
+      ]
+    },
+    {
+      "hadith_id": 54393,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6880,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، عَنْ /26 أَبِي هَارُونَ الْعَبْدِيِّ ، /27 عَنْ /93 أَبِي سَعِيدٍ   الْخُدْرِيِّ",
+      "english_translation": "From Ma'mar, from Abu Harun al-Abdi, from Abu Sa'id al-Khudri, he said: We performed i'tikaf with the Messenger of Allah ﷺ in the middle ten nights of Ramadan, and we left on the morning of the twentieth. The Messenger of Allah ﷺ addressed us and said: I saw Laylat al-Qadr, then I was made to forget it, so seek it in the last ten nights, in an odd night. And I saw that I was prostrating in water and mud, so whoever performed i'tikaf with me, let him return to his place of i'tikaf. We returned and there was not a cloud in the sky, then a cloud came and we were rained upon until the roof of the mosque flowed, and it was made of palm fronds. Prayer was called and I saw on the tip of the nose of the Messenger of Allah ﷺ when he finished, traces of mud on his forehead and nose, meaning the night of the twenty-first. Also from al-Thawri, from Abu Harun, from Abu Sa'id, similarly, except that he said: He performed i'tikaf, and we performed i'tikaf with him",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو هارون العبدي",
+              "full_name": "Umar ibn Abi Muslim al-Abdi (Abu Harun)",
+              "grade": "Da'if",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Considered weak (da'if) by majority of scholars", "Known for mistakes in narration"]
+            },
+            {
+              "name": "أبو سعيد الخدري",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Abu Harun al-Abdi is weak (da'if)", "Strengthened by al-Thawri's version"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Abu Harun al-Abdi -> Abu Sa'id al-Khudri -> Prophet ﷺ",
+        "al-Thawri -> Abu Harun -> Abu Sa'id -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Harun al-Abdi is considered weak (da'if) by the majority of hadith scholars",
+          "impact": "His presence weakens the chain. However, the hadith is narrated through him by two reliable transmitters (Ma'mar and al-Thawri), which provides some support."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of Prophet ﷺ prostrating in mud",
+        "Laylat al-Qadr on 21st night",
+        "Rain during Ramadan",
+        "I'tikaf practice"
+      ]
+    },
+    {
+      "hadith_id": 54394,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6881,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، عَنْ /26 يَحْيَى بْنِ أَبِي كَثِيرٍ ، عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ ، قَالَ : /27 تَذَاكَرْنَا لَيْلَةَ الْقَدْرِ",
+      "english_translation": "From Ma'mar, from Yahya ibn Abi Kathir, from Abu Salamah ibn Abd al-Rahman, he said: We discussed Laylat al-Qadr among a group from Quraysh, so I came to Abu Sa'id al-Khudri who was a friend of mine, and I said: Won't you come out with us to the palm groves? He said: Yes. He came out wearing his striped cloak. I said to him: Did you hear the Messenger of Allah ﷺ mention Laylat al-Qadr? He said: Yes, we performed i'tikaf with the Messenger of Allah ﷺ in the middle ten nights of Ramadan, and we left on the morning of the twentieth. The Messenger of Allah ﷺ addressed us and said: I saw Laylat al-Qadr, then I was made to forget it, so seek it in the last ten nights, in an odd night. And I saw that I was prostrating in water and mud, so whoever performed i'tikaf with me, let him return to his place of i'tikaf. We returned and there was not a speck of cloud in the sky, then a cloud came and we were rained upon until the roof of the mosque flowed - and it was made of palm fronds - and prayer was established. I saw on the tip of the nose of the Messenger of Allah ﷺ when he finished, traces of mud on his forehead and nose, meaning the night of the twenty-first. Also: From Ibn Jurayj, from Ubaydullah ibn Abi Yazid, he said: Ibn Abbas used to sprinkle water on his family on the night of the twenty-third",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يحيى بن أبي كثير",
+              "full_name": "Yahya ibn Abi Kathir al-Ta'i al-Yamani",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Known for tadlis and irsal"]
+            },
+            {
+              "name": "أبو سلمة بن عبد الرحمن",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو سعيد الخدري",
+              "full_name": "Sa'd ibn Malik ibn Sinan al-Khudri",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Yahya ibn Abi Kathir is known for tadlis and using 'an"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Yahya ibn Abi Kathir -> Abu Salamah -> Abu Sa'id al-Khudri -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Yahya ibn Abi Kathir is known for tadlis and irsal, using 'an (عَنْ)",
+          "impact": "While he is generally reliable (thiqah), his tadlis when using 'an requires caution."
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Detailed incident of rain and mud prostration",
+        "Laylat al-Qadr on 21st night",
+        "Abu Sa'id al-Khudri's account",
+        "Ibn Abbas's practice on 23rd night"
+      ]
+    },
+    {
+      "hadith_id": 54395,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6882,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي /26 يُونُسُ بْنُ سِيفٍ ، أَنَّهُ /27 سَمِعَ /26 ابْنَ الْمُسَيِّبِ",
+      "english_translation": "From Ibn Jurayj, he said: Yunus ibn Sayf informed me that he heard Ibn al-Musayyib say: The Prophet ﷺ was among a group of his Companions, and he said: Shall I not inform you about Laylat al-Qadr? They said: Yes, O Messenger of Allah! He was silent for a while, then said: I had just said to you what I said a moment ago while I knew it, and I still know it, then I was made to forget it. Do you recall a day when we were in such and such place - in a battle he fought - which night was it? They said: We traveled and did such and such, until the group agreed that it was the night of the twenty-third",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "يونس بن سيف",
+              "full_name": "Yunus ibn Sayf (uncertain identification)",
+              "grade": "Unknown - Requires Research",
+              "generation": "Unknown",
+              "transmissionTerm": "سَمِعَ",
+              "reliabilityIssues": ["Not well-documented in major biographical sources"]
+            },
+            {
+              "name": "ابن المسيب",
+              "full_name": "Sa'id ibn al-Musayyib al-Makhzumi",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "يَقُولُ",
+              "reliabilityIssues": ["This is mursal - Sa'id ibn al-Musayyib reporting directly from Prophet without mentioning Companion"]
+            }
+          ],
+          "chainIssues": ["This is mursal (disconnected) - Tabi'i reporting from Prophet without mentioning Companion", "Yunus ibn Sayf is not well-known"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Yunus ibn Sayf -> Sa'id ibn al-Musayyib (mursal from Prophet ﷺ)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is a mursal narration - Sa'id ibn al-Musayyib (a Tabi'i) reports directly from the Prophet ﷺ without naming the Companion",
+          "impact": "Mursal narrations have a disconnection and are weaker. According to the critical rule, disconnections result in 'Weak But Might Be Acceptable', not 'Problematic'."
+        },
+        {
+          "issue": "Yunus ibn Sayf is not well-documented in major biographical dictionaries",
+          "impact": "His reliability status is uncertain, adding to the weakness."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Prophet's ﷺ forgetfulness of Laylat al-Qadr",
+        "Laylat al-Qadr on 23rd night",
+        "Incident during a battle"
+      ]
+    },
+    {
+      "hadith_id": 54396,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6883,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، عَنْ /26 أَيُّوبَ ، عَنْ /26 نَافِعٍ ، /27 عَنِ /93 ابْنِ عُمَرَ",
+      "english_translation": "From Ma'mar, from Ayyub, from Nafi', from Ibn Umar, he said: A man came to the Prophet ﷺ and said: O Messenger of Allah! I saw in a dream Laylat al-Qadr, as if it was the seventh night. The Prophet ﷺ said: I see that your dreams have agreed on the seventh night, so whoever wishes to seek it, let him seek it on the seventh night. Ma'mar said: Ayyub used to perform ghusl on the night of the twenty-third and apply perfume",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أيوب",
+              "full_name": "Ayyub ibn Abi Tamimah al-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "نافع",
+              "full_name": "Nafi' mawla Ibn Umar",
+              "grade": "Thiqah Thabt",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "ابن عمر",
+              "full_name": "Abdullah ibn Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ayyub -> Nafi' -> Ibn Umar -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "However, all narrators are highly reliable (Thiqah Thabt) and this specific chain is one of the golden chains of hadith. None are known mudallisun."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Dream about Laylat al-Qadr",
+        "Seventh night from the end",
+        "Ayyub's practice on 23rd night"
+      ]
+    },
+    {
+      "hadith_id": 54397,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6884,
+      "arabicText": "عَنْ /94 مَعْمَرٍ ، عَنْ /26 أَيُّوبَ ، وَغَيْرِهِ ، /27 عَنْ /26 بَعْضِهِمْ",
+      "english_translation": "From Ma'mar, from Ayyub and others, from some of them, that al-Juhani came to the Messenger of Allah ﷺ and said: O Messenger of Allah! I am a man of the desert with livestock, so advise me about Laylat al-Qadr to worship in it. The Prophet ﷺ said: Or two nights? He said: Rather one night. So he called him and whispered to him - no one knows what he ordered him. The people said: Watch which night al-Juhani worships. So whenever it was the night of the twenty-third, he would come down to his family and worship that night",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "معمر",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أيوب",
+              "full_name": "Ayyub ibn Abi Tamimah al-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "بعضهم (unknown)",
+              "full_name": "Some of them (unidentified)",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Completely unknown narrator(s)"]
+            }
+          ],
+          "chainIssues": ["Contains unknown narrator(s) - 'ba'duhum' (some of them)", "Chain is disconnected"]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ayyub & others -> Unknown narrator(s) -> (al-Juhani Companion) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Contains unknown narrator(s) - 'ba'duhum' (some of them)",
+          "impact": "This creates a disconnection due to majhul (unknown) narrator. The chain cannot be verified."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of al-Juhani the Bedouin",
+        "Prophet's ﷺ private instruction",
+        "Laylat al-Qadr on 23rd night",
+        "Flexibility for desert dwellers"
+      ]
+    },
+    {
+      "hadith_id": 54398,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6885,
+      "arabicText": "/27 عَنِ /94 ابْنِ جُرَيْجٍ ، قَالَ : /26 أُخْبِرْتُ",
+      "english_translation": "From Ibn Jurayj, he said: I was informed that al-Juhani, Abdullah ibn Unays, came to the Prophet ﷺ and said: O Messenger of Allah! I have a heavy burden and farmland - and he was a farmer - so command me a night. He said: Or two nights? He said: Rather one night. So he called him and whispered to him two or three times, and commanded him the night of the twenty-third. He used to spend that night in the mosque and would not leave it until he went out in the morning, and he would not witness any of Ramadan before or after it, nor the day of Eid",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أُخْبِرْتُ",
+              "reliabilityIssues": ["Uses passive voice 'I was informed' without naming informant"]
+            }
+          ],
+          "chainIssues": ["Ibn Jurayj uses passive 'ukhbirtu' (I was informed) without naming his source", "This creates disconnection (ta'liq/mu'allaq)"]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj <- Unknown informant <- (Abdullah ibn Unays al-Juhani Companion) -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj uses passive 'ukhbirtu' (I was informed) without naming his informant",
+          "impact": "This creates a disconnection. The missing link is unknown. This is a form of mu'allaq (suspended chain)."
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Abdullah ibn Unays al-Juhani's account",
+        "Prophet's ﷺ specification of 23rd night",
+        "Dedication to one night only"
+      ]
+    },
+    {
+      "hadith_id": 54399,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6886,
+      "arabicText": "عَنْ /94 مَالِكٍ ، /27 عَنْ /26 أَبِي النَّضْرِ ، أَنَّ عَبْدَ اللَّهِ بْنَ أُنَيْسٍ الْجُهَنِيَّ",
+      "english_translation": "From Malik, from Abu al-Nadr, that Abdullah ibn Unays al-Juhani said: O Messenger of Allah! I am a man whose home is far away, so command me a night in which I should come. The Prophet ﷺ said: Come down on the night of the twenty-third",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "مالك",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو النضر",
+              "full_name": "Salim ibn Abi Umayyah (Abu al-Nadr)",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَنَّ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله بن أنيس الجهني",
+              "full_name": "Abdullah ibn Unays al-Juhani",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "(implied reported via أَنَّ)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["Uses أَنَّ which can sometimes indicate potential disconnection"]
+        }
+      ],
+      "plainChains": [
+        "Malik -> Abu al-Nadr -> Abdullah ibn Unays al-Juhani -> Prophet ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Uses أَنَّ (anna) transmission term which can sometimes indicate indirect transmission",
+          "impact": "However, Malik is extremely precise, and this is from his Muwatta, one of the most authentic collections. The chain is considered strong."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Abdullah ibn Unays asking for specific night",
+        "Prophet ﷺ specifying 23rd night",
+        "Accommodation for those living far away"
+      ]
+    },
+    {
+      "hadith_id": 54400,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6887,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 أَبِي إِسْحَاقَ ، /27 عَنْ /26 سَعِيدِ بْنِ جُبَيْرٍ",
+      "english_translation": "From al-Thawri, from Abu Ishaq, from Sa'id ibn Jubayr, he said: Whoever does not attain it (Laylat al-Qadr) on the night of the twenty-third, he will not attain it",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "Amr ibn Abdullah al-Sabi'i (Abu Ishaq al-Sabi'i)",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Had ikhtilat in later life", "Via al-Thawri (early student) is reliable"]
+            },
+            {
+              "name": "سعيد بن جبير",
+              "full_name": "Sa'id ibn Jubayr al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Abu Ishaq -> Sa'id ibn Jubayr"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Abu Ishaq al-Sabi'i had ikhtilat in later life",
+          "impact": "However, this is via al-Thawri who was an early student, so the narration is reliable"
+        },
+        {
+          "issue": "This is Sa'id ibn Jubayr's opinion (maqtu'), not a hadith from the Prophet ﷺ",
+          "impact": "Represents early scholarly view on Laylat al-Qadr"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Sa'id ibn Jubayr's strong opinion on 23rd night",
+        "Emphasis on specific night identification"
+      ]
+    },
+    {
+      "hadith_id": 54401,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6888,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي /26 إِبْرَاهِيمُ بْنُ مَيْسَرَةَ",
+      "english_translation": "From Ibn Jurayj, he said: Ibrahim ibn Maysarah informed me, from Mujahid, he said: It is the night of the twenty-third. And Tawus used to say similarly",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "إبراهيم بن ميسرة",
+              "full_name": "Ibrahim ibn Maysarah al-Makki",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "مجاهد",
+              "full_name": "Mujahid ibn Jabr al-Makki",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj (akhbarani) -> Ibrahim ibn Maysarah -> Mujahid",
+        "Tawus (separate opinion)"
+      ],
+      "potential_issues": [
+        {
+          "issue": "These are opinions of Tabi'un (Mujahid and Tawus), not hadith from Prophet ﷺ",
+          "impact": "Represents early scholarly consensus on 23rd night"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Mujahid and Tawus's opinion on 23rd night",
+        "Early scholarly agreement"
+      ]
+    },
+    {
+      "hadith_id": 54402,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6889,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 سَلَمَةَ بْنِ كُهَيْلٍ",
+      "english_translation": "From al-Thawri, from Salamah ibn Kuhayl, he said: I heard those who say: It is the night of the seventeenth, and those who say: It is the night of the twenty-first, and those who say: It is the night of the twenty-third, and those who say: It is the night of the twenty-seventh. So I said to Salamah: You are older than us and have longer companionship (with scholars), and they differ. He said: Do not say that, rather seek it in the last ten nights",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "سلمة بن كهيل",
+              "full_name": "Salamah ibn Kuhayl al-Hadrami al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Salamah ibn Kuhayl"
+      ],
+      "potential_issues": [
+        {
+          "issue": "This is Salamah ibn Kuhayl's summary of scholarly differences",
+          "impact": "Shows early diversity of opinion and his recommendation to seek broadly in last ten"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Different scholarly opinions on Laylat al-Qadr",
+        "Salamah ibn Kuhayl's advice",
+        "Seeking in all last ten nights"
+      ]
+    },
+    {
+      "hadith_id": 54403,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6890,
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ ، عَنْ /26 أَبِي إِسْحَاقَ",
+      "english_translation": "From al-Thawri, from Abu Ishaq, from al-Harith, from Ali: Seek it in the last ten nights. And from al-Thawri, from Abu Ishaq, from Abu al-Ahwas, from Abdullah: Seek it in the last ten nights",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "Amr ibn Abdullah al-Sabi'i",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["ikhtilat, but via al-Thawri is reliable"]
+            },
+            {
+              "name": "الحارث",
+              "full_name": "al-Harith ibn Abdullah al-A'war",
+              "grade": "Da'if",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Weak narrator"]
+            },
+            {
+              "name": "علي",
+              "full_name": "Ali ibn Abi Talib",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "(implied)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": ["al-Harith is weak"]
+        },
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "الثوري",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو إسحاق",
+              "full_name": "Amr ibn Abdullah al-Sabi'i",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "أبو الأحوص",
+              "full_name": "Awf ibn Malik ibn Nadlah",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عبد الله (ابن مسعود)",
+              "full_name": "Abdullah ibn Mas'ud",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "(implied)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "al-Thawri -> Abu Ishaq -> al-Harith -> Ali (weak due to al-Harith)",
+        "al-Thawri -> Abu Ishaq -> Abu al-Ahwas -> Abdullah ibn Mas'ud"
+      ],
+      "potential_issues": [
+        {
+          "issue": "First chain contains al-Harith al-A'war who is weak (da'if)",
+          "impact": "Weakens that specific chain, but second chain is sound"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Ali and Ibn Mas'ud's opinion on last ten nights",
+        "Broader approach to seeking Laylat al-Qadr"
+      ]
+    },
+    {
+      "hadith_id": 54404,
+      "book_id": 60,
+      "collection": "Unknown Collection (Book 60)",
+      "reference_number": 6891,
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي /26 عَمْرُو بْنُ دِينَارٍ",
+      "english_translation": "From Ibn Jurayj, he said: Amr ibn Dinar informed me, from Jabir ibn Abdullah, the Prophet ﷺ said: I was shown Laylat al-Qadr, then I forgot it. And it is in the last ten nights, and it is an odd night. I saw myself prostrating in water and mud on its morning. It rained on us on the night of the twenty-third, and the Messenger of Allah ﷺ led us in prayer that morning, and I looked at him when he left - mud and water were on his forehead and nose",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "ابن جريج",
+              "full_name": "Abd al-Malik ibn Abd al-Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "عمرو بن دينار",
+              "full_name": "Amr ibn Dinar al-Jumahi al-Makki",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "جابر بن عبد الله",
+              "full_name": "Jabir ibn Abdullah al-Ansari",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "(implied)",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj (akhbarani) -> Amr ibn Dinar -> Jabir ibn Abdullah -> Prophet ﷺ"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Jabir's account of Prophet ﷺ prostrating in mud",
+        "Laylat al-Qadr on 23rd night",
+        "Sign of mud on forehead"
+      ]
+    }
+  ]
+}

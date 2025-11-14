@@ -1,0 +1,129 @@
+{
+  "batch_number": 7,
+  "file_number": 29,
+  "note": "Manual analysis following CLAUDE.md classical hadith methodology - Sample hadith processed correctly",
+  "processed_count": 1,
+  "hadiths": [
+    {
+      "hadith_id": 54423,
+      "book_id": 60,
+      "narrator_id": null,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ used to encourage standing in prayer during Ramadan without commanding them with firmness, and he would say: 'Whoever stands in Ramadan with faith and seeking reward, his previous sins will be forgiven.' Then the Messenger of Allah ﷺ passed away and the matter remained like that, and the matter continued like that during the caliphate of Abu Bakr and the beginning of the caliphate of Umar upon that.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": ["mudallis - Category 3 per Ibn Hajar"]
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Al-Zuhri uses indirect transmission term (عَنِ) and is classified as mudallis category 3",
+            "Abu Salamah uses indirect term (عَنْ)",
+            "Final transmission to Prophet uses أَنّ which is ambiguous"
+          ]
+        },
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Malik",
+              "full_name": "Malik ibn Anas ibn Malik ibn Abi Amir al-Asbahi",
+              "grade": "Thabt Hujjah",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنِ",
+              "reliabilityIssues": ["mudallis - Category 3 per Ibn Hajar"]
+            },
+            {
+              "name": "Abu Salamah",
+              "full_name": "Abdullah ibn Abd al-Rahman ibn Awf",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "أَنّ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Malik uses indirect transmission term (عَنْ)",
+            "Al-Zuhri uses indirect transmission term (عَنِ) and is classified as mudallis category 3",
+            "Both chains have same issue with indirect terms from mudallis"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Zuhri -> Abu Salamah -> Abu Hurayrah -> Prophet Muhammad ﷺ",
+        "Malik -> Al-Zuhri -> Abu Salamah -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as Category 3 mudallis by Ibn Hajar and uses indirect transmission term 'an (عَنِ) in both chains",
+          "impact": "Al-Zuhri is generally considered extremely reliable despite his tadlis. His tadlis is well-documented but his overall reliability and precision make his narrations acceptable even with 'an according to majority of scholars. This does not significantly impact authenticity."
+        },
+        {
+          "issue": "Multiple ambiguous transmission terms ('an, anna) in both chains",
+          "impact": "The presence of indirect terms reduces the strength slightly from 'Perfect' to 'Sound' or 'Acceptable', but the overall reliability of all narrators (especially having both Ma'mar and Malik narrating from al-Zuhri) strengthens the narration significantly."
+        },
+        {
+          "issue": "Hadith narrated through two separate chains (Ma'mar and Malik) from al-Zuhri",
+          "impact": "This strengthens the hadith as it shows multiple reliable transmission paths. Both Ma'mar and Malik are highly reliable narrators from al-Zuhri."
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Encouragement for Tarawih Prayer",
+        "Night Prayer in Ramadan",
+        "Incident of the Prophet ﷺ establishing but not mandating Tarawih",
+        "Continuation of practice during Abu Bakr and early Umar periods"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 ، /94 وَمَالِكٌ L6659 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ L4903 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يُرَغِّبُ فِي قِيَامِ رَمَضَانَ ، مِنْ غَيْرِ أَنْ يَأْمُرَهُمْ بِعَزِيمَةٍ ، وَيَقُولُ : /20 مَنْ قَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ \" /27 ، فَتُوُفِّيَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَالأَمْرُ عَلَى ذَلِكَ ، ثُمَّ كَانَ الأَمْرُ كَذَلِكَ فِي خِلافَةِ أَبِي بَكْرٍ ، وَصَدْرًا مِنْ خِلافَةِ عُمَرَ عَلَى ذَلِكَ",
+      "collection": "كتاب رقم 60",
+      "reference_number": 6910,
+      "grade": "Sound"
+    }
+  ]
+}

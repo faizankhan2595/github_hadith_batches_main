@@ -1,0 +1,548 @@
+{
+  "batch_number": 7,
+  "file_number": 35,
+  "processed_count": 11,
+  "skipped_count": 4,
+  "hadiths": [
+    {
+      "hadith_id": 54513,
+      "book_id": 60,
+      "narrator_id": 4,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7000,
+      "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنْ قَتَادَةَ ، عَنْ عَبْدِ اللَّهِ بْنِ مَعْبَدٍ ، عَنْ أَبِي قَتَادَةَ ، قَالَ : سُئِلَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ صِيَامِ @ 4 : 286 @ عَاشُورَاءَ ، فَقَالَ : \" كَفَّارَةُ السَّنَةِ \" * $7614 7616",
+      "english_translation": "Narrated: عَنْ قَتَادَةَ ، عَنْ عَبْدِ اللَّهِ بْنِ مَعْبَدٍ ، عَنْ أَبِي قَتَادَةَ ، قَالَ : سُئِلَ رَسُولُ ا...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "عقبة بن مكرم بن أفلح بن جراد",
+              "full_name": "عقبة بن مكرم بن أفلح بن جراد",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عبد الرحمن بن أبي عوف",
+              "full_name": "عبد الرحمن بن أبي عوف",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "أبو عذرة",
+              "full_name": "أبو عذرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "عقبة بن مكرم بن أفلح بن جراد uses ambiguous transmission term",
+            "عبد الرحمن بن أبي عوف uses ambiguous transmission term",
+            "أبو عذرة uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> عقبة بن مكرم بن أفلح بن جراد -> عبد الرحمن بن أبي عوف -> أبو عذرة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54514,
+      "book_id": 60,
+      "narrator_id": 4,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7001,
+      "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ مَنْصُورٍ ، عَنْ حَرْمَلَةَ بْنِ إِيَاسٍ الشَّيْبَانِيِّ ، عَنْ أَبِي قَتَادَةَ قَالَ : سُئِلَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ صِيَامِ يَوْمِ عَاشُورَاءَ ؟ فَقَالَ : \" كَفَّارَةُ السَّنَةِ \" * $7615 7617",
+      "english_translation": "Narrated: عَنْ مَنْصُورٍ ، عَنْ حَرْمَلَةَ بْنِ إِيَاسٍ الشَّيْبَانِيِّ ، عَنْ أَبِي قَتَادَةَ قَالَ : سُئِلَ ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع",
+              "full_name": "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "محمد بن حفص",
+              "full_name": "محمد بن حفص",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "سائب بن فروخ",
+              "full_name": "سائب بن فروخ",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "أبو عذرة",
+              "full_name": "أبو عذرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": [
+            "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع uses ambiguous transmission term",
+            "محمد بن حفص uses ambiguous transmission term",
+            "سائب بن فروخ uses ambiguous transmission term",
+            "أبو عذرة uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "حوثرة بن الأشرس بن عون بن المجشر بن حريث بن الربيع -> محمد بن حفص -> سائب بن فروخ -> أبو عذرة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54516,
+      "book_id": 60,
+      "narrator_id": 2,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7003,
+      "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنِ الزُّهْرِيِّ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمَّا قَدِمَ الْمَدِينَةَ ، قَالَ لِرَجُلٍ مِنْ أَسْلَمَ : إِيتِ قَوْمَكَ فَمُرْهُمْ فَلْيَصُومُوا هَذَا الْيَوْمَ ، لِيَوْمِ عَاشُورَاءَ ، قَالَ : أَرَأَيْتَ إِنْ وَجَدْتُ بَعْضَهُمْ قَدْ تَغَدَّى ؟ قَالَ : فَمُرْهُمْ فَلْيُتِمُّوا \" * $7617 7619",
+      "english_translation": "Narrated: عَنِ الزُّهْرِيِّ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ لَمَّا قَدِمَ الْمَدِينَةَ ، ق...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": [
+            "قيس بن الربيع uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> قيس بن الربيع"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54517,
+      "book_id": 60,
+      "narrator_id": 4,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7004,
+      "arabicText": "قَالَ مَعْمَرٌ : قَالَ الزُّهْرِيُّ ، وَحَدَّثَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ ، أَنَّهُ سَمِعَ مُعَاوِيَةَ يَخْطُبُ بِالْمَدِينَةِ ، يَقُولُ : يَا أَهْلَ الْمَدِينَةِ ! أَيْنَ عُلَمَاؤُكُمْ ؟ سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : هَذَا يَوْمُ عَاشُورَاءَ ، وَلَمْ يُفْرَضْ عَلَيْنَا صِيَامُهُ ، فَمَنْ شَاءَ مِنْكُمْ أَنْ يَصُومَ فَلْيَصُمْ ، فَإِنِّي صَائِمٌ ، فَصَامَ النَّاسُ \" * $7618 7620",
+      "english_translation": "Narrated: قَالَ الزُّهْرِيُّ ، وَحَدَّثَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ ، أَنَّهُ سَمِعَ مُعَاوِيَةَ يَخْ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "محمد بن بكار بن الريان",
+              "full_name": "محمد بن بكار بن الريان",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "قيس بن الربيع",
+              "full_name": "قيس بن الربيع",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            },
+            {
+              "name": "مغيرة بن حذف",
+              "full_name": "مغيرة بن حذف",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "سَمِعْتُ"
+            },
+            {
+              "name": "محمد بن إسماعيل بن سمرة",
+              "full_name": "محمد بن إسماعيل بن سمرة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "محمد بن بكار بن الريان uses ambiguous transmission term",
+            "قيس بن الربيع uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "محمد بن بكار بن الريان -> قيس بن الربيع -> مغيرة بن حذف -> محمد بن إسماعيل بن سمرة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54518,
+      "book_id": 60,
+      "narrator_id": 3,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7005,
+      "arabicText": "عَنْ إِسْرَائِيلَ ، عَنِ سِمَاكِ بْنِ حَرْبٍ ، عَنْ مَعْبَدٍ الْقُرَشِيِّ ، قَالَ : كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِقَدِيدٍ فَأَتَاهُ رَجُلٌ ، فَقَالَ لَهُ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : أَطَعِمْتَ الْيَوْمَ شَيْئًا لِيَوْمِ عَاشُورَاءَ ؟ قَالَ : لا ، إِلا أَنِّي شَرِبْتُ @ 4 : 287 @ مَاءً ، قَالَ : \" فَلا تَطْعَمُ بَعْدُ حَتَّى مَغْرِبَ الشَّمْسِ ، وَأْمُرْ مَنْ وَرَاءَكَ أَنْ يَصُومَ هَذَا الْيَوْمَ \" * \u0019E1352 $7619 7621",
+      "english_translation": "Narrated: عَنِ سِمَاكِ بْنِ حَرْبٍ ، عَنْ مَعْبَدٍ الْقُرَشِيِّ ، قَالَ : كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "أبو الخطاب",
+              "full_name": "أبو الخطاب",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "داود بن شبيب",
+              "full_name": "داود بن شبيب",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "جبار بن حارث",
+              "full_name": "جبار بن حارث",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": [
+            "أبو الخطاب uses ambiguous transmission term",
+            "داود بن شبيب uses ambiguous transmission term",
+            "جبار بن حارث uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "أبو الخطاب -> داود بن شبيب -> جبار بن حارث"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54519,
+      "book_id": 60,
+      "narrator_id": 3,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7006,
+      "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنْ أَبِي إِسْحَاقَ ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ ، قَالَ : مَا رَأَيْتُ أَحَدًا كَانَ آمَرَ بِصَوْمِ يَوْمِ عَاشُورَاءَ مِنْ عَلِيٍّ ، وَأَبِي مُوسَى \" * $7620 7622 عَنِ ابْنِ جُرَيْجٍ ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ ، يَقُولُ : مَا عَلِمْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ يَتَحَرَّى صِيَامَ يَوْمٍ يَبْتَغِي فَضْلَهُ عَلَى غَيْرِهِ ، إِلا هَذَا الْيَوْمَ ، يَوْمَ عَاشُورَاءَ ، أَوْ شَهْرَ رَمَضَانَ \" * $7621 7623",
+      "english_translation": "Narrated: عَنْ أَبِي إِسْحَاقَ ، عَنِ الأَسْوَدِ بْنِ يَزِيدَ ، قَالَ : مَا رَأَيْتُ أَحَدًا كَانَ آمَرَ بِصَو...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عبد الرحمن بن عبد الله",
+              "full_name": "عبد الرحمن بن عبد الله",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            },
+            {
+              "name": "عبد العزيز بن الخطاب",
+              "full_name": "عبد العزيز بن الخطاب",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            },
+            {
+              "name": "عاصم بن رجاء بن حيوة",
+              "full_name": "عاصم بن رجاء بن حيوة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": [
+            "عبد العزيز بن الخطاب uses ambiguous transmission term",
+            "عاصم بن رجاء بن حيوة uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الرحمن بن عبد الله -> عبد العزيز بن الخطاب -> عاصم بن رجاء بن حيوة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura",
+        "Prayer in Ramadan"
+      ]
+    },
+    {
+      "hadith_id": 54520,
+      "book_id": 60,
+      "narrator_id": 1,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7007,
+      "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي عَبْدُ الْمَلِكِ بْنُ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ ، عَنْ أَبِيهِ ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ ، أَرْسَلَ إِلَى عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ لَيْلَةَ عَاشُورَاءَ : أَنْ تَسَحَّرْ ، وَأَصْبَحُ صَائِمًا قَالَ : فَأَصْبَحَ عَبْدُ الرَّحْمَنِ صَائِمًا \" * $7622 7624",
+      "english_translation": "Narrated: قَالَ : أَخْبَرَنِي عَبْدُ الْمَلِكِ بْنُ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ ، عَن...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عبد الله بن نافع",
+              "full_name": "عبد الله بن نافع",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "قَالَ"
+            }
+          ],
+          "chainIssues": [
+            "عبد الله بن نافع uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عبد الله بن نافع"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54521,
+      "book_id": 60,
+      "narrator_id": 1,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7008,
+      "arabicText": "أَخْبَرَنَا ابْنُ جُرَيْجٍ ، قَالَ : أَخْبَرَنِي عَطَاءٌ ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ ، يَقُولُ فِي يَوْمِ عَاشُورَاءَ : خَالِفُوا الْيَهُودَ ، وَصُومُوا التَّاسِعَ وَالْعَاشِرَ \" * @ 4 : 288 @ $7623 7625",
+      "english_translation": "Narrated: قَالَ : أَخْبَرَنِي عَطَاءٌ ، أَنَّهُ سَمِعَ ابْنَ عَبَّاسٍ ، يَقُولُ فِي يَوْمِ عَاشُورَاءَ : خَالِ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عاصم بن رجاء بن حيوة",
+              "full_name": "عاصم بن رجاء بن حيوة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عاصم بن رجاء بن حيوة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54522,
+      "book_id": 60,
+      "narrator_id": 1,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7009,
+      "arabicText": "عَنْ إِسْمَاعِيلَ بْنِ عَبْدِ اللَّهِ ، قَالَ : أَخْبَرَنِي يُونُسُ بْنُ عُبَيْدٍ ، عَنِ الْحَكَمِ الأَعْرَجِ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : إِذَا أَصْبَحْتُ بَعْدَ تِسْعٍ وَعِشْرِينَ ثُمَّ أَصْبَحُ صَائِمًا فَهُوَ يَوْمُ عَاشُورَاءَ \" * $7624 7626",
+      "english_translation": "Narrated: قَالَ : أَخْبَرَنِي يُونُسُ بْنُ عُبَيْدٍ ، عَنِ الْحَكَمِ الأَعْرَجِ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ ...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عاصم بن رجاء بن حيوة",
+              "full_name": "عاصم بن رجاء بن حيوة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "عاصم بن رجاء بن حيوة uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "عاصم بن رجاء بن حيوة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54524,
+      "book_id": 60,
+      "narrator_id": 1,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7011,
+      "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنْ أَيُّوبَ ، عَنْ مَسْعُودِ بْنِ فُلانٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : يَوْمُ عَاشُورَاءَ الْعَاشِرُ \" * E1353 $7626 7628",
+      "english_translation": "Narrated: عَنْ أَيُّوبَ ، عَنْ مَسْعُودِ بْنِ فُلانٍ ، عَنِ ابْنِ عَبَّاسٍ ، قَالَ : يَوْمُ عَاشُورَاءَ الْعَا...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "عاصم بن رجاء بن حيوة",
+              "full_name": "عاصم بن رجاء بن حيوة",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [],
+              "transmissionTerm": "أَخْبَرَنَا"
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "عاصم بن رجاء بن حيوة"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Perfect",
+      "Topics": [
+        "Fasting Ashura"
+      ]
+    },
+    {
+      "hadith_id": 54525,
+      "book_id": 60,
+      "narrator_id": 1,
+      "collection": "كتاب رقم 60",
+      "reference_number": 7012,
+      "arabicText": "عَنِ مَعْمَرٍ ، عَنِ الزُّهْرِيِّ ، عَنْ عَبْدَةَ ، عَنْ عَائِشَةَ ، قَالَتْ : كُنَّا نُؤْمَرُ بِصِيَامِ يَوْمِ عَاشُورَاءَ ، فَلَمَّا نَزَلَ صِيَامُ شَهْرِ رَمَضَانَ ، كَانَ مَنْ شَاءَ صَامَهَ ، وَمَنْ شَاءَ تَرَكَهُ \" * $7627 7629",
+      "english_translation": "Narrated: عَنِ الزُّهْرِيِّ ، عَنْ عَبْدَةَ ، عَنْ عَائِشَةَ ، قَالَتْ : كُنَّا نُؤْمَرُ بِصِيَامِ يَوْمِ عَاش...",
+      "chains": [
+        {
+          "type": "maqtu'",
+          "narrators": [
+            {
+              "name": "سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج",
+              "full_name": "سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "reliabilityIssues": [
+                "Ambiguous transmission term"
+              ],
+              "transmissionTerm": "عَنْ"
+            }
+          ],
+          "chainIssues": [
+            "سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج uses ambiguous transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "سبرة بن معبد بن عوسجة بن حرملة بن سبرة بن خديج"
+      ],
+      "potential_issues": [],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Fasting Ashura",
+        "Prayer in Ramadan"
+      ]
+    }
+  ]
+}

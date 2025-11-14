@@ -1,0 +1,728 @@
+[
+  {
+    "hadith_id": 54076,
+    "book_id": 60,
+    "hadith_number": 6563,
+    "arabicText": "عَنْ رَجُلٍ مِنْ أَهْلِ الْمَدِينَةِ ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ ، أَنَّ عُمَرَ بْنَ عَبْدِ الْعَزِيزِ : كَانَ يُجِيزُ عَلَى رُؤْيَةِ الْهِلالِ بِالصَّوْمِ رَجُلا وَاحِدًا ، وَلا يُجِيزُ عَلَى الْفِطْرِ إِلا رَجُلَيْنِ 7151 7153",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "رجل مجهول",
+            "full_name": "رجل مجهول",
+            "grade": "Majhul",
+            "generation": "Unknown",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Unknown narrator"
+            ]
+          },
+          {
+            "name": "إسحاق بن عبد الله",
+            "full_name": "إسحاق بن عبد الله بن أبي فروة المدني",
+            "grade": "Da'if",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Considered weak"
+            ]
+          },
+          {
+            "name": "عمر",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "رجل مجهول: Unknown narrator",
+          "إسحاق بن عبد الله: Considered weak",
+          "Chain contains unknown narrator(s)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "رجل مجهول: Unknown narrator",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "إسحاق بن عبد الله: Considered weak",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "Chain contains unknown narrator(s)",
+        "impact": "Unknown narrators make verification impossible"
+      }
+    ],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Moon Sighting",
+      "Breaking the Fast"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6563
+  },
+  {
+    "hadith_id": 54077,
+    "book_id": 60,
+    "hadith_number": 6564,
+    "arabicText": "عَنْ مَعْمَرٍ ، عَمَّنَ ، سَمِعَ الْحَسَنَ ، يَقُولُ : لا يَجُوزُ عَلَى الصَّوْمِ ، وَالْفِطْرِ ، وَالنَّحْرِ إِلا رَجُلانِ 7152 7154",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "الحسن",
+            "full_name": "الحسن بن أبي الحسن البصري",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "سَمِعَ",
+            "reliabilityIssues": [
+              "Known for mursal reports"
+            ]
+          }
+        ],
+        "chainIssues": [
+          "الحسن: Known for mursal reports"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "الحسن: Known for mursal reports",
+        "impact": "Affects reliability assessment"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Breaking the Fast"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6564
+  },
+  {
+    "hadith_id": 54078,
+    "book_id": 60,
+    "hadith_number": 6565,
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : لا يَجُوزُ عَلَى رُؤْيَةِ الْهِلالِ إِلا رَجُلانِ 7153 7155",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "ابن جريج is a known mudallis using 'an (عَنْ)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابن جريج is a known mudallis using 'an (عَنْ)",
+        "impact": "ابن جريج is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Moon Sighting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6565
+  },
+  {
+    "hadith_id": 54079,
+    "book_id": 60,
+    "hadith_number": 6566,
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، قَالَ : سَمِعْتُ عَمْرَو بْنَ دِينَارٍ يُحَدِّثُ : أَنَّ عُثْمَانَ أَبَى أَنْ يُجِيزَ هَاشِمَ بْنَ عُتْبَةَ الأَعْوَرِ وَحْدَهُ عَلَى رُؤْيَةِ هِلالِ رَمَضَانِ 7154 7156",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عمر",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "ابن جريج is a known mudallis using 'an (عَنْ)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابن جريج is a known mudallis using 'an (عَنْ)",
+        "impact": "ابن جريج is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Moon Sighting",
+      "Ramadan"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6566
+  },
+  {
+    "hadith_id": 54080,
+    "book_id": 60,
+    "hadith_number": 6567,
+    "arabicText": "أَخْبَرَنَا ابْنُ جُرَيْجٍ ، قَالَ : قُلْتُ لِعَطَاءٍ أَرَأَيْتَ لَوْ أَنَّ رَجُلا رَأَى هِلالَ رَمَضَانَ قَبْلَ النَّاسِ بِلَيْلَةٍ ، أَيَصُومُ قَبْلَهُمْ أَوَ يُفْطِرُ قَبْلَهُمْ ؟ قَالَ : لا ، إِلا إِنْ رَآهُ النَّاسُ ، أَخْشَى أَنْ يَكُونَ شُبِّهَ عَلَيْهِ حَتَّى يَكُونَا اثْنَيْنِ ، قَالَ : قُلْتُ : لا ، إِلا رَآهُ وَسَايَرَهُ سَاعَةً ، قَالَ : وَلَوْ حَتَّى يَكُونَا اثْنَيْنِ 7155 7157",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "علي",
+            "full_name": "علي بن أبي طالب بن عبد المطلب الهاشمي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Moon Sighting",
+      "Ramadan",
+      "Breaking the Fast"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6567
+  },
+  {
+    "hadith_id": 54081,
+    "book_id": 60,
+    "hadith_number": 6568,
+    "arabicText": "أَخْبَرَنَا ابْنُ جُرَيْجٍ ، قَالَ : أُخْبِرْتُ عَنْ مُعَاذِ بْنِ عَبْدِ الرَّحْمَنِ التَّيْمِيِّ ، أَنَّ رَجُلا جَاءَ عُمَرَ بْنَ الْخَطَّابِ ، فَقَالَ : رَأَيْتُ هِلالَ شَهْرِ رَمَضَانَ ، فَقَالَ : هَلْ رَآهُ مَعَكَ آخَرُ ؟ قَالَ : لا ، قَالَ : فَكَيْفَ صَنَعْتَ ؟ قَالَ : صُمْتُ بِصِيَامِ النَّاسِ ، فَقَالَ عُمَرُ : يَا لَكَ فِقْهًا",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عمر",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "عمر",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Moon Sighting",
+      "Fasting",
+      "Ramadan"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6568
+  },
+  {
+    "hadith_id": 54083,
+    "book_id": 60,
+    "hadith_number": 6570,
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ عَطَاءٍ ، قَالَ : بَيْنَا رَجُلٌ يَسِيرُ فِي فَلاةٍ مِنَ الأَرْضِ إِذْ أَهَلَّ هِلالٌ ، فَجَعَلَ يَنْظُرُ إِلَيْهِ ، فَسَمِعَ قَائِلا يَقُولُ وَلا يَرَاهُ : اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيمَانِ ، وَالسَّلامَةِ وَالإِسْلامِ ، وَالْهُدَى وَالْمَغْفِرَةِ ، وَالتَّوْفِيقِ لِمَا تَرْضَى ، وَالْحِفْظِ مِمَّا تَسْخَطُ ، رَبِّي وَرَبُّكَ اللَّهُ ، فَلَمْ يَزَلْ يُرَدِّدُهَا حَتَّى حَفِظَهَا الرَّجُلُ 7157 7159",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "علي",
+            "full_name": "علي بن أبي طالب بن عبد المطلب الهاشمي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "سَمِعَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "ابن جريج is a known mudallis using 'an (عَنْ)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابن جريج is a known mudallis using 'an (عَنْ)",
+        "impact": "ابن جريج is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Moon Sighting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6570
+  },
+  {
+    "hadith_id": 54084,
+    "book_id": 60,
+    "hadith_number": 6571,
+    "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنْ رَجُلٍ ، عَنِ ابْنِ الْمُسَيِّبِ ، قَالَ : كَانَ النَّبِيُّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ إِذَا رَأَى الْهِلالَ ، قَالَ : آمَنْتُ بَالَّذِي خَلَقَكَ فَسَوَّاكَ ، فَعَدَلَكَ 7158 7160",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "رجل مجهول",
+            "full_name": "رجل مجهول",
+            "grade": "Majhul",
+            "generation": "Unknown",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Unknown narrator"
+            ]
+          },
+          {
+            "name": "ابن المسيب",
+            "full_name": "سعيد بن المسيب بن حزن المخزومي القرشي",
+            "grade": "Thiqah Thabt",
+            "generation": "First Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "علي",
+            "full_name": "علي بن أبي طالب بن عبد المطلب الهاشمي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "قَالَ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "رجل مجهول: Unknown narrator",
+          "Chain contains unknown narrator(s)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "رجل مجهول: Unknown narrator",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "Chain contains unknown narrator(s)",
+        "impact": "Unknown narrators make verification impossible"
+      }
+    ],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Moon Sighting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6571
+  },
+  {
+    "hadith_id": 54085,
+    "book_id": 60,
+    "hadith_number": 6572,
+    "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، قَالَ : أَخْبَرَنِي رَجُلٌ ، أَنَّ رَجُلا أَخْبَرَهُ هُوَ بِنَفْسِهِ ، قَالَ : بَيْنَا أَنَا أَسِيرُ رَأَيْتُ الْهِلالَ ، فَسَمِعْتُ قَائِلا يَقُولُ وَلا أَرَاهُ : اللَّهُمَّ أَطْلِعْهُ عَلَيْنَا بَالسَّلامَةِ وَالإِسْلامِ ، وَالأَمْنِ وَالإِيمَانِ ، وَالْبِرِّ وَالتَّقْوَى ، وَالتَّوْفِيقِ لِمَا تُحِبُّ وَتَرْضَى ، فَمَا زَالَ يُرَدِّدُهَا حَتَّى حَفِظَهَا 7159 7161",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "علي",
+            "full_name": "علي بن أبي طالب بن عبد المطلب الهاشمي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "سَمِعْتُ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "potential_issues": [],
+    "IISGrade": "Sound",
+    "Topics": [
+      "Moon Sighting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6572
+  },
+  {
+    "hadith_id": 54086,
+    "book_id": 60,
+    "hadith_number": 6573,
+    "arabicText": "أَخْبَرَنَا مَعْمَرٌ ، عَنْ قَتَادَةَ ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ إِذَا رَأَى الْهِلالَ كَبَّرَ ثَلاثًا ، ثُمَّ قَالَ : هِلالُ خَيْرٍ وَرُشْدٍ ، ثَلاثًا ، ثُمَّ قَالَ : آمَنْتُ بَالَّذِي خَلَقَكَ ، ثَلاثًا ، ثُمَّ يَقُولُ : الْحَمْدُ لِلَّهِ الَّذِي ذَهَبَ بِشَهْرِ كَذَا وَكَذَا ، وَجَاءَ بِشَهْرِ كَذَا وَكَذَا",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "أَخْبَرَنَا",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "قتادة",
+            "full_name": "قتادة بن دعامة السدوسي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "علي",
+            "full_name": "علي بن أبي طالب بن عبد المطلب الهاشمي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "قتادة is a known mudallis using 'an (عَنْ)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "قتادة is a known mudallis using 'an (عَنْ)",
+        "impact": "قتادة is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Moon Sighting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6573
+  },
+  {
+    "hadith_id": 54088,
+    "book_id": 60,
+    "hadith_number": 6575,
+    "arabicText": "عَنِ الثَّوْرِيِّ ، قَالَ : بَلَغَنِي ، عَنْ إِبْرَاهِيمَ ، أَنَّهُ كَانَ يَقُولُ فِي مُسَافِرٍ يَقْدَمُ مُفْطِرًا ، أَوْ حَائِضٌ تَطْهُرُ مِنْ آخِرِ يَوْمِهَا ، قَالَ : لا يَأْكُلانِ حَتَّى يُمْسِيَا 7161 7163",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "الثوري",
+            "full_name": "سفيان بن سعيد بن مسروق الثوري",
+            "grade": "Thabt Hujjah",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "إبراهيم",
+            "full_name": "إبراهيم بن يزيد النخعي الكوفي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": []
+      }
+    ],
+    "potential_issues": [],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Menstruation and Fasting",
+      "Traveler and Fasting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6575
+  },
+  {
+    "hadith_id": 54089,
+    "book_id": 60,
+    "hadith_number": 6576,
+    "arabicText": "عَنِ ابْنِ جُرَيْجٍ ، عَنْ مُزَاحِمٍ ، عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ ، قَالَ : لا يَأْكُلُ حَتَّى يُمْسِي 7162 7164",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "mawquf",
+        "narrators": [
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "مزاحم",
+            "full_name": "مزاحم بن زفر الكوفي",
+            "grade": "Thiqah",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "عمر",
+            "full_name": "عمر بن الخطاب بن نفيل القرشي العدوي",
+            "grade": "Companion",
+            "generation": "Companion",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "ابن جريج is a known mudallis using 'an (عَنْ)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "ابن جريج is a known mudallis using 'an (عَنْ)",
+        "impact": "ابن جريج is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      }
+    ],
+    "IISGrade": "Acceptable",
+    "Topics": [
+      "Fasting Rulings"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6576
+  },
+  {
+    "hadith_id": 54090,
+    "book_id": 60,
+    "hadith_number": 6577,
+    "arabicText": "عَنِ الثَّوْرِيِّ ، عَنْ جَابِرٍ ، عَنِ الشَّعْبِيِّ ، وَمَعْمَرٌ ، عَنْ قَتَادَةَ ، وَابْنُ جُرَيْجٍ ، عَنْ عَطَاءٍ ، سُئِلُوا عَنِ الْحَائِضِ تَطْهُرُ قَبْلَ غُرُوبِ الشَّمْسِ ، قَالُوا : تَأْكُلُ وَتَشْرَبُ 7163 7165",
+    "english_translation": "[Translation of the Arabic text]",
+    "chains": [
+      {
+        "type": "maqtu'",
+        "narrators": [
+          {
+            "name": "الثوري",
+            "full_name": "سفيان بن سعيد بن مسروق الثوري",
+            "grade": "Thabt Hujjah",
+            "generation": "Fifth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "جابر",
+            "full_name": "جابر بن يزيد بن الحارث الجعفي الكوفي",
+            "grade": "Matruk",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Abandoned by scholars"
+            ]
+          },
+          {
+            "name": "الشعبي",
+            "full_name": "عامر بن شراحيل الشعبي الكوفي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "معمر",
+            "full_name": "معمر بن راشد الأزدي البصري",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنِ",
+            "reliabilityIssues": []
+          },
+          {
+            "name": "قتادة",
+            "full_name": "قتادة بن دعامة السدوسي البصري",
+            "grade": "Thiqah Thabt",
+            "generation": "Third Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "ابن جريج",
+            "full_name": "عبد الملك بن عبد العزيز بن جريج المكي",
+            "grade": "Thiqah",
+            "generation": "Fourth Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": [
+              "Category 3 mudallis"
+            ]
+          },
+          {
+            "name": "عطاء",
+            "full_name": "عطاء بن أبي رباح القرشي المكي",
+            "grade": "Thiqah",
+            "generation": "Second Generation",
+            "transmissionTerm": "عَنْ",
+            "reliabilityIssues": []
+          }
+        ],
+        "chainIssues": [
+          "قتادة is a known mudallis using 'an (عَنْ)",
+          "ابن جريج is a known mudallis using 'an (عَنْ)",
+          "جابر: Abandoned by scholars",
+          "Chain contains narrator accused of lying or being abandoned (matruk)"
+        ]
+      }
+    ],
+    "potential_issues": [
+      {
+        "issue": "قتادة is a known mudallis using 'an (عَنْ)",
+        "impact": "قتادة is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      },
+      {
+        "issue": "ابن جريج is a known mudallis using 'an (عَنْ)",
+        "impact": "ابن جريج is classified as a mudallis. When using 'an, this raises tadlis concerns, though generally reliable"
+      },
+      {
+        "issue": "جابر: Abandoned by scholars",
+        "impact": "Affects reliability assessment"
+      },
+      {
+        "issue": "Chain contains narrator accused of lying or being abandoned (matruk)",
+        "impact": "Such narrators render the narration problematic"
+      }
+    ],
+    "IISGrade": "Problematic",
+    "Topics": [
+      "Menstruation and Fasting"
+    ],
+    "collection": "كتاب رقم 60",
+    "reference_number": 6577
+  }
+]

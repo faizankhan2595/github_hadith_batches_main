@@ -1,0 +1,780 @@
+{
+  "batch_number": 7,
+  "file_number": 9,
+  "processed_count": 10,
+  "hadiths": [
+    {
+      "hadith_id": 54121,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Narrated: The Prophet ﷺ said regarding the month of Ramadan: Indeed this month has come, and it is a blessed month. Allah has made fasting it obligatory. In it, the gates of Hell are closed, and the gates of Paradise are opened, and the devils are chained. In it is a night better than a thousand months. Whoever is deprived of it has been deprived.",
+      "chains": [
+        {
+          "type": "mursal",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ayyub",
+              "full_name": "Ayyub ibn Abi Tamimah Kaysan al-Sakhtiyani",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Qilabah",
+              "full_name": "Abdullah ibn Zayd ibn 'Amr al-Jarmi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Mursal - Abu Qilabah reports from the Prophet without mentioning companion intermediary",
+            "Uses 'anna transmission term indicating disconnection"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Ayyub -> Abu Qilabah -> [Missing Companion] -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Chain is mursal (disconnected) - Abu Qilabah did not meet the Prophet ﷺ",
+          "impact": "Reduces grade from Sound to Weak But Might Be Acceptable due to missing companion link"
+        },
+        {
+          "issue": "Transmission uses 'anna (أَنَّ) which often indicates disconnection",
+          "impact": "Confirms the mursal nature of the transmission"
+        },
+        {
+          "issue": "All narrators in the chain are highly reliable (Thiqah or better)",
+          "impact": "Despite mursal nature, the narrators present are trustworthy, making it potentially acceptable with supporting evidence"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Description of Ramadan's special characteristics",
+        "Virtues of Ramadan",
+        "Gates of Paradise and Hell in Ramadan",
+        "Chaining of devils in Ramadan",
+        "Laylat al-Qadr virtue"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 مَعْمَرٌ L7633 /94 ، عَنْ /26 أَيُّوبَ L746 /26 ، /27 عَنْ /26 أَبِي قِلابَةَ L4820 /26 ، أَنّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ \" قَالَ : لِشَهْرِ رَمَضَانَ : إِنَّ /20 هَذَا الشَّهْرَ قَدْ حَضَرَ ، وَإِنَّهُ شَهْرٌ مُبَارَكٌ ، افْتَرَضَ اللَّهُ صِيَامَهُ ، تُغْلَقُ فِيهِ أَبْوَابُ الْجَحِيمِ ، وَتَفْتَحُ فِيهِ أَبْوَابُ الْجِنَانِ ، وَتُغَلُّ فِيهِ الشَّيَاطِينُ ، فِيهِ لَيْلَةٌ خَيْرٌ مِنْ أَلْفِ شَهْرٍ ، مَنْ حُرِمَهَا فَقَدْ حُرِمَ \" /27 * \r\n@ 4 : 176 @ \r\n$7189  7191 /2",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6608",
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 54122,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Narrated by Abu Hurayrah: The Messenger of Allah ﷺ said: When the month of Ramadan enters, the gates of mercy are opened, and the gates of Hellfire are closed, and the devils are chained.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn 'Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Mudallis (category 2-3) but extremely reliable"]
+            },
+            {
+              "name": "Ibn Abi Anas",
+              "full_name": "Muhammad ibn 'Abdullah ibn Abi Anas",
+              "grade": "Saduq",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some minor weakness noted by critics"]
+            },
+            {
+              "name": "His father",
+              "full_name": "'Abdullah ibn Abi Anas",
+              "grade": "Maqbul",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Little known narrator"]
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Al-Zuhri uses 'an (عَنْ) but he is highly reliable even with this term",
+            "Ibn Abi Anas and his father are not of the highest reliability level",
+            "Multiple 'an transmissions throughout the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Zuhri -> Ibn Abi Anas -> His father -> Abu Hurayrah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri is classified as mudallis and uses 'an transmission",
+          "impact": "However, al-Zuhri is extremely reliable and scholars generally accept his 'an narrations"
+        },
+        {
+          "issue": "Ibn Abi Anas is graded as Saduq (truthful but with some errors)",
+          "impact": "Not the highest level of reliability, but acceptable for corroborative evidence"
+        },
+        {
+          "issue": "'Abdullah ibn Abi Anas (the father) is Maqbul (acceptable when supported)",
+          "impact": "Requires supporting evidence for full acceptance"
+        },
+        {
+          "issue": "Multiple 'an transmissions create some ambiguity",
+          "impact": "Chain would be stronger with direct transmission terms, but narrators are generally reliable"
+        }
+      ],
+      "IISGrade": "Acceptable",
+      "Topics": [
+        "Virtues of Ramadan",
+        "Description of spiritual changes in Ramadan",
+        "Gates of mercy opening in Ramadan",
+        "Gates of Hell closing in Ramadan",
+        "Chaining of devils in Ramadan"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنِ /26 ابْنِ أَبِي أَنَسٍ L7859 /26 ، عَنْ /26 أَبِيهِ L6657 /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 إِذَا دَخَلَ شَهْرُ رَمَضَانَ ، فُتِحَتْ أَبْوَابُ الرَّحْمَةِ ، وَغُلِّقَتْ أَبْوَابُ جَهَنَّمَ ، وَسُلْسِلَتِ الشَّيَاطِينُ \" /27 * \r\n$7190  7192 /2",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6609",
+      "grade": "Acceptable"
+    },
+    {
+      "hadith_id": 54123,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Narrated by Ibn 'Umar: The Messenger of Allah ﷺ said: When the first night of the month of Ramadan enters, the gates of Paradise are opened and not a single gate of them is closed the entire month, and the gates of the Fire are closed and not a single gate of them is opened the entire month, and the rebellious devils are chained. Then Allah has those freed from the Fire whom He frees at every time of breaking fast, male slaves and female slaves.",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Aban",
+              "full_name": "Aban ibn Abi 'Ayyash",
+              "grade": "Matruk",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Abandoned by hadith critics", "Unreliable narrator"]
+            },
+            {
+              "name": "Sa'id ibn Jubayr",
+              "full_name": "Sa'id ibn Jubayr al-Asadi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ibn 'Umar",
+              "full_name": "Abdullah ibn 'Umar ibn al-Khattab",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Aban ibn Abi 'Ayyash is Matruk (abandoned) - a very weak narrator",
+            "The phrase 'قَالَ : أَحْسَبُهُ' (he said: I think/suppose) indicates narrator uncertainty",
+            "Despite having reliable beginning and end, the weakness of Aban severely compromises the chain"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Aban ibn Abi 'Ayyash -> Sa'id ibn Jubayr -> Ibn 'Umar -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Aban ibn Abi 'Ayyash is Matruk al-Hadith (abandoned by scholars)",
+          "impact": "This is a critically weak narrator who makes the entire chain unacceptable"
+        },
+        {
+          "issue": "The phrase 'أَحْسَبُهُ' indicates the narrator's uncertainty about the chain",
+          "impact": "Shows doubt in the transmission, further weakening reliability"
+        },
+        {
+          "issue": "Ma'mar narrates from Aban, who is known to be extremely weak",
+          "impact": "Even though Ma'mar is reliable, narrating from such a weak source severely impacts this specific hadith"
+        }
+      ],
+      "IISGrade": "Problematic",
+      "Topics": [
+        "Virtues of Ramadan",
+        "Description of what happens on first night of Ramadan",
+        "Gates of Paradise opening in Ramadan",
+        "Chaining of rebellious devils",
+        "Manumission from Hellfire during Ramadan"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنْ /26 أَبَانَ L9 /26 ، عَنْ /26 سَعِيدِ بْنِ جُبَيْرٍ L3307 /26 ، قَالَ : أَحْسَبُهُ ، /27 عَنِ /93 ابْنِ عُمَرَ L4967 /93 ، قَالَ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 إِذَا دَخَلَتْ أَوَّلُ لَيْلَةٍ مِنْ شَهْرِ رَمَضَانَ فُتِحَتْ أَبْوَابُ الْجِنَانِ فَلَمْ يُغْلَقْ مِنْهَا بَابٌ ، الشَّهْرَ كُلَّهُ ، وَغُلِّقَتْ أَبْوَابُ النَّارِ فَلَمْ يُفْتَحْ مِنْهَا بَابٌ ، الشَّهْرَ كُلَّهُ ، وَغُلَّتْ مَرَدَةُ الْجِنِّ ، ثُمَّ يَكُونُ لِلَّهِ عُتَقَاءُ يَعْتِقُهُمْ مِنَ النَّارِ ، عِنْدَ وَقْتِ كُلِّ فِطْرٍ ، عَبِيدٌ وَإِمَاءٌ \" /27 * \r\n$7191  7193 /2",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6610",
+      "grade": "Problematic"
+    },
+    {
+      "hadith_id": 54124,
+      "book_id": 60,
+      "narrator_id": 3443,
+      "english_translation": "Narrated by 'Utbah ibn Farqad: We used to mention the month of Ramadan. I heard the Messenger of Allah ﷺ saying: 'In it (Ramadan), the gates of Paradise are opened, and the gates of the Fire are closed, and the devils are chained, and a caller calls out every night: O seeker of good, come forward! O seeker of evil, desist!'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn 'Uyaynah",
+              "full_name": "Sufyan ibn 'Uyaynah ibn Abi 'Imran Maymun al-Hilali",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Minor tadlis in rare instances"]
+            },
+            {
+              "name": "'Ata' ibn al-Sa'ib",
+              "full_name": "'Ata' ibn al-Sa'ib ibn Malik al-Kufi",
+              "grade": "Thiqah before ikhtilat",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Ikhtilat (memory confusion) later in life"]
+            },
+            {
+              "name": "'Arfajah",
+              "full_name": "'Arfajah al-Thaqafi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Utbah ibn Farqad",
+              "full_name": "'Utbah ibn Farqad al-Sulami",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn 'Uyaynah uses 'an but is generally highly reliable",
+            "'Ata' ibn al-Sa'ib had ikhtilat - but Ibn 'Uyaynah heard from him early (before the ikhtilat)",
+            "Final narrator uses explicit 'sami'tu' (I heard) - strongest transmission term"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn 'Uyaynah -> 'Ata' ibn al-Sa'ib -> 'Arfajah -> 'Utbah ibn Farqad -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "'Ata' ibn al-Sa'ib experienced ikhtilat (memory confusion) later in life",
+          "impact": "However, Ibn 'Uyaynah is among the early narrators from 'Ata', so this narration is from before the ikhtilat and thus reliable"
+        },
+        {
+          "issue": "Ibn 'Uyaynah uses 'an transmission which could indicate tadlis",
+          "impact": "Ibn 'Uyaynah's tadlis is minimal and he's highly reliable, so this doesn't significantly impact the chain"
+        },
+        {
+          "issue": "Companion narrator uses explicit 'sami'tu' (I heard) from the Prophet ﷺ",
+          "impact": "This strengthens the chain significantly as it's the strongest transmission term"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Virtues of Ramadan",
+        "Gates of Paradise and Hell in Ramadan",
+        "Chaining of devils in Ramadan",
+        "Divine caller in Ramadan encouraging good and discouraging evil",
+        "Incident of companions discussing Ramadan"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ عُيَيْنَةَ L3443 /94 ، عَنْ /26 عَطَاءِ بْنِ السَّائِبِ L5629 /26 ، عَنْ /26 عَرْفَجَةَ L5587 /26 ، قَالَ : كُنَّا نَذْكُرُ شَهْرَ رَمَضَانَ ، /27 فَقَالَ /93 عُتْبَةُ بْنُ فَرْقَدٍ L5475 /93 : مَاذَا تَذْكُرُونَ ؟ قَالَ : كُنَّا نَذْكُرُ شَهْرَ رَمَضَانَ ، فَقَالَ : إِنِّي سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ : /20 \" تُفْتَحُ فِيهِ أَبْوَابُ الْجَنَّةِ ، وَتُغْلَقُ فِيهِ أَبْوَابُ النَّارِ ، وَتُغَلُّ فِيهِ الشَّيَاطِينُ ، وَيُنَادِي فِيهِ مِنَادٍ فِي كُلِّ لَيْلَةٍ ، يَا بَاغِيَ الْخَيْرِ ! هَلُمَّ ، وَيَا بَاغِيَ الشَّرِّ ! أَقْصِرْ \" /27 * \r\n@ 4 : 177 @)E1278",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6611",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54129,
+      "book_id": 60,
+      "narrator_id": 5223,
+      "english_translation": "Narrated: The people broke their fast in Ramadan on a cloudy day, then someone looked and behold, the sun (was still visible). 'Umar ibn al-Khattab said: The matter is easy, and we have striven (to determine the correct time). We shall make up one day.",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ibn Jurayj",
+              "full_name": "'Abd al-Malik ibn 'Abd al-'Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Mudallis (category 3)"]
+            },
+            {
+              "name": "Zayd ibn Aslam",
+              "full_name": "Zayd ibn Aslam al-'Adawi al-'Umari",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Aslam)",
+              "full_name": "Aslam mawla 'Umar ibn al-Khattab",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Umar ibn al-Khattab",
+              "full_name": "'Umar ibn al-Khattab ibn Nufayl al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn Jurayj uses 'an but Zayd ibn Aslam uses explicit 'haddathani' to him",
+            "This is a mawquf hadith (stops at companion level, not raised to Prophet)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> Zayd ibn Aslam -> Aslam -> 'Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj is known as a mudallis (category 3) and uses 'an",
+          "impact": "However, the next narrator (Zayd) uses explicit 'haddathani', so the 'an from Ibn Jurayj doesn't indicate tadlis here"
+        },
+        {
+          "issue": "This is a mawquf narration (statement of companion, not Prophet)",
+          "impact": "Not attributed to the Prophet ﷺ, so different evaluation criteria apply"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Breaking fast on cloudy day",
+        "Incident of people breaking fast when sun appeared from clouds",
+        "'Umar's ruling on making up the day",
+        "Ijtihad in determining prayer and fasting times",
+        "Incident during time of 'Umar ibn al-Khattab"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ L5223 /94 ، قَالَ : حَدَّثَنِي /26 زَيْدُ بْنُ أَسْلَمَ L3122 /26 ، عَنْ /26 أَبِيهِ L549 /26 ، قَالَ : /27 /20 أَفْطَرَ النَّاسُ فِي شَهْرِ رَمَضَانَ فِي يَوْمٍ مُغَيَّمٍ ، ثُمَّ نَظَرَ نَاظِرٌ فَإِذَا الشَّمْسُ ، فَقَالَ /93 عُمَرُ بْنُ الْخَطَّابِ L5913 /93 : الْخَطْبُ يَسِيرٌ ، وَقَدِ اجْتَهَدْنَا ، نَقْضِي يَوْمًا \" /27 * \r\n$7196  7198 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6616",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54130,
+      "book_id": 60,
+      "narrator_id": 5913,
+      "english_translation": "Narrated: We were with 'Umar ibn al-Khattab in Ramadan, and the sky was cloudy. We were brought sawiq (a type of drink/food) and the sun appeared. So 'Umar said: 'Allah has protected us' or 'Allah has made us independent from your evil. Indeed, we did not send you as a shepherd for the sun, but we sent you as a caller to prayer. O people! Whoever has broken his fast, then making up one day is easy, and whoever has not broken his fast, let him complete his fast.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Jabalah ibn Suhaym",
+              "full_name": "Jabalah ibn Suhaym ibn Ka'b ibn Salim",
+              "grade": "Saduq",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Some minor weakness noted"]
+            },
+            {
+              "name": "'Ali ibn Hanzalah",
+              "full_name": "'Ali ibn Hanzalah al-Tamimi",
+              "grade": "Maqbul",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Little known"]
+            },
+            {
+              "name": "His father (Hanzalah)",
+              "full_name": "Hanzalah",
+              "grade": "Majhul al-Hal",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Unknown status - unclear reliability"]
+            },
+            {
+              "name": "'Umar ibn al-Khattab",
+              "full_name": "'Umar ibn al-Khattab ibn Nufayl al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Hanzalah (the father) is Majhul al-Hal (unknown status)",
+            "Multiple ambiguous 'an transmissions",
+            "'Ali ibn Hanzalah is Maqbul (acceptable when supported)"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Jabalah ibn Suhaym -> 'Ali ibn Hanzalah -> Hanzalah -> 'Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Hanzalah (the father) is Majhul al-Hal - his reliability is undocumented",
+          "impact": "Creates weakness in the chain due to unknown narrator"
+        },
+        {
+          "issue": "'Ali ibn Hanzalah is Maqbul - acceptable only with supporting evidence",
+          "impact": "Not the strongest level of reliability"
+        },
+        {
+          "issue": "Multiple uses of 'an (عَنْ) throughout the chain",
+          "impact": "Creates ambiguity in transmission, though this is a mawquf report"
+        }
+      ],
+      "IISGrade": "Weak But Might Be Acceptable",
+      "Topics": [
+        "Incident of breaking fast on cloudy day during 'Umar's time",
+        "'Umar's response to muadhdhin about sun timing",
+        "'Umar's ruling on making up the fasting day",
+        "Incident showing 'Umar's wisdom and leadership",
+        "Fasting determination on cloudy days"
+      ],
+      "arabicText": "عَنْ /94 جَبَلَةَ بْنِ سُحَيْمٍ /94 ، عَنْ /26 عَلِيِّ بْنِ حَنْظَلَةَ /26 ، عَنْ /26 أَبِيهِ /26 ، قَالَ : /27 كُنَّا عِنْدَ عُمَرَ بْنِ الْخَطَّابِ فِي شَهْرِ رَمَضَانَ ، فَجِيءَ بِجَفْنَةٍ ، فَقَالَ الْمُؤَذِّنُ : يَا هَؤُلاءِ ! إِنَّ الشَّمْسَ طَالِعَةٌ ، فَقَالَ /93 عُمَرُ L5913 /93 أَعَاذَنَا اللَّهُ ، أَوْ أَغْنَانَا اللَّهُ مِنْ شَرِّكِ ، إِنَّا لَمْ نُرْسِلْكَ رَاعِيًا لِلشَّمْسِ ، وَلَكِنَّا أَرْسَلْنَاكَ دَاعِيًا لِلصَّلاةِ ، يَا هَؤُلاءِ ! /20 مَنْ كَانَ أَفْطَرَ فَإِنَّ قَضَاءَ يَوْمٍ يَسِيرٌ ، وَمَنْ لَمْ يَكُنْ أَفْطَرَ فَلْيُتِمَّ صِيَامَهُ \" /27 * \r\n$7197  7199 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6617",
+      "grade": "Weak But Might Be Acceptable"
+    },
+    {
+      "hadith_id": 54131,
+      "book_id": 60,
+      "narrator_id": 5913,
+      "english_translation": "Narrated: We were with 'Umar ibn al-Khattab in Ramadan, and the sky was cloudy. Sawiq was brought and the sun appeared. He said: 'Whoever has broken his fast, let him make up a day in its place.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Al-Thawri",
+              "full_name": "Sufyan ibn Sa'id ibn Masruq al-Thawri",
+              "grade": "Thiqah Thabt Hafiz",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Ziyad ibn 'Ilaqah",
+              "full_name": "Ziyad ibn 'Ilaqah al-Muharibi al-Kufi",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "حَدَّثَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Bishr ibn Qays",
+              "full_name": "Bishr ibn Qays al-Kindi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Umar ibn al-Khattab",
+              "full_name": "'Umar ibn al-Khattab ibn Nufayl al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": []
+        }
+      ],
+      "plainChains": [
+        "Al-Thawri -> Ziyad ibn 'Ilaqah -> Bishr ibn Qays -> 'Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "All narrators are Thiqah (trustworthy) or better",
+          "impact": "Chain has strong narrator reliability"
+        },
+        {
+          "issue": "Uses mix of explicit (haddathani) and ambiguous ('an) terms",
+          "impact": "The explicit term from Ziyad provides strength, but this is acceptable for reliable narrators"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of breaking fast on cloudy day during 'Umar's time",
+        "'Umar's ruling on making up fasting day",
+        "Fasting determination on cloudy days"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ /94 ، قَالَ : حَدَّثَنِي /26 زِيَادُ بْنُ عِلاقَةَ /26 ، عَنْ /26 بِشْرِ بْنِ قَيْسٍ /26 ، قَالَ : /27 كُنَّا عِنْدَ /93 عُمَرَ بْنِ الْخَطَّابِ L5913 /93 \" فِي رَمَضَانَ ، وَالسَّمَاءُ مُغَيَّمَةٌ ، فَأُتِيَ بِسَوِيقٍ وَطَلَعَتِ الشَّمْسُ ، فَقَالَ : /20 مَنْ أَفْطَرَ فَلْيَقْضِ يَوْمًا مَكَانَهُ \" /27 ، قَالَ عَبْدُ الرَّزَّاقِ : وَأَخْبَرَنَا صَاحِبٌ لَنَا ، عَنِ /94 الْحَجَّاجِ /94 ، عَنْ    @ 4 : 179 @   /26 زِيَادِ بْنِ عِلاقَةَ /26 ، عَنْ /26 بِشْرٍ /26 نَحْوَهُ ، إِلا أَنَّهُ قَالَ : قَالَ عُمَرُ : \" أَتِمُّوا يَوْمَكُمْ هَذَا ، ثُمَّ اقْضُوَا يَوْمًا \" * \r\n$7198  7200 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6618",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54132,
+      "book_id": 60,
+      "narrator_id": 5913,
+      "english_translation": "Narrated by Zayd ibn Wahb: The people broke their fast in the time of 'Umar. I saw large bowls brought out from the house of Hafsah, and they drank in Ramadan. Then the sun appeared from behind clouds. This seemed to distress the people, and they said: 'Shall we make up this day?' 'Umar said: 'Why? By Allah, we did not incline towards sin deliberately.'",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "أَخْبَرَنَا",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-A'mash",
+              "full_name": "Sulayman ibn Mihran al-Asadi al-Kufi",
+              "grade": "Thiqah Thabt",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Mudallis (category 2) but highly reliable - acceptable with 'an"]
+            },
+            {
+              "name": "Zayd ibn Wahb",
+              "full_name": "Zayd ibn Wahb al-Juhani",
+              "grade": "Thiqah",
+              "generation": "First Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Umar ibn al-Khattab",
+              "full_name": "'Umar ibn al-Khattab ibn Nufayl al-Qurashi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "قَالَ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Al-A'mash uses 'an and is mudallis, but category 2 mudallis are generally acceptable"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-A'mash -> Zayd ibn Wahb -> 'Umar ibn al-Khattab"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-A'mash is mudallis (category 2) and uses 'an",
+          "impact": "However, category 2 mudallisun like al-A'mash are generally accepted even with 'an due to their high reliability"
+        },
+        {
+          "issue": "Zayd ibn Wahb is a reliable tabi'i who met 'Umar",
+          "impact": "Direct witnessing strengthens the report"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Incident of breaking fast on cloudy day during 'Umar's time",
+        "'Umar's statement about unintentional error",
+        "Ijtihad and mistakes in religious determinations",
+        "Incident involving Hafsah's household",
+        "'Umar's view on not making up the day"
+      ],
+      "arabicText": "أَخْبَرَنَا /94 مَعْمَرٌ /94 ، عَنِ /26 الأَعْمَشِ /26 ، عَنْ /26 زَيْدِ بْنِ وَهْبٍ /26 ، قَالَ : /27 /20 أَفْطَرَ النَّاسُ فِي زَمَانِ عُمَرَ ، قَالَ : فَرَأَيْتُ عِسَاسًا أُخْرِجَتْ مِنْ بَيْتِ حَفْصَةَ فَشَرِبُوَا فِي رَمَضَانَ ، ثُمَّ طَلَعَتِ الشَّمْسُ مِنْ سَحَابٍ ، فَكَأَنَّ ذَلِكَ شَقَّ عَلَى النَّاسِ ، وَقَالُوا : نَقْضِي هَذَا الْيَوْمَ ؟ فَقَالَ /93 عُمَرُ L5913 /93 \" وَلِمَ ؟ فَوَاللَّهِ مَا تَجَنَّفْنَا لإِثْمٍ \" /27 ، وَفِي حَدِيثِ عُمَرَ الآخَرَ : أَمَرَ بِقَضَائِهِ * \r\n\u001bE1279",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6619",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54134,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Narrated: Abu Bakr ibn 'Abd al-Rahman ibn al-Harith ibn Hisham said: I heard Abu Hurayrah saying: The Messenger of Allah ﷺ said: 'Whoever is reached by the dawn while in state of janabah (ritual impurity), then there is no fast for him.' So my father and I went and entered upon 'Aishah and Umm Salamah, and we asked them about that. They both informed us that the Messenger of Allah ﷺ used to wake up in a state of janabah not from a wet dream, then he would fast. Then we entered upon Marwan and informed him of their statement and the statement of Abu Hurayrah. He said: 'I adjure you both to go to Abu Hurayrah and inform him of their statement.' We met Abu Hurayrah at the door of the masjid. My father said to him: 'The Amir has adjured us in a matter to mention it to you.' He said: 'What is it?' My father narrated to him. Abu Hurayrah's face changed color, then he said: 'Thus al-Fadl ibn al-'Abbas narrated to me, and he knows better.' Al-Zuhri said: 'So he transferred the hadith to someone else.'",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ma'mar",
+              "full_name": "Ma'mar ibn Rashid al-Azdi al-Basri",
+              "grade": "Thiqah Thabt",
+              "generation": "Fifth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Al-Zuhri",
+              "full_name": "Muhammad ibn Muslim ibn 'Ubaydullah ibn Shihab al-Zuhri",
+              "grade": "Thiqah Thabt",
+              "generation": "Third Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Mudallis (category 2-3) but extremely reliable"]
+            },
+            {
+              "name": "Abu Bakr ibn 'Abd al-Rahman",
+              "full_name": "Abu Bakr ibn 'Abd al-Rahman ibn al-Harith ibn Hisham al-Makhzumi",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "'Aishah",
+              "full_name": "'Aishah bint Abi Bakr al-Siddiq",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Indirect report",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Umm Salamah",
+              "full_name": "Hind bint Abi Umayyah al-Makhzumiyyah",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "Indirect report",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Complex narrative with Abu Hurayrah initially reporting one thing, then retracting",
+            "Final narration goes to 'Aishah and Umm Salamah who correct Abu Hurayrah",
+            "Abu Hurayrah acknowledges he heard from al-Fadl ibn al-'Abbas, not directly"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ma'mar -> Al-Zuhri -> Abu Bakr ibn 'Abd al-Rahman -> 'Aishah & Umm Salamah -> Prophet Muhammad ﷺ"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Al-Zuhri uses 'an but is highly reliable",
+          "impact": "Generally acceptable from al-Zuhri"
+        },
+        {
+          "issue": "Complex narrative involving correction of Abu Hurayrah's initial report",
+          "impact": "Shows scholarly caution and verification process"
+        },
+        {
+          "issue": "Abu Hurayrah retracted his initial position after being corrected",
+          "impact": "Actually strengthens the final narration from 'Aishah and Umm Salamah"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Fasting while in state of Janabah",
+        "Prophet's ﷺ practice regarding fasting and ritual purity",
+        "Incident of Abu Hurayrah's narration being corrected by 'Aishah and Umm Salamah",
+        "Scholarly verification of narrations",
+        "Difference between janabah from intercourse vs wet dream for fasting"
+      ],
+      "arabicText": "$7199  7201 /2 /141 عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنِ /26 الزُّهْرِيِّ L7272 /26 ، عَنْ /26 أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامٍ L118 /26 ، قَالَ : سَمِعْتُ أَبَا هُرَيْرَةَ ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : \" مَنْ أَدْرَكَهُ الصُّبْحُ جُنُبًا ، فَلا صَوْمَ لَهُ ، قَالَ : فَانْطَلَقْتُ أَنَا وَأَبِي ، /27 فَدَخَلْنَا عَلَى /93 عَائِشَةَ L4049 /93 /15 /93 وَأُمِّ سَلَمَةَ L8101 /93 /15 فَسَأَلْنَاهُمَا عَنْ ذَلِكَ ، فَأَخْبَرَتَانَا أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ /20 يُصْبِحُ جُنُبًا مِنْ غَيْرِ حُلْمٍ ، ثُمَّ يَصُومُ \" /27 ، قَالَ : ثُمَّ دَخَلْنَا عَلَى مَرْوَانَ ، فَأَخْبَرْنَاهُ بِقَوْلِهِمَا ، وَقَوْلِ أَبِي هُرَيْرَةَ ، فَقَالَ :    @ 4 : 180 @   عَزَّمْتُ عَلَيْكُمَا لِمَا ذَهَبْتُمَا إِلَى أَبِي هُرَيْرَةَ ، فَأَخْبَرْتُمَاهُ بِقَوْلِهِمَا ، قَالَ : فَلَقِيَنَا أَبُو هُرَيْرَةَ عِنْدَ بَابِ الْمَسْجِدِ ، فَقَالَ لَهُ أَبِي : إِنَّ الأَمِيرَ عَزَّمَ عَلَيْنَا فِي أَمْرٍ لِنَذْكُرَهُ لَكَ ، قَالَ : وَمَا هُوَ ؟ قَالَ : فَحَدَّثَهُ أَبِي ، قَالَ : فَتَلَوَّنَ وَجْهُ أَبِي هُرَيْرَةَ ، ثُمَّ قَالَ : هَكَذَا ، حَدَّثَنَا الْفَضْلُ بْنُ الْعَبَّاسِ ، وَهُوَ أَعْلَمُ ، قَالَ الزُّهْرِيُّ : فَحَوَّلَ الْحَدِيثَ إِلَى غَيْرِهِ * \r\n$7200  7202 /2 /141 عَنِ /94 ابْنِ جُرَيْجٍ L5223 /94 ، قَالَ : حَدَّثَنِي /26 ابْنُ شِهَابٍ L7272 /26 ، عَنْ /26 أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ L118 /26 ، عَنْ /26 أَبِيهِ L4304 /26 ، /27 عَنْ /93 أُمِّ سَلَمَةَ L8101 /93 ، /15 /93 وَعَائِشَةَ L4049 /93 /15 أَنَّ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ كَانَ /20 يُدْرِكُهُ الْفَجْرُ ، وَهُوَ جُنُبٌ مِنْ أَهْلِهِ ، ثُمَّ يَغْتَسِلُ ، فَيَصُومُ \" /27 * \r\n$7201  7203 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6621",
+      "grade": "Sound"
+    },
+    {
+      "hadith_id": 54135,
+      "book_id": 60,
+      "narrator_id": 4396,
+      "english_translation": "Narrated: Ibn Jurayj said: 'Abd al-Malik ibn Abi Bakr ibn 'Abd al-Rahman informed me, from his father, who said: I heard Abu Hurayrah saying in his storytelling: 'Whoever is reached by dawn while in a state of janabah, then let him break his fast.' [The narrator continues discussing how this was corrected by reference to what the Prophet ﷺ actually said.]",
+      "chains": [
+        {
+          "type": "marfu'",
+          "narrators": [
+            {
+              "name": "Ibn Jurayj",
+              "full_name": "'Abd al-Malik ibn 'Abd al-'Aziz ibn Jurayj al-Makki",
+              "grade": "Thiqah",
+              "generation": "Fourth Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": ["Mudallis (category 3)"]
+            },
+            {
+              "name": "'Abd al-Malik ibn Abi Bakr",
+              "full_name": "'Abd al-Malik ibn Abi Bakr ibn 'Abd al-Rahman ibn al-Harith",
+              "grade": "Thiqah",
+              "generation": "Third Generation",
+              "transmissionTerm": "أَخْبَرَنِي",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "His father (Abu Bakr)",
+              "full_name": "Abu Bakr ibn 'Abd al-Rahman ibn al-Harith ibn Hisham",
+              "grade": "Thiqah",
+              "generation": "Second Generation",
+              "transmissionTerm": "عَنْ",
+              "reliabilityIssues": []
+            },
+            {
+              "name": "Abu Hurayrah",
+              "full_name": "'Abd al-Rahman ibn Sakhr al-Dawsi",
+              "grade": "Companion",
+              "generation": "Companion",
+              "transmissionTerm": "سَمِعْتُ",
+              "reliabilityIssues": []
+            }
+          ],
+          "chainIssues": [
+            "Ibn Jurayj uses 'an but receives explicit 'akhbarani' from next narrator",
+            "Reports Abu Hurayrah's initial (later retracted) position"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Ibn Jurayj -> 'Abd al-Malik ibn Abi Bakr -> Abu Bakr ibn 'Abd al-Rahman -> Abu Hurayrah"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Ibn Jurayj is mudallis (category 3) and uses 'an",
+          "impact": "However, next narrator uses explicit 'akhbarani', so no tadlis issue here"
+        },
+        {
+          "issue": "This narrates Abu Hurayrah's initial position which he later retracted",
+          "impact": "Historical value but not the final position - superseded by corrected narration"
+        }
+      ],
+      "IISGrade": "Sound",
+      "Topics": [
+        "Initial misunderstanding about fasting while in janabah",
+        "Abu Hurayrah's initial position (later retracted)",
+        "Scholarly process of verification and correction"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ جُرَيْجٍ /94 ، قَالَ : أَخْبَرَنِي /26 عَبْدُ الْمَلِكِ بْنُ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ /26 ، عَنْ /26 أَبِيهِ /26 ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ فِي قَصَصِهِ /20 مَنْ أَدْرَكَهُ الْفَجْرُ جُنُبًا فَلا صَوْمَ لَهُ \" /27 ، ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ مَعْمَرٍ ، عَنِ الزُّهْرِيِّ * \r\n\u001dE1280 \r\n$7202  7204 /3",
+      "collection": "Musannaf 'Abd al-Razzaq",
+      "reference_number": "6622",
+      "grade": "Sound"
+    }
+  ]
+}

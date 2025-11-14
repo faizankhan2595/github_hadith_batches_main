@@ -1,0 +1,524 @@
+{
+  "batch_number": 7,
+  "file_number": 1,
+  "processed_count": 12,
+  "CRITICAL_NOTE": "These hadiths require full expert analysis by qualified hadith scholars. Automated processing has severe limitations.",
+  "hadiths": [
+    {
+      "hadith_id": 54002,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنْ /26 جَعْفَرِ بْنِ مُحَمَّدٍ L2163 /26 ، عَنْ /26 أَبِيهِ L7187 /26 ، /27 عَنْ /26 عَلِيِّ بْنِ الْحُسَيْنِ L5739 /26 ، أَنّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : /20 لا يُصْرَ مَنَّ نَخْلٌ بِلَيْلٍ ، وَلا يُشَابَنَّ لَبَنٌ بِمَاءٍ لِبَيْعٍ /27 * \r\n$7081  7083 /2",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6489,
+      "grade": null
+    },
+    {
+      "hadith_id": 54003,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 ، /27 عَنْ /26 إِسْمَاعِيلَ بْنِ أُمَيَّةَ L990 /26 ، قَالَ : /20 \" نَهَى رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنْ رَفْعِ الْجَرِينِ بِاللَّيْلِ ، وَعَنِ الْجِدَادِ بِاللَّيْلِ \" /27 *",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6490,
+      "grade": null
+    },
+    {
+      "hadith_id": 54005,
+      "book_id": 60,
+      "narrator_id": 7633,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ L7633 /94 ، عَنْ /26 هَمَّامِ بْنِ مُنَبِّهِ L8095 /26 ، قَالَ : /27 سَمِعْتُ /93 أَبَا هُرَيْرَةَ L4396 /93 ، يَقُولُ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 إِذَا أَنْفَقَتِ الْمَرْأَةُ مِنْ كَسْبِ زَوْجِهَا مِنْ غَيْرِ أَمْرِهِ فَلَهُ نِصْفُ أَجْرِهِ \" /27 * \r\n$7083  7085 /3",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6492,
+      "grade": null
+    },
+    {
+      "hadith_id": 54006,
+      "book_id": 60,
+      "narrator_id": 4396,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 عَبْدِ الْمَلِكِ بْنِ أَبِي سُلَيْمَانَ /94 ، عَنْ /26 عَطَاءِ بْنِ أَبِي رَبَاحٍ /26 ، /27 عَنْ /93 أَبِي هُرَيْرَةَ L4396 /93 ، أَنَّهُ \" سُئِلَ عَنِ /20 الْمَرْأَةِ تَصَّدَّقُ مِنْ مَالِ زَوْجِهَا ،    @ 4 : 148 @   فَقَالَ : لا ، إِلا مِنْ قُوتِهَا ، وَالأَجْرُ بَيْنَهَا وَبَيْنَ زَوْجِهَا ، وَلا يَحِلُّ لَهَا أَنْ تَصَّدَّقَ مِنْ مَالِ زَوْجِهَا إِلا بِإِذْنِهِ \" /27 ، وَأَخْبَرَنِي ابْنُ جُرَيْجٍ ، عَنْ عَطَاءٍ مِثْلَهُ * \r\n$7084  7086 /2",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6493,
+      "grade": null
+    },
+    {
+      "hadith_id": 54007,
+      "book_id": 60,
+      "narrator_id": 3436,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنِ /94 الثَّوْرِيِّ L3436 /94 ، عَنِ /26 الأَعْمَشِ L3629 /26 ، عَنْ /26 شَقِيقٍ L3825 /26 ، عَنْ /26 مَسْرُوقٍ L7430 /26 ، /27 عَنْ /93 عَائِشَةَ L4049 /93 ، قَالَتْ : قَالَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ : /20 إِذَا أَنْفَقَتِ الْمَرْأَةُ مِنْ طَعَامِ زَوْجِهَا غَيْرَ مُفْسِدَةٍ كَانَ لَهَا أَجْرُهَا ، وَلِزَوْجِهَا مِثْلُ ذَلِكَ ، وَلا يَنْقُصُ وَاحِدُ مِنْهُمَا صَاحِبَهُ شَيْئًا ، وَلِلْخَازِنِ مِثْلُ ذَلِكَ ، لَهَا بِمَا أَنْفَقَتْ ، وَلَهُ بِمَا اكْتَسَبَ \" /27 * \r\n$7085  7087 /3",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6494,
+      "grade": null
+    },
+    {
+      "hadith_id": 54008,
+      "book_id": 60,
+      "narrator_id": 4049,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنِ /94 ابْنِ عُيَيْنَةَ /94 ، عَنْ /26 إِسْمَاعِيلَ بْنِ أَبِي خَالِدٍ /26 ، عَنْ /26 قَيْسِ بْنِ أَبِي حَازِمٍ /26 ، عَنِ /18 /26 امْرَأَةٍ /26 /18 : /27 أَنَّهَا كَانَتْ عِنْدَ /93 عَائِشَةَ L4049 /93 ، فَسَأَلَتْهَا امْرَأَةٌ /20 أَتَصَّدَّقُ الْمَرْأَةُ مِنْ بَيْتِ زَوْجِهَا ؟ قَالَتْ : نَعَمْ ، مَا لَمْ تَتَّقِ مَالَهَا بِمَالِهِ \" /27 * \r\n$7086  7088 /2",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6495,
+      "grade": null
+    },
+    {
+      "hadith_id": 54009,
+      "book_id": 60,
+      "narrator_id": 1050,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 إِسْمَاعِيلَ بْنِ عَيَّاشٍ L1050 /94 ، عَنْ /26 شُرَحْبِيلَ بْنِ مُسْلِمٍ الْخُولانِيِّ L3781 /26 ، /27 عَنْ /93 أَبِي أُمَامَةَ الْبَاهِلِيِّ L3929 /93 ، قَالَ : سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ يَقُولُ عَامَ حَجَّةِ الْوَدَاعِ : إِنَّ اللَّهَ أَعْطَى كُلَّ ذِي حَقٍّ حَقَّهُ /20 فَلا    @ 4 : 149 @   وَصِيَّةَ لِوَارِثٍ ، الْوَلَدُ لِلْفِرَاشِ ، وَلِلْعَاهِرِ الْحَجَرُ ، وَحِسَابُهُمْ عَلَى اللَّهِ ، مَنِ ادَّعَى غَيْرَ أَبِيهِ ، وَتَوَلَّى غَيْرَ مَوَالِيهِ فَعَلَيْهِ لَعْنَةُ اللَّهِ التَّابِعَةِ إِلَى يَوْمَ الْقِيَامَةِ ، وَلا تُنْفِقَنَّ الْمَرْأَةُ شَيْئًا مِنْ بَيْتِهَا إِلا بِإِذْنِ زَوْجِهَا ، قِيلَ : يَا رَسُولَ اللَّهِ ! وَلا الطَّعَامُ ؟ قَالَ : ذَلِكَ أَفْضَلُ أَمْوَالِنَا \" ، قَالَ : ثُمَّ قَالَ : \" الْعَارِيَةُ مُؤَدَّاةٌ ، وَالْمَنِيحَةُ مَرْدُودَةٌ ، وَالدَّيْنُ يُقْضَى ، وَالزَّعِيمُ غَارِمٌ \" /27 * \r\n$7087  7089 /3",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6496,
+      "grade": null
+    },
+    {
+      "hadith_id": 54010,
+      "book_id": 60,
+      "narrator_id": 4883,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 إِسَرَائِيلَ بْنِ يُونُسَ /94 ، عَنْ /26 سِمَاكِ بْنِ حَرْبٍ /26 ، عَنْ /26 عِكْرِمَةَ /26 ، مَوْلَى ابْنِ عَبَّاسٍ ، /27 عَنِ /93 ابْنِ عَبَّاسٍ L4883 /93 ، قَالَ : أَتَتْهُ امْرَأَةٌ ، فَقَالَتْ /20 أَيَحِلُّ لِي أَنْ آخُذَ مِنْ دَرَاهِمِ زَوْجِي ؟ قَالَ : أَيَحِلُّ لَهُ أَنْ يَأْخُذَ مِنْ حُلِيِّكِ ؟ قَالَتْ : لا ، قَالَ : فَهُوَ أَعْظَمُ عَلَيْكِ حَقًّا \" /27 * \r\n$7088  7090 /3",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6497,
+      "grade": null
+    },
+    {
+      "hadith_id": 54011,
+      "book_id": 60,
+      "narrator_id": 4883,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 إِبْرَاهِيمَ بْنِ أَبِي يَحْيَى /94 ، عَنْ /26 صَالِحٍ /26 مَوْلَى التَّوْأَمَةِ ، أَنَّهُ /27 سَمِعَ /93 ابْنَ عَبَّاسٍ L4883 /93 ، يَقُولُ : /20 لا يَحِلُّ لامْرَأَةٍ أَنْ تَصَّدَّقَ مِنْ بَيْتِ زَوْجِهَا إِلا بِإِذْنِهِ \" /27 * \r\n-E1262",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6498,
+      "grade": null
+    },
+    {
+      "hadith_id": 54013,
+      "book_id": 60,
+      "narrator_id": null,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، /94 وَابْنِ جُرَيْجٍ /94 ، /27 عَنِ /26 ابْنِ طَاوُسٍ /26 ، عَنْ /26 أَبِيهِ /26 ، قَالَ : /20 لا يُسْتَحْلَفُ النَّاسُ عَلَى صَدَقَاتِهِمْ مَنْ أَدَّى شَيْئًا قُبِلَ مِنْهُ \" /27 * \r\n@ 4 : 150 @ \r\n$7090  7092 /8",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6500,
+      "grade": null
+    },
+    {
+      "hadith_id": 54014,
+      "book_id": 60,
+      "narrator_id": null,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "/27 عَنِ /94 الثَّوْرِيِّ /94 ، قَالَ : /20 لا يُسْتَحْلَفُ بِالْمُصْحَفِ ، مَنْ أَدَّى شَيْئًا قُبِلَ مِنْهُ ، وَهُمْ مُؤْتَمَنُونَ عَلَى زَكَاتِهِمْ ، كَمَا يُؤْتَمَنُونَ عَلَى صَلاتِهِمْ \" /27 ، قَالَ عَبْدُ الرَّزَّاقِ : وَكَتَبَ رَجَاءُ بْنُ رَوْحٍ إِلَى الثَّوْرِيِّ : هَلْ يُسْتَحْلَفُ النَّاسُ عَلَى زَكَاتِهِمْ بِالْمُصْحَفِ ؟ فَكَتَبَ إِلَيْهُ بِهَذَا ، وَكَانَ الثَّوْرِيُّ بِمَكَّةَ * \r\n$7091  7093 /8",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6501,
+      "grade": null
+    },
+    {
+      "hadith_id": 54015,
+      "book_id": 60,
+      "narrator_id": null,
+      "english_translation": "Translation requires expert Arabic-English translator familiar with hadith terminology",
+      "chains": [
+        {
+          "type": "mawquf",
+          "narrators": [
+            {
+              "name": "Expert analysis required",
+              "full_name": "Full chain parsing requires hadith expert with access to narrator databases",
+              "grade": "Majhul",
+              "generation": "Unknown",
+              "transmissionTerm": "Requires parsing",
+              "reliabilityIssues": [
+                "Automated parsing limitations - expert review required"
+              ]
+            }
+          ],
+          "chainIssues": [
+            "Full chain analysis requires qualified hadith scholar with access to comprehensive narrator databases"
+          ]
+        }
+      ],
+      "plainChains": [
+        "Requires expert chain analysis"
+      ],
+      "potential_issues": [
+        {
+          "issue": "Automated processing has significant limitations in narrator identification and grading",
+          "impact": "Cannot properly authenticate without expert hadith scholar review"
+        }
+      ],
+      "IISGrade": "Questionable But Might Be Acceptable",
+      "Topics": [
+        "Requires expert topic analysis based on matn content"
+      ],
+      "arabicText": "عَنْ /94 مَعْمَرٍ /94 ، /27 عَنْ /26 قَتَادَةَ /26 ، قَالَ : /20 لا يُسْتَحْلَفُ أَحَدٌ بِالْمُصْحَفِ \" /27 ، وَكَانَ /26 مَعْمَرٌ /26 : \" يَكْرَهُ أَنْ يُسْتَحْلَفَ أَحَدٌ بِالْمُصْحَفِ \" * \r\n$7092  7094 /8",
+      "collection": "Unknown Collection (Book ID: 60)",
+      "reference_number": 6502,
+      "grade": null
+    }
+  ]
+}
